@@ -73,12 +73,3 @@ if __name__ == '__main__':
     with open(INFO_FILE, "w", encoding="utf-8") as f:
         f.write(info_string)
     save_index('index.json')
-
-    # page = requests.get('https://ru.wikipedia.org/wiki/Википедия:Список_хороших_статей/2006')
-    # data = page.text
-    # soup = BeautifulSoup(data, features="lxml")
-    # links = []
-    # for row in soup.find('table', { 'class' : 'standard' }).find_all('tr'):
-    #     href = row.find_next('a').get('href')
-    #     links.append(f'{BASE_URL}{href}')
-    # print(links)
