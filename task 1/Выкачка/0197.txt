@@ -1,0 +1,830 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="ru">
+<head>
+<meta charset="utf-8"/>
+<title>Эпсилон Эридана — Википедия</title>
+
+
+
+
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+
+
+<meta content="MediaWiki 1.42.0-wmf.18" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="max-image-preview:standard" name="robots"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/a/ac/Eridanus_epsilon_location.png" property="og:image"/>
+<meta content="1200" property="og:image:width"/>
+<meta content="1510" property="og:image:height"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/a/ac/Eridanus_epsilon_location.png" property="og:image"/>
+<meta content="800" property="og:image:width"/>
+<meta content="1007" property="og:image:height"/>
+<meta content="640" property="og:image:width"/>
+<meta content="805" property="og:image:height"/>
+<meta content="width=1000" name="viewport"/>
+<meta content="Эпсилон Эридана — Википедия" property="og:title"/>
+<meta content="website" property="og:type"/>
+
+
+
+
+
+
+
+
+
+
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Эпсилон_Эридана rootpage-Эпсилон_Эридана skin-vector action-view"><div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators">
+<div class="mw-indicator" id="mw-indicator-0-coord"><div class="mw-parser-output"><span typeof="mw:File"><a href="/wiki/%D0%92%D1%82%D0%BE%D1%80%D0%B0%D1%8F_%D1%8D%D0%BA%D0%B2%D0%B0%D1%82%D0%BE%D1%80%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D0%BA%D0%BE%D0%BE%D1%80%D0%B4%D0%B8%D0%BD%D0%B0%D1%82" title="Экваториальные координаты"><img alt="Экваториальные координаты" class="mw-file-element" data-file-height="128" data-file-width="128" decoding="async" height="20" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Jupiter_and_moon.png/20px-Jupiter_and_moon.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Jupiter_and_moon.png/30px-Jupiter_and_moon.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Jupiter_and_moon.png/40px-Jupiter_and_moon.png 2x" width="20"/></a></span> <span class="coordinates plainlinks nourlexpansion"><a class="external text" href="http://www.wikisky.org?zoom=9&amp;locale=ru&amp;ra=03+32+55,8&amp;de=-09+27+29,7&amp;show_box=1" rel="nofollow">03<sup>ч</sup> 32<sup>м</sup> 55,80<sup>с</sup> −09° 27′ 29,70″</a></span></div></div>
+</div>
+<h1 class="firstHeading mw-first-heading" id="firstHeading"><span class="mw-page-title-main">Эпсилон Эридана</span></h1>
+<div class="vector-body" id="bodyContent">
+<div class="noprint" id="siteSub">Материал из Википедии — свободной энциклопедии</div>
+<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+<div id="contentSub2"></div>
+<div id="jump-to-nav"></div>
+<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+<div class="mw-body-content" id="mw-content-text"><div class="mw-content-ltr mw-parser-output" dir="ltr" lang="ru">
+<table class="infobox infobox-8581be8b200a9d77" data-name="Звезда" style=""><tbody><tr><th class="infobox-above" colspan="2" scope="colgroup" style="">ε Эридана</th></tr><tr><td class="" colspan="2" style="text-align:center;"><a href="/wiki/%D0%97%D0%B2%D0%B5%D0%B7%D0%B4%D0%B0" title="Звезда">Звезда</a></td></tr><tr><td class="infobox-image" colspan="2" style=""> <span class="no-wikidata" data-wikidata-property-id="P18"><span typeof="mw:File/Frameless"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Eridanus_epsilon_location.png" title="Местоположение Эпсилон Эридана"><img alt="Местоположение Эпсилон Эридана" class="mw-file-element" data-file-height="502" data-file-width="399" decoding="async" height="377" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Eridanus_epsilon_location.png/300px-Eridanus_epsilon_location.png" srcset="//upload.wikimedia.org/wikipedia/commons/a/ac/Eridanus_epsilon_location.png 1.5x" width="300"/></a></span><br/><span class="media-caption" data-wikidata-qualifier-id="P2096" style="display:block">Местоположение Эпсилон Эридана</span></span> </td></tr><tr><td class="infobox-image" colspan="2" style=""> <div class="mw-message-box mw-message-box-error">Графики временно недоступны из-за технических проблем.</div>
+<div style="text-align:center;"></div> </td></tr>
+<tr>
+<th class="infobox-header" colspan="2" scope="colgroup" style="">Наблюдательные данные<br/><small>(<a href="/wiki/%D0%AD%D0%BF%D0%BE%D1%85%D0%B0_(%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%8F)" title="Эпоха (астрономия)">Эпоха</a> <span class="no-wikidata" data-wikidata-property-id="P6259"><a href="/wiki/J2000.0" title="J2000.0">J2000.0</a></span>)</small></th>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Тип</th>
+<td class="plainlist">
+Одиночная звезда</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row"><a href="/wiki/%D0%9F%D1%80%D1%8F%D0%BC%D0%BE%D0%B5_%D0%B2%D0%BE%D1%81%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Прямое восхождение">Прямое восхождение</a></th>
+<td class="plainlist">
+<span class="coordinates plainlinks nourlexpansion"><span class="no-wikidata" data-wikidata-property-id="P6257"><a class="external text" href="http://www.wikisky.org?zoom=9&amp;locale=ru&amp;ra=03+32+55,8&amp;de=-09+27+29,7&amp;show_box=1" rel="nofollow">03<sup>ч</sup> 32<sup>м</sup> 55,80<sup>с</sup></a></span></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row"><a href="/wiki/%D0%A1%D0%BA%D0%BB%D0%BE%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_(%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%8F)" title="Склонение (астрономия)">Склонение</a></th>
+<td class="plainlist">
+<span class="coordinates plainlinks nourlexpansion"><span class="no-wikidata" data-wikidata-property-id="P6258"><a class="external text" href="http://www.wikisky.org?zoom=9&amp;locale=ru&amp;ra=03+32+55,8&amp;de=-09+27+29,7&amp;show_box=1" rel="nofollow">−09° 27′ 29,70″</a></span></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Расстояние</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P2583">10,5 <a href="/wiki/%D0%A1%D0%B2%D0%B5%D1%82%D0%BE%D0%B2%D0%BE%D0%B9_%D0%B3%D0%BE%D0%B4" title="Световой год">св. года</a> (3,22 <a href="/wiki/%D0%9F%D0%B0%D1%80%D1%81%D0%B5%D0%BA" title="Парсек">пк</a>)</span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row"><a href="/wiki/%D0%92%D0%B8%D0%B4%D0%B8%D0%BC%D0%B0%D1%8F_%D0%B7%D0%B2%D1%91%D0%B7%D0%B4%D0%BD%D0%B0%D1%8F_%D0%B2%D0%B5%D0%BB%D0%B8%D1%87%D0%B8%D0%BD%D0%B0" title="Видимая звёздная величина">Видимая звёздная величина</a> <small><span class="ts-math">(<i>V</i>)</span></small></th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P1215">3,73</span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row"><a href="/wiki/%D0%A1%D0%BE%D0%B7%D0%B2%D0%B5%D0%B7%D0%B4%D0%B8%D0%B5" title="Созвездие">Созвездие</a></th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P59"><a href="/wiki/%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD_(%D1%81%D0%BE%D0%B7%D0%B2%D0%B5%D0%B7%D0%B4%D0%B8%D0%B5)" title="Эридан (созвездие)">Эридан</a></span></td>
+</tr>
+<tr>
+<th class="infobox-header" colspan="2" scope="colgroup" style=""><a href="/wiki/%D0%90%D1%81%D1%82%D1%80%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%8F" title="Астрометрия">Астрометрия</a></th>
+</tr>
+<tr>
+<th class="plainlist" scope="row"><a href="/wiki/%D0%A0%D0%B0%D0%B4%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%81%D0%BA%D0%BE%D1%80%D0%BE%D1%81%D1%82%D1%8C" title="Радиальная скорость">Лучевая скорость</a> <small><span class="ts-math">(<i>R<sub>v</sub></i>)</span></small></th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P2216">15<span class="nowrap"> км/c</span></span></td>
+</tr><tr>
+<td class="plainlist" colspan="2" style="text-align:center;padding-bottom:0; border-bottom:0; text-align:left; font-weight:bold;">
+<a href="/wiki/%D0%A1%D0%BE%D0%B1%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5" title="Собственное движение">Собственное движение</a></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row" style="font-weight:normal; padding-bottom:0; border-bottom:0; padding-top:0; border-top:0;"> • прямое восхождение</th>
+<td class="plainlist" style="padding-bottom:0; border-bottom:0; padding-top:0; border-top:0;">
+<span class="no-wikidata" data-wikidata-property-id="P10752">−976,44<span class="nowrap"> <a href="/wiki/%D0%93%D1%80%D0%B0%D0%B4%D1%83%D1%81_(%D0%B3%D0%B5%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%8F)#Дольные_единицы" title="Градус (геометрия)">mas</a> в год</span></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row" style="font-weight:normal; padding-top:0; border-top:0;"> • склонение</th>
+<td class="plainlist" style="padding-top:0; border-top:0;">
+<span class="no-wikidata" data-wikidata-property-id="P10751">17,97<span class="nowrap"> <a href="/wiki/%D0%93%D1%80%D0%B0%D0%B4%D1%83%D1%81_(%D0%B3%D0%B5%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%8F)#Дольные_единицы" title="Градус (геометрия)">mas</a> в год</span></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row"><a href="/wiki/%D0%93%D0%BE%D0%B4%D0%B8%D1%87%D0%BD%D1%8B%D0%B9_%D0%B7%D0%B2%D1%91%D0%B7%D0%B4%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B0%D1%80%D0%B0%D0%BB%D0%BB%D0%B0%D0%BA%D1%81" title="Годичный звёздный параллакс">Параллакс</a> <small><span class="ts-math">(π)</span></small></th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P2214">310,75 ± 0,85 <a href="/wiki/%D0%93%D1%80%D0%B0%D0%B4%D1%83%D1%81_(%D0%B3%D0%B5%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%8F)#Дольные_единицы" title="Градус (геометрия)">mas</a></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row"><a href="/wiki/%D0%90%D0%B1%D1%81%D0%BE%D0%BB%D1%8E%D1%82%D0%BD%D0%B0%D1%8F_%D0%B7%D0%B2%D1%91%D0%B7%D0%B4%D0%BD%D0%B0%D1%8F_%D0%B2%D0%B5%D0%BB%D0%B8%D1%87%D0%B8%D0%BD%D0%B0" title="Абсолютная звёздная величина">Абсолютная звёздная величина</a> <small><span class="ts-math">(V)</span></small></th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P1457">6,192</span></td>
+</tr>
+<tr>
+<th class="infobox-header" colspan="2" scope="colgroup" style="">Спектральные характеристики</th>
+</tr>
+<tr>
+<th class="plainlist" scope="row"><a class="mw-redirect" href="/wiki/%D0%A1%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D1%8B_%D0%B7%D0%B2%D1%91%D0%B7%D0%B4" title="Спектральные классы звёзд">Спектральный класс</a></th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P215">K2V</span></td>
+</tr><tr>
+<td class="plainlist" colspan="2" style="text-align:center;padding-bottom:0; border-bottom:0; text-align:left; font-weight:bold;">
+<a href="/wiki/%D0%9F%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D1%8C_%D1%86%D0%B2%D0%B5%D1%82%D0%B0" title="Показатель цвета">Показатель цвета</a></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row" style="font-weight:normal; padding-bottom:0; border-bottom:0; padding-top:0; border-top:0;"> • <a href="/wiki/%D0%9F%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D1%8C_%D1%86%D0%B2%D0%B5%D1%82%D0%B0_B%E2%88%92V" title="Показатель цвета B−V"><span class="ts-math"><i>B−V</i></span></a></th>
+<td class="plainlist" style="padding-bottom:0; border-bottom:0; padding-top:0; border-top:0;">
+<span class="no-wikidata" data-wikidata-property-id="P1458">0,88</span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row" style="font-weight:normal; padding-top:0; border-top:0;"> • <span class="ts-math"><i>U−B</i></span></th>
+<td class="plainlist" style="padding-top:0; border-top:0;">
+<span class="no-wikidata" data-wikidata-property-id="P1458">0,59</span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row"><a href="/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B7%D0%B2%D0%B5%D0%B7%D0%B4%D0%B0" title="Переменная звезда">Переменность</a></th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P881"><a href="/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D1%82%D0%B8%D0%BF%D0%B0_BY_%D0%94%D1%80%D0%B0%D0%BA%D0%BE%D0%BD%D0%B0" title="Переменная типа BY Дракона">BY Dra</a></span></td>
+</tr>
+<tr>
+<th class="infobox-header" colspan="2" scope="colgroup" style="">Физические характеристики</th>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Масса</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P2067">0,85<span class="nowrap"> <a href="/wiki/%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B0%D1%81%D1%81%D0%B0" title="Солнечная масса"><span class="ts-math"><i>M</i></span><sub>⊙</sub></a></span></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Радиус</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P2120">0,84<span class="nowrap"> <a href="/wiki/%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D1%8B%D0%B9_%D1%80%D0%B0%D0%B4%D0%B8%D1%83%D1%81" title="Солнечный радиус"><span class="ts-math"><i>R</i></span><sub>⊙</sub></a></span></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row"><a href="/wiki/%D0%AD%D0%B2%D0%BE%D0%BB%D1%8E%D1%86%D0%B8%D1%8F_%D0%B7%D0%B2%D1%91%D0%B7%D0%B4" title="Эволюция звёзд">Возраст</a></th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P7584">5⋅10<sup>8</sup><span class="nowrap"> <a href="/wiki/%D0%93%D0%BE%D0%B4" title="Год">лет</a></span></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row"><a href="/wiki/%D0%AD%D1%84%D1%84%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%B0%D1%8F_%D1%82%D0%B5%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0" title="Эффективная температура">Температура</a></th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P6879">5100<span class="nowrap"> <a href="/wiki/%D0%9A%D0%B5%D0%BB%D1%8C%D0%B2%D0%B8%D0%BD" title="Кельвин">K</a></span></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row"><a href="/wiki/%D0%A1%D0%B2%D0%B5%D1%82%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C" title="Светимость">Светимость</a></th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P2060">0,28<span class="nowrap"> <a href="/wiki/%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F_%D1%81%D0%B2%D0%B5%D1%82%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C" title="Солнечная светимость"><span class="ts-math"><i>L</i></span><sub>⊙</sub></a></span></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row"><a href="/wiki/%D0%9C%D0%B5%D1%82%D0%B0%D0%BB%D0%BB%D0%B8%D1%87%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Металличность">Металличность</a></th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P2227">49—65% Солн.</span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row"><a href="/wiki/%D0%92%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B7%D0%B2%D0%B5%D0%B7%D0%B4%D1%8B" title="Вращение звезды">Вращение</a></th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P4296">11,1 дня</span></td>
+</tr><tr>
+<th class="infobox-header" colspan="2" scope="colgroup" style=""><a class="mw-redirect" href="/wiki/%D0%9A%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3_%D0%B7%D0%B2%D1%91%D0%B7%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BD%D0%B5%D0%B1%D0%B0" title="Каталог звёздного неба">Коды в каталогах</a></th>
+</tr>
+<tr>
+<td class="plainlist" colspan="2" style="text-align:center;">
+<span class="no-wikidata" data-wikidata-property-id="P528"><a class="mw-redirect" href="/wiki/Henry_Draper_catalogue" title="Henry Draper catalogue">HD</a> 22049, <a class="mw-redirect" href="/wiki/Harvard_Revised_catalogue" title="Harvard Revised catalogue">HR</a> 1084, <a class="mw-redirect" href="/wiki/Bonner_Durchmusterung" title="Bonner Durchmusterung">BD</a>-09°697, <a class="new" href="/w/index.php?title=General_Catalogue_of_Trigonometric_Parallaxes&amp;action=edit&amp;redlink=1" title="General Catalogue of Trigonometric Parallaxes (страница отсутствует)">GCTP</a> 742.00, WDS 03330-0928, SAO 130564 и <a class="new" href="/w/index.php?title=Luyten_Half-Second_catalogue&amp;action=edit&amp;redlink=1" title="Luyten Half-Second catalogue (страница отсутствует)">LHS</a> 1557. <br/></span></td>
+</tr>
+<tr>
+<th class="infobox-header" colspan="2" scope="colgroup" style="">Информация в базах данных</th>
+</tr>
+<tr>
+<th class="plainlist" scope="row"><a href="/wiki/SIMBAD" title="SIMBAD">SIMBAD</a></th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P3083"><a class="external text" href="http://simbad.u-strasbg.fr/simbad/sim-id?protocol=html&amp;Ident=eps+eri" rel="nofollow">данные</a></span></td>
+</tr>
+<tr>
+<td class="plainlist" colspan="2" style="text-align:center;">
+Источники: <sup class="reference" id="cite_ref-simbad_1-0"><a href="#cite_note-simbad-1">[1]</a></sup></td>
+</tr><tr><td class="infobox-below" colspan="2" style=";"><span typeof="mw:File"><a href="https://www.wikidata.org/wiki/Special:ItemByTitle/ruwiki/%D0%AD%D0%BF%D1%81%D0%B8%D0%BB%D0%BE%D0%BD_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0" title="d:Special:ItemByTitle/ruwiki/Эпсилон Эридана"><img alt="Логотип Викиданных" class="mw-file-element" data-file-height="590" data-file-width="1050" decoding="async" height="10" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Wikidata-logo_S.svg/18px-Wikidata-logo_S.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Wikidata-logo_S.svg/27px-Wikidata-logo_S.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Wikidata-logo_S.svg/36px-Wikidata-logo_S.svg.png 2x" width="18"/></a></span> <a class="extiw" href="https://www.wikidata.org/wiki/d:Special:ItemByTitle/ruwiki/%D0%AD%D0%BF%D1%81%D0%B8%D0%BB%D0%BE%D0%BD_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0" title="d:d:Special:ItemByTitle/ruwiki/Эпсилон Эридана">Информация в Викиданных</a> <sup><span class="ts-comment-commentedText" title="Элементы карточки, которых нет в окне редактирования статьи, редактируются в Викиданных">?</span></sup></td></tr><tr><td class="infobox-below" colspan="2" style=";"><span class="wikidata-claim" data-wikidata-claim-id="Q194394$7beec75c-4cca-970b-115b-42c007186405" data-wikidata-property-id="P373"><span class="wikidata-snak wikidata-main-snak"><span typeof="mw:File"><a href="https://commons.wikimedia.org/wiki/Category:Epsilon_Eridani" title="commons:Category:Epsilon Eridani"><img alt="Логотип Викисклада" class="mw-file-element" data-file-height="1376" data-file-width="1024" decoding="async" height="20" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/15px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/23px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 2x" width="15"/></a></span> <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Epsilon_Eridani" title="commons:Category:Epsilon Eridani">Медиафайлы на Викискладе</a></span></span></td></tr>
+</tbody></table>
+<p><b>Э́псилон Эрида́на</b> (ε Eri / ε Eridani; <b>Ран</b>; 18 Эридана) — <a href="/wiki/%D0%97%D0%B2%D0%B5%D0%B7%D0%B4%D0%B0" title="Звезда">звезда</a> <a href="/wiki/%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Главная последовательность">главной последовательности</a> <a class="mw-redirect" href="/wiki/%D0%A1%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D0%B0%D1%81%D1%81" title="Спектральный класс">спектрального класса</a> К2 в <a href="/wiki/%D0%A1%D0%BE%D0%B7%D0%B2%D0%B5%D0%B7%D0%B4%D0%B8%D0%B5" title="Созвездие">созвездии</a> <a href="/wiki/%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD_(%D1%81%D0%BE%D0%B7%D0%B2%D0%B5%D0%B7%D0%B4%D0%B8%D0%B5)" title="Эридан (созвездие)">Эридана</a>. Находясь на расстоянии 10,5 <a href="/wiki/%D0%A1%D0%B2%D0%B5%D1%82%D0%BE%D0%B2%D0%BE%D0%B9_%D0%B3%D0%BE%D0%B4" title="Световой год">световых лет</a>, она является третьей из <a class="mw-redirect" href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B1%D0%BB%D0%B8%D0%B6%D0%B0%D0%B9%D1%88%D0%B8%D1%85_%D0%B7%D0%B2%D1%91%D0%B7%D0%B4" title="Список ближайших звёзд">ближайших звёзд</a> (не считая <a href="/wiki/%D0%A1%D0%BE%D0%BB%D0%BD%D1%86%D0%B5" title="Солнце">Солнца</a>), видимых без <a href="/wiki/%D0%A2%D0%B5%D0%BB%D0%B5%D1%81%D0%BA%D0%BE%D0%BF" title="Телескоп">телескопа</a>. В середине декабря 2015 года МАС принял официальное собственное название звезды — Ран (в честь персонажа древнескандинавской мифологии, морской великанши, поднимающей волны и ловящей моряков сетью). Ранее встречалось имя <i>Ас-Садира</i>, которым называли звезду арабы, жившие в Восточной Африке в XIV веке.
+</p><p>Ближайшие соседи Эпсилона Эридана — <a class="mw-redirect" href="/wiki/UV_%D0%9A%D0%B8%D1%82%D0%B0" title="UV Кита">UV Кита</a> и <a class="mw-redirect" href="/wiki/BL_%D0%9A%D0%B8%D1%82%D0%B0" title="BL Кита">BL Кита</a> (<a href="/wiki/%D0%9B%D0%B5%D0%B9%D1%82%D0%B5%D0%BD_726-8" title="Лейтен 726-8">Лейтен 726-8</a> AB), находятся на расстоянии 5,22 светового года (1,60 <a href="/wiki/%D0%9F%D0%B0%D1%80%D1%81%D0%B5%D0%BA" title="Парсек">парсека</a>).
+</p>
+<div aria-labelledby="mw-toc-heading" class="toc" id="toc" role="navigation"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="ru"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Физические_характеристики"><span class="tocnumber">1</span> <span class="toctext">Физические характеристики</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Астероидный_пояс"><span class="tocnumber">2</span> <span class="toctext">Астероидный пояс</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Планетная_система"><span class="tocnumber">3</span> <span class="toctext">Планетная система</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Эпсилон_Эридана_b"><span class="tocnumber">3.1</span> <span class="toctext">Эпсилон Эридана b</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Эпсилон_Эридана_c"><span class="tocnumber">3.2</span> <span class="toctext">Эпсилон Эридана c</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Название"><span class="tocnumber">4</span> <span class="toctext">Название</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Ближайшее_окружение_звезды"><span class="tocnumber">5</span> <span class="toctext">Ближайшее окружение звезды</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Научная_фантастика"><span class="tocnumber">6</span> <span class="toctext">Научная фантастика</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Примечания"><span class="tocnumber">7</span> <span class="toctext">Примечания</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Ссылки"><span class="tocnumber">8</span> <span class="toctext">Ссылки</span></a></li>
+</ul>
+</div>
+<h2><span id=".D0.A4.D0.B8.D0.B7.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D1.85.D0.B0.D1.80.D0.B0.D0.BA.D1.82.D0.B5.D1.80.D0.B8.D1.81.D1.82.D0.B8.D0.BA.D0.B8"></span><span class="mw-headline" id="Физические_характеристики">Физические характеристики</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%AD%D0%BF%D1%81%D0%B8%D0%BB%D0%BE%D0%BD_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;veaction=edit&amp;section=1" title="Редактировать раздел «Физические характеристики»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%AD%D0%BF%D1%81%D0%B8%D0%BB%D0%BE%D0%BD_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;section=1" title="Редактировать код раздела «Физические характеристики»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Size_epsilon_eridani.png"><img class="mw-file-element" data-file-height="421" data-file-width="661" decoding="async" height="140" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Size_epsilon_eridani.png/220px-Size_epsilon_eridani.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Size_epsilon_eridani.png/330px-Size_epsilon_eridani.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/da/Size_epsilon_eridani.png/440px-Size_epsilon_eridani.png 2x" width="220"/></a><figcaption>Сравнение размеров звезды ε Эридана (слева) и Солнца</figcaption></figure>
+<p>Звезда имеет массу и диаметр около 85 %, светимость — 28 % от <a href="/wiki/%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F_%D1%81%D0%B2%D0%B5%D1%82%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C" title="Солнечная светимость">солнечной</a>, <a class="mw-redirect" href="/wiki/%D0%9E%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%80" title="Оптический спектр">оптический спектр</a> чрезвычайно переменчивый, со множеством <a href="/wiki/%D0%A1%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F" title="Спектральная линия">эмиссионных линий</a>. В сравнении с Солнцем, у <b>ε Эридана</b> очень сильное <a href="/wiki/%D0%9C%D0%B0%D0%B3%D0%BD%D0%B8%D1%82%D0%BD%D0%BE%D0%B5_%D0%BF%D0%BE%D0%BB%D0%B5_%D0%B7%D0%B2%D1%91%D0%B7%D0%B4" title="Магнитное поле звёзд">магнитное поле</a>, период вращения вокруг своей оси составляет 11 дней.
+</p><p>Причина таких характеристик — относительно малый возраст, всего около полумиллиарда лет. Поэтому существование <a href="/wiki/%D0%92%D0%BD%D0%B5%D0%B7%D0%B5%D0%BC%D0%BD%D0%B0%D1%8F_%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C" title="Внеземная жизнь">жизни</a> в планетной системе звезды считается маловероятным. <a href="/wiki/%D0%A2%D0%B0%D1%83_%D0%9A%D0%B8%D1%82%D0%B0" title="Тау Кита">Тау Кита</a> является намного лучшим кандидатом, хотя также <a href="/wiki/%D0%9C%D0%B5%D1%82%D0%B0%D0%BB%D0%BB%D0%B8%D1%87%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Металличность">бедна металлами</a>.
+</p><p>Поверхность планеты, вращающейся вокруг звезды <b>ε Эридана</b> на расстоянии около 0,53 <a href="/wiki/%D0%90%D1%81%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B5%D0%B4%D0%B8%D0%BD%D0%B8%D1%86%D0%B0" title="Астрономическая единица">астрономической единицы</a>, имела бы диапазон температур, подходящий для наличия жидкой воды.
+</p>
+<h2><span id=".D0.90.D1.81.D1.82.D0.B5.D1.80.D0.BE.D0.B8.D0.B4.D0.BD.D1.8B.D0.B9_.D0.BF.D0.BE.D1.8F.D1.81"></span><span class="mw-headline" id="Астероидный_пояс">Астероидный пояс</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%AD%D0%BF%D1%81%D0%B8%D0%BB%D0%BE%D0%BD_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Астероидный пояс»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%AD%D0%BF%D1%81%D0%B8%D0%BB%D0%BE%D0%BD_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;section=2" title="Редактировать код раздела «Астероидный пояс»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:NASA-JPL-Caltech_-_Double_the_Rubble_(PIA11375)_(pd).jpg"><img class="mw-file-element" data-file-height="1600" data-file-width="3000" decoding="async" height="160" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NASA-JPL-Caltech_-_Double_the_Rubble_%28PIA11375%29_%28pd%29.jpg/300px-NASA-JPL-Caltech_-_Double_the_Rubble_%28PIA11375%29_%28pd%29.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NASA-JPL-Caltech_-_Double_the_Rubble_%28PIA11375%29_%28pd%29.jpg/450px-NASA-JPL-Caltech_-_Double_the_Rubble_%28PIA11375%29_%28pd%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NASA-JPL-Caltech_-_Double_the_Rubble_%28PIA11375%29_%28pd%29.jpg/600px-NASA-JPL-Caltech_-_Double_the_Rubble_%28PIA11375%29_%28pd%29.jpg 2x" width="300"/></a><figcaption>Система ε Эридана в представлении художника</figcaption></figure>
+<p>В <a href="/wiki/1988_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1988 год в науке">1988 году</a> вокруг звезды был обнаружен <a class="mw-redirect" href="/wiki/%D0%9E%D1%81%D0%BA%D0%BE%D0%BB%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_%D0%B4%D0%B8%D1%81%D0%BA" title="Осколочный диск">осколочный диск</a> на расстоянии, близком к расстоянию <a href="/wiki/%D0%9F%D0%BE%D1%8F%D1%81_%D0%9A%D0%BE%D0%B9%D0%BF%D0%B5%D1%80%D0%B0" title="Пояс Койпера">Пояса Койпера</a> от нашего Солнца. <i>Брюс Кэмпбелл</i> и другие <a href="/wiki/%D0%90%D1%81%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC" title="Астроном">астрономы</a> интерпретировали доплеровские измерения как наличие сгустков пылевого кольца, которые могут быть вызваны существованием <a href="/wiki/%D0%AD%D0%BA%D0%B7%D0%BE%D0%BF%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B0" title="Экзопланета">планеты</a>, вращающейся вокруг этой звезды. Диск содержит примерно в 1000 раз больше пыли, чем имеется в <a href="/wiki/%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0" title="Солнечная система">солнечной системе</a>. Это может означать наличие в системе <b>Эпсилона Эридана</b> пропорционально большего количества кометного материала.
+</p><p>Нет никаких свидетельств в пользу наличия пылевого кольца в пределах 35 астрономических единиц от звезды, что может объясняться тем, что в этой области завершилось образование планет. Это согласуется с принятой в настоящее время моделью формирования планетных систем и косвенно свидетельствует о возможном наличии планет земной группы в системе <b>Эпсилона Эридана</b>.
+</p><p>В <a href="/wiki/2008_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="2008 год в науке">2008 году</a> астрономы <a class="mw-redirect" href="/wiki/%D0%A1%D0%A8%D0%90" title="США">США</a> обнаружили<sup class="reference" id="cite_ref-harvard_2-0"><a href="#cite_note-harvard-2">[2]</a></sup> в системе два астероидных пояса. Первый на расстоянии <span class="nowrap">3 а. е.</span> от Эпсилон Эридана, а второй на расстоянии <span class="nowrap">20 а. е.</span><sup class="reference" id="cite_ref-harvard_2-1"><a href="#cite_note-harvard-2">[2]</a></sup>
+</p>
+<h2><span id=".D0.9F.D0.BB.D0.B0.D0.BD.D0.B5.D1.82.D0.BD.D0.B0.D1.8F_.D1.81.D0.B8.D1.81.D1.82.D0.B5.D0.BC.D0.B0"></span><span class="mw-headline" id="Планетная_система">Планетная система</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%AD%D0%BF%D1%81%D0%B8%D0%BB%D0%BE%D0%BD_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;veaction=edit&amp;section=3" title="Редактировать раздел «Планетная система»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%AD%D0%BF%D1%81%D0%B8%D0%BB%D0%BE%D0%BD_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;section=3" title="Редактировать код раздела «Планетная система»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><b>Эпсилон Эридана</b> — одна из самых близких солнцеподобных звёзд, поэтому было сделано много попыток обнаружить планеты, обращающиеся вокруг неё. Но высокая активность и переменчивость звезды затрудняет обнаружение планет методом <a href="/wiki/%D0%A0%D0%B0%D0%B4%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%81%D0%BA%D0%BE%D1%80%D0%BE%D1%81%D1%82%D1%8C" title="Радиальная скорость">радиальной скорости</a> и некоторыми другими методами, так как маскирует изменения, вызванные движением планеты.
+</p>
+<h3><span id=".D0.AD.D0.BF.D1.81.D0.B8.D0.BB.D0.BE.D0.BD_.D0.AD.D1.80.D0.B8.D0.B4.D0.B0.D0.BD.D0.B0_b"></span><span class="mw-headline" id="Эпсилон_Эридана_b">Эпсилон Эридана b</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%AD%D0%BF%D1%81%D0%B8%D0%BB%D0%BE%D0%BD_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;veaction=edit&amp;section=4" title="Редактировать раздел «Эпсилон Эридана b»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%AD%D0%BF%D1%81%D0%B8%D0%BB%D0%BE%D0%BD_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;section=4" title="Редактировать код раздела «Эпсилон Эридана b»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable">Основная статья: <b><a href="/wiki/%D0%AD%D0%BF%D1%81%D0%B8%D0%BB%D0%BE%D0%BD_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0_b" title="Эпсилон Эридана b">Эпсилон Эридана b</a></b></div>
+<p>В 2000 команда <i>Арти Хатзеса</i> заявила об обнаружении <a class="mw-redirect" href="/wiki/%D0%AE%D0%BF%D0%B8%D1%82%D0%B5%D1%80_(%D0%BF%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B0)" title="Юпитер (планета)">юпитероподобной</a> планеты <a href="/wiki/%D0%AD%D0%BF%D1%81%D0%B8%D0%BB%D0%BE%D0%BD_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0_b" title="Эпсилон Эридана b">Эпсилон Эридана b</a> с массой <span class="nowrap">1,2 ± 0,33</span> <a class="mw-redirect" href="/wiki/%D0%9C%D0%B0%D1%81%D1%81%D0%B0_%D0%AE%D0%BF%D0%B8%D1%82%D0%B5%D1%80%D0%B0" title="Масса Юпитера">массы Юпитера</a>, вращающейся вокруг звезды на среднем расстоянии <span class="nowrap">3,3 а.е.</span> по сильно вытянутой орбите. Однако другие наблюдатели, включая <i>Джеффри Марси</i>, считали, что для такого вывода требуется больше информации о поведении доплеровского шума звезды, создаваемого её сильным переменным магнитным полем, и существование планеты долгое время оставалось лишь предположением. Впрочем, такое предположение было сделано ещё в начале девяностых <i>Брюсом Кэмпбелом</i> и <i>Гордоном Уокером</i>, но их наблюдения не позволяли сделать твёрдых выводов об орбите и свойствах планеты.
+</p><p>Наблюдения, сделанные с помощью <a href="/wiki/%D0%A5%D0%B0%D0%B1%D0%B1%D0%BB_(%D1%82%D0%B5%D0%BB%D0%B5%D1%81%D0%BA%D0%BE%D0%BF)" title="Хаббл (телескоп)">космического телескопа «Хаббл»</a>, также свидетельствуют в пользу наличия <i>Эпсилон Эридана b</i>. Её предполагаемая масса <span class="nowrap">1,55 ± 0,24</span> массы Юпитера, <a class="mw-redirect" href="/wiki/%D0%9D%D0%B0%D0%BA%D0%BB%D0%BE%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BE%D1%80%D0%B1%D0%B8%D1%82%D1%8B" title="Наклонение орбиты">наклонение орбиты</a> <span class="nowrap">30,1 ± 3,8°</span>, <a href="/wiki/%D0%AD%D0%BA%D1%81%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%B8%D1%81%D0%B8%D1%82%D0%B5%D1%82" title="Эксцентриситет">эксцентриситет</a> <span class="nowrap">0,702 ± 0,039</span>, <a href="/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F_%D0%BF%D0%BE%D0%BB%D1%83%D0%BE%D1%81%D1%8C" title="Большая полуось">большая полуось</a> по уточнённым данным <span class="nowrap">3,39 ± 0,36 а.е.</span>, <a class="mw-redirect" href="/wiki/%D0%9F%D0%B5%D1%80%D0%B8%D0%BE%D0%B4_%D0%BE%D0%B1%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D1%8F" title="Период обращения">период обращения</a> около <span class="nowrap">2500 земных</span> суток. Плоскость орбиты планеты параллельна плоскости пылевого диска звезды.
+</p><p>В декабре 2015 года планете было присвоено собственное имя Эгир (<a href="#Название">см. ниже</a>).
+</p>
+<h3><span id=".D0.AD.D0.BF.D1.81.D0.B8.D0.BB.D0.BE.D0.BD_.D0.AD.D1.80.D0.B8.D0.B4.D0.B0.D0.BD.D0.B0_c"></span><span class="mw-headline" id="Эпсилон_Эридана_c">Эпсилон Эридана c</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%AD%D0%BF%D1%81%D0%B8%D0%BB%D0%BE%D0%BD_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;veaction=edit&amp;section=5" title="Редактировать раздел «Эпсилон Эридана c»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%AD%D0%BF%D1%81%D0%B8%D0%BB%D0%BE%D0%BD_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;section=5" title="Редактировать код раздела «Эпсилон Эридана c»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Основная статья :<a class="new" href="/w/index.php?title=%D0%AD%D0%BF%D1%81%D0%B8%D0%BB%D0%BE%D0%BD_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0_c&amp;action=edit&amp;redlink=1" title="Эпсилон Эридана c (страница отсутствует)">Эпсилон Эридана c</a>
+</p><p>Предположение о наличии планеты <a class="new" href="/w/index.php?title=%D0%AD%D0%BF%D1%81%D0%B8%D0%BB%D0%BE%D0%BD_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0_c&amp;action=edit&amp;redlink=1" title="Эпсилон Эридана c (страница отсутствует)">Эпсилон Эридана c</a> было высказано в 2002 году астрономами Куилленом и Торндайком на основании анализа пылевого диска звезды. Наличие неоднородностей в диске может быть объяснено эффектом <a href="/wiki/%D0%A0%D0%B5%D0%B7%D0%BE%D0%BD%D0%B0%D0%BD%D1%81" title="Резонанс">резонанса</a>, вызванным наличием планеты массой около <span class="nowrap">0,1 массы</span> Юпитера, вращающейся по орбите с большой полуосью около <span class="nowrap">40 а.е.</span> и эксцентриситетом около 0,3. Период обращения такой планеты должен составлять около <span class="nowrap">280 лет</span><sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup>. До настоящего времени существование этой планеты не подтверждено.
+</p>
+<h2><span id=".D0.9D.D0.B0.D0.B7.D0.B2.D0.B0.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Название">Название</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%AD%D0%BF%D1%81%D0%B8%D0%BB%D0%BE%D0%BD_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;veaction=edit&amp;section=6" title="Редактировать раздел «Название»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%AD%D0%BF%D1%81%D0%B8%D0%BB%D0%BE%D0%BD_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;section=6" title="Редактировать код раздела «Название»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Планета и центральная звезда системы относятся к списку планетных систем, выбранных <a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D1%8E%D0%B7" title="Международный астрономический союз">Международным астрономическим союзом</a> для общественного обсуждения по присвоению названий экзопланетам и их звёздам (тем из них, у которых собственного имени ещё нет)<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup><sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup>. Процесс обсуждения включает общественное выдвижение и голосование за новые имена с участием общественности, после чего МАС официально утверждает новые названия<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup>. В декабре 2015 года МАС объявил, что выигравшие названия (предложенные восьмиклассниками средней школы <span data-interwiki-article="Mountainside Middle School" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D1%8F%D1%8F_%D1%88%D0%BA%D0%BE%D0%BB%D0%B0_%C2%AB%D0%9C%D0%B0%D1%83%D0%BD%D1%82%D0%B8%D0%BD%D1%81%D0%B0%D0%B9%D0%B4%C2%BB&amp;action=edit&amp;redlink=1" title="Средняя школа «Маунтинсайд» (страница отсутствует)">«Маунтинсайд»</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://en.wikipedia.org/wiki/Mountainside_Middle_School" title="en:Mountainside Middle School"><span title="Mountainside Middle School — версия статьи «Средняя школа «Маунтинсайд»» на английском языке">[en]</span></a></sup></span> из г. <span data-interwiki-article="Colbert, Washington" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=%D0%9A%D0%BE%D0%BB%D0%B1%D0%B5%D1%80%D1%82_(%D0%92%D0%B0%D1%88%D0%B8%D0%BD%D0%B3%D1%82%D0%BE%D0%BD)&amp;action=edit&amp;redlink=1" title="Колберт (Вашингтон) (страница отсутствует)">Колберт</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://en.wikipedia.org/wiki/Colbert,_Washington" title="en:Colbert, Washington"><span title="Colbert, Washington — версия статьи «Колберт (Вашингтон)» на английском языке">[en]</span></a></sup></span>, штат Вашингтон, США) таковы<sup class="reference" id="cite_ref-IAU2015_7-0"><a href="#cite_note-IAU2015-7">[7]</a></sup>:
+</p>
+<ul><li>Ран (<i>Ran</i>) для звезды. В честь персонажа <a class="mw-redirect" href="/wiki/%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%BE-%D1%81%D0%BA%D0%B0%D0%BD%D0%B4%D0%B8%D0%BD%D0%B0%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D0%B8%D1%84%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Германо-скандинавская мифология">древнескандинавской мифологии</a>, великанши (морского божества) <a href="/wiki/%D0%A0%D0%B0%D0%BD_(%D0%BC%D0%B8%D1%84%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Ран (мифология)">Ран</a> (<a href="/wiki/%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B5%D1%81%D0%BA%D0%B0%D0%BD%D0%B4%D0%B8%D0%BD%D0%B0%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Древнескандинавский язык">др.-сканд.</a> <span lang="non" style="font-style:italic;">Rán</span>, «кража», «ограбление»), поднимавшей волны и ловившей моряков сетью.</li>
+<li>Эгир (<i>AEgir</i>) для планеты <a href="/wiki/%D0%AD%D0%BF%D1%81%D0%B8%D0%BB%D0%BE%D0%BD_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0_b" title="Эпсилон Эридана b">Эпсилон Эридана b</a>. В честь персонажа древнескандинавской мифологии <a href="/wiki/%D0%AD%D0%B3%D0%B8%D1%80" title="Эгир">Эгира</a>, мужа и брата Ран. Эгир (<a href="/wiki/%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B5%D1%81%D0%BA%D0%B0%D0%BD%D0%B4%D0%B8%D0%BD%D0%B0%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Древнескандинавский язык">др.-сканд.</a> <span lang="non" style="font-style:italic;">Ægir</span>) — великан (морское божество), олицетворение спокойного моря.</li></ul>
+<p>Ран и Эгир относятся к <a class="mw-redirect" href="/wiki/%D0%99%D0%BE%D1%82%D1%83%D0%BD" title="Йотун">йотунам</a>, правителям внешней Вселенной. У Эгира и Ран было девять дочерей, которых называли девами волн. Следует отметить, что первоначально предложенные названия <i>Rán</i> и <i>Ægir</i> были модифицированы (<i>Ran</i> и <i>AEgir</i>), чтобы быть совместимыми с правилами МАС. Название <i>AEgir</i> в латинском написании лишь слегка отличается от названия открытого в 2004 году иррегулярного спутника Сатурна (<a href="/wiki/%D0%AD%D0%B3%D0%B8%D1%80_(%D1%81%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA)" title="Эгир (спутник)"><i>Aegir</i></a>), названного в честь того же персонажа.
+</p>
+<h2><span id=".D0.91.D0.BB.D0.B8.D0.B6.D0.B0.D0.B9.D1.88.D0.B5.D0.B5_.D0.BE.D0.BA.D1.80.D1.83.D0.B6.D0.B5.D0.BD.D0.B8.D0.B5_.D0.B7.D0.B2.D0.B5.D0.B7.D0.B4.D1.8B"></span><span class="mw-headline" id="Ближайшее_окружение_звезды">Ближайшее окружение звезды</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%AD%D0%BF%D1%81%D0%B8%D0%BB%D0%BE%D0%BD_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;veaction=edit&amp;section=7" title="Редактировать раздел «Ближайшее окружение звезды»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%AD%D0%BF%D1%81%D0%B8%D0%BB%D0%BE%D0%BD_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;section=7" title="Редактировать код раздела «Ближайшее окружение звезды»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Следующие звёздные системы находятся на расстоянии в пределах 10 световых лет от Ран:
+</p>
+<table class="standard" style="text-align: center;">
+<tbody><tr>
+<td style="background-color: #FFCC00;"><a href="/wiki/%D0%97%D0%B2%D0%B5%D0%B7%D0%B4%D0%B0" title="Звезда">Звезда</a>
+</td>
+<td style="background-color: #FFCC00;"><a class="mw-redirect" href="/wiki/%D0%A1%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D0%B0%D1%81%D1%81" title="Спектральный класс">Спектральный класс</a>
+</td>
+<td style="background-color: #FFCC00;"><a href="/wiki/%D0%A1%D0%B2%D0%B5%D1%82%D0%BE%D0%B2%D0%BE%D0%B9_%D0%B3%D0%BE%D0%B4" title="Световой год">Расстояние, св. лет</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9B%D0%B5%D0%B9%D1%82%D0%B5%D0%BD_726-8" title="Лейтен 726-8">Лейтен 726-8</a>
+</td>
+<td>M5,6 Ve
+</td>
+<td>5,1
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A2%D0%B0%D1%83_%D0%9A%D0%B8%D1%82%D0%B0" title="Тау Кита">τ Кита</a>
+</td>
+<td>G8 Vp
+</td>
+<td>5,5
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%97%D0%B2%D0%B5%D0%B7%D0%B4%D0%B0_%D0%A2%D0%B8%D0%B3%D0%B0%D1%80%D0%B4%D0%B5%D0%BD%D0%B0" title="Звезда Тигардена">Звезда Тигардена</a>
+</td>
+<td>M6,5 V
+</td>
+<td>5,8
+</td></tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/%D0%9E%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%BD2_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0" title="Омикрон2 Эридана">ο² Эридана</a> ABС
+</td>
+<td>K1 Ve / DA4 VII / M4,5 Ve
+</td>
+<td>6,4
+</td></tr>
+<tr>
+<td><a href="/wiki/LHS_1565" title="LHS 1565">LHS 1565</a>
+</td>
+<td>M5,5 V
+</td>
+<td>6,9
+</td></tr>
+<tr>
+<td><a href="/wiki/YZ_%D0%9A%D0%B8%D1%82%D0%B0" title="YZ Кита">YZ Кита</a>
+</td>
+<td>M4,5 Ve
+</td>
+<td>7,0
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A1%D0%B8%D1%80%D0%B8%D1%83%D1%81" title="Сириус">Сириус</a> AB
+</td>
+<td>A1 Vm / DA2 VII
+</td>
+<td>7,8
+</td></tr>
+<tr>
+<td><a class="new" href="/w/index.php?title=L_1159-16&amp;action=edit&amp;redlink=1" title="L 1159-16 (страница отсутствует)">L 1159-16</a>
+</td>
+<td>M4,5 Ve
+</td>
+<td>8,0
+</td></tr>
+<tr>
+<td><a href="/wiki/LP_944-020" title="LP 944-020">LP 944-020</a>
+</td>
+<td>M9
+</td>
+<td>8,3
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%97%D0%B2%D0%B5%D0%B7%D0%B4%D0%B0_%D0%9A%D0%B0%D0%BF%D1%82%D0%B5%D0%B9%D0%BD%D0%B0" title="Звезда Каптейна">Звезда Каптейна</a>
+</td>
+<td>M1 V
+</td>
+<td>8,5
+</td></tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/LP_656-38" title="LP 656-38">LP 656-38</a>
+</td>
+<td>M3,5 V
+</td>
+<td>9,0
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81_614" title="Росс 614">Росс 614</a> AB
+</td>
+<td>M4,5 Ve / M8 V
+</td>
+<td>9,4
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%97%D0%B2%D0%B5%D0%B7%D0%B4%D0%B0_%D0%B2%D0%B0%D0%BD_%D0%9C%D0%B0%D0%B0%D0%BD%D0%B5%D0%BD%D0%B0" title="Звезда ван Маанена">Звезда ван Маанена</a>
+</td>
+<td>DZ8 VII
+</td>
+<td>9,9
+</td></tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/BD%2B04_123" title="BD+04 123">BD+04 123</a>
+</td>
+<td>K2 V
+</td>
+<td>10,0
+</td></tr></tbody></table>
+<h2><span id=".D0.9D.D0.B0.D1.83.D1.87.D0.BD.D0.B0.D1.8F_.D1.84.D0.B0.D0.BD.D1.82.D0.B0.D1.81.D1.82.D0.B8.D0.BA.D0.B0"></span><span class="mw-headline" id="Научная_фантастика">Научная фантастика</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%AD%D0%BF%D1%81%D0%B8%D0%BB%D0%BE%D0%BD_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;veaction=edit&amp;section=8" title="Редактировать раздел «Научная фантастика»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%AD%D0%BF%D1%81%D0%B8%D0%BB%D0%BE%D0%BD_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;section=8" title="Редактировать код раздела «Научная фантастика»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-В_культуре plainlinks metadata ambox ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Emblem-important.svg"><img alt="" class="mw-file-element" data-file-height="48" data-file-width="48" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Emblem-important.svg/40px-Emblem-important.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Emblem-important.svg/60px-Emblem-important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Emblem-important.svg/80px-Emblem-important.svg.png 2x" width="40"/></a></span></div></td><td class="mbox-text"><div class="mbox-text-div">В этом разделе <b>не должны перечисляться малозначимые либо слабо связанные с объектом статьи его упоминания и изображения <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%92_%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B5" title="Википедия:В культуре">в произведениях культуры</a></b>.</div><div class="mbox-textsmall-div hide-when-compact" style="font-size:85%"><span class="hide-when-compact"> Пожалуйста, отредактируйте его так, чтобы показать влияние объекта статьи на значимые произведения искусства, основываясь на <a class="mw-redirect" href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D0%98" title="Википедия:АИ">авторитетных источниках</a>, избегайте <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A0%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB_%C2%AB%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D0%BD%D1%8B%D0%B5_%D1%84%D0%B0%D0%BA%D1%82%D1%8B%C2%BB" title="Википедия:Раздел «Интересные факты»">перечисления незначительных фактов</a>.</span></div></td></tr></tbody></table>
+<figure class="mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Babylon_5_station.jpg"><img class="mw-file-element" data-file-height="300" data-file-width="400" decoding="async" height="225" src="//upload.wikimedia.org/wikipedia/ru/thumb/e/ef/Babylon_5_station.jpg/300px-Babylon_5_station.jpg" srcset="//upload.wikimedia.org/wikipedia/ru/e/ef/Babylon_5_station.jpg 1.5x" width="300"/></a><figcaption>Космическая станция «Вавилон-5» на орбите планеты в системе <b>ε Эридана</b></figcaption></figure>
+<p>В связи со своим статусом одной из ближайших одиночных солнцеподобных звёзд, <b>ε Эридана</b> часто появляется в <a href="/wiki/%D0%9D%D0%B0%D1%83%D1%87%D0%BD%D0%B0%D1%8F_%D1%84%D0%B0%D0%BD%D1%82%D0%B0%D1%81%D1%82%D0%B8%D0%BA%D0%B0" title="Научная фантастика">научной фантастике</a>. Ниже представлены упоминания звезды в некоторых фантастических произведениях.
+</p>
+<ul><li>Некоторые поклонники фантастической вселенной «<a href="/wiki/%D0%97%D0%B2%D1%91%D0%B7%D0%B4%D0%BD%D1%8B%D0%B9_%D0%BF%D1%83%D1%82%D1%8C" title="Звёздный путь">Звёздный Путь</a>» (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">Star Trek</span>) считают, что именно вокруг этой звезды вращается планета <a href="/wiki/%D0%92%D1%83%D0%BB%D0%BA%D0%B0%D0%BD%D1%86%D1%8B" title="Вулканцы">Вулкан</a>, родина <a href="/wiki/%D0%A1%D0%BF%D0%BE%D0%BA" title="Спок">мистера Спока</a>. Другим кандидатом является <a class="mw-redirect" href="/wiki/40_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0_B" title="40 Эридана B">40 Эридана B</a>.</li>
+<li>В романах о роботах <a class="mw-redirect" href="/wiki/%D0%90%D0%B9%D0%B7%D0%B5%D0%BA_%D0%90%D0%B7%D0%B8%D0%BC%D0%BE%D0%B2" title="Айзек Азимов">Айзека Азимова</a>, это солнце первого мира второй волны поселенцев: <i>Baleyworld</i> («Роботы и Империя») или <i>Comporellon</i> («Foundation’s Edge»).</li>
+<li>В романе <a class="mw-disambig" href="/wiki/%D0%A0%D0%B5%D0%B9%D0%BD%D0%BE%D0%BB%D1%8C%D0%B4%D1%81,_%D0%90%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80" title="Рейнольдс, Аластер">Рейнольдса</a> «Город Бездны» в системе <i>Эпсилон Эридана</i> расположена планета Йеллоустоун, главный город которого, Город бездны — основное место развития событий романа.</li>
+<li>В телевизионном сериале «<a href="/wiki/%D0%92%D0%B0%D0%B2%D0%B8%D0%BB%D0%BE%D0%BD-5" title="Вавилон-5">Вавилон-5</a>», сама станция «Вавилон-5» располагается в точке <a href="/wiki/%D0%A2%D0%BE%D1%87%D0%BA%D0%B8_%D0%9B%D0%B0%D0%B3%D1%80%D0%B0%D0%BD%D0%B6%D0%B0#L4_и_L5" title="Точки Лагранжа">L<sub>5</sub></a> третьей планеты (<i>Эпсилон 3</i>) этой системы.</li>
+<li>Во Вселенной <a class="mw-redirect" href="/wiki/Battletech" title="Battletech">Battletech</a> <i>Эпсилон Эридана</i> — один из миров, ближайших к Терре.</li>
+<li>В серии видеоигр <a class="mw-redirect" href="/wiki/Halo_(%D1%81%D0%B5%D1%80%D0%B8%D1%8F_%D0%B8%D0%B3%D1%80)" title="Halo (серия игр)">Halo</a> планета <i>Reach</i> находится в этой системе. <i>Reach</i> — военный форт и место проведения проекта SPARTAN II, в ходе которого был отобран с родной планеты Эридан 2, обучен и генетически усовершенствован John-117, известный как Master Chief.</li>
+<li>В игре <i><a href="/wiki/Face_of_Mankind" title="Face of Mankind">Face of Mankind</a></i> фигурирует космическая колония на одной из ледяных планет, вращающейся вокруг <i>Эпсилон Эридана.</i></li>
+<li>В серии книг «Хонор Харрингтон» <a href="/wiki/%D0%92%D0%B5%D0%B1%D0%B5%D1%80,_%D0%94%D1%8D%D0%B2%D0%B8%D0%B4_%D0%9C%D0%B0%D1%80%D0%BA" title="Вебер, Дэвид Марк">Дэвида Вебера</a>, <i>Эпсилон Эридана</i> — один из миров <i>Соларианской Лиги миров</i> и источник Эриданского Эдикта.</li>
+<li>Одноимённое произведение <a href="/wiki/%D0%91%D0%B0%D1%80%D0%BE%D0%BD,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Барон, Алексей Владимирович">Алексея Барона</a>. <i>Эпсилон Эридана</i> — основное место действия.</li>
+<li>В пилотной серии сериала <i><a class="mw-redirect" href="/wiki/%D0%92%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB)" title="Виртуальность (фильм, сериал)">Виртуальность</a></i>, вышедшей как одноимённый фильм в 2009-м году первый межзвёздный корабль «Фаэтон» отправляется к звезде <i>Эпсилон Эридана</i>.</li>
+<li>В рассказе «Встреча» (автор — венгерский астрофизик и писатель Бела Балаж) планета № 7 в системе этой звезды — родина некоего образца сверхчеловеческого разума — Шарообразного Существа.</li>
+<li>В цикле <a href="/wiki/%D0%A2%D0%B5%D1%80%D1%82%D0%BB%D0%B4%D0%B0%D0%B2,_%D0%93%D0%B0%D1%80%D1%80%D0%B8" title="Тертлдав, Гарри">Гарри Тертлдава</a> «Мировая война», система Эпсилон Эридана имеет имя «Работев» у Расы. Планета Работев-2 была захвачена ими задолго до прибытия захватнического флота на Землю. Как и Раса, население Работева-2 представляет собой ящерообразную форму жизни.</li>
+<li>В цикле «Древний» <a href="/wiki/%D0%A2%D0%B0%D1%80%D0%BC%D0%B0%D1%88%D0%B5%D0%B2,_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%B8%D1%87" title="Тармашев, Сергей Сергеевич">Сергея Тармашева</a> в этой системе находится одна из первых колоний людей.</li>
+<li>В романе «Формула жизни» Александра Жарова снаряжается экспедиция к Эпсилон Эридана с целью поиска разумной жизни.</li>
+<li>В серии книг «Доминион» Игоря Марченко в системе Эпсилон Эридана находится негостеприимная планета Эпилон, являющаяся центром подготовки спецвойск империи людей.</li></ul>
+<h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Примечания">Примечания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%AD%D0%BF%D1%81%D0%B8%D0%BB%D0%BE%D0%BD_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;veaction=edit&amp;section=9" title="Редактировать раздел «Примечания»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%AD%D0%BF%D1%81%D0%B8%D0%BB%D0%BE%D0%BD_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;section=9" title="Редактировать код раздела «Примечания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-simbad-1"><span class="mw-cite-backlink"><a href="#cite_ref-simbad_1-0">↑</a></span> <span class="reference-text"> <span class="citation"><span lang="en"><a class="external text" href="http://simbad.u-strasbg.fr/simbad/sim-id?protocol=html&amp;Ident=eps+eri" rel="nofollow">SIMBAD</a></span> <span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>. — ε Эридана в базе данных <a href="/wiki/SIMBAD" title="SIMBAD">SIMBAD</a>. Дата обращения: 12 августа 2013.</span> </span>
+</li>
+<li id="cite_note-harvard-2"><span class="mw-cite-backlink">↑ <a href="#cite_ref-harvard_2-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-harvard_2-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://www.cfa.harvard.edu/press/2008/pr200822.html" rel="nofollow">CfA Press Release : Solar System's Young Twin Has Two Asteroid Belts</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span> (27 октября 2008). Дата обращения: 27 октября 2008. <a class="external text" href="https://web.archive.org/web/20081031052624/http://www.cfa.harvard.edu/press/2008/pr200822.html" rel="nofollow">Архивировано</a> 31 октября 2008 года.</span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><span class="citation"><i>Quillen &amp; Thorndike.</i> <span lang="und"><a class="external text" href="https://web.archive.org/web/20070807011236/http://www.spacedaily.com/news/extrasolar-02x.html" rel="nofollow">Small Planet Spotted About Epsilon Eridani</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span> (25 октября 2002). Дата обращения: 20 июня 2007. Архивировано из <a class="external text" href="http://www.spacedaily.com/news/extrasolar-02x.html" rel="nofollow">оригинала</a> 7 августа 2007 года.</span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.iau.org/news/pressreleases/detail/iau1404/" rel="nofollow">NameExoWorlds: An IAU Worldwide Contest to Name Exoplanets and their Host Stars</a> <a class="external text" href="https://web.archive.org/web/20190621051222/https://www.iau.org/news/pressreleases/detail/iau1404/" rel="nofollow">Архивная копия</a> от 21 июня 2019 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. IAU.org. 9 July 2014.</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://web.archive.org/web/20161231043737/http://nameexoworlds.iau.org/exoworlds" rel="nofollow">NameExoWorlds. The ExoWorlds.</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span> Дата обращения: 23 декабря 2015. Архивировано из <a class="external text" href="http://nameexoworlds.iau.org/exoworlds" rel="nofollow">оригинала</a> 31 декабря 2016 года.</span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://web.archive.org/web/20171018220549/http://nameexoworlds.iau.org/process" rel="nofollow">NameExoWorlds. The Process</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 23 декабря 2015. Архивировано из <a class="external text" href="http://nameexoworlds.iau.org/process" rel="nofollow">оригинала</a> 18 октября 2017 года.</span></span>
+</li>
+<li id="cite_note-IAU2015-7"><span class="mw-cite-backlink"><a href="#cite_ref-IAU2015_7-0">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.iau.org/news/pressreleases/detail/iau1514/" rel="nofollow">Final Results of NameExoWorlds Public Vote Released</a> <a class="external text" href="https://web.archive.org/web/20171202072549/https://www.iau.org/news/pressreleases/detail/iau1514/" rel="nofollow">Архивная копия</a> от 2 декабря 2017 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>, International Astronomical Union, 15 December 2015.</span>
+</li>
+</ol></div></div>
+<h2><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span><span class="mw-headline" id="Ссылки">Ссылки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%AD%D0%BF%D1%81%D0%B8%D0%BB%D0%BE%D0%BD_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;veaction=edit&amp;section=10" title="Редактировать раздел «Ссылки»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%AD%D0%BF%D1%81%D0%B8%D0%BB%D0%BE%D0%BD_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;section=10" title="Редактировать код раздела «Ссылки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="http://www.solstation.com/stars/eps-erid.htm" rel="nofollow">ε Эридана на сайте Solstation</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li></ul>
+<div aria-labelledby="Ссылки_на_внешние_ресурсы" class="navbox" data-name="External links" role="navigation" style="padding-top:1px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup" style="display:none"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:External_links" title="Перейти к шаблону «External links»"><img alt="Перейти к шаблону «External links»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span> </span><div id="Ссылки_на_внешние_ресурсы" style="font-size:114%;margin:0 5em">Ссылки на внешние ресурсы</div></th></tr><tr><th class="navbox-group" scope="row" style="width:1px"><div style="padding: 0 35px 0 0; width: 100%;"><div style="float: left;"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8" title="Перейти к шаблону «Внешние ссылки»"><img alt="Перейти к шаблону «Внешние ссылки»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span>  <span typeof="mw:File"><a href="https://www.wikidata.org/wiki/Q194394#identifiers" title="Перейти к элементу Викиданных"><img alt="Перейти к элементу Викиданных" class="mw-file-element" data-file-height="20" data-file-width="20" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/14px-OOjs_UI_icon_edit-ltr-progressive.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/21px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/28px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" width="14"/></a></span></div>  Словари и энциклопедии</div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="external text" href="https://www.britannica.com/topic/Epsilon-Eridani" rel="nofollow">Britannica (онлайн)</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Звёзды_созвездия_Эридана" class="navbox" data-name="Звёзды созвездия Эридана" role="navigation"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%97%D0%B2%D1%91%D0%B7%D0%B4%D1%8B_%D1%81%D0%BE%D0%B7%D0%B2%D0%B5%D0%B7%D0%B4%D0%B8%D1%8F_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0" title="Перейти к шаблону «Звёзды созвездия Эридана»"><img alt="Перейти к шаблону «Звёзды созвездия Эридана»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span> </span><div id="Звёзды_созвездия_Эридана" style="font-size:114%;margin:0 5em">Звёзды созвездия <a href="/wiki/%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD_(%D1%81%D0%BE%D0%B7%D0%B2%D0%B5%D0%B7%D0%B4%D0%B8%D0%B5)" title="Эридан (созвездие)">Эридана</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/%D0%9E%D0%B1%D0%BE%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D1%8F_%D0%91%D0%B0%D0%B9%D0%B5%D1%80%D0%B0" title="Обозначения Байера">Байер</a></th><td class="navbox-list navbox-odd hlist hlist-items-nowrap" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%90%D1%85%D0%B5%D1%80%D0%BD%D0%B0%D1%80" title="Ахернар">α</a></li>
+<li><a href="/wiki/%D0%91%D0%B5%D1%82%D0%B0_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0" title="Бета Эридана">β</a></li>
+<li><a href="/wiki/%D0%93%D0%B0%D0%BC%D0%BC%D0%B0_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0" title="Гамма Эридана">γ</a></li>
+<li><a href="/wiki/%D0%A0%D0%B0%D0%BD%D0%B0_(%D0%B7%D0%B2%D0%B5%D0%B7%D0%B4%D0%B0)" title="Рана (звезда)">δ</a></li>
+<li><a class="mw-selflink selflink">ε</a></li>
+<li><a href="/wiki/%D0%94%D0%B7%D0%B5%D1%82%D0%B0_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0" title="Дзета Эридана">ζ</a></li>
+<li><a href="/wiki/%D0%AD%D1%82%D0%B0_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0" title="Эта Эридана">η</a></li>
+<li><a href="/wiki/%D0%90%D0%BA%D0%B0%D0%BC%D0%B0%D1%80" title="Акамар">θ</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%99%D0%BE%D1%82%D0%B0_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="Йота Эридана (страница отсутствует)">ι</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q5174709" title="d:Q5174709">d:Q5174709</a></span></li>
+<li><a class="new" href="/w/index.php?title=%D0%9A%D0%B0%D0%BF%D0%BF%D0%B0_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="Каппа Эридана (страница отсутствует)">κ</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q5174712" title="d:Q5174712">d:Q5174712</a></span></li>
+<li><a href="/wiki/%D0%9B%D1%8F%D0%BC%D0%B1%D0%B4%D0%B0_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0" title="Лямбда Эридана">λ</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%9C%D1%8E_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="Мю Эридана (страница отсутствует)">μ</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q5174720" title="d:Q5174720">d:Q5174720</a></span></li>
+<li><a class="new" href="/w/index.php?title=%D0%9D%D1%8E_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="Ню Эридана (страница отсутствует)">ν</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q5174751" title="d:Q5174751">d:Q5174751</a></span></li>
+<li><a class="new" href="/w/index.php?title=%D0%9A%D1%81%D0%B8_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="Кси Эридана (страница отсутствует)">ξ</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q6856249" title="d:Q6856249">d:Q6856249</a></span></li>
+<li><a class="new" href="/w/index.php?title=%D0%9E%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%BD%C2%B9_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="Омикрон¹ Эридана (страница отсутствует)">ο¹</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q814649" title="d:Q814649">d:Q814649</a></span></li>
+<li><a href="/wiki/40_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0" title="40 Эридана">ο²</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%9F%D0%B8_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="Пи Эридана (страница отсутствует)">π</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q5174762" title="d:Q5174762">d:Q5174762</a></span></li>
+<li><a class="new" href="/w/index.php?title=%D0%A0%D0%BE%C2%B9_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="Ро¹ Эридана (страница отсутствует)">ρ¹</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q11144363" title="d:Q11144363">d:Q11144363</a></span></li>
+<li><a class="new" href="/w/index.php?title=%D0%A0%D0%BE%C2%B2_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="Ро² Эридана (страница отсутствует)">ρ²</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q10360387" title="d:Q10360387">d:Q10360387</a></span></li>
+<li><a class="new" href="/w/index.php?title=%D0%A0%D0%BE%C2%B3_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="Ро³ Эридана (страница отсутствует)">ρ³</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q10360389" title="d:Q10360389">d:Q10360389</a></span></li>
+<li><a href="/wiki/%D0%A2%D0%B0%D1%83%C2%B9_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0" title="Тау¹ Эридана">τ¹</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%A2%D0%B0%D1%83%C2%B2_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="Тау² Эридана (страница отсутствует)">τ²</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q538594" title="d:Q538594">d:Q538594</a></span></li>
+<li><a class="new" href="/w/index.php?title=%D0%A2%D0%B0%D1%83%C2%B3_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="Тау³ Эридана (страница отсутствует)">τ³</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q5174777" title="d:Q5174777">d:Q5174777</a></span></li>
+<li><a class="new" href="/w/index.php?title=%D0%A2%D0%B0%D1%83%E2%81%B4_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="Тау⁴ Эридана (страница отсутствует)">τ⁴</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q3304930" title="d:Q3304930">d:Q3304930</a></span></li>
+<li><a class="new" href="/w/index.php?title=%D0%A2%D0%B0%D1%83%E2%81%B5_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="Тау⁵ Эридана (страница отсутствует)">τ⁵</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q5174782" title="d:Q5174782">d:Q5174782</a></span></li>
+<li><a href="/wiki/%D0%A2%D0%B0%D1%83%E2%81%B6_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0" title="Тау⁶ Эридана">τ⁶</a></li>
+<li><a class="new" href="/w/index.php?title=HD_23878&amp;action=edit&amp;redlink=1" title="HD 23878 (страница отсутствует)">τ⁷</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q10378365" title="d:Q10378365">d:Q10378365</a></span></li>
+<li><a class="new" href="/w/index.php?title=%D0%A2%D0%B0%D1%83%E2%81%B8_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="Тау⁸ Эридана (страница отсутствует)">τ⁸</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q5174788" title="d:Q5174788">d:Q5174788</a></span></li>
+<li><a class="new" href="/w/index.php?title=%D0%A2%D0%B0%D1%83%E2%81%B9_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="Тау⁹ Эридана (страница отсутствует)">τ⁹</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q5174792" title="d:Q5174792">d:Q5174792</a></span></li>
+<li><a class="new" href="/w/index.php?title=%D0%98%D0%BF%D1%81%D0%B8%D0%BB%D0%BE%D0%BD%C2%B9_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="Ипсилон¹ Эридана (страница отсутствует)">υ¹</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q5174802" title="d:Q5174802">d:Q5174802</a></span></li>
+<li><a class="new" href="/w/index.php?title=%D0%98%D0%BF%D1%81%D0%B8%D0%BB%D0%BE%D0%BD%C2%B2_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="Ипсилон² Эридана (страница отсутствует)">υ²</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q2141642" title="d:Q2141642">d:Q2141642</a></span></li>
+<li><a class="new" href="/w/index.php?title=43_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="43 Эридана (страница отсутствует)">υ³</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q5174808" title="d:Q5174808">d:Q5174808</a></span></li>
+<li><a class="new" href="/w/index.php?title=%D0%98%D0%BF%D1%81%D0%B8%D0%BB%D0%BE%D0%BD%E2%81%B4_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="Ипсилон⁴ Эридана (страница отсутствует)">υ⁴</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q5174811" title="d:Q5174811">d:Q5174811</a></span></li>
+<li><a class="new" href="/w/index.php?title=%D0%A4%D0%B8_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="Фи Эридана (страница отсутствует)">φ</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q4216065" title="d:Q4216065">d:Q4216065</a></span></li>
+<li><a href="/wiki/%D0%A5%D0%B8_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0" title="Хи Эридана">χ</a></li>
+<li><a href="/wiki/%D0%9F%D1%81%D0%B8_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0" title="Пси Эридана">ψ</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%9E%D0%BC%D0%B5%D0%B3%D0%B0_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="Омега Эридана (страница отсутствует)">ω</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q5174753" title="d:Q5174753">d:Q5174753</a></span></li>
+<li><a class="new" href="/w/index.php?title=39_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="39 Эридана (страница отсутствует)">A</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q4636111" title="d:Q4636111">d:Q4636111</a></span></li>
+<li><a class="new" href="/w/index.php?title=62_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="62 Эридана (страница отсутствует)">b</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q9553979" title="d:Q9553979">d:Q9553979</a></span></li>
+<li><a href="/wiki/51_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0" title="51 Эридана">c</a></li>
+<li><a class="new" href="/w/index.php?title=EM_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="EM Эридана (страница отсутствует)">d</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q10293412" title="d:Q10293412">d:Q10293412</a></span></li>
+<li><a href="/wiki/82_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0" title="82 Эридана">e</a></li>
+<li><a class="new" href="/w/index.php?title=F_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="F Эридана (страница отсутствует)">f</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q5174668" title="d:Q5174668">d:Q5174668</a></span></li>
+<li><a class="new" href="/w/index.php?title=HD_24160&amp;action=edit&amp;redlink=1" title="HD 24160 (страница отсутствует)">g</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q5174691" title="d:Q5174691">d:Q5174691</a></span></li>
+<li><a class="new" href="/w/index.php?title=HD_23319&amp;action=edit&amp;redlink=1" title="HD 23319 (страница отсутствует)">h</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q5174684" title="d:Q5174684">d:Q5174684</a></span></li>
+<li><a class="new" href="/w/index.php?title=HD_24626&amp;action=edit&amp;redlink=1" title="HD 24626 (страница отсутствует)">i</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q10293410" title="d:Q10293410">d:Q10293410</a></span></li>
+<li><a class="new" href="/w/index.php?title=53_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="53 Эридана (страница отсутствует)">l</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q243233" title="d:Q243233">d:Q243233</a></span></li>
+<li><a href="/wiki/P_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0" title="P Эридана">p</a></li>
+<li><a href="/wiki/HD_10647" title="HD 10647">q¹</a></li>
+<li><a class="new" href="/w/index.php?title=HD_10939&amp;action=edit&amp;redlink=1" title="HD 10939 (страница отсутствует)">q²</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q10847589" title="d:Q10847589">d:Q10847589</a></span></li>
+<li><a class="new" href="/w/index.php?title=HD_19141&amp;action=edit&amp;redlink=1" title="HD 19141 (страница отсутствует)">r</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q10849023" title="d:Q10849023">d:Q10849023</a></span></li>
+<li><a class="new" href="/w/index.php?title=HD_16754&amp;action=edit&amp;redlink=1" title="HD 16754 (страница отсутствует)">s</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q5174677" title="d:Q5174677">d:Q5174677</a></span></li>
+<li><a class="new" href="/w/index.php?title=HD_20121&amp;action=edit&amp;redlink=1" title="HD 20121 (страница отсутствует)">u</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q10293401" title="d:Q10293401">d:Q10293401</a></span></li>
+<li><a class="new" href="/w/index.php?title=17_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="17 Эридана (страница отсутствует)">v</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q4553537" title="d:Q4553537">d:Q4553537</a></span></li>
+<li><a class="new" href="/w/index.php?title=32_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="32 Эридана (страница отсутствует)">w</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q19610356" title="d:Q19610356">d:Q19610356</a></span></li>
+<li><a class="new" href="/w/index.php?title=HD_22663&amp;action=edit&amp;redlink=1" title="HD 22663 (страница отсутствует)">y</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q5174681" title="d:Q5174681">d:Q5174681</a></span></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/%D0%9E%D0%B1%D0%BE%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D1%8F_%D0%A4%D0%BB%D0%B5%D0%BC%D1%81%D1%82%D0%B8%D0%B4%D0%B0" title="Обозначения Флемстида">Флемстид</a></th><td class="navbox-list navbox-even hlist hlist-items-nowrap" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%A2%D0%B0%D1%83%C2%B9_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0" title="Тау¹ Эридана">1</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%A2%D0%B0%D1%83%C2%B2_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="Тау² Эридана (страница отсутствует)">2</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q538594" title="d:Q538594">d:Q538594</a></span></li>
+<li><a href="/wiki/%D0%AD%D1%82%D0%B0_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0" title="Эта Эридана">3</a></li>
+<li><a class="new" href="/w/index.php?title=HD_18454&amp;action=edit&amp;redlink=1" title="HD 18454 (страница отсутствует)">4</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q6827968" title="d:Q6827968">d:Q6827968</a></span></li>
+<li><a class="new" href="/w/index.php?title=HD_18633&amp;action=edit&amp;redlink=1" title="HD 18633 (страница отсутствует)">5</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q11144346" title="d:Q11144346">d:Q11144346</a></span></li>
+<li><a class="new" href="/w/index.php?title=HD_18535&amp;action=edit&amp;redlink=1" title="HD 18535 (страница отсутствует)">6</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q10940670" title="d:Q10940670">d:Q10940670</a></span></li>
+<li><a class="new" href="/w/index.php?title=HD_18760&amp;action=edit&amp;redlink=1" title="HD 18760 (страница отсутствует)">7</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q10939218" title="d:Q10939218">d:Q10939218</a></span></li>
+<li><a class="new" href="/w/index.php?title=%D0%A0%D0%BE%C2%B9_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="Ро¹ Эридана (страница отсутствует)">8</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q11144363" title="d:Q11144363">d:Q11144363</a></span></li>
+<li><a class="new" href="/w/index.php?title=%D0%A0%D0%BE%C2%B2_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="Ро² Эридана (страница отсутствует)">9</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q10360387" title="d:Q10360387">d:Q10360387</a></span></li>
+<li><a class="new" href="/w/index.php?title=%D0%A0%D0%BE%C2%B3_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="Ро³ Эридана (страница отсутствует)">10</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q10360389" title="d:Q10360389">d:Q10360389</a></span></li>
+<li><a class="new" href="/w/index.php?title=%D0%A2%D0%B0%D1%83%C2%B3_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="Тау³ Эридана (страница отсутствует)">11</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q5174777" title="d:Q5174777">d:Q5174777</a></span></li>
+<li><a href="/wiki/%D0%94%D0%B7%D0%B5%D1%82%D0%B0_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0" title="Дзета Эридана">13</a></li>
+<li><a class="new" href="/w/index.php?title=14_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="14 Эридана (страница отсутствует)">14</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q4549938" title="d:Q4549938">d:Q4549938</a></span></li>
+<li><a class="new" href="/w/index.php?title=15_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="15 Эридана (страница отсутствует)">15</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q4550864" title="d:Q4550864">d:Q4550864</a></span></li>
+<li><a class="new" href="/w/index.php?title=%D0%A2%D0%B0%D1%83%E2%81%B4_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="Тау⁴ Эридана (страница отсутствует)">16</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q3304930" title="d:Q3304930">d:Q3304930</a></span></li>
+<li><a class="new" href="/w/index.php?title=17_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="17 Эридана (страница отсутствует)">17</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q4553537" title="d:Q4553537">d:Q4553537</a></span></li>
+<li><a class="mw-selflink selflink">18</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%A2%D0%B0%D1%83%E2%81%B5_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="Тау⁵ Эридана (страница отсутствует)">19</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q5174782" title="d:Q5174782">d:Q5174782</a></span></li>
+<li><a class="new" href="/w/index.php?title=20_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="20 Эридана (страница отсутствует)">20</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q6828007" title="d:Q6828007">d:Q6828007</a></span></li>
+<li><a class="new" href="/w/index.php?title=HD_22713&amp;action=edit&amp;redlink=1" title="HD 22713 (страница отсутствует)">21</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q10940671" title="d:Q10940671">d:Q10940671</a></span></li>
+<li><a class="new" href="/w/index.php?title=22_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="22 Эридана (страница отсутствует)">22</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q6827919" title="d:Q6827919">d:Q6827919</a></span></li>
+<li><a href="/wiki/%D0%A0%D0%B0%D0%BD%D0%B0_(%D0%B7%D0%B2%D0%B5%D0%B7%D0%B4%D0%B0)" title="Рана (звезда)">23</a></li>
+<li><a class="new" href="/w/index.php?title=HD_23363&amp;action=edit&amp;redlink=1" title="HD 23363 (страница отсутствует)">24</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q10939219" title="d:Q10939219">d:Q10939219</a></span></li>
+<li><a class="new" href="/w/index.php?title=HD_23413&amp;action=edit&amp;redlink=1" title="HD 23413 (страница отсутствует)">25</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q10939216" title="d:Q10939216">d:Q10939216</a></span></li>
+<li><a class="new" href="/w/index.php?title=%D0%9F%D0%B8_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="Пи Эридана (страница отсутствует)">26</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q5174762" title="d:Q5174762">d:Q5174762</a></span></li>
+<li><a href="/wiki/%D0%A2%D0%B0%D1%83%E2%81%B6_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0" title="Тау⁶ Эридана">27</a></li>
+<li><a class="new" href="/w/index.php?title=HD_23878&amp;action=edit&amp;redlink=1" title="HD 23878 (страница отсутствует)">28</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q10378365" title="d:Q10378365">d:Q10378365</a></span></li>
+<li><a class="new" href="/w/index.php?title=29_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="29 Эридана (страница отсутствует)">29</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q12808209" title="d:Q12808209">d:Q12808209</a></span></li>
+<li><a class="new" href="/w/index.php?title=32_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="32 Эридана (страница отсутствует)">32</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q19610356" title="d:Q19610356">d:Q19610356</a></span></li>
+<li><a class="new" href="/w/index.php?title=%D0%A2%D0%B0%D1%83%E2%81%B8_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="Тау⁸ Эридана (страница отсутствует)">33</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q5174788" title="d:Q5174788">d:Q5174788</a></span></li>
+<li><a href="/wiki/%D0%93%D0%B0%D0%BC%D0%BC%D0%B0_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0" title="Гамма Эридана">34</a></li>
+<li><a class="new" href="/w/index.php?title=HD_25340&amp;action=edit&amp;redlink=1" title="HD 25340 (страница отсутствует)">35</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q10878824" title="d:Q10878824">d:Q10878824</a></span></li>
+<li><a class="new" href="/w/index.php?title=%D0%A2%D0%B0%D1%83%E2%81%B9_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="Тау⁹ Эридана (страница отсутствует)">36</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q5174792" title="d:Q5174792">d:Q5174792</a></span></li>
+<li><a class="new" href="/w/index.php?title=HD_26409&amp;action=edit&amp;redlink=1" title="HD 26409 (страница отсутствует)">37</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q10878827" title="d:Q10878827">d:Q10878827</a></span></li>
+<li><a class="new" href="/w/index.php?title=%D0%9E%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%BD%C2%B9_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="Омикрон¹ Эридана (страница отсутствует)">38</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q814649" title="d:Q814649">d:Q814649</a></span></li>
+<li><a class="new" href="/w/index.php?title=39_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="39 Эридана (страница отсутствует)">39</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q4636111" title="d:Q4636111">d:Q4636111</a></span></li>
+<li><a href="/wiki/40_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0" title="40 Эридана">40</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%98%D0%BF%D1%81%D0%B8%D0%BB%D0%BE%D0%BD%E2%81%B4_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="Ипсилон⁴ Эридана (страница отсутствует)">41</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q5174811" title="d:Q5174811">d:Q5174811</a></span></li>
+<li><a class="new" href="/w/index.php?title=%D0%9A%D1%81%D0%B8_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="Кси Эридана (страница отсутствует)">42</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q6856249" title="d:Q6856249">d:Q6856249</a></span></li>
+<li><a class="new" href="/w/index.php?title=43_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="43 Эридана (страница отсутствует)">43</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q5174808" title="d:Q5174808">d:Q5174808</a></span></li>
+<li><a class="new" href="/w/index.php?title=45_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="45 Эридана (страница отсутствует)">45</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q2816859" title="d:Q2816859">d:Q2816859</a></span></li>
+<li><a class="new" href="/w/index.php?title=EH_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="EH Эридана (страница отсутствует)">46</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q6856220" title="d:Q6856220">d:Q6856220</a></span></li>
+<li><a class="new" href="/w/index.php?title=HD_29064&amp;action=edit&amp;redlink=1" title="HD 29064 (страница отсутствует)">47</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q10878826" title="d:Q10878826">d:Q10878826</a></span></li>
+<li><a class="new" href="/w/index.php?title=%D0%9D%D1%8E_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="Ню Эридана (страница отсутствует)">48</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q5174751" title="d:Q5174751">d:Q5174751</a></span></li>
+<li><a class="new" href="/w/index.php?title=%D0%98%D0%BF%D1%81%D0%B8%D0%BB%D0%BE%D0%BD%C2%B9_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="Ипсилон¹ Эридана (страница отсутствует)">50</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q5174802" title="d:Q5174802">d:Q5174802</a></span></li>
+<li><a href="/wiki/51_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0" title="51 Эридана">51</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%98%D0%BF%D1%81%D0%B8%D0%BB%D0%BE%D0%BD%C2%B2_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="Ипсилон² Эридана (страница отсутствует)">52</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q2141642" title="d:Q2141642">d:Q2141642</a></span></li>
+<li><a class="new" href="/w/index.php?title=53_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="53 Эридана (страница отсутствует)">53</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q243233" title="d:Q243233">d:Q243233</a></span></li>
+<li><a class="new" href="/w/index.php?title=54_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="54 Эридана (страница отсутствует)">54</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q4640474" title="d:Q4640474">d:Q4640474</a></span></li>
+<li><a class="new" href="/w/index.php?title=55_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="55 Эридана (страница отсутствует)">55</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q12141356" title="d:Q12141356">d:Q12141356</a></span></li>
+<li><a class="new" href="/w/index.php?title=HD_30076&amp;action=edit&amp;redlink=1" title="HD 30076 (страница отсутствует)">56</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q10878823" title="d:Q10878823">d:Q10878823</a></span></li>
+<li><a class="new" href="/w/index.php?title=%D0%9C%D1%8E_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="Мю Эридана (страница отсутствует)">57</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q5174720" title="d:Q5174720">d:Q5174720</a></span></li>
+<li><a href="/wiki/58_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0" title="58 Эридана">58</a></li>
+<li><a class="new" href="/w/index.php?title=59_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="59 Эридана (страница отсутствует)">59</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q12200357" title="d:Q12200357">d:Q12200357</a></span></li>
+<li><a class="new" href="/w/index.php?title=HD_30814&amp;action=edit&amp;redlink=1" title="HD 30814 (страница отсутствует)">60</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q10878877" title="d:Q10878877">d:Q10878877</a></span></li>
+<li><a class="new" href="/w/index.php?title=%D0%9E%D0%BC%D0%B5%D0%B3%D0%B0_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="Омега Эридана (страница отсутствует)">61</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q5174753" title="d:Q5174753">d:Q5174753</a></span></li>
+<li><a class="new" href="/w/index.php?title=62_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="62 Эридана (страница отсутствует)">62</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q9553979" title="d:Q9553979">d:Q9553979</a></span></li>
+<li><a class="new" href="/w/index.php?title=HD_32008&amp;action=edit&amp;redlink=1" title="HD 32008 (страница отсутствует)">63</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q10878878" title="d:Q10878878">d:Q10878878</a></span></li>
+<li><a class="new" href="/w/index.php?title=64_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="64 Эридана (страница отсутствует)">64</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q4642034" title="d:Q4642034">d:Q4642034</a></span></li>
+<li><a href="/wiki/%D0%9F%D1%81%D0%B8_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0" title="Пси Эридана">65</a></li>
+<li><a class="new" href="/w/index.php?title=EN_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="EN Эридана (страница отсутствует)">66</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q6753483" title="d:Q6753483">d:Q6753483</a></span></li>
+<li><a href="/wiki/%D0%91%D0%B5%D1%82%D0%B0_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0" title="Бета Эридана">67</a></li>
+<li><a class="new" href="/w/index.php?title=68_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="68 Эридана (страница отсутствует)">68</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q12204880" title="d:Q12204880">d:Q12204880</a></span></li>
+<li><a href="/wiki/%D0%9B%D1%8F%D0%BC%D0%B1%D0%B4%D0%B0_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0" title="Лямбда Эридана">69</a></li>
+<li><a href="/wiki/%D0%90%D1%85%D0%B5%D1%80%D0%BD%D0%B0%D1%80" title="Ахернар">70</a></li>
+<li><i><a href="/wiki/%D0%A2%D0%B0%D1%83%C2%B9_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0" title="Тау¹ Эридана">90 Cet</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B7%D0%B2%D0%B5%D0%B7%D0%B4%D0%B0" title="Переменная звезда">Переменные</a></th><td class="navbox-list navbox-odd hlist hlist-items-nowrap" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="new" href="/w/index.php?title=HD_31444&amp;action=edit&amp;redlink=1" title="HD 31444 (страница отсутствует)">R</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q11144355" title="d:Q11144355">d:Q11144355</a></span></li>
+<li><a class="new" href="/w/index.php?title=64_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="64 Эридана (страница отсутствует)">S</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q4642034" title="d:Q4642034">d:Q4642034</a></span></li>
+<li><a class="new" href="/w/index.php?title=T_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="T Эридана (страница отсутствует)">T</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q12777207" title="d:Q12777207">d:Q12777207</a></span></li>
+<li><a class="new" href="/w/index.php?title=U_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="U Эридана (страница отсутствует)">U</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q56304042" title="d:Q56304042">d:Q56304042</a></span></li>
+<li><a class="new" href="/w/index.php?title=V_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="V Эридана (страница отсутствует)">V</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q56304022" title="d:Q56304022">d:Q56304022</a></span></li>
+<li><a class="new" href="/w/index.php?title=W_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="W Эридана (страница отсутствует)">W</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q56304041" title="d:Q56304041">d:Q56304041</a></span></li>
+<li><a class="new" href="/w/index.php?title=X_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="X Эридана (страница отсутствует)">X</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q56304039" title="d:Q56304039">d:Q56304039</a></span></li>
+<li><a class="new" href="/w/index.php?title=Y_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="Y Эридана (страница отсутствует)">Y</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q56304049" title="d:Q56304049">d:Q56304049</a></span></li>
+<li><a class="new" href="/w/index.php?title=Z_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="Z Эридана (страница отсутствует)">Z</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q11144357" title="d:Q11144357">d:Q11144357</a></span></li>
+<li><a class="new" href="/w/index.php?title=RZ_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="RZ Эридана (страница отсутствует)">RZ</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q12068607" title="d:Q12068607">d:Q12068607</a></span></li>
+<li><a class="new" href="/w/index.php?title=SY_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="SY Эридана (страница отсутствует)">SY</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q80124967" title="d:Q80124967">d:Q80124967</a></span></li>
+<li><a class="new" href="/w/index.php?title=HD_18760&amp;action=edit&amp;redlink=1" title="HD 18760 (страница отсутствует)">CV</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q10939218" title="d:Q10939218">d:Q10939218</a></span></li>
+<li><a class="new" href="/w/index.php?title=DL_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="DL Эридана (страница отсутствует)">DL</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q11144347" title="d:Q11144347">d:Q11144347</a></span></li>
+<li><a class="new" href="/w/index.php?title=54_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="54 Эридана (страница отсутствует)">DM</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q4640474" title="d:Q4640474">d:Q4640474</a></span></li>
+<li><a class="new" href="/w/index.php?title=DO_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="DO Эридана (страница отсутствует)">DO</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q6763618" title="d:Q6763618">d:Q6763618</a></span></li>
+<li><a class="new" href="/w/index.php?title=DU_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="DU Эридана (страница отсутствует)">DU</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q11144351" title="d:Q11144351">d:Q11144351</a></span></li>
+<li><a class="new" href="/w/index.php?title=HD_29064&amp;action=edit&amp;redlink=1" title="HD 29064 (страница отсутствует)">DV</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q10878826" title="d:Q10878826">d:Q10878826</a></span></li>
+<li><a class="new" href="/w/index.php?title=55_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="55 Эридана (страница отсутствует)">DW</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q12141356" title="d:Q12141356">d:Q12141356</a></span></li>
+<li><a class="new" href="/w/index.php?title=HD_30076&amp;action=edit&amp;redlink=1" title="HD 30076 (страница отсутствует)">DX</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q10878823" title="d:Q10878823">d:Q10878823</a></span></li>
+<li><a href="/wiki/40_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0" title="40 Эридана">DY</a></li>
+<li><a class="new" href="/w/index.php?title=EE_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="EE Эридана (страница отсутствует)">EE</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q12067151" title="d:Q12067151">d:Q12067151</a></span></li>
+<li><a href="/wiki/EF_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0" title="EF Эридана">EF</a></li>
+<li><a class="new" href="/w/index.php?title=20_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="20 Эридана (страница отсутствует)">EG</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q6828007" title="d:Q6828007">d:Q6828007</a></span></li>
+<li><a class="new" href="/w/index.php?title=EH_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="EH Эридана (страница отсутствует)">EH</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q6856220" title="d:Q6856220">d:Q6856220</a></span></li>
+<li><a class="new" href="/w/index.php?title=EK_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="EK Эридана (страница отсутствует)">EK</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q11144352" title="d:Q11144352">d:Q11144352</a></span></li>
+<li><a class="new" href="/w/index.php?title=EM_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="EM Эридана (страница отсутствует)">EM</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q10293412" title="d:Q10293412">d:Q10293412</a></span></li>
+<li><a class="new" href="/w/index.php?title=EN_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="EN Эридана (страница отсутствует)">EN</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q6753483" title="d:Q6753483">d:Q6753483</a></span></li>
+<li><a href="/wiki/HD_17925" title="HD 17925">EP</a></li>
+<li><a class="new" href="/w/index.php?title=EX_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="EX Эридана (страница отсутствует)">EX</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q10849879" title="d:Q10849879">d:Q10849879</a></span></li>
+<li><a class="new" href="/w/index.php?title=22_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="22 Эридана (страница отсутствует)">FY</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q6827919" title="d:Q6827919">d:Q6827919</a></span></li>
+<li><a class="new" href="/w/index.php?title=GW_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="GW Эридана (страница отсутствует)">GW</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q7267767" title="d:Q7267767">d:Q7267767</a></span></li>
+<li><a class="new" href="/w/index.php?title=HD_26739&amp;action=edit&amp;redlink=1" title="HD 26739 (страница отсутствует)">GY</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q10849779" title="d:Q10849779">d:Q10849779</a></span></li>
+<li><a class="new" href="/w/index.php?title=GZ_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="GZ Эридана (страница отсутствует)">GZ</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q10849795" title="d:Q10849795">d:Q10849795</a></span></li>
+<li><a class="new" href="/w/index.php?title=HS_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="HS Эридана (страница отсутствует)">HS</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q12068597" title="d:Q12068597">d:Q12068597</a></span></li>
+<li><a href="/wiki/58_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0" title="58 Эридана">IX</a></li>
+<li><a href="/wiki/KT_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0" title="KT Эридана">KT</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%8D%D0%BA%D0%B7%D0%BE%D0%BF%D0%BB%D0%B0%D0%BD%D0%B5%D1%82_%D0%B2_%D1%81%D0%BE%D0%B7%D0%B2%D0%B5%D0%B7%D0%B4%D0%B8%D0%B8_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0" title="Список экзопланет в созвездии Эридана">Планетные<br/>системы</a></th><td class="navbox-list navbox-even hlist hlist-items-nowrap" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="new" href="/w/index.php?title=2MASS_J0249-0557&amp;action=edit&amp;redlink=1" title="2MASS J0249-0557 (страница отсутствует)">2MASS J0249-0557</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q56056055" title="d:Q56056055">d:Q56056055</a></span></li>
+<li><a href="/wiki/40_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0" title="40 Эридана">40 Эридана</a></li>
+<li><a href="/wiki/51_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0" title="51 Эридана">51 Эридана</a></li>
+<li><a href="/wiki/82_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0" title="82 Эридана">82 Эридана</a></li>
+<li><a class="new" href="/w/index.php?title=BD-17%C2%B0588&amp;action=edit&amp;redlink=1" title="BD-17°588 (страница отсутствует)">BD-17°588</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q65124429" title="d:Q65124429">d:Q65124429</a></span></li>
+<li><a href="/wiki/GJ_3323" title="GJ 3323">GJ 3323</a></li>
+<li><a class="new" href="/w/index.php?title=GSC_08047-00232&amp;action=edit&amp;redlink=1" title="GSC 08047-00232 (страница отсутствует)">GSC 08047-00232</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q91599995" title="d:Q91599995">d:Q91599995</a></span></li>
+<li><a class="new" href="/w/index.php?title=HATS-5&amp;action=edit&amp;redlink=1" title="HATS-5 (страница отсутствует)">HATS-5</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q113702567" title="d:Q113702567">d:Q113702567</a></span></li>
+<li><a class="new" href="/w/index.php?title=HATS-57&amp;action=edit&amp;redlink=1" title="HATS-57 (страница отсутствует)">HATS-57</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q78877366" title="d:Q78877366">d:Q78877366</a></span></li>
+<li><a class="new" href="/w/index.php?title=HATS-61&amp;action=edit&amp;redlink=1" title="HATS-61 (страница отсутствует)">HATS-61</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q87396188" title="d:Q87396188">d:Q87396188</a></span></li>
+<li><a class="new" href="/w/index.php?title=HATS-63&amp;action=edit&amp;redlink=1" title="HATS-63 (страница отсутствует)">HATS-63</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q87396220" title="d:Q87396220">d:Q87396220</a></span></li>
+<li><a class="new" href="/w/index.php?title=HATS-75&amp;action=edit&amp;redlink=1" title="HATS-75 (страница отсутствует)">HATS-75</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q113709220" title="d:Q113709220">d:Q113709220</a></span></li>
+<li><a href="/wiki/HD_10647" title="HD 10647">HD 10647</a></li>
+<li><a class="new" href="/w/index.php?title=HD_11343&amp;action=edit&amp;redlink=1" title="HD 11343 (страница отсутствует)">HD 11343</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q67858799" title="d:Q67858799">d:Q67858799</a></span></li>
+<li><a href="/wiki/HD_13445" title="HD 13445">HD 13445</a></li>
+<li><a href="/wiki/HD_13808" title="HD 13808">HD 13808</a></li>
+<li><a class="new" href="/w/index.php?title=HD_18015&amp;action=edit&amp;redlink=1" title="HD 18015 (страница отсутствует)">HD 18015</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q66643273" title="d:Q66643273">d:Q66643273</a></span></li>
+<li><a href="/wiki/HD_18742" title="HD 18742">HD 18742</a></li>
+<li><a class="new" href="/w/index.php?title=HD_19467&amp;action=edit&amp;redlink=1" title="HD 19467 (страница отсутствует)">HD 19467</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q66610360" title="d:Q66610360">d:Q66610360</a></span></li>
+<li><a class="new" href="/w/index.php?title=HD_25015&amp;action=edit&amp;redlink=1" title="HD 25015 (страница отсутствует)">HD 25015</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q67858873" title="d:Q67858873">d:Q67858873</a></span></li>
+<li><a class="new" href="/w/index.php?title=HD_25723&amp;action=edit&amp;redlink=1" title="HD 25723 (страница отсутствует)">HD 25723</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q10849749" title="d:Q10849749">d:Q10849749</a></span></li>
+<li><a href="/wiki/HD_28185" title="HD 28185">HD 28185</a></li>
+<li><a href="/wiki/HD_30562" title="HD 30562">HD 30562</a></li>
+<li><a href="/wiki/HD_30856" title="HD 30856">HD 30856</a></li>
+<li><a class="new" href="/w/index.php?title=HIP_12961&amp;action=edit&amp;redlink=1" title="HIP 12961 (страница отсутствует)">HIP 12961</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q3124864" title="d:Q3124864">d:Q3124864</a></span></li>
+<li><a class="new" href="/w/index.php?title=LP_714-47&amp;action=edit&amp;redlink=1" title="LP 714-47 (страница отсутствует)">LP 714-47</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q93714085" title="d:Q93714085">d:Q93714085</a></span></li>
+<li><a class="new" href="/w/index.php?title=NGTS-16&amp;action=edit&amp;redlink=1" title="NGTS-16 (страница отсутствует)">NGTS-16</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q113705459" title="d:Q113705459">d:Q113705459</a></span></li>
+<li><a class="new" href="/w/index.php?title=TOI-451&amp;action=edit&amp;redlink=1" title="TOI-451 (страница отсутствует)">TOI-451</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q94902203" title="d:Q94902203">d:Q94902203</a></span></li>
+<li><a class="new" href="/w/index.php?title=TOI-954&amp;action=edit&amp;redlink=1" title="TOI-954 (страница отсутствует)">TOI-954</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q89546354" title="d:Q89546354">d:Q89546354</a></span></li>
+<li><a class="new" href="/w/index.php?title=TOI-1201&amp;action=edit&amp;redlink=1" title="TOI-1201 (страница отсутствует)">TOI-1201</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q80149096" title="d:Q80149096">d:Q80149096</a></span></li>
+<li><a href="/wiki/LP_890-9" title="LP 890-9">TOI-4306</a></li>
+<li><a class="new" href="/w/index.php?title=TOI-5252&amp;action=edit&amp;redlink=1" title="TOI-5252 (страница отсутствует)">TOI-5252</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q84443090" title="d:Q84443090">d:Q84443090</a></span></li>
+<li><a href="/wiki/WASP-22" title="WASP-22">WASP-22</a></li>
+<li><a href="/wiki/WASP-35" title="WASP-35">WASP-35</a></li>
+<li><a href="/wiki/WASP-50" title="WASP-50">WASP-50</a></li>
+<li><a href="/wiki/WASP-78" title="WASP-78">WASP-78</a></li>
+<li><a href="/wiki/WASP-79" title="WASP-79">WASP-79</a></li>
+<li><a href="/wiki/WASP-97" title="WASP-97">WASP-97</a></li>
+<li><a href="/wiki/WASP-98" title="WASP-98">WASP-98</a></li>
+<li><a href="/wiki/WASP-99" title="WASP-99">WASP-99</a></li>
+<li><a href="/wiki/WASP-117" title="WASP-117">WASP-117</a></li>
+<li><a class="new" href="/w/index.php?title=WASP-139&amp;action=edit&amp;redlink=1" title="WASP-139 (страница отсутствует)">WASP-139</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q91219514" title="d:Q91219514">d:Q91219514</a></span></li>
+<li><a class="new" href="/w/index.php?title=WASP-140&amp;action=edit&amp;redlink=1" title="WASP-140 (страница отсутствует)">WASP-140</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q95161744" title="d:Q95161744">d:Q95161744</a></span></li>
+<li><a class="new" href="/w/index.php?title=WASP-141&amp;action=edit&amp;redlink=1" title="WASP-141 (страница отсутствует)">WASP-141</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q84437202" title="d:Q84437202">d:Q84437202</a></span></li>
+<li><a class="new" href="/w/index.php?title=ZTFJ0407-00&amp;action=edit&amp;redlink=1" title="ZTFJ0407-00 (страница отсутствует)">ZTFJ0407-00</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q113847734" title="d:Q113847734">d:Q113847734</a></span></li>
+<li><a href="/wiki/%D0%93%D0%BB%D0%B8%D0%B7%D0%B5_180" title="Глизе 180">Глизе 180</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%93%D0%BB%D0%B8%D0%B7%D0%B5_2030&amp;action=edit&amp;redlink=1" title="Глизе 2030 (страница отсутствует)">Глизе 2030</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q10849373" title="d:Q10849373">d:Q10849373</a></span></li>
+<li><a class="new" href="/w/index.php?title=%D0%93%D0%BB%D0%B8%D0%B7%D0%B5_3293&amp;action=edit&amp;redlink=1" title="Глизе 3293 (страница отсутствует)">Глизе 3293</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q25378442" title="d:Q25378442">d:Q25378442</a></span></li>
+<li><a class="new" href="/w/index.php?title=%D0%93%D0%BB%D0%B8%D0%B7%D0%B5_160.2&amp;action=edit&amp;redlink=1" title="Глизе 160.2 (страница отсутствует)">Глизе 160.2</a><span style="display:none"><a class="extiw" href="https://www.wikidata.org/wiki/Q95161837" title="d:Q95161837">d:Q95161837</a></span></li>
+<li><a class="mw-selflink selflink">Эпсилон Эридана</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Другие</th><td class="navbox-list navbox-odd hlist hlist-items-nowrap" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/DEN_0255-4700" title="DEN 0255-4700">DEN 0255-4700</a></li>
+<li><a href="/wiki/HD_23356" title="HD 23356">HD 23356</a></li>
+<li><a href="/wiki/HR_1614" title="HR 1614">HR 1614</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B7%D0%B2%D1%91%D0%B7%D0%B4_%D1%81%D0%BE%D0%B7%D0%B2%D0%B5%D0%B7%D0%B4%D0%B8%D1%8F_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0" title="Список звёзд созвездия Эридана">Список звёзд созвездия Эридана</a></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐7cc97dcfbc‐ndbbh
+Cached time: 20240218102329
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.677 seconds
+Real time usage: 0.879 seconds
+Preprocessor visited node count: 5496/1000000
+Post‐expand include size: 142654/2097152 bytes
+Template argument size: 17460/2097152 bytes
+Highest expansion depth: 18/100
+Expensive parser function count: 31/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 8676/5000000 bytes
+Lua time usage: 0.411/10.000 seconds
+Lua memory usage: 13822269/52428800 bytes
+Number of Wikibase entities loaded: 25/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  750.553      1 -total
+ 74.77%  561.163      1 Шаблон:Звезда
+ 65.74%  493.425      1 Шаблон:Карточка
+ 20.72%  155.492     17 Шаблон:Wikidata
+ 11.29%   84.740      1 Шаблон:Внешние_ссылки
+  7.29%   54.709      1 Шаблон:SkyMap/Star
+  7.08%   53.147      1 Шаблон:SkyMap
+  5.99%   44.961      3 Шаблон:AstroCoord
+  4.10%   30.799      5 Шаблон:Cite_web
+  3.56%   26.691      2 Шаблон:Карточка/блок_с_маркерами
+-->
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:147709-0!canonical and timestamp 20240218102329 and revision id 135395676. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> -->
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Эпсилон_Эридана&amp;oldid=135395676">https://ru.wikipedia.org/w/index.php?title=Эпсилон_Эридана&amp;oldid=135395676</a></div></div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9E%D1%80%D0%B0%D0%BD%D0%B6%D0%B5%D0%B2%D1%8B%D0%B5_%D0%BA%D0%B0%D1%80%D0%BB%D0%B8%D0%BA%D0%B8" title="Категория:Оранжевые карлики">Оранжевые карлики</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%97%D0%B2%D1%91%D0%B7%D0%B4%D1%8B_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Звёзды по алфавиту">Звёзды по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%97%D0%B2%D1%91%D0%B7%D0%B4%D1%8B_%D1%81%D0%BE%D0%B7%D0%B2%D0%B5%D0%B7%D0%B4%D0%B8%D1%8F_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0" title="Категория:Звёзды созвездия Эридана">Звёзды созвездия Эридана</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%BD%D1%8B%D0%B5_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B" title="Категория:Планетные системы">Планетные системы</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%91%D0%BB%D0%B8%D0%B6%D0%B0%D0%B9%D1%88%D0%B8%D0%B5_%D0%BA_%D0%A1%D0%BE%D0%BB%D0%BD%D1%86%D1%83_%D0%B7%D0%B2%D1%91%D0%B7%D0%B4%D1%8B" title="Категория:Ближайшие к Солнцу звёзды">Ближайшие к Солнцу звёзды</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D1%82%D0%B8%D0%BF%D0%B0_BY_%D0%94%D1%80%D0%B0%D0%BA%D0%BE%D0%BD%D0%B0" title="Категория:Переменные типа BY Дракона">Переменные типа BY Дракона</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9E%D1%81%D1%82%D0%B0%D1%82%D0%BE%D1%87%D0%BD%D1%8B%D0%B5_%D0%B4%D0%B8%D1%81%D0%BA%D0%B8" title="Категория:Остаточные диски">Остаточные диски</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D1%81_%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%B0%D0%BC%D0%B8" title="Категория:Страницы с графиками">Страницы с графиками</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D1%81_%D0%BD%D0%B5%D1%87%D0%B8%D1%81%D0%BB%D0%BE%D0%B2%D1%8B%D0%BC%D0%B8_%D0%B0%D1%80%D0%B3%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8_formatnum" title="Категория:Страницы с нечисловыми аргументами formatnum">Страницы с нечисловыми аргументами formatnum</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%BD%D0%B5_%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD_%D1%8F%D0%B7%D1%8B%D0%BA)" title="Категория:Википедия:Cite web (не указан язык)">Википедия:Cite web (не указан язык)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D0%BD%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%BC_%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BC)" title="Категория:Википедия:Cite web (статьи с неверным параметром)">Википедия:Cite web (статьи с неверным параметром)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D0%BD%D0%B5%D1%83%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D1%87%D0%B5%D0%BD%D0%BD%D1%8B%D0%BC%D0%B8_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC%D0%B8_%D1%80%D0%B0%D0%B7%D0%BD%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D1%85_%D1%84%D0%B0%D0%BA%D1%82%D0%BE%D0%B2" title="Категория:Википедия:Статьи с неупорядоченными списками разнообразных фактов">Википедия:Статьи с неупорядоченными списками разнообразных фактов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B0%D0%BC%D0%B8_%D0%BD%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D1%82%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Википедия:Статьи с шаблонами недостатков по алфавиту">Википедия:Статьи с шаблонами недостатков по алфавиту</a></li></ul></div></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Навигация</h2>
+<div id="mw-head">
+<nav aria-labelledby="p-personal-label" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" id="p-personal" role="navigation">
+<h3 class="vector-menu-heading" id="p-personal-label">
+<span class="vector-menu-heading-label">Персональные инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="pt-anonuserpage"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li class="mw-list-item" id="pt-anontalk"><a accesskey="n" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]"><span>Обсуждение</span></a></li><li class="mw-list-item" id="pt-anoncontribs"><a accesskey="y" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]"><span>Вклад</span></a></li><li class="mw-list-item" id="pt-createaccount"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%AD%D0%BF%D1%81%D0%B8%D0%BB%D0%BE%D0%BD+%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li class="mw-list-item" id="pt-login"><a accesskey="o" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%AD%D0%BF%D1%81%D0%B8%D0%BB%D0%BE%D0%BD+%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]"><span>Войти</span></a></li>
+</ul>
+</div>
+</nav>
+<div id="left-navigation">
+<nav aria-labelledby="p-namespaces-label" class="mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-namespaces" role="navigation">
+<h3 class="vector-menu-heading" id="p-namespaces-label">
+<span class="vector-menu-heading-label">Пространства имён</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-nstab-main"><a accesskey="c" href="/wiki/%D0%AD%D0%BF%D1%81%D0%B8%D0%BB%D0%BE%D0%BD_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0" title="Просмотреть контентную страницу [c]"><span>Статья</span></a></li><li class="mw-list-item" id="ca-talk"><a accesskey="t" href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%AD%D0%BF%D1%81%D0%B8%D0%BB%D0%BE%D0%BD_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0" rel="discussion" title="Обсуждение основной страницы [t]"><span>Обсуждение</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-variants-label" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" id="p-variants" role="navigation">
+<input aria-haspopup="true" aria-labelledby="p-variants-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-variants" id="p-variants-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-variants-label">
+<span class="vector-menu-heading-label">русский</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+</div>
+<div id="right-navigation">
+<nav aria-labelledby="p-views-label" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-views" role="navigation">
+<h3 class="vector-menu-heading" id="p-views-label">
+<span class="vector-menu-heading-label">Просмотры</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-view"><a href="/wiki/%D0%AD%D0%BF%D1%81%D0%B8%D0%BB%D0%BE%D0%BD_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0"><span>Читать</span></a></li><li class="mw-list-item" id="ca-ve-edit"><a accesskey="v" href="/w/index.php?title=%D0%AD%D0%BF%D1%81%D0%B8%D0%BB%D0%BE%D0%BD_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;veaction=edit" title="Редактировать данную страницу [v]"><span>Править</span></a></li><li class="collapsible mw-list-item" id="ca-edit"><a accesskey="e" href="/w/index.php?title=%D0%AD%D0%BF%D1%81%D0%B8%D0%BB%D0%BE%D0%BD_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=edit" title="Править исходный текст этой страницы [e]"><span>Править код</span></a></li><li class="mw-list-item" id="ca-history"><a accesskey="h" href="/w/index.php?title=%D0%AD%D0%BF%D1%81%D0%B8%D0%BB%D0%BE%D0%BD_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=history" title="Журнал изменений страницы [h]"><span>История</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-cactions-label" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" id="p-cactions" role="navigation" title="Больше возможностей">
+<input aria-haspopup="true" aria-labelledby="p-cactions-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-cactions" id="p-cactions-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-cactions-label">
+<span class="vector-menu-heading-label">Ещё</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+<div class="vector-search-box-vue vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box" id="p-search" role="search">
+<h3>Поиск</h3>
+<form action="/w/index.php" class="vector-search-box-form" id="searchform">
+<div class="vector-search-box-inner" data-search-loc="header-navigation" id="simpleSearch">
+<input accesskey="f" aria-label="Искать в Википедии" autocapitalize="sentences" class="vector-search-box-input" id="searchInput" name="search" placeholder="Искать в Википедии" title="Искать в Википедии [f]" type="search"/>
+<input name="title" type="hidden" value="Служебная:Поиск"/>
+<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Найти страницы, содержащие указанный текст" type="submit" value="Найти"/>
+<input class="searchButton" id="searchButton" name="go" title="Перейти к странице, имеющей в точности такое название" type="submit" value="Перейти"/>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="vector-legacy-sidebar" id="mw-panel">
+<div id="p-logo" role="banner">
+<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу"></a>
+</div>
+<nav aria-labelledby="p-navigation-label" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" id="p-navigation" role="navigation">
+<h3 class="vector-menu-heading" id="p-navigation-label">
+<span class="vector-menu-heading-label">Навигация</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-mainpage-description"><a accesskey="z" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]"><span>Заглавная страница</span></a></li><li class="mw-list-item" id="n-content"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li class="mw-list-item" id="n-featured"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li class="mw-list-item" id="n-randompage"><a accesskey="x" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]"><span>Случайная статья</span></a></li><li class="mw-list-item" id="n-currentevents"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li class="mw-list-item" id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-participation-label" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" id="p-participation" role="navigation">
+<h3 class="vector-menu-heading" id="p-participation-label">
+<span class="vector-menu-heading-label">Участие</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-bug_in_article"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li class="mw-list-item" id="n-introduction"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li class="mw-list-item" id="n-portal"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li class="mw-list-item" id="n-forum"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li class="mw-list-item" id="n-recentchanges"><a accesskey="r" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]"><span>Свежие правки</span></a></li><li class="mw-list-item" id="n-newpages"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li class="mw-list-item" id="n-help"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-tb-label" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" id="p-tb" role="navigation">
+<h3 class="vector-menu-heading" id="p-tb-label">
+<span class="vector-menu-heading-label">Инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="t-whatlinkshere"><a accesskey="j" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%AD%D0%BF%D1%81%D0%B8%D0%BB%D0%BE%D0%BD_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0" title="Список всех страниц, ссылающихся на данную [j]"><span>Ссылки сюда</span></a></li><li class="mw-list-item" id="t-recentchangeslinked"><a accesskey="k" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%AD%D0%BF%D1%81%D0%B8%D0%BB%D0%BE%D0%BD_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]"><span>Связанные правки</span></a></li><li class="mw-list-item" id="t-specialpages"><a accesskey="q" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]"><span>Служебные страницы</span></a></li><li class="mw-list-item" id="t-permalink"><a href="/w/index.php?title=%D0%AD%D0%BF%D1%81%D0%B8%D0%BB%D0%BE%D0%BD_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;oldid=135395676" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li class="mw-list-item" id="t-info"><a href="/w/index.php?title=%D0%AD%D0%BF%D1%81%D0%B8%D0%BB%D0%BE%D0%BD_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li class="mw-list-item" id="t-cite"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%AD%D0%BF%D1%81%D0%B8%D0%BB%D0%BE%D0%BD_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;id=135395676&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li class="mw-list-item" id="t-urlshortener"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%25AD%25D0%25BF%25D1%2581%25D0%25B8%25D0%25BB%25D0%25BE%25D0%25BD_%25D0%25AD%25D1%2580%25D0%25B8%25D0%25B4%25D0%25B0%25D0%25BD%25D0%25B0"><span>Получить короткий URL</span></a></li><li class="mw-list-item" id="t-urlshortener-qrcode"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%25AD%25D0%25BF%25D1%2581%25D0%25B8%25D0%25BB%25D0%25BE%25D0%25BD_%25D0%25AD%25D1%2580%25D0%25B8%25D0%25B4%25D0%25B0%25D0%25BD%25D0%25B0"><span>Скачать QR-код</span></a></li><li class="mw-list-item" id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q194394" title="Ссылка на связанный элемент репозитория данных [g]"><span>Элемент Викиданных</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-coll-print_export-label" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" id="p-coll-print_export" role="navigation">
+<h3 class="vector-menu-heading" id="p-coll-print_export-label">
+<span class="vector-menu-heading-label">Печать/экспорт</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="coll-download-as-rl"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%AD%D0%BF%D1%81%D0%B8%D0%BB%D0%BE%D0%BD_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li class="mw-list-item" id="t-print"><a accesskey="p" href="/w/index.php?title=%D0%AD%D0%BF%D1%81%D0%B8%D0%BB%D0%BE%D0%BD_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;printable=yes" title="Версия этой страницы для печати [p]"><span>Версия для печати</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-wikibase-otherprojects-label" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal vector-menu" id="p-wikibase-otherprojects" role="navigation">
+<h3 class="vector-menu-heading" id="p-wikibase-otherprojects-label">
+<span class="vector-menu-heading-label">В других проектах</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Epsilon_Eridani" hreflang="en"><span>Викисклад</span></a></li><li class="wb-otherproject-link wb-otherproject-wikinews mw-list-item"><a href="https://ru.wikinews.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%AD%D0%BF%D1%81%D0%B8%D0%BB%D0%BE%D0%BD_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0" hreflang="ru"><span>Викиновости</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-lang-label" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" id="p-lang" role="navigation">
+<h3 class="vector-menu-heading" id="p-lang-label">
+<span class="vector-menu-heading-label">На других языках</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="interlanguage-link interwiki-af mw-list-item"><a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Epsilon_Eridani" hreflang="af" lang="af" title="Epsilon Eridani — африкаанс"><span>Afrikaans</span></a></li><li class="interlanguage-link interwiki-ar mw-list-item"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%A5%D8%A8%D8%B3%D9%8A%D9%84%D9%88%D9%86_%D8%A7%D9%84%D9%86%D9%87%D8%B1" hreflang="ar" lang="ar" title="إبسيلون النهر — арабский"><span>العربية</span></a></li><li class="interlanguage-link interwiki-ast mw-list-item"><a class="interlanguage-link-target" href="https://ast.wikipedia.org/wiki/%C3%89psilon_Eridani" hreflang="ast" lang="ast" title="Épsilon Eridani — астурийский"><span>Asturianu</span></a></li><li class="interlanguage-link interwiki-bn mw-list-item"><a class="interlanguage-link-target" href="https://bn.wikipedia.org/wiki/%E0%A6%8F%E0%A6%AA%E0%A6%B8%E0%A6%BE%E0%A6%87%E0%A6%B2%E0%A6%A8_%E0%A6%8F%E0%A6%B0%E0%A6%BF%E0%A6%A1%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A6%BF" hreflang="bn" lang="bn" title="এপসাইলন এরিড্যানি — бенгальский"><span>বাংলা</span></a></li><li class="interlanguage-link interwiki-bs mw-list-item"><a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Epsilon_Eridani" hreflang="bs" lang="bs" title="Epsilon Eridani — боснийский"><span>Bosanski</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Ran_(estel)" hreflang="ca" lang="ca" title="Ran (estel) — каталанский"><span>Català</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Epsilon_Eridani" hreflang="cs" lang="cs" title="Epsilon Eridani — чешский"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-cy mw-list-item"><a class="interlanguage-link-target" href="https://cy.wikipedia.org/wiki/Epsilon_Eridani" hreflang="cy" lang="cy" title="Epsilon Eridani — валлийский"><span>Cymraeg</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Epsilon_Eridani" hreflang="de" lang="de" title="Epsilon Eridani — немецкий"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%88%CF%88%CE%B9%CE%BB%CE%BF%CE%BD_%CE%97%CF%81%CE%B9%CE%B4%CE%B1%CE%BD%CE%BF%CF%8D" hreflang="el" lang="el" title="Έψιλον Ηριδανού — греческий"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-en badge-Q17437796 badge-featuredarticle mw-list-item" title="избранная статья"><a class="interlanguage-link-target" href="https://en.wikipedia.org/wiki/Epsilon_Eridani" hreflang="en" lang="en" title="Epsilon Eridani — английский"><span>English</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Epsilono_Eridana" hreflang="eo" lang="eo" title="Epsilono Eridana — эсперанто"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/%C3%89psilon_Eridani" hreflang="es" lang="es" title="Épsilon Eridani — испанский"><span>Español</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Epsilon_Eridani" hreflang="eu" lang="eu" title="Epsilon Eridani — баскский"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%A7%D9%BE%D8%B3%DB%8C%D9%84%D9%88%D9%86_%D8%AC%D9%88%DB%8C" hreflang="fa" lang="fa" title="اپسیلون جوی — персидский"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Epsilon_Eridani" hreflang="fi" lang="fi" title="Epsilon Eridani — финский"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Epsilon_Eridani" hreflang="fr" lang="fr" title="Epsilon Eridani — французский"><span>Français</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%90%D7%A4%D7%A1%D7%99%D7%9C%D7%95%D7%9F_%D7%91%D7%90%D7%A8%D7%99%D7%93%D7%A0%D7%95%D7%A1" hreflang="he" lang="he" title="אפסילון בארידנוס — иврит"><span>עברית</span></a></li><li class="interlanguage-link interwiki-hi mw-list-item"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%8D%E0%A4%AA%E0%A5%8D%E0%A4%B8%E0%A4%BF%E0%A4%B2%E0%A4%A8_%E0%A4%8D%E0%A4%B0%E0%A4%BF%E0%A4%A1%E0%A4%BE%E0%A4%A8%E0%A5%80_%E0%A4%A4%E0%A4%BE%E0%A4%B0%E0%A4%BE" hreflang="hi" lang="hi" title="ऍप्सिलन ऍरिडानी तारा — хинди"><span>हिन्दी</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Epszilon_Eridani" hreflang="hu" lang="hu" title="Epszilon Eridani — венгерский"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Epsilon_Eridani" hreflang="id" lang="id" title="Epsilon Eridani — индонезийский"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-it badge-Q17437798 badge-goodarticle mw-list-item" title="хорошая статья"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Epsilon_Eridani" hreflang="it" lang="it" title="Epsilon Eridani — итальянский"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AA%E3%83%80%E3%83%8C%E3%82%B9%E5%BA%A7%E3%82%A4%E3%83%97%E3%82%B7%E3%83%AD%E3%83%B3%E6%98%9F" hreflang="ja" lang="ja" title="エリダヌス座イプシロン星 — японский"><span>日本語</span></a></li><li class="interlanguage-link interwiki-kk mw-list-item"><a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%A1%D0%B0%D0%B4%D0%B8%D1%80%D0%B0_(%D0%B6%D2%B1%D0%BB%D0%B4%D1%8B%D0%B7)" hreflang="kk" lang="kk" title="Садира (жұлдыз) — казахский"><span>Қазақша</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%97%90%EB%A6%AC%EB%8B%A4%EB%88%84%EC%8A%A4%EC%9E%90%EB%A6%AC_%EC%97%A1%EC%8B%A4%EB%A1%A0" hreflang="ko" lang="ko" title="에리다누스자리 엡실론 — корейский"><span>한국어</span></a></li><li class="interlanguage-link interwiki-la mw-list-item"><a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/Epsilon_Eridani" hreflang="la" lang="la" title="Epsilon Eridani — латинский"><span>Latina</span></a></li><li class="interlanguage-link interwiki-lb mw-list-item"><a class="interlanguage-link-target" href="https://lb.wikipedia.org/wiki/Epsilon_Eridani" hreflang="lb" lang="lb" title="Epsilon Eridani — люксембургский"><span>Lëtzebuergesch</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Epsilon_Eridani" hreflang="ms" lang="ms" title="Epsilon Eridani — малайский"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Epsilon_Eridani" hreflang="nl" lang="nl" title="Epsilon Eridani — нидерландский"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Epsilon_Eridani" hreflang="nb" lang="nb" title="Epsilon Eridani — норвежский букмол"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Ran_(gwiazda)" hreflang="pl" lang="pl" title="Ran (gwiazda) — польский"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Epsilon_Eridani" hreflang="pt" lang="pt" title="Epsilon Eridani — португальский"><span>Português</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Epsilon_Eridani" hreflang="ro" lang="ro" title="Epsilon Eridani — румынский"><span>Română</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Epsilon_Eridani" hreflang="en-simple" lang="en-simple" title="Epsilon Eridani — Simple English"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Epsilon_Eridani" hreflang="sk" lang="sk" title="Epsilon Eridani — словацкий"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Epsilon_Eridani" hreflang="sv" lang="sv" title="Epsilon Eridani — шведский"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Epsilon_Eridani" hreflang="tr" lang="tr" title="Epsilon Eridani — турецкий"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%95%D0%BF%D1%81%D0%B8%D0%BB%D0%BE%D0%BD_%D0%95%D1%80%D1%96%D0%B4%D0%B0%D0%BD%D0%B0" hreflang="uk" lang="uk" title="Епсилон Ерідана — украинский"><span>Українська</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Epsilon_Eridani" hreflang="vi" lang="vi" title="Epsilon Eridani — вьетнамский"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-vo mw-list-item"><a class="interlanguage-link-target" href="https://vo.wikipedia.org/wiki/Epsilon_Eridani" hreflang="vo" lang="vo" title="Epsilon Eridani — волапюк"><span>Volapük</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%A4%A9%E8%8B%91%E5%9B%9B" hreflang="zh" lang="zh" title="天苑四 — китайский"><span>中文</span></a></li>
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q194394#sitelinks-wikipedia" title="Править ссылки на другие языки">Править ссылки</a></span></div>
+</div>
+</nav>
+</div>
+</div>
+<footer class="mw-footer" id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 6 января 2024 в 23:00.</li>
+<li id="footer-info-copyright">Текст доступен по <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru" rel="license">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a><a href="//creativecommons.org/licenses/by-sa/4.0/" rel="license" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br/>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org/ru/">Фонд Викимедиа (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//ru.m.wikipedia.org/w/index.php?title=%D0%AD%D0%BF%D1%81%D0%B8%D0%BB%D0%BE%D0%BD_%D0%AD%D1%80%D0%B8%D0%B4%D0%B0%D0%BD%D0%B0&amp;mobileaction=toggle_view_mobile">Мобильная версия</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" loading="lazy" src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88"/></a></li>
+<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" loading="lazy" src="/static/images/footer/poweredby_mediawiki_88x31.png" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88"/></a></li>
+</ul>
+</footer>
+
+
+</body>
+</html>

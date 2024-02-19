@@ -1,0 +1,824 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="ru">
+<head>
+<meta charset="utf-8"/>
+<title>Ниасский язык — Википедия</title>
+
+
+
+
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+
+
+<meta content="MediaWiki 1.42.0-wmf.18" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="max-image-preview:standard" name="robots"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="width=1000" name="viewport"/>
+<meta content="Ниасский язык — Википедия" property="og:title"/>
+<meta content="website" property="og:type"/>
+
+
+
+
+
+
+
+
+
+
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Ниасский_язык rootpage-Ниасский_язык skin-vector action-view"><div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators">
+</div>
+<h1 class="firstHeading mw-first-heading" id="firstHeading"><span class="mw-page-title-main">Ниасский язык</span></h1>
+<div class="vector-body" id="bodyContent">
+<div class="noprint" id="siteSub">Материал из Википедии — свободной энциклопедии</div>
+<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+<div id="contentSub2"></div>
+<div id="jump-to-nav"></div>
+<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+<div class="mw-body-content" id="mw-content-text"><div class="mw-content-ltr mw-parser-output" dir="ltr" lang="ru"><table class="infobox infobox-bd53db9fe113fa68" data-name="Язык" style=""><tbody><tr><th class="infobox-above" colspan="2" scope="colgroup" style="">Ниас</th></tr>
+<tr>
+<th class="plainlist" scope="row">Самоназвание</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P1705">Li Niha</span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Страны</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P17"><span class="nowrap" data-sort-value="Индонезия"><span class="flagicon"><span class="mw-image-border noresize" typeof="mw:File"><span><img alt="" class="mw-file-element" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/22px-Flag_of_Indonesia.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/33px-Flag_of_Indonesia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/44px-Flag_of_Indonesia.svg.png 2x" width="22"/></span></span></span> <a href="/wiki/%D0%98%D0%BD%D0%B4%D0%BE%D0%BD%D0%B5%D0%B7%D0%B8%D1%8F" title="Индонезия"><span class="wrap">Индонезия</span></a></span></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Регионы</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P131"><a href="/wiki/%D0%9D%D0%B8%D0%B0%D1%81" title="Ниас">Ниас</a> и прилегающие острова</span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Общее число говорящих</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P1098">480 000 (1989, оценка)<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></span></td>
+</tr>
+<tr>
+<th class="infobox-header" colspan="2" scope="colgroup" style=""><a class="mw-redirect" href="/wiki/%D0%93%D0%B5%D0%BD%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F_%D1%8F%D0%B7%D1%8B%D0%BA%D0%BE%D0%B2" title="Генетическая классификация языков">Классификация</a></th>
+</tr>
+<tr>
+<th class="plainlist" scope="row"><a href="/wiki/%D0%AF%D0%B7%D1%8B%D0%BA%D0%B8_%D0%BC%D0%B8%D1%80%D0%B0" title="Языки мира">Категория</a></th>
+<td class="plainlist">
+Языки Евразии</td>
+</tr>
+<tr>
+<td class="noplainlist" colspan="2" style="text-align:center;text-align:left;">
+<p><a href="/wiki/%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%BE%D0%BD%D0%B5%D0%B7%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B5_%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8" title="Австронезийские языки">Австронезийская семья</a>
+</p>
+<dl><dd>Малайско-полинезийская надветвь
+<dl><dd>Западный ареал
+<dl><dd><a href="/wiki/%D0%97%D0%B0%D0%BF%D0%B0%D0%B4%D0%BD%D0%BE%D0%B7%D0%BE%D0%BD%D0%B4%D1%81%D0%BA%D0%B8%D0%B5_%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8" title="Западнозондские языки">Западнозондская зона</a>
+<dl><dd>Раннесуматранская ветвь
+<dl><dd>Северная группа</dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row"><a href="/wiki/%D0%9F%D0%B8%D1%81%D1%8C%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Письменность">Письменность</a></th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P282">латиница</span></td>
+</tr>
+<tr>
+<th class="infobox-header" colspan="2" scope="colgroup" style=""><a href="/wiki/%D0%9A%D0%BE%D0%B4%D1%8B_%D1%8F%D0%B7%D1%8B%D0%BA%D0%BE%D0%B2" title="Коды языков">Языковые коды</a></th>
+</tr>
+<tr>
+<th class="plainlist" scope="row"><a href="/wiki/ISO_639#Альфа-2" title="ISO 639">ISO 639-1</a></th>
+<td class="plainlist">
+—</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row"><a href="/wiki/ISO_639#Альфа-3" title="ISO 639">ISO 639-2</a></th>
+<td class="plainlist">
+<span class="wikidata-claim" data-wikidata-claim-id="Q2407831$165EB79B-A5DD-402E-8483-3EC65C12ECC3" data-wikidata-property-id="P219"><span class="wikidata-snak wikidata-main-snak"><a class="external text" href="https://iso639-3.sil.org/code/nia" rel="nofollow">nia</a></span></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row"><a href="/wiki/ISO_639#Альфа-3" title="ISO 639">ISO 639-3</a></th>
+<td class="plainlist">
+<span class="wikidata-claim" data-wikidata-claim-id="Q2407831$FD6B465E-C1CE-4BF8-AF85-7BA34E52020D" data-wikidata-property-id="P220"><span class="wikidata-snak wikidata-main-snak"><a class="external text" href="https://iso639-3.sil.org/code/nia" rel="nofollow">nia</a></span></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row"><a href="/wiki/%D0%92%D1%81%D0%B5%D0%BC%D0%B8%D1%80%D0%BD%D1%8B%D0%B9_%D0%B0%D1%82%D0%BB%D0%B0%D1%81_%D1%8F%D0%B7%D1%8B%D0%BA%D0%BE%D0%B2%D1%8B%D1%85_%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80" title="Всемирный атлас языковых структур">WALS</a></th>
+<td class="plainlist">
+<span class="wikidata-claim" data-wikidata-claim-id="Q2407831$69253F90-F0C1-48DA-9519-9152B8A0E765" data-wikidata-property-id="P1466"><span class="wikidata-snak wikidata-main-snak"><a class="external text" href="https://wals.info/languoid/lect/wals_code_nia" rel="nofollow">nia</a></span></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row"><a class="mw-redirect" href="/wiki/Ethnologue.com" title="Ethnologue.com">Ethnologue</a></th>
+<td class="plainlist">
+<span class="wikidata-claim" data-wikidata-claim-id="Q2407831$3D3C5CF5-E233-437B-B42B-6A5B4EC7D92A" data-wikidata-property-id="P1627"><span class="wikidata-snak wikidata-main-snak"><a class="external text" href="https://www.ethnologue.com/language/nia" rel="nofollow">nia</a></span></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Код языка <abbr title="Статистического управления Индонезии">BPS</abbr></th>
+<td class="plainlist">
+<span class="wikidata-claim" data-wikidata-claim-id="Q2407831$A7CF1CA1-103C-4BB4-AD49-144BE9F737F0" data-wikidata-property-id="P2590"><span class="wikidata-snak wikidata-main-snak">0025 5</span></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">IETF</th>
+<td class="plainlist">
+<span class="wikidata-claim" data-wikidata-claim-id="Q2407831$4D70BAA8-1516-43A8-AB51-B005C534B1CE" data-wikidata-property-id="P305"><span class="wikidata-snak wikidata-main-snak">nia</span></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Glottolog</th>
+<td class="plainlist">
+<span class="wikidata-claim" data-wikidata-claim-id="Q2407831$A6E7F0C4-8222-4AB5-A699-935D33A87ECC" data-wikidata-property-id="P1394"><span class="wikidata-snak wikidata-main-snak">nias1242</span></span></td>
+</tr><tr><td class="infobox-below" colspan="2" style=";"><span typeof="mw:File"><span><img alt="" class="mw-file-element" data-file-height="94" data-file-width="103" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/16px-Wikipedia-logo-v2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/24px-Wikipedia-logo-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/32px-Wikipedia-logo-v2.svg.png 2x" width="16"/></span></span> <a class="extiw" href="https://nia.wikipedia.org/wiki/" title="nia:">Википедия на этом языке</a></td></tr>
+</tbody></table>
+<p><b>Ни́асский язык</b>, или <b>язык ни́ас</b> (ниасск. <i>Li Niha</i>, <a href="/wiki/%D0%98%D0%BD%D0%B4%D0%BE%D0%BD%D0%B5%D0%B7%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Индонезийский язык">индон.</a> <span lang="id" style="font-style:italic;">Bahasa Nias</span>) — <a href="/wiki/%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%BE%D0%BD%D0%B5%D0%B7%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B5_%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8" title="Австронезийские языки">австронезийский</a> язык, распространённый в <a href="/wiki/%D0%98%D0%BD%D0%B4%D0%BE%D0%BD%D0%B5%D0%B7%D0%B8%D1%8F" title="Индонезия">Индонезии</a>, на острове <a href="/wiki/%D0%9D%D0%B8%D0%B0%D1%81" title="Ниас">Ниас</a> (у западных берегов <a href="/wiki/%D0%A1%D1%83%D0%BC%D0%B0%D1%82%D1%80%D0%B0" title="Суматра">Суматры</a>) и расположенных поблизости <a href="/wiki/%D0%91%D0%B0%D1%82%D1%83_(%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0)" title="Бату (острова)">островах Бату</a>.
+</p><p>Общее население острова Ниас и островов Бату в 1998 году составляло 639 675 человек<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup>, однако сейчас оценки проводить сложно, так как остров Ниас очень сильно пострадал от <a class="mw-redirect" href="/wiki/%D0%97%D0%B5%D0%BC%D0%BB%D0%B5%D1%82%D1%80%D1%8F%D1%81%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B2_%D0%98%D0%BD%D0%B4%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%BC_%D0%BE%D0%BA%D0%B5%D0%B0%D0%BD%D0%B5_%D0%B2_2004_%D0%B3%D0%BE%D0%B4%D1%83" title="Землетрясение в Индийском океане в 2004 году">цунами 2004 года</a>.
+</p><p>Язык ниас обладает рядом черт, делающих его <a href="/wiki/%D0%A2%D0%B8%D0%BF%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F_(%D0%BB%D0%B8%D0%BD%D0%B3%D0%B2%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0)" title="Типология (лингвистика)">типологически</a> необычным не только на фоне других австронезийских языков, но и вообще среди языков мира.
+</p>
+<div aria-labelledby="mw-toc-heading" class="toc" id="toc" role="navigation"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="ru"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#История"><span class="tocnumber">1</span> <span class="toctext">История</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Диалекты"><span class="tocnumber">2</span> <span class="toctext">Диалекты</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Лингвистическая_характеристика"><span class="tocnumber">3</span> <span class="toctext">Лингвистическая характеристика</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Фонология"><span class="tocnumber">3.1</span> <span class="toctext">Фонология</span></a>
+<ul>
+<li class="toclevel-3 tocsection-5"><a href="#Гласные"><span class="tocnumber">3.1.1</span> <span class="toctext">Гласные</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Согласные"><span class="tocnumber">3.1.2</span> <span class="toctext">Согласные</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="#Ударение"><span class="tocnumber">3.1.3</span> <span class="toctext">Ударение</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="#Морфонология"><span class="tocnumber">3.1.4</span> <span class="toctext">Морфонология</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-9"><a href="#Морфология"><span class="tocnumber">3.2</span> <span class="toctext">Морфология</span></a>
+<ul>
+<li class="toclevel-3 tocsection-10"><a href="#Глагол"><span class="tocnumber">3.2.1</span> <span class="toctext">Глагол</span></a></li>
+<li class="toclevel-3 tocsection-11"><a href="#Имя"><span class="tocnumber">3.2.2</span> <span class="toctext">Имя</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-12"><a href="#Синтаксис"><span class="tocnumber">3.3</span> <span class="toctext">Синтаксис</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#Примечания"><span class="tocnumber">4</span> <span class="toctext">Примечания</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Литература"><span class="tocnumber">5</span> <span class="toctext">Литература</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Ссылки"><span class="tocnumber">6</span> <span class="toctext">Ссылки</span></a></li>
+</ul>
+</div>
+<h2><span id=".D0.98.D1.81.D1.82.D0.BE.D1.80.D0.B8.D1.8F"></span><span class="mw-headline" id="История">История</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9D%D0%B8%D0%B0%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA&amp;veaction=edit&amp;section=1" title="Редактировать раздел «История»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9D%D0%B8%D0%B0%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA&amp;action=edit&amp;section=1" title="Редактировать код раздела «История»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Nias_Indonesien.png"><img class="mw-file-element" data-file-height="481" data-file-width="406" decoding="async" height="261" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Nias_Indonesien.png/220px-Nias_Indonesien.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Nias_Indonesien.png/330px-Nias_Indonesien.png 1.5x, //upload.wikimedia.org/wikipedia/commons/f/f0/Nias_Indonesien.png 2x" width="220"/></a><figcaption>Карта острова Ниас</figcaption></figure>
+<p>Остров Ниас уже очень давно был центром оживлённой торговли, находясь на пересечении морских путей из <a href="/wiki/%D0%AE%D0%B6%D0%BD%D0%B0%D1%8F_%D0%90%D0%B7%D0%B8%D1%8F" title="Южная Азия">Южной Азии</a> в <a class="mw-redirect" href="/wiki/%D0%98%D0%BD%D0%B4%D0%BE%D0%BD%D0%B5%D0%B7%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D1%80%D1%85%D0%B8%D0%BF%D0%B5%D0%BB%D0%B0%D0%B3" title="Индонезийский архипелаг">индонезийский архипелаг</a> и в <a href="/wiki/%D0%9C%D0%B0%D0%BB%D0%B0%D0%BA%D0%BA%D0%B0_(%D0%BF%D0%BE%D0%BB%D1%83%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2)" title="Малакка (полуостров)">Малакку</a>: первые сведения об острове <i>Niyan</i> к западу от Суматры содержатся у персидского купца Сулеймана в <a href="/wiki/854_%D0%B3%D0%BE%D0%B4" title="854 год">854 году</a>. Первыми из европейцев на остров пришли голландцы; на небольшое время он оказался в руках англичан, но потом вновь отошёл Нидерландам. Голландская колониальная администрация развернула на острове бурную <a href="/wiki/%D0%9C%D0%B8%D1%81%D1%81%D0%B8%D0%BE%D0%BD%D0%B5%D1%80%D1%81%D1%82%D0%B2%D0%BE" title="Миссионерство">миссионерскую деятельность</a>: в <a href="/wiki/1887_%D0%B3%D0%BE%D0%B4" title="1887 год">1887 году</a> был издан <a href="/wiki/%D0%A1%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C" title="Словарь">словарь</a> языка ниас, в <a class="mw-redirect" href="/wiki/1913" title="1913">1913</a> г. два немецких миссионера издали первую его <a href="/wiki/%D0%93%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0" title="Грамматика">грамматику</a>; позже описанием ниасского языка занимались индонезийские учёные, а в последние годы большую работу провела австралийская исследовательница Ли Браун.
+</p><p>Несмотря на то, что ниасский язык несомненно является австронезийским, вопрос об истории его носителей и самого языка весьма сложен. Ниас — единственный остров в этом районе, где существует <a href="/wiki/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BB%D0%B8%D1%82" title="Мегалит">мегалитическая</a> культура; в материальной и духовной культуре ниасцев много черт, схожих с теми, что присущи народам центральной части архипелага — например, острова <a href="/wiki/%D0%A1%D1%83%D0%BB%D0%B0%D0%B2%D0%B5%D1%81%D0%B8" title="Сулавеси">Сулавеси</a><sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup>. Бернд Нотхофер<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> указывал и на особое сходство ниасского языка с некоторыми языками Сулавеси и юга <a href="/wiki/%D0%A4%D0%B8%D0%BB%D0%B8%D0%BF%D0%BF%D0%B8%D0%BD%D1%8B" title="Филиппины">Филиппин</a> и полагал, что на Ниасе сохраняются остатки языка доавстронезийского населения.
+</p><p>В настоящее время многие ниасцы, особенно молодые, переходят на индонезийский язык, хотя в целом сохранность языка весьма удовлетворительна; однако эффект, который катастрофа <a href="/wiki/2004_%D0%B3%D0%BE%D0%B4" title="2004 год">2004 года</a> оказала на язык ниас, до сих пор оценить невозможно.
+</p>
+<h2><span id=".D0.94.D0.B8.D0.B0.D0.BB.D0.B5.D0.BA.D1.82.D1.8B"></span><span class="mw-headline" id="Диалекты">Диалекты</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9D%D0%B8%D0%B0%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Диалекты»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9D%D0%B8%D0%B0%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA&amp;action=edit&amp;section=2" title="Редактировать код раздела «Диалекты»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>В ниасском языке выделяется три <a href="/wiki/%D0%94%D0%B8%D0%B0%D0%BB%D0%B5%D0%BA%D1%82" title="Диалект">диалекта</a>: северный (<a href="/wiki/%D0%98%D0%BD%D0%B4%D0%BE%D0%BD%D0%B5%D0%B7%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Индонезийский язык">индон.</a> <span lang="id" style="font-style:italic;">Nias Utara</span>), распространённый на севере острова, в том числе в районе крупнейшего города <a href="/wiki/%D0%93%D1%83%D0%BD%D1%83%D0%BD%D0%B3%D1%81%D0%B8%D1%82%D0%BE%D0%BB%D0%B8" title="Гунунгситоли">Гунунгситоли</a>; центральный и южный (<i><span lang="id">Nias Selatan</span></i>; юг острова и острова Бату).
+</p>
+<h2><span id=".D0.9B.D0.B8.D0.BD.D0.B3.D0.B2.D0.B8.D1.81.D1.82.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B0.D1.8F_.D1.85.D0.B0.D1.80.D0.B0.D0.BA.D1.82.D0.B5.D1.80.D0.B8.D1.81.D1.82.D0.B8.D0.BA.D0.B0"></span><span class="mw-headline" id="Лингвистическая_характеристика">Лингвистическая характеристика</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9D%D0%B8%D0%B0%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA&amp;veaction=edit&amp;section=3" title="Редактировать раздел «Лингвистическая характеристика»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9D%D0%B8%D0%B0%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA&amp;action=edit&amp;section=3" title="Редактировать код раздела «Лингвистическая характеристика»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:COLLECTIE_TROPENMUSEUM_Leerlingen_van_een_zendingsvolksschool_van_de_Rijnsche_Zending_op_Nias_TMnr_10000811.jpg"><img class="mw-file-element" data-file-height="460" data-file-width="700" decoding="async" height="145" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/COLLECTIE_TROPENMUSEUM_Leerlingen_van_een_zendingsvolksschool_van_de_Rijnsche_Zending_op_Nias_TMnr_10000811.jpg/220px-COLLECTIE_TROPENMUSEUM_Leerlingen_van_een_zendingsvolksschool_van_de_Rijnsche_Zending_op_Nias_TMnr_10000811.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/COLLECTIE_TROPENMUSEUM_Leerlingen_van_een_zendingsvolksschool_van_de_Rijnsche_Zending_op_Nias_TMnr_10000811.jpg/330px-COLLECTIE_TROPENMUSEUM_Leerlingen_van_een_zendingsvolksschool_van_de_Rijnsche_Zending_op_Nias_TMnr_10000811.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/COLLECTIE_TROPENMUSEUM_Leerlingen_van_een_zendingsvolksschool_van_de_Rijnsche_Zending_op_Nias_TMnr_10000811.jpg/440px-COLLECTIE_TROPENMUSEUM_Leerlingen_van_een_zendingsvolksschool_van_de_Rijnsche_Zending_op_Nias_TMnr_10000811.jpg 2x" width="220"/></a><figcaption>Народная школа на Ниасе. Первая треть XX века</figcaption></figure>
+<p>Среди типологически необычных черт ниасского языка можно назвать следующие: <a href="/wiki/%D0%9F%D0%B0%D0%B4%D0%B5%D0%B6" title="Падеж">двухпадежная</a> система, в которой маркированным является не <a href="/wiki/%D0%AD%D1%80%D0%B3%D0%B0%D1%82%D0%B8%D0%B2" title="Эргатив">эргатив</a>, а <a href="/wiki/%D0%90%D0%B1%D1%81%D0%BE%D0%BB%D1%8E%D1%82%D0%B8%D0%B2" title="Абсолютив">абсолютив</a><sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup><sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup>; согласование <a href="/wiki/%D0%93%D0%BB%D0%B0%D0%B3%D0%BE%D0%BB" title="Глагол">глагола</a> с эргативным аргументом, но не с абсолютивным (обычно наличие первого предполагает и наличие второго); наличие <a href="/wiki/%D0%93%D1%83%D0%B1%D0%BD%D0%BE-%D0%B3%D1%83%D0%B1%D0%BD%D1%8B%D0%B5_%D1%81%D0%BE%D0%B3%D0%BB%D0%B0%D1%81%D0%BD%D1%8B%D0%B5" title="Губно-губные согласные">губно-губного</a> <a href="/wiki/%D0%94%D1%80%D0%BE%D0%B6%D0%B0%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B3%D0%BB%D0%B0%D1%81%D0%BD%D1%8B%D0%B5" title="Дрожащие согласные">дрожащего</a> <span class="IPA"><a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D1%84%D0%BE%D0%BD%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82" title="Международный фонетический алфавит">[ʙ]</a></span>; использование <a class="new" href="/w/index.php?title=%D0%A7%D0%B5%D1%80%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D1%85_%D1%81%D0%BE%D0%B3%D0%BB%D0%B0%D1%81%D0%BD%D1%8B%D1%85&amp;action=edit&amp;redlink=1" title="Чередование начальных согласных (страница отсутствует)">чередования начальных согласных</a> (подобного существующему в <a href="/wiki/%D0%9A%D0%B5%D0%BB%D1%8C%D1%82%D1%81%D0%BA%D0%B8%D0%B5_%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8" title="Кельтские языки">кельтских языках</a>) для выражения падежного значения; порядок слов <a href="/wiki/%D0%A2%D0%B8%D0%BF%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F_%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B0_%D1%81%D0%BB%D0%BE%D0%B2" title="Типология порядка слов">VOS</a>.
+</p><p>Другие черты, напротив, являются вполне обычными для австронезийской семьи: выражение различных глагольных значений с помощью <a href="/wiki/%D0%9D%D0%BE%D1%81%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D0%BE%D0%B3%D0%BB%D0%B0%D1%81%D0%BD%D1%8B%D0%B5" title="Носовые согласные">носового</a> <a href="/wiki/%D0%9F%D1%80%D0%B8%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0_(%D0%BB%D0%B8%D0%BD%D0%B3%D0%B2%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0)" title="Приставка (лингвистика)">префикса</a>; использование <a href="/wiki/%D0%A0%D0%B5%D0%B4%D1%83%D0%BF%D0%BB%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F" title="Редупликация">редупликации</a> для выражения различных <a href="/wiki/%D0%92%D0%B8%D0%B4_(%D0%BB%D0%B8%D0%BD%D0%B3%D0%B2%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0)" title="Вид (лингвистика)">аспектуальных</a> значений; наличие «прекатегориальных <a class="mw-redirect" href="/wiki/%D0%9A%D0%BE%D1%80%D0%B5%D0%BD%D1%8C_(%D0%BB%D0%B8%D0%BD%D0%B3%D0%B2%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0)" title="Корень (лингвистика)">корней</a>» (термин <a class="new" href="/w/index.php?title=%D0%A4%D0%BE%D0%BB%D0%B8,_%D0%A3%D0%B8%D0%BB%D1%8C%D1%8F%D0%BC&amp;action=edit&amp;redlink=1" title="Фоли, Уильям (страница отсутствует)">У. Фоли</a>), то есть таких <a class="mw-redirect" href="/wiki/%D0%9A%D0%BE%D1%80%D0%B5%D0%BD%D1%8C_(%D0%BB%D0%B8%D0%BD%D0%B3%D0%B2%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0)" title="Корень (лингвистика)">корней</a>, которые могут образовывать слова любых <a href="/wiki/%D0%A7%D0%B0%D1%81%D1%82%D1%8C_%D1%80%D0%B5%D1%87%D0%B8" title="Часть речи">частей речи</a>; отсутствие <a class="mw-redirect" href="/wiki/%D0%9F%D1%80%D0%B8%D0%BB%D0%B0%D0%B3%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5" title="Прилагательное">прилагательного</a> как особой морфологической категории (<a class="mw-redirect" href="/wiki/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_(%D0%BB%D0%B8%D0%BD%D0%B3%D0%B2%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0)" title="Определение (лингвистика)">определения</a> выражаются с помощью <a class="new" href="/w/index.php?title=%D0%9E%D1%82%D0%BD%D0%BE%D1%81%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5&amp;action=edit&amp;redlink=1" title="Относительное предложение (страница отсутствует)">относительных предложений</a>).
+</p>
+<h3><span id=".D0.A4.D0.BE.D0.BD.D0.BE.D0.BB.D0.BE.D0.B3.D0.B8.D1.8F"></span><span class="mw-headline" id="Фонология">Фонология</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9D%D0%B8%D0%B0%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA&amp;veaction=edit&amp;section=4" title="Редактировать раздел «Фонология»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9D%D0%B8%D0%B0%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA&amp;action=edit&amp;section=4" title="Редактировать код раздела «Фонология»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span id=".D0.93.D0.BB.D0.B0.D1.81.D0.BD.D1.8B.D0.B5"></span><span class="mw-headline" id="Гласные">Гласные</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9D%D0%B8%D0%B0%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA&amp;veaction=edit&amp;section=5" title="Редактировать раздел «Гласные»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9D%D0%B8%D0%B0%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA&amp;action=edit&amp;section=5" title="Редактировать код раздела «Гласные»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><a href="/wiki/%D0%93%D0%BB%D0%B0%D1%81%D0%BD%D1%8B%D0%B5" title="Гласные">Гласные</a> <a href="/wiki/%D0%A4%D0%BE%D0%BD%D0%B5%D0%BC%D0%B0" title="Фонема">фонемы</a> ниасского языка представлены на таблице в орфографической записи и в транскрипции <a class="mw-redirect" href="/wiki/%D0%9C%D0%A4%D0%90" title="МФА">МФА</a>:
+</p>
+<table class="wikitable">
+<caption>Гласные ниасского языка
+</caption>
+<tbody><tr style="background: #efefef;">
+<td>
+</td>
+<th scope="col"><a href="/wiki/%D0%93%D0%BB%D0%B0%D1%81%D0%BD%D1%8B%D0%B5_%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%BD%D0%B5%D0%B3%D0%BE_%D1%80%D1%8F%D0%B4%D0%B0" title="Гласные переднего ряда">Передний ряд</a>
+</th>
+<th scope="col"><a href="/wiki/%D0%93%D0%BB%D0%B0%D1%81%D0%BD%D1%8B%D0%B5_%D1%81%D1%80%D0%B5%D0%B4%D0%BD%D0%B5%D0%B3%D0%BE_%D1%80%D1%8F%D0%B4%D0%B0" title="Гласные среднего ряда">Средний ряд</a>
+</th>
+<th scope="col"><a href="/wiki/%D0%93%D0%BB%D0%B0%D1%81%D0%BD%D1%8B%D0%B5_%D0%B7%D0%B0%D0%B4%D0%BD%D0%B5%D0%B3%D0%BE_%D1%80%D1%8F%D0%B4%D0%B0" title="Гласные заднего ряда">Задний ряд</a>
+</th></tr>
+<tr>
+<td style="background: #efefef;">
+</td>
+<th align="center" colspan="2" style="background: #efefef;">Неогубленные
+</th>
+<th align="center" colspan="2" style="background: #efefef;">Огубленные
+</th></tr>
+<tr>
+<th scope="row" style="background: #efefef;"><b><a href="/wiki/%D0%93%D0%BB%D0%B0%D1%81%D0%BD%D1%8B%D0%B5_%D0%B2%D0%B5%D1%80%D1%85%D0%BD%D0%B5%D0%B3%D0%BE_%D0%BF%D0%BE%D0%B4%D1%8A%D1%91%D0%BC%D0%B0" title="Гласные верхнего подъёма">Верхний подъём</a></b>
+</th>
+<td align="center"><span class="IPA"><a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D1%84%D0%BE%D0%BD%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82" title="Международный фонетический алфавит">i</a></span>
+</td>
+<td align="center">
+</td>
+<td align="center"><span class="IPA"><a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D1%84%D0%BE%D0%BD%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82" title="Международный фонетический алфавит">u</a></span>
+</td></tr>
+<tr>
+<th scope="row" style="background: #efefef;"><b><a href="/wiki/%D0%93%D0%BB%D0%B0%D1%81%D0%BD%D1%8B%D0%B5_%D1%81%D1%80%D0%B5%D0%B4%D0%BD%D0%B5%D0%B3%D0%BE_%D0%BF%D0%BE%D0%B4%D1%8A%D1%91%D0%BC%D0%B0" title="Гласные среднего подъёма">Средний подъём</a></b>
+</th>
+<td align="center"><span class="IPA"><a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D1%84%D0%BE%D0%BD%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82" title="Международный фонетический алфавит">e</a></span>
+</td>
+<td align="center">ö (<span class="IPA"><a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D1%84%D0%BE%D0%BD%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82" title="Международный фонетический алфавит">ɤ</a></span>)
+</td>
+<td align="center"><span class="IPA"><a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D1%84%D0%BE%D0%BD%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82" title="Международный фонетический алфавит">o</a></span>
+</td></tr>
+<tr>
+<th scope="row" style="background: #efefef;"><b><a href="/wiki/%D0%93%D0%BB%D0%B0%D1%81%D0%BD%D1%8B%D0%B5_%D0%BD%D0%B8%D0%B6%D0%BD%D0%B5%D0%B3%D0%BE_%D0%BF%D0%BE%D0%B4%D1%8A%D1%91%D0%BC%D0%B0" title="Гласные нижнего подъёма">Нижний подъём</a></b>
+</th>
+<td align="center"><span class="IPA"><a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D1%84%D0%BE%D0%BD%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82" title="Международный фонетический алфавит">a</a></span>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+</tbody></table>
+<p>Кроме того, в ниасском языке достаточно много <a href="/wiki/%D0%94%D0%B8%D1%84%D1%82%D0%BE%D0%BD%D0%B3" title="Дифтонг">дифтонгов</a>: они образуются при стечении двух гласных разного подъёма, причём более нижний гласный становится слоговым, а более высокий, соответственно, — <a href="/wiki/%D0%93%D0%BB%D0%B0%D0%B9%D0%B4" title="Глайд">глайдом</a>.
+</p><p>Набор дифтонгов таков:
+</p>
+<ul><li>восходящие дифтонги (со вторым слоговым элементом): <i>ia</i>, <i>io</i>, <i>ua</i>, <i>ue</i>;</li>
+<li>нисходящие дифтонги: <i>ai</i>, <i>ae</i>, <i>ao</i>, <i>au</i>, <i>oi</i>, <i>ou</i>, <i>öi</i>, <i>öu</i>.</li></ul>
+<h4><span id=".D0.A1.D0.BE.D0.B3.D0.BB.D0.B0.D1.81.D0.BD.D1.8B.D0.B5"></span><span class="mw-headline" id="Согласные">Согласные</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9D%D0%B8%D0%B0%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA&amp;veaction=edit&amp;section=6" title="Редактировать раздел «Согласные»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9D%D0%B8%D0%B0%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA&amp;action=edit&amp;section=6" title="Редактировать код раздела «Согласные»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Набор <a href="/wiki/%D0%A1%D0%BE%D0%B3%D0%BB%D0%B0%D1%81%D0%BD%D1%8B%D0%B5" title="Согласные">согласных</a> ниасского языка представлен на следующей таблице; согласные представлены в <a href="/wiki/%D0%9E%D1%80%D1%84%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F" title="Орфография">орфографической записи</a> и (если они не совпадают) в транскрипции МФА:
+</p>
+<table class="wikitable">
+<tbody><tr style="background: #efefef;">
+<td>
+</td>
+<th scope="col"><a class="mw-redirect" href="/wiki/%D0%91%D0%B8%D0%BB%D0%B0%D0%B1%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%81%D0%BE%D0%B3%D0%BB%D0%B0%D1%81%D0%BD%D1%8B%D0%B9" title="Билабиальный согласный">Билабиальные</a>
+</th>
+<th scope="col"><a class="mw-redirect" href="/wiki/%D0%9B%D0%B0%D0%B1%D0%B8%D0%BE%D0%B4%D0%B5%D0%BD%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%81%D0%BE%D0%B3%D0%BB%D0%B0%D1%81%D0%BD%D1%8B%D0%B9" title="Лабиодентальный согласный">Лабиодентальные</a>
+</th>
+<th scope="col"><a class="new" href="/w/index.php?title=%D0%9B%D0%B0%D0%B1%D0%B8%D0%BE%D0%B2%D0%B5%D0%BB%D1%8F%D1%80%D0%BD%D1%8B%D0%B9_%D1%81%D0%BE%D0%B3%D0%BB%D0%B0%D1%81%D0%BD%D1%8B%D0%B9&amp;action=edit&amp;redlink=1" title="Лабиовелярный согласный (страница отсутствует)">Лабиовелярные</a>
+</th>
+<th scope="col"><a class="mw-redirect" href="/wiki/%D0%94%D0%B5%D0%BD%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%81%D0%BE%D0%B3%D0%BB%D0%B0%D1%81%D0%BD%D1%8B%D0%B9" title="Дентальный согласный">Дентальные</a>
+</th>
+<th scope="col"><a class="mw-redirect" href="/wiki/%D0%90%D0%BB%D1%8C%D0%B2%D0%B5%D0%BE%D0%BB%D1%8F%D1%80%D0%BD%D1%8B%D0%B9_%D1%81%D0%BE%D0%B3%D0%BB%D0%B0%D1%81%D0%BD%D1%8B%D0%B9" title="Альвеолярный согласный">Альвеолярные</a>
+</th>
+<th scope="col"><a class="mw-redirect" href="/wiki/%D0%9F%D0%B0%D0%BB%D0%B0%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%81%D0%BE%D0%B3%D0%BB%D0%B0%D1%81%D0%BD%D1%8B%D0%B9" title="Палатальный согласный">Палатальные</a>
+</th>
+<th scope="col"><a class="mw-redirect" href="/wiki/%D0%92%D0%B5%D0%BB%D1%8F%D1%80%D0%BD%D1%8B%D0%B9_%D1%81%D0%BE%D0%B3%D0%BB%D0%B0%D1%81%D0%BD%D1%8B%D0%B9" title="Велярный согласный">Велярные</a>
+</th>
+<th scope="col"><a class="new" href="/w/index.php?title=%D0%93%D0%BB%D0%BE%D1%82%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%81%D0%BE%D0%B3%D0%BB%D0%B0%D1%81%D0%BD%D1%8B%D0%B9&amp;action=edit&amp;redlink=1" title="Глоттальный согласный (страница отсутствует)">Глоттальные</a>
+</th></tr>
+<tr>
+<th scope="row" style="background: #efefef;"><b><a class="mw-redirect" href="/wiki/%D0%92%D0%B7%D1%80%D1%8B%D0%B2%D0%BD%D0%BE%D0%B9_%D1%81%D0%BE%D0%B3%D0%BB%D0%B0%D1%81%D0%BD%D1%8B%D0%B9" title="Взрывной согласный">Взрывные</a></b>
+</th>
+<td align="center"><span class="IPA"><a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D1%84%D0%BE%D0%BD%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82" title="Международный фонетический алфавит">   b</a></span>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td align="center"><span class="IPA"><a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D1%84%D0%BE%D0%BD%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82" title="Международный фонетический алфавит">t</a></span><br/><span class="IPA"><a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D1%84%D0%BE%D0%BD%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82" title="Международный фонетический алфавит">d</a></span><br/>ndr <span class="IPA"><a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D1%84%D0%BE%D0%BD%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82" title="Международный фонетический алфавит">[d<sup>r</sup>]</a></span>*
+</td>
+<td>
+</td>
+<td align="center">
+</td>
+<td align="center"><span class="IPA"><a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D1%84%D0%BE%D0%BD%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82" title="Международный фонетический алфавит">k</a></span><br/><span class="IPA"><a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D1%84%D0%BE%D0%BD%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82" title="Международный фонетический алфавит">g</a></span>
+</td>
+<td align="center">' <span class="IPA"><a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D1%84%D0%BE%D0%BD%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82" title="Международный фонетический алфавит">[ʔ]</a></span>
+</td></tr>
+<tr>
+<th scope="row" style="background: #efefef;"><b><a class="mw-redirect" href="/wiki/%D0%90%D1%84%D1%84%D1%80%D0%B8%D0%BA%D0%B0%D1%82%D0%B0" title="Аффриката">Аффрикаты</a></b>
+</th>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td align="center">c <span class="IPA"><a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D1%84%D0%BE%D0%BD%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82" title="Международный фонетический алфавит">[tʃ]</a></span><br/>z <span class="IPA"><a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D1%84%D0%BE%D0%BD%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82" title="Международный фонетический алфавит">[dʒ]</a></span>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<th scope="row" style="background: #efefef;"><b><a class="mw-redirect" href="/wiki/%D0%9D%D0%BE%D1%81%D0%BE%D0%B2%D0%BE%D0%B9_%D1%81%D0%BE%D0%B3%D0%BB%D0%B0%D1%81%D0%BD%D1%8B%D0%B9" title="Носовой согласный">Носовые</a></b>
+</th>
+<td align="center"><span class="IPA"><a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D1%84%D0%BE%D0%BD%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82" title="Международный фонетический алфавит">m</a></span>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td align="center"><span class="IPA"><a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D1%84%D0%BE%D0%BD%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82" title="Международный фонетический алфавит">n</a></span>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<th scope="row" style="background: #efefef;"><b><a class="mw-redirect" href="/wiki/%D0%A9%D0%B5%D0%BB%D0%B5%D0%B2%D0%BE%D0%B9_%D1%81%D0%BE%D0%B3%D0%BB%D0%B0%D1%81%D0%BD%D1%8B%D0%B9" title="Щелевой согласный">Щелевые</a></b>
+</th>
+<td>
+</td>
+<td align="center"><span class="IPA"><a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D1%84%D0%BE%D0%BD%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82" title="Международный фонетический алфавит">f</a></span><br/><span class="IPA"><a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D1%84%D0%BE%D0%BD%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82" title="Международный фонетический алфавит">v</a></span>
+</td>
+<td>
+</td>
+<td align="center"><span class="IPA"><a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D1%84%D0%BE%D0%BD%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82" title="Международный фонетический алфавит">s</a></span>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td align="center">kh <span class="IPA"><a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D1%84%D0%BE%D0%BD%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82" title="Международный фонетический алфавит">[x]</a></span>
+</td>
+<td align="center"><span class="IPA"><a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D1%84%D0%BE%D0%BD%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82" title="Международный фонетический алфавит">h</a></span>
+</td></tr>
+<tr>
+<th scope="row" style="background: #efefef;"><b><a href="/wiki/%D0%90%D0%BF%D0%BF%D1%80%D0%BE%D0%BA%D1%81%D0%B8%D0%BC%D0%B0%D0%BD%D1%82%D1%8B" title="Аппроксиманты">Аппроксиманты</a></b>
+</th>
+<td>
+</td>
+<td align="center">ß <span class="IPA"><a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D1%84%D0%BE%D0%BD%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82" title="Международный фонетический алфавит">[ʋ]</a></span>
+</td>
+<td align="center"><span class="IPA"><a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D1%84%D0%BE%D0%BD%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82" title="Международный фонетический алфавит">w</a></span>
+</td>
+<td align="center"><span class="IPA"><a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D1%84%D0%BE%D0%BD%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82" title="Международный фонетический алфавит">l</a></span>
+</td>
+<td>
+</td>
+<td align="center">y <span class="IPA"><a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D1%84%D0%BE%D0%BD%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82" title="Международный фонетический алфавит">[j]</a></span>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<th scope="row" style="background: #efefef;"><b><a href="/wiki/%D0%94%D1%80%D0%BE%D0%B6%D0%B0%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B3%D0%BB%D0%B0%D1%81%D0%BD%D1%8B%D0%B5" title="Дрожащие согласные">Дрожащие</a></b>
+</th>
+<td align="center">mb <span class="IPA"><a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D1%84%D0%BE%D0%BD%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82" title="Международный фонетический алфавит">[ʙ]</a></span>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td align="center"><span class="IPA"><a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D1%84%D0%BE%D0%BD%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82" title="Международный фонетический алфавит">r</a></span>
+</td>
+<td>
+</td>
+<td align="center">
+</td>
+<td>
+</td>
+<td>
+</td></tr></tbody></table>
+<p>Примечание к таблице:<br/>
+* Ли Браун описывает <i>ndr</i> в южном диалекте как звонкий взрывной с дрожащим отступом (trilled release): фонетически это просто взрывной + дрожащий<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup>; для северного диалекта он описан как ретрофлексный дрожащий<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup>.
+</p>
+<h4><span id=".D0.A3.D0.B4.D0.B0.D1.80.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Ударение">Ударение</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9D%D0%B8%D0%B0%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA&amp;veaction=edit&amp;section=7" title="Редактировать раздел «Ударение»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9D%D0%B8%D0%B0%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA&amp;action=edit&amp;section=7" title="Редактировать код раздела «Ударение»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><a href="/wiki/%D0%A1%D0%BB%D0%BE%D0%B3" title="Слог">Слоговая</a> структура достаточно ограниченная, все слоги имеют вид CV(V) (перед гласными в начале слова автоматически вставляется гортанная смычка). <a href="/wiki/%D0%A3%D0%B4%D0%B0%D1%80%D0%B5%D0%BD%D0%B8%D0%B5" title="Ударение">Ударение</a> обычно падает <a href="/wiki/%D0%9F%D0%B0%D1%80%D0%BE%D0%BA%D1%81%D0%B8%D1%82%D0%BE%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D1%83%D0%B4%D0%B0%D1%80%D0%B5%D0%BD%D0%B8%D0%B5" title="Парокситоническое ударение">на предпоследний слог</a> (за немногочисленными исключениями, которыми, в основном, являются <a href="/wiki/%D0%A3%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BC%D0%B5%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8%D1%8F" title="Указательные местоимения">указательные слова</a>).
+</p>
+<h4><span id=".D0.9C.D0.BE.D1.80.D1.84.D0.BE.D0.BD.D0.BE.D0.BB.D0.BE.D0.B3.D0.B8.D1.8F"></span><span class="mw-headline" id="Морфонология">Морфонология</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9D%D0%B8%D0%B0%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA&amp;veaction=edit&amp;section=8" title="Редактировать раздел «Морфонология»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9D%D0%B8%D0%B0%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA&amp;action=edit&amp;section=8" title="Редактировать код раздела «Морфонология»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Среди <a href="/wiki/%D0%9C%D0%BE%D1%80%D1%84%D0%BE%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Морфонология">морфонологических</a> процессов в ниасском языке наибольшее распространение имеют два: чередование согласных после носовых и чередования начальных согласных. Назальная <a href="/wiki/%D0%90%D1%81%D1%81%D0%B8%D0%BC%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F_(%D0%BB%D0%B8%D0%BD%D0%B3%D0%B2%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0)" title="Ассимиляция (лингвистика)">ассимиляция</a> происходит после некоторых <a href="/wiki/%D0%9F%D1%80%D0%B8%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0_(%D0%BB%D0%B8%D0%BD%D0%B3%D0%B2%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0)" title="Приставка (лингвистика)">префиксов</a> — в особенности, глагольных, например после <a class="new" href="/w/index.php?title=%D0%98%D0%BC%D0%BF%D0%B5%D1%80%D1%84%D0%B5%D0%BA%D1%82%D0%B8%D0%B2&amp;action=edit&amp;redlink=1" title="Имперфектив (страница отсутствует)">имперфективного</a> префикса <i>ma-</i> (который, однако, сам может менять форму). В её результате происходят следующие изменения:
+</p>
+<table class="wikitable">
+<caption>Назальная ассимиляция в ниасском языке
+</caption>
+<tbody><tr style="background: #efefef;">
+<th scope="col">Исходный звук
+</th>
+<th scope="col">Результат ассимиляции
+</th></tr>
+<tr>
+<td align="center"><i>b</i>
+</td>
+<td align="center" rowspan="2"><i>m</i>
+</td></tr>
+<tr>
+<td align="center"><i>f</i>
+</td></tr>
+<tr>
+<td align="center"><i>t</i>
+</td>
+<td align="center" rowspan="3"><i>n</i>
+</td></tr>
+<tr>
+<td align="center"><i>s</i>
+</td></tr>
+<tr>
+<td align="center"><i>c</i>
+</td></tr>
+<tr>
+<td align="center"><i>d</i>
+</td>
+<td align="center" rowspan="2"><i>ndr</i>
+</td></tr>
+<tr>
+<td align="center"><i>r</i>
+</td></tr>
+<tr>
+<td align="center"><i>k</i>
+</td>
+<td align="center" rowspan="2"><i>g</i>
+</td></tr>
+<tr>
+<td align="center"><i>kh</i>
+</td></tr></tbody></table>
+<p>Кроме того, в ниасском языке существует развитая система чередований начальных согласных, охватывающая, в первую очередь, <a class="mw-redirect" href="/wiki/%D0%98%D0%BC%D1%8F_(%D0%BB%D0%B8%D0%BD%D0%B3%D0%B2%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0)" title="Имя (лингвистика)">имена</a> (также <a href="/wiki/%D0%98%D0%BC%D1%8F_%D1%87%D0%B8%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5" title="Имя числительное">числительные</a> и <a href="/wiki/%D0%9C%D0%B5%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8%D0%B5" title="Местоимение">местоимения</a>, но в этих случаях они фонологически менее регулярны). Система чередований (в орфографической записи) представлена на таблице:
+</p>
+<table class="wikitable">
+<caption>Начальные чередования в ниасском языке
+</caption>
+<tbody><tr style="background: #efefef;">
+<th scope="col">Исходный звук
+</th>
+<th scope="col">Результат чередования
+</th></tr>
+<tr>
+<td align="center"><i>f</i>
+</td>
+<td align="center"><i>v</i>
+</td></tr>
+<tr>
+<td align="center"><i>t</i>
+</td>
+<td align="center"><i>d</i>
+</td></tr>
+<tr>
+<td align="center"><i>s</i>
+</td>
+<td align="center" rowspan="2"><i>z</i>
+</td></tr>
+<tr>
+<td align="center"><i>c</i>
+</td></tr>
+<tr>
+<td align="center"><i>k</i>
+</td>
+<td align="center"><i>g</i>
+</td></tr>
+<tr>
+<td align="center"><i>b</i>
+</td>
+<td align="center"><i>mb</i>
+</td></tr>
+<tr>
+<td align="center"><i>d</i>
+</td>
+<td align="center"><i>ndr</i>
+</td></tr>
+<tr>
+<td align="center">гласный
+</td>
+<td align="center"><i>n</i> + гласный<br/><i>g</i> + гласный
+</td></tr></tbody></table>
+<p>Как можно видеть, в контексте, требующем чередования, к гласным приставляется согласный <i>n</i> или <i>g</i>. Выбор согласного, в основном, зависит от <a href="/wiki/%D0%AD%D1%82%D0%B8%D0%BC%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Этимология">этимологии</a>, но существуют и колебания (в частности, между <a href="/wiki/%D0%94%D0%B8%D0%B0%D0%BB%D0%B5%D0%BA%D1%82" title="Диалект">диалектами</a>).
+</p><p>В ниасском языке распространена также редупликация, например <i>bago</i> «делить» — <i>babago</i> «разделить»; <i>tunö</i> «рассказать» — <i>tutunö</i> «рассказать очень подробно»; <i>ofökhö</i> «быть больным» — <i>ofökhöfökhö</i> «быть очень больным».
+</p>
+<h3><span id=".D0.9C.D0.BE.D1.80.D1.84.D0.BE.D0.BB.D0.BE.D0.B3.D0.B8.D1.8F"></span><span class="mw-headline" id="Морфология">Морфология</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9D%D0%B8%D0%B0%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA&amp;veaction=edit&amp;section=9" title="Редактировать раздел «Морфология»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9D%D0%B8%D0%B0%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA&amp;action=edit&amp;section=9" title="Редактировать код раздела «Морфология»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>В языке ниас два главных класса слов: имя и предикат (соответствует <a href="/wiki/%D0%93%D0%BB%D0%B0%D0%B3%D0%BE%D0%BB" title="Глагол">глаголам</a> и <a class="mw-redirect" href="/wiki/%D0%9F%D1%80%D0%B8%D0%BB%D0%B0%D0%B3%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5" title="Прилагательное">прилагательным</a> других языков). Кроме того, в ниасском, как и в других языках Восточной и <a href="/wiki/%D0%AE%D0%B3%D0%BE-%D0%92%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B0%D1%8F_%D0%90%D0%B7%D0%B8%D1%8F" title="Юго-Восточная Азия">Юго-Восточной Азии</a>, есть <a class="mw-redirect" href="/wiki/%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80%D1%8B" title="Классификаторы">классификаторы</a>, или счётные слова — специальные единицы, с помощью которых числительные присоединяются к именам, например, <i>da</i> (для людей) и <i>bulu</i> (для плоских предметов).
+</p><p>Глаголы распадаются на два класса: те, которые принимают согласовательный префикс в <a class="new" href="/w/index.php?title=%D0%A0%D0%B5%D0%B0%D0%BB%D0%B8%D1%81&amp;action=edit&amp;redlink=1" title="Реалис (страница отсутствует)">реалисе</a> (обычно это двух- и трёхместные глаголы) и те, которые не согласуются в реалисе со своими аргументами (в основном одноместные). Небольшое число глагольных словоформ может выступать не только как полнозначные глаголы, но и как одификаторы наречного типа: '<i>ifuli</i> «возвращаться» или «делать что-л. снова», <i>ahori</i> «закончить» или «все».
+</p><p>Небольшое число корней являются «прекатегориальными», то есть от них образуются лексемы разных категорий, например, одно- и двух местные глаголы или глаголы и имена: от <i>-era</i> образуется <i>erai</i> «считать» и <i>era’era</i> «думать».
+</p><p>Существуют и более мелкие классы: наречия, местоимения, указательные элементы, частицы с <a href="/wiki/%D0%9C%D0%BE%D0%B4%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C_(%D0%BB%D0%B8%D0%BD%D0%B3%D0%B2%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0)" title="Модальность (лингвистика)">модальным</a> и <a href="/wiki/%D0%AD%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Эвиденциальность">эвиденциальным</a> значением и пр.
+</p>
+<h4><span id=".D0.93.D0.BB.D0.B0.D0.B3.D0.BE.D0.BB"></span><span class="mw-headline" id="Глагол">Глагол</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9D%D0%B8%D0%B0%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA&amp;veaction=edit&amp;section=10" title="Редактировать раздел «Глагол»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9D%D0%B8%D0%B0%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA&amp;action=edit&amp;section=10" title="Редактировать код раздела «Глагол»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Глагольные <a href="/wiki/%D0%9B%D0%B5%D0%BA%D1%81%D0%B5%D0%BC%D0%B0_(%D0%BB%D0%B8%D0%BD%D0%B3%D0%B2%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0)" title="Лексема (лингвистика)">лексемы</a> могут образовываться с помощью различных <a class="mw-redirect" href="/wiki/%D0%9F%D1%80%D0%B5%D1%84%D0%B8%D0%BA%D1%81_(%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0)" title="Префикс (грамматика)">префиксов</a>, <a href="/wiki/%D0%98%D0%BD%D1%84%D0%B8%D0%BA%D1%81" title="Инфикс">инфиксов</a> и <a href="/wiki/%D0%A1%D1%83%D1%84%D1%84%D0%B8%D0%BA%D1%81" title="Суффикс">суффиксов</a>. Среди них можно отметить следующие:
+</p>
+<ul><li>Префиксы, образующие непереходные глаголы:
+<ul><li><i>a-</i> (статив): <i>abasö</i> «быть мокрым», <i>basö</i> «мочить»;</li>
+<li><i>maN-</i> (<i>ma</i> + назальная ассимиляция) (<a class="new" href="/w/index.php?title=%D0%94%D0%B5%D0%BD%D0%BE%D0%BC%D0%B8%D0%BD%D0%B0%D1%82%D0%B8%D0%B2&amp;action=edit&amp;redlink=1" title="Деноминатив (страница отсутствует)">деноминативы</a>, обозначающие действие, обычно ассоциируемое с производящим именем): <i>mamu’ala</i> «давать что-л.», <i>bu’ala</i> «дар»;</li>
+<li><i>mo-</i> (обладание тем, что означает производящее слово): <i>modoi</i> «быть костлявым», <i>doi</i> «кость, игла»;</li>
+<li><i>te-</i>, <i>to-</i> (результатив): <i>tesöndra</i> «быть найденным», <i>söndra</i> «найти»;</li>
+<li><i>fa-</i> (значение действия): <i>fali</i> «плести», <i>fafali</i> «заниматься плетением».</li></ul></li>
+<li>Префиксы, образующие переходные глаголы:
+<ul><li><i>fe-</i> (<a href="/wiki/%D0%9A%D0%B0%D1%83%D0%B7%D0%B0%D1%82%D0%B8%D0%B2" title="Каузатив">каузатив</a>): <i>förö</i> «спать», <i>feförö</i> «укладывать спать»;</li>
+<li><i>o-</i> («делать похожим на»): <i>I<b>o</b>böhö mbara’a ha’a</i> «Он сделал себе трон в форме оленя» (<i>böhö</i> «олень»).</li></ul></li></ul>
+<p>Суффиксы могут иметь значения <a href="/wiki/%D0%90%D0%BF%D0%BF%D0%BB%D0%B8%D0%BA%D0%B0%D1%82%D0%B8%D0%B2" title="Аппликатив">аппликатива</a> (превращение косвенного дополнения или обстоятельства в прямое дополнение) и каузатива, например, <i>alio</i> «быть быстрым», <i>alio'ö</i> «торопить» (каузатив). Наиболее распространённые суффиксы: <i>-i'ö</i>, <i>-gö</i>, <i>-i</i>, <i>-ni</i>; существуют и другие.
+</p><p>Перед глагольной словоформой могут использоваться некоторые модификаторы, в следующем порядке:
+</p>
+<ol><li>модальные элементы типа <i>tola</i> «мочь», <i>tepaksa</i> «нужно»;</li>
+<li>отрицание;</li>
+<li>показатель <a href="/wiki/%D0%9F%D0%B5%D1%80%D1%84%D0%B5%D0%BA%D1%82" title="Перфект">перфекта</a> <a href="/wiki/%D0%9A%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0" title="Клитика">клитика</a> <i>ma</i>;</li>
+<li>показатели вида и времени: <i>alio</i> «быстро».</li></ol>
+<p>В самой словоформе выражаются следующие <a class="mw-redirect" href="/wiki/%D0%93%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BA%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Грамматические категории">грамматические категории</a>:
+</p>
+<ol><li><a class="new" href="/w/index.php?title=%D0%A0%D0%B5%D0%B0%D0%BB%D0%B8%D1%81&amp;action=edit&amp;redlink=1" title="Реалис (страница отсутствует)">реалис</a>/<a href="/wiki/%D0%98%D1%80%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D1%81" title="Ирреалис">ирреалис</a> (не имеет собственных показателей; в зависимости от значения этой категории меняют формы местоименные согласовательные элементы);</li>
+<li>имперфект (точное значение зависит от свойств глагола и значения реалиса/ирреалиса): инфикс <i>-um-</i>, префикс <i>maN-</i>;</li>
+<li>совместность: <i>mo-</i>;</li>
+<li>согласование (с эргативным аргументом, если он есть).</li></ol>
+<p>Существуют <a class="mw-redirect" href="/wiki/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%B7%D0%BC" title="Аналитизм">аналитические</a> конструкции со значением <a class="new" href="/w/index.php?title=%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B8%D0%B2&amp;action=edit&amp;redlink=1" title="Прогрессив (страница отсутствует)">прогрессива</a> (продолженного времени) и цели.
+</p>
+<h4><span id=".D0.98.D0.BC.D1.8F"></span><span class="mw-headline" id="Имя">Имя</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9D%D0%B8%D0%B0%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA&amp;veaction=edit&amp;section=11" title="Редактировать раздел «Имя»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9D%D0%B8%D0%B0%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA&amp;action=edit&amp;section=11" title="Редактировать код раздела «Имя»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Главная морфологическая категория имени — <a href="/wiki/%D0%9F%D0%B0%D0%B4%D0%B5%D0%B6" title="Падеж">падеж</a>. В ниасском языке два падежа: <a href="/wiki/%D0%AD%D1%80%D0%B3%D0%B0%D1%82%D0%B8%D0%B2" title="Эргатив">эргатив</a> и <a href="/wiki/%D0%90%D0%B1%D1%81%D0%BE%D0%BB%D1%8E%D1%82%D0%B8%D0%B2" title="Абсолютив">абсолютив</a>. Первый не выражается в <a href="/wiki/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%B0" title="Словоформа">словоформе</a> никак, второй — начальным чередованием:
+</p>
+<table border="0" cellspacing="4">
+<tbody><tr>
+<td><i>A-ukhu</i>
+</td>
+<td><i>nidanö</i>
+</td></tr>
+<tr>
+<td>(статив)-быть.горячим
+</td>
+<td>вода.(абсолютив)
+</td></tr>
+<tr>
+<td colspan="2">«Вода горячая»
+</td></tr></tbody></table>
+<table border="0" cellspacing="4">
+<tbody><tr>
+<td><i>La-bunu</i>
+</td>
+<td><i>mbaßi</i>
+</td></tr>
+<tr>
+<td>(3 мн., реалис)-убить
+</td>
+<td>свинья.(абсолютив)
+</td></tr>
+<tr>
+<td colspan="2">«Они убили свинью»
+</td></tr></tbody></table>
+<p>Кроме того, имена с начальным чередованием выступают в значении обладателя в посессивных конструкциях: <i>la’ala’a guli mbuaya</i> «цвет кожи крокодила» (<i>uli</i> «кожа», <i>buaya «</i>крокодил»), после многозначного предлога <i>khö</i> и других предлогов и после счётных слов.
+</p><p>Чередования никогда не происходит, если имя употребляется перед глаголом (например, для дополнительного выделения).
+</p><p>В некоторых типах предложений (в частности, тех, где глагол имеет показатель имперфекта) выражение падежа меняется «зеркально»: эргативные элементы выражаются именем с чередованием, абсолютивные — без.
+</p>
+<h3><span id=".D0.A1.D0.B8.D0.BD.D1.82.D0.B0.D0.BA.D1.81.D0.B8.D1.81"></span><span class="mw-headline" id="Синтаксис">Синтаксис</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9D%D0%B8%D0%B0%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA&amp;veaction=edit&amp;section=12" title="Редактировать раздел «Синтаксис»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9D%D0%B8%D0%B0%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA&amp;action=edit&amp;section=12" title="Редактировать код раздела «Синтаксис»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Базовый <a class="mw-redirect" href="/wiki/%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA_%D1%81%D0%BB%D0%BE%D0%B2" title="Порядок слов">порядок слов</a> в ниасском языке — VOS:
+</p>
+<table border="0" cellspacing="4">
+<tbody><tr>
+<td><i>man-uri</i>
+</td>
+<td><i>zawi</i>
+</td>
+<td><i>Vasui</i>
+</td></tr>
+<tr>
+<td>(имперфект).держать
+</td>
+<td>скот
+</td>
+<td>Фасуи
+</td></tr>
+<tr>
+<td colspan="3">«Фасуи держит скот»
+</td></tr></tbody></table>
+<p>Порядок элементов в именной группе следующий:
+</p>
+<ol><li>главное имя;</li>
+<li>обладатель;</li>
+<li>указательное местоимение (<a href="/wiki/%D0%94%D0%B5%D0%B9%D0%BA%D1%81%D0%B8%D1%81" title="Дейксис">дейктическое</a>);</li>
+<li>указательный элемент (определённость);</li>
+<li>относительные предложения (включая определительные конструкции);</li>
+<li>числительные и модификаторы.</li></ol>
+<p>Существует аналитическая возвратная (рефлексивная) конструкция: <i>Ibiniö ya</i> — «спрятал-его он» — «он спрятался».
+</p>
+<h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Примечания">Примечания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9D%D0%B8%D0%B0%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA&amp;veaction=edit&amp;section=13" title="Редактировать раздел «Примечания»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9D%D0%B8%D0%B0%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA&amp;action=edit&amp;section=13" title="Редактировать код раздела «Примечания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Остров <a href="/wiki/%D0%9D%D0%B8%D0%B0%D1%81" title="Ниас">Ниас</a> очень сильно пострадал от <a class="mw-redirect" href="/wiki/%D0%97%D0%B5%D0%BC%D0%BB%D0%B5%D1%82%D1%80%D1%8F%D1%81%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B2_%D0%98%D0%BD%D0%B4%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%BC_%D0%BE%D0%BA%D0%B5%D0%B0%D0%BD%D0%B5_%D0%B2_2004_%D0%B3%D0%BE%D0%B4%D1%83" title="Землетрясение в Индийском океане в 2004 году">цунами 2004 года</a>; оценка сильно затруднена</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">BPS Kabupaten Nias, <i>Nias dalam Angka</i> (Ниас в цифрах). Gunungsitoli: 2000</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Источник: <a class="external text" href="http://nias.wordpress.com/2006/07/07/li-niha-the-essence-of-the-culture-tradition-and-history-of-the-nias-people/" rel="nofollow">интервью с Ли Браун</a> <a class="external text" href="https://web.archive.org/web/20210112234124/http://nias.wordpress.com/2006/07/07/li-niha-the-essence-of-the-culture-tradition-and-history-of-the-nias-people/" rel="nofollow">Архивная копия</a> от 12 января 2021 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">Nothofer, Bernd. <i>The relationship between the languages of the Barrier Islands and the Sulawesi-Philippine languages</i> // Tom Dutton &amp; Darrell T. Tryon (eds.) <i>Language Contact and Change in the Austronesian World</i>. Berlin; New York: Mouton de Gruyter, 1994, pp.389-409.</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">Brown, Lea <i>Nias</i> // Nikolaus P. Himmelmann, K. Alexander Adelaar (Eds.) <i>The Austronesian Languages of Asia and Madagascar</i>. London; New York: Routledge, 2005, pp. 562—587.</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">Аркадьев, П. М. <i>Функционально-семантическая типология двухпадежных систем</i> // Вопросы языкознания, 2005, № 4, с. 101—120.</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text">Brown, Lea <i>A Grammar of Nias Selatan</i>. PhD diss., University of Sydney, 2001</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text">Catford, John C. <i>Notes on the phonetics of Nias</i> // Richard McGinn (ed.) <i>Studies in Austronesian Linguistics</i>. Athens, Ohio: Ohio University Center for International Studies, Center for Southeast Asian Studies, 1988, pp. 151—172.</span>
+</li>
+</ol></div></div>
+<h2><span id=".D0.9B.D0.B8.D1.82.D0.B5.D1.80.D0.B0.D1.82.D1.83.D1.80.D0.B0"></span><span class="mw-headline" id="Литература">Литература</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9D%D0%B8%D0%B0%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA&amp;veaction=edit&amp;section=14" title="Редактировать раздел «Литература»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9D%D0%B8%D0%B0%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA&amp;action=edit&amp;section=14" title="Редактировать код раздела «Литература»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ol><li>Brown, Lea <i>A Grammar of Nias Selatan</i>. PhD diss., University of Sydney, 2001.</li>
+<li>Brown, Lea <i>Nias</i> // Nikolaus P. Himmelmann, K. Alexander Adelaar (Eds.) <i>The Austronesian Languages of Asia and Madagascar</i>. London; New York: Routledge, 2005, pp. 562—587.</li>
+<li>Halawa, T., A. Harefa, and M. Silitonga <i>Struktur Bahasa Nias</i>. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa, Departemen Pendidikan dan Kebudayaan, 1983.</li>
+<li>Laiya, Sitasi Z. <i>Kamus Nias — Indonesia</i>. Jakarta: Pusat Pembinaan dan Pengambangan Bahasa, 1985 (словарь).</li>
+<li>Pätsch, Gertrud. <i>Das Nias im historischen Vergleich</i> // Zeitschrift für Phonetik Sprachwissenschaft und Kommunikationsforschung. 31 (1978): 58-72.</li>
+<li>Siregar, Ahmad Samin <i>Morfologi dan sintaksis bahasa Nias</i> Jakarta: Pusat Pembinaan dan Pengembangan Bahasa.</li>
+<li>Sundermann, H. <i>Het Nieuwe Testament in het Niassisch vertaald door H. Sundermann. Zendeling. Soera Gamaboe’eola Li si Bohooe</i>. Amsterdam: Nederlandsche Bijbelgenootschap, 1921 (перевод <a href="/wiki/%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9_%D0%97%D0%B0%D0%B2%D0%B5%D1%82" title="Новый Завет">Нового Завета</a>).</li></ol>
+<h2><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span><span class="mw-headline" id="Ссылки">Ссылки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9D%D0%B8%D0%B0%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA&amp;veaction=edit&amp;section=15" title="Редактировать раздел «Ссылки»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9D%D0%B8%D0%B0%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA&amp;action=edit&amp;section=15" title="Редактировать код раздела «Ссылки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+
+<table class="metadata plainlinks ts-Родственный_проект noprint ruwikiWikimediaNavigation" role="presentation">
+<tbody><tr>
+<th style="width:10%;"><span class="noviewer" typeof="mw:File"><span><img alt="Логотип Википедии" class="mw-file-element" data-file-height="30" data-file-width="30" decoding="async" height="24" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Notification-icon-Wikipedia-logo.svg/24px-Notification-icon-Wikipedia-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Notification-icon-Wikipedia-logo.svg/36px-Notification-icon-Wikipedia-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Notification-icon-Wikipedia-logo.svg/48px-Notification-icon-Wikipedia-logo.svg.png 2x" width="24"/></span></span>
+</th>
+<td><a class="extiw" href="https://nia.wikipedia.org/wiki/" title="nia:">Раздел Википедии на ниасском языке </a><br/>
+</td></tr></tbody></table>
+<ul><li><a class="external text" href="http://nias.wordpress.com/nias-word-list/" rel="nofollow">Небольшой словарик и заметки по грамматике</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><a class="external text" href="http://www.niasisland.com/dict/dict.php" rel="nofollow">Ниас-индонезийско-английский словарь</a> <a class="external text" href="https://web.archive.org/web/20160117015040/http://www.niasisland.com/dict/dict.php" rel="nofollow">Архивная копия</a> от 17 января 2016 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> (около 1000 слов).</li></ul>
+<div aria-labelledby="Ссылки_на_внешние_ресурсы" class="navbox" data-name="External links" role="navigation" style="padding-top:1px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup" style="display:none"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:External_links" title="Перейти к шаблону «External links»"><img alt="Перейти к шаблону «External links»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span> </span><div id="Ссылки_на_внешние_ресурсы" style="font-size:114%;margin:0 5em">Ссылки на внешние ресурсы</div></th></tr><tr><th class="navbox-group" scope="row" style="width:1px"><div style="padding: 0 35px 0 0; width: 100%;"><div style="float: left;"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8" title="Перейти к шаблону «Внешние ссылки»"><img alt="Перейти к шаблону «Внешние ссылки»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span>  <span typeof="mw:File"><a href="https://www.wikidata.org/wiki/Q2407831#identifiers" title="Перейти к элементу Викиданных"><img alt="Перейти к элементу Викиданных" class="mw-file-element" data-file-height="20" data-file-width="20" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/14px-OOjs_UI_icon_edit-ltr-progressive.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/21px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/28px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" width="14"/></a></span></div>  В библиографических каталогах</div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D0%B8" title="Национальная библиотека Франции">BNF</a>: <a class="external text" href="https://catalogue.bnf.fr/ark:/12148/cb125459642" rel="nofollow">125459642</a></li>
+<li><a href="/wiki/Gemeinsame_Normdatei" title="Gemeinsame Normdatei">GND</a>: <a class="external text" href="https://d-nb.info/gnd/4171700-4" rel="nofollow">4171700-4</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8F" title="Национальная библиотека Израиля">J9U</a>: <a class="external text" href="http://olduli.nli.org.il/F/?func=find-b&amp;local_base=NLX10&amp;find_code=UID&amp;request=987007531442905171" rel="nofollow">987007531442905171</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BD%D0%BE%D0%BC%D0%B5%D1%80_%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B8_%D0%9A%D0%BE%D0%BD%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B0" title="Контрольный номер Библиотеки Конгресса">LCCN</a>: <a class="external text" href="https://id.loc.gov/authorities/sh85091709" rel="nofollow">sh85091709</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BF%D0%B0%D1%80%D0%BB%D0%B0%D0%BC%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_(%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D1%8F)" title="Национальная парламентская библиотека (Япония)">NDL</a>: <a class="external text" href="https://id.ndl.go.jp/auth/ndlna/00577404" rel="nofollow">00577404</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1349
+Cached time: 20240216095356
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.418 seconds
+Real time usage: 0.527 seconds
+Preprocessor visited node count: 2113/1000000
+Post‐expand include size: 35514/2097152 bytes
+Template argument size: 4157/2097152 bytes
+Highest expansion depth: 15/100
+Expensive parser function count: 21/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 4398/5000000 bytes
+Lua time usage: 0.258/10.000 seconds
+Lua memory usage: 5906561/52428800 bytes
+Number of Wikibase entities loaded: 21/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  424.519      1 -total
+ 76.19%  323.459      1 Шаблон:Язык
+ 74.96%  318.230      1 Шаблон:Карточка
+ 29.97%  127.233     16 Шаблон:Wikidata
+ 23.26%   98.754      7 Шаблон:If-wikidata
+ 15.19%   64.492      1 Шаблон:Внешние_ссылки
+  3.99%   16.929      1 Шаблон:NUMBEROF
+  3.12%   13.226      1 Шаблон:Примечания
+  2.61%   11.084      1 Шаблон:Языковой_раздел
+  2.24%    9.527      1 Шаблон:Родственный_проект
+-->
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:360423-0!canonical and timestamp 20240216095356 and revision id 129457715. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> -->
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Ниасский_язык&amp;oldid=129457715">https://ru.wikipedia.org/w/index.php?title=Ниасский_язык&amp;oldid=129457715</a></div></div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%AF%D0%B7%D1%8B%D0%BA%D0%B8_%D0%B8_%D0%B4%D0%B8%D0%B0%D0%BB%D0%B5%D0%BA%D1%82%D1%8B_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Языки и диалекты по алфавиту">Языки и диалекты по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%AF%D0%B7%D1%8B%D0%BA%D0%B8_%D0%A1%D1%83%D0%BC%D0%B0%D1%82%D1%80%D1%8B" title="Категория:Языки Суматры">Языки Суматры</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%97%D0%B0%D0%BF%D0%B0%D0%B4%D0%BD%D0%BE%D0%B7%D0%BE%D0%BD%D0%B4%D1%81%D0%BA%D0%B8%D0%B5_%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8" title="Категория:Западнозондские языки">Западнозондские языки</a></li></ul></div></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Навигация</h2>
+<div id="mw-head">
+<nav aria-labelledby="p-personal-label" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" id="p-personal" role="navigation">
+<h3 class="vector-menu-heading" id="p-personal-label">
+<span class="vector-menu-heading-label">Персональные инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="pt-anonuserpage"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li class="mw-list-item" id="pt-anontalk"><a accesskey="n" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]"><span>Обсуждение</span></a></li><li class="mw-list-item" id="pt-anoncontribs"><a accesskey="y" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]"><span>Вклад</span></a></li><li class="mw-list-item" id="pt-createaccount"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%9D%D0%B8%D0%B0%D1%81%D1%81%D0%BA%D0%B8%D0%B9+%D1%8F%D0%B7%D1%8B%D0%BA" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li class="mw-list-item" id="pt-login"><a accesskey="o" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%9D%D0%B8%D0%B0%D1%81%D1%81%D0%BA%D0%B8%D0%B9+%D1%8F%D0%B7%D1%8B%D0%BA" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]"><span>Войти</span></a></li>
+</ul>
+</div>
+</nav>
+<div id="left-navigation">
+<nav aria-labelledby="p-namespaces-label" class="mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-namespaces" role="navigation">
+<h3 class="vector-menu-heading" id="p-namespaces-label">
+<span class="vector-menu-heading-label">Пространства имён</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-nstab-main"><a accesskey="c" href="/wiki/%D0%9D%D0%B8%D0%B0%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Просмотреть контентную страницу [c]"><span>Статья</span></a></li><li class="mw-list-item" id="ca-talk"><a accesskey="t" href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%9D%D0%B8%D0%B0%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" rel="discussion" title="Обсуждение основной страницы [t]"><span>Обсуждение</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-variants-label" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" id="p-variants" role="navigation">
+<input aria-haspopup="true" aria-labelledby="p-variants-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-variants" id="p-variants-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-variants-label">
+<span class="vector-menu-heading-label">русский</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+</div>
+<div id="right-navigation">
+<nav aria-labelledby="p-views-label" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-views" role="navigation">
+<h3 class="vector-menu-heading" id="p-views-label">
+<span class="vector-menu-heading-label">Просмотры</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-view"><a href="/wiki/%D0%9D%D0%B8%D0%B0%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA"><span>Читать</span></a></li><li class="mw-list-item" id="ca-ve-edit"><a accesskey="v" href="/w/index.php?title=%D0%9D%D0%B8%D0%B0%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA&amp;veaction=edit" title="Редактировать данную страницу [v]"><span>Править</span></a></li><li class="collapsible mw-list-item" id="ca-edit"><a accesskey="e" href="/w/index.php?title=%D0%9D%D0%B8%D0%B0%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA&amp;action=edit" title="Править исходный текст этой страницы [e]"><span>Править код</span></a></li><li class="mw-list-item" id="ca-history"><a accesskey="h" href="/w/index.php?title=%D0%9D%D0%B8%D0%B0%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA&amp;action=history" title="Журнал изменений страницы [h]"><span>История</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-cactions-label" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" id="p-cactions" role="navigation" title="Больше возможностей">
+<input aria-haspopup="true" aria-labelledby="p-cactions-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-cactions" id="p-cactions-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-cactions-label">
+<span class="vector-menu-heading-label">Ещё</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+<div class="vector-search-box-vue vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box" id="p-search" role="search">
+<h3>Поиск</h3>
+<form action="/w/index.php" class="vector-search-box-form" id="searchform">
+<div class="vector-search-box-inner" data-search-loc="header-navigation" id="simpleSearch">
+<input accesskey="f" aria-label="Искать в Википедии" autocapitalize="sentences" class="vector-search-box-input" id="searchInput" name="search" placeholder="Искать в Википедии" title="Искать в Википедии [f]" type="search"/>
+<input name="title" type="hidden" value="Служебная:Поиск"/>
+<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Найти страницы, содержащие указанный текст" type="submit" value="Найти"/>
+<input class="searchButton" id="searchButton" name="go" title="Перейти к странице, имеющей в точности такое название" type="submit" value="Перейти"/>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="vector-legacy-sidebar" id="mw-panel">
+<div id="p-logo" role="banner">
+<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу"></a>
+</div>
+<nav aria-labelledby="p-navigation-label" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" id="p-navigation" role="navigation">
+<h3 class="vector-menu-heading" id="p-navigation-label">
+<span class="vector-menu-heading-label">Навигация</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-mainpage-description"><a accesskey="z" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]"><span>Заглавная страница</span></a></li><li class="mw-list-item" id="n-content"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li class="mw-list-item" id="n-featured"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li class="mw-list-item" id="n-randompage"><a accesskey="x" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]"><span>Случайная статья</span></a></li><li class="mw-list-item" id="n-currentevents"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li class="mw-list-item" id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-participation-label" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" id="p-participation" role="navigation">
+<h3 class="vector-menu-heading" id="p-participation-label">
+<span class="vector-menu-heading-label">Участие</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-bug_in_article"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li class="mw-list-item" id="n-introduction"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li class="mw-list-item" id="n-portal"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li class="mw-list-item" id="n-forum"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li class="mw-list-item" id="n-recentchanges"><a accesskey="r" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]"><span>Свежие правки</span></a></li><li class="mw-list-item" id="n-newpages"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li class="mw-list-item" id="n-help"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-tb-label" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" id="p-tb" role="navigation">
+<h3 class="vector-menu-heading" id="p-tb-label">
+<span class="vector-menu-heading-label">Инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="t-whatlinkshere"><a accesskey="j" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%9D%D0%B8%D0%B0%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Список всех страниц, ссылающихся на данную [j]"><span>Ссылки сюда</span></a></li><li class="mw-list-item" id="t-recentchangeslinked"><a accesskey="k" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%9D%D0%B8%D0%B0%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]"><span>Связанные правки</span></a></li><li class="mw-list-item" id="t-specialpages"><a accesskey="q" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]"><span>Служебные страницы</span></a></li><li class="mw-list-item" id="t-permalink"><a href="/w/index.php?title=%D0%9D%D0%B8%D0%B0%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA&amp;oldid=129457715" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li class="mw-list-item" id="t-info"><a href="/w/index.php?title=%D0%9D%D0%B8%D0%B0%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li class="mw-list-item" id="t-cite"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%9D%D0%B8%D0%B0%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA&amp;id=129457715&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li class="mw-list-item" id="t-urlshortener"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%259D%25D0%25B8%25D0%25B0%25D1%2581%25D1%2581%25D0%25BA%25D0%25B8%25D0%25B9_%25D1%258F%25D0%25B7%25D1%258B%25D0%25BA"><span>Получить короткий URL</span></a></li><li class="mw-list-item" id="t-urlshortener-qrcode"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%259D%25D0%25B8%25D0%25B0%25D1%2581%25D1%2581%25D0%25BA%25D0%25B8%25D0%25B9_%25D1%258F%25D0%25B7%25D1%258B%25D0%25BA"><span>Скачать QR-код</span></a></li><li class="mw-list-item" id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q2407831" title="Ссылка на связанный элемент репозитория данных [g]"><span>Элемент Викиданных</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-coll-print_export-label" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" id="p-coll-print_export" role="navigation">
+<h3 class="vector-menu-heading" id="p-coll-print_export-label">
+<span class="vector-menu-heading-label">Печать/экспорт</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="coll-download-as-rl"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%9D%D0%B8%D0%B0%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li class="mw-list-item" id="t-print"><a accesskey="p" href="/w/index.php?title=%D0%9D%D0%B8%D0%B0%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA&amp;printable=yes" title="Версия этой страницы для печати [p]"><span>Версия для печати</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-wikibase-otherprojects-label" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal vector-menu" id="p-wikibase-otherprojects" role="navigation">
+<h3 class="vector-menu-heading" id="p-wikibase-otherprojects-label">
+<span class="vector-menu-heading-label">В других проектах</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Nias_language" hreflang="en"><span>Викисклад</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-lang-label" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" id="p-lang" role="navigation">
+<h3 class="vector-menu-heading" id="p-lang-label">
+<span class="vector-menu-heading-label">На других языках</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="interlanguage-link interwiki-ar mw-list-item"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%84%D8%BA%D8%A9_%D9%86%D9%8A%D8%A7%D8%B3" hreflang="ar" lang="ar" title="لغة نياس — арабский"><span>العربية</span></a></li><li class="interlanguage-link interwiki-ban mw-list-item"><a class="interlanguage-link-target" href="https://ban.wikipedia.org/wiki/Basa_Nias" hreflang="ban" lang="ban" title="Basa Nias — балийский"><span>Basa Bali</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Nias_(Sprache)" hreflang="de" lang="de" title="Nias (Sprache) — немецкий"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a class="interlanguage-link-target" href="https://en.wikipedia.org/wiki/Nias_language" hreflang="en" lang="en" title="Nias language — английский"><span>English</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Niasin_kieli" hreflang="fi" lang="fi" title="Niasin kieli — финский"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Niha" hreflang="fr" lang="fr" title="Niha — французский"><span>Français</span></a></li><li class="interlanguage-link interwiki-gl mw-list-item"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Lingua_nias" hreflang="gl" lang="gl" title="Lingua nias — галисийский"><span>Galego</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Nias_(jezik)" hreflang="hr" lang="hr" title="Nias (jezik) — хорватский"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Bahasa_Nias" hreflang="id" lang="id" title="Bahasa Nias — индонезийский"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-ilo mw-list-item"><a class="interlanguage-link-target" href="https://ilo.wikipedia.org/wiki/Pagsasao_a_Nias" hreflang="ilo" lang="ilo" title="Pagsasao a Nias — илоко"><span>Ilokano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%A2%E3%82%B9%E8%AA%9E" hreflang="ja" lang="ja" title="ニアス語 — японский"><span>日本語</span></a></li><li class="interlanguage-link interwiki-jv mw-list-item"><a class="interlanguage-link-target" href="https://jv.wikipedia.org/wiki/Basa_Nias" hreflang="jv" lang="jv" title="Basa Nias — яванский"><span>Jawa</span></a></li><li class="interlanguage-link interwiki-lt mw-list-item"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Nias%C5%B3_kalba" hreflang="lt" lang="lt" title="Niasų kalba — литовский"><span>Lietuvių</span></a></li><li class="interlanguage-link interwiki-min mw-list-item"><a class="interlanguage-link-target" href="https://min.wikipedia.org/wiki/Bahaso_Nieh" hreflang="min" lang="min" title="Bahaso Nieh — минангкабау"><span>Minangkabau</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Bahasa_Nias" hreflang="ms" lang="ms" title="Bahasa Nias — малайский"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-nia mw-list-item"><a class="interlanguage-link-target" href="https://nia.wikipedia.org/wiki/Li_Niha" hreflang="nia" lang="nia" title="Li Niha — ниас"><span>Li Niha</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Nias_(taal)" hreflang="nl" lang="nl" title="Nias (taal) — нидерландский"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/J%C4%99zyk_nias" hreflang="pl" lang="pl" title="Język nias — польский"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pms mw-list-item"><a class="interlanguage-link-target" href="https://pms.wikipedia.org/wiki/Lenga_nias" hreflang="pms" lang="pms" title="Lenga nias — Piedmontese"><span>Piemontèis</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/L%C3%ADngua_nias" hreflang="pt" lang="pt" title="Língua nias — португальский"><span>Português</span></a></li><li class="interlanguage-link interwiki-sat mw-list-item"><a class="interlanguage-link-target" href="https://sat.wikipedia.org/wiki/%E1%B1%B1%E1%B1%A4%E1%B1%AD%E1%B1%9F%E1%B1%A5_%E1%B1%AF%E1%B1%9F%E1%B1%B9%E1%B1%A8%E1%B1%A5%E1%B1%A4" hreflang="sat" lang="sat" title="ᱱᱤᱭᱟᱥ ᱯᱟᱹᱨᱥᱤ — сантали"><span>ᱥᱟᱱᱛᱟᱲᱤ</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%9D%D0%B8ja%D1%81%D0%BA%D0%B8_%D1%98%D0%B5%D0%B7%D0%B8%D0%BA" hreflang="sr" lang="sr" title="Ниjaски језик — сербский"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-sw mw-list-item"><a class="interlanguage-link-target" href="https://sw.wikipedia.org/wiki/Kinias" hreflang="sw" lang="sw" title="Kinias — суахили"><span>Kiswahili</span></a></li><li class="interlanguage-link interwiki-tt mw-list-item"><a class="interlanguage-link-target" href="https://tt.wikipedia.org/wiki/%D0%9D%D0%B8%D0%B0%D1%81_%D1%82%D0%B5%D0%BB%D0%B5" hreflang="tt" lang="tt" title="Ниас теле — татарский"><span>Татарча / tatarça</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9D%D1%96%D0%B0%D1%81%D1%8C%D0%BA%D0%B0_%D0%BC%D0%BE%D0%B2%D0%B0" hreflang="uk" lang="uk" title="Ніаська мова — украинский"><span>Українська</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Ti%E1%BA%BFng_Nias" hreflang="vi" lang="vi" title="Tiếng Nias — вьетнамский"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%B0%BC%E4%BA%9A%E6%96%AF%E8%AF%AD" hreflang="zh" lang="zh" title="尼亚斯语 — китайский"><span>中文</span></a></li>
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q2407831#sitelinks-wikipedia" title="Править ссылки на другие языки">Править ссылки</a></span></div>
+</div>
+</nav>
+</div>
+</div>
+<footer class="mw-footer" id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 26 марта 2023 в 17:59.</li>
+<li id="footer-info-copyright">Текст доступен по <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru" rel="license">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a><a href="//creativecommons.org/licenses/by-sa/4.0/" rel="license" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br/>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org/ru/">Фонд Викимедиа (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//ru.m.wikipedia.org/w/index.php?title=%D0%9D%D0%B8%D0%B0%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA&amp;mobileaction=toggle_view_mobile">Мобильная версия</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" loading="lazy" src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88"/></a></li>
+<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" loading="lazy" src="/static/images/footer/poweredby_mediawiki_88x31.png" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88"/></a></li>
+</ul>
+</footer>
+
+
+</body>
+</html>

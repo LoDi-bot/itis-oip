@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="ru">
+<head>
+<meta charset="utf-8"/>
+<title>Парадокс Монти Холла — Википедия</title>
+
+
+
+
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+
+
+<meta content="MediaWiki 1.42.0-wmf.18" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="max-image-preview:standard" name="robots"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Monty_open_door.svg/1200px-Monty_open_door.svg.png" property="og:image"/>
+<meta content="1200" property="og:image:width"/>
+<meta content="667" property="og:image:height"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Monty_open_door.svg/800px-Monty_open_door.svg.png" property="og:image"/>
+<meta content="800" property="og:image:width"/>
+<meta content="444" property="og:image:height"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Monty_open_door.svg/640px-Monty_open_door.svg.png" property="og:image"/>
+<meta content="640" property="og:image:width"/>
+<meta content="356" property="og:image:height"/>
+<meta content="width=1000" name="viewport"/>
+<meta content="Парадокс Монти Холла — Википедия" property="og:title"/>
+<meta content="website" property="og:type"/>
+
+
+
+
+
+
+
+
+
+
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Парадокс_Монти_Холла rootpage-Парадокс_Монти_Холла skin-vector action-view"><div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators">
+</div>
+<h1 class="firstHeading mw-first-heading" id="firstHeading"><span class="mw-page-title-main">Парадокс Монти Холла</span></h1>
+<div class="vector-body" id="bodyContent">
+<div class="noprint" id="siteSub">Материал из Википедии — свободной энциклопедии</div>
+<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+<div id="contentSub2"></div>
+<div id="jump-to-nav"></div>
+<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+<div class="mw-body-content" id="mw-content-text"><div class="mw-content-ltr mw-parser-output" dir="ltr" lang="ru"><table class="plainlinks metadata ambox ambox-move" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Mergefrom.svg"><img class="mw-file-element" data-file-height="20" data-file-width="50" decoding="async" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Mergefrom.svg/40px-Mergefrom.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Mergefrom.svg/60px-Mergefrom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Mergefrom.svg/80px-Mergefrom.svg.png 2x" width="40"/></a></span></div></td><td class="mbox-text"><div class="mbox-text-div"><b>Необходимо перенести в эту статью содержимое статьи <a class="mw-redirect" href="/wiki/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0_%D1%82%D1%80%D0%B5%D1%85_%D1%83%D0%B7%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2" title="Задача трех узников">Задача трех узников</a> и поставить оттуда перенаправление.</b></div><div class="mbox-textsmall-div hide-when-compact" style="font-size:85%">Вы можете помочь проекту, объединив статьи (см. <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA_%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D0%B9_%D0%BF%D1%80%D0%B8_%D0%BE%D0%B1%D1%8A%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D0%B8_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9" title="Википедия:Порядок действий при объединении статей">инструкцию по объединению</a>). В случае необходимости обсуждения целесообразности объединения, замените этот шаблон на шаблон <span class="nowrap"><span class="ts-templateCallCode"><span class="ts-templateCallCode-opening ts-templateCallCode-weak">{{</span><span class="ts-templateCallCode-templateName" data-navboxnavigation-link="0"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%9A_%D0%BE%D0%B1%D1%8A%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D1%8E" title="Шаблон:К объединению">К объединению</a></span><span class="ts-templateCallCode-closing ts-templateCallCode-weak">}}</span></span></span> и добавьте соответствующую запись <span class="nowrap">на странице</span> <a class="mw-redirect" href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%9E%D0%91" title="Википедия:КОБ">ВП:КОБ</a>.</div></td></tr></tbody></table>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Monty_open_door.svg"><img class="mw-file-element" data-file-height="100" data-file-width="180" decoding="async" height="122" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Monty_open_door.svg/220px-Monty_open_door.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Monty_open_door.svg/330px-Monty_open_door.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Monty_open_door.svg/440px-Monty_open_door.svg.png 2x" width="220"/></a><figcaption>В поисках автомобиля игрок выбирает дверь № 1. Тогда ведущий открывает 3-ю дверь, за которой находится коза, и предлагает игроку изменить свой выбор на дверь № 2. Стоит ли ему это делать?</figcaption></figure>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Monty_hall_solution_expanded_second_version.png"><img class="mw-file-element" data-file-height="2940" data-file-width="2480" decoding="async" height="261" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Monty_hall_solution_expanded_second_version.png/220px-Monty_hall_solution_expanded_second_version.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Monty_hall_solution_expanded_second_version.png/330px-Monty_hall_solution_expanded_second_version.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/87/Monty_hall_solution_expanded_second_version.png/440px-Monty_hall_solution_expanded_second_version.png 2x" width="220"/></a><figcaption>Распределение вероятностей. Из тех, кто менял дверь (нижний левый угол), двое получили машину и один — козу. Из тех, кто не менял (нижний правый угол) — наоборот.</figcaption></figure>
+<p><b><a href="/wiki/%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81" title="Парадокс">Парадокс</a> Монти Холла</b> — одна из известных задач <a href="/wiki/%D0%A2%D0%B5%D0%BE%D1%80%D0%B8%D1%8F_%D0%B2%D0%B5%D1%80%D0%BE%D1%8F%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9" title="Теория вероятностей">теории вероятностей</a>, решение которой, на первый взгляд, противоречит здравому смыслу<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup>. Эта задача не является <a href="/wiki/%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81" title="Парадокс">парадоксом</a>, так как не содержит в себе противоречия.
+</p><p>Задача впервые была опубликована<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup><sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> (вместе с решением) в 1975 году в журнале «The American Statistician» профессором <a href="/wiki/%D0%9A%D0%B0%D0%BB%D0%B8%D1%84%D0%BE%D1%80%D0%BD%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82_%D0%B2_%D0%91%D0%B5%D1%80%D0%BA%D0%BB%D0%B8" title="Калифорнийский университет в Беркли">Калифорнийского университета</a> Стивом Селвином. Она стала популярной после появления в журнале «Parade» в 1990 году<sup class="reference" id="cite_ref-nytimes91_4-0"><a href="#cite_note-nytimes91-4">[4]</a></sup>.
+</p>
+<div aria-labelledby="mw-toc-heading" class="toc" id="toc" role="navigation"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="ru"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Формулировка"><span class="tocnumber">1</span> <span class="toctext">Формулировка</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Разбор"><span class="tocnumber">2</span> <span class="toctext">Разбор</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Другое_поведение_ведущего"><span class="tocnumber">3</span> <span class="toctext">Другое поведение ведущего</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Вариант:_задача_трёх_узников"><span class="tocnumber">4</span> <span class="toctext">Вариант: задача трёх узников</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Разбор_2"><span class="tocnumber">4.1</span> <span class="toctext">Разбор</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#См._также"><span class="tocnumber">5</span> <span class="toctext">См. также</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Примечания"><span class="tocnumber">6</span> <span class="toctext">Примечания</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Ссылки"><span class="tocnumber">7</span> <span class="toctext">Ссылки</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Литература"><span class="tocnumber">8</span> <span class="toctext">Литература</span></a></li>
+</ul>
+</div>
+<h2><span id=".D0.A4.D0.BE.D1.80.D0.BC.D1.83.D0.BB.D0.B8.D1.80.D0.BE.D0.B2.D0.BA.D0.B0"></span><span class="mw-headline" id="Формулировка">Формулировка</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81_%D0%9C%D0%BE%D0%BD%D1%82%D0%B8_%D0%A5%D0%BE%D0%BB%D0%BB%D0%B0&amp;veaction=edit&amp;section=1" title="Редактировать раздел «Формулировка»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81_%D0%9C%D0%BE%D0%BD%D1%82%D0%B8_%D0%A5%D0%BE%D0%BB%D0%BB%D0%B0&amp;action=edit&amp;section=1" title="Редактировать код раздела «Формулировка»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0" title="Задача">Задача</a> формулируется как описание <a href="/wiki/%D0%98%D0%B3%D1%80%D0%B0" title="Игра">игры</a>, основанной на американской <a href="/wiki/%D0%A2%D0%B5%D0%BB%D0%B5%D0%B8%D0%B3%D1%80%D0%B0" title="Телеигра">телеигре</a> «Let’s Make a Deal», и названа в честь продюсера и первого ведущего этой передачи <a class="new" href="/w/index.php?title=%D0%9C%D0%BE%D0%BD%D1%82%D0%B8_%D0%A5%D0%BE%D0%BB%D0%BB&amp;action=edit&amp;redlink=1" title="Монти Холл (страница отсутствует)">Монти Холла</a>. Наиболее распространённая формулировка этой задачи, опубликованная в <a href="/wiki/1990_%D0%B3%D0%BE%D0%B4" title="1990 год">1990 году</a> в журнале <i>Parade Magazine</i>, звучит следующим образом:
+</p>
+<div class="ts-Цитата"><blockquote><p>Представьте, что вы стали участником игры, в которой вам нужно выбрать одну из трёх дверей. За одной из дверей находится <a href="/wiki/%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C" title="Автомобиль">автомобиль</a>, за двумя другими дверями — <a href="/wiki/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D1%8F%D1%8F_%D0%BA%D0%BE%D0%B7%D0%B0" title="Домашняя коза">козы</a>. Вы выбираете одну из дверей, например, номер 1, после этого ведущий, который знает, где находится автомобиль, а где — козы, открывает одну из оставшихся дверей, например, номер 3, за которой находится коза. После этого он спрашивает вас — не желаете ли вы изменить свой выбор и выбрать дверь номер 2? Увеличатся ли ваши <a href="/wiki/%D0%92%D0%B5%D1%80%D0%BE%D1%8F%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Вероятность">шансы</a> выиграть автомобиль, если вы примете предложение ведущего и измените свой выбор?</p></blockquote></div>
+<p>После публикации немедленно выяснилось, что задача сформулирована некорректно: не все условия оговорены. Например, ведущий может придерживаться стратегии «адский Монти»: предлагать сменить выбор тогда и только тогда, когда игрок первым ходом выбрал автомобиль. Очевидно, что смена первоначального выбора будет вести в такой ситуации к гарантированному проигрышу (см. ниже).
+</p><p>Наиболее популярной является задача с дополнительным условием<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> — <i>участнику игры заранее известны следующие правила </i>:
+</p>
+<ul><li>автомобиль равновероятно размещён за любой из трёх дверей;</li>
+<li>ведущий знает, где находится автомобиль;</li>
+<li>ведущий в любом случае обязан открыть дверь с козой (но не ту, которую выбрал игрок) и предложить игроку изменить выбор;</li>
+<li>если у ведущего есть выбор, какую из двух дверей открыть (то есть, игрок указал на верную дверь, и за обеими оставшимися дверями — козы), он выбирает любую из них с одинаковой вероятностью.</li></ul>
+<p>В нижеследующем тексте обсуждается задача Монти Холла именно в этой формулировке.
+</p>
+<h2><span id=".D0.A0.D0.B0.D0.B7.D0.B1.D0.BE.D1.80"></span><span class="mw-headline" id="Разбор">Разбор</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81_%D0%9C%D0%BE%D0%BD%D1%82%D0%B8_%D0%A5%D0%BE%D0%BB%D0%BB%D0%B0&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Разбор»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81_%D0%9C%D0%BE%D0%BD%D1%82%D0%B8_%D0%A5%D0%BE%D0%BB%D0%BB%D0%B0&amp;action=edit&amp;section=2" title="Редактировать код раздела «Разбор»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable" style="margin:auto; text-align: center;">
+<tbody><tr>
+<th>Дверь 1</th>
+<th>Дверь 2</th>
+<th>Дверь 3</th>
+<th>Результат, если менять выбор</th>
+<th>Результат, если не менять выбор
+</th></tr>
+<tr>
+<td>Авто</td>
+<td>Коза</td>
+<td>Коза</td>
+<td><b>Коза</b></td>
+<td><b>Авто</b>
+</td></tr>
+<tr>
+<td>Коза</td>
+<td>Авто</td>
+<td>Коза</td>
+<td><b>Авто</b></td>
+<td><b>Коза</b>
+</td></tr>
+<tr>
+<td>Коза</td>
+<td>Коза</td>
+<td>Авто</td>
+<td><b>Авто</b></td>
+<td><b>Коза</b>
+</td></tr></tbody></table>
+<p>Для стратегии выигрыша важно следующее: если вы меняете выбор двери после действий ведущего, то вы выигрываете, если изначально выбрали проигрышную дверь. Это произойдёт с вероятностью <span class="ts-Дробь frac" role="math"><span class="num">2</span>⁄<span class="den">3</span></span>, так как изначально выбрать проигрышную дверь можно 2 способами из 3. Иными словами, если вероятность того, что выигрыш за изначально выбранной дверью равна <span class="ts-Дробь frac" role="math"><span class="num">1</span>⁄<span class="den">3</span></span>, то вероятность обратного — <span class="ts-Дробь frac" role="math"><span class="num">2</span>⁄<span class="den">3</span></span>, а ведущий устраняет неопределённость, не меняя при этом вероятность.
+</p><p>Но часто при решении этой задачи рассуждают примерно так: ведущий всегда в итоге убирает одну проигрышную дверь, и тогда вероятности появления автомобиля за двумя не открытыми становятся равны <span class="ts-Дробь frac" role="math"><span class="num">1</span>⁄<span class="den">2</span></span>, вне зависимости от первоначального выбора. Но это неверно: хотя возможностей выбора действительно остаётся две, эти возможности (с учётом предыстории) не являются равновероятными. Это так, поскольку изначально все двери имели равные шансы быть выигрышными, но затем имели разные вероятности быть исключёнными.
+</p><p><br/>
+Для большинства людей этот вывод противоречит <a href="/wiki/%D0%98%D0%BD%D1%82%D1%83%D0%B8%D1%86%D0%B8%D1%8F" title="Интуиция">интуитивному</a> восприятию ситуации, и благодаря возникающему несоответствию между логическим выводом и ответом, к которому склоняет интуитивное мнение, задача и называется <i><a href="/wiki/%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81" title="Парадокс">парадоксом</a> Монти Холла</i>.
+</p><p>Следует иметь в виду, что первый выбор двери игроком влияет на то, из каких двух оставшихся дверей будет выбирать Монти.
+</p><p><br/>
+Ещё более наглядной ситуация с дверями становится, если представить, что дверей не 3, а, скажем, 1000, и после выбора игрока ведущий убирает 998 лишних, оставляя 2 двери: ту, которую выбрал игрок, и ещё одну. Представляется более очевидным, что вероятности нахождения приза за этими дверьми различны, и не равны <span class="ts-Дробь frac" role="math"><span class="num">1</span>⁄<span class="den">2</span></span>. Если мы меняем дверь, то проигрываем только в том случае, если с самого начала выбрали призовую дверь, вероятность чего 1:1000. Выигрываем же мы при смене двери в том случае, если наш изначальный выбор был <b>не</b>правильным, а вероятность этого — 999 из 1000. В случае с 3 дверьми логика сохраняется, но вероятность выигрыша при смене решения соответственно <span class="ts-Дробь frac" role="math"><span class="num">2</span>⁄<span class="den">3</span></span>, а не <span class="ts-Дробь frac" role="math"><span class="num">999</span>⁄<span class="den">1000</span></span>.
+</p><p>Другой способ рассуждения — замена условия эквивалентным. Представим, что, вместо осуществления игроком первоначального выбора (пусть это будет всегда дверь № 1) и последующего открытия ведущим двери с козой среди оставшихся (то есть всегда среди № 2 и № 3), игроку нужно угадать дверь с первой попытки, но ему предварительно сообщается, что за дверью № 1 автомобиль может быть с исходной вероятностью (33 %), а среди оставшихся дверей указывается, за какой из дверей автомобиля точно нет (0 %). Соответственно, на последнюю дверь всегда будет приходиться 67 % и стратегия её выбора предпочтительна.
+</p><p>Ещё более наглядное рассуждение — заранее зная полные условия игры (то, что выбор предложат поменять) и заранее с этими условиями согласившись, игрок фактически в первый раз выбирает дверь, за которой приза, по его мнению, нет (и может ошибиться с вероятностью <span class="ts-Дробь frac" role="math"><span class="num">1</span>⁄<span class="den">3</span></span>). Одновременно, косвенно он указывает на оставшиеся две двери, за одной из которых приз, по его мнению, есть, что даёт шанс на выигрыш <span class="ts-Дробь frac" role="math"><span class="num">2</span>⁄<span class="den">3</span></span>. Это эквивалентно игре, в которой ведущий бы в самом начале однократно предлагал игроку исключить одну «лишнюю» дверь и гарантированно открыть две оставшиеся.
+</p><p>Четвёртый вариант: если игрок выбрал автомобиль (вероятность этого <span class="ts-Дробь frac" role="math"><span class="num">1</span>⁄<span class="den">3</span></span>), Монти обязательно предложит смену, и она ведёт к козе. А если игрок выбрал козу (вероятность <span class="ts-Дробь frac" role="math"><span class="num">2</span>⁄<span class="den">3</span></span>) — то к автомобилю. Отсюда и апостериорные вероятности <span class="ts-Дробь frac" role="math"><span class="num">1</span>⁄<span class="den">3</span></span>, если не сменить, и <span class="ts-Дробь frac" role="math"><span class="num">2</span>⁄<span class="den">3</span></span>, если сменить. А равновероятное открытие левой и правой двери, если игрок всё-таки указал на автомобиль, не даёт извлечь информацию из факта, что открыта левая или правая дверь.
+</p>
+<h2><span id=".D0.94.D1.80.D1.83.D0.B3.D0.BE.D0.B5_.D0.BF.D0.BE.D0.B2.D0.B5.D0.B4.D0.B5.D0.BD.D0.B8.D0.B5_.D0.B2.D0.B5.D0.B4.D1.83.D1.89.D0.B5.D0.B3.D0.BE"></span><span class="mw-headline" id="Другое_поведение_ведущего">Другое поведение ведущего</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81_%D0%9C%D0%BE%D0%BD%D1%82%D0%B8_%D0%A5%D0%BE%D0%BB%D0%BB%D0%B0&amp;veaction=edit&amp;section=3" title="Редактировать раздел «Другое поведение ведущего»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81_%D0%9C%D0%BE%D0%BD%D1%82%D0%B8_%D0%A5%D0%BE%D0%BB%D0%BB%D0%B0&amp;action=edit&amp;section=3" title="Редактировать код раздела «Другое поведение ведущего»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Классическая версия парадокса Монти Холла утверждает, что ведущий обязательно предложит игроку сменить дверь, независимо от того, выбрал тот машину или нет. Но возможно и более сложное поведение ведущего. В этой таблице кратко описаны несколько вариантов поведения. Если не сказано противное, призы равновероятно расположены за дверями, ведущий знает, где автомобиль, а если есть выбор — равновероятно выбирает из двух коз. Если ведущий влияет на вероятности, а не следует жёсткой процедуре, то его цель — уберечь автомобиль от испытуемого. Цель испытуемого, соответственно, его забрать.
+</p>
+<div style="text-align:center;"><center>
+<table class="wikitable" style="width:80%;">
+<tbody><tr>
+<th>Поведение ведущего</th>
+<th>Результат
+</th></tr>
+<tr>
+<td>«Адский Монти»: ведущий предлагает сменить, если дверь правильная<sup class="reference" id="cite_ref-nytimes91_4-1"><a href="#cite_note-nytimes91-4">[4]</a></sup>.
+</td>
+<td>С вероятностью <big>⅔</big> предложения не будет, и испытуемый останется с козой. С вероятностью <big>⅓</big> — предложение будет, и смена всегда даст козу.
+</td></tr>
+<tr>
+<td>«Ангельский Монти»: ведущий предлагает сменить, если дверь неправильная<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup>.
+</td>
+<td>С вероятностью <big>⅓</big> предложения не будет, и испытуемый возьмёт автомобиль. С вероятностью <big>⅔</big> — предложение будет, и смена всегда даст автомобиль.
+</td></tr>
+<tr>
+<td>«Несведущий Монти» или «Монти Бух»: ведущий нечаянно падает, открывается дверь, и оказывается, что за ней не машина. Другими словами, ведущий сам не знает, что за дверями, открывает дверь полностью наугад, и только случайно за ней не оказалось автомобиля<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup><sup class="reference" id="cite_ref-roz1_8-0"><a href="#cite_note-roz1-8">[8]</a></sup><sup class="reference" id="cite_ref-roz2_9-0"><a href="#cite_note-roz2-9">[9]</a></sup>.
+</td>
+<td>С вероятностью <big>⅓</big> упавший Монти откроет автомобиль, проигрыш. С вероятностью <big>⅔</big> последует предложение, и смена даст выигрыш в <big>½</big> случаев.<br/>Именно так устроено американское шоу «Deal or No Deal» — правда, случайную дверь открывает сам игрок, и если за ней нет автомобиля, ведущий предлагает сменить.
+</td></tr>
+<tr>
+<td>Ведущий выбирает одну из коз и открывает её, если игрок выбрал другую дверь.
+</td>
+<td>С вероятностью <big>⅓</big> предложения не будет, проигрыш. С вероятностью <big>⅔</big> последует предложение, и смена даст выигрыш в <big>½</big> случаев.
+</td></tr>
+<tr>
+<td>Ведущий всегда открывает козу. Если выбран автомобиль, левая коза открывается с вероятностью <i>p</i> и правая с вероятностью <i>q</i>=1−<i>p</i>.<sup class="reference" id="cite_ref-roz1_8-1"><a href="#cite_note-roz1-8">[8]</a></sup><sup class="reference" id="cite_ref-roz2_9-1"><a href="#cite_note-roz2-9">[9]</a></sup><sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup>
+</td>
+<td>Если ведущий открыл левую дверь, смена даёт выигрыш с вероятностью <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\frac {1}{1+p}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mrow>
+<mn>1</mn>
+<mo>+</mo>
+<mi>p</mi>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {1}{1+p}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\frac {1}{1+p}}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0ba81ecace2aa9cd5970598f48c6653850ebfac2" style="vertical-align: -2.338ex; width:6.008ex; height:5.676ex;"/></span>. Если правую — <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\frac {1}{1+q}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mrow>
+<mn>1</mn>
+<mo>+</mo>
+<mi>q</mi>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {1}{1+q}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\frac {1}{1+q}}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/44d015abc9e4eecfa608a2f2390c46fed9441d30" style="vertical-align: -2.338ex; width:5.909ex; height:5.676ex;"/></span>. Однако испытуемый никак не может повлиять на вероятность того, что будет открыта правая дверь — независимо от его выбора это произойдёт с вероятностью <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\frac {1+q}{3}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mn>1</mn>
+<mo>+</mo>
+<mi>q</mi>
+</mrow>
+<mn>3</mn>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {1+q}{3}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\frac {1+q}{3}}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b24a363420a4a0ba2b3a4c73c1cd6bf4c33b2f7c" style="vertical-align: -1.838ex; width:5.909ex; height:5.343ex;"/></span>.
+</td></tr>
+<tr>
+<td>То же самое, <i>p</i>=<i>q</i>=<big>½</big> (классический случай).
+</td>
+<td>Смена даёт выигрыш с вероятностью <big>⅔</big>.
+</td></tr>
+<tr>
+<td>То же самое, <i>p</i>=1, <i>q</i>=0 («бессильный Монти» — усталый ведущий стоит у левой двери и открывает ту козу, которая ближе).
+</td>
+<td>Если ведущий открыл правую дверь (вероятность этого <big>⅓</big>), смена даёт гарантированный выигрыш. Если левую, что бывает в <big>⅔</big> случаев — вероятность <big>½</big>.
+</td></tr>
+<tr>
+<td>Ведущий не знает, что за дверями. Он выбирает одну из двух оставшихся дверей, тайно советуется с напарником, и предлагает сменить, если там коза. То есть он открывает козу всегда, если выбран автомобиль, и с вероятностью <big>½</big> в противном случае.<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup>
+</td>
+<td>Аналогично варианту «Монти Бух»: с вероятностью <big>⅓</big> тайный напарник скажет, что там автомобиль, предложения не будет, проигрыш. С вероятностью <big>⅔</big> будет предложение, и смена даст выигрыш в <big>½</big> случаев.
+</td></tr>
+<tr>
+<td>Общий случай: игра повторяется многократно, вероятность спрятать автомобиль за той или иной дверью, а также открыть ту или иную дверь произвольная, однако ведущий знает, где автомобиль, и всегда предлагает смену, открывая одну из коз.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup><sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup>
+</td>
+<td><a href="/wiki/%D0%A0%D0%B0%D0%B2%D0%BD%D0%BE%D0%B2%D0%B5%D1%81%D0%B8%D0%B5_%D0%9D%D1%8D%D1%88%D0%B0" title="Равновесие Нэша">Равновесие Нэша</a>: ведущему выгоднее всего именно парадокс Монти Холла в классическом виде — машина прячется за любой из дверей с вероятностью <big>⅓</big>; если есть выбор, открываем любую козу наугад. Вероятность выигрыша <big>⅔</big>.
+</td></tr>
+<tr>
+<td>То же самое, но ведущий может не открывать дверь вообще.
+</td>
+<td><a href="/wiki/%D0%A0%D0%B0%D0%B2%D0%BD%D0%BE%D0%B2%D0%B5%D1%81%D0%B8%D0%B5_%D0%9D%D1%8D%D1%88%D0%B0" title="Равновесие Нэша">Равновесие Нэша</a>: ведущему выгодно не открывать дверь, вероятность выигрыша <big>⅓</big>.
+</td></tr></tbody></table>
+</center></div>
+<h2><span id=".D0.92.D0.B0.D1.80.D0.B8.D0.B0.D0.BD.D1.82:_.D0.B7.D0.B0.D0.B4.D0.B0.D1.87.D0.B0_.D1.82.D1.80.D1.91.D1.85_.D1.83.D0.B7.D0.BD.D0.B8.D0.BA.D0.BE.D0.B2"></span><span class="mw-headline" id="Вариант:_задача_трёх_узников">Вариант: задача трёх узников</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81_%D0%9C%D0%BE%D0%BD%D1%82%D0%B8_%D0%A5%D0%BE%D0%BB%D0%BB%D0%B0&amp;veaction=edit&amp;section=4" title="Редактировать раздел «Вариант: задача трёх узников»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81_%D0%9C%D0%BE%D0%BD%D1%82%D0%B8_%D0%A5%D0%BE%D0%BB%D0%BB%D0%B0&amp;action=edit&amp;section=4" title="Редактировать код раздела «Вариант: задача трёх узников»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Задача предложена <a class="mw-redirect" href="/wiki/%D0%9C%D0%B0%D1%80%D1%82%D0%B8%D0%BD_%D0%93%D0%B0%D1%80%D0%B4%D0%BD%D0%B5%D1%80" title="Мартин Гарднер">Мартином Гарднером</a> в 1959 году.
+</p><p>Трое заключённых, A, B и С, заключены в одиночные камеры и приговорены к смертной казни. Губернатор случайным образом выбирает одного из них и милует его. Стражник, охраняющий заключённых, знает, кто помилован, но не имеет права сказать этого. Заключённый A просит стражника сказать ему имя того (другого) заключённого, кто точно будет казнён: «<i>Если B помилован, скажи мне, что казнён будет C. Если помилован C, скажи мне, что казнён будет B. Если они оба будут казнены, а помилован я, подбрось монету, и скажи имя B или C</i>».
+</p><p>Стражник говорит заключённому A, что заключённый B будет казнён. Заключённый A рад это слышать, поскольку он считает, что теперь вероятность его выживания стала <big>½</big>, а не <big>⅓</big>, как была до этого. Заключённый A тайно говорит заключённому С, что B будет казнён. Заключённый С также рад это слышать, поскольку он всё ещё полагает, что вероятность выживания заключённого А — <big>⅓</big>, а его вероятность выживания возросла до <big><span class="ts-Дробь frac" role="math"><span class="num">2</span>⁄<span class="den">3</span></span></big>. Как такое может быть?
+</p>
+<h3><span id=".D0.A0.D0.B0.D0.B7.D0.B1.D0.BE.D1.80_2"></span><span class="mw-headline" id="Разбор_2">Разбор</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81_%D0%9C%D0%BE%D0%BD%D1%82%D0%B8_%D0%A5%D0%BE%D0%BB%D0%BB%D0%B0&amp;veaction=edit&amp;section=5" title="Редактировать раздел «Разбор»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81_%D0%9C%D0%BE%D0%BD%D1%82%D0%B8_%D0%A5%D0%BE%D0%BB%D0%BB%D0%B0&amp;action=edit&amp;section=5" title="Редактировать код раздела «Разбор»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Знакомый с парадоксом Монти Холла теперь знает, что прав C и не прав A.
+</p>
+<ul><li>Помилуют A, стражник сказал B — вероятность <big><span class="ts-Дробь frac" role="math"><span class="num">1</span>⁄<span class="den">6</span></span></big>.</li>
+<li>Помилуют A, стражник сказал C — вероятность тоже <big><span class="ts-Дробь frac" role="math"><span class="num">1</span>⁄<span class="den">6</span></span></big>.</li>
+<li>Помилуют B, стражник сказал C — вероятность <big>⅓</big>.</li>
+<li>Помилуют C, стражник сказал B — вероятность тоже <big>⅓</big>.</li></ul>
+<p>Так что фраза «Казнят B» оставляет 1-й и 4-й варианты — то есть <big><span class="ts-Дробь frac" role="math"><span class="num">2</span>⁄<span class="den">3</span></span></big> вероятности, что помилуют C, и <big>⅓</big>, что A.
+</p><p>Люди думают, что вероятность <big>½</big>, потому что они игнорируют суть вопроса, который заключённый A задаёт стражнику. Если бы стражник мог ответить на вопрос «Будет ли заключенный B казнён?», тогда в случае положительного ответа вероятность казни А действительно бы уменьшалась с <big><span class="ts-Дробь frac" role="math"><span class="num">2</span>⁄<span class="den">3</span></span></big> до <big>½</big>.
+</p><p>К вопросу можно подойти и с другой стороны: если A помилуют, стражник скажет любое имя наугад; если A казнят — стражник скажет того, кого казнят вместе с A. Так что вопрос не даст A никакого дополнительного шанса на помилование.
+</p>
+<h2><span id=".D0.A1.D0.BC._.D1.82.D0.B0.D0.BA.D0.B6.D0.B5"></span><span class="mw-headline" id="См._также">См. также</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81_%D0%9C%D0%BE%D0%BD%D1%82%D0%B8_%D0%A5%D0%BE%D0%BB%D0%BB%D0%B0&amp;veaction=edit&amp;section=6" title="Редактировать раздел «См. также»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81_%D0%9C%D0%BE%D0%BD%D1%82%D0%B8_%D0%A5%D0%BE%D0%BB%D0%BB%D0%B0&amp;action=edit&amp;section=6" title="Редактировать код раздела «См. также»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0_%D1%82%D1%80%D1%91%D1%85_%D1%83%D0%B7%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2" title="Задача трёх узников">Задача трёх узников</a></li>
+<li><a href="/wiki/%D0%A3%D1%81%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0%D1%8F_%D0%B2%D0%B5%D1%80%D0%BE%D1%8F%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Условная вероятность">Условная вероятность</a></li>
+<li><a href="/wiki/%D0%A2%D0%B5%D0%BE%D1%80%D0%B5%D0%BC%D0%B0_%D0%91%D0%B0%D0%B9%D0%B5%D1%81%D0%B0" title="Теорема Байеса">Теорема Байеса</a></li>
+<li><a href="/wiki/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0_%D0%BE_%D0%B4%D0%B2%D1%83%D1%85_%D0%BA%D0%BE%D0%BD%D0%B2%D0%B5%D1%80%D1%82%D0%B0%D1%85" title="Задача о двух конвертах">Парадокс двух конвертов</a></li>
+<li><a href="/wiki/%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81_%D0%BC%D0%B0%D0%BB%D1%8C%D1%87%D0%B8%D0%BA%D0%B0_%D0%B8_%D0%B4%D0%B5%D0%B2%D0%BE%D1%87%D0%BA%D0%B8" title="Парадокс мальчика и девочки">Парадокс с полом ребёнка</a></li>
+<li><a href="/wiki/%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81_%D0%91%D0%B5%D1%80%D1%82%D1%80%D0%B0%D0%BD%D0%B0_(%D0%B2%D0%B5%D1%80%D0%BE%D1%8F%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C)" title="Парадокс Бертрана (вероятность)">Парадокс Бертрана (вероятность)</a></li></ul>
+<h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Примечания">Примечания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81_%D0%9C%D0%BE%D0%BD%D1%82%D0%B8_%D0%A5%D0%BE%D0%BB%D0%BB%D0%B0&amp;veaction=edit&amp;section=7" title="Редактировать раздел «Примечания»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81_%D0%9C%D0%BE%D0%BD%D1%82%D0%B8_%D0%A5%D0%BE%D0%BB%D0%BB%D0%B0&amp;action=edit&amp;section=7" title="Редактировать код раздела «Примечания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><span class="citation"><i>Воронцов, И.Д., Райцин, А.М.</i> <a class="external text" href="http://srd-mtuci.ru/attachments/article/249/ТИТ-2-2016.pdf#page=7" rel="nofollow">ПАРАДОКС МОНТИ ХОЛЛА</a><span class="hidden-ref" style="display:none"> <small class="ref-info" style="cursor:help;" title="на русском языке">(рус.)</small></span> // ТЕЛЕКОММУНИКАЦИИ И ИНФОРМАЦИОННЫЕ ТЕХНОЛОГИИ. — 2015. — <span class="nowrap">№ 2</span>. — <span class="nowrap">С. 7</span>. <small><a class="external text" href="https://web.archive.org/web/20210615024226/http://www.srd-mtuci.ru/attachments/article/249/%D0%A2%D0%98%D0%A2-2-2016.pdf#page=7" rel="nofollow">Архивировано</a> 15 июня 2021 года.</small></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><span class="citation" id="CITEREFSelvin"><i>Selvin, Steve.</i> A problem in probability (letter to the editor) <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small> // <a class="extiw" href="https://en.wikipedia.org/wiki/The_American_Statistician" title="en:The American Statistician"><span title="The American Statistician — версия статьи «The American Statistician» на английском языке">American Statistician</span></a><span class="noprint" style="font-style:normal; font-weight:normal;"> <span style="display:inline-block; font-size:80%; position:relative;"><span style="font-size:117.6%; margin-left:-0.43em; position:relative; top:0.28em;"> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></span><span class="link-ru metadata" style="margin-left:-0.43em; position:absolute; left:0; z-index:1; margin-top:-0.35em;"><span style="visibility:hidden; margin-right:0.099em;"> (</span><span data-interwiki-article="The American Statistician" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=The_American_Statistician&amp;action=edit&amp;redlink=1" title="The American Statistician (страница отсутствует)">рус.</a></span></span></span></span> : journal. — <span class="nowrap">Vol. 29</span>, <span class="nowrap">no. 1</span>. — <span class="nowrap">P. 67</span>. — <span class="noprint"><a href="/wiki/JSTOR" title="JSTOR">JSTOR</a> <a class="external text" href="https://www.jstor.org/stable/2683689" rel="nofollow">2683689</a></span>.</span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><span class="citation" id="CITEREFSelvin"><i>Selvin, Steve.</i> On the Monty Hall problem (letter to the editor) <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small> // <a class="extiw" href="https://en.wikipedia.org/wiki/The_American_Statistician" title="en:The American Statistician"><span title="The American Statistician — версия статьи «The American Statistician» на английском языке">American Statistician</span></a><span class="noprint" style="font-style:normal; font-weight:normal;"> <span style="display:inline-block; font-size:80%; position:relative;"><span style="font-size:117.6%; margin-left:-0.43em; position:relative; top:0.28em;"> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></span><span class="link-ru metadata" style="margin-left:-0.43em; position:absolute; left:0; z-index:1; margin-top:-0.35em;"><span style="visibility:hidden; margin-right:0.099em;"> (</span><span data-interwiki-article="The American Statistician" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=The_American_Statistician&amp;action=edit&amp;redlink=1" title="The American Statistician (страница отсутствует)">рус.</a></span></span></span></span> : journal. — <span class="nowrap">Vol. 29</span>, <span class="nowrap">no. 3</span>. — <span class="nowrap">P. 134</span>. — <span class="noprint"><a href="/wiki/JSTOR" title="JSTOR">JSTOR</a> <a class="external text" href="https://www.jstor.org/stable/2683443" rel="nofollow">2683443</a></span>.</span></span>
+</li>
+<li id="cite_note-nytimes91-4"><span class="mw-cite-backlink">↑ <a href="#cite_ref-nytimes91_4-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-nytimes91_4-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><cite class="citation cs2" id="CITEREFTierney1991"><a class="new" href="/w/index.php?title=John_Tierney_(journalist)&amp;action=edit&amp;redlink=1" title="John Tierney (journalist) (страница отсутствует)">Tierney, John</a> (July 21, 1991), <a class="external text" href="https://query.nytimes.com/gst/fullpage.html?res=9D0CEFDD1E3FF932A15754C0A967958260" rel="nofollow">"Behind Monty Hall's Doors: Puzzle, Debate and Answer?"</a>, <i>The New York Times</i><span class="reference-accessdate">, Дата обращения: <span class="date">18 января 2008</span></span></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+New+York+Times&amp;rft.atitle=Behind+Monty+Hall%27s+Doors%3A+Puzzle%2C+Debate+and+Answer%3F&amp;rft.date=1991-07-21&amp;rft.aulast=Tierney&amp;rft.aufirst=John&amp;rft_id=https%3A%2F%2Fquery.nytimes.com%2Fgst%2Ffullpage.html%3Fres%3D9D0CEFDD1E3FF932A15754C0A967958260&amp;rfr_id=info%3Asid%2Fru.wikipedia.org%3A%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81+%D0%9C%D0%BE%D0%BD%D1%82%D0%B8+%D0%A5%D0%BE%D0%BB%D0%BB%D0%B0"></span> <a class="external text" href="https://web.archive.org/web/20071109214912/https://query.nytimes.com/gst/fullpage.html?res=9D0CEFDD1E3FF932A15754C0A967958260" rel="nofollow">Архивная копия</a> от 9 ноября 2007 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.cambridge.org/core/books/martin-gardner-in-the-twentyfirst-century/monty-hall-problem-reconsidered/0F9B317BB799EA305C9FA0FFAA0DDFF4" rel="nofollow">The Monty Hall Problem, Reconsidered</a> <a class="external text" href="https://web.archive.org/web/20190308080909/https://www.cambridge.org/core/books/martin-gardner-in-the-twentyfirst-century/monty-hall-problem-reconsidered/0F9B317BB799EA305C9FA0FFAA0DDFF4" rel="nofollow">Архивная копия</a> от 8 марта 2019 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. Martin Gardner in the Twenty-First Century</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">Granberg, Donald (1996). «To Switch or Not to Switch». Appendix to vos Savant, Marilyn, <i>The Power of Logical Thinking</i>. St. Martin’s Press. <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/0312304633">ISBN 0-312-30463-3</a>, (<i><a class="external text" href="https://books.google.com/books?id=jNndlc2W4pAC&amp;pg&amp;pg=PA169" rel="nofollow">restricted online copy</a></i> в «<a href="/wiki/Google_%D0%9A%D0%BD%D0%B8%D0%B3%D0%B8" title="Google Книги">Книгах Google</a>»).</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text">Granberg, Donald and Brown, Thad A. (1995). "The Monty Hall Dilemma, " <i>Personality and Social Psychology Bulletin</i> <b>21</b>(7): 711—729.</span>
+</li>
+<li id="cite_note-roz1-8"><span class="mw-cite-backlink">↑ <a href="#cite_ref-roz1_8-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-roz1_8-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="citation" id="CITEREFrefRosenthal2005a2005a"><i>Rosenthal, Jeffrey S.</i> Monty Hall, Monty Fall, Monty Crawl <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small> // <a class="extiw" href="https://en.wikipedia.org/wiki/Math_Horizons" title="en:Math Horizons"><span title="Math Horizons — версия статьи «Math Horizons» на английском языке">Math Horizons</span></a><span class="noprint" style="font-style:normal; font-weight:normal;"> <span style="display:inline-block; font-size:80%; position:relative;"><span style="font-size:117.6%; margin-left:-0.43em; position:relative; top:0.28em;"> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></span><span class="link-ru metadata" style="margin-left:-0.43em; position:absolute; left:0; z-index:1; margin-top:-0.35em;"><span style="visibility:hidden; margin-right:0.099em;"> (</span><span data-interwiki-article="Math Horizons" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=Math_Horizons&amp;action=edit&amp;redlink=1" title="Math Horizons (страница отсутствует)">рус.</a></span></span></span></span> : magazine. — 2005a. — <span class="nowrap">P. September issue, 5—7</span>.</span> <a class="external text" href="http://probability.ca/jeff/writing/montyfall.pdf" rel="nofollow">Online reprint, 2008</a> <a class="external text" href="https://web.archive.org/web/20101116192725/http://probability.ca/jeff/writing/montyfall.pdf" rel="nofollow">Архивная копия</a> от 16 ноября 2010 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span>
+</li>
+<li id="cite_note-roz2-9"><span class="mw-cite-backlink">↑ <a href="#cite_ref-roz2_9-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-roz2_9-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text">Rosenthal, Jeffrey S. (2005b): <i>Struck by Lightning: the Curious World of Probabilities</i>. Harper Collings 2005, <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9780002007917">ISBN 978-0-00-200791-7</a>.</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text">Morgan, J. P., Chaganty, N. R., Dahiya, R. C., &amp; Doviak, M. J. (1991). <a class="external text" href="https://www.jstor.org/stable/2684453" rel="nofollow">"Let’s make a deal: The player’s dilemma, "</a> <a class="external text" href="https://web.archive.org/web/20160821183729/https://www.jstor.org/stable/2684453" rel="nofollow">Архивная копия</a> от 21 августа 2016 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> <i>American Statistician</i> <b>45</b>: 284—287.</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text">Mueser, Peter R. and Granberg, Donald (May 1999). <a class="external text" href="http://econpapers.repec.org/paper/wpawuwpex/9906001.htm" rel="nofollow">«The Monty Hall Dilemma Revisited: Understanding the Interaction of Problem Definition and Decision Making»</a> <a class="external text" href="https://web.archive.org/web/20130525130449/http://econpapers.repec.org/paper/wpawuwpex/9906001.htm" rel="nofollow">Архивная копия</a> от 25 мая 2013 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>, University of Missouri Working Paper 99-06. Retrieved June 10, 2010.</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><a class="new" href="/w/index.php?title=%D0%93%D0%B8%D0%BB%D0%BB,_%D0%A0%D0%B8%D1%87%D0%B0%D1%80%D0%B4&amp;action=edit&amp;redlink=1" title="Гилл, Ричард (страница отсутствует)">Gill, Richard</a> (2010) Monty Hall problem. pp. 858—863, <i>International Encyclopaedia of Statistical Science</i>, Springer, 2010. Eprint <a class="external autonumber" href="http://arxiv.org/pdf/1002.3878v2" rel="nofollow">[1]</a></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><a class="new" href="/w/index.php?title=%D0%93%D0%B8%D0%BB%D0%BB,_%D0%A0%D0%B8%D1%87%D0%B0%D1%80%D0%B4&amp;action=edit&amp;redlink=1" title="Гилл, Ричард (страница отсутствует)">Gill, Richard</a> (2011) The Monty Hall Problem is not a probability puzzle (it’s a challenge in mathematical modelling). <i>Statistica Neerlandica</i> <b>65</b>(1) 58-71, February 2011. Eprint <a class="external autonumber" href="http://arxiv.org/pdf/1002.0651v3" rel="nofollow">[2]</a></span>
+</li>
+</ol></div></div>
+<h2><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span><span class="mw-headline" id="Ссылки">Ссылки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81_%D0%9C%D0%BE%D0%BD%D1%82%D0%B8_%D0%A5%D0%BE%D0%BB%D0%BB%D0%B0&amp;veaction=edit&amp;section=8" title="Редактировать раздел «Ссылки»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81_%D0%9C%D0%BE%D0%BD%D1%82%D0%B8_%D0%A5%D0%BE%D0%BB%D0%BB%D0%B0&amp;action=edit&amp;section=8" title="Редактировать код раздела «Ссылки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div aria-labelledby="Парадокс_Монти_Холла:" class="ts-Родственные_проекты ruwikiWikimediaNavigation tright metadata plainlinks plainlist noprint" role="navigation"><div class="ts-Родственные_проекты-header" id="Парадокс_Монти_Холла:"><b>Парадокс Монти Холла:</b></div><ul><li class="ts-Родственные_проекты-item"><span class="ts-Родственные_проекты-image"><span typeof="mw:File"><span><img alt="" class="mw-file-element" data-file-height="30" data-file-width="30" decoding="async" height="24" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/24px-Notification-icon-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/36px-Notification-icon-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/48px-Notification-icon-Commons-logo.svg.png 2x" width="24"/></span></span></span><span class="ts-Родственные_проекты-label commons-ref"><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Monty_Hall_problem" title="commons:Category:Monty Hall problem">Медиафайлы на Викискладе</a></span></li></ul></div>
+<ul><li class="mw-empty-elt"></li>
+<li><a class="external text" href="http://www.smartvideos.ru/probabilit-problem" rel="nofollow">Объясняющий видеоролик</a> на сайте <a class="external text" href="http://www.smartvideos.ru/" rel="nofollow">Smart Videos .ru</a></li>
+<li><i>Weisstein, Eric W.</i> <a class="external text" href="https://mathworld.wolfram.com/MontyHallProblem.html" rel="nofollow">Парадокс Монти Холла</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small> на сайте Wolfram <a href="/wiki/MathWorld" title="MathWorld">MathWorld</a>.</li>
+<li><a class="external text" href="http://www.letsmakeadeal.com/problem.htm" rel="nofollow">Парадокс Монти Холла</a> на сайте телешоу <a class="external text" href="http://www.letsmakeadeal.com" rel="nofollow">Let’s Make a deal</a></li>
+<li><a class="external text" href="http://univertv.ru/video/matematika/matematicheskaya_smes/matematicheskie_zagadki_i_paradoksy/paradoks_monti_holla/?mark=popular" rel="nofollow">Ron Clarke Парадокс Монти Холла</a></li>
+<li><a class="external text" href="https://web.archive.org/web/20120304195637/http://dr-piliulkin.livejournal.com/47055.html" rel="nofollow">Отрывок из книги С.Лукьяненко</a>, в котором используется парадокс Монти Холла</li>
+<li><a class="external text" href="http://www.nsu.ru/phorum/read.php?f=6&amp;i=6624&amp;t=6618" rel="nofollow">Ещё одно решение по Байесу</a> <a class="external text" href="https://web.archive.org/web/20160304204909/http://www.nsu.ru/phorum/read.php?f=6&amp;i=6624&amp;t=6618" rel="nofollow">Архивная копия</a> от 4 марта 2016 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> Ещё одно решение по Байесу на форуме Новосибирского Государственного Университета</li>
+<li><a class="external text" href="http://rosettacode.org/wiki/Monty_Hall_problem" rel="nofollow">Реализация симулятора парадокса Монти Холла на разных языках</a> (на сайте <span data-interwiki-article="Rosetta Code" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=Rosetta_Code&amp;action=edit&amp;redlink=1" title="Rosetta Code (страница отсутствует)">Rosetta Code</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://en.wikipedia.org/wiki/Rosetta_Code" title="en:Rosetta Code"><span title="Rosetta Code — версия статьи «Rosetta Code» на английском языке">[en]</span></a></sup></span>)</li>
+<li><a class="external text" href="https://olegon.ru/monti.htm" rel="nofollow">Наглядный пример действия парадокса Монти Холла</a> <small>(русск.)</small></li>
+<li><a class="external text" href="https://www.youtube.com/watch?v=T_VX1dSPNbQ&amp;feature=youtu.be" rel="nofollow">Приз за одной из трёх дверей</a></li></ul>
+<h2><span id=".D0.9B.D0.B8.D1.82.D0.B5.D1.80.D0.B0.D1.82.D1.83.D1.80.D0.B0"></span><span class="mw-headline" id="Литература">Литература</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81_%D0%9C%D0%BE%D0%BD%D1%82%D0%B8_%D0%A5%D0%BE%D0%BB%D0%BB%D0%B0&amp;veaction=edit&amp;section=9" title="Редактировать раздел «Литература»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81_%D0%9C%D0%BE%D0%BD%D1%82%D0%B8_%D0%A5%D0%BE%D0%BB%D0%BB%D0%B0&amp;action=edit&amp;section=9" title="Редактировать код раздела «Литература»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i>Гмурман В. Е. </i> Теория вероятностей и математическая статистика, — <abbr title="Москва">М.</abbr>: Высшее образование. 2005</li>
+<li><span class="citation" id="refGnedin2011">Gnedin, Sasha <a class="external text" href="http://www.springerlink.com/content/8402812734520774/fulltext.pdf" rel="nofollow">«The Mondee Gills Game.»</a> <small class="ref-info">(недоступная ссылка)</small> Журнал <i>The Mathematical Intelligencer</i>, 2011</span></li>
+<li><a href="/wiki/%D0%A1%D0%B0%D0%B2%D0%B0%D0%BD%D1%82,_%D0%9C%D1%8D%D1%80%D0%B8%D0%BB%D0%B8%D0%BD_%D0%B2%D0%BE%D1%81" title="Савант, Мэрилин вос">Савант, Мэрилин вос</a>. Колонка «Ask Marilyn», журнал <i>Parade Magazine</i> от <a href="/wiki/17_%D1%84%D0%B5%D0%B2%D1%80%D0%B0%D0%BB%D1%8F" title="17 февраля">17 февраля</a> <a class="mw-redirect" href="/wiki/1990" title="1990">1990</a>.</li>
+<li><a href="/wiki/%D0%A1%D0%B0%D0%B2%D0%B0%D0%BD%D1%82,_%D0%9C%D1%8D%D1%80%D0%B8%D0%BB%D0%B8%D0%BD_%D0%B2%D0%BE%D1%81" title="Савант, Мэрилин вос">Савант, Мэрилин вос</a>. Колонка «Ask Marilyn», журнал <i>Parade Magazine</i> от <a href="/wiki/26_%D1%84%D0%B5%D0%B2%D1%80%D0%B0%D0%BB%D1%8F" title="26 февраля">26 февраля</a> <a class="mw-redirect" href="/wiki/2006" title="2006">2006</a>.</li>
+<li>Bapeswara Rao, V. V. and Rao, M. Bhaskara. «A three-door game show and some of its variants». Журнал <i>The Mathematical Scientist</i>, 1992, № 2.</li>
+<li>Tijms, Henk. <i>Understanding Probability, Chance Rules in Everyday Life</i>. Cambridge University Press, New York, 2004. (<a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/0521540364">ISBN 0-521-54036-4</a>)</li></ul>
+<table class="mbox-Перевести plainlinks metadata ambox ambox-notice" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><span><img alt="" class="mw-file-element" data-file-height="20" data-file-width="60" decoding="async" height="17" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Translation_arrow.svg/50px-Translation_arrow.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Translation_arrow.svg/75px-Translation_arrow.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Translation_arrow.svg/100px-Translation_arrow.svg.png 2x" width="50"/></span></span></div></td><td class="mbox-text"><div class="mbox-text-div">В другом языковом разделе <b>есть более полная статья <a class="extiw" href="https://en.wikipedia.org/wiki/Monty_Hall_problem" title="en:Monty Hall problem">Monty Hall problem</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></b>.</div><div class="mbox-textsmall-div hide-when-compact" style="font-size:85%"><span class="hide-when-compact"> Вы можете помочь проекту, расширив текущую статью <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9" title="Википедия:Перевод статей">с помощью перевода</a></span></div></td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw1364
+Cached time: 20240216063612
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.395 seconds
+Real time usage: 0.553 seconds
+Preprocessor visited node count: 4351/1000000
+Post‐expand include size: 52575/2097152 bytes
+Template argument size: 9683/2097152 bytes
+Highest expansion depth: 17/100
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 27247/5000000 bytes
+Lua time usage: 0.174/10.000 seconds
+Lua memory usage: 5077984/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  465.183      1 -total
+ 42.12%  195.921      1 Шаблон:Примечания
+ 22.19%  103.225      4 Шаблон:Статья
+ 20.37%   94.742     18 Шаблон:Дробь
+ 15.19%   70.657      1 Шаблон:Citation
+ 14.37%   66.848     36 Шаблон:Safeformatnum
+ 13.24%   61.595      2 Шаблон:Mbox
+ 12.85%   59.758      1 Шаблон:Навигация
+ 12.71%   59.114      1 Шаблон:Перенести_сюда
+ 11.98%   55.734     36 Шаблон:Только_число
+-->
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:63126-0!canonical and timestamp 20240216063612 and revision id 135443220. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> -->
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Парадокс_Монти_Холла&amp;oldid=135443220">https://ru.wikipedia.org/w/index.php?title=Парадокс_Монти_Холла&amp;oldid=135443220</a></div></div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A2%D0%B5%D0%BE%D1%80%D0%B8%D1%8F_%D0%B2%D0%B5%D1%80%D0%BE%D1%8F%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9" title="Категория:Теория вероятностей">Теория вероятностей</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B5%D1%80%D0%BE%D1%8F%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%BD%D1%8B%D0%B5_%D0%BF%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81%D1%8B" title="Категория:Вероятностные парадоксы">Вероятностные парадоксы</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B,_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D0%B2%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_ISBN" title="Категория:Страницы, использующие волшебные ссылки ISBN">Страницы, использующие волшебные ссылки ISBN</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%BA_%D0%BF%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D1%8E" title="Категория:Википедия:Статьи к перемещению">Википедия:Статьи к перемещению</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81%D0%BE_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8_%D0%BD%D0%B0_%D0%92%D0%B8%D0%BA%D0%B8%D1%81%D0%BA%D0%BB%D0%B0%D0%B4" title="Категория:Статьи со ссылками на Викисклад">Статьи со ссылками на Викисклад</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D0%BD%D0%B5%D1%80%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%BC%D0%B8_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8" title="Категория:Википедия:Статьи с нерабочими ссылками">Википедия:Статьи с нерабочими ссылками</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%97%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D1%8B_%D0%BD%D0%B0_%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4_%D1%81_%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B3%D0%BE" title="Категория:Википедия:Запросы на перевод с английского">Википедия:Запросы на перевод с английского</a></li></ul></div></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Навигация</h2>
+<div id="mw-head">
+<nav aria-labelledby="p-personal-label" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" id="p-personal" role="navigation">
+<h3 class="vector-menu-heading" id="p-personal-label">
+<span class="vector-menu-heading-label">Персональные инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="pt-anonuserpage"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li class="mw-list-item" id="pt-anontalk"><a accesskey="n" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]"><span>Обсуждение</span></a></li><li class="mw-list-item" id="pt-anoncontribs"><a accesskey="y" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]"><span>Вклад</span></a></li><li class="mw-list-item" id="pt-createaccount"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81+%D0%9C%D0%BE%D0%BD%D1%82%D0%B8+%D0%A5%D0%BE%D0%BB%D0%BB%D0%B0" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li class="mw-list-item" id="pt-login"><a accesskey="o" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81+%D0%9C%D0%BE%D0%BD%D1%82%D0%B8+%D0%A5%D0%BE%D0%BB%D0%BB%D0%B0" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]"><span>Войти</span></a></li>
+</ul>
+</div>
+</nav>
+<div id="left-navigation">
+<nav aria-labelledby="p-namespaces-label" class="mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-namespaces" role="navigation">
+<h3 class="vector-menu-heading" id="p-namespaces-label">
+<span class="vector-menu-heading-label">Пространства имён</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-nstab-main"><a accesskey="c" href="/wiki/%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81_%D0%9C%D0%BE%D0%BD%D1%82%D0%B8_%D0%A5%D0%BE%D0%BB%D0%BB%D0%B0" title="Просмотреть контентную страницу [c]"><span>Статья</span></a></li><li class="mw-list-item" id="ca-talk"><a accesskey="t" href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81_%D0%9C%D0%BE%D0%BD%D1%82%D0%B8_%D0%A5%D0%BE%D0%BB%D0%BB%D0%B0" rel="discussion" title="Обсуждение основной страницы [t]"><span>Обсуждение</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-variants-label" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" id="p-variants" role="navigation">
+<input aria-haspopup="true" aria-labelledby="p-variants-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-variants" id="p-variants-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-variants-label">
+<span class="vector-menu-heading-label">русский</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+</div>
+<div id="right-navigation">
+<nav aria-labelledby="p-views-label" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-views" role="navigation">
+<h3 class="vector-menu-heading" id="p-views-label">
+<span class="vector-menu-heading-label">Просмотры</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-view"><a href="/wiki/%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81_%D0%9C%D0%BE%D0%BD%D1%82%D0%B8_%D0%A5%D0%BE%D0%BB%D0%BB%D0%B0"><span>Читать</span></a></li><li class="mw-list-item" id="ca-ve-edit"><a accesskey="v" href="/w/index.php?title=%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81_%D0%9C%D0%BE%D0%BD%D1%82%D0%B8_%D0%A5%D0%BE%D0%BB%D0%BB%D0%B0&amp;veaction=edit" title="Редактировать данную страницу [v]"><span>Править</span></a></li><li class="collapsible mw-list-item" id="ca-edit"><a accesskey="e" href="/w/index.php?title=%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81_%D0%9C%D0%BE%D0%BD%D1%82%D0%B8_%D0%A5%D0%BE%D0%BB%D0%BB%D0%B0&amp;action=edit" title="Править исходный текст этой страницы [e]"><span>Править код</span></a></li><li class="mw-list-item" id="ca-history"><a accesskey="h" href="/w/index.php?title=%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81_%D0%9C%D0%BE%D0%BD%D1%82%D0%B8_%D0%A5%D0%BE%D0%BB%D0%BB%D0%B0&amp;action=history" title="Журнал изменений страницы [h]"><span>История</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-cactions-label" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" id="p-cactions" role="navigation" title="Больше возможностей">
+<input aria-haspopup="true" aria-labelledby="p-cactions-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-cactions" id="p-cactions-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-cactions-label">
+<span class="vector-menu-heading-label">Ещё</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+<div class="vector-search-box-vue vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box" id="p-search" role="search">
+<h3>Поиск</h3>
+<form action="/w/index.php" class="vector-search-box-form" id="searchform">
+<div class="vector-search-box-inner" data-search-loc="header-navigation" id="simpleSearch">
+<input accesskey="f" aria-label="Искать в Википедии" autocapitalize="sentences" class="vector-search-box-input" id="searchInput" name="search" placeholder="Искать в Википедии" title="Искать в Википедии [f]" type="search"/>
+<input name="title" type="hidden" value="Служебная:Поиск"/>
+<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Найти страницы, содержащие указанный текст" type="submit" value="Найти"/>
+<input class="searchButton" id="searchButton" name="go" title="Перейти к странице, имеющей в точности такое название" type="submit" value="Перейти"/>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="vector-legacy-sidebar" id="mw-panel">
+<div id="p-logo" role="banner">
+<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу"></a>
+</div>
+<nav aria-labelledby="p-navigation-label" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" id="p-navigation" role="navigation">
+<h3 class="vector-menu-heading" id="p-navigation-label">
+<span class="vector-menu-heading-label">Навигация</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-mainpage-description"><a accesskey="z" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]"><span>Заглавная страница</span></a></li><li class="mw-list-item" id="n-content"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li class="mw-list-item" id="n-featured"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li class="mw-list-item" id="n-randompage"><a accesskey="x" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]"><span>Случайная статья</span></a></li><li class="mw-list-item" id="n-currentevents"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li class="mw-list-item" id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-participation-label" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" id="p-participation" role="navigation">
+<h3 class="vector-menu-heading" id="p-participation-label">
+<span class="vector-menu-heading-label">Участие</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-bug_in_article"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li class="mw-list-item" id="n-introduction"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li class="mw-list-item" id="n-portal"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li class="mw-list-item" id="n-forum"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li class="mw-list-item" id="n-recentchanges"><a accesskey="r" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]"><span>Свежие правки</span></a></li><li class="mw-list-item" id="n-newpages"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li class="mw-list-item" id="n-help"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-tb-label" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" id="p-tb" role="navigation">
+<h3 class="vector-menu-heading" id="p-tb-label">
+<span class="vector-menu-heading-label">Инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="t-whatlinkshere"><a accesskey="j" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81_%D0%9C%D0%BE%D0%BD%D1%82%D0%B8_%D0%A5%D0%BE%D0%BB%D0%BB%D0%B0" title="Список всех страниц, ссылающихся на данную [j]"><span>Ссылки сюда</span></a></li><li class="mw-list-item" id="t-recentchangeslinked"><a accesskey="k" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81_%D0%9C%D0%BE%D0%BD%D1%82%D0%B8_%D0%A5%D0%BE%D0%BB%D0%BB%D0%B0" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]"><span>Связанные правки</span></a></li><li class="mw-list-item" id="t-specialpages"><a accesskey="q" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]"><span>Служебные страницы</span></a></li><li class="mw-list-item" id="t-permalink"><a href="/w/index.php?title=%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81_%D0%9C%D0%BE%D0%BD%D1%82%D0%B8_%D0%A5%D0%BE%D0%BB%D0%BB%D0%B0&amp;oldid=135443220" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li class="mw-list-item" id="t-info"><a href="/w/index.php?title=%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81_%D0%9C%D0%BE%D0%BD%D1%82%D0%B8_%D0%A5%D0%BE%D0%BB%D0%BB%D0%B0&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li class="mw-list-item" id="t-cite"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81_%D0%9C%D0%BE%D0%BD%D1%82%D0%B8_%D0%A5%D0%BE%D0%BB%D0%BB%D0%B0&amp;id=135443220&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li class="mw-list-item" id="t-urlshortener"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%259F%25D0%25B0%25D1%2580%25D0%25B0%25D0%25B4%25D0%25BE%25D0%25BA%25D1%2581_%25D0%259C%25D0%25BE%25D0%25BD%25D1%2582%25D0%25B8_%25D0%25A5%25D0%25BE%25D0%25BB%25D0%25BB%25D0%25B0"><span>Получить короткий URL</span></a></li><li class="mw-list-item" id="t-urlshortener-qrcode"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%259F%25D0%25B0%25D1%2580%25D0%25B0%25D0%25B4%25D0%25BE%25D0%25BA%25D1%2581_%25D0%259C%25D0%25BE%25D0%25BD%25D1%2582%25D0%25B8_%25D0%25A5%25D0%25BE%25D0%25BB%25D0%25BB%25D0%25B0"><span>Скачать QR-код</span></a></li><li class="mw-list-item" id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q198835" title="Ссылка на связанный элемент репозитория данных [g]"><span>Элемент Викиданных</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-coll-print_export-label" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" id="p-coll-print_export" role="navigation">
+<h3 class="vector-menu-heading" id="p-coll-print_export-label">
+<span class="vector-menu-heading-label">Печать/экспорт</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="coll-download-as-rl"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81_%D0%9C%D0%BE%D0%BD%D1%82%D0%B8_%D0%A5%D0%BE%D0%BB%D0%BB%D0%B0&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li class="mw-list-item" id="t-print"><a accesskey="p" href="/w/index.php?title=%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81_%D0%9C%D0%BE%D0%BD%D1%82%D0%B8_%D0%A5%D0%BE%D0%BB%D0%BB%D0%B0&amp;printable=yes" title="Версия этой страницы для печати [p]"><span>Версия для печати</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-wikibase-otherprojects-label" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal vector-menu" id="p-wikibase-otherprojects" role="navigation">
+<h3 class="vector-menu-heading" id="p-wikibase-otherprojects-label">
+<span class="vector-menu-heading-label">В других проектах</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Monty_Hall_problem" hreflang="en"><span>Викисклад</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-lang-label" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" id="p-lang" role="navigation">
+<h3 class="vector-menu-heading" id="p-lang-label">
+<span class="vector-menu-heading-label">На других языках</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="interlanguage-link interwiki-am mw-list-item"><a class="interlanguage-link-target" href="https://am.wikipedia.org/wiki/%E1%8B%A8%E1%88%9E%E1%8A%95%E1%89%B2_%E1%88%96%E1%88%8D_%E1%8B%95%E1%8B%B5%E1%88%8D_%E1%8C%A5%E1%8B%AB%E1%89%84" hreflang="am" lang="am" title="የሞንቲ ሖል ዕድል ጥያቄ — амхарский"><span>አማርኛ</span></a></li><li class="interlanguage-link interwiki-ar mw-list-item"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%85%D8%B3%D8%A3%D9%84%D8%A9_%D9%85%D9%88%D9%86%D8%AA%D9%8A_%D9%87%D9%88%D9%84" hreflang="ar" lang="ar" title="مسألة مونتي هول — арабский"><span>العربية</span></a></li><li class="interlanguage-link interwiki-ast mw-list-item"><a class="interlanguage-link-target" href="https://ast.wikipedia.org/wiki/Problema_de_Monty_Hall" hreflang="ast" lang="ast" title="Problema de Monty Hall — астурийский"><span>Asturianu</span></a></li><li class="interlanguage-link interwiki-az mw-list-item"><a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/Monti_Holl_problemi" hreflang="az" lang="az" title="Monti Holl problemi — азербайджанский"><span>Azərbaycanca</span></a></li><li class="interlanguage-link interwiki-bn mw-list-item"><a class="interlanguage-link-target" href="https://bn.wikipedia.org/wiki/%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BF_%E0%A6%B9%E0%A6%B2_%E0%A6%B8%E0%A6%AE%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A6%BE" hreflang="bn" lang="bn" title="মন্টি হল সমস্যা — бенгальский"><span>বাংলা</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Problema_de_Monty_Hall" hreflang="ca" lang="ca" title="Problema de Monty Hall — каталанский"><span>Català</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Monty_Hall%C5%AFv_probl%C3%A9m" hreflang="cs" lang="cs" title="Monty Hallův problém — чешский"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-cy mw-list-item"><a class="interlanguage-link-target" href="https://cy.wikipedia.org/wiki/P%C3%B4s_Monty_Hall" hreflang="cy" lang="cy" title="Pôs Monty Hall — валлийский"><span>Cymraeg</span></a></li><li class="interlanguage-link interwiki-da badge-Q17559452 badge-recommendedarticle mw-list-item" title="добротная статья"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Monty_Hall-problemet" hreflang="da" lang="da" title="Monty Hall-problemet — датский"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Ziegenproblem" hreflang="de" lang="de" title="Ziegenproblem — немецкий"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-eml mw-list-item"><a class="interlanguage-link-target" href="https://eml.wikipedia.org/wiki/Parad%C3%B2s_ad_Monty_Hall" hreflang="egl" lang="egl" title="Paradòs ad Monty Hall — Emiliano-Romagnolo"><span>Emiliàn e rumagnòl</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a class="interlanguage-link-target" href="https://en.wikipedia.org/wiki/Monty_Hall_problem" hreflang="en" lang="en" title="Monty Hall problem — английский"><span>English</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Problemo_de_Monty_Hall" hreflang="eo" lang="eo" title="Problemo de Monty Hall — эсперанто"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Problema_de_Monty_Hall" hreflang="es" lang="es" title="Problema de Monty Hall — испанский"><span>Español</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Monty_Hallen_paradoxa" hreflang="eu" lang="eu" title="Monty Hallen paradoxa — баскский"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%A6%D9%84%D9%87_%D9%85%D9%88%D9%86%D8%AA%DB%8C_%D9%87%D8%A7%D9%84" hreflang="fa" lang="fa" title="مسئله مونتی هال — персидский"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Monty_Hallin_ongelma" hreflang="fi" lang="fi" title="Monty Hallin ongelma — финский"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Probl%C3%A8me_de_Monty_Hall" hreflang="fr" lang="fr" title="Problème de Monty Hall — французский"><span>Français</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%91%D7%A2%D7%99%D7%99%D7%AA_%D7%9E%D7%95%D7%A0%D7%98%D7%99_%D7%94%D7%95%D7%9C" hreflang="he" lang="he" title="בעיית מונטי הול — иврит"><span>עברית</span></a></li><li class="interlanguage-link interwiki-hi mw-list-item"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%AE%E0%A5%8B%E0%A4%82%E0%A4%9F%E0%A5%80_%E0%A4%B9%E0%A5%89%E0%A4%B2_%E0%A4%AA%E0%A4%B9%E0%A5%87%E0%A4%B2%E0%A5%80" hreflang="hi" lang="hi" title="मोंटी हॉल पहेली — хинди"><span>हिन्दी</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Monty_Hall-paradoxon" hreflang="hu" lang="hu" title="Monty Hall-paradoxon — венгерский"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-hy mw-list-item"><a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D5%84%D5%B8%D5%B6%D5%BF%D5%AB_%D5%80%D5%B8%D5%AC%D5%AB_%D5%BA%D5%A1%D6%80%D5%A1%D5%A4%D5%B8%D6%84%D5%BD" hreflang="hy" lang="hy" title="Մոնտի Հոլի պարադոքս — армянский"><span>Հայերեն</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Masalah_Monty_Hall" hreflang="id" lang="id" title="Masalah Monty Hall — индонезийский"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Problema_di_Monty_Hall" hreflang="it" lang="it" title="Problema di Monty Hall — итальянский"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%B3%E3%83%86%E3%82%A3%E3%83%BB%E3%83%9B%E3%83%BC%E3%83%AB%E5%95%8F%E9%A1%8C" hreflang="ja" lang="ja" title="モンティ・ホール問題 — японский"><span>日本語</span></a></li><li class="interlanguage-link interwiki-ka mw-list-item"><a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%9B%E1%83%9D%E1%83%9C%E1%83%A2%E1%83%98_%E1%83%B0%E1%83%9D%E1%83%9A%E1%83%98%E1%83%A1_%E1%83%9E%E1%83%90%E1%83%A0%E1%83%90%E1%83%93%E1%83%9D%E1%83%A5%E1%83%A1%E1%83%98" hreflang="ka" lang="ka" title="მონტი ჰოლის პარადოქსი — грузинский"><span>ქართული</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EB%AA%AC%ED%8B%B0_%ED%99%80_%EB%AC%B8%EC%A0%9C" hreflang="ko" lang="ko" title="몬티 홀 문제 — корейский"><span>한국어</span></a></li><li class="interlanguage-link interwiki-lt mw-list-item"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Mon%C4%8Dio_Holo_u%C5%BEdavinys" hreflang="lt" lang="lt" title="Mončio Holo uždavinys — литовский"><span>Lietuvių</span></a></li><li class="interlanguage-link interwiki-lv mw-list-item"><a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Montija_Holla_probl%C4%93ma" hreflang="lv" lang="lv" title="Montija Holla problēma — латышский"><span>Latviešu</span></a></li><li class="interlanguage-link interwiki-nds-nl mw-list-item"><a class="interlanguage-link-target" href="https://nds-nl.wikipedia.org/wiki/Sikkenperbleem" hreflang="nds-NL" lang="nds-NL" title="Sikkenperbleem — нижнесаксонский"><span>Nedersaksies</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Driedeurenprobleem" hreflang="nl" lang="nl" title="Driedeurenprobleem — нидерландский"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Monty_Hall-problemet" hreflang="nb" lang="nb" title="Monty Hall-problemet — норвежский букмол"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Paradoks_Monty%E2%80%99ego_Halla" hreflang="pl" lang="pl" title="Paradoks Monty’ego Halla — польский"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Problema_de_Monty_Hall" hreflang="pt" lang="pt" title="Problema de Monty Hall — португальский"><span>Português</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Problema_lui_Monty_Hall" hreflang="ro" lang="ro" title="Problema lui Monty Hall — румынский"><span>Română</span></a></li><li class="interlanguage-link interwiki-si mw-list-item"><a class="interlanguage-link-target" href="https://si.wikipedia.org/wiki/%E0%B6%B8%E0%B7%9C%E0%B6%B1%E0%B7%8A%E0%B6%A7%E0%B7%92_%E0%B7%84%E0%B7%9D%E0%B6%BD%E0%B7%8A_%E0%B6%B4%E0%B7%8A%E2%80%8D%E0%B6%BB%E0%B7%81%E0%B7%8A%E0%B6%B1%E0%B6%BA" hreflang="si" lang="si" title="මොන්ටි හෝල් ප්‍රශ්නය — сингальский"><span>සිංහල</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Monty_Hall_problem" hreflang="en-simple" lang="en-simple" title="Monty Hall problem — Simple English"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BD%D1%82%D0%B8%D1%85%D0%BE%D0%BB%D0%BE%D0%B2_%D0%BF%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81" hreflang="sr" lang="sr" title="Монтихолов парадокс — сербский"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Monty_Hall-problemet" hreflang="sv" lang="sv" title="Monty Hall-problemet — шведский"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-th mw-list-item"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%9B%E0%B8%B1%E0%B8%8D%E0%B8%AB%E0%B8%B2%E0%B8%A1%E0%B8%AD%E0%B8%99%E0%B8%95%E0%B8%B5_%E0%B8%AE%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C" hreflang="th" lang="th" title="ปัญหามอนตี ฮอลล์ — тайский"><span>ไทย</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Monty_Hall_problemi" hreflang="tr" lang="tr" title="Monty Hall problemi — турецкий"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81_%D0%9C%D0%BE%D0%BD%D1%82%D1%96_%D0%93%D0%BE%D0%BB%D0%BB%D0%B0" hreflang="uk" lang="uk" title="Парадокс Монті Голла — украинский"><span>Українська</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E8%92%99%E6%8F%90%E9%9C%8D%E7%88%BE%E5%95%8F%E9%A1%8C" hreflang="zh" lang="zh" title="蒙提霍爾問題 — китайский"><span>中文</span></a></li><li class="interlanguage-link interwiki-zh-yue mw-list-item"><a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E8%92%99%E5%9C%B0%E8%B3%80%E5%95%8F%E9%A1%8C" hreflang="yue" lang="yue" title="蒙地賀問題 — кантонский"><span>粵語</span></a></li>
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q198835#sitelinks-wikipedia" title="Править ссылки на другие языки">Править ссылки</a></span></div>
+</div>
+</nav>
+</div>
+</div>
+<footer class="mw-footer" id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 8 января 2024 в 18:35.</li>
+<li id="footer-info-copyright">Текст доступен по <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru" rel="license">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a><a href="//creativecommons.org/licenses/by-sa/4.0/" rel="license" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br/>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org/ru/">Фонд Викимедиа (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//ru.m.wikipedia.org/w/index.php?title=%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81_%D0%9C%D0%BE%D0%BD%D1%82%D0%B8_%D0%A5%D0%BE%D0%BB%D0%BB%D0%B0&amp;mobileaction=toggle_view_mobile">Мобильная версия</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" loading="lazy" src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88"/></a></li>
+<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" loading="lazy" src="/static/images/footer/poweredby_mediawiki_88x31.png" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88"/></a></li>
+</ul>
+</footer>
+
+
+</body>
+</html>

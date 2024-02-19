@@ -1,0 +1,1000 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="ru">
+<head>
+<meta charset="utf-8"/>
+<title>Порядок байтов — Википедия</title>
+
+
+
+
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+
+
+<meta content="MediaWiki 1.42.0-wmf.18" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="max-image-preview:standard" name="robots"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="width=1000" name="viewport"/>
+<meta content="Порядок байтов — Википедия" property="og:title"/>
+<meta content="website" property="og:type"/>
+
+
+
+
+
+
+
+
+
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Порядок_байтов rootpage-Порядок_байтов skin-vector action-view"><div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators">
+</div>
+<h1 class="firstHeading mw-first-heading" id="firstHeading"><span class="mw-page-title-main">Порядок байтов</span></h1>
+<div class="vector-body" id="bodyContent">
+<div class="noprint" id="siteSub">Материал из Википедии — свободной энциклопедии</div>
+<div id="contentSub"><div id="mw-content-subtitle"><div class="plainlinks flaggedrevs_preview" id="mw-fr-reviewnotice">Текущая версия страницы пока <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9/%D0%9F%D0%BE%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BB%D1%8F_%D1%87%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9" title="Википедия:Проверка статей/Пояснение для читателей">не проверялась</a> опытными участниками и может значительно отличаться от <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA_%D0%B1%D0%B0%D0%B9%D1%82%D0%BE%D0%B2&amp;stable=1">версии</a>, проверенной 22 июня 2023 года; проверки требуют <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA_%D0%B1%D0%B0%D0%B9%D1%82%D0%BE%D0%B2&amp;oldid=129797208&amp;diff=cur&amp;diffonly=0">8 правок</a>.</div><div class="flaggedrevs_short flaggedrevs_draft_notsynced plainlinks noprint" id="mw-fr-revisiontag"><div class="flaggedrevs_short_basic"><span class="flaggedrevs-icon oo-ui-widget oo-ui-widget-enabled oo-ui-iconElement-icon oo-ui-icon-block oo-ui-iconElement oo-ui-labelElement-invisible oo-ui-iconWidget" title="Текущая версия"></span><span class="fr-toggle-arrow oo-ui-widget oo-ui-widget-enabled oo-ui-indicatorElement-indicator oo-ui-indicator-down oo-ui-indicatorElement oo-ui-labelElement-invisible oo-ui-indicatorWidget" id="mw-fr-revisiontoggle" title="показать/скрыть подробности"></span></div>
+<div id="mw-fr-revisiondetails-wrapper" style="position:relative;"><div class="flaggedrevs_short_details" id="mw-fr-revisiondetails" style="display:none">Текущая версия страницы пока <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9/%D0%9F%D0%BE%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BB%D1%8F_%D1%87%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9" title="Википедия:Проверка статей/Пояснение для читателей">не проверялась</a> опытными участниками и может значительно отличаться от <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA_%D0%B1%D0%B0%D0%B9%D1%82%D0%BE%D0%B2&amp;stable=1">версии</a>, проверенной 22 июня 2023 года; проверки требуют <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA_%D0%B1%D0%B0%D0%B9%D1%82%D0%BE%D0%B2&amp;oldid=129797208&amp;diff=cur&amp;diffonly=0">8 правок</a>.</div>
+</div>
+</div>
+</div></div>
+<div id="contentSub2"></div>
+<div id="jump-to-nav"></div>
+<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+<div class="mw-body-content" id="mw-content-text"><div class="mw-content-ltr mw-parser-output" dir="ltr" lang="ru"><div class="hatnote navigation-not-searchable dabhide">Эта статья включает описание термина «BE»; о музыкальном альбоме см. <a href="/wiki/BE" title="BE">BE</a>.</div>
+<div class="hatnote navigation-not-searchable dabhide">Эта статья включает описание термина «LE»; о текстовом редакторе см. <a href="/wiki/LE" title="LE">LE</a>.</div>
+<p>В современной <a href="/wiki/%D0%92%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0" title="Вычислительная техника">вычислительной технике</a> и цифровых системах связи информация обычно представлена в виде <a href="/wiki/%D0%9A%D0%BE%D0%B4" title="Код">последовательности байтов</a>. В том случае, если число не может быть представлено одним байтом, имеет значение, в каком порядке байты записываются в памяти компьютера или передаются по линиям связи. Часто выбор порядка записи байтов произволен и определяется только соглашениями.
+</p><p>В общем случае, для представления числа <i>M</i>, большего 255 (здесь <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 255=2^{8}-1}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mn>255</mn>
+<mo>=</mo>
+<msup>
+<mn>2</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>8</mn>
+</mrow>
+</msup>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle 255=2^{8}-1}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle 255=2^{8}-1}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b0b38c6b9136e5bd70a7e6b6341836ed8c6bd63a" style="vertical-align: -0.505ex; width:12.805ex; height:2.843ex;"/></span> — максимальное целое число, записываемое одним <a href="/wiki/%D0%91%D0%B0%D0%B9%D1%82" title="Байт">байтом</a>), приходится использовать несколько байтов (n). При этом число <i>M</i> записывается в <a href="/wiki/%D0%9F%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D1%81%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F" title="Позиционная система счисления">позиционной системе счисления</a> по основанию 256:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle M=\sum _{i=0}^{n-1}A_{i}\cdot 256^{i}=A_{0}\cdot 256^{0}+A_{1}\cdot 256^{1}+A_{2}\cdot 256^{2}+\dots +A_{n-1}\cdot 256^{n-1}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>M</mi>
+<mo>=</mo>
+<munderover>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+<mo>=</mo>
+<mn>0</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>n</mi>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+</munderover>
+<msub>
+<mi>A</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo>⋅<!-- ⋅ --></mo>
+<msup>
+<mn>256</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msup>
+<mo>=</mo>
+<msub>
+<mi>A</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<mo>⋅<!-- ⋅ --></mo>
+<msup>
+<mn>256</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msup>
+<mo>+</mo>
+<msub>
+<mi>A</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>⋅<!-- ⋅ --></mo>
+<msup>
+<mn>256</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msup>
+<mo>+</mo>
+<msub>
+<mi>A</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mo>⋅<!-- ⋅ --></mo>
+<msup>
+<mn>256</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>+</mo>
+<mo>⋯<!-- ⋯ --></mo>
+<mo>+</mo>
+<msub>
+<mi>A</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>n</mi>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>⋅<!-- ⋅ --></mo>
+<msup>
+<mn>256</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>n</mi>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+</msup>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle M=\sum _{i=0}^{n-1}A_{i}\cdot 256^{i}=A_{0}\cdot 256^{0}+A_{1}\cdot 256^{1}+A_{2}\cdot 256^{2}+\dots +A_{n-1}\cdot 256^{n-1}.}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle M=\sum _{i=0}^{n-1}A_{i}\cdot 256^{i}=A_{0}\cdot 256^{0}+A_{1}\cdot 256^{1}+A_{2}\cdot 256^{2}+\dots +A_{n-1}\cdot 256^{n-1}.}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8b32f892917e6e818d30c83c6237d7258b46d092" style="vertical-align: -3.005ex; width:76.224ex; height:7.343ex;"/></span></dd></dl>
+<p>Набор целых чисел <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle A_{0},\dots ,A_{n-1}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>A</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<mo>,</mo>
+<mo>…<!-- … --></mo>
+<mo>,</mo>
+<msub>
+<mi>A</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>n</mi>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle A_{0},\dots ,A_{n-1}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle A_{0},\dots ,A_{n-1}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c14d147eeb123c10682a36a9b33c886f079fd0a0" style="vertical-align: -0.671ex; width:13.038ex; height:2.509ex;"/></span>, каждое из которых лежит в интервале от 0 до 255, является последовательностью байтов, составляющих <i>M</i>. При этом <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle A_{0}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>A</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle A_{0}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle A_{0}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7c98dbd929292d464de6942e95db306b8b8a6fca" style="vertical-align: -0.671ex; width:2.797ex; height:2.509ex;"/></span> называется <i>младшим байтом</i>, а <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle A_{n-1}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>A</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>n</mi>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle A_{n-1}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle A_{n-1}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b576e75f0336d126580faaad6039e2e84f6f3ee2" style="vertical-align: -0.671ex; width:5.062ex; height:2.509ex;"/></span> — <i>старшим байтом</i> числа <i>M</i>.
+</p><p>Поскольку компьютер не адресует отдельных битов (их можно получать только через <a class="mw-disambig" href="/wiki/%D0%91%D0%B8%D1%82%D0%BE%D0%B2%D0%BE%D0%B5_%D0%BF%D0%BE%D0%BB%D0%B5" title="Битовое поле">битовые поля</a>), порядок битов в байте важен только при физической организации хранения и передачи данных, может различаться от устройства к устройству и прикладному программисту обычно не нужен.
+</p>
+<div aria-labelledby="mw-toc-heading" class="toc" id="toc" role="navigation"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="ru"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Варианты_записи"><span class="tocnumber">1</span> <span class="toctext">Варианты записи</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Порядок_от_старшего_к_младшему"><span class="tocnumber">1.1</span> <span class="toctext">Порядок от старшего к младшему</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Порядок_от_младшего_к_старшему"><span class="tocnumber">1.2</span> <span class="toctext">Порядок от младшего к старшему</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Переключаемый_порядок"><span class="tocnumber">1.3</span> <span class="toctext">Переключаемый порядок</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Смешанный_порядок"><span class="tocnumber">1.4</span> <span class="toctext">Смешанный порядок</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Пример"><span class="tocnumber">1.5</span> <span class="toctext">Пример</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Определение_порядка_байтов"><span class="tocnumber">2</span> <span class="toctext">Определение порядка байтов</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Вещественные_числа"><span class="tocnumber">3</span> <span class="toctext">Вещественные числа</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Юникод"><span class="tocnumber">4</span> <span class="toctext">Юникод</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Проблемы_совместимости_и_конверсии"><span class="tocnumber">5</span> <span class="toctext">Проблемы совместимости и конверсии</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Этимология_названия"><span class="tocnumber">6</span> <span class="toctext">Этимология названия</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#См._также"><span class="tocnumber">7</span> <span class="toctext">См. также</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Примечания"><span class="tocnumber">8</span> <span class="toctext">Примечания</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Ссылки"><span class="tocnumber">9</span> <span class="toctext">Ссылки</span></a></li>
+</ul>
+</div>
+<h2><span id=".D0.92.D0.B0.D1.80.D0.B8.D0.B0.D0.BD.D1.82.D1.8B_.D0.B7.D0.B0.D0.BF.D0.B8.D1.81.D0.B8"></span><span class="mw-headline" id="Варианты_записи">Варианты записи</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA_%D0%B1%D0%B0%D0%B9%D1%82%D0%BE%D0%B2&amp;veaction=edit&amp;section=1" title="Редактировать раздел «Варианты записи»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA_%D0%B1%D0%B0%D0%B9%D1%82%D0%BE%D0%B2&amp;action=edit&amp;section=1" title="Редактировать код раздела «Варианты записи»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id=".D0.9F.D0.BE.D1.80.D1.8F.D0.B4.D0.BE.D0.BA_.D0.BE.D1.82_.D1.81.D1.82.D0.B0.D1.80.D1.88.D0.B5.D0.B3.D0.BE_.D0.BA_.D0.BC.D0.BB.D0.B0.D0.B4.D1.88.D0.B5.D0.BC.D1.83"></span><span class="mw-headline" id="Порядок_от_старшего_к_младшему">Порядок от старшего к младшему</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA_%D0%B1%D0%B0%D0%B9%D1%82%D0%BE%D0%B2&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Порядок от старшего к младшему»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA_%D0%B1%D0%B0%D0%B9%D1%82%D0%BE%D0%B2&amp;action=edit&amp;section=2" title="Редактировать код раздела «Порядок от старшего к младшему»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Порядок <i> от старшего к младшему </i> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">big-endian</span> — с большого конца): <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle A_{n-1},\dots ,A_{0}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>A</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>n</mi>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>,</mo>
+<mo>…<!-- … --></mo>
+<mo>,</mo>
+<msub>
+<mi>A</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle A_{n-1},\dots ,A_{0}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle A_{n-1},\dots ,A_{0}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d80d5a6549975ed93108415725b17100c7d15f94" style="vertical-align: -0.671ex; width:13.038ex; height:2.509ex;"/></span>. Этот порядок подобен привычному порядку записи (например <a href="/wiki/%D0%90%D1%80%D0%B0%D0%B1%D1%81%D0%BA%D0%B8%D0%B5_%D1%86%D0%B8%D1%84%D1%80%D1%8B" title="Арабские цифры">арабскими цифрами</a>) слева направо , например, число <i>сто двадцать три</i> было бы записано при таком порядке как <i>123</i>. В этом же порядке принято записывать байты в технической и учебной литературе, если другой порядок явно не обозначен.
+</p><p>Этот порядок является стандартным для протоколов <a href="/wiki/TCP/IP" title="TCP/IP">TCP/IP</a>, он используется в заголовках <a class="mw-redirect" href="/wiki/%D0%9F%D0%B0%D0%BA%D0%B5%D1%82_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85" title="Пакет данных">пакетов данных</a> и во многих протоколах более высокого уровня, разработанных для использования поверх TCP/IP. Поэтому порядок байтов от старшего к младшему часто называют «сетевым порядком байтов» (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">network byte order</span>). Этот порядок байтов используется процессорами <a class="mw-redirect" href="/wiki/IBM_360" title="IBM 360">IBM 360</a>/370/390, <a href="/wiki/SPARC" title="SPARC">SPARC</a>, <a class="mw-redirect" href="/wiki/M68k" title="M68k">Motorola 68000</a> (отсюда третье название — <i>порядок байтов Motorola</i>, <a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">Motorola byte order</span>).
+</p><p>При таком порядке байтов удобно проводить сравнение строк (можно сравнивать их целочисленными полями-частями большей разрядности, каждое из которых содержит несколько символов сразу).
+</p><p>Порядок байтов от старшего к младшему применяется также во многих <a href="/wiki/%D0%A4%D0%BE%D1%80%D0%BC%D0%B0%D1%82_%D1%84%D0%B0%D0%B9%D0%BB%D0%B0" title="Формат файла">форматах файлов</a> — например, <a href="/wiki/PNG" title="PNG">PNG</a>, <a class="mw-redirect" href="/wiki/FLV" title="FLV">FLV</a>, <a href="/wiki/EBML" title="EBML">EBML</a>, <a href="/wiki/JPEG" title="JPEG">JPEG</a>.
+</p>
+<h3><span id=".D0.9F.D0.BE.D1.80.D1.8F.D0.B4.D0.BE.D0.BA_.D0.BE.D1.82_.D0.BC.D0.BB.D0.B0.D0.B4.D1.88.D0.B5.D0.B3.D0.BE_.D0.BA_.D1.81.D1.82.D0.B0.D1.80.D1.88.D0.B5.D0.BC.D1.83"></span><span class="mw-headline" id="Порядок_от_младшего_к_старшему">Порядок от младшего к старшему</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA_%D0%B1%D0%B0%D0%B9%D1%82%D0%BE%D0%B2&amp;veaction=edit&amp;section=3" title="Редактировать раздел «Порядок от младшего к старшему»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA_%D0%B1%D0%B0%D0%B9%D1%82%D0%BE%D0%B2&amp;action=edit&amp;section=3" title="Редактировать код раздела «Порядок от младшего к старшему»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Порядок <i>от младшего к старшему</i> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">little-endian</span> — с малого конца): <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle A_{0},\dots ,A_{n-1}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>A</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<mo>,</mo>
+<mo>…<!-- … --></mo>
+<mo>,</mo>
+<msub>
+<mi>A</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>n</mi>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle A_{0},\dots ,A_{n-1}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle A_{0},\dots ,A_{n-1}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c14d147eeb123c10682a36a9b33c886f079fd0a0" style="vertical-align: -0.671ex; width:13.038ex; height:2.509ex;"/></span>
+</p><p>Это обратный привычному порядку записи чисел <a href="/wiki/%D0%90%D1%80%D0%B0%D0%B1%D1%81%D0%BA%D0%B8%D0%B5_%D1%86%D0%B8%D1%84%D1%80%D1%8B" title="Арабские цифры">арабскими цифрами</a>, например, число <i>сто двадцать три</i> было бы записано при таком порядке как <i>321</i>. Иными словами этот порядок подобен правилу записи справа налево.
+</p><p>Этот порядок записи принят в памяти персональных компьютеров с процессорами <a class="mw-redirect" href="/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%8F_%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0" title="Компьютерная архитектура">архитектуры</a> <a href="/wiki/X86" title="X86">x86</a>, в связи с чем иногда его называют <i><a class="mw-redirect" href="/wiki/%D0%98%D0%BD%D1%82%D0%B5%D0%BB" title="Интел">интеловским</a> порядком байтов</i> (по названию компании-создателя архитектуры x86). Современные процессоры x86 позволяют работать с одно-, двух-, четырёх- и восьмибайтовыми операндами. В таком порядке следования байтов очень удобно то, что при увеличении размера (количества байтов) операнда, значение его первого байта неизменно: 3210 → 3210’0000. При порядке от старшего к младшему значение изменилось бы, например: 0123 → 0000’0123;
+</p><p>Кроме x86, такой порядок байтов применяется в архитектурах <a href="/wiki/VAX" title="VAX">VAX</a> (отсюда ещё одно название <a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">VAX byte order</span><sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup>), <a href="/wiki/DEC_Alpha" title="DEC Alpha">DEC Alpha</a> и многих других.
+</p><p>Также порядок «от младшего к старшему» применяется в <a href="/wiki/USB" title="USB">USB</a>, <a href="/wiki/PCI" title="PCI">PCI</a>, <a href="/wiki/%D0%A2%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0_%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%BE%D0%B2_GUID" title="Таблица разделов GUID">таблице разделов GUID</a>, он рекомендован <a class="mw-redirect" href="/wiki/FidoNet" title="FidoNet">FidoNet</a>. Но в целом соглашение <i>little-endian</i> поддерживают меньше кросс-платформенных протоколов и форматов данных, чем <i>big-endian</i>.
+</p>
+<h3><span id=".D0.9F.D0.B5.D1.80.D0.B5.D0.BA.D0.BB.D1.8E.D1.87.D0.B0.D0.B5.D0.BC.D1.8B.D0.B9_.D0.BF.D0.BE.D1.80.D1.8F.D0.B4.D0.BE.D0.BA"></span><span class="mw-headline" id="Переключаемый_порядок">Переключаемый порядок</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA_%D0%B1%D0%B0%D0%B9%D1%82%D0%BE%D0%B2&amp;veaction=edit&amp;section=4" title="Редактировать раздел «Переключаемый порядок»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA_%D0%B1%D0%B0%D0%B9%D1%82%D0%BE%D0%B2&amp;action=edit&amp;section=4" title="Редактировать код раздела «Переключаемый порядок»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Многие процессоры могут работать и в порядке «от младшего к старшему», и в обратном, например, <a href="/wiki/ARM_(%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0)" title="ARM (архитектура)">ARM</a> (по умолчанию — little-endian), <a href="/wiki/PowerPC" title="PowerPC">PowerPC</a> (кроме <a href="/wiki/PowerPC_970" title="PowerPC 970">PowerPC 970</a>), <a href="/wiki/DEC_Alpha" title="DEC Alpha">DEC Alpha</a>, <a href="/wiki/MIPS_(%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0)" title="MIPS (архитектура)">MIPS</a>, <a href="/wiki/PA-RISC" title="PA-RISC">PA-RISC</a> и <a class="mw-redirect" href="/wiki/IA-64" title="IA-64">IA-64</a>. Обычно порядок байтов выбирается программно во время инициализации <a href="/wiki/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0" title="Операционная система">операционной системы</a>, но может быть выбран и аппаратно перемычками на материнской плате. В этом случае правильнее говорить о порядке байтов на уровне операционной системы. Переключаемый порядок байтов иногда называют <a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">bi-endian</span>.
+</p>
+<h3><span id=".D0.A1.D0.BC.D0.B5.D1.88.D0.B0.D0.BD.D0.BD.D1.8B.D0.B9_.D0.BF.D0.BE.D1.80.D1.8F.D0.B4.D0.BE.D0.BA"></span><span class="mw-headline" id="Смешанный_порядок">Смешанный порядок</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA_%D0%B1%D0%B0%D0%B9%D1%82%D0%BE%D0%B2&amp;veaction=edit&amp;section=5" title="Редактировать раздел «Смешанный порядок»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA_%D0%B1%D0%B0%D0%B9%D1%82%D0%BE%D0%B2&amp;action=edit&amp;section=5" title="Редактировать код раздела «Смешанный порядок»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Смешанный (комбинированный, гибридный) порядок байтов (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">middle-endian)</span> иногда используется при работе с числами, <a href="/wiki/%D0%94%D0%BB%D0%B8%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B0%D1%80%D0%B8%D1%84%D0%BC%D0%B5%D1%82%D0%B8%D0%BA%D0%B0" title="Длинная арифметика">длина которых превышает машинное слово</a>. Число представляется последовательностью <a href="/wiki/%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B5_%D1%81%D0%BB%D0%BE%D0%B2%D0%BE" title="Машинное слово">машинных слов</a>, которые записываются в формате, естественном для данной архитектуры, но сами машинные слова следуют в обратном порядке.
+</p><p>В процессорах <a href="/wiki/VAX" title="VAX">VAX</a> и <a href="/wiki/ARM_(%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0)" title="ARM (архитектура)">ARM</a> используется смешанное представление для длинных вещественных чисел.
+</p>
+<h3><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.80"></span><span class="mw-headline" id="Пример">Пример</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA_%D0%B1%D0%B0%D0%B9%D1%82%D0%BE%D0%B2&amp;veaction=edit&amp;section=6" title="Редактировать раздел «Пример»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA_%D0%B1%D0%B0%D0%B9%D1%82%D0%BE%D0%B2&amp;action=edit&amp;section=6" title="Редактировать код раздела «Пример»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Далее приведён пример, в котором описывается размещение 4-байтового числа в ОЗУ ЭВМ, доступ к которому может производиться и как к 32-разрядному слову, и побайтно.
+</p><p>Все числа записаны в 16-ричной системе счисления.
+</p>
+<table class="standard">
+<caption>Число: 0xA1B2C3D4
+</caption>
+<tbody><tr>
+<td colspan="2">Представление</td>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle A1*1000000_{16}+B2*10000_{16}+C3*100_{16}+D4*1_{16}=A1B2C3D4}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>A</mi>
+<mn>1</mn>
+<mo>∗<!-- ∗ --></mo>
+<msub>
+<mn>1000000</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>16</mn>
+</mrow>
+</msub>
+<mo>+</mo>
+<mi>B</mi>
+<mn>2</mn>
+<mo>∗<!-- ∗ --></mo>
+<msub>
+<mn>10000</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>16</mn>
+</mrow>
+</msub>
+<mo>+</mo>
+<mi>C</mi>
+<mn>3</mn>
+<mo>∗<!-- ∗ --></mo>
+<msub>
+<mn>100</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>16</mn>
+</mrow>
+</msub>
+<mo>+</mo>
+<mi>D</mi>
+<mn>4</mn>
+<mo>∗<!-- ∗ --></mo>
+<msub>
+<mn>1</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>16</mn>
+</mrow>
+</msub>
+<mo>=</mo>
+<mi>A</mi>
+<mn>1</mn>
+<mi>B</mi>
+<mn>2</mn>
+<mi>C</mi>
+<mn>3</mn>
+<mi>D</mi>
+<mn>4</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle A1*1000000_{16}+B2*10000_{16}+C3*100_{16}+D4*1_{16}=A1B2C3D4}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle A1*1000000_{16}+B2*10000_{16}+C3*100_{16}+D4*1_{16}=A1B2C3D4}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0e9d640708a5e5cf4722477d4b865a6079b3350f" style="vertical-align: -0.671ex; width:70.198ex; height:2.509ex;"/></span>
+</td>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 161*16_{10}^{6}+178*16_{10}^{4}+195*16_{10}^{2}+212_{10}=2712847316_{10}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mn>161</mn>
+<mo>∗<!-- ∗ --></mo>
+<msubsup>
+<mn>16</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>10</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>6</mn>
+</mrow>
+</msubsup>
+<mo>+</mo>
+<mn>178</mn>
+<mo>∗<!-- ∗ --></mo>
+<msubsup>
+<mn>16</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>10</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>4</mn>
+</mrow>
+</msubsup>
+<mo>+</mo>
+<mn>195</mn>
+<mo>∗<!-- ∗ --></mo>
+<msubsup>
+<mn>16</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>10</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msubsup>
+<mo>+</mo>
+<msub>
+<mn>212</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>10</mn>
+</mrow>
+</msub>
+<mo>=</mo>
+<msub>
+<mn>2712847316</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>10</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle 161*16_{10}^{6}+178*16_{10}^{4}+195*16_{10}^{2}+212_{10}=2712847316_{10}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle 161*16_{10}^{6}+178*16_{10}^{4}+195*16_{10}^{2}+212_{10}=2712847316_{10}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ff54876adb2ae7e31d9549416cc46514f7be661f" style="vertical-align: -1.005ex; width:60.134ex; height:3.343ex;"/></span>
+</td></tr>
+<tr>
+<td>Порядок от младшего к старшему</td>
+<td>(little-endian)</td>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle D4_{16},C3_{16},B2_{16},A1_{16}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>D</mi>
+<msub>
+<mn>4</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>16</mn>
+</mrow>
+</msub>
+<mo>,</mo>
+<mi>C</mi>
+<msub>
+<mn>3</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>16</mn>
+</mrow>
+</msub>
+<mo>,</mo>
+<mi>B</mi>
+<msub>
+<mn>2</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>16</mn>
+</mrow>
+</msub>
+<mo>,</mo>
+<mi>A</mi>
+<msub>
+<mn>1</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>16</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle D4_{16},C3_{16},B2_{16},A1_{16}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle D4_{16},C3_{16},B2_{16},A1_{16}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/41fd18cab8aba6c00fc9191bd96c9cb2a45b0ba6" style="vertical-align: -0.671ex; width:22.454ex; height:2.509ex;"/></span>
+</td>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 212_{10},195_{10},178_{10},161_{10}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mn>212</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>10</mn>
+</mrow>
+</msub>
+<mo>,</mo>
+<msub>
+<mn>195</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>10</mn>
+</mrow>
+</msub>
+<mo>,</mo>
+<msub>
+<mn>178</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>10</mn>
+</mrow>
+</msub>
+<mo>,</mo>
+<msub>
+<mn>161</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>10</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle 212_{10},195_{10},178_{10},161_{10}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle 212_{10},195_{10},178_{10},161_{10}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/23ab22a848c665a94675fcbc3fecdf43f01b3a06" style="vertical-align: -0.671ex; width:24.556ex; height:2.509ex;"/></span>
+</td></tr>
+<tr>
+<td>Порядок от старшего к младшему</td>
+<td>(big-endian)</td>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle A1_{16},B2_{16},C3_{16},D4_{16}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>A</mi>
+<msub>
+<mn>1</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>16</mn>
+</mrow>
+</msub>
+<mo>,</mo>
+<mi>B</mi>
+<msub>
+<mn>2</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>16</mn>
+</mrow>
+</msub>
+<mo>,</mo>
+<mi>C</mi>
+<msub>
+<mn>3</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>16</mn>
+</mrow>
+</msub>
+<mo>,</mo>
+<mi>D</mi>
+<msub>
+<mn>4</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>16</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle A1_{16},B2_{16},C3_{16},D4_{16}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle A1_{16},B2_{16},C3_{16},D4_{16}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a6da87b3e2838b9d50c27ea7e3c2efbbc1e9e6e8" style="vertical-align: -0.671ex; width:22.454ex; height:2.509ex;"/></span>
+</td>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 161_{10},178_{10},195_{10},212_{10}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mn>161</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>10</mn>
+</mrow>
+</msub>
+<mo>,</mo>
+<msub>
+<mn>178</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>10</mn>
+</mrow>
+</msub>
+<mo>,</mo>
+<msub>
+<mn>195</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>10</mn>
+</mrow>
+</msub>
+<mo>,</mo>
+<msub>
+<mn>212</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>10</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle 161_{10},178_{10},195_{10},212_{10}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle 161_{10},178_{10},195_{10},212_{10}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/68b277f3ce1121774d8be541871aacb73dc81f77" style="vertical-align: -0.671ex; width:24.556ex; height:2.509ex;"/></span>
+</td></tr>
+<tr>
+<td>Порядок, принятый в PDP-11</td>
+<td>(PDP-endian)</td>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle B2_{16},A1_{16},D4_{16},C3_{16}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>B</mi>
+<msub>
+<mn>2</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>16</mn>
+</mrow>
+</msub>
+<mo>,</mo>
+<mi>A</mi>
+<msub>
+<mn>1</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>16</mn>
+</mrow>
+</msub>
+<mo>,</mo>
+<mi>D</mi>
+<msub>
+<mn>4</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>16</mn>
+</mrow>
+</msub>
+<mo>,</mo>
+<mi>C</mi>
+<msub>
+<mn>3</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>16</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle B2_{16},A1_{16},D4_{16},C3_{16}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle B2_{16},A1_{16},D4_{16},C3_{16}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d317de9054f87caf3a91bb7d02a45b0c5841615b" style="vertical-align: -0.671ex; width:22.454ex; height:2.509ex;"/></span>
+</td>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 178_{10},161_{10},212_{10},195_{10}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mn>178</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>10</mn>
+</mrow>
+</msub>
+<mo>,</mo>
+<msub>
+<mn>161</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>10</mn>
+</mrow>
+</msub>
+<mo>,</mo>
+<msub>
+<mn>212</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>10</mn>
+</mrow>
+</msub>
+<mo>,</mo>
+<msub>
+<mn>195</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>10</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle 178_{10},161_{10},212_{10},195_{10}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle 178_{10},161_{10},212_{10},195_{10}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2226909f51783575d1f728f2ebd71b4a38ac3bfe" style="vertical-align: -0.671ex; width:24.556ex; height:2.509ex;"/></span>
+</td></tr></tbody></table>
+<h2><span id=".D0.9E.D0.BF.D1.80.D0.B5.D0.B4.D0.B5.D0.BB.D0.B5.D0.BD.D0.B8.D0.B5_.D0.BF.D0.BE.D1.80.D1.8F.D0.B4.D0.BA.D0.B0_.D0.B1.D0.B0.D0.B9.D1.82.D0.BE.D0.B2"></span><span class="mw-headline" id="Определение_порядка_байтов">Определение порядка байтов</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA_%D0%B1%D0%B0%D0%B9%D1%82%D0%BE%D0%B2&amp;veaction=edit&amp;section=7" title="Редактировать раздел «Определение порядка байтов»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA_%D0%B1%D0%B0%D0%B9%D1%82%D0%BE%D0%B2&amp;action=edit&amp;section=7" title="Редактировать код раздела «Определение порядка байтов»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Порядок байтов (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">endianness</span>) в конкретной машине можно определить с помощью программы на языке <a href="/wiki/%D0%A1%D0%B8_(%D1%8F%D0%B7%D1%8B%D0%BA_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)" title="Си (язык программирования)">Си</a> (testbyteorder.c):
+</p>
+<div class="mw-highlight mw-highlight-lang-c mw-content-ltr" dir="ltr"><pre><span></span><span class="cp">#include</span><span class="w"> </span><span class="cpf">&lt;stdio.h&gt;</span>
+<span class="cp">#include</span><span class="w"> </span><span class="cpf">&lt;stdint.h&gt;</span>
+
+<span class="kt">int</span><span class="w"> </span><span class="nf">main</span><span class="w"> </span><span class="p">()</span>
+<span class="p">{</span>
+<span class="w">  </span><span class="kt">uint16_t</span><span class="w"> </span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mh">0x0001</span><span class="p">;</span>
+<span class="w">  </span><span class="n">printf</span><span class="p">(</span><span class="s">"%s-endian</span><span class="se">\n</span><span class="s">"</span><span class="p">,</span><span class="w"> </span><span class="o">*</span><span class="p">((</span><span class="kt">uint8_t</span><span class="w"> </span><span class="o">*</span><span class="p">)</span><span class="w"> </span><span class="o">&amp;</span><span class="n">x</span><span class="p">)</span><span class="w"> </span><span class="o">?</span><span class="w"> </span><span class="s">"little"</span><span class="w"> </span><span class="o">:</span><span class="w"> </span><span class="s">"big"</span><span class="p">);</span>
+<span class="p">}</span>
+</pre></div><p>Результаты запуска на big-endian машине (<a href="/wiki/SPARC" title="SPARC">SPARC</a>):
+</p><div class="mw-highlight mw-highlight-lang-text mw-content-ltr" dir="ltr"><pre><span></span> $ uname -m
+ sparc64
+ $ gcc -o testbyteorder testbyteorder.c 
+ $ ./testbyteorder
+ big-endian
+</pre></div>
+<p>Результаты запуска на little-endian машине (<a href="/wiki/X86" title="X86">x86</a>):
+</p>
+<div class="mw-highlight mw-highlight-lang-text mw-content-ltr" dir="ltr"><pre><span></span> $ uname -m
+ i386
+ $ gcc -o testbyteorder testbyteorder.c 
+ $ ./testbyteorder
+ little-endian
+</pre></div>
+<p>На языке C#:
+</p>
+<div class="mw-highlight mw-highlight-lang-csharp mw-content-ltr" dir="ltr"><pre><span></span><span class="w"> </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">BitConverter</span><span class="p">.</span><span class="n">IsLittleEndian</span><span class="p">)</span>
+<span class="w">   </span><span class="n">Console</span><span class="p">.</span><span class="n">WriteLine</span><span class="p">(</span><span class="s">"LittleEndian"</span><span class="p">);</span>
+<span class="k">else</span>
+<span class="w">   </span><span class="n">Console</span><span class="p">.</span><span class="n">WriteLine</span><span class="p">(</span><span class="s">"BigEndian"</span><span class="p">);</span>
+</pre></div>
+<p>А на языке <a class="mw-redirect" href="/wiki/Python_(%D1%8F%D0%B7%D1%8B%D0%BA_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)" title="Python (язык программирования)">Python</a> это сделать ещё проще:
+</p>
+<div class="mw-highlight mw-highlight-lang-python mw-content-ltr" dir="ltr"><pre><span></span><span class="kn">import</span> <span class="nn">sys</span>
+
+<span class="k">if</span> <span class="n">sys</span><span class="o">.</span><span class="n">byteorder</span> <span class="o">==</span> <span class="s2">"little"</span><span class="p">:</span>
+    <span class="nb">print</span><span class="p">(</span><span class="s2">"Ваш компьютер использует порядок байтов Little Endian"</span><span class="p">)</span>
+<span class="k">else</span><span class="p">:</span>
+    <span class="nb">print</span><span class="p">(</span><span class="s2">"Ваш компьютер использует порядок байтов Big Endian"</span><span class="p">)</span>
+</pre></div>
+<h2><span id=".D0.92.D0.B5.D1.89.D0.B5.D1.81.D1.82.D0.B2.D0.B5.D0.BD.D0.BD.D1.8B.D0.B5_.D1.87.D0.B8.D1.81.D0.BB.D0.B0"></span><span class="mw-headline" id="Вещественные_числа">Вещественные числа</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA_%D0%B1%D0%B0%D0%B9%D1%82%D0%BE%D0%B2&amp;veaction=edit&amp;section=8" title="Редактировать раздел «Вещественные числа»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA_%D0%B1%D0%B0%D0%B9%D1%82%D0%BE%D0%B2&amp;action=edit&amp;section=8" title="Редактировать код раздела «Вещественные числа»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Хранение <a href="/wiki/%D0%92%D0%B5%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D1%87%D0%B8%D1%81%D0%BB%D0%BE" title="Вещественное число">вещественных чисел</a> также может зависеть от порядка байтов. Так, на <a href="/wiki/X86" title="X86">x86</a> используются форматы <a href="/wiki/IEEE_754-2008" title="IEEE 754-2008">IEEE 754</a> со знаком и порядком числа в старших байтах.
+</p>
+<h2><span id=".D0.AE.D0.BD.D0.B8.D0.BA.D0.BE.D0.B4"></span><span class="mw-headline" id="Юникод">Юникод</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA_%D0%B1%D0%B0%D0%B9%D1%82%D0%BE%D0%B2&amp;veaction=edit&amp;section=9" title="Редактировать раздел «Юникод»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA_%D0%B1%D0%B0%D0%B9%D1%82%D0%BE%D0%B2&amp;action=edit&amp;section=9" title="Редактировать код раздела «Юникод»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Если <a href="/wiki/%D0%AE%D0%BD%D0%B8%D0%BA%D0%BE%D0%B4" title="Юникод">Юникод</a> записан в формате <a href="/wiki/UTF-16" title="UTF-16">UTF-16</a> или <a href="/wiki/UTF-32" title="UTF-32">UTF-32</a>, то порядок байтов уже существенен. Одним из способов обозначения порядка байтов в юникодовых текстах является постановка в начале специального символа BOM (<i>byte order mark</i>, <a href="/wiki/%D0%9C%D0%B0%D1%80%D0%BA%D0%B5%D1%80_%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%B1%D0%B0%D0%B9%D1%82%D0%BE%D0%B2" title="Маркер последовательности байтов">маркер последовательности байтов</a>, U+FEFF) — «перевёрнутый» вариант этого символа (U+FFFE) не существует и не допускается в текстах.
+</p><p>Символ U+FEFF изображается в UTF-16 последовательностью байтов 0xFE 0xFF (big-endian) или 0xFF 0xFE (little-endian), а в UTF-32 — последовательностью 0x00 0x00 0xFE 0xFF (big-endian) или 0xFF 0xFE 0x00 0x00 (little-endian).
+</p>
+<h2><span id=".D0.9F.D1.80.D0.BE.D0.B1.D0.BB.D0.B5.D0.BC.D1.8B_.D1.81.D0.BE.D0.B2.D0.BC.D0.B5.D1.81.D1.82.D0.B8.D0.BC.D0.BE.D1.81.D1.82.D0.B8_.D0.B8_.D0.BA.D0.BE.D0.BD.D0.B2.D0.B5.D1.80.D1.81.D0.B8.D0.B8"></span><span class="mw-headline" id="Проблемы_совместимости_и_конверсии">Проблемы совместимости и конверсии</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA_%D0%B1%D0%B0%D0%B9%D1%82%D0%BE%D0%B2&amp;veaction=edit&amp;section=10" title="Редактировать раздел «Проблемы совместимости и конверсии»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA_%D0%B1%D0%B0%D0%B9%D1%82%D0%BE%D0%B2&amp;action=edit&amp;section=10" title="Редактировать код раздела «Проблемы совместимости и конверсии»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Запись многобайтового числа из памяти компьютера в файл или передача по сети требует соблюдения соглашений о том, какой из байтов передается первым. Прямая запись в том порядке, в котором байты расположены в ячейках памяти, приводит как к проблемам при переносе приложения с платформы на платформу, так и в межсистемном сетевом обмене данными.
+</p><p>Для преобразования между сетевым порядком байтов (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">network byte order</span>), который всегда big-endian, и порядком байтов, использующимся на машине (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">host byte order</span>), стандарт <a href="/wiki/POSIX" title="POSIX">POSIX</a> предусматривает функции <code>htonl()</code>, <code>htons()</code>, <code>ntohl()</code>, <code>ntohs()</code>:
+</p>
+<ul><li><code>uint32_t htonl(uint32_t hostlong);</code> — конвертирует 32-битную беззнаковую величину из локального порядка байтов в сетевой;</li>
+<li><code>uint16_t htons(uint16_t hostshort);</code> — конвертирует 16-битную беззнаковую величину из локального порядка байтов в сетевой;</li>
+<li><code>uint32_t ntohl(uint32_t netlong);</code> — конвертирует 32-битную беззнаковую величину из сетевого порядка байтов в локальный;</li>
+<li><code>uint16_t ntohs(uint16_t netshort);</code> — конвертирует 16-битную беззнаковую величину из сетевого порядка байтов в локальный.</li></ul>
+<p>В случае совпадения текущего порядка байтов и сетевого функции отработают как «пустые» — то есть порядок байтов не поменяется. Стандарт также допускает, чтобы эти функции были реализованы в виде макросов.
+</p><p>Существует много языков и библиотек со средствами конвертации в оба основных порядка байтов и обратно.
+</p><p>Ядро <a href="/wiki/Linux" title="Linux">Linux</a>: <code>le16_to_cpu()</code>, <code>cpu_to_be32()</code>, <code>cpu_to_le16p()</code>, и так далее;
+</p><p>Ядро <a href="/wiki/FreeBSD" title="FreeBSD">FreeBSD</a>: <code>htobe16()</code>, <code>le32toh()</code>, и так далее;
+</p><p><a href="/wiki/Erlang" title="Erlang">Erlang</a>:
+</p>
+<div class="mw-highlight mw-highlight-lang-erlang mw-content-ltr" dir="ltr"><pre><span></span><span class="w"> </span><span class="o">&lt;&lt;</span><span class="nv">Count</span><span class="p">:</span><span class="mi">32</span><span class="o">/</span><span class="n">big</span><span class="o">-</span><span class="n">unsigned</span><span class="o">-</span><span class="n">integer</span><span class="p">,</span><span class="w"> </span><span class="nv">Average</span><span class="p">:</span><span class="mi">64</span><span class="o">/</span><span class="n">big</span><span class="o">-</span><span class="nb">float</span><span class="o">&gt;&gt;</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nv">Chunk</span>
+
+<span class="w"> </span><span class="nv">Message</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="o">&lt;&lt;</span><span class="nv">Length</span><span class="p">:</span><span class="mi">32</span><span class="o">/</span><span class="n">little</span><span class="o">-</span><span class="n">unsigned</span><span class="o">-</span><span class="n">integer</span><span class="p">,</span>
+<span class="w">        </span><span class="nv">MType</span><span class="p">:</span><span class="mi">16</span><span class="o">/</span><span class="n">little</span><span class="o">-</span><span class="n">unsigned</span><span class="o">-</span><span class="n">integer</span><span class="p">,</span><span class="w"> </span><span class="nv">MessageBody</span><span class="o">&gt;&gt;</span>
+</pre></div>
+<p><a href="/wiki/Python" title="Python">Python</a>:
+</p>
+<div class="mw-highlight mw-highlight-lang-python mw-content-ltr" dir="ltr"><pre><span></span> <span class="kn">import</span> <span class="nn">struct</span>
+ <span class="n">Count</span><span class="p">,</span> <span class="n">Average</span> <span class="o">=</span> <span class="n">struct</span><span class="o">.</span><span class="n">unpack</span><span class="p">(</span><span class="s2">"&gt;Ld"</span><span class="p">,</span> <span class="n">Chunk</span><span class="p">)</span>
+ <span class="n">Message</span> <span class="o">=</span> <span class="n">struct</span><span class="o">.</span><span class="n">pack</span><span class="p">(</span><span class="s2">"&lt;LH"</span><span class="p">,</span> <span class="n">Length</span><span class="p">,</span> <span class="n">MType</span><span class="p">)</span> <span class="o">+</span> <span class="n">MessageBody</span>
+</pre></div>
+<p><a href="/wiki/Perl" title="Perl">Perl</a>:
+</p>
+<div class="mw-highlight mw-highlight-lang-perl mw-content-ltr" dir="ltr"><pre><span></span><span class="w"> </span><span class="p">(</span><span class="nv">$Count</span><span class="p">,</span><span class="w"> </span><span class="nv">$Average</span><span class="p">)</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nb">unpack</span><span class="p">(</span><span class="s">'L&gt;d&gt;'</span><span class="p">,</span><span class="w"> </span><span class="nv">$Chunk</span><span class="p">);</span>
+<span class="w"> </span><span class="nv">$Message</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nb">pack</span><span class="p">(</span><span class="s">'(LS)&lt;'</span><span class="p">,</span><span class="w"> </span><span class="nv">$Length</span><span class="p">,</span><span class="w"> </span><span class="nv">$MType</span><span class="p">)</span><span class="w"> </span><span class="o">.</span><span class="w"> </span><span class="nv">$MessageBody</span><span class="p">;</span>
+<span class="w"> </span><span class="p">(</span><span class="n">или</span><span class="w"> </span><span class="n">то</span><span class="w"> </span><span class="n">же</span><span class="w"> </span><span class="n">самое:</span><span class="w"> </span><span class="nv">$Message</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nb">pack</span><span class="p">(</span><span class="s">'Vv'</span><span class="p">,</span><span class="w"> </span><span class="nv">$Length</span><span class="p">,</span><span class="w"> </span><span class="nv">$MType</span><span class="p">)</span><span class="w"> </span><span class="o">.</span><span class="w"> </span><span class="nv">$MessageBody</span><span class="p">;)</span>
+</pre></div>
+<p>данные примеры для Erlang, Python, Perl содержат идентичную функциональность.
+</p><p>Процессоры Intel x86-64 имеют инструкцию BSWAP для смены порядка байтов.
+</p>
+<h2><span id=".D0.AD.D1.82.D0.B8.D0.BC.D0.BE.D0.BB.D0.BE.D0.B3.D0.B8.D1.8F_.D0.BD.D0.B0.D0.B7.D0.B2.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Этимология_названия">Этимология названия</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA_%D0%B1%D0%B0%D0%B9%D1%82%D0%BE%D0%B2&amp;veaction=edit&amp;section=11" title="Редактировать раздел «Этимология названия»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA_%D0%B1%D0%B0%D0%B9%D1%82%D0%BE%D0%B2&amp;action=edit&amp;section=11" title="Редактировать код раздела «Этимология названия»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Термины big-endian и little-endian первоначально не имели отношения к информатике. В сатирическом произведении <a href="/wiki/%D0%A1%D0%B2%D0%B8%D1%84%D1%82,_%D0%94%D0%B6%D0%BE%D0%BD%D0%B0%D1%82%D0%B0%D0%BD" title="Свифт, Джонатан">Джонатана Свифта</a> «<a href="/wiki/%D0%9F%D1%83%D1%82%D0%B5%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D1%8F_%D0%93%D1%83%D0%BB%D0%BB%D0%B8%D0%B2%D0%B5%D1%80%D0%B0" title="Путешествия Гулливера">Путешествия Гулливера</a>» описываются вымышленные государства Лилипутия и Блефуску, в течение многих лет ведущие между собой войны из-за разногласия по поводу того, с какого конца следует разбивать <a href="/wiki/%D0%92%D0%B0%D1%80%D1%91%D0%BD%D0%BE%D0%B5_%D1%8F%D0%B9%D1%86%D0%BE" title="Варёное яйцо">варёные яйца</a>. Тех, кто считает, что их нужно разбивать с тупого конца, в произведении называют Big-endians («тупоконечники»).
+</p><p>Споры между сторонниками big-endian и little-endian в информатике также часто носят характер т. н. «религиозных войн».<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> Термины big-endian и little-endian ввёл <span data-interwiki-article="Danny Cohen (engineer)" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=%D0%9A%D0%BE%D1%8D%D0%BD,_%D0%94%D0%B5%D0%BD%D0%BD%D0%B8&amp;action=edit&amp;redlink=1" title="Коэн, Денни (страница отсутствует)">Коэн</a></span> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;"><a class="extiw" href="https://en.wikipedia.org/wiki/Danny_Cohen_(engineer)" title="en:Danny Cohen (engineer)"><span title="Danny Cohen (engineer) — версия статьи «Коэн, Денни» на английском языке">Danny Cohen</span></a></span>) в 1980 году в своей статье «On Holy Wars and a Plea for Peace» («О священных войнах и призыв к миру»).<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup><sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup>
+</p>
+<h2><span id=".D0.A1.D0.BC._.D1.82.D0.B0.D0.BA.D0.B6.D0.B5"></span><span class="mw-headline" id="См._также">См. также</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA_%D0%B1%D0%B0%D0%B9%D1%82%D0%BE%D0%B2&amp;veaction=edit&amp;section=12" title="Редактировать раздел «См. также»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA_%D0%B1%D0%B0%D0%B9%D1%82%D0%BE%D0%B2&amp;action=edit&amp;section=12" title="Редактировать код раздела «См. также»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="mw-redirect" href="/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%8F_%D1%81%D0%B5%D1%82%D1%8C" title="Компьютерная сеть">Компьютерная сеть</a></li></ul>
+<h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Примечания">Примечания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA_%D0%B1%D0%B0%D0%B9%D1%82%D0%BE%D0%B2&amp;veaction=edit&amp;section=13" title="Редактировать раздел «Примечания»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA_%D0%B1%D0%B0%D0%B9%D1%82%D0%BE%D0%B2&amp;action=edit&amp;section=13" title="Редактировать код раздела «Примечания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://perldoc.perl.org/functions/pack.html" rel="nofollow">pack() в Perl</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 20 декабря 2010. <a class="external text" href="https://web.archive.org/web/20101213183011/http://perldoc.perl.org/functions/pack.html" rel="nofollow">Архивировано</a> 13 декабря 2010 года.</span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://web.archive.org/web/20061110043209/http://www.rdrop.com/~cary/html/endian_faq.html" rel="nofollow">DAV’s Endian FAQ</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 3 августа 2008. Архивировано из <a class="external text" href="http://www.rdrop.com/~cary/html/endian_faq.html" rel="nofollow">оригинала</a> 10 ноября 2006 года.</span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><span class="citation"><i>Danny Cohen.</i> <span lang="en"><a class="external text" href="http://www.ietf.org/rfc/ien/ien137.txt" rel="nofollow">On Holy Wars and a Plea for Peace</a></span> <span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span> (1 апреля 1980). Дата обращения: 24 января 2010. <a class="external text" href="https://www.webcitation.org/65T8LbcEF?url=http://www.ietf.org/rfc/ien/ien137.txt" rel="nofollow">Архивировано</a> 15 февраля 2012 года.</span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><i>Таненбаум Э.</i> Архитектура компьютера. — 5-е изд. — <abbr title="Санкт-Петербург">СПб.</abbr>: Питер, 2007. — 844 с. — С. 89.</span>
+</li>
+</ol></div></div>
+<h2><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span><span class="mw-headline" id="Ссылки">Ссылки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA_%D0%B1%D0%B0%D0%B9%D1%82%D0%BE%D0%B2&amp;veaction=edit&amp;section=14" title="Редактировать раздел «Ссылки»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA_%D0%B1%D0%B0%D0%B9%D1%82%D0%BE%D0%B2&amp;action=edit&amp;section=14" title="Редактировать код раздела «Ссылки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="http://www.intuit.ru/studies/courses/2249/52/lecture/1567?page=5" rel="nofollow">Сетевой порядок байтов, функции htons(), htonl(), ntohs(), ntohl()</a> <a class="external text" href="https://web.archive.org/web/20150219102154/http://www.intuit.ru/studies/courses/2249/52/lecture/1567?page=5" rel="nofollow">Архивная копия</a> от 19 февраля 2015 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></li>
+<li><a class="external text" href="http://computing-dictionary.thefreedictionary.com/byte%20order" rel="nofollow">Порядок байтов</a></li>
+<li><a class="external text" href="https://underground.nipl.net/docs/endianness.txt" rel="nofollow">Порядок байтов</a> <small class="ref-info">(недоступная ссылка с 18-04-2021 [1036 дней])</small></li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐7cc97dcfbc‐5zzwx
+Cached time: 20240218020605
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.169 seconds
+Real time usage: 0.876 seconds
+Preprocessor visited node count: 1121/1000000
+Post‐expand include size: 13605/2097152 bytes
+Template argument size: 2066/2097152 bytes
+Highest expansion depth: 13/100
+Expensive parser function count: 12/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 11642/5000000 bytes
+Lua time usage: 0.032/10.000 seconds
+Lua memory usage: 1641967/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  744.009      1 -total
+  5.08%   37.829      1 Шаблон:Примечания
+  4.34%   32.313      2 Шаблон:Другой_термин
+  4.05%   30.105      2 Шаблон:See_other_values
+  3.79%   28.218      2 Шаблон:Другое_значение
+  3.77%   28.066      3 Шаблон:Cite_web
+  2.59%   19.251      1 Шаблон:Нп2
+  1.37%   10.162      1 Шаблон:Недоступная_ссылка
+  1.18%    8.793     10 Шаблон:Lang-en
+  0.78%    5.769     11 Шаблон:Lang-en2
+-->
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:265685-0!canonical and timestamp 20240218020605 and revision id 135978269. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> -->
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Порядок_байтов&amp;oldid=135978269">https://ru.wikipedia.org/w/index.php?title=Порядок_байтов&amp;oldid=135978269</a></div></div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%97%D0%B0%D0%BF%D0%BE%D0%BC%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D0%B5_%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%B0" title="Категория:Запоминающие устройства">Запоминающие устройства</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%B5%D1%80%D0%B5%D0%B4%D0%B0%D1%87%D0%B0_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85" title="Категория:Передача данных">Передача данных</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B,_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D1%83%D1%81%D1%82%D0%B0%D1%80%D0%B5%D0%B2%D1%88%D0%B8%D0%B9_%D1%82%D0%B5%D0%B3_source" title="Категория:Страницы, использующие устаревший тег source">Страницы, использующие устаревший тег source</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%BD%D0%B5_%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD_%D1%8F%D0%B7%D1%8B%D0%BA)" title="Категория:Википедия:Cite web (не указан язык)">Википедия:Cite web (не указан язык)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D0%B8%D1%82%D1%8C_webcitation-%D0%B0%D1%80%D1%85%D0%B8%D0%B2:_deadlink_no)" title="Категория:Википедия:Cite web (заменить webcitation-архив: deadlink no)">Википедия:Cite web (заменить webcitation-архив: deadlink no)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D1%81_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%BE%D0%BC_%D0%BD%D0%BF2_%D0%B1%D0%B5%D0%B7_%D0%B4%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE_%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0" title="Категория:Википедия:Страницы с шаблоном нп2 без дополнительного текста">Википедия:Страницы с шаблоном нп2 без дополнительного текста</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D0%BD%D0%B5%D1%80%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%BC%D0%B8_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8_%D1%81_%D0%B0%D0%BF%D1%80%D0%B5%D0%BB%D1%8F_2021" title="Категория:Википедия:Статьи с нерабочими ссылками с апреля 2021">Википедия:Статьи с нерабочими ссылками с апреля 2021</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D0%B0%D0%BC%D0%B8_%D0%BA%D0%BE%D0%B4%D0%B0_Erlang" title="Категория:Статьи с примерами кода Erlang">Статьи с примерами кода Erlang</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D0%B0%D0%BC%D0%B8_%D0%BA%D0%BE%D0%B4%D0%B0_Python" title="Категория:Статьи с примерами кода Python">Статьи с примерами кода Python</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D0%B0%D0%BC%D0%B8_%D0%BA%D0%BE%D0%B4%D0%B0_Perl" title="Категория:Статьи с примерами кода Perl">Статьи с примерами кода Perl</a></li></ul></div></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Навигация</h2>
+<div id="mw-head">
+<nav aria-labelledby="p-personal-label" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" id="p-personal" role="navigation">
+<h3 class="vector-menu-heading" id="p-personal-label">
+<span class="vector-menu-heading-label">Персональные инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="pt-anonuserpage"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li class="mw-list-item" id="pt-anontalk"><a accesskey="n" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]"><span>Обсуждение</span></a></li><li class="mw-list-item" id="pt-anoncontribs"><a accesskey="y" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]"><span>Вклад</span></a></li><li class="mw-list-item" id="pt-createaccount"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA+%D0%B1%D0%B0%D0%B9%D1%82%D0%BE%D0%B2" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li class="mw-list-item" id="pt-login"><a accesskey="o" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA+%D0%B1%D0%B0%D0%B9%D1%82%D0%BE%D0%B2" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]"><span>Войти</span></a></li>
+</ul>
+</div>
+</nav>
+<div id="left-navigation">
+<nav aria-labelledby="p-namespaces-label" class="mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-namespaces" role="navigation">
+<h3 class="vector-menu-heading" id="p-namespaces-label">
+<span class="vector-menu-heading-label">Пространства имён</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-nstab-main"><a accesskey="c" href="/wiki/%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA_%D0%B1%D0%B0%D0%B9%D1%82%D0%BE%D0%B2" title="Просмотреть контентную страницу [c]"><span>Статья</span></a></li><li class="mw-list-item" id="ca-talk"><a accesskey="t" href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA_%D0%B1%D0%B0%D0%B9%D1%82%D0%BE%D0%B2" rel="discussion" title="Обсуждение основной страницы [t]"><span>Обсуждение</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-variants-label" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" id="p-variants" role="navigation">
+<input aria-haspopup="true" aria-labelledby="p-variants-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-variants" id="p-variants-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-variants-label">
+<span class="vector-menu-heading-label">русский</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+</div>
+<div id="right-navigation">
+<nav aria-labelledby="p-views-label" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-views" role="navigation">
+<h3 class="vector-menu-heading" id="p-views-label">
+<span class="vector-menu-heading-label">Просмотры</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="ca-view"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA_%D0%B1%D0%B0%D0%B9%D1%82%D0%BE%D0%B2&amp;stable=1"><span>Читать</span></a></li><li class="collapsible selected mw-list-item" id="ca-current"><a accesskey="v" href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA_%D0%B1%D0%B0%D0%B9%D1%82%D0%BE%D0%B2&amp;stable=0&amp;redirect=no" title="Показать текущую версию этой страницы [v]"><span>Текущая версия</span></a></li><li class="mw-list-item" id="ca-ve-edit"><a accesskey="v" href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA_%D0%B1%D0%B0%D0%B9%D1%82%D0%BE%D0%B2&amp;veaction=edit" title="Редактировать данную страницу [v]"><span>Править</span></a></li><li class="collapsible mw-list-item" id="ca-edit"><a accesskey="e" href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA_%D0%B1%D0%B0%D0%B9%D1%82%D0%BE%D0%B2&amp;action=edit" title="Править исходный текст этой страницы [e]"><span>Править код</span></a></li><li class="mw-list-item" id="ca-history"><a accesskey="h" href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA_%D0%B1%D0%B0%D0%B9%D1%82%D0%BE%D0%B2&amp;action=history" title="Журнал изменений страницы [h]"><span>История</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-cactions-label" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" id="p-cactions" role="navigation" title="Больше возможностей">
+<input aria-haspopup="true" aria-labelledby="p-cactions-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-cactions" id="p-cactions-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-cactions-label">
+<span class="vector-menu-heading-label">Ещё</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+<div class="vector-search-box-vue vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box" id="p-search" role="search">
+<h3>Поиск</h3>
+<form action="/w/index.php" class="vector-search-box-form" id="searchform">
+<div class="vector-search-box-inner" data-search-loc="header-navigation" id="simpleSearch">
+<input accesskey="f" aria-label="Искать в Википедии" autocapitalize="sentences" class="vector-search-box-input" id="searchInput" name="search" placeholder="Искать в Википедии" title="Искать в Википедии [f]" type="search"/>
+<input name="title" type="hidden" value="Служебная:Поиск"/>
+<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Найти страницы, содержащие указанный текст" type="submit" value="Найти"/>
+<input class="searchButton" id="searchButton" name="go" title="Перейти к странице, имеющей в точности такое название" type="submit" value="Перейти"/>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="vector-legacy-sidebar" id="mw-panel">
+<div id="p-logo" role="banner">
+<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу"></a>
+</div>
+<nav aria-labelledby="p-navigation-label" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" id="p-navigation" role="navigation">
+<h3 class="vector-menu-heading" id="p-navigation-label">
+<span class="vector-menu-heading-label">Навигация</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-mainpage-description"><a accesskey="z" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]"><span>Заглавная страница</span></a></li><li class="mw-list-item" id="n-content"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li class="mw-list-item" id="n-featured"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li class="mw-list-item" id="n-randompage"><a accesskey="x" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]"><span>Случайная статья</span></a></li><li class="mw-list-item" id="n-currentevents"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li class="mw-list-item" id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-participation-label" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" id="p-participation" role="navigation">
+<h3 class="vector-menu-heading" id="p-participation-label">
+<span class="vector-menu-heading-label">Участие</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-bug_in_article"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li class="mw-list-item" id="n-introduction"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li class="mw-list-item" id="n-portal"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li class="mw-list-item" id="n-forum"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li class="mw-list-item" id="n-recentchanges"><a accesskey="r" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]"><span>Свежие правки</span></a></li><li class="mw-list-item" id="n-newpages"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li class="mw-list-item" id="n-help"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-tb-label" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" id="p-tb" role="navigation">
+<h3 class="vector-menu-heading" id="p-tb-label">
+<span class="vector-menu-heading-label">Инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="t-whatlinkshere"><a accesskey="j" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA_%D0%B1%D0%B0%D0%B9%D1%82%D0%BE%D0%B2" title="Список всех страниц, ссылающихся на данную [j]"><span>Ссылки сюда</span></a></li><li class="mw-list-item" id="t-recentchangeslinked"><a accesskey="k" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA_%D0%B1%D0%B0%D0%B9%D1%82%D0%BE%D0%B2" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]"><span>Связанные правки</span></a></li><li class="mw-list-item" id="t-specialpages"><a accesskey="q" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]"><span>Служебные страницы</span></a></li><li class="mw-list-item" id="t-permalink"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA_%D0%B1%D0%B0%D0%B9%D1%82%D0%BE%D0%B2&amp;oldid=135978269" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li class="mw-list-item" id="t-info"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA_%D0%B1%D0%B0%D0%B9%D1%82%D0%BE%D0%B2&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li class="mw-list-item" id="t-cite"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA_%D0%B1%D0%B0%D0%B9%D1%82%D0%BE%D0%B2&amp;id=135978269&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li class="mw-list-item" id="t-urlshortener"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%259F%25D0%25BE%25D1%2580%25D1%258F%25D0%25B4%25D0%25BE%25D0%25BA_%25D0%25B1%25D0%25B0%25D0%25B9%25D1%2582%25D0%25BE%25D0%25B2"><span>Получить короткий URL</span></a></li><li class="mw-list-item" id="t-urlshortener-qrcode"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%259F%25D0%25BE%25D1%2580%25D1%258F%25D0%25B4%25D0%25BE%25D0%25BA_%25D0%25B1%25D0%25B0%25D0%25B9%25D1%2582%25D0%25BE%25D0%25B2"><span>Скачать QR-код</span></a></li><li class="mw-list-item" id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q339338" title="Ссылка на связанный элемент репозитория данных [g]"><span>Элемент Викиданных</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-coll-print_export-label" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" id="p-coll-print_export" role="navigation">
+<h3 class="vector-menu-heading" id="p-coll-print_export-label">
+<span class="vector-menu-heading-label">Печать/экспорт</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="coll-download-as-rl"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA_%D0%B1%D0%B0%D0%B9%D1%82%D0%BE%D0%B2&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li class="mw-list-item" id="t-print"><a accesskey="p" href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA_%D0%B1%D0%B0%D0%B9%D1%82%D0%BE%D0%B2&amp;printable=yes" title="Версия этой страницы для печати [p]"><span>Версия для печати</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-wikibase-otherprojects-label" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal vector-menu" id="p-wikibase-otherprojects" role="navigation">
+<h3 class="vector-menu-heading" id="p-wikibase-otherprojects-label">
+<span class="vector-menu-heading-label">В других проектах</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Endianness" hreflang="en"><span>Викисклад</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-lang-label" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" id="p-lang" role="navigation">
+<h3 class="vector-menu-heading" id="p-lang-label">
+<span class="vector-menu-heading-label">На других языках</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="interlanguage-link interwiki-ar mw-list-item"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AA%D8%B1%D8%AA%D9%8A%D8%A8_%D8%A7%D9%84%D8%A8%D8%A7%D9%8A%D8%AA%D8%A7%D8%AA" hreflang="ar" lang="ar" title="ترتيب البايتات — арабский"><span>العربية</span></a></li><li class="interlanguage-link interwiki-az mw-list-item"><a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/K%C3%BCtuclular_%C3%BCsulu" hreflang="az" lang="az" title="Kütuclular üsulu — азербайджанский"><span>Azərbaycanca</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Ordre_dels_bytes" hreflang="ca" lang="ca" title="Ordre dels bytes — каталанский"><span>Català</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Endianita" hreflang="cs" lang="cs" title="Endianita — чешский"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Byte-Reihenfolge" hreflang="de" lang="de" title="Byte-Reihenfolge — немецкий"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/Endianness" hreflang="el" lang="el" title="Endianness — греческий"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a class="interlanguage-link-target" href="https://en.wikipedia.org/wiki/Endianness" hreflang="en" lang="en" title="Endianness — английский"><span>English</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Bajta_vic-ordo" hreflang="eo" lang="eo" title="Bajta vic-ordo — эсперанто"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Endianness" hreflang="es" lang="es" title="Endianness — испанский"><span>Español</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%A7%D9%86%D8%AF%DB%8C%D8%A7%D9%86" hreflang="fa" lang="fa" title="اندیان — персидский"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Tavuj%C3%A4rjestys" hreflang="fi" lang="fi" title="Tavujärjestys — финский"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Boutisme" hreflang="fr" lang="fr" title="Boutisme — французский"><span>Français</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%A1%D7%93%D7%A8_%D7%91%D7%AA%D7%99%D7%9D" hreflang="he" lang="he" title="סדר בתים — иврит"><span>עברית</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/B%C3%A1jtsorrend" hreflang="hu" lang="hu" title="Bájtsorrend — венгерский"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Endian" hreflang="id" lang="id" title="Endian — индонезийский"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Ordine_dei_byte" hreflang="it" lang="it" title="Ordine dei byte — итальянский"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%B3%E3%83%87%E3%82%A3%E3%82%A2%E3%83%B3" hreflang="ja" lang="ja" title="エンディアン — японский"><span>日本語</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%97%94%EB%94%94%EC%96%B8" hreflang="ko" lang="ko" title="엔디언 — корейский"><span>한국어</span></a></li><li class="interlanguage-link interwiki-la mw-list-item"><a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/Endianness" hreflang="la" lang="la" title="Endianness — латинский"><span>Latina</span></a></li><li class="interlanguage-link interwiki-lt mw-list-item"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Bait%C5%B3_seka_%C5%BEodyje" hreflang="lt" lang="lt" title="Baitų seka žodyje — литовский"><span>Lietuvių</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Endianness" hreflang="nl" lang="nl" title="Endianness — нидерландский"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Endian" hreflang="nb" lang="nb" title="Endian — норвежский букмол"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Kolejno%C5%9B%C4%87_bajt%C3%B3w" hreflang="pl" lang="pl" title="Kolejność bajtów — польский"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Extremidade_(ordena%C3%A7%C3%A3o)" hreflang="pt" lang="pt" title="Extremidade (ordenação) — португальский"><span>Português</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Endianness" hreflang="en-simple" lang="en-simple" title="Endianness — Simple English"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Endianita" hreflang="sk" lang="sk" title="Endianita — словацкий"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Endian" hreflang="sv" lang="sv" title="Endian — шведский"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Endian" hreflang="tr" lang="tr" title="Endian — турецкий"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA_%D0%B1%D0%B0%D0%B9%D1%82%D1%96%D0%B2" hreflang="uk" lang="uk" title="Порядок байтів — украинский"><span>Українська</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%AD%97%E8%8A%82%E5%BA%8F" hreflang="zh" lang="zh" title="字节序 — китайский"><span>中文</span></a></li>
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q339338#sitelinks-wikipedia" title="Править ссылки на другие языки">Править ссылки</a></span></div>
+</div>
+</nav>
+</div>
+</div>
+<footer class="mw-footer" id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 4 февраля 2024 в 16:37.</li>
+<li id="footer-info-copyright">Текст доступен по <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru" rel="license">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a><a href="//creativecommons.org/licenses/by-sa/4.0/" rel="license" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br/>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org/ru/">Фонд Викимедиа (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//ru.m.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA_%D0%B1%D0%B0%D0%B9%D1%82%D0%BE%D0%B2&amp;mobileaction=toggle_view_mobile">Мобильная версия</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" loading="lazy" src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88"/></a></li>
+<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" loading="lazy" src="/static/images/footer/poweredby_mediawiki_88x31.png" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88"/></a></li>
+</ul>
+</footer>
+
+
+</body>
+</html>

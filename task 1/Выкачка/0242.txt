@@ -1,0 +1,1149 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="ru">
+<head>
+<meta charset="utf-8"/>
+<title>Осевая формула паровоза — Википедия</title>
+
+
+
+
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+
+
+<meta content="MediaWiki 1.42.0-wmf.18" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="max-image-preview:standard" name="robots"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/e/e2/Su-250-64.jpg" property="og:image"/>
+<meta content="1200" property="og:image:width"/>
+<meta content="1166" property="og:image:height"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/e/e2/Su-250-64.jpg" property="og:image"/>
+<meta content="800" property="og:image:width"/>
+<meta content="777" property="og:image:height"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Su-250-64.jpg/640px-Su-250-64.jpg" property="og:image"/>
+<meta content="640" property="og:image:width"/>
+<meta content="622" property="og:image:height"/>
+<meta content="width=1000" name="viewport"/>
+<meta content="Осевая формула паровоза — Википедия" property="og:title"/>
+<meta content="website" property="og:type"/>
+
+
+
+
+
+
+
+
+
+
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Осевая_формула_паровоза rootpage-Осевая_формула_паровоза skin-vector action-view"><div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators">
+</div>
+<h1 class="firstHeading mw-first-heading" id="firstHeading"><span class="mw-page-title-main">Осевая формула паровоза</span></h1>
+<div class="vector-body" id="bodyContent">
+<div class="noprint" id="siteSub">Материал из Википедии — свободной энциклопедии</div>
+<div id="contentSub"><div id="mw-content-subtitle"><div class="plainlinks flaggedrevs_preview" id="mw-fr-reviewnotice">Текущая версия страницы пока <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9/%D0%9F%D0%BE%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BB%D1%8F_%D1%87%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9" title="Википедия:Проверка статей/Пояснение для читателей">не проверялась</a> опытными участниками и может значительно отличаться от <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9E%D1%81%D0%B5%D0%B2%D0%B0%D1%8F_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0_%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B0&amp;stable=1">версии</a>, проверенной 22 февраля 2015 года; проверки требуют <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9E%D1%81%D0%B5%D0%B2%D0%B0%D1%8F_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0_%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B0&amp;oldid=68776771&amp;diff=cur&amp;diffonly=0">34 правки</a>.</div><div class="flaggedrevs_short flaggedrevs_draft_notsynced plainlinks noprint" id="mw-fr-revisiontag"><div class="flaggedrevs_short_basic"><span class="flaggedrevs-icon oo-ui-widget oo-ui-widget-enabled oo-ui-iconElement-icon oo-ui-icon-block oo-ui-iconElement oo-ui-labelElement-invisible oo-ui-iconWidget" title="Текущая версия"></span><span class="fr-toggle-arrow oo-ui-widget oo-ui-widget-enabled oo-ui-indicatorElement-indicator oo-ui-indicator-down oo-ui-indicatorElement oo-ui-labelElement-invisible oo-ui-indicatorWidget" id="mw-fr-revisiontoggle" title="показать/скрыть подробности"></span></div>
+<div id="mw-fr-revisiondetails-wrapper" style="position:relative;"><div class="flaggedrevs_short_details" id="mw-fr-revisiondetails" style="display:none">Текущая версия страницы пока <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9/%D0%9F%D0%BE%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BB%D1%8F_%D1%87%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9" title="Википедия:Проверка статей/Пояснение для читателей">не проверялась</a> опытными участниками и может значительно отличаться от <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9E%D1%81%D0%B5%D0%B2%D0%B0%D1%8F_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0_%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B0&amp;stable=1">версии</a>, проверенной 22 февраля 2015 года; проверки требуют <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9E%D1%81%D0%B5%D0%B2%D0%B0%D1%8F_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0_%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B0&amp;oldid=68776771&amp;diff=cur&amp;diffonly=0">34 правки</a>.</div>
+</div>
+</div>
+</div></div>
+<div id="contentSub2"></div>
+<div id="jump-to-nav"></div>
+<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+<div class="mw-body-content" id="mw-content-text"><div class="mw-content-ltr mw-parser-output" dir="ltr" lang="ru"><figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Su-250-64.jpg"><img class="mw-file-element" data-file-height="680" data-file-width="700" decoding="async" height="291" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Su-250-64.jpg/300px-Su-250-64.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Su-250-64.jpg/450px-Su-250-64.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Su-250-64.jpg/600px-Su-250-64.jpg 2x" width="300"/></a><figcaption>Паровоз С<sup>у</sup>-250-64 типа 1-3-1.</figcaption></figure>
+<p><b>Осева́я фо́рмула парово́за</b> (тип паровоза) — условное описание основных параметров экипажной части <a href="/wiki/%D0%9B%D0%BE%D0%BA%D0%BE%D0%BC%D0%BE%D1%82%D0%B8%D0%B2" title="Локомотив">локомотива</a>, описывающее количество, размещение и назначение осей (<a href="/wiki/%D0%9A%D0%BE%D0%BB%D1%91%D1%81%D0%BD%D0%B0%D1%8F_%D0%BF%D0%B0%D1%80%D0%B0" title="Колёсная пара">колёсных пар</a>). Одна из основных характеристик, используемых при классификации <a href="/wiki/%D0%9F%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7" title="Паровоз">паровозов</a>.
+</p><p>Осевая формула — краткое цифровое или буквенно-цифровое обозначение, определяющее <a class="new" href="/w/index.php?title=%D0%A2%D0%B8%D0%BF_%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B0&amp;action=edit&amp;redlink=1" title="Тип паровоза (страница отсутствует)">тип паровоза</a> по количеству, назначению и взаимному расположению осей колёсных пар, включённых в его экипажную часть.
+</p>
+<div aria-labelledby="mw-toc-heading" class="toc" id="toc" role="navigation"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="ru"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Виды_осей_паровоза"><span class="tocnumber">1</span> <span class="toctext">Виды осей паровоза</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Способы_записи_осевых_формул"><span class="tocnumber">2</span> <span class="toctext">Способы записи осевых формул</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Старый_германский"><span class="tocnumber">2.1</span> <span class="toctext">Старый германский</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Американский"><span class="tocnumber">2.2</span> <span class="toctext">Американский</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Германский"><span class="tocnumber">2.3</span> <span class="toctext">Германский</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Германский_V.D.E.V."><span class="tocnumber">2.4</span> <span class="toctext">Германский V.D.E.V.</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Французский"><span class="tocnumber">2.5</span> <span class="toctext">Французский</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Русский"><span class="tocnumber">2.6</span> <span class="toctext">Русский</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Единая_европейская_система_записи_осевых_формул_UIC"><span class="tocnumber">2.7</span> <span class="toctext">Единая европейская система записи осевых формул UIC</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Примеры_записи_осевых_формул_паровоза"><span class="tocnumber">2.8</span> <span class="toctext">Примеры записи осевых формул паровоза</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Осевые_формулы_паровозов_сочленённого_типа"><span class="tocnumber">3</span> <span class="toctext">Осевые формулы паровозов сочленённого типа</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#Осевые_формулы_паровозов_системы_«Маллет»"><span class="tocnumber">3.1</span> <span class="toctext">Осевые формулы паровозов системы «Маллет»</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#Имена_собственные_осевых_формул"><span class="tocnumber">4</span> <span class="toctext">Имена собственные осевых формул</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#См._также"><span class="tocnumber">5</span> <span class="toctext">См. также</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Литература"><span class="tocnumber">6</span> <span class="toctext">Литература</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#Ссылки"><span class="tocnumber">7</span> <span class="toctext">Ссылки</span></a></li>
+</ul>
+</div>
+<h2><span id=".D0.92.D0.B8.D0.B4.D1.8B_.D0.BE.D1.81.D0.B5.D0.B9_.D0.BF.D0.B0.D1.80.D0.BE.D0.B2.D0.BE.D0.B7.D0.B0"></span><span class="mw-headline" id="Виды_осей_паровоза">Виды осей паровоза</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9E%D1%81%D0%B5%D0%B2%D0%B0%D1%8F_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0_%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B0&amp;veaction=edit&amp;section=1" title="Редактировать раздел «Виды осей паровоза»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9E%D1%81%D0%B5%D0%B2%D0%B0%D1%8F_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0_%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B0&amp;action=edit&amp;section=1" title="Редактировать код раздела «Виды осей паровоза»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%92%D0%B8%D0%B4%D1%8B_%D0%BE%D1%81%D0%B5%D0%B9_%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B0.gif"><img class="mw-file-element" data-file-height="200" data-file-width="400" decoding="async" height="150" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/25/%D0%92%D0%B8%D0%B4%D1%8B_%D0%BE%D1%81%D0%B5%D0%B9_%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B0.gif/300px-%D0%92%D0%B8%D0%B4%D1%8B_%D0%BE%D1%81%D0%B5%D0%B9_%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B0.gif" srcset="//upload.wikimedia.org/wikipedia/commons/2/25/%D0%92%D0%B8%D0%B4%D1%8B_%D0%BE%D1%81%D0%B5%D0%B9_%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B0.gif 1.5x" width="300"/></a><figcaption>Типы осей паровоза. На картинке изображена формула 1-4-2.</figcaption></figure>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:ATSF_1000,_1901_Baldwin.jpg"><img class="mw-file-element" data-file-height="180" data-file-width="634" decoding="async" height="85" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/ATSF_1000%2C_1901_Baldwin.jpg/300px-ATSF_1000%2C_1901_Baldwin.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/ATSF_1000%2C_1901_Baldwin.jpg/450px-ATSF_1000%2C_1901_Baldwin.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/ATSF_1000%2C_1901_Baldwin.jpg/600px-ATSF_1000%2C_1901_Baldwin.jpg 2x" width="300"/></a><figcaption>Паровоз типа 1-3-1 завода «Baldwin».</figcaption></figure>
+<p>В классической конструкции паровоза встречаются три основных вида осей.
+</p>
+<ul><li><i><a href="/wiki/%D0%94%D0%B2%D0%B8%D0%B6%D1%83%D1%89%D0%B8%D0%B5_%D0%BA%D0%BE%D0%BB%D1%91%D1%81%D0%BD%D1%8B%D0%B5_%D0%BF%D0%B0%D1%80%D1%8B" title="Движущие колёсные пары">Спаренные (ведущие и сцепные) оси</a></i> — расположены непосредственно под котлом, механически связаны друг с другом с помощью специальных тяг — спарников — и служат для реализации тягового усилия. Присутствие их на любом паровозе обязательно. Поскольку частота вращения механически связанных колёс одинакова, диаметр их тоже должен быть одинаков. Как правило, это самые большие по диаметру колёса на паровозе. В общем случае, чем больше мощность паровоза, тем большее количество спаренных осей на нём применяется.</li>
+<li><i><a href="/wiki/%D0%91%D0%B5%D0%B3%D1%83%D0%BD%D0%BA%D0%BE%D0%B2%D1%8B%D0%B5_%D0%BA%D0%BE%D0%BB%D1%91%D1%81%D0%BD%D1%8B%D0%B5_%D0%BF%D0%B0%D1%80%D1%8B" title="Бегунковые колёсные пары">Направляющие (бегунковые) оси</a></i> — расположены перед спаренными осями и служат для улучшения вписывания паровоза в кривые. Конструктивно выполняются в виде одно- или двухосной тележки (по имени изобретателя нередко называемой <a class="new" href="/w/index.php?title=%D0%91%D0%B8%D1%81%D1%81%D0%B5%D0%BB%D1%8C&amp;action=edit&amp;redlink=1" title="Биссель (страница отсутствует)">бисселем</a>), свободно поворачивающейся относительно главной рамы паровоза. При прохождении паровозом кривых направляющие оси отклоняются в сторону поворота и тем самым снижают вероятность схода с <a class="mw-redirect" href="/wiki/%D0%A0%D0%B5%D0%BB%D1%8C%D1%81%D1%8B" title="Рельсы">рельсов</a> и уменьшают нагрузку от основных колёс на рельсы в поперечном направлении. Колёса этих осей, как правило, имеют значительно меньший диаметр, чем на спаренных осях. Чаще всего встречаются на быстроходных, пассажирских паровозах.</li>
+<li><i><a href="/wiki/%D0%9F%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%B8%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B5_%D0%BA%D0%BE%D0%BB%D1%91%D1%81%D0%BD%D1%8B%D0%B5_%D0%BF%D0%B0%D1%80%D1%8B" title="Поддерживающие колёсные пары">Поддерживающие оси</a></i> — расположены позади спаренных осей. Служат главным образом для перераспределения нагрузки на рельсы, в том числе для снижения нагрузки на ведущие оси до допустимых значений. Колёса этих осей, как правило, имеют значительно меньший диаметр, чем спаренные оси. На паровозах встречаются не всегда. Чаще всего на <a href="/wiki/%D0%A2%D0%B0%D0%BD%D0%BA-%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7" title="Танк-паровоз">танк-паровозах</a> и мощных паровозах с развитой <a href="/wiki/%D0%A2%D0%BE%D0%BF%D0%BA%D0%B0" title="Топка">топкой</a>, под которой размещение сцепных колёс большого диаметра затруднительно.</li></ul>
+<h2><span id=".D0.A1.D0.BF.D0.BE.D1.81.D0.BE.D0.B1.D1.8B_.D0.B7.D0.B0.D0.BF.D0.B8.D1.81.D0.B8_.D0.BE.D1.81.D0.B5.D0.B2.D1.8B.D1.85_.D1.84.D0.BE.D1.80.D0.BC.D1.83.D0.BB"></span><span class="mw-headline" id="Способы_записи_осевых_формул">Способы записи осевых формул</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9E%D1%81%D0%B5%D0%B2%D0%B0%D1%8F_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0_%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B0&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Способы записи осевых формул»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9E%D1%81%D0%B5%D0%B2%D0%B0%D1%8F_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0_%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B0&amp;action=edit&amp;section=2" title="Редактировать код раздела «Способы записи осевых формул»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>В разных странах, в разные годы способы записи осевых формул существенно отличались. Наибольшее распространение получило шесть способов. Все они более подробно описаны ниже. В качестве примеров в каждом случае используется осевая формула паровоза <a href="/wiki/%D0%A3127" title="У127">У127</a>, имеющего две бегунковых оси, три спаренных и ни одной поддерживающей.
+</p>
+<figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Russian_Class_U_locomotive_Number_U127.JPG"><img class="mw-file-element" data-file-height="2672" data-file-width="4000" decoding="async" height="200" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Russian_Class_U_locomotive_Number_U127.JPG/300px-Russian_Class_U_locomotive_Number_U127.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Russian_Class_U_locomotive_Number_U127.JPG/450px-Russian_Class_U_locomotive_Number_U127.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/22/Russian_Class_U_locomotive_Number_U127.JPG/600px-Russian_Class_U_locomotive_Number_U127.JPG 2x" width="300"/></a><figcaption>Паровоз «<a href="/wiki/%D0%A3127" title="У127">У127</a>», имеющий осевую формулу, как в приведённых ниже примерах.</figcaption></figure>
+<h3><span id=".D0.A1.D1.82.D0.B0.D1.80.D1.8B.D0.B9_.D0.B3.D0.B5.D1.80.D0.BC.D0.B0.D0.BD.D1.81.D0.BA.D0.B8.D0.B9"></span><span class="mw-headline" id="Старый_германский">Старый германский</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9E%D1%81%D0%B5%D0%B2%D0%B0%D1%8F_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0_%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B0&amp;veaction=edit&amp;section=3" title="Редактировать раздел «Старый германский»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9E%D1%81%D0%B5%D0%B2%D0%B0%D1%8F_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0_%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B0&amp;action=edit&amp;section=3" title="Редактировать код раздела «Старый германский»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3><p>
+В виде дроби, в которой числитель равен количеству спаренных осей, а знаменатель — общему числу осей. Например:<br/></p><tt><center>3/5</center></tt>
+<p>Этот способ не прижился, поскольку не даёт представления отдельно о числе направляющих и поддерживающих осей.
+</p>
+<h3><span id=".D0.90.D0.BC.D0.B5.D1.80.D0.B8.D0.BA.D0.B0.D0.BD.D1.81.D0.BA.D0.B8.D0.B9"></span><span class="mw-headline" id="Американский">Американский</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9E%D1%81%D0%B5%D0%B2%D0%B0%D1%8F_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0_%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B0&amp;veaction=edit&amp;section=4" title="Редактировать раздел «Американский»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9E%D1%81%D0%B5%D0%B2%D0%B0%D1%8F_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0_%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B0&amp;action=edit&amp;section=4" title="Редактировать код раздела «Американский»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable">Основная статья: <b><a href="/wiki/%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F_%D0%A3%D0%B8%D1%82%D0%B0" title="Классификация Уита">Классификация Уита</a></b></div>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Locotypes.gif"><img class="mw-file-element" data-file-height="1767" data-file-width="618" decoding="async" height="572" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Locotypes.gif/200px-Locotypes.gif" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Locotypes.gif/300px-Locotypes.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/07/Locotypes.gif/400px-Locotypes.gif 2x" width="200"/></a><figcaption>Американская система записи осевых формул паровозов</figcaption></figure><p>
+Предложен в 1906 году <a href="/wiki/%D0%A3%D0%B8%D1%82,_%D0%A4%D1%80%D0%B5%D0%B4%D0%B5%D1%80%D0%B8%D0%BA_%D0%9C%D0%B5%D1%82%D0%B2%D0%B0%D0%BD" title="Уит, Фредерик Метван">Ф. М. Уитом</a> (<a class="extiw" href="https://en.wikipedia.org/wiki/Frederick_Methvan_Whyte" title="en:Frederick Methvan Whyte">Frederick Methvan Whyte</a>). Осевая формула состоит из трёх цифр, первая из которых указывает число направляющих колёс, вторая — спаренных, третья — поддерживающих колёс (именно колёс, а не осей, как во всех остальных способах). Цифры разделяются между собой <a href="/wiki/%D0%94%D0%B5%D1%84%D0%B8%D1%81" title="Дефис">дефисом</a>. Например:<br/></p><tt><center>4-6-0</center></tt>
+<h3><span id=".D0.93.D0.B5.D1.80.D0.BC.D0.B0.D0.BD.D1.81.D0.BA.D0.B8.D0.B9"></span><span class="mw-headline" id="Германский">Германский</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9E%D1%81%D0%B5%D0%B2%D0%B0%D1%8F_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0_%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B0&amp;veaction=edit&amp;section=5" title="Редактировать раздел «Германский»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9E%D1%81%D0%B5%D0%B2%D0%B0%D1%8F_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0_%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B0&amp;action=edit&amp;section=5" title="Редактировать код раздела «Германский»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3><p>
+Предложен в 1907 году журналом «<a class="new" href="/w/index.php?title=Organ_(%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB)&amp;action=edit&amp;redlink=1" title="Organ (журнал) (страница отсутствует)">Organ</a>». В целом повторяет американский способ, но отличается тем, что при нём ведётся счёт осей, а не колёс, и число спаренных осей обозначается заглавными буквами (A=1, B=2, C=3 и т. д.). Цифры разделяются между собой точкой (знаком умножения). Например:<br/></p><tt><center>2·C·0</center></tt>
+<h3><span id=".D0.93.D0.B5.D1.80.D0.BC.D0.B0.D0.BD.D1.81.D0.BA.D0.B8.D0.B9_V.D.E.V."></span><span class="mw-headline" id="Германский_V.D.E.V.">Германский V.D.E.V.</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9E%D1%81%D0%B5%D0%B2%D0%B0%D1%8F_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0_%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B0&amp;veaction=edit&amp;section=6" title="Редактировать раздел «Германский V.D.E.V.»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9E%D1%81%D0%B5%D0%B2%D0%B0%D1%8F_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0_%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B0&amp;action=edit&amp;section=6" title="Редактировать код раздела «Германский V.D.E.V.»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3><p>
+Предложен в 1923 году <a class="new" href="/w/index.php?title=%D0%A1%D0%BE%D1%8E%D0%B7_%D0%B3%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D1%85_%D0%B6%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D0%BE%D0%B4%D0%BE%D1%80%D0%BE%D0%B6%D0%BD%D1%8B%D1%85_%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9&amp;action=edit&amp;redlink=1" title="Союз германских железнодорожных управлений (страница отсутствует)">Союзом германских железнодорожных управлений</a> <span class="nowrap">V.D.E.V.</span> Отличается от предыдущего тем, что все знаки записываются слитно, а в случае отсутствия осей того или иного рода цифра ноль не пишется. Например:<br/></p><tt><center>2C</center></tt>
+<h3><span id=".D0.A4.D1.80.D0.B0.D0.BD.D1.86.D1.83.D0.B7.D1.81.D0.BA.D0.B8.D0.B9"></span><span class="mw-headline" id="Французский">Французский</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9E%D1%81%D0%B5%D0%B2%D0%B0%D1%8F_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0_%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B0&amp;veaction=edit&amp;section=7" title="Редактировать раздел «Французский»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9E%D1%81%D0%B5%D0%B2%D0%B0%D1%8F_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0_%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B0&amp;action=edit&amp;section=7" title="Редактировать код раздела «Французский»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3><p>
+Число спаренных осей обозначается цифрой, <a class="new" href="/w/index.php?title=%D0%9E%D0%B4%D0%BD%D0%BE%D0%BE%D1%81%D0%BD%D1%8B%D0%B9_%D0%B1%D0%B5%D0%B3%D1%83%D0%BD%D0%BE%D0%BA&amp;action=edit&amp;redlink=1" title="Одноосный бегунок (страница отсутствует)">одноосный бегунок</a> обозначается буквой <tt>P</tt> (от <a href="/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Французский язык">фр.</a> <i>porteur</i> — бегунок), двухосная тележка — буквой <tt>B</tt> (от <a href="/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Французский язык">фр.</a> <i>bogie</i> — тележка). Все знаки записываются слитно. Например:<br/></p><tt><center>B3</center></tt>
+<h3><span id=".D0.A0.D1.83.D1.81.D1.81.D0.BA.D0.B8.D0.B9"></span><span class="mw-headline" id="Русский">Русский</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9E%D1%81%D0%B5%D0%B2%D0%B0%D1%8F_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0_%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B0&amp;veaction=edit&amp;section=8" title="Редактировать раздел «Русский»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9E%D1%81%D0%B5%D0%B2%D0%B0%D1%8F_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0_%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B0&amp;action=edit&amp;section=8" title="Редактировать код раздела «Русский»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3><p>
+Из трёх цифр, первая из которых указывает число направляющих осей, вторая — спаренных, третья — поддерживающих осей. Первоначально цифры разделялись между собой точкой (<a href="/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BF%D1%83%D0%BD%D0%BA%D1%82" title="Интерпункт">интерпунктом</a>):<br/></p><tt><center>2·3·0</center></tt><p>
+Впоследствии точка была заменена дефисом:<br/></p><tt><center>2-3-0</center></tt>
+<p>Ни в одном из приведённых выше способов оси тендера в расчёт не принимаются, если только одна из поддерживающих осей не находится под коротким полутендером, который входит в состав танк-паровоза и не может быть отцеплен от него.
+</p>
+<h3><span id=".D0.95.D0.B4.D0.B8.D0.BD.D0.B0.D1.8F_.D0.B5.D0.B2.D1.80.D0.BE.D0.BF.D0.B5.D0.B9.D1.81.D0.BA.D0.B0.D1.8F_.D1.81.D0.B8.D1.81.D1.82.D0.B5.D0.BC.D0.B0_.D0.B7.D0.B0.D0.BF.D0.B8.D1.81.D0.B8_.D0.BE.D1.81.D0.B5.D0.B2.D1.8B.D1.85_.D1.84.D0.BE.D1.80.D0.BC.D1.83.D0.BB_UIC"></span><span class="mw-headline" id="Единая_европейская_система_записи_осевых_формул_UIC">Единая европейская система записи осевых формул UIC</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9E%D1%81%D0%B5%D0%B2%D0%B0%D1%8F_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0_%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B0&amp;veaction=edit&amp;section=9" title="Редактировать раздел «Единая европейская система записи осевых формул UIC»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9E%D1%81%D0%B5%D0%B2%D0%B0%D1%8F_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0_%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B0&amp;action=edit&amp;section=9" title="Редактировать код раздела «Единая европейская система записи осевых формул UIC»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3><p>
+Основой для единой европейской системы записи осевых формул UIC стала германская система <span class="nowrap">V.D.E.V.</span> Главным её отличием стало введение знака «апостроф» для обозначения осей, закреплённых на отдельных поворотных тележках. Так, например, осевая формула паровоза с двухосной поворотной направляющей тележкой, тремя ведущими осями и одной жестко закреплённой поддерживающей осью в этой системе имеет вид:<br/></p><tt><center>2’C1</center></tt>
+<p>Кроме того, в этой системе использовались дополнительные суффиксы, отражающие некоторые <a href="/wiki/%D0%A3%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE_%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B0" title="Устройство паровоза">конструктивные особенности самого паровоза</a>, а не только его экипажной части. Например:
+</p>
+<ul><li><i>h</i> — паровые машины перегретого пара (<a href="/wiki/%D0%9D%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Немецкий язык">нем.</a> <span lang="de" style="font-style:italic;">Heißdampf</span>);</li>
+<li><i>n</i> — паровые машины насыщенного пара (<a href="/wiki/%D0%9D%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Немецкий язык">нем.</a> <span lang="de" style="font-style:italic;">Naßdampf</span>);</li>
+<li>цифра после <i>h</i> или <i>n</i> - число цилиндров паровой машины</li>
+<li><i>v</i> после числа цилиндров — с паровыми <a href="/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D0%B0%D1%83%D0%BD%D0%B4-%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0" title="Компаунд-машина">компаунд-машинами</a> (<a href="/wiki/%D0%9D%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Немецкий язык">нем.</a> <span lang="de" style="font-style:italic;">Verbund</span>);</li>
+<li><i>Turb</i> — оснащён турбиной;</li>
+<li><i>t</i> после числа осей — <a href="/wiki/%D0%A2%D0%B0%D0%BD%D0%BA-%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7" title="Танк-паровоз">танк-паровоз</a>.</li></ul>
+<h3><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.80.D1.8B_.D0.B7.D0.B0.D0.BF.D0.B8.D1.81.D0.B8_.D0.BE.D1.81.D0.B5.D0.B2.D1.8B.D1.85_.D1.84.D0.BE.D1.80.D0.BC.D1.83.D0.BB_.D0.BF.D0.B0.D1.80.D0.BE.D0.B2.D0.BE.D0.B7.D0.B0"></span><span class="mw-headline" id="Примеры_записи_осевых_формул_паровоза">Примеры записи осевых формул паровоза</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9E%D1%81%D0%B5%D0%B2%D0%B0%D1%8F_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0_%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B0&amp;veaction=edit&amp;section=10" title="Редактировать раздел «Примеры записи осевых формул паровоза»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9E%D1%81%D0%B5%D0%B2%D0%B0%D1%8F_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0_%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B0&amp;action=edit&amp;section=10" title="Редактировать код раздела «Примеры записи осевых формул паровоза»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<tbody><tr>
+<th colspan="2">Способ записи осевых формул
+</th>
+<th>Осевая формула
+</th></tr>
+<tr>
+<td>1
+</td>
+<td>Старый германский
+</td>
+<td>3/5
+</td></tr>
+<tr>
+<td>2
+</td>
+<td><a class="mw-redirect" href="/wiki/%D0%9D%D0%BE%D1%82%D0%B0%D1%86%D0%B8%D1%8F_%D0%A3%D0%B0%D0%B9%D1%82%D0%B0" title="Нотация Уайта">Американский (Уайта, 1906 года)</a> (<a class="extiw" href="https://en.wikipedia.org/wiki/Whyte_notation" title="en:Whyte notation">en</a>)
+</td>
+<td>4-6-0
+</td></tr>
+<tr>
+<td>3
+</td>
+<td>Германский (Organ, 1907 года)
+</td>
+<td>2·C·0
+</td></tr>
+<tr>
+<td>4
+</td>
+<td>Германский (V.D.E.V., 1923 года)
+</td>
+<td>2C
+</td></tr>
+<tr>
+<td>5
+</td>
+<td>Французский
+</td>
+<td>B3
+</td></tr>
+<tr>
+<td>6
+</td>
+<td>Русский
+</td>
+<td>2·3·0 или 2-3-0
+</td></tr></tbody></table>
+<h2><span id=".D0.9E.D1.81.D0.B5.D0.B2.D1.8B.D0.B5_.D1.84.D0.BE.D1.80.D0.BC.D1.83.D0.BB.D1.8B_.D0.BF.D0.B0.D1.80.D0.BE.D0.B2.D0.BE.D0.B7.D0.BE.D0.B2_.D1.81.D0.BE.D1.87.D0.BB.D0.B5.D0.BD.D1.91.D0.BD.D0.BD.D0.BE.D0.B3.D0.BE_.D1.82.D0.B8.D0.BF.D0.B0"></span><span class="mw-headline" id="Осевые_формулы_паровозов_сочленённого_типа">Осевые формулы паровозов сочленённого типа</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9E%D1%81%D0%B5%D0%B2%D0%B0%D1%8F_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0_%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B0&amp;veaction=edit&amp;section=11" title="Редактировать раздел «Осевые формулы паровозов сочленённого типа»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9E%D1%81%D0%B5%D0%B2%D0%B0%D1%8F_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0_%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B0&amp;action=edit&amp;section=11" title="Редактировать код раздела «Осевые формулы паровозов сочленённого типа»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B0#Усложнение_конструкции" title="История паровоза">Дальнейшее развитие паровозостроения</a> по пути увеличения мощности локомотивов требовало применения на них всё большего количества сцепных осей. При этом рост их числа приводил к существенному увеличению длины паровоза и, как следствие, к ухудшению вписывания в кривые. В связи с этим появилась необходимость отказаться от размещения всех сцепных осей в общей жёсткой раме. Появились различные проекты паровозов, экипажная часть которых была разделена на несколько шарнирно соединённых между собой тележек. Поэтому они именовались <a class="mw-redirect" href="/wiki/%D0%9F%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D1%8B_%D1%81%D0%BE%D1%87%D0%BB%D0%B5%D0%BD%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5" title="Паровозы сочлененные">сочленёнными паровозами</a>: паровозы систем <a href="/wiki/%D0%9F%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B_%D0%A4%D0%B5%D1%80%D0%BB%D0%B8" title="Паровоз системы Ферли">Ферли</a>, <a href="/wiki/%D0%9F%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B_%D0%9C%D0%B5%D0%B9%D0%B5%D1%80%D0%B0" title="Паровоз системы Мейера">Мейера</a>, <a href="/wiki/%D0%9F%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B_%D0%93%D0%B0%D1%80%D1%80%D0%B0%D1%82%D1%82" title="Паровоз системы Гарратт">Гаррата</a>, <a class="mw-redirect" href="/wiki/%D0%9F%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B_%D0%9C%D0%B0%D0%BB%D0%BB%D0%B5%D1%82%D0%B0" title="Паровоз системы Маллета">Маллета</a>. Сцепные оси каждой тележки приводились в движение от отдельной паровой машины.
+</p><p>В зависимости от числа тележек такие паровозы именовались <i>дуплексами</i> (две тележки), <i>триплексами</i> (три тележки) и <i>квадруплексами</i> (четыре тележки). Для описания их экипажей потребовалось усложнить систему записи осевых формул. Осевая формула такого паровоза состоит из нескольких групп, разделённых между собой знаком «плюс». Каждая группа описывает конструкцию экипажа отдельной тележки по тем же правилам, что использовались для обычных паровозов. Группы записываются по порядку от головы паровоза к тендеру.
+</p><p>
+Так, например, осевая формула <a class="mw-redirect" href="/wiki/%D0%9F%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7_%D0%9F38" title="Паровоз П38">паровоза П38</a> (экипажная часть которого состояла из двух тележек, в первой из которых была одна направляющая и четыре сцепных оси, а во второй — четыре сцепных и две поддерживающих оси) в русской нотации имела вид:<br/></p><center><tt>1·4·0 + 0·4·2</tt> или <tt>1-4-0 + 0-4-2</tt></center>
+<h3><span id=".D0.9E.D1.81.D0.B5.D0.B2.D1.8B.D0.B5_.D1.84.D0.BE.D1.80.D0.BC.D1.83.D0.BB.D1.8B_.D0.BF.D0.B0.D1.80.D0.BE.D0.B2.D0.BE.D0.B7.D0.BE.D0.B2_.D1.81.D0.B8.D1.81.D1.82.D0.B5.D0.BC.D1.8B_.C2.AB.D0.9C.D0.B0.D0.BB.D0.BB.D0.B5.D1.82.C2.BB"></span><span class="mw-headline" id="Осевые_формулы_паровозов_системы_«Маллет»">Осевые формулы паровозов системы «Маллет»</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9E%D1%81%D0%B5%D0%B2%D0%B0%D1%8F_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0_%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B0&amp;veaction=edit&amp;section=12" title="Редактировать раздел «Осевые формулы паровозов системы «Маллет»»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9E%D1%81%D0%B5%D0%B2%D0%B0%D1%8F_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0_%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B0&amp;action=edit&amp;section=12" title="Редактировать код раздела «Осевые формулы паровозов системы «Маллет»»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<dl><dd><b>Условные обозначения.</b> <i>В графе «Схема — Тип» заглавной буквой «O» обозначены движущие оси, строчной «o» — бегунковые и поддерживающие. Передняя часть паровоза — на схеме слева.</i></dd></dl>
+<table class="wikitable">
+<tbody><tr>
+<th colspan="4">Схема «Дуплекс» (две группы движущих осей)
+</th></tr>
+<tr>
+<th>Схема - Тип
+</th>
+<th>Осевая формула
+</th>
+<th>Название
+</th>
+<th>Примечания
+</th></tr>
+<tr>
+<td align="center">ОО + ОО
+</td>
+<td align="center">0-2+2-0</td>
+<td>нет</td>
+<td>Маллет — компаунд
+</td></tr>
+<tr>
+<td align="center">ООО + ООО
+</td>
+<td align="center">0-3+3-0</td>
+<td>нет</td>
+<td>Маллет — компаунд
+</td></tr>
+<tr>
+<td align="center">о ООО + ООО о
+</td>
+<td align="center">1-3+3-1</td>
+<td>нет</td>
+<td>Маллет — компаунд
+</td></tr>
+<tr>
+<td align="center">ОООО + ОООО
+</td>
+<td align="center">0-4+4-0</td>
+<td>нет</td>
+<td>Маллет — компаунд
+</td></tr>
+<tr>
+<td align="center">о ОООО + ОООО о
+</td>
+<td align="center">1-4+4-1</td>
+<td>нет</td>
+<td>Маллет с машиной простого действия
+</td></tr>
+<tr>
+<td align="center">о ОООО + ОООО оо
+</td>
+<td align="center">1-4+4-2</td>
+<td><a href="/wiki/%D0%9F%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D1%8B_%D1%82%D0%B8%D0%BF%D0%B0_%C2%ABYellowstone%C2%BB" title="Паровозы типа «Yellowstone»">Йеллоустоун</a></td>
+<td>Маллет с машиной простого действия. Самый мощный в мире паровоз.
+</td></tr>
+<tr>
+<td align="center">оо ОООО + ОООО о
+</td>
+<td align="center">2-4+4-1</td>
+<td>нет</td>
+<td>Маллет с машиной простого действия. Переднее расположение кабины.
+</td></tr>
+<tr>
+<td align="center">оо ООО + ООО оо
+</td>
+<td align="center">2-3+3-2</td>
+<td><a href="/wiki/Union_Pacific_Challenger" title="Union Pacific Challenger">Челенджер</a></td>
+<td>Быстроходный Маллет с машиной простого действия.
+</td></tr>
+<tr>
+<td align="center">оо ОООО + ОООО оо
+</td>
+<td align="center">2-4+4-2</td>
+<td><a href="/wiki/Union_Pacific_Big_Boy" title="Union Pacific Big Boy">Здоровяк</a> (Big Boy)</td>
+<td>Быстроходный Маллет с машиной простого действия.
+</td></tr>
+<tr>
+<td align="center">о ООООО + ООООО о
+</td>
+<td align="center">1-5+5-1</td>
+<td>нет</td>
+<td>Маллет — компаунд. Использовался в основном как толкач.
+</td></tr>
+<tr>
+<th colspan="4">Схема «Триплекс» (три группы движущих осей)
+</th></tr>
+<tr>
+<td align="center">о ОООО + ОООО + ОООО о
+</td>
+<td align="center">1-4+4+4-1</td>
+<td>нет</td>
+<td>Маллет — компаунд. Использовался в основном как толкач.
+</td></tr>
+<tr>
+<td align="center">о ОООО + ОООО + ОООО оо
+</td>
+<td align="center">1-4+4+4-2</td>
+<td>нет</td>
+<td>Маллет — компаунд. Использовался в основном как толкач.
+</td></tr></tbody></table>
+<h2><span id=".D0.98.D0.BC.D0.B5.D0.BD.D0.B0_.D1.81.D0.BE.D0.B1.D1.81.D1.82.D0.B2.D0.B5.D0.BD.D0.BD.D1.8B.D0.B5_.D0.BE.D1.81.D0.B5.D0.B2.D1.8B.D1.85_.D1.84.D0.BE.D1.80.D0.BC.D1.83.D0.BB"></span><span class="mw-headline" id="Имена_собственные_осевых_формул">Имена собственные осевых формул</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9E%D1%81%D0%B5%D0%B2%D0%B0%D1%8F_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0_%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B0&amp;veaction=edit&amp;section=13" title="Редактировать раздел «Имена собственные осевых формул»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9E%D1%81%D0%B5%D0%B2%D0%B0%D1%8F_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0_%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B0&amp;action=edit&amp;section=13" title="Редактировать код раздела «Имена собственные осевых формул»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Некоторые наиболее распространённые виды осевых формул имели даже собственные названия.
+</p>
+<dl><dd><b>Внимание.</b> <i>Следует иметь в виду, что приведённые в таблицах комментарии сделаны профессором Н. И. Карташовым в конце 1920-х — начале 1930-х годов применительно к паровозам широкой колеи. Для паровозов узкой колеи не всё из сказанного верно.</i></dd></dl>
+<dl><dd><b>Условные обозначения.</b> <i>В графе «схема» заглавной буквой «O» обозначены сцепные оси, строчной «o» — бегунковые и поддерживающие. Голова паровоза — на схеме слева.</i></dd></dl>
+<table class="wikitable">
+<tbody><tr>
+<th colspan="5">Тип A — Одна ведущая ось («свободная»)
+</th></tr>
+<tr>
+<th>Класс
+</th>
+<th>Схема
+</th>
+<th>Осевая формула
+</th>
+<th>Название
+</th>
+<th>Примечание
+</th></tr>
+<tr>
+<td align="center">1
+</td>
+<td align="center">o O
+</td>
+<td align="center"><a href="/wiki/1-1-0" title="1-1-0">1-1-0</a>
+</td>
+<td align="center" rowspan="4">Бицикл (Bicycle или Single)
+</td>
+<td align="left" rowspan="4">Употребляются редко только в Англии для лёгких экспрессов (классы 2 и 4). По имени изобретателя некоторые называются типами Крамптона.
+</td></tr>
+<tr>
+<td align="center">2
+</td>
+<td align="center">o O o
+</td>
+<td align="center"><a href="/wiki/1-1-1" title="1-1-1">1-1-1</a>
+</td></tr>
+<tr>
+<td align="center">3
+</td>
+<td align="center">oo O
+</td>
+<td align="center"><a href="/wiki/2-1-0" title="2-1-0">2-1-0</a>
+</td></tr>
+<tr>
+<td align="center">4
+</td>
+<td align="center">oo O o
+</td>
+<td align="center"><a href="/wiki/2-1-1" title="2-1-1">2-1-1</a>
+</td></tr>
+<tr>
+<th colspan="5">Тип B — Две спаренных оси
+</th></tr>
+<tr>
+<th>Класс
+</th>
+<th>Схема
+</th>
+<th>Осевая формула
+</th>
+<th>Название
+</th>
+<th>Примечание
+</th></tr>
+<tr>
+<td align="center">5
+</td>
+<td align="center">OO
+</td>
+<td align="center"><a href="/wiki/0-2-0" title="0-2-0">0-2-0</a>
+</td>
+<td align="center">Двухпарка
+</td>
+<td align="left" rowspan="2">Заводские танк-паровозы или узкоколейные паровозы.
+</td></tr>
+<tr>
+<td align="center">6
+</td>
+<td align="center">OO o
+</td>
+<td align="center"><a class="new" href="/w/index.php?title=0-2-1&amp;action=edit&amp;redlink=1" title="0-2-1 (страница отсутствует)">0-2-1</a>
+</td>
+<td align="center">—
+</td></tr>
+<tr>
+<td align="center">7
+</td>
+<td align="center">OO oo
+</td>
+<td align="center"><a href="/wiki/0-2-2" title="0-2-2">0-2-2</a>
+</td>
+<td align="center" rowspan="2">Форней (Forney)
+</td>
+<td align="left" rowspan="2">Быстроходные танк-паровозы и полутанки для пригородного движения (Англия и Америка)
+</td></tr>
+<tr>
+<td align="center">8
+</td>
+<td align="center">OO ooo
+</td>
+<td align="center"><a class="new" href="/w/index.php?title=0-2-3&amp;action=edit&amp;redlink=1" title="0-2-3 (страница отсутствует)">0-2-3</a>
+</td></tr>
+<tr>
+<td align="center">9
+</td>
+<td align="center">o OO
+</td>
+<td align="center"><a href="/wiki/1-2-0" title="1-2-0">1-2-0</a>
+</td>
+<td align="center">—
+</td>
+<td align="left">В Англии ещё встречаются ввиду простоты.
+</td></tr>
+<tr>
+<td align="center">10
+</td>
+<td align="center">o OO o
+</td>
+<td align="center"><a href="/wiki/1-2-1" title="1-2-1">1-2-1</a>
+</td>
+<td align="center">Колумбия (Columbia)
+</td>
+<td align="left">Танк-паровозы и паровозы с тендерами для пригородного движения. Распространены мало.
+</td></tr>
+<tr>
+<td align="center">11
+</td>
+<td align="center">o OO oo
+</td>
+<td align="center"><a class="new" href="/w/index.php?title=1-2-2&amp;action=edit&amp;redlink=1" title="1-2-2 (страница отсутствует)">1-2-2</a>
+</td>
+<td align="center">—
+</td>
+<td align="left" rowspan="2">Распространены мало.
+</td></tr>
+<tr>
+<td align="center">12
+</td>
+<td align="center">o OO ooo
+</td>
+<td align="center"><a class="new" href="/w/index.php?title=1-2-3&amp;action=edit&amp;redlink=1" title="1-2-3 (страница отсутствует)">1-2-3</a>
+</td>
+<td align="center">—
+</td></tr>
+<tr>
+<td align="center">13
+</td>
+<td align="center">oo OO
+</td>
+<td align="center"><a href="/wiki/2-2-0" title="2-2-0">2-2-0</a>
+</td>
+<td align="center">Америкен (American)
+</td>
+<td align="left">Очень распространённый класс быстроходных паровозов. Считается устаревшим из-за малого котла и заменяется классом № 14.
+</td></tr>
+<tr>
+<td align="center">14
+</td>
+<td align="center">oo OO o
+</td>
+<td align="center"><a class="new" href="/w/index.php?title=2-2-1&amp;action=edit&amp;redlink=1" title="2-2-1 (страница отсутствует)">2-2-1</a>
+</td>
+<td align="center">Атлантик (Atlantic)
+</td>
+<td align="left">Лучший современный класс быстроходных паровозов. Вытесняет класс № 13.
+</td></tr>
+<tr>
+<td align="center">15
+</td>
+<td align="center">oo OO oo
+</td>
+<td align="center"><a class="new" href="/w/index.php?title=2-2-2&amp;action=edit&amp;redlink=1" title="2-2-2 (страница отсутствует)">2-2-2</a>
+</td>
+<td align="center">Ридинг
+</td>
+<td align="left">Новейший класс быстроходных паровозов и танк-паровозов. Встречается ещё редко.
+</td></tr>
+<tr>
+<td align="center">16
+</td>
+<td align="center">oo OO ooo
+</td>
+<td align="center"><a class="new" href="/w/index.php?title=2-2-3&amp;action=edit&amp;redlink=1" title="2-2-3 (страница отсутствует)">2-2-3</a>
+</td>
+<td align="center">—
+</td>
+<td align="left">Полутанк-паровозы. Встречаюстя редко.
+</td></tr>
+<tr>
+<th colspan="5">Тип C — три спаренных оси
+</th></tr>
+<tr>
+<th>Класс
+</th>
+<th>Схема
+</th>
+<th>Осевая формула
+</th>
+<th>Название
+</th>
+<th>Примечание
+</th></tr>
+<tr>
+<td align="center">17
+</td>
+<td align="center">OOO
+</td>
+<td align="center"><a href="/wiki/0-3-0" title="0-3-0">0-3-0</a>
+</td>
+<td align="center">Трёхпарка
+</td>
+<td align="left">Устаревший класс пассажирских и слабосильных товарных паровозов.
+</td></tr>
+<tr>
+<td align="center">18
+</td>
+<td align="center">OOO o
+</td>
+<td align="center"><a href="/wiki/0-3-1" title="0-3-1">0-3-1</a>
+</td>
+<td align="center">—
+</td>
+<td align="left" rowspan="2">Танк-паровозы. Встречаются редко.
+</td></tr>
+<tr>
+<td align="center">19
+</td>
+<td align="center">OOO oo
+</td>
+<td align="center"><a href="/wiki/0-3-2" title="0-3-2">0-3-2</a>
+</td>
+<td align="center">Форней трёхспаренный
+</td></tr>
+<tr>
+<td align="center">20
+</td>
+<td align="center">o OOO
+</td>
+<td align="center"><a href="/wiki/1-3-0" title="1-3-0">1-3-0</a>
+</td>
+<td align="center">Могул (Mogul)
+</td>
+<td align="left">Распространённый класс пассажирских паровозов. Более не строится, и вытесняется классами № 25 и 21.
+</td></tr>
+<tr>
+<td align="center">21
+</td>
+<td align="center">o OOO o
+</td>
+<td align="center"><a href="/wiki/1-3-1" title="1-3-1">1-3-1</a>
+</td>
+<td align="center">Прери (Prairie)
+</td>
+<td align="left">Наиболее распространённый в СССР класс пассажирских паровозов с тендерами и танк-паровозов (например, <a class="mw-redirect" href="/wiki/%D0%9F%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7_%D0%A1%D1%83" title="Паровоз Су">С<sup>у</sup></a>).
+</td></tr>
+<tr>
+<td align="center">22
+</td>
+<td align="center">o OOO oo
+</td>
+<td align="center"><a class="new" href="/w/index.php?title=1-3-2&amp;action=edit&amp;redlink=1" title="1-3-2 (страница отсутствует)">1-3-2</a>
+</td>
+<td align="center">Адриатик (Adriatic)
+</td>
+<td align="left" rowspan="2">Встречаются редко.
+</td></tr>
+<tr>
+<td align="center">23
+</td>
+<td align="center">o OOO ooo
+</td>
+<td align="center"><a class="new" href="/w/index.php?title=1-3-3&amp;action=edit&amp;redlink=1" title="1-3-3 (страница отсутствует)">1-3-3</a>
+</td>
+<td align="center">—
+</td></tr>
+<tr>
+<td align="center">24
+</td>
+<td align="center">oo OOO
+</td>
+<td align="center"><a href="/wiki/2-3-0" title="2-3-0">2-3-0</a>
+</td>
+<td align="center">Десятиколёсник (Ten-wheeler)
+</td>
+<td align="left">Распространённый класс пассажирских паровозов
+</td></tr>
+<tr>
+<td align="center">25
+</td>
+<td align="center">oo OOO o
+</td>
+<td align="center"><a href="/wiki/2-3-1" title="2-3-1">2-3-1</a>
+</td>
+<td align="center">Пасифик (Pacific)
+</td>
+<td align="left">Новейший, наиболее мощный класс пассажирских паровозов.
+</td></tr>
+<tr>
+<td align="center">26
+</td>
+<td align="center">oo OOO oo
+</td>
+<td align="center"><a href="/wiki/2-3-2" title="2-3-2">2-3-2</a>
+</td>
+<td align="center">Балтик (Baltic)
+</td>
+<td align="left">То же, что и класс № 25, но обычно — танк-паровозы.
+</td></tr>
+<tr>
+<td align="center">27
+</td>
+<td align="center">oo OOO ooo
+</td>
+<td align="center"><a class="new" href="/w/index.php?title=2-3-3&amp;action=edit&amp;redlink=1" title="2-3-3 (страница отсутствует)">2-3-3</a>
+</td>
+<td align="center">—
+</td>
+<td align="left">Полутанк-паровозы. Встречаются редко.
+</td></tr>
+<tr>
+<th colspan="5">Тип D — Четыре спаренных оси
+</th></tr>
+<tr>
+<th>Класс
+</th>
+<th>Схема
+</th>
+<th>Осевая формула
+</th>
+<th>Название
+</th>
+<th>Примечание
+</th></tr>
+<tr>
+<td align="center">28
+</td>
+<td align="center">OOOO
+</td>
+<td align="center"><a href="/wiki/0-4-0" title="0-4-0">0-4-0</a>
+</td>
+<td align="center">Четырёхпарка
+</td>
+<td align="left">Устаревший, слабосильный, нормальный тип (товарный), очень распространённый. Вытесняется более мощными типами.
+</td></tr>
+<tr>
+<td align="center">29
+</td>
+<td align="center">OOOO o
+</td>
+<td align="center"><a href="/wiki/0-4-1" title="0-4-1">0-4-1</a>
+</td>
+<td align="center">—
+</td>
+<td align="left" rowspan="2">Танк-паровозы. Встречаются редко.
+</td></tr>
+<tr>
+<td align="center">30
+</td>
+<td align="center">OOOO oo
+</td>
+<td align="center"><a class="new" href="/w/index.php?title=0-4-2&amp;action=edit&amp;redlink=1" title="0-4-2 (страница отсутствует)">0-4-2</a>
+</td>
+<td align="center">—
+</td></tr>
+<tr>
+<td align="center">31
+</td>
+<td align="center">o OOOO
+</td>
+<td align="center"><a href="/wiki/1-4-0" title="1-4-0">1-4-0</a>
+</td>
+<td align="center">Консолидейшен (Consolidation)
+</td>
+<td align="left">Современный очень распространённый класс товарных паровозов.
+</td></tr>
+<tr>
+<td align="center">32
+</td>
+<td align="center">o OOOO o
+</td>
+<td align="center"><a href="/wiki/1-4-1" title="1-4-1">1-4-1</a>
+</td>
+<td align="center">Микадо (Mikado)
+</td>
+<td align="left">Распространён преимущественно в Северной Америке и Западной Европе. Употребительный класс товарных, а в последнее время и пассажирских паровозов.
+</td></tr>
+<tr>
+<td align="center">33
+</td>
+<td align="center">o OOOO oo
+</td>
+<td align="center"><a href="/wiki/1-4-2" title="1-4-2">1-4-2</a>
+</td>
+<td align="center">Ходсон
+</td>
+<td align="left">Танк-паровозы. Встречаются редко.
+</td></tr>
+<tr>
+<td align="center">34
+</td>
+<td align="center">oo OOOO
+</td>
+<td align="center"><a href="/wiki/2-4-0" title="2-4-0">2-4-0</a>
+</td>
+<td align="center">Мастодонт или двенадцатиколёсный
+</td>
+<td align="left">Быстроходные товарные и новейшие пассажирские паровозы. В последнее время название «Мастодонт» стали применять к паровозам <span class="nowrap">2-5-0</span> и <span class="nowrap">2-5-1,</span> почему класс <span class="nowrap">2-4-0</span> называется чаще двенадцатиколёсным (Twelve-wheeler). Например, <a class="mw-redirect" href="/wiki/%D0%9F%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7_%D0%9C" title="Паровоз М">М</a>.
+</td></tr>
+<tr>
+<td align="center">35
+</td>
+<td align="center">oo OOOO o
+</td>
+<td align="center"><a href="/wiki/2-4-1" title="2-4-1">2-4-1</a>
+</td>
+<td align="center">Маунтен или Сьерра
+</td>
+<td align="left">Быстроходные товарные и новейшие пассажирские паровозы. В Америке называется «Гудзон».
+</td></tr>
+<tr>
+<td align="center">36
+</td>
+<td align="center">oo OOOO oo
+</td>
+<td align="center"><a href="/wiki/2-4-2" title="2-4-2">2-4-2</a>
+</td>
+<td align="center">—
+</td>
+<td align="left">Встречаются редко (например, <a class="mw-redirect" href="/wiki/%D0%9F%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7_%D0%9F36" title="Паровоз П36">П36</a>).
+</td></tr>
+<tr>
+<th colspan="5">Тип E — Пять спаренных осей
+</th></tr>
+<tr>
+<th>Класс
+</th>
+<th>Схема
+</th>
+<th>Осевая формула
+</th>
+<th>Название
+</th>
+<th>Примечание
+</th></tr>
+<tr>
+<td align="center">37
+</td>
+<td align="center">OOOOO
+</td>
+<td align="center"><a href="/wiki/0-5-0" title="0-5-0">0-5-0</a>
+</td>
+<td align="center">Пятипарка
+</td>
+<td align="left" rowspan="2">Мощные товарные паровозы. Распространяются в Западной Европе и СССР, но начинают заменяться типами № 39 и 40.
+</td></tr>
+<tr>
+<td align="center">38
+</td>
+<td align="center">o OOOOO
+</td>
+<td align="center"><a href="/wiki/1-5-0" title="1-5-0">1-5-0</a>
+</td>
+<td align="center">Декапод (Decapod)
+</td></tr>
+<tr>
+<td align="center">39
+</td>
+<td align="center">o OOOOO o
+</td>
+<td align="center"><a href="/wiki/1-5-1" title="1-5-1">1-5-1</a>
+</td>
+<td align="center">Санта-Фе (Santa Fe)
+</td>
+<td align="left">Паровозы с тендерами или танк-паровозы. На дорогах Северной Америки нормальный тип на дорогах тяжёлого профиля.
+</td></tr>
+<tr>
+<td align="center">40
+</td>
+<td align="center">o OOOOO oo
+</td>
+<td align="center"><a href="/wiki/1-5-2" title="1-5-2">1-5-2</a>
+</td>
+<td align="center">Техас (Texas)
+</td>
+<td align="left">Современные мощные товарные паровозы с большими колосниковыми решётками.
+</td></tr>
+<tr>
+<td align="center">41
+</td>
+<td align="center">oo OOOOO
+</td>
+<td align="center"><a class="new" href="/w/index.php?title=2-5-0&amp;action=edit&amp;redlink=1" title="2-5-0 (страница отсутствует)">2-5-0</a>
+</td>
+<td align="center" rowspan="2">Мастодонт (Mastodon)
+</td>
+<td align="left" rowspan="2">Новые мощные товарные и пассажирские паровозы.
+</td></tr>
+<tr>
+<td align="center">42
+</td>
+<td align="center">oo OOOOO o
+</td>
+<td align="center"><a class="new" href="/w/index.php?title=2-5-1&amp;action=edit&amp;redlink=1" title="2-5-1 (страница отсутствует)">2-5-1</a>
+</td></tr>
+<tr>
+<th colspan="5">Тип F — Шесть спаренных осей
+</th></tr>
+<tr>
+<th>Класс
+</th>
+<th>Схема
+</th>
+<th>Осевая формула
+</th>
+<th>Название
+</th>
+<th>Примечание
+</th></tr>
+<tr>
+<td align="center">43
+</td>
+<td align="center">OOOOOO
+</td>
+<td align="center"><a class="new" href="/w/index.php?title=0-6-0&amp;action=edit&amp;redlink=1" title="0-6-0 (страница отсутствует)">0-6-0</a>
+</td>
+<td align="center">Шестипарка
+</td>
+<td align="left" rowspan="4">Пока ещё встречаются редко.
+</td></tr>
+<tr>
+<td align="center">44
+</td>
+<td align="center">o OOOOOO
+</td>
+<td align="center"><a class="new" href="/w/index.php?title=1-6-0&amp;action=edit&amp;redlink=1" title="1-6-0 (страница отсутствует)">1-6-0</a>
+</td>
+<td align="center">Центипед
+</td></tr>
+<tr>
+<td align="center">45
+</td>
+<td align="center">o OOOOOO o
+</td>
+<td align="center"><a class="new" href="/w/index.php?title=1-6-1&amp;action=edit&amp;redlink=1" title="1-6-1 (страница отсутствует)">1-6-1</a>
+</td>
+<td align="center">Яваник (Javanic)
+</td></tr>
+<tr>
+<td align="center">46
+</td>
+<td align="center"><span class="nowrap">oo OOOOOO o</span>
+</td>
+<td align="center"><a class="mw-redirect" href="/wiki/%D0%9F%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7_%D1%82%D0%B8%D0%BF%D0%B0_2-6-1" title="Паровоз типа 2-6-1">2-6-1</a>
+</td>
+<td align="center">—
+</td></tr></tbody></table>
+<h2><span id=".D0.A1.D0.BC._.D1.82.D0.B0.D0.BA.D0.B6.D0.B5"></span><span class="mw-headline" id="См._также">См. также</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9E%D1%81%D0%B5%D0%B2%D0%B0%D1%8F_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0_%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B0&amp;veaction=edit&amp;section=14" title="Редактировать раздел «См. также»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9E%D1%81%D0%B5%D0%B2%D0%B0%D1%8F_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0_%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B0&amp;action=edit&amp;section=14" title="Редактировать код раздела «См. также»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/%D0%9E%D1%81%D0%B5%D0%B2%D0%B0%D1%8F_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0_%D1%82%D0%B5%D0%BF%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%B0_%D0%B8_%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B0" title="Осевая формула тепловоза и электровоза">Осевая формула тепловоза и электровоза</a></li>
+<li><a href="/wiki/%D0%9F%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7" title="Паровоз">Паровоз</a></li>
+<li><a href="/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B0" title="История паровоза">История паровоза</a></li>
+<li><a href="/wiki/%D0%A3%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE_%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B0" title="Устройство паровоза">Устройство паровоза</a></li></ul>
+<h2><span id=".D0.9B.D0.B8.D1.82.D0.B5.D1.80.D0.B0.D1.82.D1.83.D1.80.D0.B0"></span><span class="mw-headline" id="Литература">Литература</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9E%D1%81%D0%B5%D0%B2%D0%B0%D1%8F_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0_%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B0&amp;veaction=edit&amp;section=15" title="Редактировать раздел «Литература»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9E%D1%81%D0%B5%D0%B2%D0%B0%D1%8F_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0_%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B0&amp;action=edit&amp;section=15" title="Редактировать код раздела «Литература»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i>Карташёв Н. И.</i> Курс паровозов. — Ч. 1: Общая теория тяги поездов. — <abbr title="Москва">М.</abbr>: ОГИЗ «Гострансиздат», 1931. — 178 с.</li>
+<li><span class="citation no-wikidata" data-wikidata-property-id="P1343" id="CITEREFЖелезнодорожный_транспорт:_Энциклопедия1994"><a class="external text" href="https://search.rsl.ru/ru/record/01001687278" rel="nofollow">Железнодорожный транспорт: энциклопедия</a> / гл. ред. <a href="/wiki/%D0%9A%D0%BE%D0%BD%D0%B0%D1%80%D0%B5%D0%B2,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%A1%D0%B5%D0%BC%D1%91%D0%BD%D0%BE%D0%B2%D0%B8%D1%87" title="Конарев, Николай Семёнович">Н. С. Конарев</a>. — <abbr title="Москва">М.</abbr>: <a href="/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F_%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D1%8D%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F_(%D0%B8%D0%B7%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE)" title="Большая российская энциклопедия (издательство)">Большая российская энциклопедия</a>, 1994. — С. 559. — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/5852701157">ISBN 5-85270-115-7</a>.</span></li></ul>
+<h2><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span><span class="mw-headline" id="Ссылки">Ссылки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9E%D1%81%D0%B5%D0%B2%D0%B0%D1%8F_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0_%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B0&amp;veaction=edit&amp;section=16" title="Редактировать раздел «Ссылки»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9E%D1%81%D0%B5%D0%B2%D0%B0%D1%8F_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0_%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B0&amp;action=edit&amp;section=16" title="Редактировать код раздела «Ссылки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="extiw" href="https://en.wikipedia.org/wiki/Whyte_notation" title="en:Whyte notation">Осевые формулы в американской системе Уайта</a>  <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small>.</li>
+<li><a class="extiw" href="https://en.wikipedia.org/wiki/UIC_classification" title="en:UIC classification">Осевые формулы в европейской системе UIC</a>  <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small>.</li></ul>
+<div aria-labelledby="Осевые_формулы_паровозов" class="navbox" data-name="Осевые формулы паровозов" role="navigation"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%9E%D1%81%D0%B5%D0%B2%D1%8B%D0%B5_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D1%8B_%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%BE%D0%B2" title="Перейти к шаблону «Осевые формулы паровозов»"><img alt="Перейти к шаблону «Осевые формулы паровозов»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span> </span><div id="Осевые_формулы_паровозов" style="font-size:114%;margin:0 5em"><a class="mw-selflink selflink">Осевые формулы</a> <a href="/wiki/%D0%9F%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7" title="Паровоз">паровозов</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1px">Однодвигательные модели</th><td class="navbox-list navbox-odd hlist hlist-items-nowrap" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/0-1-1" title="0-1-1">0-1-1</a></li>
+<li><a href="/wiki/1-1-0" title="1-1-0">1-1-0</a></li>
+<li><a href="/wiki/1-1-1" title="1-1-1">1-1-1</a></li>
+<li><a href="/wiki/1-1-2" title="1-1-2">1-1-2</a></li>
+<li><a href="/wiki/2-1-0" title="2-1-0">2-1-0</a></li>
+<li><a href="/wiki/2-1-1" title="2-1-1">2-1-1</a></li>
+<li><a href="/wiki/2-1-2" title="2-1-2">2-1-2</a></li>
+<li><a class="new" href="/w/index.php?title=3-1-0&amp;action=edit&amp;redlink=1" title="3-1-0 (страница отсутствует)">3-1-0</a></li></ul>
+<ul><li><a href="/wiki/0-2-0" title="0-2-0">0-2-0</a></li>
+<li><a class="new" href="/w/index.php?title=0-2-1&amp;action=edit&amp;redlink=1" title="0-2-1 (страница отсутствует)">0-2-1</a></li>
+<li><a href="/wiki/0-2-2" title="0-2-2">0-2-2</a></li>
+<li><a href="/wiki/1-2-0" title="1-2-0">1-2-0</a></li>
+<li><a href="/wiki/1-2-1" title="1-2-1">1-2-1</a></li>
+<li><a class="new" href="/w/index.php?title=1-2-2&amp;action=edit&amp;redlink=1" title="1-2-2 (страница отсутствует)">1-2-2</a></li>
+<li><a href="/wiki/2-2-0" title="2-2-0">2-2-0</a></li>
+<li><a class="new" href="/w/index.php?title=2-2-1&amp;action=edit&amp;redlink=1" title="2-2-1 (страница отсутствует)">2-2-1</a></li>
+<li><a class="new" href="/w/index.php?title=2-2-2&amp;action=edit&amp;redlink=1" title="2-2-2 (страница отсутствует)">2-2-2</a></li>
+<li><a href="/wiki/3-2-0" title="3-2-0">3-2-0</a></li></ul>
+<ul><li><a href="/wiki/0-3-0" title="0-3-0">0-3-0</a></li>
+<li><a href="/wiki/0-3-1" title="0-3-1">0-3-1</a></li>
+<li><a href="/wiki/0-3-2" title="0-3-2">0-3-2</a></li>
+<li><a href="/wiki/1-3-0" title="1-3-0">1-3-0</a></li>
+<li><a href="/wiki/1-3-1" title="1-3-1">1-3-1</a></li>
+<li><a class="new" href="/w/index.php?title=1-3-2&amp;action=edit&amp;redlink=1" title="1-3-2 (страница отсутствует)">1-3-2</a></li>
+<li><a class="new" href="/w/index.php?title=1-3-3&amp;action=edit&amp;redlink=1" title="1-3-3 (страница отсутствует)">1-3-3</a></li>
+<li><a href="/wiki/2-3-0" title="2-3-0">2-3-0</a></li>
+<li><a href="/wiki/2-3-1" title="2-3-1">2-3-1</a></li>
+<li><a href="/wiki/2-3-2" title="2-3-2">2-3-2</a></li></ul>
+<ul><li><a href="/wiki/0-4-0" title="0-4-0">0-4-0</a></li>
+<li><a href="/wiki/0-4-1" title="0-4-1">0-4-1</a></li>
+<li><a class="new" href="/w/index.php?title=0-4-2&amp;action=edit&amp;redlink=1" title="0-4-2 (страница отсутствует)">0-4-2</a></li>
+<li><a href="/wiki/1-4-0" title="1-4-0">1-4-0</a></li>
+<li><a href="/wiki/1-4-1" title="1-4-1">1-4-1</a></li>
+<li><a href="/wiki/1-4-2" title="1-4-2">1-4-2</a></li>
+<li><a class="new" href="/w/index.php?title=1-4-3&amp;action=edit&amp;redlink=1" title="1-4-3 (страница отсутствует)">1-4-3</a></li>
+<li><a href="/wiki/2-4-0" title="2-4-0">2-4-0</a></li>
+<li><a href="/wiki/2-4-1" title="2-4-1">2-4-1</a></li>
+<li><a href="/wiki/2-4-2" title="2-4-2">2-4-2</a></li>
+<li><a class="new" href="/w/index.php?title=2-4-3&amp;action=edit&amp;redlink=1" title="2-4-3 (страница отсутствует)">2-4-3</a></li>
+<li><a class="new" href="/w/index.php?title=3-4-3&amp;action=edit&amp;redlink=1" title="3-4-3 (страница отсутствует)">3-4-3</a></li></ul>
+<ul><li><a href="/wiki/0-5-0" title="0-5-0">0-5-0</a></li>
+<li><a class="new" href="/w/index.php?title=0-5-1&amp;action=edit&amp;redlink=1" title="0-5-1 (страница отсутствует)">0-5-1</a></li>
+<li><a href="/wiki/1-5-0" title="1-5-0">1-5-0</a></li>
+<li><a href="/wiki/1-5-1" title="1-5-1">1-5-1</a></li>
+<li><a href="/wiki/1-5-2" title="1-5-2">1-5-2</a></li>
+<li><a class="new" href="/w/index.php?title=2-5-0&amp;action=edit&amp;redlink=1" title="2-5-0 (страница отсутствует)">2-5-0</a></li>
+<li><a class="new" href="/w/index.php?title=2-5-1&amp;action=edit&amp;redlink=1" title="2-5-1 (страница отсутствует)">2-5-1</a></li></ul>
+<ul><li><a class="new" href="/w/index.php?title=0-6-0&amp;action=edit&amp;redlink=1" title="0-6-0 (страница отсутствует)">0-6-0</a></li>
+<li><a class="new" href="/w/index.php?title=1-6-0&amp;action=edit&amp;redlink=1" title="1-6-0 (страница отсутствует)">1-6-0</a></li>
+<li><a class="new" href="/w/index.php?title=1-6-2&amp;action=edit&amp;redlink=1" title="1-6-2 (страница отсутствует)">1-6-2</a></li>
+<li><a class="new" href="/w/index.php?title=1-6-2&amp;action=edit&amp;redlink=1" title="1-6-2 (страница отсутствует)">1-6-2</a></li>
+<li><a class="mw-redirect" href="/wiki/%D0%9F%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7_%D1%82%D0%B8%D0%BF%D0%B0_2-6-1" title="Паровоз типа 2-6-1">2-6-1</a></li>
+<li><a href="/wiki/2-7-2" title="2-7-2">2-7-2</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Двухдвигательные модели</th><td class="navbox-list navbox-even hlist hlist-items-nowrap" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="new" href="/w/index.php?title=2-2-2-2&amp;action=edit&amp;redlink=1" title="2-2-2-2 (страница отсутствует)">2-2-2-2</a></li>
+<li><a class="new" href="/w/index.php?title=3-2-2-3&amp;action=edit&amp;redlink=1" title="3-2-2-3 (страница отсутствует)">3-2-2-3</a></li>
+<li><a class="new" href="/w/index.php?title=2-2-3-2&amp;action=edit&amp;redlink=1" title="2-2-3-2 (страница отсутствует)">2-2-3-2</a></li>
+<li><a class="new" href="/w/index.php?title=2-3-2-2&amp;action=edit&amp;redlink=1" title="2-3-2-2 (страница отсутствует)">2-3-2-2</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/%D0%9F%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B_%D0%93%D0%B0%D1%80%D1%80%D0%B0%D1%82%D1%82" title="Паровоз системы Гарратт">Системы Гарратт</a></th><td class="navbox-list navbox-odd hlist hlist-items-nowrap" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="new" href="/w/index.php?title=0-2-0%E2%80%940-2-0&amp;action=edit&amp;redlink=1" title="0-2-0—0-2-0 (страница отсутствует)">0-2-0—0-2-0</a></li>
+<li><a class="new" href="/w/index.php?title=1-3-0%E2%80%940-3-1&amp;action=edit&amp;redlink=1" title="1-3-0—0-3-1 (страница отсутствует)">1-3-0—0-3-1</a></li>
+<li><a class="new" href="/w/index.php?title=2-3-1%E2%80%941-3-2&amp;action=edit&amp;redlink=1" title="2-3-1—1-3-2 (страница отсутствует)">2-3-1—1-3-2</a></li>
+<li><a class="new" href="/w/index.php?title=1-4-0%E2%80%940-4-2&amp;action=edit&amp;redlink=1" title="1-4-0—0-4-2 (страница отсутствует)">1-4-0—0-4-2</a></li>
+<li><a class="new" href="/w/index.php?title=1-4-2%E2%80%942-4-2&amp;action=edit&amp;redlink=1" title="1-4-2—2-4-2 (страница отсутствует)">1-4-2—2-4-2</a></li>
+<li><a class="new" href="/w/index.php?title=2-4-1%E2%80%941-4-2&amp;action=edit&amp;redlink=1" title="2-4-1—1-4-2 (страница отсутствует)">2-4-1—1-4-2</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/%D0%9C%D0%B0%D0%BB%D0%BB%D0%B5_(%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7)" title="Малле (паровоз)">Системы Малле</a></th><td class="navbox-list navbox-even hlist hlist-items-nowrap" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="new" href="/w/index.php?title=0-2-0%2B0-2-0&amp;action=edit&amp;redlink=1" title="0-2-0+0-2-0 (страница отсутствует)">0-2-0+0-2-0</a></li>
+<li><a class="new" href="/w/index.php?title=0-2-0%2B0-2-1&amp;action=edit&amp;redlink=1" title="0-2-0+0-2-1 (страница отсутствует)">0-2-0+0-2-1</a></li>
+<li><a class="new" href="/w/index.php?title=1-2-0%2B0-2-0&amp;action=edit&amp;redlink=1" title="1-2-0+0-2-0 (страница отсутствует)">1-2-0+0-2-0</a></li>
+<li><a class="new" href="/w/index.php?title=1-2-0%2B0-2-1&amp;action=edit&amp;redlink=1" title="1-2-0+0-2-1 (страница отсутствует)">1-2-0+0-2-1</a></li></ul>
+<ul><li><a class="new" href="/w/index.php?title=0-3-0%2B0-3-0&amp;action=edit&amp;redlink=1" title="0-3-0+0-3-0 (страница отсутствует)">0-3-0+0-3-0</a></li>
+<li><a class="new" href="/w/index.php?title=1-3-0%2B0-3-0&amp;action=edit&amp;redlink=1" title="1-3-0+0-3-0 (страница отсутствует)">1-3-0+0-3-0</a></li>
+<li><a class="new" href="/w/index.php?title=1-3-0%2B0-3-1&amp;action=edit&amp;redlink=1" title="1-3-0+0-3-1 (страница отсутствует)">1-3-0+0-3-1</a></li>
+<li><a class="new" href="/w/index.php?title=1-3-0%2B0-3-2&amp;action=edit&amp;redlink=1" title="1-3-0+0-3-2 (страница отсутствует)">1-3-0+0-3-2</a></li>
+<li><a class="new" href="/w/index.php?title=1-3-0%2B0-3-3&amp;action=edit&amp;redlink=1" title="1-3-0+0-3-3 (страница отсутствует)">1-3-0+0-3-3</a></li>
+<li><a class="new" href="/w/index.php?title=1-3-0%2B0-4-0&amp;action=edit&amp;redlink=1" title="1-3-0+0-4-0 (страница отсутствует)">1-3-0+0-4-0</a></li>
+<li><a class="new" href="/w/index.php?title=2-3-0%2B0-3-1&amp;action=edit&amp;redlink=1" title="2-3-0+0-3-1 (страница отсутствует)">2-3-0+0-3-1</a></li>
+<li><a href="/wiki/2-3-0%2B0-3-2" title="2-3-0+0-3-2">2-3-0+0-3-2</a></li></ul>
+<ul><li><a class="new" href="/w/index.php?title=0-4-0%2B0-4-0&amp;action=edit&amp;redlink=1" title="0-4-0+0-4-0 (страница отсутствует)">0-4-0+0-4-0</a></li>
+<li><a class="new" href="/w/index.php?title=1-4-0%2B0-4-0&amp;action=edit&amp;redlink=1" title="1-4-0+0-4-0 (страница отсутствует)">1-4-0+0-4-0</a></li>
+<li><a class="new" href="/w/index.php?title=1-4-0%2B0-4-1&amp;action=edit&amp;redlink=1" title="1-4-0+0-4-1 (страница отсутствует)">1-4-0+0-4-1</a></li>
+<li><a class="new" href="/w/index.php?title=1-4-0%2B0-4-2&amp;action=edit&amp;redlink=1" title="1-4-0+0-4-2 (страница отсутствует)">1-4-0+0-4-2</a></li>
+<li><a class="new" href="/w/index.php?title=2-4-0%2B0-4-1&amp;action=edit&amp;redlink=1" title="2-4-0+0-4-1 (страница отсутствует)">2-4-0+0-4-1</a></li>
+<li><a class="new" href="/w/index.php?title=2-4-0%2B0-4-2&amp;action=edit&amp;redlink=1" title="2-4-0+0-4-2 (страница отсутствует)">2-4-0+0-4-2</a></li></ul>
+<ul><li><a class="new" href="/w/index.php?title=1-5-0%2B0-5-1&amp;action=edit&amp;redlink=1" title="1-5-0+0-5-1 (страница отсутствует)">1-5-0+0-5-1</a></li>
+<li><a class="new" href="/w/index.php?title=1-4-0%2B0-4-0%2B0-4-1&amp;action=edit&amp;redlink=1" title="1-4-0+0-4-0+0-4-1 (страница отсутствует)">1-4-0+0-4-0+0-4-1</a></li>
+<li><a class="new" href="/w/index.php?title=1-4-0%2B0-4-0%2B0-4-2&amp;action=edit&amp;redlink=1" title="1-4-0+0-4-0+0-4-2 (страница отсутствует)">1-4-0+0-4-0+0-4-2</a></li></ul>
+</div></td></tr></tbody></table></div>
+<table class="mbox-Нет_сносок plainlinks metadata ambox ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Emblem-important.svg"><img alt="" class="mw-file-element" data-file-height="48" data-file-width="48" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Emblem-important.svg/40px-Emblem-important.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Emblem-important.svg/60px-Emblem-important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Emblem-important.svg/80px-Emblem-important.svg.png 2x" width="40"/></a></span></div></td><td class="mbox-text"><div class="mbox-text-div">В статье есть список <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D1%82%D0%BD%D1%8B%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8" title="Википедия:Авторитетные источники">источников</a>, но <b>не хватает <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BD%D0%BE%D1%81%D0%BA%D0%B8" title="Википедия:Сноски">сносок</a></b>.</div><div class="mbox-textsmall-div hide-when-compact" style="font-size:85%"><span class="hide-when-compact"> Без сносок сложно <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D1%8F%D0%B5%D0%BC%D0%BE%D1%81%D1%82%D1%8C" title="Википедия:Проверяемость">определить, из какого источника</a> взято каждое отдельное утверждение. Вы можете улучшить статью, проставив <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D0%BD%D0%B0_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8" title="Википедия:Ссылки на источники">сноски на источники</a>, подтверждающие информацию. Сведения без сносок <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D1%82%D0%BD%D1%8B%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8#Материал_без_источников" title="Википедия:Авторитетные источники">могут быть удалены</a>.</span> <span class="mbox-date"><i>(<span class="date">3 июня 2011</span>)</i></span></div></td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw‐api‐int.codfw.main‐c8bf9fb8b‐mbs4v
+Cached time: 20240207180829
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.174 seconds
+Real time usage: 0.224 seconds
+Preprocessor visited node count: 709/1000000
+Post‐expand include size: 20482/2097152 bytes
+Template argument size: 1268/2097152 bytes
+Highest expansion depth: 11/100
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 1628/5000000 bytes
+Lua time usage: 0.033/10.000 seconds
+Lua memory usage: 1404678/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  125.964      1 -total
+ 27.47%   34.600      1 Шаблон:Нет_сносок
+ 25.87%   32.582      1 Шаблон:Книга:Железнодорожный_транспорт:_Энциклопедия
+ 23.82%   30.009      1 Шаблон:Ambox
+ 23.49%   29.587      1 Шаблон:Книга
+ 22.98%   28.952      1 Шаблон:Main
+ 14.54%   18.309      1 Шаблон:Осевые_формулы_паровозов
+ 13.10%   16.501      1 Шаблон:Навигационная_таблица
+  3.25%    4.097      2 Шаблон:Ref-en
+  2.24%    2.822      3 Шаблон:Lang-de
+-->
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:356839-0!canonical and timestamp 20240207180829 and revision id 132601306. Rendering was triggered because: api-parse
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> -->
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Осевая_формула_паровоза&amp;oldid=132601306">https://ru.wikipedia.org/w/index.php?title=Осевая_формула_паровоза&amp;oldid=132601306</a></div></div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категория</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A3%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE_%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B0" title="Категория:Устройство паровоза">Устройство паровоза</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%B1%D0%B5%D0%B7_%D1%81%D0%BD%D0%BE%D1%81%D0%BE%D0%BA_%D1%81_%D0%B8%D1%8E%D0%BD%D1%8F_2011_%D0%B3%D0%BE%D0%B4%D0%B0" title="Категория:Википедия:Статьи без сносок с июня 2011 года">Википедия:Статьи без сносок с июня 2011 года</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%B1%D0%B5%D0%B7_%D1%81%D0%BD%D0%BE%D1%81%D0%BE%D0%BA" title="Категория:Википедия:Статьи без сносок">Википедия:Статьи без сносок</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B,_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D0%B2%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_ISBN" title="Категория:Страницы, использующие волшебные ссылки ISBN">Страницы, использующие волшебные ссылки ISBN</a></li></ul></div></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Навигация</h2>
+<div id="mw-head">
+<nav aria-labelledby="p-personal-label" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" id="p-personal" role="navigation">
+<h3 class="vector-menu-heading" id="p-personal-label">
+<span class="vector-menu-heading-label">Персональные инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="pt-anonuserpage"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li class="mw-list-item" id="pt-anontalk"><a accesskey="n" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]"><span>Обсуждение</span></a></li><li class="mw-list-item" id="pt-anoncontribs"><a accesskey="y" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]"><span>Вклад</span></a></li><li class="mw-list-item" id="pt-createaccount"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%9E%D1%81%D0%B5%D0%B2%D0%B0%D1%8F+%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0+%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B0" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li class="mw-list-item" id="pt-login"><a accesskey="o" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%9E%D1%81%D0%B5%D0%B2%D0%B0%D1%8F+%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0+%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B0" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]"><span>Войти</span></a></li>
+</ul>
+</div>
+</nav>
+<div id="left-navigation">
+<nav aria-labelledby="p-namespaces-label" class="mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-namespaces" role="navigation">
+<h3 class="vector-menu-heading" id="p-namespaces-label">
+<span class="vector-menu-heading-label">Пространства имён</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-nstab-main"><a accesskey="c" href="/wiki/%D0%9E%D1%81%D0%B5%D0%B2%D0%B0%D1%8F_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0_%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B0" title="Просмотреть контентную страницу [c]"><span>Статья</span></a></li><li class="mw-list-item" id="ca-talk"><a accesskey="t" href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%9E%D1%81%D0%B5%D0%B2%D0%B0%D1%8F_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0_%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B0" rel="discussion" title="Обсуждение основной страницы [t]"><span>Обсуждение</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-variants-label" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" id="p-variants" role="navigation">
+<input aria-haspopup="true" aria-labelledby="p-variants-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-variants" id="p-variants-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-variants-label">
+<span class="vector-menu-heading-label">русский</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+</div>
+<div id="right-navigation">
+<nav aria-labelledby="p-views-label" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-views" role="navigation">
+<h3 class="vector-menu-heading" id="p-views-label">
+<span class="vector-menu-heading-label">Просмотры</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="ca-view"><a href="/w/index.php?title=%D0%9E%D1%81%D0%B5%D0%B2%D0%B0%D1%8F_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0_%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B0&amp;stable=1"><span>Читать</span></a></li><li class="collapsible selected mw-list-item" id="ca-current"><a accesskey="v" href="/w/index.php?title=%D0%9E%D1%81%D0%B5%D0%B2%D0%B0%D1%8F_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0_%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B0&amp;stable=0&amp;redirect=no" title="Показать текущую версию этой страницы [v]"><span>Текущая версия</span></a></li><li class="mw-list-item" id="ca-ve-edit"><a accesskey="v" href="/w/index.php?title=%D0%9E%D1%81%D0%B5%D0%B2%D0%B0%D1%8F_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0_%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B0&amp;veaction=edit" title="Редактировать данную страницу [v]"><span>Править</span></a></li><li class="collapsible mw-list-item" id="ca-edit"><a accesskey="e" href="/w/index.php?title=%D0%9E%D1%81%D0%B5%D0%B2%D0%B0%D1%8F_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0_%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B0&amp;action=edit" title="Править исходный текст этой страницы [e]"><span>Править код</span></a></li><li class="mw-list-item" id="ca-history"><a accesskey="h" href="/w/index.php?title=%D0%9E%D1%81%D0%B5%D0%B2%D0%B0%D1%8F_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0_%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B0&amp;action=history" title="Журнал изменений страницы [h]"><span>История</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-cactions-label" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" id="p-cactions" role="navigation" title="Больше возможностей">
+<input aria-haspopup="true" aria-labelledby="p-cactions-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-cactions" id="p-cactions-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-cactions-label">
+<span class="vector-menu-heading-label">Ещё</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+<div class="vector-search-box-vue vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box" id="p-search" role="search">
+<h3>Поиск</h3>
+<form action="/w/index.php" class="vector-search-box-form" id="searchform">
+<div class="vector-search-box-inner" data-search-loc="header-navigation" id="simpleSearch">
+<input accesskey="f" aria-label="Искать в Википедии" autocapitalize="sentences" class="vector-search-box-input" id="searchInput" name="search" placeholder="Искать в Википедии" title="Искать в Википедии [f]" type="search"/>
+<input name="title" type="hidden" value="Служебная:Поиск"/>
+<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Найти страницы, содержащие указанный текст" type="submit" value="Найти"/>
+<input class="searchButton" id="searchButton" name="go" title="Перейти к странице, имеющей в точности такое название" type="submit" value="Перейти"/>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="vector-legacy-sidebar" id="mw-panel">
+<div id="p-logo" role="banner">
+<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу"></a>
+</div>
+<nav aria-labelledby="p-navigation-label" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" id="p-navigation" role="navigation">
+<h3 class="vector-menu-heading" id="p-navigation-label">
+<span class="vector-menu-heading-label">Навигация</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-mainpage-description"><a accesskey="z" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]"><span>Заглавная страница</span></a></li><li class="mw-list-item" id="n-content"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li class="mw-list-item" id="n-featured"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li class="mw-list-item" id="n-randompage"><a accesskey="x" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]"><span>Случайная статья</span></a></li><li class="mw-list-item" id="n-currentevents"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li class="mw-list-item" id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-participation-label" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" id="p-participation" role="navigation">
+<h3 class="vector-menu-heading" id="p-participation-label">
+<span class="vector-menu-heading-label">Участие</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-bug_in_article"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li class="mw-list-item" id="n-introduction"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li class="mw-list-item" id="n-portal"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li class="mw-list-item" id="n-forum"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li class="mw-list-item" id="n-recentchanges"><a accesskey="r" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]"><span>Свежие правки</span></a></li><li class="mw-list-item" id="n-newpages"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li class="mw-list-item" id="n-help"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-tb-label" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" id="p-tb" role="navigation">
+<h3 class="vector-menu-heading" id="p-tb-label">
+<span class="vector-menu-heading-label">Инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="t-whatlinkshere"><a accesskey="j" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%9E%D1%81%D0%B5%D0%B2%D0%B0%D1%8F_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0_%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B0" title="Список всех страниц, ссылающихся на данную [j]"><span>Ссылки сюда</span></a></li><li class="mw-list-item" id="t-recentchangeslinked"><a accesskey="k" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%9E%D1%81%D0%B5%D0%B2%D0%B0%D1%8F_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0_%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B0" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]"><span>Связанные правки</span></a></li><li class="mw-list-item" id="t-specialpages"><a accesskey="q" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]"><span>Служебные страницы</span></a></li><li class="mw-list-item" id="t-permalink"><a href="/w/index.php?title=%D0%9E%D1%81%D0%B5%D0%B2%D0%B0%D1%8F_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0_%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B0&amp;oldid=132601306" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li class="mw-list-item" id="t-info"><a href="/w/index.php?title=%D0%9E%D1%81%D0%B5%D0%B2%D0%B0%D1%8F_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0_%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B0&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li class="mw-list-item" id="t-cite"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%9E%D1%81%D0%B5%D0%B2%D0%B0%D1%8F_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0_%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B0&amp;id=132601306&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li class="mw-list-item" id="t-urlshortener"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%259E%25D1%2581%25D0%25B5%25D0%25B2%25D0%25B0%25D1%258F_%25D1%2584%25D0%25BE%25D1%2580%25D0%25BC%25D1%2583%25D0%25BB%25D0%25B0_%25D0%25BF%25D0%25B0%25D1%2580%25D0%25BE%25D0%25B2%25D0%25BE%25D0%25B7%25D0%25B0"><span>Получить короткий URL</span></a></li><li class="mw-list-item" id="t-urlshortener-qrcode"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%259E%25D1%2581%25D0%25B5%25D0%25B2%25D0%25B0%25D1%258F_%25D1%2584%25D0%25BE%25D1%2580%25D0%25BC%25D1%2583%25D0%25BB%25D0%25B0_%25D0%25BF%25D0%25B0%25D1%2580%25D0%25BE%25D0%25B2%25D0%25BE%25D0%25B7%25D0%25B0"><span>Скачать QR-код</span></a></li><li class="mw-list-item" id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q672593" title="Ссылка на связанный элемент репозитория данных [g]"><span>Элемент Викиданных</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-coll-print_export-label" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" id="p-coll-print_export" role="navigation">
+<h3 class="vector-menu-heading" id="p-coll-print_export-label">
+<span class="vector-menu-heading-label">Печать/экспорт</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="coll-download-as-rl"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%9E%D1%81%D0%B5%D0%B2%D0%B0%D1%8F_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0_%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B0&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li class="mw-list-item" id="t-print"><a accesskey="p" href="/w/index.php?title=%D0%9E%D1%81%D0%B5%D0%B2%D0%B0%D1%8F_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0_%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B0&amp;printable=yes" title="Версия этой страницы для печати [p]"><span>Версия для печати</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-wikibase-otherprojects-label" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal vector-menu" id="p-wikibase-otherprojects" role="navigation">
+<h3 class="vector-menu-heading" id="p-wikibase-otherprojects-label">
+<span class="vector-menu-heading-label">В других проектах</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Wheel_arrangements" hreflang="en"><span>Викисклад</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-lang-label" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" id="p-lang" role="navigation">
+<h3 class="vector-menu-heading" id="p-lang-label">
+<span class="vector-menu-heading-label">На других языках</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="interlanguage-link interwiki-als mw-list-item"><a class="interlanguage-link-target" href="https://als.wikipedia.org/wiki/Bauartbezeichnung_von_Triebfahrzeugen" hreflang="gsw" lang="gsw" title="Bauartbezeichnung von Triebfahrzeugen — швейцарский немецкий"><span>Alemannisch</span></a></li><li class="interlanguage-link interwiki-bar mw-list-item"><a class="interlanguage-link-target" href="https://bar.wikipedia.org/wiki/Bauoatbezeichnung_vo_Triabfoahzeign" hreflang="bar" lang="bar" title="Bauoatbezeichnung vo Triabfoahzeign — Bavarian"><span>Boarisch</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Uspo%C5%99%C3%A1d%C3%A1n%C3%AD_pojezdu" hreflang="cs" lang="cs" title="Uspořádání pojezdu — чешский"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Hjulstilling" hreflang="da" lang="da" title="Hjulstilling — датский"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Bauartbezeichnung_von_Triebfahrzeugen" hreflang="de" lang="de" title="Bauartbezeichnung von Triebfahrzeugen — немецкий"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a class="interlanguage-link-target" href="https://en.wikipedia.org/wiki/Wheel_arrangement" hreflang="en" lang="en" title="Wheel arrangement — английский"><span>English</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Disposici%C3%B3n_de_ruedas" hreflang="es" lang="es" title="Disposición de ruedas — испанский"><span>Español</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%86%D8%B8%D9%85_%DA%86%D8%B1%D8%AE" hreflang="fa" lang="fa" title="نظم چرخ — персидский"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Classification_des_locomotives" hreflang="fr" lang="fr" title="Classification des locomotives — французский"><span>Français</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%A1%D7%99%D7%93%D7%95%D7%A8_%D7%92%D7%9C%D7%92%D7%9C%D7%99%D7%9D" hreflang="he" lang="he" title="סידור גלגלים — иврит"><span>עברית</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Tengelyelrendez%C3%A9s" hreflang="hu" lang="hu" title="Tengelyelrendezés — венгерский"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Rodiggio" hreflang="it" lang="it" title="Rodiggio — итальянский"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E8%BB%8A%E8%BB%B8%E9%85%8D%E7%BD%AE" hreflang="ja" lang="ja" title="車軸配置 — японский"><span>日本語</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%B0%A8%EB%A5%9C_%EB%B0%B0%EC%B9%98" hreflang="ko" lang="ko" title="차륜 배치 — корейский"><span>한국어</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Asindeling" hreflang="nl" lang="nl" title="Asindeling — нидерландский"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Uk%C5%82ad_osi_lokomotywy" hreflang="pl" lang="pl" title="Układ osi lokomotywy — польский"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Classifica%C3%A7%C3%A3o_de_locomotivas" hreflang="pt" lang="pt" title="Classificação de locomotivas — португальский"><span>Português</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Clasificarea_locomotivelor" hreflang="ro" lang="ro" title="Clasificarea locomotivelor — румынский"><span>Română</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Wheel_arrangement" hreflang="en-simple" lang="en-simple" title="Wheel arrangement — Simple English"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Usporiadanie_pojazdu" hreflang="sk" lang="sk" title="Usporiadanie pojazdu — словацкий"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Axelf%C3%B6ljd" hreflang="sv" lang="sv" title="Axelföljd — шведский"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9E%D1%81%D1%8C%D0%BE%D0%B2%D0%B0_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0_%D0%BB%D0%BE%D0%BA%D0%BE%D0%BC%D0%BE%D1%82%D0%B8%D0%B2%D0%B0" hreflang="uk" lang="uk" title="Осьова формула локомотива — украинский"><span>Українська</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E6%9C%BA%E8%BD%A6%E8%BD%B4%E5%BC%8F" hreflang="zh" lang="zh" title="机车轴式 — китайский"><span>中文</span></a></li>
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q672593#sitelinks-wikipedia" title="Править ссылки на другие языки">Править ссылки</a></span></div>
+</div>
+</nav>
+</div>
+</div>
+<footer class="mw-footer" id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 26 августа 2023 в 23:55.</li>
+<li id="footer-info-copyright">Текст доступен по <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru" rel="license">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a><a href="//creativecommons.org/licenses/by-sa/4.0/" rel="license" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br/>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org/ru/">Фонд Викимедиа (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//ru.m.wikipedia.org/w/index.php?title=%D0%9E%D1%81%D0%B5%D0%B2%D0%B0%D1%8F_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0_%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B0&amp;mobileaction=toggle_view_mobile">Мобильная версия</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" loading="lazy" src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88"/></a></li>
+<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" loading="lazy" src="/static/images/footer/poweredby_mediawiki_88x31.png" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88"/></a></li>
+</ul>
+</footer>
+
+
+</body>
+</html>

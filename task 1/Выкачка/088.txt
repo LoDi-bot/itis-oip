@@ -1,0 +1,481 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="ru">
+<head>
+<meta charset="utf-8"/>
+<title>/etc/passwd — Википедия</title>
+
+
+
+
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+
+
+<meta content="MediaWiki 1.42.0-wmf.18" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="max-image-preview:standard" name="robots"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="width=1000" name="viewport"/>
+<meta content="/etc/passwd — Википедия" property="og:title"/>
+<meta content="website" property="og:type"/>
+
+
+
+
+
+
+
+
+
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-_etc_passwd rootpage-_etc_passwd skin-vector action-view"><div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators">
+</div>
+<h1 class="firstHeading mw-first-heading" id="firstHeading"><span class="mw-page-title-main">/etc/passwd</span></h1>
+<div class="vector-body" id="bodyContent">
+<div class="noprint" id="siteSub">Материал из Википедии — свободной энциклопедии</div>
+<div id="contentSub"><div id="mw-content-subtitle"><span class="mw-redirectedfrom">(перенаправлено с «<a class="mw-redirect" href="/w/index.php?title=FHS/etc/passwd&amp;redirect=no" title="FHS/etc/passwd">FHS/etc/passwd</a>»)</span></div></div>
+<div id="contentSub2"></div>
+<div id="jump-to-nav"></div>
+<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+<div class="mw-body-content" id="mw-content-text"><div class="mw-content-ltr mw-parser-output" dir="ltr" lang="ru"><p><b>/etc/passwd</b> (от <a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">password</span> — <i>пароль</i>) — <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB" title="Файл">файл</a>, содержащий в текстовом формате список пользовательских <a href="/wiki/%D0%A3%D1%87%D1%91%D1%82%D0%BD%D0%B0%D1%8F_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C" title="Учётная запись">учётных записей</a> (аккаунтов).
+</p><p>Является первым и основным источником <a href="/wiki/%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F" title="Информация">информации</a> о правах <a href="/wiki/%D0%9F%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C" title="Пользователь">пользователя</a> <a href="/wiki/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0" title="Операционная система">операционной системы</a>. Существует в большинстве версий и вариантов <a href="/wiki/Unix-%D0%BF%D0%BE%D0%B4%D0%BE%D0%B1%D0%BD%D0%B0%D1%8F_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0" title="Unix-подобная операционная система">UNIX-систем</a>. Обязан присутствовать в <a href="/wiki/POSIX" title="POSIX">POSIX</a>-совместимой операционной системе.
+</p>
+<div aria-labelledby="mw-toc-heading" class="toc" id="toc" role="navigation"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="ru"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Принципы"><span class="tocnumber">1</span> <span class="toctext">Принципы</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Регистрационное_имя_(логин)"><span class="tocnumber">2</span> <span class="toctext">Регистрационное имя (логин)</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Идентификатор_пользователя_(UID)"><span class="tocnumber">3</span> <span class="toctext">Идентификатор пользователя (UID)</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Безопасность"><span class="tocnumber">3.1</span> <span class="toctext">Безопасность</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Группы_пользователей"><span class="tocnumber">4</span> <span class="toctext">Группы пользователей</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Файл_групп"><span class="tocnumber">4.1</span> <span class="toctext">Файл групп</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#GECOS"><span class="tocnumber">5</span> <span class="toctext">GECOS</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Домашний_каталог"><span class="tocnumber">6</span> <span class="toctext">Домашний каталог</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Регистрационная_оболочка"><span class="tocnumber">7</span> <span class="toctext">Регистрационная оболочка</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Управление_базой_пользователей"><span class="tocnumber">8</span> <span class="toctext">Управление базой пользователей</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Использование"><span class="tocnumber">9</span> <span class="toctext">Использование</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Аналоги"><span class="tocnumber">10</span> <span class="toctext">Аналоги</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Механизм_скрытых_паролей"><span class="tocnumber">11</span> <span class="toctext">Механизм скрытых паролей</span></a>
+<ul>
+<li class="toclevel-2 tocsection-14"><a href="#Уровни_защиты"><span class="tocnumber">11.1</span> <span class="toctext">Уровни защиты</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Файл_/etc/shadow"><span class="tocnumber">11.2</span> <span class="toctext">Файл /etc/shadow</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Применение_с_PAM"><span class="tocnumber">11.3</span> <span class="toctext">Применение с PAM</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-17"><a href="#История"><span class="tocnumber">12</span> <span class="toctext">История</span></a>
+<ul>
+<li class="toclevel-2 tocsection-18"><a href="#Червь_Морриса"><span class="tocnumber">12.1</span> <span class="toctext">Червь Морриса</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-19"><a href="#Библиотечные_функции"><span class="tocnumber">13</span> <span class="toctext">Библиотечные функции</span></a>
+<ul>
+<li class="toclevel-2 tocsection-20"><a href="#Информационные"><span class="tocnumber">13.1</span> <span class="toctext">Информационные</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="#Скрытые_пароли"><span class="tocnumber">13.2</span> <span class="toctext">Скрытые пароли</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-22"><a href="#См._также"><span class="tocnumber">14</span> <span class="toctext">См. также</span></a></li>
+<li class="toclevel-1 tocsection-23"><a href="#Примечания"><span class="tocnumber">15</span> <span class="toctext">Примечания</span></a></li>
+<li class="toclevel-1 tocsection-24"><a href="#Литература"><span class="tocnumber">16</span> <span class="toctext">Литература</span></a></li>
+<li class="toclevel-1 tocsection-25"><a href="#Ссылки"><span class="tocnumber">17</span> <span class="toctext">Ссылки</span></a></li>
+</ul>
+</div>
+<h2><span id=".D0.9F.D1.80.D0.B8.D0.BD.D1.86.D0.B8.D0.BF.D1.8B"></span><span class="mw-headline" id="Принципы">Принципы</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=/etc/passwd&amp;veaction=edit&amp;section=1" title="Редактировать раздел «Принципы»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=/etc/passwd&amp;action=edit&amp;section=1" title="Редактировать код раздела «Принципы»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>login : password : <a class="mw-redirect" href="/wiki/UID" title="UID">UID</a> : <a class="new" href="/w/index.php?title=GID&amp;action=edit&amp;redlink=1" title="GID (страница отсутствует)">GID</a> : GECOS : home : <a href="/wiki/%D0%9E%D0%B1%D0%BE%D0%BB%D0%BE%D1%87%D0%BA%D0%B0_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B9_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B" title="Оболочка операционной системы">shell</a>
+</p><p>Каждая строка <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB" title="Файл">файла</a> описывает одного пользователя и содержит семь полей, разделённых двоеточиями:
+</p>
+<ol><li>регистрационное имя или <a class="mw-redirect" href="/wiki/%D0%9B%D0%BE%D0%B3%D0%B8%D0%BD_(%D1%83%D1%87%D1%91%D1%82%D0%BD%D0%B0%D1%8F_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C)" title="Логин (учётная запись)">логин</a>;</li>
+<li><a class="mw-redirect" href="/wiki/%D0%A5%D0%B5%D1%88%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" title="Хеширование">хеш</a> <a href="/wiki/%D0%9F%D0%B0%D1%80%D0%BE%D0%BB%D1%8C" title="Пароль">пароля</a> (см. ниже);</li>
+<li><a class="mw-redirect" href="/wiki/%D0%98%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80_%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F_(Unix)" title="Идентификатор пользователя (Unix)">идентификатор пользователя</a>;</li>
+<li><a class="new" href="/w/index.php?title=%D0%98%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80_%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D1%8B_(Unix)&amp;action=edit&amp;redlink=1" title="Идентификатор группы (Unix) (страница отсутствует)">идентификатор группы</a> по умолчанию;</li>
+<li>информационное поле GECOS (см. <a href="#GECOS">ниже</a>);</li>
+<li>начальный (он же домашний) каталог;</li>
+<li>регистрационная оболочка, или <a href="/wiki/%D0%9E%D0%B1%D0%BE%D0%BB%D0%BE%D1%87%D0%BA%D0%B0_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B9_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B" title="Оболочка операционной системы">shell</a>.</li></ol>
+<p>Основным назначением /etc/passwd является сопоставление логина и <a href="/wiki/%D0%98%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80_%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F" title="Идентификатор пользователя">идентификатора пользователя</a> (UID). Изначально поле пароля содержало хеш пароля и использовалось для <a href="/wiki/%D0%90%D1%83%D1%82%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F" title="Аутентификация">аутентификации</a>. Однако, в связи с ростом вычислительных мощностей <a class="mw-redirect" href="/wiki/%D0%9F%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80" title="Процессор">процессоров</a> появилась серьёзная угроза применения простого перебора для взлома пароля. Поэтому все пароли были перенесены в специальные файлы, такие как <a class="mw-redirect" href="/wiki//etc/shadow" title="/etc/shadow">/etc/shadow</a> в <a class="mw-redirect" href="/wiki/GNU/Linux" title="GNU/Linux">GNU/Linux</a> или <a class="new" href="/w/index.php?title=/etc/master.passwd&amp;action=edit&amp;redlink=1" title="/etc/master.passwd (страница отсутствует)">/etc/master.passwd</a> во <a href="/wiki/FreeBSD" title="FreeBSD">FreeBSD</a>. Эти файлы недоступны для чтения обычным пользователям. Такой подход называется <i>механизмом скрытых паролей</i> (см. <a href="#Механизм_скрытых_паролей">ниже</a>).
+</p>
+<div style="float: right; margin: 10px 0px 10px 10px; background-color: white; color: black; font-size: 80%; font-family: monospace; font-weight: bold; font-size: 12px; vertical-align: center; padding: 10px; padding-bottom: 0px; border-style: double; border-width: 3px; clear: both;">
+<p>root:lZTB0KTrSKy8M:0:0:root:/root:/bin/sh<br/>
+daemon:x:1:1:daemon:/usr/sbin:/bin/false<br/>
+bin:x:2:2:bin:/bin:/bin/false<br/>
+&lt;…&gt;<br/>
+john:H5ned8EV1vank:101:101::/home/john:/usr/bin/csh<br/>
+bill:7qeFjndagetZk:102:102::/home/bill:/bin/sh
+</p>
+<div style="width: 100%; background-color: white; color: black; font-weight: normal; padding-right: 5px;"><hr/> Фрагмент файла /etc/passwd
+</div></div>
+<h2><span id=".D0.A0.D0.B5.D0.B3.D0.B8.D1.81.D1.82.D1.80.D0.B0.D1.86.D0.B8.D0.BE.D0.BD.D0.BD.D0.BE.D0.B5_.D0.B8.D0.BC.D1.8F_.28.D0.BB.D0.BE.D0.B3.D0.B8.D0.BD.29"></span><span class="mw-headline" id="Регистрационное_имя_(логин)">Регистрационное имя (логин)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=/etc/passwd&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Регистрационное имя (логин)»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=/etc/passwd&amp;action=edit&amp;section=2" title="Редактировать код раздела «Регистрационное имя (логин)»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Регистрационные имена должны быть уникальными и представлять собой строки не длиннее 32 символов (любые, кроме двоеточия и символа новой строки). В некоторых старых версиях UNIX существует ограничение длины в 8 символов, оно же будет действовать при использовании административной базы данных <a href="/wiki/Network_Information_Service" title="Network Information Service">NIS</a>. По сути дела, имя пользователя — это его короткий и легко запоминаемый <a href="/wiki/%D0%9F%D1%81%D0%B5%D0%B2%D0%B4%D0%BE%D0%BD%D0%B8%D0%BC" title="Псевдоним">псевдоним</a>, который используется при входе в систему и часто включается в адреса <a href="/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BE%D1%87%D1%82%D0%B0" title="Электронная почта">электронной почты</a>.
+</p>
+<h2><span id=".D0.98.D0.B4.D0.B5.D0.BD.D1.82.D0.B8.D1.84.D0.B8.D0.BA.D0.B0.D1.82.D0.BE.D1.80_.D0.BF.D0.BE.D0.BB.D1.8C.D0.B7.D0.BE.D0.B2.D0.B0.D1.82.D0.B5.D0.BB.D1.8F_.28UID.29"></span><span class="mw-headline" id="Идентификатор_пользователя_(UID)">Идентификатор пользователя (UID)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=/etc/passwd&amp;veaction=edit&amp;section=3" title="Редактировать раздел «Идентификатор пользователя (UID)»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=/etc/passwd&amp;action=edit&amp;section=3" title="Редактировать код раздела «Идентификатор пользователя (UID)»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Идентификатор пользователя — это число от 0 до <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 2^{32}-1}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msup>
+<mn>2</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>32</mn>
+</mrow>
+</msup>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle 2^{32}-1}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle 2^{32}-1}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9947d422bba0700fe852bb3e659286e74e4746e4" style="vertical-align: -0.505ex; width:7.042ex; height:2.843ex;"/></span>. В старых системах (<a href="/wiki/Minix" title="Minix">Minix</a>, ранние версии <a href="/wiki/BSD" title="BSD">BSD</a>) оно может быть не более 32 767. Пользователь с идентификатором 0 (обычно <a href="/wiki/Root" title="Root">root</a>) называется <i>суперпользователем</i> и имеет право на выполнение любых операций в системе. Принято соглашение о выделении «специальным» пользователям (bin, daemon), назначение которых — только запуск определённых программ, маленьких идентификаторов (меньше 100 или, в некоторых дистрибутивах Linux, меньше 500).
+</p>
+<h3><span id=".D0.91.D0.B5.D0.B7.D0.BE.D0.BF.D0.B0.D1.81.D0.BD.D0.BE.D1.81.D1.82.D1.8C"></span><span class="mw-headline" id="Безопасность">Безопасность</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=/etc/passwd&amp;veaction=edit&amp;section=4" title="Редактировать раздел «Безопасность»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=/etc/passwd&amp;action=edit&amp;section=4" title="Редактировать код раздела «Безопасность»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>В системе могут существовать несколько пользователей с одним идентификатором. Это нередко используется взломщиками, когда они после проникновения в систему создают себе учётную запись с UID=0. В результате они выглядят как обычные пользователи, но на самом деле имеют права root.
+</p>
+<h2><span id=".D0.93.D1.80.D1.83.D0.BF.D0.BF.D1.8B_.D0.BF.D0.BE.D0.BB.D1.8C.D0.B7.D0.BE.D0.B2.D0.B0.D1.82.D0.B5.D0.BB.D0.B5.D0.B9"></span><span class="mw-headline" id="Группы_пользователей">Группы пользователей</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=/etc/passwd&amp;veaction=edit&amp;section=5" title="Редактировать раздел «Группы пользователей»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=/etc/passwd&amp;action=edit&amp;section=5" title="Редактировать код раздела «Группы пользователей»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>В UNIX пользователь может принадлежать к одной или нескольким группам, которые используются для задания прав более чем одного пользователя на тот или иной файл. Максимальное количество групп, в которых может состоять один пользователь, разное в разных вариантах системы.
+</p><p>Список групп с их <i>участниками</i> задаётся в /etc/group. В файле же /etc/passwd указывается идентификатор группы по умолчанию.
+</p><p>Всем файлам, созданным пользователем после регистрации в системе, будет автоматически присвоен этот номер группы (исключение — если для <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3_(%D1%84%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0)" title="Каталог (файловая система)">каталога</a>, в котором создаётся файл, установлен в правах <a href="/wiki/%D0%91%D0%B8%D1%82" title="Бит">бит</a> SGID, то будет присвоена такая же группа, как у самого каталога).
+</p>
+<h3><span id=".D0.A4.D0.B0.D0.B9.D0.BB_.D0.B3.D1.80.D1.83.D0.BF.D0.BF"></span><span class="mw-headline" id="Файл_групп">Файл групп</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=/etc/passwd&amp;veaction=edit&amp;section=6" title="Редактировать раздел «Файл групп»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=/etc/passwd&amp;action=edit&amp;section=6" title="Редактировать код раздела «Файл групп»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<div style="float: right; margin: 10px 0px 10px 10px; background-color: white; color: black; font-size: 80%; font-family: monospace; font-weight: bold; font-size: 12px; vertical-align: center; padding: 10px; padding-bottom: 0px; border-style: double; border-width: 3px; clear: both;">
+<p>root:x:0:root<br/>
+bin:x:1:root,bin,daemon<br/>
+daemon:x:2:root,bin,daemon<br/>
+sys:x:3:root,bin,adm<br/>
+&lt;…&gt;<br/>
+httpd:x:100:httpd<br/>
+cpanel:x:101:cpanel
+</p>
+<div style="width: 100%; background-color: white; color: black; font-weight: normal; padding-right: 5px;"><hr/>Фрагмент файла /etc/group
+</div></div>
+<p>/etc/group содержит записи обо всех группах в системе. Каждая его строка содержит
+</p>
+<ul><li>Символьное имя группы.</li>
+<li>Пароль группы — устаревшее поле, сейчас не используется. В нём обычно стоит «x»<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup>.</li>
+<li>Идентификатор группы, или <i>GID</i>.</li>
+<li>Список имён участников, разделённых запятыми.</li></ul>
+<p>Пример записи:
+</p>
+<pre>bin:x:1:root,bin,daemon
+</pre>
+<p>Здесь сообщается, что группа <i>bin</i> имеет GID=1, а входят в неё пользователи <i>root</i>, <i>bin</i> и <i>daemon</i>.
+</p>
+<h2><span class="mw-headline" id="GECOS">GECOS</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=/etc/passwd&amp;veaction=edit&amp;section=7" title="Редактировать раздел «GECOS»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=/etc/passwd&amp;action=edit&amp;section=7" title="Редактировать код раздела «GECOS»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable">Основная статья: <b><a href="/wiki/%D0%9F%D0%BE%D0%BB%D0%B5_Gecos" title="Поле Gecos">поле Gecos</a></b></div>
+<p>Поле GECOS хранит вспомогательную информацию о пользователе (номер телефона, адрес, полное имя и так далее). Оно не имеет чётко определённого <a href="/wiki/%D0%A1%D0%B8%D0%BD%D1%82%D0%B0%D0%BA%D1%81%D0%B8%D1%81" title="Синтаксис">синтаксиса</a>.
+</p>
+<h2><span id=".D0.94.D0.BE.D0.BC.D0.B0.D1.88.D0.BD.D0.B8.D0.B9_.D0.BA.D0.B0.D1.82.D0.B0.D0.BB.D0.BE.D0.B3"></span><span class="mw-headline" id="Домашний_каталог">Домашний каталог</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=/etc/passwd&amp;veaction=edit&amp;section=8" title="Редактировать раздел «Домашний каталог»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=/etc/passwd&amp;action=edit&amp;section=8" title="Редактировать код раздела «Домашний каталог»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>После входа в систему пользователь оказывается в своём домашнем каталоге. Исторически сложилось так, что домашний каталог пользователя root называется /root, а остальные имеют вид /home/<tt>имя_пользователя</tt>. Но могут применяться и другие схемы.
+</p><p>Если на момент входа в систему домашний каталог отсутствует, то система выдаёт сообщение об ошибке и отказывается допустить пользователя к командной строке. Такое поведение НЕ характерно для GNU/Linux; в большинстве дистрибутивов этой ОС просто выводится предупреждение, после чего пользователь попадает в каталог «/». Это можно изменить посредством установки параметра <tt>DEFAULT_HOME</tt> в файле <tt><a class="new" href="/w/index.php?title=/etc/login.defs&amp;action=edit&amp;redlink=1" title="/etc/login.defs (страница отсутствует)">/etc/login.defs</a></tt> в значение <tt>no</tt>.
+</p><p>При использовании <a class="mw-redirect" href="/wiki/%D0%93%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81" title="Графический интерфейс">графического интерфейса</a> (<a href="/wiki/KDE" title="KDE">KDE</a>, <a href="/wiki/GNOME" title="GNOME">GNOME</a>) пользователь не увидит предупреждения или сообщения об ошибке, а будет выведен из системы безо всяких объяснений (так как <a href="/wiki/%D0%9C%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%B5%D1%80_%D0%BE%D0%BA%D0%BE%D0%BD_X_Window_System" title="Менеджер окон X Window System">оконный менеджер</a> не сможет выполнить запись в нужный каталог, такой как <tt>~/.gnome</tt>).
+</p>
+<h2><span id=".D0.A0.D0.B5.D0.B3.D0.B8.D1.81.D1.82.D1.80.D0.B0.D1.86.D0.B8.D0.BE.D0.BD.D0.BD.D0.B0.D1.8F_.D0.BE.D0.B1.D0.BE.D0.BB.D0.BE.D1.87.D0.BA.D0.B0"></span><span class="mw-headline" id="Регистрационная_оболочка">Регистрационная оболочка</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=/etc/passwd&amp;veaction=edit&amp;section=9" title="Редактировать раздел «Регистрационная оболочка»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=/etc/passwd&amp;action=edit&amp;section=9" title="Редактировать код раздела «Регистрационная оболочка»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>В поле регистрационной оболочки задаётся <a class="mw-redirect" href="/wiki/%D0%9A%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%BD%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BE%D0%BB%D0%BE%D1%87%D0%BA%D0%B0_UNIX" title="Командная оболочка UNIX">shell</a>, то есть <a href="/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BF%D1%80%D0%B5%D1%82%D0%B0%D1%82%D0%BE%D1%80" title="Интерпретатор">интерпретатор</a> командной строки. Здесь может быть указана любая программа, и пользователь может сам выбирать для себя наиболее подходящую при помощи команды <a class="new" href="/w/index.php?title=Chsh&amp;action=edit&amp;redlink=1" title="Chsh (страница отсутствует)">chsh</a>. Тем не менее, некоторые системы в целях безопасности требуют, чтобы суперпользователь явно разрешил использовать приложение в качестве интерпретатора командной строки. Для этого используется специальный файл <tt><a class="new" href="/w/index.php?title=/etc/shells&amp;action=edit&amp;redlink=1" title="/etc/shells (страница отсутствует)">/etc/shells</a></tt>, содержащий список «допустимых» оболочек.
+</p>
+<h2><span id=".D0.A3.D0.BF.D1.80.D0.B0.D0.B2.D0.BB.D0.B5.D0.BD.D0.B8.D0.B5_.D0.B1.D0.B0.D0.B7.D0.BE.D0.B9_.D0.BF.D0.BE.D0.BB.D1.8C.D0.B7.D0.BE.D0.B2.D0.B0.D1.82.D0.B5.D0.BB.D0.B5.D0.B9"></span><span class="mw-headline" id="Управление_базой_пользователей">Управление базой пользователей</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=/etc/passwd&amp;veaction=edit&amp;section=10" title="Редактировать раздел «Управление базой пользователей»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=/etc/passwd&amp;action=edit&amp;section=10" title="Редактировать код раздела «Управление базой пользователей»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl><dt>Стандартные утилиты</dt>
+<dt><a class="new" href="/w/index.php?title=Vipw&amp;action=edit&amp;redlink=1" title="Vipw (страница отсутствует)">vipw</a></dt>
+<dd>запускает <a href="/wiki/%D0%A2%D0%B5%D0%BA%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B9_%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D1%80" title="Текстовый редактор">текстовый редактор</a>, указанный в <a class="mw-redirect" href="/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BE%D0%BA%D1%80%D1%83%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F" title="Переменная окружения">переменной среды</a> <tt>EDITOR</tt> (или редактор по умолчанию, обычно <a href="/wiki/Vi" title="Vi">vi</a>(1)), загружая в него копию файла <tt>/etc/passwd</tt> (в системах <a class="mw-redirect" href="/wiki/GNU/Linux" title="GNU/Linux">GNU/Linux</a> <tt>/etc/shadow</tt>, во <a href="/wiki/FreeBSD" title="FreeBSD">FreeBSD</a> <tt>/etc/master.passwd</tt>). После закрытия редактора переносит временную копию в сам файл. Не позволяет двум пользователям выполнять редактирование одновременно.</dd>
+<dt><a class="new" href="/w/index.php?title=Useradd&amp;action=edit&amp;redlink=1" title="Useradd (страница отсутствует)">useradd</a></dt>
+<dd>создаёт новую учётную запись.</dd>
+<dt><a class="new" href="/w/index.php?title=Usermod&amp;action=edit&amp;redlink=1" title="Usermod (страница отсутствует)">usermod</a></dt>
+<dd>изменяет данные учётной записи.</dd>
+<dt><a class="new" href="/w/index.php?title=Userdel&amp;action=edit&amp;redlink=1" title="Userdel (страница отсутствует)">userdel</a></dt>
+<dd>удаляет существующую учётную запись.</dd>
+<dt><a class="new" href="/w/index.php?title=Chfn&amp;action=edit&amp;redlink=1" title="Chfn (страница отсутствует)">chfn</a></dt>
+<dd>изменяет поле GECOS.</dd>
+<dt><a class="new" href="/w/index.php?title=Chsh&amp;action=edit&amp;redlink=1" title="Chsh (страница отсутствует)">chsh</a></dt>
+<dd>устанавливает новый командный интерпретатор.</dd>
+<dt><a href="/wiki/Passwd_(%D1%83%D1%82%D0%B8%D0%BB%D0%B8%D1%82%D0%B0)" title="Passwd (утилита)">passwd</a></dt>
+<dd>задаёт новый пароль пользователя.</dd>
+<dt><a class="new" href="/w/index.php?title=Adduser&amp;action=edit&amp;redlink=1" title="Adduser (страница отсутствует)">adduser</a></dt>
+<dd>используется в дистрибутиве Debian для упрощения создания учетных записей пользователей, а также автоматической проверки их соответствия политике упомянутого дистрибутива. Она реализована в виде обертки для таких утилит, как useradd, passwd и chfn и использует дополнительный файл конфигурации /etc/adduser.conf для хранения параметров, относящихся к политике дистрибутива Debian.</dd></dl>
+<h2><span id=".D0.98.D1.81.D0.BF.D0.BE.D0.BB.D1.8C.D0.B7.D0.BE.D0.B2.D0.B0.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Использование">Использование</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=/etc/passwd&amp;veaction=edit&amp;section=11" title="Редактировать раздел «Использование»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=/etc/passwd&amp;action=edit&amp;section=11" title="Редактировать код раздела «Использование»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Почти все программы в современных GNU/Linux-системах обращаются к /etc/passwd через <a href="/wiki/%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_(%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)" title="Библиотека (программирование)">библиотеку</a> <a href="/wiki/Glibc" title="Glibc">glibc</a>.
+</p><p>Такой подход имеет много плюсов. Например, в системе с несколькими тысячами пользователей (<a href="/wiki/%D0%A5%D0%BE%D1%81%D1%82%D0%B8%D0%BD%D0%B3" title="Хостинг">веб-хостинг</a>, сервера <a href="/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82-%D0%BF%D1%80%D0%BE%D0%B2%D0%B0%D0%B9%D0%B4%D0%B5%D1%80" title="Интернет-провайдер">провайдеров</a>) очень накладно каждый раз просматривать файл в поисках того или иного человека, поэтому glibc <a href="/wiki/%D0%9A%D1%8D%D1%88" title="Кэш">кэширует</a> результаты наиболее частых запросов, сохраняя их результаты в <a href="/wiki/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%B0%D1%8F_%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D1%8C" title="Оперативная память">памяти</a>. См. также <a href="#Библиотечные_функции">библиотечные функции</a>.
+</p>
+<h2><span id=".D0.90.D0.BD.D0.B0.D0.BB.D0.BE.D0.B3.D0.B8"></span><span class="mw-headline" id="Аналоги">Аналоги</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=/etc/passwd&amp;veaction=edit&amp;section=12" title="Редактировать раздел «Аналоги»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=/etc/passwd&amp;action=edit&amp;section=12" title="Редактировать код раздела «Аналоги»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Возможная альтернатива хранению списка пользователей — это <a href="/wiki/%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80_(%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)" title="Сервер (программное обеспечение)">сервер</a>, хранящий информацию о них в более эффективной форме (особый случай — это системы класса <a class="mw-redirect" href="/wiki/Win32" title="Win32">Win32</a>, где эту функцию выполняет само <a href="/wiki/%D0%AF%D0%B4%D1%80%D0%BE_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B9_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B" title="Ядро операционной системы">ядро операционной системы</a>). Более частый для UNIX вариант — сетевая <a href="/wiki/%D0%91%D0%B0%D0%B7%D0%B0_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85" title="База данных">база данных</a> <a href="/wiki/LDAP" title="LDAP">LDAP</a>, которая может обслуживать сразу несколько компьютеров. Тем не менее, на одной машине подобных решений обычно избегают из-за того, что они требуют дополнительной установки специального <a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5" title="Программное обеспечение">ПО</a>, часто содержащего и дополнительные <a href="/wiki/%D0%A3%D1%8F%D0%B7%D0%B2%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C_(%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C)" title="Уязвимость (компьютерная безопасность)">уязвимости</a>.
+</p><p>Изменив соответствующим образом файл <tt><span data-interwiki-article="Name Service Switch" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=Name_Service_Switch&amp;action=edit&amp;redlink=1" title="Name Service Switch (страница отсутствует)">/etc/nsswitch.conf</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://en.wikipedia.org/wiki/Name_Service_Switch" title="en:Name Service Switch"><span title="Name Service Switch — версия статьи «Name Service Switch» на английском языке">[en]</span></a></sup></span></tt>, можно заставить библиотечные функции использовать вместо /etc/passwd другую базу данных. Например,
+</p>
+<pre>passwd: nis
+</pre>
+<p>заставляет все библиотечные функции обращаться к системе <a href="/wiki/Network_Information_Service" title="Network Information Service">NIS</a>.
+</p><p>Значением по умолчанию (когда пользователи задаются в /etc/passwd) является
+</p>
+<pre>passwd: files
+</pre>
+<h2><span id=".D0.9C.D0.B5.D1.85.D0.B0.D0.BD.D0.B8.D0.B7.D0.BC_.D1.81.D0.BA.D1.80.D1.8B.D1.82.D1.8B.D1.85_.D0.BF.D0.B0.D1.80.D0.BE.D0.BB.D0.B5.D0.B9"></span><span class="mw-headline" id="Механизм_скрытых_паролей">Механизм скрытых паролей</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=/etc/passwd&amp;veaction=edit&amp;section=13" title="Редактировать раздел «Механизм скрытых паролей»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=/etc/passwd&amp;action=edit&amp;section=13" title="Редактировать код раздела «Механизм скрытых паролей»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div style="float: right; margin: 10px 0px 10px 10px; background-color: white; color: black; font-size: 80%; font-family: monospace; font-weight: bold; font-size: 12px; vertical-align: center; padding: 10px; padding-bottom: 0px; border-style: double; border-width: 3px; clear: both;">
+<p>root:13$/Xhw3kaR$Vif2djTL4aQshu8aKfkl0/:12545:0:99999:7:::<br/>
+daemon:*:12545:0:99999:7:::<br/>
+bin:*:12545:0:99999:7:::<br/>
+&lt;…&gt;<br/>
+john:13$80l1AVB5$6AdyTstdHpsSTsewiac8O1:13283:0:31:3:14:13514:<br/>
+bill:13$UdKpet5.$ssoFdtbe21qd.FL1gj19/0:13286:0:31:3:14:13514:
+</p>
+<div style="width: 100%; background-color: white; color: black; font-weight: normal; padding-right: 5px;"><hr/>Фрагмент файла /etc/shadow</div></div>
+<p>В файле /etc/shadow хранятся <a class="mw-redirect" href="/wiki/%D0%A5%D0%B5%D1%88%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" title="Хеширование">хеши</a> паролей всех пользователей в системе. Процессы суперпользователя могут читать его напрямую, а для остальных создана специальная библиотека <a class="mw-redirect" href="/wiki/PAM" title="PAM">PAM</a>. Она позволяет непривилегированным приложениям спрашивать у неё, правильный ли пароль ввёл пользователь, и получать ответ. Библиотека PAM, как правило, действует с привилегиями вызвавшего процесса. Таким образом, хеш не попадает «в чужие руки».
+</p><p>Дело в том, что злоумышленник, имея набор хешей, всегда может осуществить атаку путём перебора паролей. Например, слова из словаря являются ненадёжными паролями, так как можно зашифровать словарь целиком и поискать хеши в том, что получится. Одна из наилучших программ, выполняющих такого рода атаки — <a href="/wiki/John_the_Ripper" title="John the Ripper">John the Ripper</a>. Также весьма популярна утилита <a class="new" href="/w/index.php?title=Crack_(%D1%83%D1%82%D0%B8%D0%BB%D0%B8%D1%82%D0%B0)&amp;action=edit&amp;redlink=1" title="Crack (утилита) (страница отсутствует)">crack</a>.
+</p>
+<h3><span id=".D0.A3.D1.80.D0.BE.D0.B2.D0.BD.D0.B8_.D0.B7.D0.B0.D1.89.D0.B8.D1.82.D1.8B"></span><span class="mw-headline" id="Уровни_защиты">Уровни защиты</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=/etc/passwd&amp;veaction=edit&amp;section=14" title="Редактировать раздел «Уровни защиты»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=/etc/passwd&amp;action=edit&amp;section=14" title="Редактировать код раздела «Уровни защиты»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>В ранних UNIX пароль шифровался с помощью одного из вариантов <a href="/wiki/DES" title="DES">DES</a>, теперь используется <a href="/wiki/MD5" title="MD5">MD5</a>-хеширование или <a href="/wiki/Blowfish" title="Blowfish">blowfish</a>-хеширование (<a href="/wiki/Bcrypt" title="Bcrypt">bcrypt</a>), MD5-хеши всегда записываются после префикса «$1$».
+</p><p>Перед хешированием к паролю добавляются случайные символы — <a href="/wiki/%D0%A1%D0%BE%D0%BB%D1%8C_(%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F)" title="Соль (криптография)">«salt»</a> (соль, от <a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">add salt to something</span> — сделать что-либо более интересным; в русскоязычных источниках иногда используется термин «затравка»). Salt также приписывается к началу полученного хеша. Благодаря salt нельзя при простом просмотре файла обнаружить пользователей с одинаковыми паролями.
+</p><p>Обратите внимание, что в /etc/shadow, показанном выше, две учётные записи имеют одинаковый пароль, хотя этого и не видно.
+</p>
+<h3><span id=".D0.A4.D0.B0.D0.B9.D0.BB_.2Fetc.2Fshadow"></span><span class="mw-headline" id="Файл_/etc/shadow">Файл /etc/shadow</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=/etc/passwd&amp;veaction=edit&amp;section=15" title="Редактировать раздел «Файл /etc/shadow»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=/etc/passwd&amp;action=edit&amp;section=15" title="Редактировать код раздела «Файл /etc/shadow»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Кроме имени (первое поле каждой строки) и хеша (второе поле), здесь также хранятся
+</p>
+<ul><li>дата последнего изменения пароля,</li>
+<li>через сколько дней можно будет поменять пароль,</li>
+<li>через сколько дней пароль устареет,</li>
+<li>за сколько дней до того, как пароль устареет, начать напоминать о необходимости смены пароля,</li>
+<li>через сколько дней после того, как пароль устареет, заблокировать учётную запись пользователя,</li>
+<li>дата, при достижении которой учётная запись блокируется,</li>
+<li>зарезервированное поле.</li></ul>
+<p>Даты обозначаются как число дней с 1 января 1970 года (начало <a class="mw-redirect" href="/wiki/UNIX-%D0%B2%D1%80%D0%B5%D0%BC%D1%8F" title="UNIX-время">эпохи UNIX</a>).
+</p><p>Обязательная регулярная смена паролей — это популярная административная мера, призванная сделать учётные записи более защищёнными. При этом многие пользователи после принудительного изменения возвращают себе старый пароль.
+</p>
+<h3><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D0.BD.D0.B5.D0.BD.D0.B8.D0.B5_.D1.81_PAM"></span><span class="mw-headline" id="Применение_с_PAM">Применение с PAM</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=/etc/passwd&amp;veaction=edit&amp;section=16" title="Редактировать раздел «Применение с PAM»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=/etc/passwd&amp;action=edit&amp;section=16" title="Редактировать код раздела «Применение с PAM»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Подобные действия влияют только тогда, когда пользователь аутентифицируется через PAM, хотя существуют Linux-дистрибутивы без технологии PAM, в которых подобные действия тоже влияют. При этом также в целях безопасности создаются паузы между двумя неудачными попытками входа в систему, чтобы не дать возможность перебирать пароли через приложение, уполномоченное работать с PAM.
+</p>
+<h2><span id=".D0.98.D1.81.D1.82.D0.BE.D1.80.D0.B8.D1.8F"></span><span class="mw-headline" id="История">История</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=/etc/passwd&amp;veaction=edit&amp;section=17" title="Редактировать раздел «История»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=/etc/passwd&amp;action=edit&amp;section=17" title="Редактировать код раздела «История»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Основные этапы развития схемы пользователей в UNIX:
+</p>
+<ol><li>Все пароли, зашифрованные в <a href="/wiki/DES" title="DES">DES</a>, хранятся в /etc/passwd.</li>
+<li>Пароли перемещаются в /etc/shadow.</li>
+<li>Начинает применяться хеш <a href="/wiki/MD5" title="MD5">MD5</a>.</li></ol>
+<p>Одно из основных событий, заставивших разработчиков перейти к механизму скрытых паролей — это <i>атака червя Морриса</i>.
+</p>
+<h3><span id=".D0.A7.D0.B5.D1.80.D0.B2.D1.8C_.D0.9C.D0.BE.D1.80.D1.80.D0.B8.D1.81.D0.B0"></span><span class="mw-headline" id="Червь_Морриса">Червь Морриса</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=/etc/passwd&amp;veaction=edit&amp;section=18" title="Редактировать раздел «Червь Морриса»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=/etc/passwd&amp;action=edit&amp;section=18" title="Редактировать код раздела «Червь Морриса»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/%D0%A7%D0%B5%D1%80%D0%B2%D1%8C_%D0%9C%D0%BE%D1%80%D1%80%D0%B8%D1%81%D0%B0" title="Червь Морриса">Червь Морриса</a> читал /etc/passwd, пытаясь подобрать пароли к учётным записям. Для этого использовалось имя пользователя (и оно же с буквами в обратном порядке), а также список из 400 наиболее популярных слов. Эта атака привела к масштабному заражению всей сети <a href="/wiki/ARPANET" title="ARPANET">ARPANET</a>, и именно после этого разработчики придумали /etc/shadow, запретили пустые пароли, а также добавили паузы после неправильного ввода пароля.
+</p>
+<h2><span id=".D0.91.D0.B8.D0.B1.D0.BB.D0.B8.D0.BE.D1.82.D0.B5.D1.87.D0.BD.D1.8B.D0.B5_.D1.84.D1.83.D0.BD.D0.BA.D1.86.D0.B8.D0.B8"></span><span class="mw-headline" id="Библиотечные_функции">Библиотечные функции</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=/etc/passwd&amp;veaction=edit&amp;section=19" title="Редактировать раздел «Библиотечные функции»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=/etc/passwd&amp;action=edit&amp;section=19" title="Редактировать код раздела «Библиотечные функции»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Эти средства описаны в стандарте <a href="/wiki/POSIX" title="POSIX">POSIX</a>; существуют также другие (здесь не перечисленные) функции, позволяющие просматривать содержимое файлов /etc/passwd и /etc/shadow по записям.
+</p>
+<h3><span id=".D0.98.D0.BD.D1.84.D0.BE.D1.80.D0.BC.D0.B0.D1.86.D0.B8.D0.BE.D0.BD.D0.BD.D1.8B.D0.B5"></span><span class="mw-headline" id="Информационные">Информационные</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=/etc/passwd&amp;veaction=edit&amp;section=20" title="Редактировать раздел «Информационные»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=/etc/passwd&amp;action=edit&amp;section=20" title="Редактировать код раздела «Информационные»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Описаны в <a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_%D1%84%D0%B0%D0%B9%D0%BB" title="Заголовочный файл">заголовочном файле</a> <tt>pwd.h</tt>:
+</p>
+<ul><li>getpwuid — получает всю информацию о пользователе по его идентификатору.</li>
+<li>getpwnam — то же, но по имени пользователя.</li>
+<li>putpwnam — добавляет запись к уже существующим в /etc/passwd.</li></ul>
+<h3><span id=".D0.A1.D0.BA.D1.80.D1.8B.D1.82.D1.8B.D0.B5_.D0.BF.D0.B0.D1.80.D0.BE.D0.BB.D0.B8"></span><span class="mw-headline" id="Скрытые_пароли">Скрытые пароли</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=/etc/passwd&amp;veaction=edit&amp;section=21" title="Редактировать раздел «Скрытые пароли»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=/etc/passwd&amp;action=edit&amp;section=21" title="Редактировать код раздела «Скрытые пароли»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Описаны в <tt>shadow.h</tt>:
+</p>
+<ul><li>getspnam — получает всю информацию о пароле пользователя с заданным именем, включая хеш, из файла /etc/shadow. Применять может только суперпользователь.</li>
+<li>putspent — добавляет запись в /etc/shadow.</li></ul>
+<h2><span id=".D0.A1.D0.BC._.D1.82.D0.B0.D0.BA.D0.B6.D0.B5"></span><span class="mw-headline" id="См._также">См. также</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=/etc/passwd&amp;veaction=edit&amp;section=22" title="Редактировать раздел «См. также»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=/etc/passwd&amp;action=edit&amp;section=22" title="Редактировать код раздела «См. также»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/FHS" title="FHS">FHS</a></li>
+<li><a href="/wiki/POSIX" title="POSIX">POSIX</a></li>
+<li><a href="/wiki/Security_Account_Manager" title="Security Account Manager">Security Account Manager</a></li></ul>
+<h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Примечания">Примечания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=/etc/passwd&amp;veaction=edit&amp;section=23" title="Редактировать раздел «Примечания»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=/etc/passwd&amp;action=edit&amp;section=23" title="Редактировать код раздела «Примечания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Использование «x» или «*» в поле пароля широко используется, чтобы показать, что в эта учётная запись заблокирована. По сути, это <i>гарантированно неправильный</i> хеш пароля. Основное применение — в учётных записях <i><a class="new" href="/w/index.php?title=%D0%9F%D1%81%D0%B5%D0%B2%D0%B4%D0%BE%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C&amp;action=edit&amp;redlink=1" title="Псевдопользователь (страница отсутствует)">псевдопользователей</a></i>, единственное назначение которых — запуск определённых приложений или владение определёнными файлами. Пример таких пользователей — <i>lp</i>, <i>rpc</i>, <i>uucp</i>. Кроме того, на данный момент принято задавать пароли групп, устаревшее поле в файле /etc/group, в значение «x» (во избежание проблем со старыми программами, которые его использовали).</span>
+</li>
+</ol></div></div>
+<h2><span id=".D0.9B.D0.B8.D1.82.D0.B5.D1.80.D0.B0.D1.82.D1.83.D1.80.D0.B0"></span><span class="mw-headline" id="Литература">Литература</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=/etc/passwd&amp;veaction=edit&amp;section=24" title="Редактировать раздел «Литература»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=/etc/passwd&amp;action=edit&amp;section=24" title="Редактировать код раздела «Литература»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i><a class="mw-redirect" href="/wiki/%D0%AD%D0%B2%D0%B8_%D0%9D%D0%B5%D0%BC%D0%B5%D1%82" title="Эви Немет">Эви Немет</a>, Гарт Снайдер, Трент Хейн.</i> <a class="external text" href="https://archive.org/details/linuxadministrat0002neme" rel="nofollow">Руководство администратора Linux. Установка и настройка</a> = Linux Administration Handbook. — 2-е изд. — <abbr title="Москва">М.</abbr>: <a class="new" href="/w/index.php?title=%D0%92%D0%B8%D0%BB%D1%8C%D1%8F%D0%BC%D1%81_(%D0%B8%D0%B7%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE)&amp;action=edit&amp;redlink=1" title="Вильямс (издательство) (страница отсутствует)">Вильямс</a>, 2007. — С. 1072. — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/0131480049">ISBN 0-13-148004-9</a>.</span></li></ul>
+<h2><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span><span class="mw-headline" id="Ссылки">Ссылки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=/etc/passwd&amp;veaction=edit&amp;section=25" title="Редактировать раздел «Ссылки»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=/etc/passwd&amp;action=edit&amp;section=25" title="Редактировать код раздела «Ссылки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="citation"><span lang="ru"><a class="external text" href="https://web.archive.org/web/20100214080008/http://www.opennet.ru/man.shtml?topic=passwd#lbAB" rel="nofollow">man 5 passwd</a></span><span class="hidden-ref" style="display:none;">  <span class="ref-info" style="cursor:help;" title="на русском языке">(рус.)</span></span>. — руководство UNIX о строении файла /etc/passwd. Дата обращения: 17 июня 2008. Архивировано из <a class="external text" href="http://www.opennet.ru/man.shtml?topic=passwd&amp;category=5&amp;russian=0#lbAB" rel="nofollow">оригинала</a> 14 февраля 2010 года.</span></li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.codfw.main‐7db646ff48‐rll9s
+Cached time: 20240218105320
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.114 seconds
+Real time usage: 0.174 seconds
+Preprocessor visited node count: 767/1000000
+Post‐expand include size: 7847/2097152 bytes
+Template argument size: 2113/2097152 bytes
+Highest expansion depth: 10/100
+Expensive parser function count: 2/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 2968/5000000 bytes
+Lua time usage: 0.019/10.000 seconds
+Lua memory usage: 1494732/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  106.166      1 -total
+ 32.68%   34.700      1 Шаблон:Книга
+ 15.65%   16.610      1 Шаблон:Число
+ 13.98%   14.846      1 Шаблон:Replace
+ 13.32%   14.142      1 Шаблон:Главная
+ 12.42%   13.181      1 Шаблон:Iw
+ 10.33%   10.967      1 Шаблон:Cite_web
+  6.34%    6.730      1 Шаблон:Примечания
+  3.91%    4.150      1 Шаблон:Указание_места_в_библиоссылке
+  3.85%    4.083      2 Шаблон:Lang-en
+-->
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:167711-0!canonical and timestamp 20240218105320 and revision id 135752085. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> -->
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=/etc/passwd&amp;oldid=135752085">https://ru.wikipedia.org/w/index.php?title=/etc/passwd&amp;oldid=135752085</a></div></div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категория</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:Unix" title="Категория:Unix">Unix</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Скрытая категория: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B,_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D0%B2%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_ISBN" title="Категория:Страницы, использующие волшебные ссылки ISBN">Страницы, использующие волшебные ссылки ISBN</a></li></ul></div></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Навигация</h2>
+<div id="mw-head">
+<nav aria-labelledby="p-personal-label" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" id="p-personal" role="navigation">
+<h3 class="vector-menu-heading" id="p-personal-label">
+<span class="vector-menu-heading-label">Персональные инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="pt-anonuserpage"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li class="mw-list-item" id="pt-anontalk"><a accesskey="n" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]"><span>Обсуждение</span></a></li><li class="mw-list-item" id="pt-anoncontribs"><a accesskey="y" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]"><span>Вклад</span></a></li><li class="mw-list-item" id="pt-createaccount"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%2Fetc%2Fpasswd" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li class="mw-list-item" id="pt-login"><a accesskey="o" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%2Fetc%2Fpasswd" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]"><span>Войти</span></a></li>
+</ul>
+</div>
+</nav>
+<div id="left-navigation">
+<nav aria-labelledby="p-namespaces-label" class="mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-namespaces" role="navigation">
+<h3 class="vector-menu-heading" id="p-namespaces-label">
+<span class="vector-menu-heading-label">Пространства имён</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-nstab-main"><a accesskey="c" href="/wiki//etc/passwd" title="Просмотреть контентную страницу [c]"><span>Статья</span></a></li><li class="mw-list-item" id="ca-talk"><a accesskey="t" href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:/etc/passwd" rel="discussion" title="Обсуждение основной страницы [t]"><span>Обсуждение</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-variants-label" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" id="p-variants" role="navigation">
+<input aria-haspopup="true" aria-labelledby="p-variants-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-variants" id="p-variants-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-variants-label">
+<span class="vector-menu-heading-label">русский</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+</div>
+<div id="right-navigation">
+<nav aria-labelledby="p-views-label" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-views" role="navigation">
+<h3 class="vector-menu-heading" id="p-views-label">
+<span class="vector-menu-heading-label">Просмотры</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-view"><a href="/wiki//etc/passwd"><span>Читать</span></a></li><li class="mw-list-item" id="ca-ve-edit"><a accesskey="v" href="/w/index.php?title=/etc/passwd&amp;veaction=edit" title="Редактировать данную страницу [v]"><span>Править</span></a></li><li class="collapsible mw-list-item" id="ca-edit"><a accesskey="e" href="/w/index.php?title=/etc/passwd&amp;action=edit" title="Править исходный текст этой страницы [e]"><span>Править код</span></a></li><li class="mw-list-item" id="ca-history"><a accesskey="h" href="/w/index.php?title=/etc/passwd&amp;action=history" title="Журнал изменений страницы [h]"><span>История</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-cactions-label" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" id="p-cactions" role="navigation" title="Больше возможностей">
+<input aria-haspopup="true" aria-labelledby="p-cactions-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-cactions" id="p-cactions-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-cactions-label">
+<span class="vector-menu-heading-label">Ещё</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+<div class="vector-search-box-vue vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box" id="p-search" role="search">
+<h3>Поиск</h3>
+<form action="/w/index.php" class="vector-search-box-form" id="searchform">
+<div class="vector-search-box-inner" data-search-loc="header-navigation" id="simpleSearch">
+<input accesskey="f" aria-label="Искать в Википедии" autocapitalize="sentences" class="vector-search-box-input" id="searchInput" name="search" placeholder="Искать в Википедии" title="Искать в Википедии [f]" type="search"/>
+<input name="title" type="hidden" value="Служебная:Поиск"/>
+<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Найти страницы, содержащие указанный текст" type="submit" value="Найти"/>
+<input class="searchButton" id="searchButton" name="go" title="Перейти к странице, имеющей в точности такое название" type="submit" value="Перейти"/>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="vector-legacy-sidebar" id="mw-panel">
+<div id="p-logo" role="banner">
+<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу"></a>
+</div>
+<nav aria-labelledby="p-navigation-label" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" id="p-navigation" role="navigation">
+<h3 class="vector-menu-heading" id="p-navigation-label">
+<span class="vector-menu-heading-label">Навигация</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-mainpage-description"><a accesskey="z" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]"><span>Заглавная страница</span></a></li><li class="mw-list-item" id="n-content"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li class="mw-list-item" id="n-featured"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li class="mw-list-item" id="n-randompage"><a accesskey="x" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]"><span>Случайная статья</span></a></li><li class="mw-list-item" id="n-currentevents"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li class="mw-list-item" id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-participation-label" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" id="p-participation" role="navigation">
+<h3 class="vector-menu-heading" id="p-participation-label">
+<span class="vector-menu-heading-label">Участие</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-bug_in_article"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li class="mw-list-item" id="n-introduction"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li class="mw-list-item" id="n-portal"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li class="mw-list-item" id="n-forum"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li class="mw-list-item" id="n-recentchanges"><a accesskey="r" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]"><span>Свежие правки</span></a></li><li class="mw-list-item" id="n-newpages"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li class="mw-list-item" id="n-help"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-tb-label" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" id="p-tb" role="navigation">
+<h3 class="vector-menu-heading" id="p-tb-label">
+<span class="vector-menu-heading-label">Инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="t-whatlinkshere"><a accesskey="j" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0//etc/passwd" title="Список всех страниц, ссылающихся на данную [j]"><span>Ссылки сюда</span></a></li><li class="mw-list-item" id="t-recentchangeslinked"><a accesskey="k" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8//etc/passwd" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]"><span>Связанные правки</span></a></li><li class="mw-list-item" id="t-specialpages"><a accesskey="q" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]"><span>Служебные страницы</span></a></li><li class="mw-list-item" id="t-permalink"><a href="/w/index.php?title=/etc/passwd&amp;oldid=135752085" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li class="mw-list-item" id="t-info"><a href="/w/index.php?title=/etc/passwd&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li class="mw-list-item" id="t-cite"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%2Fetc%2Fpasswd&amp;id=135752085&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li class="mw-list-item" id="t-urlshortener"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%2Fetc%2Fpasswd"><span>Получить короткий URL</span></a></li><li class="mw-list-item" id="t-urlshortener-qrcode"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%2Fetc%2Fpasswd"><span>Скачать QR-код</span></a></li><li class="mw-list-item" id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q307510" title="Ссылка на связанный элемент репозитория данных [g]"><span>Элемент Викиданных</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-coll-print_export-label" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" id="p-coll-print_export" role="navigation">
+<h3 class="vector-menu-heading" id="p-coll-print_export-label">
+<span class="vector-menu-heading-label">Печать/экспорт</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="coll-download-as-rl"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%2Fetc%2Fpasswd&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li class="mw-list-item" id="t-print"><a accesskey="p" href="/w/index.php?title=/etc/passwd&amp;printable=yes" title="Версия этой страницы для печати [p]"><span>Версия для печати</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-lang-label" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" id="p-lang" role="navigation">
+<h3 class="vector-menu-heading" id="p-lang-label">
+<span class="vector-menu-heading-label">На других языках</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="interlanguage-link interwiki-cs mw-list-item"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Passwd_(soubor)" hreflang="cs" lang="cs" title="Passwd (soubor) — чешский"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-en badge-Q70894304 mw-list-item" title=""><a class="interlanguage-link-target" href="https://en.wikipedia.org/wiki//etc/passwd" hreflang="en" lang="en" title="/etc/passwd — английский"><span>English</span></a></li><li class="interlanguage-link interwiki-pt badge-Q70893996 mw-list-item" title=""><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Passwd_(arquivo)" hreflang="pt" lang="pt" title="Passwd (arquivo) — португальский"><span>Português</span></a></li>
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q307510#sitelinks-wikipedia" title="Править ссылки на другие языки">Править ссылки</a></span></div>
+</div>
+</nav>
+</div>
+</div>
+<footer class="mw-footer" id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 24 января 2024 в 03:02.</li>
+<li id="footer-info-copyright">Текст доступен по <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru" rel="license">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a><a href="//creativecommons.org/licenses/by-sa/4.0/" rel="license" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br/>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org/ru/">Фонд Викимедиа (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//ru.m.wikipedia.org/w/index.php?title=/etc/passwd&amp;mobileaction=toggle_view_mobile">Мобильная версия</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" loading="lazy" src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88"/></a></li>
+<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" loading="lazy" src="/static/images/footer/poweredby_mediawiki_88x31.png" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88"/></a></li>
+</ul>
+</footer>
+
+
+</body>
+</html>

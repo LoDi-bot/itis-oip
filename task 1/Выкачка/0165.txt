@@ -1,0 +1,516 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="ru">
+<head>
+<meta charset="utf-8"/>
+<title>Присваивание — Википедия</title>
+
+
+
+
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+
+
+<meta content="MediaWiki 1.42.0-wmf.18" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="max-image-preview:standard" name="robots"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="width=1000" name="viewport"/>
+<meta content="Присваивание — Википедия" property="og:title"/>
+<meta content="website" property="og:type"/>
+
+
+
+
+
+
+
+
+
+
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Присваивание rootpage-Присваивание skin-vector action-view"><div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators">
+</div>
+<h1 class="firstHeading mw-first-heading" id="firstHeading"><span class="mw-page-title-main">Присваивание</span></h1>
+<div class="vector-body" id="bodyContent">
+<div class="noprint" id="siteSub">Материал из Википедии — свободной энциклопедии</div>
+<div id="contentSub"><div id="mw-content-subtitle"><div class="plainlinks flaggedrevs_preview" id="mw-fr-reviewnotice">Текущая версия страницы пока <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9/%D0%9F%D0%BE%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BB%D1%8F_%D1%87%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9" title="Википедия:Проверка статей/Пояснение для читателей">не проверялась</a> опытными участниками и может значительно отличаться от <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D1%80%D0%B8%D1%81%D0%B2%D0%B0%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;stable=1">версии</a>, проверенной 29 марта 2021 года; проверки требуют <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D1%80%D0%B8%D1%81%D0%B2%D0%B0%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;oldid=79922990&amp;diff=cur&amp;diffonly=0">25 правок</a>.</div><div class="flaggedrevs_short flaggedrevs_draft_notsynced plainlinks noprint" id="mw-fr-revisiontag"><div class="flaggedrevs_short_basic"><span class="flaggedrevs-icon oo-ui-widget oo-ui-widget-enabled oo-ui-iconElement-icon oo-ui-icon-block oo-ui-iconElement oo-ui-labelElement-invisible oo-ui-iconWidget" title="Текущая версия"></span><span class="fr-toggle-arrow oo-ui-widget oo-ui-widget-enabled oo-ui-indicatorElement-indicator oo-ui-indicator-down oo-ui-indicatorElement oo-ui-labelElement-invisible oo-ui-indicatorWidget" id="mw-fr-revisiontoggle" title="показать/скрыть подробности"></span></div>
+<div id="mw-fr-revisiondetails-wrapper" style="position:relative;"><div class="flaggedrevs_short_details" id="mw-fr-revisiondetails" style="display:none">Текущая версия страницы пока <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9/%D0%9F%D0%BE%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BB%D1%8F_%D1%87%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9" title="Википедия:Проверка статей/Пояснение для читателей">не проверялась</a> опытными участниками и может значительно отличаться от <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D1%80%D0%B8%D1%81%D0%B2%D0%B0%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;stable=1">версии</a>, проверенной 29 марта 2021 года; проверки требуют <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D1%80%D0%B8%D1%81%D0%B2%D0%B0%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;oldid=79922990&amp;diff=cur&amp;diffonly=0">25 правок</a>.</div>
+</div>
+</div>
+</div></div>
+<div id="contentSub2"></div>
+<div id="jump-to-nav"></div>
+<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+<div class="mw-body-content" id="mw-content-text"><div class="mw-content-ltr mw-parser-output" dir="ltr" lang="ru"><div class="hatnote navigation-not-searchable dabhide">О термине из уголовного права см. <a href="/wiki/%D0%9F%D1%80%D0%B8%D1%81%D0%B2%D0%BE%D0%B5%D0%BD%D0%B8%D0%B5" title="Присвоение">Присвоение</a>.</div>
+<p><b>Присва́ивание</b> — механизм связывания в <a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" title="Программирование">программировании</a>, позволяющий динамически изменять связи имён объектов данных (как правило, <a href="/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_(%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)" title="Переменная (программирование)">переменных</a>) с их значениями. Строго говоря, изменение значений является побочным эффектом операции присваивания, и во многих современных языках программирования сама операция также возвращает некоторый результат (как правило, копию присвоенного значения). На физическом уровне результат операции присвоения состоит в проведении записи и перезаписи ячеек <a href="/wiki/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%B0%D1%8F_%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D1%8C" title="Оперативная память">памяти</a> или <a href="/wiki/%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80_%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%B0" title="Регистр процессора">регистров процессора</a>.
+</p><p>Присваивание является одной из центральных конструкций в <a class="mw-redirect" href="/wiki/%D0%98%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F" title="Императивный язык программирования">императивных языках программирования</a>, эффективно и просто реализуется на <a href="/wiki/%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0_%D1%84%D0%BE%D0%BD_%D0%9D%D0%B5%D0%B9%D0%BC%D0%B0%D0%BD%D0%B0" title="Архитектура фон Неймана">фон-неймановской архитектуре</a>, которая является основой современных <a href="/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80" title="Компьютер">компьютеров</a>.
+</p><p>В объектно-ориентированных языках программирования семантика присваивания существенно отличается. Например, в языке <a href="/wiki/Kotlin" title="Kotlin">Kotlin</a> при присваивании происходит копирование объекта, а в языке <a href="/wiki/Rust_(%D1%8F%D0%B7%D1%8B%D0%BA_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)" title="Rust (язык программирования)">Rust</a> – перемещение (move-семантика) объекта и старая связка становится недействительной.
+</p><p>В <a href="/wiki/%D0%9B%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" title="Логическое программирование">логическом программировании</a> принят другой, <a href="/wiki/%D0%90%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B0" title="Алгебра">алгебраический</a> подход. Обычного («разрушающего») присвоения здесь нет. Существуют только неизвестные, которые ещё не вычислены, и соответствующие <a href="/wiki/%D0%98%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80" title="Идентификатор">идентификаторы</a> для обозначения этих неизвестных. Программа только определяет их значения, сами они постоянны. Конечно, в реализации программа производит запись в память, но языки программирования этого не отражают, давая <a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82" title="Программист">программисту</a> возможность работать с идентификаторами постоянных значений, а не с переменными.
+</p><p>В чистом <a href="/wiki/%D0%A4%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" title="Функциональное программирование">функциональном программировании</a> не используются переменные, и явный оператор присваивания не нужен.
+</p>
+<div aria-labelledby="mw-toc-heading" class="toc" id="toc" role="navigation"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="ru"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Определение"><span class="tocnumber">1</span> <span class="toctext">Определение</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Алгоритм_работы"><span class="tocnumber">1.1</span> <span class="toctext">Алгоритм работы</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Обозначение"><span class="tocnumber">1.2</span> <span class="toctext">Обозначение</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Семантические_особенности"><span class="tocnumber">1.3</span> <span class="toctext">Семантические особенности</span></a>
+<ul>
+<li class="toclevel-3 tocsection-5"><a href="#Неоднозначность"><span class="tocnumber">1.3.1</span> <span class="toctext">Неоднозначность</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Текст"><span class="tocnumber">1.3.2</span> <span class="toctext">Текст</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="#Подмена_операции"><span class="tocnumber">1.3.3</span> <span class="toctext">Подмена операции</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Расширенные_конструкции"><span class="tocnumber">2</span> <span class="toctext">Расширенные конструкции</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Множественные_целевые_объекты"><span class="tocnumber">2.1</span> <span class="toctext">Множественные целевые объекты</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Параллельное_присваивание"><span class="tocnumber">2.2</span> <span class="toctext">Параллельное присваивание</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Условные_целевые_объекты"><span class="tocnumber">2.3</span> <span class="toctext">Условные целевые объекты</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Составные_операторы"><span class="tocnumber">2.4</span> <span class="toctext">Составные операторы</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Унарные_операторы"><span class="tocnumber">2.5</span> <span class="toctext">Унарные операторы</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#Реализация"><span class="tocnumber">3</span> <span class="toctext">Реализация</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#См._также"><span class="tocnumber">4</span> <span class="toctext">См. также</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#Примечания"><span class="tocnumber">5</span> <span class="toctext">Примечания</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#Литература"><span class="tocnumber">6</span> <span class="toctext">Литература</span></a></li>
+</ul>
+</div>
+<h2><span id=".D0.9E.D0.BF.D1.80.D0.B5.D0.B4.D0.B5.D0.BB.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Определение">Определение</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9F%D1%80%D0%B8%D1%81%D0%B2%D0%B0%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;veaction=edit&amp;section=1" title="Редактировать раздел «Определение»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D1%80%D0%B8%D1%81%D0%B2%D0%B0%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;action=edit&amp;section=1" title="Редактировать код раздела «Определение»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Общий <a href="/wiki/%D0%A1%D0%B8%D0%BD%D1%82%D0%B0%D0%BA%D1%81%D0%B8%D1%81_(%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)" title="Синтаксис (программирование)">синтаксис</a> простого присваивания выглядит следующим образом:
+</p>
+<pre>&lt;выражение слева&gt; &lt;оператор присваивания&gt; &lt;выражение справа&gt;
+</pre>
+<p>«Выражение слева» должно после вычисления привести к местоположению объекта данных, к целевой переменной, идентификатору ячейки памяти, в которую будет производиться запись. Такие ссылки называются «левосторонними значениями» (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">lvalue</span>). Типичные примеры левостороннего значения — имя переменной (<code>x</code>), путь к переменной в пространстве имён и <a href="/wiki/%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_(%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)" title="Библиотека (программирование)">библиотеках</a> (<code>Namespace.Library.Object.AnotherObject.Property</code>), путь к массиву с выражением на месте индекса (<code>this.a[i+j*k]</code>), но ниже в данной статье приведены и более сложные варианты.
+</p><p>«Выражение справа» должно обозначать тем или иным способом ту величину, которая будет присвоена объекту данных. Таким образом, даже если справа стои́т имя той же переменной, что и слева, интерпретируется оно иначе — такие ссылки называются «правосторонними значениями» (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">rvalue</span>). Дальнейшие ограничения на выражение накладывает используемый <a href="/wiki/%D0%AF%D0%B7%D1%8B%D0%BA_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F" title="Язык программирования">язык</a>: так, в <a href="/wiki/%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%82%D0%B8%D0%BF%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F" title="Статическая типизация">статически типизированных</a> языках оно должно иметь тот же тип, что и целевая переменная, либо тип, приводимый к нему; в некоторых языках (например, <a href="/wiki/%D0%A1%D0%B8_(%D1%8F%D0%B7%D1%8B%D0%BA_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)" title="Си (язык программирования)">Си</a> или <a href="/wiki/Python" title="Python">Python</a>) в выражение может входить также другая операция присваивания (<code>a=b=c</code>).
+</p><p>В роли оператора присваивания в языках программирования чаще всего выступают <code>=</code>, <code>:=</code> или <code>←</code>. Но специальный синтаксис может и не вводиться — например, в <a href="/wiki/Tcl" title="Tcl">Tcl</a>:
+</p>
+<pre>set &lt;целевая_переменная&gt; &lt;выражение&gt;
+</pre>
+<p>Данная запись эквивалентна вызову <a href="/wiki/%D0%A4%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D1%8F_(%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)" title="Функция (программирование)">функции</a>. Аналогично, в <a class="mw-redirect" href="/wiki/%D0%9A%D0%9E%D0%91%D0%9E%D0%9B" title="КОБОЛ">КОБОЛе</a> старого стиля:
+</p>
+<pre>MULTIPLY 2 BY 2 GIVING FOUR.
+</pre>
+<h3><span id=".D0.90.D0.BB.D0.B3.D0.BE.D1.80.D0.B8.D1.82.D0.BC_.D1.80.D0.B0.D0.B1.D0.BE.D1.82.D1.8B"></span><span class="mw-headline" id="Алгоритм_работы">Алгоритм работы</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9F%D1%80%D0%B8%D1%81%D0%B2%D0%B0%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Алгоритм работы»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D1%80%D0%B8%D1%81%D0%B2%D0%B0%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;action=edit&amp;section=2" title="Редактировать код раздела «Алгоритм работы»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Вычислить левостороннее значение первого операнда. На этом этапе становится известным местонахождение целевого объекта, приёмника нового значения.</li>
+<li>Вычислить правостороннее значение второго операнда. Этот этап может быть сколь угодно большим и включать другие операторы (в том числе присвоения).</li>
+<li>Присвоить вычисленное правостороннее значение левостороннему значению. Во-первых, при конфликте типов должно быть осуществлено их <a href="/wiki/%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D1%82%D0%B8%D0%BF%D0%B0" title="Приведение типа">приведение</a> (либо выдано сообщение об ошибке ввиду его невозможности). Во-вторых, собственно присваивания значения в современных языках программирования может быть подменено и включать не только перенос значений ячеек памяти (например, в «<a href="/wiki/%D0%A1%D0%B2%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE_(%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)" title="Свойство (программирование)">свойства</a>» объектов в <a href="/wiki/C_Sharp" title="C Sharp">C#</a>, <a href="/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BE%D0%B2" title="Перегрузка операторов">перегрузка операторов</a>).</li>
+<li>Возвратить вычисленное правостороннее значение как результат выполнения операции. Требуется не во всех языках (например, не нужно в <a href="/wiki/%D0%9F%D0%B0%D1%81%D0%BA%D0%B0%D0%BB%D1%8C_(%D1%8F%D0%B7%D1%8B%D0%BA_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)" title="Паскаль (язык программирования)">Паскале</a>).</li></ul>
+<h3><span id=".D0.9E.D0.B1.D0.BE.D0.B7.D0.BD.D0.B0.D1.87.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Обозначение">Обозначение</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9F%D1%80%D0%B8%D1%81%D0%B2%D0%B0%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;veaction=edit&amp;section=3" title="Редактировать раздел «Обозначение»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D1%80%D0%B8%D1%81%D0%B2%D0%B0%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;action=edit&amp;section=3" title="Редактировать код раздела «Обозначение»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Выбор символа присваивания является поводом для споров разработчиков языков. Существует мнение, что использование символа <code>=</code> для присвоения запутывает <a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82" title="Программист">программистов</a>, а также ставит сложный для хорошего решения вопрос о выборе символа для <a href="/wiki/%D0%A1%D1%80%D0%B0%D0%B2%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_(%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)" title="Сравнение (программирование)">оператора сравнения</a>.
+</p><p>Так, <a href="/wiki/%D0%92%D0%B8%D1%80%D1%82,_%D0%9D%D0%B8%D0%BA%D0%BB%D0%B0%D1%83%D1%81" title="Вирт, Никлаус">Никлаус Вирт</a> утверждал<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup>:
+
+</p>
+<blockquote class="ts-Начало_цитаты-quote">
+<p>
+Общеизвестным плохим примером является выбор знака равенства для обозначения присваивания, восходящий к языку Fortran в 1957 году и слепо повторяемый до сих пор массой разработчиков языков. Эта плохая идея низвергает вековую традицию использования знака «<tt>=</tt>» для обозначения сравнения на равенство, предиката, принимающего значения «<tt>истина</tt>» или «<tt>ложь</tt>». Но в Fortran этот символ стал обозначать присваивание, принуждение к равенству. В этом случае операнды находятся в неравном положении: левый операнд, переменная, должен быть сделан равным правому операнду, выражению. Поэтому x = y не означает то же самое, что y = x.
+</p>
+<div class="mw-collapsible mw-collapsed ts-Скрытый_блок ts-Скрытый_блок-gray ts-Скрытый_блок-noneHideLink ts-oq has-collapsible-header" style=""><div class="ts-Скрытый_блок-title ts-Скрытый_блок-title-leftTitle ts-oq-header collapsible-header" style="text-align:left;">Оригинальный текст <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></div><div class="mw-collapsible-content ts-oq-content" style="">
+<div dir="auto" lang="en">A notorious example for a bad idea was the choice of the equal sign to denote assignment. It goes back to Fortran in 1957 and has blindly been copied by armies of language designers. Why is it a bad idea? Because it overthrows a century old tradition to let “=” denote a comparison for equality, a predicate which is either true or false. But Fortran made it to mean assignment, the enforcing of equality. In this case, the operands are on unequal footing: The left operand (a variable) is to be made equal to the right operand (an expression). x = y does not mean the same thing as y = x.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup></div>
+</div></div>
+</blockquote>
+<p>Реализацией этой позиции Вирта можно считать то, что в языке <a href="/wiki/%D0%9F%D0%B0%D1%81%D0%BA%D0%B0%D0%BB%D1%8C_(%D1%8F%D0%B7%D1%8B%D0%BA_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)" title="Паскаль (язык программирования)">Паскаль</a>, автором которого он является, оператором присваивания является <code>:=</code>, в то время как для сравнения используется просто <code>=</code>.
+</p><p>Выбор символа оператора равенства в языке при использовании <code>=</code> как присваивания решается:
+</p>
+<ul><li>Введением нового символа языка для оператора проверки равенства.</li></ul>
+<p>Запись равенства в <a href="/wiki/%D0%A1%D0%B8_(%D1%8F%D0%B7%D1%8B%D0%BA_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)" title="Си (язык программирования)">Си</a> <code>==</code> является источником частых ошибок из-за возможности использования присваивания в управляющих конструкциях, но в других языках проблема решается введением дополнительных ограничений.
+</p>
+<ul><li>Использованием этого же символа значение определяется в зависимости от контекста.</li></ul>
+<p>Например, в выражении языка <a href="/wiki/%D0%9F%D0%9B/1" title="ПЛ/1">ПЛ/1</a>:
+</p>
+<pre>А = В = С	
+</pre>
+<p>переменной <code>А</code> присваивается <a class="mw-redirect" href="/wiki/%D0%91%D1%83%D0%BB%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D0%B8%D0%BF" title="Булевский тип">булевское значение</a> выражения отношения <code>В = С</code>. Такая запись приводит к снижению <a class="mw-redirect" href="/wiki/%D0%A7%D0%B8%D1%82%D0%B0%D0%B1%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Читабельность">читабельности</a> и редко используется.
+</p>
+<h3><span id=".D0.A1.D0.B5.D0.BC.D0.B0.D0.BD.D1.82.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D0.BE.D1.81.D0.BE.D0.B1.D0.B5.D0.BD.D0.BD.D0.BE.D1.81.D1.82.D0.B8"></span><span class="mw-headline" id="Семантические_особенности">Семантические особенности</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9F%D1%80%D0%B8%D1%81%D0%B2%D0%B0%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;veaction=edit&amp;section=4" title="Редактировать раздел «Семантические особенности»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D1%80%D0%B8%D1%81%D0%B2%D0%B0%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;action=edit&amp;section=4" title="Редактировать код раздела «Семантические особенности»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Далеко не всегда «интуитивный» (для программистов императивных языков) способ интерпретации присваивания является единственно верным и возможным.
+</p><p>По используемому синтаксису в императивных языках не всегда возможно понять, как реализуется <a href="/wiki/%D0%A1%D0%B5%D0%BC%D0%B0%D0%BD%D1%82%D0%B8%D0%BA%D0%B0_(%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)" title="Семантика (программирование)">семантика</a> присваивания, если это явно не определено в языке.
+</p><p>Например, в языке <a href="/wiki/%D0%A4%D0%BE%D1%80%D1%82_(%D1%8F%D0%B7%D1%8B%D0%BA_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)" title="Форт (язык программирования)">Форт</a> перед присваиванием значение и адрес переменной должны попасть в стек данных и это может быть сделано задолго до выполнения собственно присваивания.
+</p><p>Пример:
+</p>
+<pre>\ Определение переменной AAA и следующей строкой присваивание ей значения 10
+VARIABLE AAA
+10 AAA !
+</pre>
+<p>То же самое немного иначе:
+</p>
+<pre>10
+VARIABLE AAA
+AAA !
+</pre>
+<h4><span id=".D0.9D.D0.B5.D0.BE.D0.B4.D0.BD.D0.BE.D0.B7.D0.BD.D0.B0.D1.87.D0.BD.D0.BE.D1.81.D1.82.D1.8C"></span><span class="mw-headline" id="Неоднозначность">Неоднозначность</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9F%D1%80%D0%B8%D1%81%D0%B2%D0%B0%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;veaction=edit&amp;section=5" title="Редактировать раздел «Неоднозначность»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D1%80%D0%B8%D1%81%D0%B2%D0%B0%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;action=edit&amp;section=5" title="Редактировать код раздела «Неоднозначность»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Рассмотрим пример:
+</p>
+<pre>X = 2 + 1
+</pre>
+<p>Это можно понять как «результат вычисления 2+1 (то есть 3) присваивается переменной <code>X</code>» или как «операция 2+1 присваивается переменной <code>X</code>». Если язык <a href="/wiki/%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%82%D0%B8%D0%BF%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F" title="Статическая типизация">статически типизирован</a>, то двусмысленности нет, она разрешается типом переменной <code>X</code> («целое число» или «операция»). В языке <a href="/wiki/%D0%9F%D1%80%D0%BE%D0%BB%D0%BE%D0%B3_(%D1%8F%D0%B7%D1%8B%D0%BA_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)" title="Пролог (язык программирования)">Пролог</a> типизация <a href="/wiki/%D0%94%D0%B8%D0%BD%D0%B0%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%82%D0%B8%D0%BF%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F" title="Динамическая типизация">динамическая</a>, поэтому существуют две операции присвоения: <code>is</code> — присвоение эквивалентного значения и <code>=</code> — присвоение образца. В таком случае:
+</p>
+<pre>X is 2 + 1, X = 3
+X = 2 + 1, X = 3
+</pre>
+<p>Первая последовательность будет признана верной, вторая — ложной.
+</p>
+<h4><span id=".D0.A2.D0.B5.D0.BA.D1.81.D1.82"></span><span class="mw-headline" id="Текст">Текст</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9F%D1%80%D0%B8%D1%81%D0%B2%D0%B0%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;veaction=edit&amp;section=6" title="Редактировать раздел «Текст»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D1%80%D0%B8%D1%81%D0%B2%D0%B0%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;action=edit&amp;section=6" title="Редактировать код раздела «Текст»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>При работе с объектами больших размеров и сложной структуры многие языки используют так называемую «семантику <a class="mw-redirect" href="/wiki/%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B0_(%D1%82%D0%B8%D0%BF_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)" title="Ссылка (тип данных)">ссылок</a>». Это означает, что присвоения в классическом смысле не происходит, но считается, что значение целевой переменной располагается на том же месте, что и значение исходной. Например (<a href="/wiki/Python" title="Python">Python</a>):
+</p>
+<pre>a = [1, 2, 3]
+b = a
+a[1] = 1000
+</pre>
+<p>После этого <code>b</code> будет иметь значение <code>[1, 1000, 3]</code> — просто потому, что фактически его значение — это и есть значение <code>a</code>. Число ссылок на один и тот же объект данных называется его мощностью, а сам объект погибает (уничтожается или отдаётся <a class="mw-redirect" href="/wiki/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B0_%D0%BC%D1%83%D1%81%D0%BE%D1%80%D0%B0_(%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)" title="Сборка мусора (программирование)">сборщику мусора</a>), когда его мощность достигает нуля. Языки программирования более низкого уровня (например, <a href="/wiki/%D0%A1%D0%B8_(%D1%8F%D0%B7%D1%8B%D0%BA_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)" title="Си (язык программирования)">Си</a>) позволяют программисту явно управлять тем, используется семантика указателей или семантика копирования.
+</p>
+<h4><span id=".D0.9F.D0.BE.D0.B4.D0.BC.D0.B5.D0.BD.D0.B0_.D0.BE.D0.BF.D0.B5.D1.80.D0.B0.D1.86.D0.B8.D0.B8"></span><span class="mw-headline" id="Подмена_операции">Подмена операции</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9F%D1%80%D0%B8%D1%81%D0%B2%D0%B0%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;veaction=edit&amp;section=7" title="Редактировать раздел «Подмена операции»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D1%80%D0%B8%D1%81%D0%B2%D0%B0%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;action=edit&amp;section=7" title="Редактировать код раздела «Подмена операции»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Многие языки предоставляют возможность подмены смысла присвоения: либо через механизм <a href="/wiki/%D0%A1%D0%B2%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE_(%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)" title="Свойство (программирование)">свойств</a>, либо через <a href="/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BE%D0%B2" title="Перегрузка операторов">перегрузку оператора</a> присвоения. Подмена может понадобиться для выполнения проверок на допустимость присваиваемого значения или любых других дополнительных операций. Перегрузка оператора присвоения часто используется для обеспечения «глубокого копирования», то есть копирования значений, а не ссылок, которые во многих языках копируются по умолчанию.
+</p><p>Такие механизмы позволяют обеспечить удобство при работе, так для программиста нет различия между использованием встроенного <a href="/wiki/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80_(%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)" title="Оператор (программирование)">оператора</a> и перегруженного. По этой же причине возможны проблемы, так как действия перегруженного оператора могут быть абсолютно отличны от действий оператора по умолчанию, а вызов <a href="/wiki/%D0%A4%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D1%8F_(%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)" title="Функция (программирование)">функции</a> не очевиден и легко может быть принят за встроенную операцию.
+</p>
+<h2><span id=".D0.A0.D0.B0.D1.81.D1.88.D0.B8.D1.80.D0.B5.D0.BD.D0.BD.D1.8B.D0.B5_.D0.BA.D0.BE.D0.BD.D1.81.D1.82.D1.80.D1.83.D0.BA.D1.86.D0.B8.D0.B8"></span><span class="mw-headline" id="Расширенные_конструкции">Расширенные конструкции</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9F%D1%80%D0%B8%D1%81%D0%B2%D0%B0%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;veaction=edit&amp;section=8" title="Редактировать раздел «Расширенные конструкции»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D1%80%D0%B8%D1%81%D0%B2%D0%B0%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;action=edit&amp;section=8" title="Редактировать код раздела «Расширенные конструкции»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Screenshot_emacs_assign3.png"><img class="mw-file-element" data-file-height="489" data-file-width="562" decoding="async" height="348" src="//upload.wikimedia.org/wikipedia/ru/thumb/4/45/Screenshot_emacs_assign3.png/400px-Screenshot_emacs_assign3.png" srcset="//upload.wikimedia.org/wikipedia/ru/4/45/Screenshot_emacs_assign3.png 1.5x" width="400"/></a><figcaption>Конструкции присвоения в различных языках программирования</figcaption></figure>
+<p>Поскольку операция присвоения является широко используемой, разработчики языков программирования пытаются разработать новые конструкции для упрощённой записи типичных операций (добавить в язык так называемый «<a href="/wiki/%D0%A1%D0%B8%D0%BD%D1%82%D0%B0%D0%BA%D1%81%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%B0%D1%85%D0%B0%D1%80" title="Синтаксический сахар">синтаксический сахар</a>»). Кроме этого, в низкоуровневых языках программирования часто критерием включения операции является возможность <a href="/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D0%B8%D0%BB%D1%8F%D1%82%D0%BE%D1%80" title="Компилятор">компиляции</a> в эффективный исполняемый код.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> Особенно известен данным свойством язык <a href="/wiki/%D0%A1%D0%B8_(%D1%8F%D0%B7%D1%8B%D0%BA_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)" title="Си (язык программирования)">Си</a>.
+</p>
+<h3><span id=".D0.9C.D0.BD.D0.BE.D0.B6.D0.B5.D1.81.D1.82.D0.B2.D0.B5.D0.BD.D0.BD.D1.8B.D0.B5_.D1.86.D0.B5.D0.BB.D0.B5.D0.B2.D1.8B.D0.B5_.D0.BE.D0.B1.D1.8A.D0.B5.D0.BA.D1.82.D1.8B"></span><span class="mw-headline" id="Множественные_целевые_объекты">Множественные целевые объекты</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9F%D1%80%D0%B8%D1%81%D0%B2%D0%B0%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;veaction=edit&amp;section=9" title="Редактировать раздел «Множественные целевые объекты»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D1%80%D0%B8%D1%81%D0%B2%D0%B0%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;action=edit&amp;section=9" title="Редактировать код раздела «Множественные целевые объекты»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Одной из альтернатив простого оператора является возможность присвоения значения выражения нескольким <a href="/wiki/%D0%9E%D0%B1%D1%8A%D0%B5%D0%BA%D1%82_(%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)" title="Объект (программирование)">объектам</a>. Например, в языке <a href="/wiki/%D0%9F%D0%9B/1" title="ПЛ/1">ПЛ/1</a> оператор
+</p>
+<pre>SUM, TOTAL = 0
+</pre>
+<p>одновременно присваивает нулевое значение переменным <code>SUM</code> и <code>TOTAL</code>. В языке <a href="/wiki/%D0%90%D0%B4%D0%B0_(%D1%8F%D0%B7%D1%8B%D0%BA_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)" title="Ада (язык программирования)">Ада</a> присвоение также является оператором, а не выражением, поэтому запись множественного присвоения имеет вид:
+</p>
+<pre>SUM, TOTAL: Integer := 0;
+</pre>
+<p>Аналогичное присвоение в языке <a href="/wiki/Python" title="Python">Python</a> имеет следующий синтаксис:
+</p>
+<pre>sum = total = 0
+</pre>
+<p>В отличие от ПЛ/1, Ады и Python, где множественное присвоение считается только сокращённой формой записи, в языках <a href="/wiki/%D0%A1%D0%B8_(%D1%8F%D0%B7%D1%8B%D0%BA_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)" title="Си (язык программирования)">Си</a>, <a href="/wiki/%D0%9B%D0%B8%D1%81%D0%BF" title="Лисп">Лисп</a> и других данный синтаксис имеет строгую основу: просто оператор присвоения возвращает присвоенное им значение (см. выше). Таким образом, последний пример — это на самом деле:
+</p>
+<pre>sum = (total = 0)
+</pre>
+<p>Строчка такого вида сработает в Си (если добавить точку с запятой в конце), но вызовет ошибку в Python.
+</p>
+<h3><span id=".D0.9F.D0.B0.D1.80.D0.B0.D0.BB.D0.BB.D0.B5.D0.BB.D1.8C.D0.BD.D0.BE.D0.B5_.D0.BF.D1.80.D0.B8.D1.81.D0.B2.D0.B0.D0.B8.D0.B2.D0.B0.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Параллельное_присваивание">Параллельное присваивание</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9F%D1%80%D0%B8%D1%81%D0%B2%D0%B0%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;veaction=edit&amp;section=10" title="Редактировать раздел «Параллельное присваивание»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D1%80%D0%B8%D1%81%D0%B2%D0%B0%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;action=edit&amp;section=10" title="Редактировать код раздела «Параллельное присваивание»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Некоторые языки, например, <a href="/wiki/Ruby" title="Ruby">Ruby</a> и <a href="/wiki/Python" title="Python">Python</a>, поддерживают расширенный синтаксис присвоения, который называется параллельным присвоением:
+</p>
+<div class="mw-highlight mw-highlight-lang-python mw-content-ltr" dir="ltr"><pre><span></span><span class="n">a</span><span class="p">,</span> <span class="n">b</span> <span class="o">=</span> <span class="mi">1</span><span class="p">,</span> <span class="mi">11</span>
+</pre></div>
+<p>Считается, что такое присвоение выполняется <a href="/wiki/%D0%9C%D0%BD%D0%BE%D0%B3%D0%BE%D0%BF%D0%BE%D1%82%D0%BE%D1%87%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Многопоточность">одновременно и параллельно</a>, что позволяет коротко реализовать с помощью такой конструкции операцию обмена значений двух переменных.
+</p>
+<table class="wikitable">
+<tbody><tr valign="top">
+<th width="25%">Запись с использованием параллельного присваивания
+</th>
+<th width="25%">«Традиционное» присвоение: требует дополнительной переменной и трёх операций
+</th>
+<th width="25%">«Экономное» присвоение: не требует дополнительной переменной, но также содержит три операции
+</th>
+<th width="25%">Еще более «экономное» присвоение: не требует дополнительной переменной, работает с битовыми операциями
+</th></tr>
+<tr valign="top">
+<td>
+<pre>a, b = b, a
+</pre>
+</td>
+<td>
+<pre>t = a
+a = b
+b = t
+</pre>
+</td>
+<td>
+<pre>a = a + b
+b = a - b
+a = a - b
+</pre>
+</td>
+<td>
+<pre>a ^= b
+b ^= a
+a ^= b
+</pre>
+</td></tr></tbody></table>
+<p>Предпоследний вариант с арифметическими операциями небезопасен в языках программирования или на процессорах, которые проверяют результат на <a href="/wiki/%D0%90%D1%80%D0%B8%D1%84%D0%BC%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%BF%D0%B5%D1%80%D0%B5%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5" title="Арифметическое переполнение">переполнение</a>.
+</p><p>Последний вариант работает только с типами, поддерживающими битовые операции (например, для <code>double</code> компилятор языка <a href="/wiki/C_Sharp" title="C Sharp">C#</a> не позволит обменять значения переменных таким способом).
+</p><p>Некоторые языки (например, <a href="/wiki/PHP" title="PHP">PHP</a>) имеют конструкции, позволяющие сымитировать параллельное присваивание:
+</p>
+<div class="mw-highlight mw-highlight-lang-php mw-content-ltr" dir="ltr"><pre><span></span><span class="k">list</span><span class="p">(</span> <span class="nv">$a</span><span class="p">,</span> <span class="nv">$b</span> <span class="p">)</span> <span class="o">=</span> <span class="k">array</span><span class="p">(</span> <span class="nv">$b</span><span class="p">,</span> <span class="nv">$a</span> <span class="p">);</span>
+</pre></div>
+<h3><span id=".D0.A3.D1.81.D0.BB.D0.BE.D0.B2.D0.BD.D1.8B.D0.B5_.D1.86.D0.B5.D0.BB.D0.B5.D0.B2.D1.8B.D0.B5_.D0.BE.D0.B1.D1.8A.D0.B5.D0.BA.D1.82.D1.8B"></span><span class="mw-headline" id="Условные_целевые_объекты">Условные целевые объекты</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9F%D1%80%D0%B8%D1%81%D0%B2%D0%B0%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;veaction=edit&amp;section=11" title="Редактировать раздел «Условные целевые объекты»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D1%80%D0%B8%D1%81%D0%B2%D0%B0%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;action=edit&amp;section=11" title="Редактировать код раздела «Условные целевые объекты»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Некоторые языки программирования, например, <a href="/wiki/C%2B%2B" title="C++">C++</a>, допускают использование в операторах присвоения условных целевых объектов. Например, выражение:
+</p>
+<div class="mw-highlight mw-highlight-lang-cpp mw-content-ltr" dir="ltr"><pre><span></span><span class="p">(</span><span class="w"> </span><span class="n">flag</span><span class="w"> </span><span class="o">?</span><span class="w"> </span><span class="n">count1</span><span class="w"> </span><span class="o">:</span><span class="w"> </span><span class="n">count2</span><span class="w"> </span><span class="p">)</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">О</span><span class="p">;</span>
+</pre></div>
+<p>присвоит значение <code>0</code> переменной <code>count1</code>, если <code class="mw-highlight mw-highlight-lang-cpp mw-content-ltr" dir="ltr"><span class="n">flag</span><span class="o">==</span><span class="nb">true</span></code>, и <code>count2</code>, если <code class="mw-highlight mw-highlight-lang-cpp mw-content-ltr" dir="ltr"><span class="n">flag</span><span class="o">==</span><span class="nb">false</span></code>.
+</p><p>Другой вариант условного присваивания (<a href="/wiki/Ruby" title="Ruby">Руби</a>):
+</p>
+<div class="mw-highlight mw-highlight-lang-ruby mw-content-ltr" dir="ltr"><pre><span></span><span class="n">a</span><span class="w"> </span><span class="o">||=</span><span class="w"> </span><span class="mi">10</span>
+</pre></div>
+<p>Данная конструкция присваивает переменной <code>a</code> значение только в том случае, если значение ещё не присвоено или равно <code>false</code>.
+</p>
+<h3><span id=".D0.A1.D0.BE.D1.81.D1.82.D0.B0.D0.B2.D0.BD.D1.8B.D0.B5_.D0.BE.D0.BF.D0.B5.D1.80.D0.B0.D1.82.D0.BE.D1.80.D1.8B"></span><span class="mw-headline" id="Составные_операторы">Составные операторы</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9F%D1%80%D0%B8%D1%81%D0%B2%D0%B0%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;veaction=edit&amp;section=12" title="Редактировать раздел «Составные операторы»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D1%80%D0%B8%D1%81%D0%B2%D0%B0%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;action=edit&amp;section=12" title="Редактировать код раздела «Составные операторы»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Составной оператор присваивания позволяет сокращённо задавать часто используемую форму присвоения. С помощью этого способа можно сократить запись присвоения, при котором целевая переменная используется в качестве первого операнда в правой части выражения, например:
+</p>
+<div class="mw-highlight mw-highlight-lang-cpp mw-content-ltr" dir="ltr"><pre><span></span><span class="n">а</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">а</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">b</span>
+</pre></div>
+<p>Синтаксис составного оператора присваивания языка <a href="/wiki/%D0%A1%D0%B8_(%D1%8F%D0%B7%D1%8B%D0%BA_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)" title="Си (язык программирования)">Си</a> представляет собой объединение нужного бинарного оператора и оператора <code>=</code>. Например, следующие записи эквивалентны
+</p>
+<table>
+<tbody><tr valign="top">
+<td width="50%">
+<pre><code class="mw-highlight mw-highlight-lang-cpp mw-content-ltr" dir="ltr"><span class="n">sum</span><span class="w"> </span><span class="o">+=</span><span class="w"> </span><span class="n">value</span><span class="p">;</span></code>
+</pre>
+</td>
+<td width="50%">
+<pre><code class="mw-highlight mw-highlight-lang-cpp mw-content-ltr" dir="ltr"><span class="n">sum</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">sum</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">value</span><span class="p">;</span></code>
+</pre>
+</td></tr></tbody></table>
+<p>В языках программирования, поддерживающих составные операторы (<a href="/wiki/C%2B%2B" title="C++">C++</a>, <a href="/wiki/C_Sharp" title="C Sharp">C#</a>, <a href="/wiki/Python" title="Python">Python</a>, <a href="/wiki/Java" title="Java">Java</a> и др.), обычно существуют версии для большинства бинарных <a href="/wiki/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80_(%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)" title="Оператор (программирование)">операторов</a> этих языков (<code>+=</code>, <code>-=</code>, <code>&amp;=</code> и т. п.).
+</p>
+<h3><span id=".D0.A3.D0.BD.D0.B0.D1.80.D0.BD.D1.8B.D0.B5_.D0.BE.D0.BF.D0.B5.D1.80.D0.B0.D1.82.D0.BE.D1.80.D1.8B"></span><span class="mw-headline" id="Унарные_операторы">Унарные операторы</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9F%D1%80%D0%B8%D1%81%D0%B2%D0%B0%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;veaction=edit&amp;section=13" title="Редактировать раздел «Унарные операторы»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D1%80%D0%B8%D1%81%D0%B2%D0%B0%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;action=edit&amp;section=13" title="Редактировать код раздела «Унарные операторы»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>В языках семейства <a href="/wiki/%D0%A1%D0%B8_(%D1%8F%D0%B7%D1%8B%D0%BA_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)" title="Си (язык программирования)">Си</a> существуют четыре унарных (то есть принимающих один аргумент) <a href="/wiki/%D0%90%D1%80%D0%B8%D1%84%D0%BC%D0%B5%D1%82%D0%B8%D0%BA%D0%B0" title="Арифметика">арифметических</a> оператора для увеличения и уменьшения чисел на единицу: два оператора «<code class="mw-highlight mw-highlight-lang-cpp mw-content-ltr" dir="ltr"><span class="o">++</span></code>» и два — «<code class="mw-highlight mw-highlight-lang-cpp mw-content-ltr" dir="ltr"><span class="o">--</span></code>». Операторы могут записываться перед операндом (префиксные) или после него (постфиксные или суффиксные). Префиксные и постфиксные операторы отличаются порядком вычислений. Префиксные операторы изменяют число на единицу и возвращают изменённое число. Постфиксные операторы сохраняют число во временной переменной, изменяют исходное число и возвращают значение временной переменной.
+</p><p>Пример использования оператора <code class="mw-highlight mw-highlight-lang-cpp mw-content-ltr" dir="ltr"><span class="o">++</span></code>:
+</p>
+<table class="wikitable">
+<tbody><tr valign="top">
+<th width="50%">Увеличение значения переменной на единицу
+</th>
+<th width="50%">Эквивалентная запись
+</th></tr>
+<tr valign="top">
+<td><code class="mw-highlight mw-highlight-lang-cpp mw-content-ltr" dir="ltr"><span class="n">count</span><span class="w"> </span><span class="o">++</span><span class="p">;</span></code>
+</td>
+<td><code class="mw-highlight mw-highlight-lang-cpp mw-content-ltr" dir="ltr"><span class="n">count</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">count</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="mi">1</span><span class="p">;</span></code>
+</td></tr></tbody></table>
+<p>Хоть это и не выглядит присваиванием, но таковым является. Результат выполнения приведённого выше оператора равнозначен результату выполнения присваивания.
+</p><p>Операторы «<code class="mw-highlight mw-highlight-lang-cpp mw-content-ltr" dir="ltr"><span class="o">++</span></code>» называются операторами инкремента, а операторы «<code class="mw-highlight mw-highlight-lang-cpp mw-content-ltr" dir="ltr"><span class="o">--</span></code>» — операторами декремента. Операторы часто используются в языке C при работе с указателями и индексами <a class="mw-redirect" href="/wiki/%D0%98%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%D0%BD%D1%8B%D0%B9_%D0%BC%D0%B0%D1%81%D1%81%D0%B8%D0%B2" title="Индексный массив">массивов</a>.
+</p>
+<h2><span id=".D0.A0.D0.B5.D0.B0.D0.BB.D0.B8.D0.B7.D0.B0.D1.86.D0.B8.D1.8F"></span><span class="mw-headline" id="Реализация">Реализация</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9F%D1%80%D0%B8%D1%81%D0%B2%D0%B0%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;veaction=edit&amp;section=14" title="Редактировать раздел «Реализация»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D1%80%D0%B8%D1%81%D0%B2%D0%B0%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;action=edit&amp;section=14" title="Редактировать код раздела «Реализация»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Работа современных <a href="/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80" title="Компьютер">компьютеров</a> состоит из считываний данных из памяти или устройства в регистры, выполнения операций над этими данными и записи в память или устройство. Основной операцией здесь является пересылка данных (из регистров в память, из памяти в регистр, из регистра в регистр). Соответственно, она выражается напрямую командами современных <a class="mw-redirect" href="/wiki/%D0%9F%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80" title="Процессор">процессоров</a>. Так, для архитектуры <a href="/wiki/X86" title="X86">x86</a> (все нижеприведённые команды относятся также к данной архитектуре) это операция <code>mov</code> и её разновидности для пересылки данных различных размеров. Операция присваивания (пересылка данных из одной ячейки памяти в другую) практически непосредственно реализуется данной командой. Вообще говоря, для выполнения пересылки данных в памяти требуется две инструкции: перемещение из памяти в регистр и из регистра в память, но при использовании оптимизации в большинстве случаев количество команд можно сократить.
+</p>
+<table>
+<tbody><tr>
+<td>
+<div style="float: right; margin: 10px 0px 10px 10px; background-color: white; color: black; font-size: 80%; font-family: monospace; font-weight: bold; font-size: 12px; vertical-align: center; padding: 10px; padding-bottom: 0px; border-style: double; border-width: 3px; clear: both;">
+<p>movl    -4(%ebp), %eax<br/>
+movl    %eax, 8(%ebp)
+</p>
+<div style="width: 100%; background-color: white; color: black; font-weight: normal; padding-right: 5px;"><hr/>Пример <a href="/wiki/%D0%9A%D0%BE%D0%B4%D0%BE%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F" title="Кодогенерация">кодогенерации</a> (<a class="mw-redirect" href="/wiki/GCC" title="GCC">GCC</a>), две<br/>инструкции для присваивания</div></div>
+</td></tr></tbody></table>
+<h2><span id=".D0.A1.D0.BC._.D1.82.D0.B0.D0.BA.D0.B6.D0.B5"></span><span class="mw-headline" id="См._также">См. также</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9F%D1%80%D0%B8%D1%81%D0%B2%D0%B0%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;veaction=edit&amp;section=15" title="Редактировать раздел «См. также»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D1%80%D0%B8%D1%81%D0%B2%D0%B0%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;action=edit&amp;section=15" title="Редактировать код раздела «См. также»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/%D0%9F%D0%BE%D0%B4%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0" title="Подстановка">Подстановка</a></li></ul>
+<h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Примечания">Примечания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9F%D1%80%D0%B8%D1%81%D0%B2%D0%B0%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;veaction=edit&amp;section=16" title="Редактировать раздел «Примечания»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D1%80%D0%B8%D1%81%D0%B2%D0%B0%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;action=edit&amp;section=16" title="Редактировать код раздела «Примечания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><span class="citation"><i><a href="/wiki/%D0%92%D0%B8%D1%80%D1%82,_%D0%9D%D0%B8%D0%BA%D0%BB%D0%B0%D1%83%D1%81" title="Вирт, Никлаус">Никлаус Вирт</a>.</i> <span lang="und"><a class="external text" href="http://www.citforum.ru/programming/digest/wirth/" rel="nofollow">Хорошие идеи: взгляд из Зазеркалья</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. <i>Пер. Сергей Кузнецов</i> (2006). Дата обращения: 23 апреля 2006. <a class="external text" href="https://web.archive.org/web/20110927035713/http://citforum.ru/programming/digest/wirth/" rel="nofollow">Архивировано</a> 27 сентября 2011 года.</span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><span class="citation"><i>Niklaus Wirth.</i> <span lang="und"><a class="external text" href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.88.8309&amp;rep=rep1&amp;type=pdf" rel="nofollow">Good Ideas, Through the Looking Glass</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 4 декабря 2010. <a class="external text" href="https://www.webcitation.org/68gbe1eLY?url=http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.88.8309" rel="nofollow">Архивировано</a> 25 июня 2012 года.</span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">В целях оптимизации многие операции совмещаются с присваиванием. Для сокращённых записей присвоения зачастую есть эквивалент в машинных инструкциях. Так, увеличение на единицу реализуется машинной инструкцией <code>inc</code>, уменьшение на единицу — <code>dec</code>, сложение с присвоением — <code>add</code>, вычитание с присвоением — <code>sub</code>, команды условной пересылки — <code>cmova</code>, <code>cmovno</code> и т. д.</span>
+</li>
+</ol></div></div>
+<h2><span id=".D0.9B.D0.B8.D1.82.D0.B5.D1.80.D0.B0.D1.82.D1.83.D1.80.D0.B0"></span><span class="mw-headline" id="Литература">Литература</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9F%D1%80%D0%B8%D1%81%D0%B2%D0%B0%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;veaction=edit&amp;section=17" title="Редактировать раздел «Литература»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D1%80%D0%B8%D1%81%D0%B2%D0%B0%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;action=edit&amp;section=17" title="Редактировать код раздела «Литература»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>Роберт В. Себеста.</i> Основные концепции языков программирования = Concepts of Programming Languages. — 5-е изд. — <abbr title="Москва">М.</abbr>: <a class="new" href="/w/index.php?title=%D0%92%D0%B8%D0%BB%D1%8C%D1%8F%D0%BC%D1%81_(%D0%B8%D0%B7%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE)&amp;action=edit&amp;redlink=1" title="Вильямс (издательство) (страница отсутствует)">Вильямс</a>, 2001. — 672 с. — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/0201752956">ISBN 0-201-75295-6</a>.</span></li>
+<li><i>М. Бен-Ари.</i> Языки программирования. Практический сравнительный анализ. — М.: Мир, 2000. — 366 с. С. 71—74.</li>
+<li><i>В. Э. Вольфенгаген.</i> Конструкции языков программирования. Приёмы описания. — М.: АО «Центр ЮрИнфоР», 2001. — 276 с. <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/5891580799">ISBN 5-89158-079-9</a>. С. 128—131.</li>
+<li><i>Э. А. Опалева, В. П. Самойленко.</i> Языки программирования и методы трансляции. — СПб.: БХВ-Петербург, 2005. — 480 с. <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/5941573278">ISBN 5-94157-327-8</a>. С. 74—75.</li>
+<li><i>Т. Пратт, М. Зелковиц.</i> Языки программирования: разработка и реализация. — 4-е изд. — СПб: Питер, 2002. — 688 с. <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/5318001890">ISBN 5-318-00189-0</a>, <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/0130276782">ISBN 0-13-027678-2</a>. С. 201—204.</li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw1487
+Cached time: 20240218050152
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.190 seconds
+Real time usage: 1.169 seconds
+Preprocessor visited node count: 1433/1000000
+Post‐expand include size: 13111/2097152 bytes
+Template argument size: 3678/2097152 bytes
+Highest expansion depth: 15/100
+Expensive parser function count: 16/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 14660/5000000 bytes
+Lua time usage: 0.026/10.000 seconds
+Lua memory usage: 2267468/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1126.277      1 -total
+ 45.00%  506.824     11 Шаблон:Cpp
+  4.78%   53.877      1 Шаблон:Oq
+  3.47%   39.094      1 Шаблон:Скрытый_блок
+  3.18%   35.843      1 Шаблон:О
+  3.08%   34.720      1 Шаблон:Начало_скрытого_блока
+  2.98%   33.542      1 Шаблон:Rellink
+  2.73%   30.709      1 Шаблон:Примечания
+  2.57%   28.968      1 Шаблон:Книга
+  2.14%   24.066      2 Шаблон:Cite_web
+-->
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:174455-0!canonical and timestamp 20240218050152 and revision id 127752842. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> -->
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Присваивание&amp;oldid=127752842">https://ru.wikipedia.org/w/index.php?title=Присваивание&amp;oldid=127752842</a></div></div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категория</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%8B_%D0%B2_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B8" title="Категория:Операторы в программировании">Операторы в программировании</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B,_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D1%83%D1%81%D1%82%D0%B0%D1%80%D0%B5%D0%B2%D1%88%D0%B8%D0%B9_%D1%82%D0%B5%D0%B3_source" title="Категория:Страницы, использующие устаревший тег source">Страницы, использующие устаревший тег source</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D0%B8%D1%82%D1%8C_webcitation-%D0%B0%D1%80%D1%85%D0%B8%D0%B2:_deadlink_no)" title="Категория:Википедия:Cite web (заменить webcitation-архив: deadlink no)">Википедия:Cite web (заменить webcitation-архив: deadlink no)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%BD%D0%B5_%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD_%D1%8F%D0%B7%D1%8B%D0%BA)" title="Категория:Википедия:Cite web (не указан язык)">Википедия:Cite web (не указан язык)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B,_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D0%B2%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_ISBN" title="Категория:Страницы, использующие волшебные ссылки ISBN">Страницы, использующие волшебные ссылки ISBN</a></li></ul></div></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Навигация</h2>
+<div id="mw-head">
+<nav aria-labelledby="p-personal-label" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" id="p-personal" role="navigation">
+<h3 class="vector-menu-heading" id="p-personal-label">
+<span class="vector-menu-heading-label">Персональные инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="pt-anonuserpage"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li class="mw-list-item" id="pt-anontalk"><a accesskey="n" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]"><span>Обсуждение</span></a></li><li class="mw-list-item" id="pt-anoncontribs"><a accesskey="y" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]"><span>Вклад</span></a></li><li class="mw-list-item" id="pt-createaccount"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%9F%D1%80%D0%B8%D1%81%D0%B2%D0%B0%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li class="mw-list-item" id="pt-login"><a accesskey="o" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%9F%D1%80%D0%B8%D1%81%D0%B2%D0%B0%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]"><span>Войти</span></a></li>
+</ul>
+</div>
+</nav>
+<div id="left-navigation">
+<nav aria-labelledby="p-namespaces-label" class="mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-namespaces" role="navigation">
+<h3 class="vector-menu-heading" id="p-namespaces-label">
+<span class="vector-menu-heading-label">Пространства имён</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-nstab-main"><a accesskey="c" href="/wiki/%D0%9F%D1%80%D0%B8%D1%81%D0%B2%D0%B0%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" title="Просмотреть контентную страницу [c]"><span>Статья</span></a></li><li class="mw-list-item" id="ca-talk"><a accesskey="t" href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%9F%D1%80%D0%B8%D1%81%D0%B2%D0%B0%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" rel="discussion" title="Обсуждение основной страницы [t]"><span>Обсуждение</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-variants-label" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" id="p-variants" role="navigation">
+<input aria-haspopup="true" aria-labelledby="p-variants-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-variants" id="p-variants-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-variants-label">
+<span class="vector-menu-heading-label">русский</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+</div>
+<div id="right-navigation">
+<nav aria-labelledby="p-views-label" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-views" role="navigation">
+<h3 class="vector-menu-heading" id="p-views-label">
+<span class="vector-menu-heading-label">Просмотры</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="ca-view"><a href="/w/index.php?title=%D0%9F%D1%80%D0%B8%D1%81%D0%B2%D0%B0%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;stable=1"><span>Читать</span></a></li><li class="collapsible selected mw-list-item" id="ca-current"><a accesskey="v" href="/w/index.php?title=%D0%9F%D1%80%D0%B8%D1%81%D0%B2%D0%B0%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;stable=0&amp;redirect=no" title="Показать текущую версию этой страницы [v]"><span>Текущая версия</span></a></li><li class="mw-list-item" id="ca-ve-edit"><a accesskey="v" href="/w/index.php?title=%D0%9F%D1%80%D0%B8%D1%81%D0%B2%D0%B0%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;veaction=edit" title="Редактировать данную страницу [v]"><span>Править</span></a></li><li class="collapsible mw-list-item" id="ca-edit"><a accesskey="e" href="/w/index.php?title=%D0%9F%D1%80%D0%B8%D1%81%D0%B2%D0%B0%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;action=edit" title="Править исходный текст этой страницы [e]"><span>Править код</span></a></li><li class="mw-list-item" id="ca-history"><a accesskey="h" href="/w/index.php?title=%D0%9F%D1%80%D0%B8%D1%81%D0%B2%D0%B0%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;action=history" title="Журнал изменений страницы [h]"><span>История</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-cactions-label" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" id="p-cactions" role="navigation" title="Больше возможностей">
+<input aria-haspopup="true" aria-labelledby="p-cactions-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-cactions" id="p-cactions-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-cactions-label">
+<span class="vector-menu-heading-label">Ещё</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+<div class="vector-search-box-vue vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box" id="p-search" role="search">
+<h3>Поиск</h3>
+<form action="/w/index.php" class="vector-search-box-form" id="searchform">
+<div class="vector-search-box-inner" data-search-loc="header-navigation" id="simpleSearch">
+<input accesskey="f" aria-label="Искать в Википедии" autocapitalize="sentences" class="vector-search-box-input" id="searchInput" name="search" placeholder="Искать в Википедии" title="Искать в Википедии [f]" type="search"/>
+<input name="title" type="hidden" value="Служебная:Поиск"/>
+<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Найти страницы, содержащие указанный текст" type="submit" value="Найти"/>
+<input class="searchButton" id="searchButton" name="go" title="Перейти к странице, имеющей в точности такое название" type="submit" value="Перейти"/>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="vector-legacy-sidebar" id="mw-panel">
+<div id="p-logo" role="banner">
+<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу"></a>
+</div>
+<nav aria-labelledby="p-navigation-label" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" id="p-navigation" role="navigation">
+<h3 class="vector-menu-heading" id="p-navigation-label">
+<span class="vector-menu-heading-label">Навигация</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-mainpage-description"><a accesskey="z" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]"><span>Заглавная страница</span></a></li><li class="mw-list-item" id="n-content"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li class="mw-list-item" id="n-featured"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li class="mw-list-item" id="n-randompage"><a accesskey="x" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]"><span>Случайная статья</span></a></li><li class="mw-list-item" id="n-currentevents"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li class="mw-list-item" id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-participation-label" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" id="p-participation" role="navigation">
+<h3 class="vector-menu-heading" id="p-participation-label">
+<span class="vector-menu-heading-label">Участие</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-bug_in_article"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li class="mw-list-item" id="n-introduction"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li class="mw-list-item" id="n-portal"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li class="mw-list-item" id="n-forum"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li class="mw-list-item" id="n-recentchanges"><a accesskey="r" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]"><span>Свежие правки</span></a></li><li class="mw-list-item" id="n-newpages"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li class="mw-list-item" id="n-help"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-tb-label" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" id="p-tb" role="navigation">
+<h3 class="vector-menu-heading" id="p-tb-label">
+<span class="vector-menu-heading-label">Инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="t-whatlinkshere"><a accesskey="j" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%9F%D1%80%D0%B8%D1%81%D0%B2%D0%B0%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" title="Список всех страниц, ссылающихся на данную [j]"><span>Ссылки сюда</span></a></li><li class="mw-list-item" id="t-recentchangeslinked"><a accesskey="k" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%9F%D1%80%D0%B8%D1%81%D0%B2%D0%B0%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]"><span>Связанные правки</span></a></li><li class="mw-list-item" id="t-specialpages"><a accesskey="q" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]"><span>Служебные страницы</span></a></li><li class="mw-list-item" id="t-permalink"><a href="/w/index.php?title=%D0%9F%D1%80%D0%B8%D1%81%D0%B2%D0%B0%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;oldid=127752842" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li class="mw-list-item" id="t-info"><a href="/w/index.php?title=%D0%9F%D1%80%D0%B8%D1%81%D0%B2%D0%B0%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li class="mw-list-item" id="t-cite"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%9F%D1%80%D0%B8%D1%81%D0%B2%D0%B0%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;id=127752842&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li class="mw-list-item" id="t-urlshortener"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%259F%25D1%2580%25D0%25B8%25D1%2581%25D0%25B2%25D0%25B0%25D0%25B8%25D0%25B2%25D0%25B0%25D0%25BD%25D0%25B8%25D0%25B5"><span>Получить короткий URL</span></a></li><li class="mw-list-item" id="t-urlshortener-qrcode"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%259F%25D1%2580%25D0%25B8%25D1%2581%25D0%25B2%25D0%25B0%25D0%25B8%25D0%25B2%25D0%25B0%25D0%25BD%25D0%25B8%25D0%25B5"><span>Скачать QR-код</span></a></li><li class="mw-list-item" id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q231158" title="Ссылка на связанный элемент репозитория данных [g]"><span>Элемент Викиданных</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-coll-print_export-label" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" id="p-coll-print_export" role="navigation">
+<h3 class="vector-menu-heading" id="p-coll-print_export-label">
+<span class="vector-menu-heading-label">Печать/экспорт</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="coll-download-as-rl"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%9F%D1%80%D0%B8%D1%81%D0%B2%D0%B0%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li class="mw-list-item" id="t-print"><a accesskey="p" href="/w/index.php?title=%D0%9F%D1%80%D0%B8%D1%81%D0%B2%D0%B0%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;printable=yes" title="Версия этой страницы для печати [p]"><span>Версия для печати</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-lang-label" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" id="p-lang" role="navigation">
+<h3 class="vector-menu-heading" id="p-lang-label">
+<span class="vector-menu-heading-label">На других языках</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="interlanguage-link interwiki-ar mw-list-item"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AA%D8%B9%D9%8A%D9%8A%D9%86_(%D8%B9%D9%84%D9%88%D9%85_%D8%A7%D9%84%D8%AD%D8%A7%D8%B3%D9%88%D8%A8)" hreflang="ar" lang="ar" title="تعيين (علوم الحاسوب) — арабский"><span>العربية</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/P%C5%99i%C5%99azen%C3%AD" hreflang="cs" lang="cs" title="Přiřazení — чешский"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Zuweisung" hreflang="de" lang="de" title="Zuweisung — немецкий"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a class="interlanguage-link-target" href="https://en.wikipedia.org/wiki/Assignment_(computer_science)" hreflang="en" lang="en" title="Assignment (computer science) — английский"><span>English</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Valorizo" hreflang="eo" lang="eo" title="Valorizo — эсперанто"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Affectation_(informatique)" hreflang="fr" lang="fr" title="Affectation (informatique) — французский"><span>Français</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%A4%D7%A7%D7%95%D7%93%D7%AA_%D7%94%D7%A9%D7%9E%D7%94" hreflang="he" lang="he" title="פקודת השמה — иврит"><span>עברית</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Dodjela_(ra%C4%8Dunarstvo)" hreflang="hr" lang="hr" title="Dodjela (računarstvo) — хорватский"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Operatore_di_assegnamento" hreflang="it" lang="it" title="Operatore di assegnamento — итальянский"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Tildeling" hreflang="nb" lang="nb" title="Tildeling — норвежский букмол"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Przypisanie" hreflang="pl" lang="pl" title="Przypisanie — польский"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Atribui%C3%A7%C3%A3o_(computa%C3%A7%C3%A3o)" hreflang="pt" lang="pt" title="Atribuição (computação) — португальский"><span>Português</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Assignment_(computer_science)" hreflang="en-simple" lang="en-simple" title="Assignment (computer science) — Simple English"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-th mw-list-item"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%81%E0%B8%B3%E0%B8%AB%E0%B8%99%E0%B8%94%E0%B8%84%E0%B9%88%E0%B8%B2" hreflang="th" lang="th" title="การกำหนดค่า — тайский"><span>ไทย</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80_%D0%BF%D1%80%D0%B8%D1%81%D0%B2%D0%BE%D1%8E%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F" hreflang="uk" lang="uk" title="Оператор присвоювання — украинский"><span>Українська</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/G%C3%A1n_(khoa_h%E1%BB%8Dc_m%C3%A1y_t%C3%ADnh)" hreflang="vi" lang="vi" title="Gán (khoa học máy tính) — вьетнамский"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E6%8C%87%E5%AE%9A%E6%95%98%E8%BF%B0" hreflang="zh" lang="zh" title="指定敘述 — китайский"><span>中文</span></a></li>
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q231158#sitelinks-wikipedia" title="Править ссылки на другие языки">Править ссылки</a></span></div>
+</div>
+</nav>
+</div>
+</div>
+<footer class="mw-footer" id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 8 января 2023 в 19:46.</li>
+<li id="footer-info-copyright">Текст доступен по <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru" rel="license">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a><a href="//creativecommons.org/licenses/by-sa/4.0/" rel="license" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br/>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org/ru/">Фонд Викимедиа (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//ru.m.wikipedia.org/w/index.php?title=%D0%9F%D1%80%D0%B8%D1%81%D0%B2%D0%B0%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;mobileaction=toggle_view_mobile">Мобильная версия</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" loading="lazy" src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88"/></a></li>
+<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" loading="lazy" src="/static/images/footer/poweredby_mediawiki_88x31.png" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88"/></a></li>
+</ul>
+</footer>
+
+
+</body>
+</html>

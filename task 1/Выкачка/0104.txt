@@ -1,0 +1,897 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="ru">
+<head>
+<meta charset="utf-8"/>
+<title>STS-121 — Википедия</title>
+
+
+
+
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+
+
+<meta content="MediaWiki 1.42.0-wmf.18" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="max-image-preview:standard" name="robots"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/STS-121_Launch2.jpg/1200px-STS-121_Launch2.jpg" property="og:image"/>
+<meta content="1200" property="og:image:width"/>
+<meta content="1568" property="og:image:height"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/STS-121_Launch2.jpg/800px-STS-121_Launch2.jpg" property="og:image"/>
+<meta content="800" property="og:image:width"/>
+<meta content="1045" property="og:image:height"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/STS-121_Launch2.jpg/640px-STS-121_Launch2.jpg" property="og:image"/>
+<meta content="640" property="og:image:width"/>
+<meta content="836" property="og:image:height"/>
+<meta content="width=1000" name="viewport"/>
+<meta content="STS-121 — Википедия" property="og:title"/>
+<meta content="website" property="og:type"/>
+
+
+
+
+
+
+
+
+
+
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-STS-121 rootpage-STS-121 skin-vector action-view"><div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators">
+</div>
+<h1 class="firstHeading mw-first-heading" id="firstHeading"><span class="mw-page-title-main">STS-121</span></h1>
+<div class="vector-body" id="bodyContent">
+<div class="noprint" id="siteSub">Материал из Википедии — свободной энциклопедии</div>
+<div id="contentSub"><div id="mw-content-subtitle"><span class="mw-redirectedfrom">(перенаправлено с «<a class="mw-redirect" href="/w/index.php?title=%D0%94%D0%B8%D1%81%D0%BA%D0%B0%D0%B2%D0%B5%D1%80%D0%B8_STS-121&amp;redirect=no" title="Дискавери STS-121">Дискавери STS-121</a>»)</span></div></div>
+<div id="contentSub2"></div>
+<div id="jump-to-nav"></div>
+<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+<div class="mw-body-content" id="mw-content-text"><div class="mw-content-ltr mw-parser-output" dir="ltr" lang="ru"><div class="hatnote navigation-not-searchable noprint dabhide">У этого термина существуют и другие значения, см. <a class="mw-disambig" href="/wiki/STS" title="STS">STS</a>.</div>
+<table class="infobox infobox-7ff721e51b2922b0" data-name="Космическая экспедиция" style=""><tbody><tr><th class="infobox-above" colspan="2" scope="colgroup" style="">STS-121</th></tr><tr><td class="infobox-image" colspan="2" style=""> <span class="wikidata-claim" data-wikidata-claim-id="Q312037$A2C8B00C-5758-446C-B3B5-2833B7DB257E" data-wikidata-property-id="P18"><span class="wikidata-snak wikidata-main-snak"><span typeof="mw:File/Frameless"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:STS-121_Launch2.jpg"><img class="mw-file-element" data-file-height="3000" data-file-width="2296" decoding="async" height="358" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/STS-121_Launch2.jpg/274px-STS-121_Launch2.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/STS-121_Launch2.jpg/411px-STS-121_Launch2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/aa/STS-121_Launch2.jpg/548px-STS-121_Launch2.jpg 2x" width="274"/></a></span></span></span> </td></tr>
+<tr>
+<th class="infobox-header" colspan="2" scope="colgroup" style="">Эмблема</th>
+</tr>
+<tr>
+<td class="plainlist" colspan="2" style="text-align:center;">
+<span class="no-wikidata" data-wikidata-property-id="P154"><span typeof="mw:File/Frameless"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:STS-121_patch.png"><img alt="Изображение логотипа" class="mw-file-element" data-file-height="2785" data-file-width="2785" decoding="async" height="80" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/STS-121_patch.png/80px-STS-121_patch.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/STS-121_patch.png/120px-STS-121_patch.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/de/STS-121_patch.png/160px-STS-121_patch.png 2x" width="80"/></a></span></span></td>
+</tr>
+<tr>
+<th class="infobox-header" colspan="2" scope="colgroup" style="">Общие сведения</th>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Организация</th>
+<td class="plainlist">
+<span class="wikidata-claim" data-wikidata-claim-id="Q312037$6A09E0DB-C6D0-4BD7-9F2C-6D24861B8B52" data-wikidata-property-id="P137"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%9D%D0%90%D0%A1%D0%90" title="НАСА">НАСА</a></span></span></td>
+</tr>
+<tr>
+<th class="infobox-header" colspan="2" scope="colgroup" style="">Полётные данные корабля</th>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Название корабля</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P1876"><a href="/wiki/%D0%94%D0%B8%D1%81%D0%BA%D0%B0%D0%B2%D0%B5%D1%80%D0%B8_(%D1%88%D0%B0%D1%82%D1%82%D0%BB)" title="Дискавери (шаттл)">«Дискавери»</a></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Полёт шаттла №</th>
+<td class="plainlist">
+115</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Полёт «Дискавери» №</th>
+<td class="plainlist">
+32</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Стартовая площадка</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P1427"><span class="flagicon"><span class="mw-image-border noresize noviewer" typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_the_United_States.svg" title="Соединённые Штаты Америки"><img alt="Соединённые Штаты Америки" class="mw-file-element" data-file-height="650" data-file-width="1235" decoding="async" height="12" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/22px-Flag_of_the_United_States.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/33px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/44px-Flag_of_the_United_States.svg.png 2x" width="22"/></a></span></span> <a class="mw-redirect" href="/wiki/%D0%9C%D1%8B%D1%81_%D0%9A%D0%B0%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D0%B0%D0%BB" title="Мыс Канаверал">мыс Канаверал</a> LC-39B</span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Запуск</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P619"><span class="nowrap"><a href="/wiki/4_%D0%B8%D1%8E%D0%BB%D1%8F" title="4 июля">4 июля</a> <a class="mw-redirect" href="/wiki/2006" title="2006">2006</a> 18:37:55 <a class="mw-redirect" href="/wiki/UTC" title="UTC">UTC</a></span></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Стыковка</th>
+<td class="plainlist">
+<a href="/wiki/6_%D0%B8%D1%8E%D0%BB%D1%8F" title="6 июля">6 июля</a> <a class="mw-redirect" href="/wiki/2006" title="2006">2006</a> 14:52 <a class="mw-redirect" href="/wiki/UTC" title="UTC">UTC</a></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Расстыковка</th>
+<td class="plainlist">
+<a href="/wiki/15_%D0%B8%D1%8E%D0%BB%D1%8F" title="15 июля">15 июля</a> <a class="mw-redirect" href="/wiki/2006" title="2006">2006</a> 10:08 <a class="mw-redirect" href="/wiki/UTC" title="UTC">UTC</a></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Посадка корабля</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P620"><a href="/wiki/16_%D0%B8%D1%8E%D0%BB%D1%8F" title="16 июля">16 июля</a> <a class="mw-redirect" href="/wiki/2006" title="2006">2006</a> 12:52 <a class="mw-redirect" href="/wiki/UTC" title="UTC">UTC</a></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Длительность полёта</th>
+<td class="plainlist">
+12 <a href="/wiki/%D0%A1%D1%83%D1%82%D0%BA%D0%B8" title="Сутки">суток</a> 18 <a href="/wiki/%D0%A7%D0%B0%D1%81" title="Час">ч</a> 36 <a href="/wiki/%D0%9C%D0%B8%D0%BD%D1%83%D1%82%D0%B0" title="Минута">мин</a></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Количество витков</th>
+<td class="plainlist">
+203</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Пройденное расстояние</th>
+<td class="plainlist">
+8,85 <a href="/wiki/%D0%9C%D0%B8%D0%BB%D0%BB%D0%B8%D0%BE%D0%BD" title="Миллион">млн</a> км</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Высота орбиты</th>
+<td class="plainlist">
+225 <a href="/wiki/%D0%9A%D0%B8%D0%BB%D0%BE%D0%BC%D0%B5%D1%82%D1%80" title="Километр">км</a> (122 <a href="/wiki/%D0%9C%D0%B8%D0%BB%D1%8F" title="Миля">мили</a>)</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row"><a class="mw-redirect" href="/wiki/%D0%9D%D0%B0%D0%BA%D0%BB%D0%BE%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BE%D1%80%D0%B1%D0%B8%D1%82%D1%8B" title="Наклонение орбиты">Наклонение</a></th>
+<td class="plainlist">
+51,6°</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row"><a href="/wiki/%D0%90%D0%BF%D0%BE%D0%B3%D0%B5%D0%B9" title="Апогей">Апогей</a></th>
+<td class="plainlist">
+<span class="nowrap">354,8 км</span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row"><a href="/wiki/%D0%9F%D0%B5%D1%80%D0%B8%D0%B3%D0%B5%D0%B9" title="Перигей">Перигей</a></th>
+<td class="plainlist">
+<span class="nowrap">352,8 <a href="/wiki/%D0%9A%D0%B8%D0%BB%D0%BE%D0%BC%D0%B5%D1%82%D1%80" title="Километр">км</a></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row"><a class="mw-redirect" href="/wiki/%D0%9F%D0%B5%D1%80%D0%B8%D0%BE%D0%B4_%D0%BE%D0%B1%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D1%8F" title="Период обращения">Период обращения</a></th>
+<td class="plainlist">
+<span class="nowrap">91,6 <a href="/wiki/%D0%9C%D0%B8%D0%BD%D1%83%D1%82%D0%B0" title="Минута">мин</a></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row"><a href="/wiki/%D0%9C%D0%B0%D1%81%D1%81%D0%B0" title="Масса">Масса</a></th>
+<td class="plainlist">
+при старте: <span class="nowrap">121092 <a href="/wiki/%D0%9A%D0%B8%D0%BB%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC" title="Килограмм">кг</a></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row"><a class="mw-redirect" href="/wiki/NSSDC_ID" title="NSSDC ID">NSSDC ID</a></th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P247"><a class="external text" href="https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2006-028A" rel="nofollow">2006-028A</a></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row"><a href="/wiki/%D0%9D%D0%BE%D0%BC%D0%B5%D1%80_%D0%BF%D0%BE_%D1%81%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%BE%D0%BC%D1%83_%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3%D1%83" title="Номер по спутниковому каталогу">SCN</a></th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P377"><a class="external text" href="http://www.n2yo.com/satellite/?s=29251" rel="nofollow">29251</a></span></td>
+</tr>
+<tr>
+<th class="infobox-header" colspan="2" scope="colgroup" style="">Полётные данные экипажа</th>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Членов экипажа</th>
+<td class="plainlist">
+7</td>
+</tr>
+<tr>
+<th class="infobox-header" colspan="2" scope="colgroup" style="">Фотография экипажа</th>
+</tr>
+<tr>
+<td class="plainlist" colspan="2" style="text-align:center;">
+<span typeof="mw:File/Frameless"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Sts121crew.jpg" title="слева-направо: Райтер, Фоссум, Селлерс, Линдсей, Келли, Уилсон, Новак"><img alt="слева-направо: Райтер, Фоссум, Селлерс, Линдсей, Келли, Уилсон, Новак" class="mw-file-element" data-file-height="2040" data-file-width="3072" decoding="async" height="186" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Sts121crew.jpg/280px-Sts121crew.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Sts121crew.jpg/420px-Sts121crew.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/82/Sts121crew.jpg/560px-Sts121crew.jpg 2x" width="280"/></a></span><span class="media-caption" style="display:block;">слева-направо: <a class="mw-redirect" href="/wiki/%D0%A0%D0%B0%D0%B9%D1%82%D0%B5%D1%80,_%D0%A2%D0%BE%D0%BC%D0%B0%D1%81_%D0%90%D1%80%D1%82%D1%83%D1%80" title="Райтер, Томас Артур">Райтер</a>, <a href="/wiki/%D0%A4%D0%BE%D1%81%D1%81%D1%83%D0%BC,_%D0%9C%D0%B0%D0%B9%D0%BA%D0%BB_%D0%AD%D0%B4%D0%B2%D0%B0%D1%80%D0%B4" title="Фоссум, Майкл Эдвард">Фоссум</a>, <a class="mw-redirect" href="/wiki/%D0%A1%D0%B5%D0%BB%D0%BB%D0%B5%D1%80%D1%81,_%D0%9F%D0%B8%D1%80%D1%81_%D0%94%D0%B6%D0%BE%D0%BD" title="Селлерс, Пирс Джон">Селлерс</a>, <a class="mw-redirect" href="/wiki/%D0%9B%D0%B8%D0%BD%D0%B4%D1%81%D0%B5%D0%B9,_%D0%A1%D1%82%D0%B8%D0%B2%D0%B5%D0%BD_%D0%A3%D1%8D%D0%B9%D0%BD" title="Линдсей, Стивен Уэйн">Линдсей</a>, <a href="/wiki/%D0%9A%D0%B5%D0%BB%D0%BB%D0%B8,_%D0%9C%D0%B0%D1%80%D0%BA_%D0%AD%D0%B4%D0%B2%D0%B0%D1%80%D0%B4" title="Келли, Марк Эдвард">Келли</a>, <a class="mw-redirect" href="/wiki/%D0%A3%D0%B8%D0%BB%D1%81%D0%BE%D0%BD,_%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD%D0%B8_%D0%94%D0%B8%D0%B0%D0%BD%D0%B0" title="Уилсон, Стефани Диана">Уилсон</a>, <a href="/wiki/%D0%9D%D0%BE%D0%B2%D0%B0%D0%BA,_%D0%9B%D0%B8%D0%B7%D0%B0_%D0%9C%D0%B0%D1%80%D0%B8%D1%8F" title="Новак, Лиза Мария">Новак</a></span></td>
+</tr><tr><td class="infobox-below" colspan="2" style=";"><div aria-label="Хронология" class="ts-Карточка-хронология plainlist"><div aria-label="Предыдущий" class="ts-Карточка-хронология-prev is-local"><a href="/wiki/STS-114" title="STS-114">STS-114</a> <span typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:STS-114_patch.svg" title="STS-114"><img alt="STS-114" class="mw-file-element" data-file-height="3660" data-file-width="5000" decoding="async" height="29" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/STS-114_patch.svg/40px-STS-114_patch.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/STS-114_patch.svg/60px-STS-114_patch.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/35/STS-114_patch.svg/80px-STS-114_patch.svg.png 2x" width="40"/></a></span></div><div aria-label="Следующий" class="ts-Карточка-хронология-next is-local"><a href="/wiki/STS-115" title="STS-115">STS-115</a> <span typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:STS-115_patch.svg" title="STS-115"><img alt="STS-115" class="mw-file-element" data-file-height="1350" data-file-width="1149" decoding="async" height="35" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/STS-115_patch.svg/30px-STS-115_patch.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/STS-115_patch.svg/45px-STS-115_patch.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3f/STS-115_patch.svg/60px-STS-115_patch.svg.png 2x" width="30"/></a></span></div></div></td></tr><tr><td class="infobox-below" colspan="2" style=";"><span class="wikidata-claim" data-wikidata-claim-id="q312037$32FE2811-A45F-4728-A5E5-6B13616523E2" data-wikidata-property-id="P373"><span class="wikidata-snak wikidata-main-snak"><span typeof="mw:File"><a href="https://commons.wikimedia.org/wiki/Category:STS-121" title="commons:Category:STS-121"><img alt="Логотип Викисклада" class="mw-file-element" data-file-height="1376" data-file-width="1024" decoding="async" height="20" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/15px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/23px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 2x" width="15"/></a></span> <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:STS-121" title="commons:Category:STS-121">Медиафайлы на Викискладе</a></span></span></td></tr>
+</tbody></table>
+<p><b>STS-121</b> — <a href="/wiki/%D0%9F%D0%B8%D0%BB%D0%BE%D1%82%D0%B8%D1%80%D1%83%D0%B5%D0%BC%D1%8B%D0%B9_%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%BE%D0%BB%D1%91%D1%82" title="Пилотируемый космический полёт">космический полёт</a> MTKK <a href="/wiki/%D0%94%D0%B8%D1%81%D0%BA%D0%B0%D0%B2%D0%B5%D1%80%D0%B8_(%D1%88%D0%B0%D1%82%D1%82%D0%BB)" title="Дискавери (шаттл)">«Дискавери»</a> по <a href="/wiki/%D0%A1%D0%BF%D0%B5%D0%B9%D1%81_%D1%88%D0%B0%D1%82%D1%82%D0%BB" title="Спейс шаттл">программе «Спейс Шаттл»</a>, с 4 по 16 июля <a href="/wiki/2006_%D0%B3%D0%BE%D0%B4" title="2006 год">2006 года</a>, второй испытательный полёт по программе <a class="new" href="/w/index.php?title=%D0%92%D0%BE%D0%B7%D0%B2%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BA_%D0%BF%D0%BE%D0%BB%D1%91%D1%82%D0%B0%D0%BC_(%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0)&amp;action=edit&amp;redlink=1" title="Возвращение к полётам (космическая программа) (страница отсутствует)">«Возвращение к полётам»</a> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">Return To Flight, RTF</span>)<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup>.
+</p><p>После <a class="mw-redirect" href="/wiki/%D0%9A%D0%B0%D1%82%D0%B0%D1%81%D1%82%D1%80%D0%BE%D1%84%D0%B0_%D0%9A%D0%BE%D0%BB%D1%83%D0%BC%D0%B1%D0%B8%D0%B8" title="Катастрофа Колумбии">катастрофы «Колумбии»</a> в феврале 2003 года, для проверки проведённых усовершенствований и испытания новых процедур, призванных повысить безопасность полётов, специалисты <a href="/wiki/%D0%9D%D0%90%D0%A1%D0%90" title="НАСА">НАСА</a> решили провести два испытательных полёта по программе «Возвращение к полётам».
+</p><p>Первоначально STS-121 должен был стать полётом по обслуживанию телескопа <a href="/wiki/%D0%A5%D0%B0%D0%B1%D0%B1%D0%BB_(%D1%82%D0%B5%D0%BB%D0%B5%D1%81%D0%BA%D0%BE%D0%BF)" title="Хаббл (телескоп)">«Хаббл»</a>, для выполнения которого предполагалось использовать шаттл <a href="/wiki/%D0%9A%D0%BE%D0%BB%D1%83%D0%BC%D0%B1%D0%B8%D1%8F_(%D1%88%D0%B0%D1%82%D1%82%D0%BB)" title="Колумбия (шаттл)">«Колумбия»</a>. Поскольку после катастрофы этот полёт был отменён, а номера с STS-115 до STS-120 в расписании НАСА были заняты, для второго старта по программе «Возвращение к полётам» был выбран ближайший свободный номер — STS-121.
+</p><p>Первоначально предполагалось выполнить два испытательных полёта: первый — STS-114 с шаттлом <a class="mw-redirect" href="/wiki/%D0%90%D1%82%D0%BB%D0%B0%D0%BD%D1%82%D0%B8%D1%81_(%D1%88%D0%B0%D1%82%D1%82%D0%BB)" title="Атлантис (шаттл)">«Атлантис»</a>, второй — STS-121 c «Дискавери» (предварительно намеченный на сентябрь 2005 года). Однако, когда во время подготовки к STS-114 обнаружились проблемы с шасси «Атлантиса», последовательность полётов шаттлов изменили. 
+Первым в рамках программы «Возвращение к полётам» полетел «Дискавери» (<a class="mw-redirect" href="/wiki/%D0%94%D0%B8%D1%81%D0%BA%D0%B0%D0%B2%D0%B5%D1%80%D0%B8_STS-114" title="Дискавери STS-114">Дискавери STS-114</a>, с 26 июля по 9 августа 2005). Затем была ещё одна перестановка: теперь «Атлантис» был назначен в <a class="mw-redirect" href="/wiki/%D0%90%D1%82%D0%BB%D0%B0%D0%BD%D1%82%D0%B8%D1%81_STS-115" title="Атлантис STS-115">STS-115</a>, а шаттл «Дискавери» — в STS-121, как это и планировалось вначале.
+</p><p>Как уже говорилось, старт STS-121 был намечен на осень 2005 года. Однако во время первого полёта по программе «Возвращение к полётам» («Дискавери» STS-114) выяснилось, что проблемы с отслаивающейся <a href="/wiki/%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%B8%D0%B7%D0%BE%D0%BB%D1%8F%D1%86%D0%B8%D1%8F" title="Теплоизоляция">термоизоляцией</a> <a href="/wiki/%D0%A2%D0%BE%D0%BF%D0%BB%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9_%D0%B1%D0%B0%D0%BA" title="Топливный бак">топливного бака</a> полностью устранены не были. Для их решения специалистам НАСА потребовалось дополнительное время, поэтому новый полёт был перенесён на 2006 год. По предварительному решению, старт должен был состояться не ранее 1 июля 2006 года.
+</p><p>В случае повреждения «Дискавери» при старте и невозможности его безопасного возвращения на Землю, <a class="mw-redirect" href="/wiki/%D0%90%D1%81%D1%82%D1%80%D0%BE%D0%BD%D0%B0%D0%B2%D1%82" title="Астронавт">астронавты</a> должны были остаться на <a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F" title="Международная космическая станция">МКС</a> и дожидаться спасательной экспедиции «Атлантиса» <a class="new" href="/w/index.php?title=%D0%90%D1%82%D0%BB%D0%B0%D0%BD%D1%82%D0%B8%D1%81_STS-300&amp;action=edit&amp;redlink=1" title="Атлантис STS-300 (страница отсутствует)">STS-300</a>, которая могла бы стартовать в августе 2006 года. Такая мера предосторожности была рекомендована комиссией, расследовавшей катастрофу «Колумбии».
+</p>
+<div aria-labelledby="mw-toc-heading" class="toc" id="toc" role="navigation"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="ru"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Экипаж"><span class="tocnumber">1</span> <span class="toctext">Экипаж</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Выходы_в_открытый_космос"><span class="tocnumber">2</span> <span class="toctext">Выходы в открытый космос</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Подготовка_к_полёту"><span class="tocnumber">3</span> <span class="toctext">Подготовка к полёту</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Описание_полёта"><span class="tocnumber">4</span> <span class="toctext">Описание полёта</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Итоги"><span class="tocnumber">5</span> <span class="toctext">Итоги</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#См._также"><span class="tocnumber">6</span> <span class="toctext">См. также</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Ссылки"><span class="tocnumber">7</span> <span class="toctext">Ссылки</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Примечания"><span class="tocnumber">8</span> <span class="toctext">Примечания</span></a></li>
+</ul>
+</div>
+<h2><span id=".D0.AD.D0.BA.D0.B8.D0.BF.D0.B0.D0.B6"></span><span class="mw-headline" id="Экипаж"><a href="/wiki/%D0%AD%D0%BA%D0%B8%D0%BF%D0%B0%D0%B6" title="Экипаж">Экипаж</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=STS-121&amp;veaction=edit&amp;section=1" title="Редактировать раздел «Экипаж»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=STS-121&amp;action=edit&amp;section=1" title="Редактировать код раздела «Экипаж»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="mw-redirect" href="/wiki/%D0%9B%D0%B8%D0%BD%D0%B4%D1%81%D0%B5%D0%B9,_%D0%A1%D1%82%D0%B8%D0%B2%D0%B5%D0%BD_%D0%A3%D1%8D%D0%B9%D0%BD" title="Линдсей, Стивен Уэйн">Стивен Линдсей</a> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">Steven Lindsey</span>) (4-й космический полёт), командир экспедиции.</li>
+<li><a href="/wiki/%D0%9A%D0%B5%D0%BB%D0%BB%D0%B8,_%D0%9C%D0%B0%D1%80%D0%BA_%D0%AD%D0%B4%D0%B2%D0%B0%D1%80%D0%B4" title="Келли, Марк Эдвард">Марк Келли</a> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">Mark Kelly</span>) (2), пилот.</li>
+<li><a href="/wiki/%D0%A4%D0%BE%D1%81%D1%81%D1%83%D0%BC,_%D0%9C%D0%B0%D0%B9%D0%BA%D0%BB_%D0%AD%D0%B4%D0%B2%D0%B0%D1%80%D0%B4" title="Фоссум, Майкл Эдвард">Майкл Фоссум</a> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">Michael E. Fossum</span>) (1), специалист по программе полёта 1.</li>
+<li><a href="/wiki/%D0%9D%D0%BE%D0%B2%D0%B0%D0%BA,_%D0%9B%D0%B8%D0%B7%D0%B0_%D0%9C%D0%B0%D1%80%D0%B8%D1%8F" title="Новак, Лиза Мария">Лиза Новак</a> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">Lisa Nowak</span>) (1), специалист по программе полёта 2.</li>
+<li><a class="mw-redirect" href="/wiki/%D0%A3%D0%B8%D0%BB%D1%81%D0%BE%D0%BD,_%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD%D0%B8_%D0%94%D0%B8%D0%B0%D0%BD%D0%B0" title="Уилсон, Стефани Диана">Стефани Уилсон</a> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">Stephanie Wilson</span>) (1), специалист по программе полёта 3.</li>
+<li><a class="mw-redirect" href="/wiki/%D0%A1%D0%B5%D0%BB%D0%BB%D0%B5%D1%80%D1%81,_%D0%9F%D0%B8%D1%80%D1%81_%D0%94%D0%B6%D0%BE%D0%BD" title="Селлерс, Пирс Джон">Пирс Селлерс</a> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">Piers Sellers</span>) (2), специалист по программе полёта 4.</li>
+<li><a class="mw-redirect" href="/wiki/%D0%A0%D0%B0%D0%B9%D1%82%D0%B5%D1%80,_%D0%A2%D0%BE%D0%BC%D0%B0%D1%81_%D0%90%D1%80%D1%82%D1%83%D1%80" title="Райтер, Томас Артур">Томас Райтер</a> (<a href="/wiki/%D0%9D%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Немецкий язык">нем.</a> <span lang="de" style="font-style:italic;">Thomas Arthur Reiter</span>) (2) (<a href="/wiki/%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F" title="Германия">Германия</a>), специалист по программе полёта 5, бортинженер-2 <a href="/wiki/%D0%9C%D0%9A%D0%A1-13" title="МКС-13">МКС-13</a>, <a class="mw-redirect" href="/wiki/%D0%90%D1%81%D1%82%D1%80%D0%BE%D0%BD%D0%B0%D0%B2%D1%82" title="Астронавт">астронавт</a> <a href="/wiki/%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%BE%D0%B5_%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%B0%D0%B3%D0%B5%D0%BD%D1%82%D1%81%D1%82%D0%B2%D0%BE" title="Европейское космическое агентство">Европейского космического агентства</a>.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup></li></ul>
+<p>Командир экипажа Стивен Линдсей, пилот Марк Келли и специалисты полёта Карлос Норьега и Майкл Фоссум были включены в состав экипажа <a href="/wiki/2_%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8F" title="2 декабря">2 декабря</a> <a href="/wiki/2003_%D0%B3%D0%BE%D0%B4" title="2003 год">2003 года</a>. Астронавт Пирс Селлерс заменил <a class="mw-redirect" href="/wiki/%D0%9D%D0%BE%D1%80%D1%8C%D0%B5%D0%B3%D0%B0,_%D0%9A%D0%B0%D1%80%D0%BB%D0%BE%D1%81_%D0%98%D1%81%D0%BC%D0%B0%D0%B5%D0%BB%D1%8C" title="Норьега, Карлос Исмаель">Карлоса Норьегу</a>, ранее включенного в состав экипажа, но отстраненного от полёта по медицинским показаниям <a href="/wiki/15_%D0%B8%D1%8E%D0%BB%D1%8F" title="15 июля">15 июля</a> <a href="/wiki/2004_%D0%B3%D0%BE%D0%B4" title="2004 год">2004 года</a>. Женщины-астронавты Лиза Новак и Стефани Уилсон были включены в состав экипажа <a href="/wiki/18_%D0%BD%D0%BE%D1%8F%D0%B1%D1%80%D1%8F" title="18 ноября">18 ноября</a> 2004 года.
+</p><p>Стартовав с STS-121, Томас Райтер присоединился к экипажу долговременной экспедиции <a href="/wiki/%D0%9C%D0%9A%D0%A1-13" title="МКС-13">МКС-13</a> и на семь месяцев остался на борту <a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F" title="Международная космическая станция">МКС</a>. Он вернулся на <a href="/wiki/%D0%97%D0%B5%D0%BC%D0%BB%D1%8F" title="Земля">Землю</a> <a href="/wiki/22_%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8F" title="22 декабря">22 декабря</a> <a href="/wiki/2006_%D0%B3%D0%BE%D0%B4" title="2006 год">2006 года</a> с астронавтами экипажа <a class="mw-redirect" href="/wiki/%D0%94%D0%B8%D1%81%D0%BA%D0%B0%D0%B2%D0%B5%D1%80%D0%B8_STS-116" title="Дискавери STS-116">«Дискавери» STS-116</a>. Таким образом, в долговременной экспедиции на МКС вновь после трёхлетнего перерыва вновь стали работать три космонавта. Последняя долговременная экспедиция (<a href="/wiki/%D0%9C%D0%9A%D0%A1-6" title="МКС-6">МКС-6</a>), состоящая из трёх человек, вернулась на Землю <a href="/wiki/4_%D0%BC%D0%B0%D1%8F" title="4 мая">4 мая</a> <a href="/wiki/2003_%D0%B3%D0%BE%D0%B4" title="2003 год">2003 года</a>. Без возобновления полётов шаттлов было бы невозможным обеспечить постоянное присутствие трёх космонавтов на борту МКС.
+</p><p>В экипаже «Дискавери» — трое ранее не летавших астронавтов: Майкл Фоссум, Лиза Новак и Стефани Уилсон.
+</p>
+<h2><span id=".D0.92.D1.8B.D1.85.D0.BE.D0.B4.D1.8B_.D0.B2_.D0.BE.D1.82.D0.BA.D1.80.D1.8B.D1.82.D1.8B.D0.B9_.D0.BA.D0.BE.D1.81.D0.BC.D0.BE.D1.81"></span><span class="mw-headline" id="Выходы_в_открытый_космос"><a href="/wiki/%D0%92%D1%8B%D1%85%D0%BE%D0%B4_%D0%B2_%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D0%B9_%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D1%81" title="Выход в открытый космос">Выходы в открытый космос</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=STS-121&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Выходы в открытый космос»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=STS-121&amp;action=edit&amp;section=2" title="Редактировать код раздела «Выходы в открытый космос»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:STS-121_Sellers_Fossum_RMS-OBSS.jpg"><img class="mw-file-element" data-file-height="2000" data-file-width="3032" decoding="async" height="132" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/STS-121_Sellers_Fossum_RMS-OBSS.jpg/200px-STS-121_Sellers_Fossum_RMS-OBSS.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/STS-121_Sellers_Fossum_RMS-OBSS.jpg/300px-STS-121_Sellers_Fossum_RMS-OBSS.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/STS-121_Sellers_Fossum_RMS-OBSS.jpg/400px-STS-121_Sellers_Fossum_RMS-OBSS.jpg 2x" width="200"/></a><figcaption><a class="mw-redirect" href="/wiki/%D0%A1%D0%B5%D0%BB%D0%BB%D0%B5%D1%80%D1%81,_%D0%9F%D0%B8%D1%80%D1%81_%D0%94%D0%B6%D0%BE%D0%BD" title="Селлерс, Пирс Джон">Селлерс</a> и <a href="/wiki/%D0%A4%D0%BE%D1%81%D1%81%D1%83%D0%BC,_%D0%9C%D0%B0%D0%B9%D0%BA%D0%BB_%D0%AD%D0%B4%D0%B2%D0%B0%D1%80%D0%B4" title="Фоссум, Майкл Эдвард">Фоссум</a> — первый <a href="/wiki/%D0%92%D1%8B%D1%85%D0%BE%D0%B4_%D0%B2_%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D0%B9_%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D1%81" title="Выход в открытый космос">выход</a>.</figcaption></figure>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Piers_Sellers_spacewalk.jpg"><img class="mw-file-element" data-file-height="2007" data-file-width="3032" decoding="async" height="132" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Piers_Sellers_spacewalk.jpg/200px-Piers_Sellers_spacewalk.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Piers_Sellers_spacewalk.jpg/300px-Piers_Sellers_spacewalk.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/08/Piers_Sellers_spacewalk.jpg/400px-Piers_Sellers_spacewalk.jpg 2x" width="200"/></a><figcaption><a class="mw-redirect" href="/wiki/%D0%A1%D0%B5%D0%BB%D0%BB%D0%B5%D1%80%D1%81,_%D0%9F%D0%B8%D1%80%D1%81_%D0%94%D0%B6%D0%BE%D0%BD" title="Селлерс, Пирс Джон">Селлерс</a> в открытом космосе.</figcaption></figure>
+<ul><li>Выход 1 — <i><b><a class="mw-redirect" href="/wiki/%D0%A1%D0%B5%D0%BB%D0%BB%D0%B5%D1%80%D1%81,_%D0%9F%D0%B8%D1%80%D1%81_%D0%94%D0%B6%D0%BE%D0%BD" title="Селлерс, Пирс Джон">Селлерс</a> и <a href="/wiki/%D0%A4%D0%BE%D1%81%D1%81%D1%83%D0%BC,_%D0%9C%D0%B0%D0%B9%D0%BA%D0%BB_%D0%AD%D0%B4%D0%B2%D0%B0%D1%80%D0%B4" title="Фоссум, Майкл Эдвард">Фоссум</a></b></i><sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup></li>
+<li><b>Цель</b>: ремонт <a class="new" href="/w/index.php?title=%D0%9C%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82%D1%91%D1%80_%D0%9C%D0%9A%D0%A1&amp;action=edit&amp;redlink=1" title="Мобильный транспортёр МКС (страница отсутствует)">мобильного транспортёра МКС</a> и испытание удлинителя <a href="/wiki/%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D0%B0%D1%80%D0%BC2" title="Канадарм2">робота-манипулятора</a>.</li>
+<li><b>Начало</b>: <a href="/wiki/8_%D0%B8%D1%8E%D0%BB%D1%8F" title="8 июля">8 июля</a> <a class="mw-redirect" href="/wiki/2006" title="2006">2006</a> — 13:17 <a class="mw-redirect" href="/wiki/UTC" title="UTC">UTC</a></li>
+<li><b>Окончание</b>: 8 июля — 20:49 UTC</li>
+<li><b>Продолжительность</b>: 7 <a href="/wiki/%D0%A7%D0%B0%D1%81" title="Час">часов</a> 32 <a href="/wiki/%D0%9C%D0%B8%D0%BD%D1%83%D1%82%D0%B0" title="Минута">минуты</a></li></ul>
+<p>66-й выход в космос связанный с <a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F" title="Международная космическая станция">МКС</a>, 38-й выход непосредственно из МКС и 20-й выход из <a href="/wiki/%D0%A1%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D0%A8%D1%82%D0%B0%D1%82%D1%8B_%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B8" title="Соединённые Штаты Америки">американского</a> <a href="/wiki/%D0%9A%D0%B2%D0%B5%D1%81%D1%82_(%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C_%D0%9C%D0%9A%D0%A1)" title="Квест (модуль МКС)">модуля «Квест»</a> в американских <a href="/wiki/%D0%A1%D0%BA%D0%B0%D1%84%D0%B0%D0%BD%D0%B4%D1%80" title="Скафандр">скафандрах</a>, 4-й выход в космос Пирса Селлерса и 1-й — Майкла Фоссума.
+</p>
+<ul><li>Выход 2 — <i><b>Селлерс и Фоссум</b></i><sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup></li>
+<li><b>Цель</b>: установка <a href="/wiki/%D0%9D%D0%B0%D1%81%D0%BE%D1%81" title="Насос">насоса</a> системы термоконтроля на внешней поверхности <a class="mw-redirect" href="/wiki/%D0%A8%D0%BB%D1%8E%D0%B7%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B0%D0%BC%D0%B5%D1%80%D0%B0" title="Шлюзовая камера">шлюзового модуля</a> «Квест» и работы на мобильном транспортере.</li>
+<li><b>Начало</b>: <a href="/wiki/10_%D0%B8%D1%8E%D0%BB%D1%8F" title="10 июля">10 июля</a> 2006 — 12:14 UTC</li>
+<li><b>Окончание</b>: 10 июля — 19:01 UTC</li>
+<li><b>Продолжительность</b>: 6 часов 47 минут</li></ul>
+<p>67-й выход в космос связанный с МКС, 39-й выход непосредственно из МКС, 21-й выход из американского модуля «Квест» в американских скафандрах, 5-й выход в космос Пирса Селлерса и 2-й выход Майкла Фоссума.
+</p>
+<ul><li>Выход 3 — <i><b>Селлерс и Фоссум</b></i><sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup></li>
+<li><b>Цель</b>: испытание техники обследования и ремонта стыков <a href="/wiki/%D0%A3%D0%B3%D0%BB%D0%B5%D1%80%D0%BE%D0%B4" title="Углерод">углерод</a>-углеродного теплозащитного покрытия, которое закрывает носовую часть и передние кромки <a class="mw-redirect" href="/wiki/%D0%9A%D1%80%D1%8B%D0%BB%D0%BE_(%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D1%91%D1%82)" title="Крыло (самолёт)">крыльев</a> <a class="mw-redirect" href="/wiki/%D0%A1%D0%BF%D0%B5%D0%B9%D1%81_%D0%A8%D0%B0%D1%82%D1%82%D0%BB" title="Спейс Шаттл">шаттлов</a>.</li>
+<li><b>Начало</b>: <a href="/wiki/12_%D0%B8%D1%8E%D0%BB%D1%8F" title="12 июля">12 июля</a> 2006 — 11:20 UTC</li>
+<li><b>Окончание</b>: 12 июля — 18:31 UTC</li>
+<li><b>Продолжительность</b>: 7 часов 11 минут</li></ul>
+<p>68-й выход в космос связанный с МКС, 40-й выход непосредственно из МКС, 22-й выход из американского модуля «Квест» в американских скафандрах, 6-й выход в космос Пирса Селлерса и 3-й выход Майкла Фоссума.
+</p>
+<h2><span id=".D0.9F.D0.BE.D0.B4.D0.B3.D0.BE.D1.82.D0.BE.D0.B2.D0.BA.D0.B0_.D0.BA_.D0.BF.D0.BE.D0.BB.D1.91.D1.82.D1.83"></span><span class="mw-headline" id="Подготовка_к_полёту">Подготовка к полёту</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=STS-121&amp;veaction=edit&amp;section=3" title="Редактировать раздел «Подготовка к полёту»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=STS-121&amp;action=edit&amp;section=3" title="Редактировать код раздела «Подготовка к полёту»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Pegasus_barge_being_moved_by_Freedom_Star_and_towboat_American_1.jpg"><img class="mw-file-element" data-file-height="1875" data-file-width="3000" decoding="async" height="94" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Pegasus_barge_being_moved_by_Freedom_Star_and_towboat_American_1.jpg/150px-Pegasus_barge_being_moved_by_Freedom_Star_and_towboat_American_1.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Pegasus_barge_being_moved_by_Freedom_Star_and_towboat_American_1.jpg/225px-Pegasus_barge_being_moved_by_Freedom_Star_and_towboat_American_1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Pegasus_barge_being_moved_by_Freedom_Star_and_towboat_American_1.jpg/300px-Pegasus_barge_being_moved_by_Freedom_Star_and_towboat_American_1.jpg 2x" width="150"/></a><figcaption>Транспортировка внешнего <a href="/wiki/%D0%A2%D0%BE%D0%BF%D0%BB%D0%B8%D0%B2%D0%BE" title="Топливо">топливного</a> бака</figcaption></figure>
+<p><a href="/wiki/1_%D0%BC%D0%B0%D1%80%D1%82%D0%B0" title="1 марта">1 марта</a> в <a href="/wiki/%D0%9A%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%86%D0%B5%D0%BD%D1%82%D1%80_%D0%9A%D0%B5%D0%BD%D0%BD%D0%B5%D0%B4%D0%B8" title="Космический центр Кеннеди">Космический центр Кеннеди</a>, на <a class="mw-redirect" href="/wiki/%D0%9C%D1%8B%D1%81_%D0%9A%D0%B0%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D0%B0%D0%BB" title="Мыс Канаверал">мысе Канаверал</a>, доставлен внешний топливный бак (ET-119) для <a href="/wiki/%D0%94%D0%B8%D1%81%D0%BA%D0%B0%D0%B2%D0%B5%D1%80%D0%B8_(%D1%88%D0%B0%D1%82%D1%82%D0%BB)" title="Дискавери (шаттл)">«Дискавери»</a>. Топливный бак был модернизирован на предприятии «Michoud Assembly Facility», компании «Lockheed Martin», в <a href="/wiki/%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9_%D0%9E%D1%80%D0%BB%D0%B5%D0%B0%D0%BD" title="Новый Орлеан">Новом Орлеане</a>. Доставка топливного бака осуществлялась морем с <a href="/wiki/25_%D1%84%D0%B5%D0%B2%D1%80%D0%B0%D0%BB%D1%8F" title="25 февраля">25 февраля</a> по <a href="/wiki/1_%D0%BC%D0%B0%D1%80%D1%82%D0%B0" title="1 марта">1 марта</a>. Прибывший топливный бак был перевезён в <a class="mw-redirect" href="/wiki/%D0%97%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B2%D0%B5%D1%80%D1%82%D0%B8%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9_%D1%81%D0%B1%D0%BE%D1%80%D0%BA%D0%B8_(%D0%9A%D0%B0%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D0%B0%D0%BB)" title="Здание вертикальной сборки (Канаверал)">здание вертикальной сборки</a> шаттла, где был испытан в аэродинамическом туннеле, и затем к нему были подвешены два твердотопливных ускорителя.
+</p><p><a href="/wiki/14_%D0%BC%D0%B0%D1%80%D1%82%D0%B0" title="14 марта">14 марта</a> 2006 года НАСА объявило о переносе старта миссии «Дискавери» STS-121. Новое окно для старта: 1 — 19 июля 2006 года. Решение о переносе связано с проблемой в функционировании датчиков, которые контролируют уровень топлива во внешнем топливном боке.
+</p><p><a href="/wiki/12_%D0%BC%D0%B0%D1%8F" title="12 мая">12 мая</a> <a class="mw-redirect" href="/wiki/%D0%A1%D0%BF%D0%B5%D0%B9%D1%81_%D0%A8%D0%B0%D1%82%D1%82%D0%BB" title="Спейс Шаттл">шаттл</a> <a href="/wiki/%D0%94%D0%B8%D1%81%D0%BA%D0%B0%D0%B2%D0%B5%D1%80%D0%B8_(%D1%88%D0%B0%D1%82%D1%82%D0%BB)" title="Дискавери (шаттл)">«Дискавери»</a> перевезён из ангара, где он хранился, в здание вертикальной сборки. Здесь он будет соединен с внешним топливным баком и двумя твердотопливными ускорителями. <a href="/wiki/16_%D0%BC%D0%B0%D1%8F" title="16 мая">16 мая</a> в грузовой отсек шаттла будет вложен транспортный модуль «Леонардо». На <a href="/wiki/19_%D0%BC%D0%B0%D1%8F" title="19 мая">19 мая</a> намечена перевозка шаттла на стартовую площадку.
+</p>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:STS-121_at_the_pad.jpg"><img class="mw-file-element" data-file-height="3008" data-file-width="2000" decoding="async" height="226" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/STS-121_at_the_pad.jpg/150px-STS-121_at_the_pad.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/STS-121_at_the_pad.jpg/225px-STS-121_at_the_pad.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3f/STS-121_at_the_pad.jpg/300px-STS-121_at_the_pad.jpg 2x" width="150"/></a><figcaption>«Дискавери» на стартовой позиции</figcaption></figure>
+<p>19 мая шаттл «Дискавери», соединённый с внешним топливным баком и двумя твердотопливными ускорителями, был перевезён из <a class="mw-redirect" href="/wiki/%D0%97%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B2%D0%B5%D1%80%D1%82%D0%B8%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9_%D1%81%D0%B1%D0%BE%D1%80%D0%BA%D0%B8_(%D0%9A%D0%B0%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D0%B0%D0%BB)" title="Здание вертикальной сборки (Канаверал)">здания вертикальной сборки</a> на стартовую площадку. С этого момента началась непосредственная подготовка к миссии STS-121, благоприятное окно для старта которой начиналось с 1 июля и заканчивалось 19 июля.
+Транспортировка шаттла началась в 16:45 (UTC). Расстояние от здания вертикальной сборки до стартовой площадки — 4,2 <a href="/wiki/%D0%9C%D0%B8%D0%BB%D1%8F" title="Миля">мили</a>, максимальная скорость транспортировки — 1 миля в час.
+</p><p>Запуск «Дискавери» STS-121 был назначен на 1 июля 15:48 EDT (19:48 UTC, 23:48 московское время)
+</p><p>Незадолго перед назначенным временем старта 1 июля (23 часа 48 минут, московского времени) старт «Дискавери» STS-121 был отменён. Причина отмены — неблагоприятные погодные условия. Следующая попытка была возможна в воскресенье, 2 июля в 23 часа 26 минут, однако старт вновь перенесён по той же причине — неблагоприятные погодные условия. Руководством НАСА было решено, что следующая попытка будет предпринята 4 июля в 18:38 UTC, в <a href="/wiki/%D0%94%D0%B5%D0%BD%D1%8C_%D0%BD%D0%B5%D0%B7%D0%B0%D0%B2%D0%B8%D1%81%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8_%D0%A1%D0%A8%D0%90" title="День независимости США">День независимости США</a>.
+</p>
+<h2><span id=".D0.9E.D0.BF.D0.B8.D1.81.D0.B0.D0.BD.D0.B8.D0.B5_.D0.BF.D0.BE.D0.BB.D1.91.D1.82.D0.B0"></span><span class="mw-headline" id="Описание_полёта">Описание полёта</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=STS-121&amp;veaction=edit&amp;section=4" title="Редактировать раздел «Описание полёта»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=STS-121&amp;action=edit&amp;section=4" title="Редактировать код раздела «Описание полёта»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>После двух отменённых попыток старта, 4 июля 2006 года, в 18:38 UTC шаттл «Дискавери» STS-121 стартовал с космодрома на мысе Канаверал. В 19:23 UTC «Дискавери» вышел на стабильную орбиту с апогеем — 229 км и перигеем — 156 км.
+</p><p><b>5 июля</b>. В первые сутки на орбите астронавты готовились к стыковке с МКС, которая была назначена на 6 июля 14:51 UTC. 5 июля астронавты с помощью камер, установленных на манипуляторе шаттла, осмотрели доступные области внешней поверхности шаттла, на предмет поиска возможных повреждений в теплозащитном покрытии шаттла, и не обнаружили их.
+</p>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:STS-121_Discovery_approaching_ISS.jpg"><img class="mw-file-element" data-file-height="2005" data-file-width="3032" decoding="async" height="99" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/STS-121_Discovery_approaching_ISS.jpg/150px-STS-121_Discovery_approaching_ISS.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/STS-121_Discovery_approaching_ISS.jpg/225px-STS-121_Discovery_approaching_ISS.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/66/STS-121_Discovery_approaching_ISS.jpg/300px-STS-121_Discovery_approaching_ISS.jpg 2x" width="150"/></a><figcaption>«Дискавери» приближается к МКС</figcaption></figure>
+<p><b>6 июля</b>, при подлёте «Дискавери» к МКС, космонавты 13-й долговременной экспедиции МКС <a href="/wiki/%D0%92%D0%B8%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D0%BE%D0%B2,_%D0%9F%D0%B0%D0%B2%D0%B5%D0%BB_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Виноградов, Павел Владимирович">Павел Виноградов</a> и <a href="/wiki/%D0%A3%D0%B8%D0%BB%D1%8C%D1%8F%D0%BC%D1%81,_%D0%94%D0%B6%D0%B5%D1%84%D1%84%D1%80%D0%B8_%D0%9D%D0%B5%D0%BB%D1%81" title="Уильямс, Джеффри Нелс">Джеффри Уильямс</a>, через иллюминаторы МКС, фотографировали внешнюю поверхность шаттла, с целю обнаружения возможных повреждений. Фотографии сделанные экипажем МКС были переданы на Землю, для изучения специалистами. В 14:52 UTC шаттл «Дискавери» состыковался с Международной космической станцией. Переходный люк между «Дискавери» и МКС был открыт в 16:30 UTC. На орбите встретились экипаж МКС: командир 13-й экспедиции Павел Виноградов, бортинженер Джеффри Уильямс и экипаж «Дискавери»: Стивен Линдсей, Марк Келли, Майкл Фоссум, Лиза Новак, Стефании Уильсон, Пирс Селлерс и Томас Райтер.
+</p><p><b>7 июля</b> астронавты с помощью робота-манипулятора МКС «Канадарм-2» достали многофункциональный грузовой модуль «Леонардо» из грузового отсека шаттла и пристыковали его к МКС. В модуле «Леонардо» находилось более 3,5 тонн полезного груза, необходимого для продолжения работы МКС и его экипажа. Астронавты готовились к намеченному на следующий день в 13:13 UTC, первому выходу в открытый космос, готовили шлюзовой модуль «Квест» и инструменты, которые будут использованы астронавтами Фоссумом и Селлерсом во время выхода в космос.
+</p><p><b>8 июля</b> астронавты Пирс Селлерс и Майкл Фоссум совершили выход в открытый космос. Выход начался в 13:17 UTC и закончился в 20:49, продолжительность выхода составила 7 часов 32 минуты. Во время выхода астронавты ремонтировали мобильный транспортёр МКС и испытывали удлинитель робота-манипулятора. НАСА приняло решение продлить полёт «Дискавери» на одни сутки и выполнить ещё один выход в космос. Было решено, что астронавты Селлерс и Фоссум выйдут второй раз в космос в понедельник (10 июля) и третий раз в среду (12 июля), и что во время третьего выхода астронавты будут обследовать теплозащитное покрытие шаттла.
+</p><p><b>9 июля</b> астронавты продолжили разгрузку грузового модуля «Леонардо» и подготовку ко второму выходу в открытый космос. Кроме этого экипаж провёл пресс-конференцию, которая транслировалась телевидением НАСА.
+</p><p><b>10 июля</b> астронавты Пирс Селлерс и Майкл Фоссум выполнили второй выход в открытый космос. Выход начался в 12:14 UTC и закончился в 19:01, продолжительность выхода составила 6 часов 47 минут. Во время выхода астронавты установили насос системы терморегулирования на внешней поверхности шлюзового модуля «Квест» и проводили работы на мобильном транспортёре. Координацию выхода осуществлял пилот «Дискавери» Марк Келли. Манипулятором управляли Лиза Новак и Стефани Уилсон. В это же время экипаж МКС загружал в модуль «Леонардо» результаты проведённых экспериментов и отработанные материалы и оборудование, для возвращения их на Землю.
+</p><p><b>11 июля</b> экипажи «Дискавери» и МКС продолжили разгрузку грузового модуля «Леонардо» и подготовку к третьему выходу в открытый космос, который состоится 12 июля.
+</p><p><b>12 июля</b> астронавты Пирс Селлерс и Майкл Фоссум выполнили третий выход в открытый космос. Выход начался в 11:20 UTC и закончился в 18:31, продолжительность выхода составила 7 часов 11 минут. Во время выхода астронавты проводили испытания техники ремонта теплозащитного покрытия шаттла. Эти испытания проводились в грузовом отсеке шаттла, где были установлены образцы теплозащитного покрытия. Астронавты также проверяли инфракрасную камеру, которая фиксирует градиент температуры на теплозащитных плитках. Координацию выхода осуществлял пилот «Дискавери» Марк Келли. Роботом-манипулятором управляли Лиза Новак и Стефани Уилсон.
+</p><p><b>13 июля</b>. После выполнения трёх выходов в космос, разгрузки и загрузки модуля «Леонардо», астронавты «Дискавери» имели день отдыха. В этот же день состоялась пресс-конференция экипажей «Дискавери» и МКС. Джеффри Уильямс проводил последние операции, для подготовки модуля «Леонардо» к отстыковке от МКС.
+</p><p><b>14 июля</b> многофункциональный грузовой модуль «Леонардо» был отстыкован от МКС и помещён в грузовой отсек «Дискавери». Роботом-манипулятором МКС управляли Лиза Новак и Стефани Уилсон. Модуль «Леонардо» был отсоединён от МКС в 13:25 UTC и помещён в грузовой отсек шаттла в 15:00 UTC. В модуле было доставлено на МКС около 3,5 тонн (7000 <a class="extiw" href="https://en.wikipedia.org/wiki/%D0%A4%D1%83%D0%BD%D1%82_(%D0%B5%D0%B4%D0%B8%D0%BD%D0%B8%D1%86%D0%B0_%D0%B8%D0%B7%D0%BC%D0%B5%D1%80%D0%B5%D0%BD%D0%B8%D1%8F)" title="w:Фунт (единица измерения)">фунтов</a>) полезных грузов. На Землю отправлено около 1,8 тонн (4000 <a class="extiw" href="https://en.wikipedia.org/wiki/%D0%A4%D1%83%D0%BD%D1%82_(%D0%B5%D0%B4%D0%B8%D0%BD%D0%B8%D1%86%D0%B0_%D0%B8%D0%B7%D0%BC%D0%B5%D1%80%D0%B5%D0%BD%D0%B8%D1%8F)" title="w:Фунт (единица измерения)">фунтов</a>) ненужных на станции материалов и оборудования, а также результаты научных экспериментов. Командир шаттла Линдсей ещё раз осмотрел кромки крыльев «Дискавери» в поисках возможных повреждений.
+Отсоединение «Дискавери» от МКС было назначено на 15 июля в 10:08 UTC.
+</p><p><b>15 июля</b> в 10:08 UTC шаттл «Дискавери» отстыковался от МКС, это произошло над <a href="/wiki/%D0%A2%D0%B8%D1%85%D0%B8%D0%B9_%D0%BE%D0%BA%D0%B5%D0%B0%D0%BD" title="Тихий океан">Тихим океаном</a> севернее <a href="/wiki/%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F_%D0%97%D0%B5%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D1%8F" title="Новая Зеландия">Новой Зеландии</a>. Люк между «Дискавери» и орбитальным комплексом был закрыт в 08:00. Через 10 минут, после отхода «Дискавери» от станции, расстояние между ними было 40 метров. В 10:30 на расстоянии 120 метров от МКС были включены двигатели системы орбитального маневрирования (OMS) и шаттл совершил облёт МКС сверху. «Дискавери» должен приземлиться 17 июля на мысе Канаверал.
+</p><p><b>16 июля</b> центр управления полётом, после изучения всех данных полученных с «Дискавери»,
+объявил, что для посадки шаттла нет препятствий. Экипаж проводит подготовку к возвращению на Землю, проверяет двигатели и системы шаттла. Посадка назначена на 13:14 UTC 17 июля. Включение двигателей на торможение и схода с орбиты назначено на 12:07 UTC.
+Вторая возможность посадки в понедельник (17 июля) — включение двигателей в 13:43 UTC и посадка в 14:50 UTC. Прогноз погоды — благоприятный для посадки. На понедельник не планируется возможность посадки в Калифорнии, на военно-воздушной <a href="/wiki/%D0%91%D0%B0%D0%B7%D0%B0_%D0%92%D0%B0%D0%BD%D0%B4%D0%B5%D0%BD%D0%B1%D0%B5%D1%80%D0%B3" title="База Ванденберг">базе Ванденберг</a>.
+</p><p><b>17 июля</b> шаттл «Дискавери» с шестью астронавтами на борту совершил мягкую посадку на мысе <a class="mw-redirect" href="/wiki/%D0%9C%D1%8B%D1%81_%D0%9A%D0%B0%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D0%B0%D0%BB" title="Мыс Канаверал">Канаверал</a> (штат <a href="/wiki/%D0%A4%D0%BB%D0%BE%D1%80%D0%B8%D0%B4%D0%B0" title="Флорида">Флорида</a>). Успешно завершён второй полёт шаттла по программе «Возвращение к полётам». Этот успех позволяет возобновить регулярные полёты шаттлов и продолжить работы по строительству <a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F" title="Международная космическая станция">Международной космической станции</a>.
+</p>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Landing_of_Space_Shuttle_Discovery.jpg"><img class="mw-file-element" data-file-height="2000" data-file-width="3000" decoding="async" height="100" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Landing_of_Space_Shuttle_Discovery.jpg/150px-Landing_of_Space_Shuttle_Discovery.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Landing_of_Space_Shuttle_Discovery.jpg/225px-Landing_of_Space_Shuttle_Discovery.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/28/Landing_of_Space_Shuttle_Discovery.jpg/300px-Landing_of_Space_Shuttle_Discovery.jpg 2x" width="150"/></a><figcaption>Приземление «Дискавери» STS-121</figcaption></figure>
+<p>«Дискавери» с экипажем на борту приземлился в 13:14 <a class="mw-redirect" href="/wiki/UTC" title="UTC">UTC</a>, время пребывания в космосе составило 12 суток 18 часов 36 минут. Шаттл прошёл расстояние в 8,85 миллионов километров (5,5 миллионов миль). «Дискавери» доставил на борт МКС <a class="mw-redirect" href="/wiki/%D0%A0%D0%B0%D0%B9%D1%82%D0%B5%D1%80,_%D0%A2%D0%BE%D0%BC%D0%B0%D1%81_%D0%90%D1%80%D1%82%D1%83%D1%80" title="Райтер, Томас Артур">Томаса Райтера</a>, третьего члена 13-й долговременной экспедиции. Впервые с мая 2003 года, на МКС вновь экипаж из трёх астронавтов. На МКС были доставлены материалы и приборы для поддержания её функционирования, общим весом более чем 12 тонн (28000 фунтов). Во время пребывания на орбите было совершено три выхода в открытый космос, во время одного из них проводились ремонтные работы на мобильном транспортёре МКС, во время двух выходов отрабатывалась техника обследования и ремонта на орбите теплозащитного покрытия шаттла. Во время выходов в космос астронавты Селлерс и Фоссум испытали удлинитель робота-манипулятора, заменили кабель, который служит для передачи электропитания, команд, данных и для передачи видео изображения к мобильному транспортёру МКС. Мобильный транспортёр служит для передвижения платформы, на которой закреплён робот-манипулятор станции.
+</p><p>Двигатель торможения шаттла был включён в 12:07 UTC, когда шаттл находился на Индийским океаном. Двигатель проработал 3 минуты, шаттл сошёл с орбиты и устремился к Земле. При спуске шаттл пролетел над Гватемалой, Мексикой, Мексиканским заливом и над юго-западным побережьем Флориды.
+</p>
+<h2><span id=".D0.98.D1.82.D0.BE.D0.B3.D0.B8"></span><span class="mw-headline" id="Итоги">Итоги</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=STS-121&amp;veaction=edit&amp;section=5" title="Редактировать раздел «Итоги»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=STS-121&amp;action=edit&amp;section=5" title="Редактировать код раздела «Итоги»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Сразу после <a class="mw-redirect" href="/wiki/%D0%9F%D1%80%D0%B8%D0%B7%D0%B5%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5" title="Приземление">приземления</a> <a class="mw-redirect" href="/wiki/%D0%90%D1%81%D1%82%D1%80%D0%BE%D0%BD%D0%B0%D0%B2%D1%82" title="Астронавт">астронавты</a> <a class="mw-redirect" href="/wiki/%D0%9B%D0%B8%D0%BD%D0%B4%D1%81%D0%B5%D0%B9,_%D0%A1%D1%82%D0%B8%D0%B2%D0%B5%D0%BD_%D0%A3%D1%8D%D0%B9%D0%BD" title="Линдсей, Стивен Уэйн">Стивен Линдсей</a>, <a href="/wiki/%D0%9A%D0%B5%D0%BB%D0%BB%D0%B8,_%D0%9C%D0%B0%D1%80%D0%BA_%D0%AD%D0%B4%D0%B2%D0%B0%D1%80%D0%B4" title="Келли, Марк Эдвард">Марк Келли</a>, <a href="/wiki/%D0%A4%D0%BE%D1%81%D1%81%D1%83%D0%BC,_%D0%9C%D0%B0%D0%B9%D0%BA%D0%BB_%D0%AD%D0%B4%D0%B2%D0%B0%D1%80%D0%B4" title="Фоссум, Майкл Эдвард">Майкл Фоссум</a>, <a class="mw-redirect" href="/wiki/%D0%A1%D0%B5%D0%BB%D0%BB%D0%B5%D1%80%D1%81,_%D0%9F%D0%B8%D1%80%D1%81_%D0%94%D0%B6%D0%BE%D0%BD" title="Селлерс, Пирс Джон">Пирс Селлерс</a>, <a href="/wiki/%D0%9D%D0%BE%D0%B2%D0%B0%D0%BA,_%D0%9B%D0%B8%D0%B7%D0%B0_%D0%9C%D0%B0%D1%80%D0%B8%D1%8F" title="Новак, Лиза Мария">Лиза Новак</a> и <a class="mw-redirect" href="/wiki/%D0%A3%D0%B8%D0%BB%D1%81%D0%BE%D0%BD,_%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD%D0%B8_%D0%94%D0%B8%D0%B0%D0%BD%D0%B0" title="Уилсон, Стефани Диана">Стефани Уилсон</a> прошли короткое медицинское обследование. После обследования астронавты осмотрели свой <a href="/wiki/%D0%9F%D0%B8%D0%BB%D0%BE%D1%82%D0%B8%D1%80%D1%83%D0%B5%D0%BC%D1%8B%D0%B9_%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C" title="Пилотируемый космический корабль">космический корабль</a> — <a href="/wiki/%D0%94%D0%B8%D1%81%D0%BA%D0%B0%D0%B2%D0%B5%D1%80%D0%B8_(%D1%88%D0%B0%D1%82%D1%82%D0%BB)" title="Дискавери (шаттл)">«Дискавери»</a>.
+Командир <a href="/wiki/%D0%AD%D0%BA%D0%B8%D0%BF%D0%B0%D0%B6" title="Экипаж">экипажа</a> Стив Линдсей сказал: «Это был мой четвёртый <a href="/wiki/%D0%9F%D0%B8%D0%BB%D0%BE%D1%82%D0%B8%D1%80%D1%83%D0%B5%D0%BC%D1%8B%D0%B9_%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%BE%D0%BB%D1%91%D1%82" title="Пилотируемый космический полёт">космический полёт</a> и я четыре раза обошёл вокруг <a class="mw-redirect" href="/wiki/%D0%A1%D0%BF%D0%B5%D0%B9%D1%81_%D0%A8%D0%B0%D1%82%D1%82%D0%BB" title="Спейс Шаттл">шаттла</a>, корабль выглядит так чисто, как никакой до него, у нас было очень мало проблем». Линдсей поблагодарил свой экипаж: «Я хотел бы сказать спасибо экипажу — во время полёта, все были великолепны. Для меня было честью работать с таким экипажем».
+</p><p>Полёт STS-121 был наиболее фотографируемым из всех ранее состоявшихся. Во время старта съёмку «Дискавери» выполняли более 100 цифровых и видео камер с высоким разрешением.
+</p><p>По завершении полёта <a href="/wiki/%D0%9D%D0%90%D0%A1%D0%90" title="НАСА">американское космическое агентство</a> объявило, что следующим стартом шаттла должна стать миссия <a href="/wiki/%D0%90%D1%82%D0%BB%D0%B0%D0%BD%D1%82%D0%B8%D1%81" title="Атлантис">«Атлантиса»</a> <a class="mw-redirect" href="/wiki/%D0%90%D1%82%D0%BB%D0%B0%D0%BD%D1%82%D0%B8%D1%81_STS-115" title="Атлантис STS-115">STS-115</a>. Окно для запуска: — с <a href="/wiki/28_%D0%B0%D0%B2%D0%B3%D1%83%D1%81%D1%82%D0%B0" title="28 августа">28 августа</a> по <a href="/wiki/13_%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8F" title="13 сентября">13 сентября</a>. Практически, «Атлантис» должен был стартовать до <a href="/wiki/7_%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8F" title="7 сентября">7 сентября</a>, чтобы не встретится на <a href="/wiki/%D0%9E%D1%80%D0%B1%D0%B8%D1%82%D0%B0" title="Орбита">орбите</a> с российским космическим кораблём <a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%A2%D0%9C%D0%90-9" title="Союз ТМА-9">«Союз ТМА-9»</a>, старт которого был назначен на <a href="/wiki/14_%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8F" title="14 сентября">14 сентября</a>. Основной задачей «Союза» должна была стать доставка на <a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F" title="Международная космическая станция">МКС</a> <a href="/wiki/%D0%9C%D0%9A%D0%A1-14" title="МКС-14">14-го долговременного экипажа</a>: <a class="mw-redirect" href="/wiki/%D0%9B%D0%BE%D0%BF%D0%B5%D1%81-%D0%90%D0%BB%D0%B5%D0%B3%D1%80%D0%B8%D0%B0,_%D0%9C%D0%B0%D0%B9%D0%BA%D0%BB_%D0%AD%D0%BB%D0%B0%D0%B4%D0%B8%D0%BE" title="Лопес-Алегриа, Майкл Эладио">Майкла Лопес-Алегрия</a> (<a href="/wiki/%D0%A1%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D0%A8%D1%82%D0%B0%D1%82%D1%8B_%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B8" title="Соединённые Штаты Америки">США</a>) и <a href="/wiki/%D0%A2%D1%8E%D1%80%D0%B8%D0%BD,_%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D1%81%D0%BB%D0%B0%D0%B2%D0%BE%D0%B2%D0%B8%D1%87" title="Тюрин, Михаил Владиславович">Михаила Тюрина</a> (<a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F" title="Россия">Россия</a>).
+</p>
+<h2><span id=".D0.A1.D0.BC._.D1.82.D0.B0.D0.BA.D0.B6.D0.B5"></span><span class="mw-headline" id="См._также">См. также</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=STS-121&amp;veaction=edit&amp;section=6" title="Редактировать раздел «См. также»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=STS-121&amp;action=edit&amp;section=6" title="Редактировать код раздела «См. также»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div aria-label="В родственных проектах" class="ts-Родственные_проекты ruwikiWikimediaNavigation tright metadata plainlinks plainlist noprint" role="navigation"><ul><li class="ts-Родственные_проекты-item"><span class="ts-Родственные_проекты-image"><span typeof="mw:File"><span><img alt="" class="mw-file-element" data-file-height="30" data-file-width="30" decoding="async" height="24" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/24px-Notification-icon-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/36px-Notification-icon-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/48px-Notification-icon-Commons-logo.svg.png 2x" width="24"/></span></span></span><span class="ts-Родственные_проекты-label commons-ref"><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:STS-121" title="commons:Category:STS-121">Медиафайлы на Викискладе</a></span></li></ul></div>
+<ul><li><a href="/wiki/%D0%94%D0%B8%D1%81%D0%BA%D0%B0%D0%B2%D0%B5%D1%80%D0%B8_(%D1%88%D0%B0%D1%82%D1%82%D0%BB)" title="Дискавери (шаттл)">Дискавери (шаттл)</a></li>
+<li><a class="mw-redirect" href="/wiki/%D0%A1%D0%BF%D0%B5%D0%B9%D1%81_%D0%A8%D0%B0%D1%82%D1%82%D0%BB" title="Спейс Шаттл">Спейс Шаттл</a></li>
+<li><a href="/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F_%D0%BF%D0%B8%D0%BB%D0%BE%D1%82%D0%B8%D1%80%D1%83%D0%B5%D0%BC%D1%8B%D1%85_%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85_%D0%BF%D0%BE%D0%BB%D1%91%D1%82%D0%BE%D0%B2" title="Хронология пилотируемых космических полётов">Хронология пилотируемых космических полётов</a></li></ul>
+<h2><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span><span class="mw-headline" id="Ссылки">Ссылки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=STS-121&amp;veaction=edit&amp;section=7" title="Редактировать раздел «Ссылки»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=STS-121&amp;action=edit&amp;section=7" title="Редактировать код раздела «Ссылки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="http://www.nasa.gov/mission_pages/shuttle/shuttlemissions/sts121_overview.html" rel="nofollow">STS-121: Return to Flight Testing Continues</a></li>
+<li><a class="external text" href="http://spaceflight.nasa.gov/shuttle/archives/sts-121/index.html" rel="nofollow">STS-121 mission overview</a> <a class="external text" href="https://web.archive.org/web/20120217135552/http://spaceflight.nasa.gov/shuttle/archives/sts-121/index.html" rel="nofollow">Архивная копия</a> от 17 февраля 2012 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></li>
+<li><a class="external text" href="http://www.nasa.gov/returntoflight/launch/sts121-ceit.html" rel="nofollow">Additional NASA STS-121 mission info</a></li>
+<li><a class="external text" href="http://www.nasa.gov/home/hqnews/2004/nov/HQ_04378_sts121crew.html" rel="nofollow">Crew Members Added to Second Shuttle Return To Flight Mission</a></li></ul>
+<h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Примечания">Примечания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=STS-121&amp;veaction=edit&amp;section=8" title="Редактировать раздел «Примечания»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=STS-121&amp;action=edit&amp;section=8" title="Редактировать код раздела «Примечания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://www.webcitation.org/65LZZYslL?url=http://www.nasa.gov/returntoflight/crew/index.html" rel="nofollow">NASA Return To Flight</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Архивировано из <a class="external text" href="http://www.nasa.gov/returntoflight/crew/index.html" rel="nofollow">оригинала</a> 10 февраля 2012 года.</span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Список членов экипажа взят с сайта НАСА: <span class="citation"><span lang="und"><a class="external text" href="https://www.webcitation.org/65LZaFtCN?url=http://www.nasa.gov/mission_pages/shuttle/shuttlemissions/sts121/121_crew.html" rel="nofollow">Mission Information</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Архивировано из <a class="external text" href="http://www.nasa.gov/mission_pages/shuttle/shuttlemissions/sts121/121_crew.html" rel="nofollow">оригинала</a> 10 февраля 2012 года.</span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a class="external text" href="https://www.webcitation.org/65LZbCkxQ?url=http://spaceflightnow.com/shuttle/sts121/060708eva1start/" rel="nofollow">Spacewalk No. 1 begins</a></span> <span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>. Архивировано из <a class="external text" href="http://spaceflightnow.com/shuttle/sts121/060708eva1start/" rel="nofollow">оригинала</a> 10 февраля 2012 года.</span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://www.webcitation.org/65LZbtE4B?url=http://spaceflightnow.com/shuttle/sts121/060710eva2wrap/" rel="nofollow">NASA managers thrilled with results of spacewalk</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Архивировано из <a class="external text" href="http://spaceflightnow.com/shuttle/sts121/060710eva2wrap/" rel="nofollow">оригинала</a> 10 февраля 2012 года.</span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://www.webcitation.org/65LZcTeqR?url=http://spaceflightnow.com/shuttle/sts121/060712eva3wrap/" rel="nofollow">Spacewalkers test shuttle heat shield repair materials</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Архивировано из <a class="external text" href="http://spaceflightnow.com/shuttle/sts121/060712eva3wrap/" rel="nofollow">оригинала</a> 10 февраля 2012 года.</span></span>
+</li>
+</ol></div></div>
+<table class="toccolours" style="width: 70%; text-align: center; margin: 0 auto; clear: both;">
+<tbody><tr>
+<td colspan="3" style="background-color: #CCF; text-align: center;"><b><a class="mw-redirect" href="/wiki/%D0%A1%D0%BF%D0%B5%D0%B9%D1%81_%D0%A8%D0%B0%D1%82%D1%82%D0%BB" title="Спейс Шаттл">Серия КА «Шаттл»</a></b>
+</td></tr>
+<tr style="text-align: center; background-color: #EBEBFF;">
+<td align="center" width="30%">Предыдущий полёт:<br/><b><a class="mw-redirect" href="/wiki/%D0%94%D0%B8%D1%81%D0%BA%D0%B0%D0%B2%D0%B5%D1%80%D0%B8_STS-114" title="Дискавери STS-114">Дискавери STS-114</a></b>
+</td>
+<td align="center" width="40%"><b>STS-121</b>
+</td>
+<td align="center" width="30%">Следующий полёт:<br/><b><a class="mw-redirect" href="/wiki/%D0%90%D1%82%D0%BB%D0%B0%D0%BD%D1%82%D0%B8%D1%81_STS-115" title="Атлантис STS-115">Атлантис STS-115</a></b>
+</td></tr></tbody></table>
+<div aria-labelledby="Пилотируемые_космические_полёты_к_Международной_космической_станции" class="navbox" data-name="Пилотируемые полёты к МКС" role="navigation"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%9F%D0%B8%D0%BB%D0%BE%D1%82%D0%B8%D1%80%D1%83%D0%B5%D0%BC%D1%8B%D0%B5_%D0%BF%D0%BE%D0%BB%D1%91%D1%82%D1%8B_%D0%BA_%D0%9C%D0%9A%D0%A1" title="Перейти к шаблону «Пилотируемые полёты к МКС»"><img alt="Перейти к шаблону «Пилотируемые полёты к МКС»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span> </span><div id="Пилотируемые_космические_полёты_к_Международной_космической_станции" style="font-size:114%;margin:0 5em"><a href="/wiki/%D0%9F%D0%B8%D0%BB%D0%BE%D1%82%D0%B8%D1%80%D1%83%D0%B5%D0%BC%D1%8B%D0%B9_%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%BE%D0%BB%D1%91%D1%82" title="Пилотируемый космический полёт">Пилотируемые космические полёты</a> к <a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F" title="Международная космическая станция">Международной космической станции</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1px">1998—2004</th><td class="navbox-list navbox-odd hlist hlist-items-nowrap" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>1998
+<ul><li><a href="/wiki/STS-88" title="STS-88">STS-88</a></li></ul></li>
+<li>1999
+<ul><li><a href="/wiki/STS-96" title="STS-96">STS-96</a></li></ul></li>
+<li>2000
+<ul><li><a href="/wiki/STS-101" title="STS-101">STS-101</a></li>
+<li><a href="/wiki/STS-106" title="STS-106">106</a></li>
+<li><a href="/wiki/STS-92" title="STS-92">92</a></li>
+<li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%A2%D0%9C-31" title="Союз ТМ-31">Союз ТМ-31</a></li>
+<li><a href="/wiki/STS-97" title="STS-97">STS-97</a></li></ul></li>
+<li>2001
+<ul><li><a href="/wiki/STS-98" title="STS-98">STS-98</a></li>
+<li><a href="/wiki/STS-102" title="STS-102">102</a></li>
+<li><a href="/wiki/STS-100" title="STS-100">100</a></li>
+<li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%A2%D0%9C-32" title="Союз ТМ-32">Союз ТМ-32</a></li>
+<li><a href="/wiki/STS-104" title="STS-104">STS-104</a></li>
+<li><a href="/wiki/STS-105" title="STS-105">STS-105</a></li>
+<li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%A2%D0%9C-33" title="Союз ТМ-33">Союз ТМ-33</a></li>
+<li><a href="/wiki/STS-108" title="STS-108">STS-108</a></li></ul></li>
+<li>2002
+<ul><li><a href="/wiki/STS-110" title="STS-110">STS-110</a></li>
+<li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%A2%D0%9C-34" title="Союз ТМ-34">Союз ТМ-34</a></li>
+<li><a href="/wiki/STS-111" title="STS-111">STS-111</a></li>
+<li><a href="/wiki/STS-112" title="STS-112">112</a></li>
+<li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%A2%D0%9C%D0%90-1" title="Союз ТМА-1">Союз ТМА-1</a></li>
+<li><a href="/wiki/STS-113" title="STS-113">STS-113</a></li></ul></li>
+<li>2003
+<ul><li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%A2%D0%9C%D0%90-2" title="Союз ТМА-2">Союз ТМА-2</a></li>
+<li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%A2%D0%9C%D0%90-3" title="Союз ТМА-3">ТМА-3</a></li></ul></li>
+<li>2004
+<ul><li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%A2%D0%9C%D0%90-4" title="Союз ТМА-4">Союз ТМА-4</a></li>
+<li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%A2%D0%9C%D0%90-5" title="Союз ТМА-5">ТМА-5</a></li></ul></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">2005—2009</th><td class="navbox-list navbox-even hlist hlist-items-nowrap" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>2005
+<ul><li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%A2%D0%9C%D0%90-6" title="Союз ТМА-6">Союз ТМА-6</a></li>
+<li><a href="/wiki/STS-114" title="STS-114">STS-114</a></li>
+<li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%A2%D0%9C%D0%90-7" title="Союз ТМА-7">Союз ТМА-7</a></li></ul></li>
+<li>2006
+<ul><li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%A2%D0%9C%D0%90-8" title="Союз ТМА-8">Союз ТМА-8</a></li>
+<li><a class="mw-selflink selflink">STS-121</a></li>
+<li><a href="/wiki/STS-115" title="STS-115">115</a></li>
+<li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%A2%D0%9C%D0%90-9" title="Союз ТМА-9">Союз ТМА-9</a></li>
+<li><a href="/wiki/STS-116" title="STS-116">STS-116</a></li></ul></li>
+<li>2007
+<ul><li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%A2%D0%9C%D0%90-10" title="Союз ТМА-10">Союз ТМА-10</a></li>
+<li><a href="/wiki/STS-117" title="STS-117">STS-117</a></li>
+<li><a href="/wiki/STS-118" title="STS-118">118</a></li>
+<li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%A2%D0%9C%D0%90-11" title="Союз ТМА-11">Союз ТМА-11</a></li>
+<li><a href="/wiki/STS-120" title="STS-120">STS-120</a></li></ul></li>
+<li>2008
+<ul><li><a href="/wiki/STS-122" title="STS-122">STS-122</a></li>
+<li><a href="/wiki/STS-123" title="STS-123">123</a></li>
+<li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%A2%D0%9C%D0%90-12" title="Союз ТМА-12">Союз ТМА-12</a></li>
+<li><a href="/wiki/STS-124" title="STS-124">STS-124</a></li>
+<li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%A2%D0%9C%D0%90-13" title="Союз ТМА-13">Союз ТМА-13</a></li>
+<li><a href="/wiki/STS-126" title="STS-126">STS-126</a></li></ul></li>
+<li>2009
+<ul><li><a href="/wiki/STS-119" title="STS-119">STS-119</a></li>
+<li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%A2%D0%9C%D0%90-14" title="Союз ТМА-14">Союз ТМА-14</a></li>
+<li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%A2%D0%9C%D0%90-15" title="Союз ТМА-15">ТМА-15</a></li>
+<li><a href="/wiki/STS-127" title="STS-127">STS-127</a></li>
+<li><a href="/wiki/STS-128" title="STS-128">128</a></li>
+<li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%A2%D0%9C%D0%90-16" title="Союз ТМА-16">Союз ТМА-16</a></li>
+<li><a href="/wiki/STS-129" title="STS-129">STS-129</a></li>
+<li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%A2%D0%9C%D0%90-17" title="Союз ТМА-17">Союз ТМА-17</a></li></ul></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">2010—2014</th><td class="navbox-list navbox-odd hlist hlist-items-nowrap" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>2010
+<ul><li><a href="/wiki/STS-130" title="STS-130">STS-130</a></li>
+<li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%A2%D0%9C%D0%90-18" title="Союз ТМА-18">Союз ТМА-18</a></li>
+<li><a href="/wiki/STS-131" title="STS-131">STS-131</a></li>
+<li><a href="/wiki/STS-132" title="STS-132">132</a></li>
+<li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%A2%D0%9C%D0%90-19" title="Союз ТМА-19">Союз ТМА-19</a></li>
+<li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%A2%D0%9C%D0%90-01%D0%9C" title="Союз ТМА-01М">Союз ТМА-01М</a></li>
+<li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%A2%D0%9C%D0%90-20" title="Союз ТМА-20">ТМА-20</a></li></ul></li>
+<li>2011
+<ul><li><a href="/wiki/STS-133" title="STS-133">STS-133</a></li>
+<li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%A2%D0%9C%D0%90-21" title="Союз ТМА-21">Союз ТМА-21</a></li>
+<li><a href="/wiki/STS-134" title="STS-134">STS-134</a></li>
+<li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%A2%D0%9C%D0%90-02%D0%9C" title="Союз ТМА-02М">Союз ТМА-02М</a></li>
+<li><a href="/wiki/STS-135" title="STS-135">STS-135</a></li>
+<li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%A2%D0%9C%D0%90-22" title="Союз ТМА-22">Союз ТМА-22</a></li>
+<li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%A2%D0%9C%D0%90-03%D0%9C" title="Союз ТМА-03М">ТМА-22</a></li></ul></li>
+<li>2012
+<ul><li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%A2%D0%9C%D0%90-04%D0%9C" title="Союз ТМА-04М">Союз ТМА-04М</a></li>
+<li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%A2%D0%9C%D0%90-05%D0%9C" title="Союз ТМА-05М">ТМА-05М</a></li>
+<li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%A2%D0%9C%D0%90-06%D0%9C" title="Союз ТМА-06М">ТМА-06М</a></li>
+<li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%A2%D0%9C%D0%90-07%D0%9C" title="Союз ТМА-07М">ТМА-07М</a></li></ul></li>
+<li>2013
+<ul><li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%A2%D0%9C%D0%90-08%D0%9C" title="Союз ТМА-08М">Союз ТМА-08М</a></li>
+<li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%A2%D0%9C%D0%90-09%D0%9C" title="Союз ТМА-09М">ТМА-09М</a></li>
+<li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%A2%D0%9C%D0%90-10%D0%9C" title="Союз ТМА-10М">ТМА-10М</a></li>
+<li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%A2%D0%9C%D0%90-11%D0%9C" title="Союз ТМА-11М">ТМА-11М</a></li></ul></li>
+<li>2014
+<ul><li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%A2%D0%9C%D0%90-12%D0%9C" title="Союз ТМА-12М">Союз ТМА-12М</a></li>
+<li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%A2%D0%9C%D0%90-13%D0%9C" title="Союз ТМА-13М">ТМА-13М</a></li>
+<li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%A2%D0%9C%D0%90-14%D0%9C" title="Союз ТМА-14М">ТМА-14М</a></li>
+<li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%A2%D0%9C%D0%90-15%D0%9C" title="Союз ТМА-15М">ТМА-15М</a></li></ul></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">2015—2019</th><td class="navbox-list navbox-even hlist hlist-items-nowrap" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>2015
+<ul><li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%A2%D0%9C%D0%90-16%D0%9C" title="Союз ТМА-16М">Союз ТМА-16М</a></li>
+<li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%A2%D0%9C%D0%90-17%D0%9C" title="Союз ТМА-17М">ТМА-17М</a></li>
+<li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%A2%D0%9C%D0%90-18%D0%9C" title="Союз ТМА-18М">ТМА-18М</a></li>
+<li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%A2%D0%9C%D0%90-19%D0%9C" title="Союз ТМА-19М">ТМА-19М</a></li></ul></li>
+<li>2016
+<ul><li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%A2%D0%9C%D0%90-20%D0%9C" title="Союз ТМА-20М">Союз ТМА-20М</a></li>
+<li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%9C%D0%A1-01" title="Союз МС-01">МС-01</a></li>
+<li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%9C%D0%A1-02" title="Союз МС-02">МС-02</a></li>
+<li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%9C%D0%A1-03" title="Союз МС-03">МС-03</a></li></ul></li>
+<li>2017
+<ul><li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%9C%D0%A1-04" title="Союз МС-04">Союз МС-04</a></li>
+<li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%9C%D0%A1-05" title="Союз МС-05">МС-05</a></li>
+<li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%9C%D0%A1-06" title="Союз МС-06">МС-06</a></li>
+<li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%9C%D0%A1-07" title="Союз МС-07">МС-07</a></li></ul></li>
+<li>2018
+<ul><li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%9C%D0%A1-08" title="Союз МС-08">Союз МС-08</a></li>
+<li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%9C%D0%A1-09" title="Союз МС-09">МС-09</a></li>
+<li><span style="background-color: pink; color: ; text-decoration: inherit; -moz-text-decoration-color: ; text-decoration-color: ; font-size: {{{4}}}%"><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%9C%D0%A1-10" title="Союз МС-10">МС-10</a></span></li>
+<li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%9C%D0%A1-11" title="Союз МС-11">МС-11</a></li></ul></li>
+<li>2019
+<ul><li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%9C%D0%A1-12" title="Союз МС-12">Союз МС-12</a></li>
+<li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%9C%D0%A1-13" title="Союз МС-13">МС-13</a></li>
+<li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%9C%D0%A1-15" title="Союз МС-15">МС-15</a></li></ul></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">2020 — <abbr class="nowrap" title="настоящее время">н. в.</abbr></th><td class="navbox-list navbox-odd hlist hlist-items-nowrap" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>2020
+<ul><li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%9C%D0%A1-16" title="Союз МС-16">Союз МС-16</a></li>
+<li><a href="/wiki/SpaceX_DM-2" title="SpaceX DM-2">SpaceX DM-2</a></li>
+<li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%9C%D0%A1-17" title="Союз МС-17">Союз МС-17</a></li>
+<li><a href="/wiki/SpaceX_Crew-1" title="SpaceX Crew-1">SpaceX Crew-1</a></li></ul></li>
+<li>2021
+<ul><li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%9C%D0%A1-18" title="Союз МС-18">Союз МС-18</a></li>
+<li><a href="/wiki/SpaceX_Crew-2" title="SpaceX Crew-2">SpaceX Crew-2</a></li>
+<li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%9C%D0%A1-19" title="Союз МС-19">Союз МС-19</a></li>
+<li><a href="/wiki/SpaceX_Crew-3" title="SpaceX Crew-3">SpaceX Crew-3</a></li>
+<li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%9C%D0%A1-20" title="Союз МС-20">Союз МС-20</a></li></ul></li>
+<li>2022
+<ul><li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%9C%D0%A1-21" title="Союз МС-21">Союз МС-21</a></li>
+<li><a href="/wiki/SpaceX_AX-1" title="SpaceX AX-1">Ax-1</a></li>
+<li><a href="/wiki/SpaceX_Crew-4" title="SpaceX Crew-4">SpaceX Crew-4</a></li>
+<li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%9C%D0%A1-22" title="Союз МС-22">Союз МС-22</a></li>
+<li><a href="/wiki/SpaceX_Crew-5" title="SpaceX Crew-5">SpaceX Crew-5</a></li></ul></li>
+<li>2023
+<ul><li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%9C%D0%A1-23" title="Союз МС-23">Союз МС-23</a></li>
+<li><a href="/wiki/SpaceX_Crew-6" title="SpaceX Crew-6">SpaceX Crew-6</a></li>
+<li><a href="/wiki/SpaceX_AX-2" title="SpaceX AX-2">Ax-2</a></li>
+<li><b><a href="/wiki/SpaceX_Crew-7" title="SpaceX Crew-7">SpaceX Crew-7</a></b></li>
+<li><b> <a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%9C%D0%A1-24" title="Союз МС-24">Союз МС-24</a></b></li></ul></li>
+<li>2024
+<ul><li><a href="/wiki/SpaceX_AX-3" title="SpaceX AX-3">Ax-3</a></li></ul></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Планируемые</th><td class="navbox-list navbox-even hlist hlist-items-nowrap" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>2024
+<ul><li><a href="/wiki/SpaceX_Crew-8" title="SpaceX Crew-8">SpaceX Crew-8</a></li>
+<li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%9C%D0%A1-25" title="Союз МС-25">Союз МС-25</a></li>
+<li><a href="/wiki/Boe-CFT" title="Boe-CFT">Boe-CFT</a></li>
+<li><a href="/wiki/SpaceX_Crew-9" title="SpaceX Crew-9">SpaceX Crew-9</a></li>
+<li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%9C%D0%A1-26" title="Союз МС-26">Союз МС-26</a></li>
+<li><a class="new" href="/w/index.php?title=SpaceX_AX-4&amp;action=edit&amp;redlink=1" title="SpaceX AX-4 (страница отсутствует)">Ax-4</a></li></ul></li>
+<li>2025
+<ul><li><a class="mw-redirect" href="/wiki/SpaceX_Crew-10" title="SpaceX Crew-10">SpaceX Crew-10</a></li>
+<li><a href="/wiki/Boeing_Starliner-1" title="Boeing Starliner-1">Boeing Starliner-1</a></li></ul></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>Текущие полёты выделены <b>полужирным</b> начертанием, <span style="background-color: pink; color: ; text-decoration: inherit; -moz-text-decoration-color: ; text-decoration-color: ; font-size: {{{4}}}%">розовым</span> — не достигшие МКС корабли</div></td></tr></tbody></table></div>
+<div aria-labelledby="Полёты_многоразовых_космических_кораблей_«Спейс_шаттл»" class="navbox" data-name="Серия КА Спейс шаттл" role="navigation"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%A1%D0%B5%D1%80%D0%B8%D1%8F_%D0%9A%D0%90_%D0%A1%D0%BF%D0%B5%D0%B9%D1%81_%D1%88%D0%B0%D1%82%D1%82%D0%BB" title="Перейти к шаблону «Серия КА Спейс шаттл»"><img alt="Перейти к шаблону «Серия КА Спейс шаттл»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span> </span><div id="Полёты_многоразовых_космических_кораблей_«Спейс_шаттл»" style="font-size:114%;margin:0 5em"><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D0%BE%D0%BB%D1%91%D1%82%D0%BE%D0%B2_%D0%BF%D0%BE_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B5_%C2%AB%D0%A1%D0%BF%D0%B5%D0%B9%D1%81_%D0%A8%D0%B0%D1%82%D1%82%D0%BB%C2%BB" title="Список полётов по программе «Спейс Шаттл»">Полёты</a> <a class="mw-redirect" href="/wiki/%D0%9C%D0%BD%D0%BE%D0%B3%D0%BE%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9_%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C" title="Многоразовый транспортный космический корабль">многоразовых космических кораблей</a> «<a href="/wiki/%D0%A1%D0%BF%D0%B5%D0%B9%D1%81_%D1%88%D0%B0%D1%82%D1%82%D0%BB" title="Спейс шаттл">Спейс шаттл</a>»</div></th></tr><tr><th class="navbox-group" scope="row" style="width:1px">1981—1986</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/STS-1" title="STS-1">STS-1</a></li>
+<li><a href="/wiki/STS-2" title="STS-2">STS-2</a></li>
+<li><a href="/wiki/STS-3" title="STS-3">STS-3</a></li>
+<li><a href="/wiki/STS-4" title="STS-4">STS-4</a></li>
+<li><a href="/wiki/STS-5" title="STS-5">STS-5</a></li>
+<li><a href="/wiki/STS-6" title="STS-6">STS-6</a></li>
+<li><a href="/wiki/STS-7" title="STS-7">STS-7</a></li>
+<li><a href="/wiki/STS-8" title="STS-8">STS-8</a></li>
+<li><a href="/wiki/STS-9" title="STS-9">STS-9</a></li>
+<li><a href="/wiki/STS-41B" title="STS-41B">STS-41-B</a></li>
+<li><a href="/wiki/STS-41C" title="STS-41C">STS-41-C</a></li>
+<li><a href="/wiki/STS-41D" title="STS-41D">STS-41-D</a></li>
+<li><a href="/wiki/STS-41G" title="STS-41G">STS-41-G</a></li>
+<li><a href="/wiki/STS-51A" title="STS-51A">STS-51-A</a></li>
+<li><a href="/wiki/STS-51C" title="STS-51C">STS-51-C</a></li>
+<li><a href="/wiki/STS-51D" title="STS-51D">STS-51-D</a></li>
+<li><a href="/wiki/STS-51B" title="STS-51B">STS-51-B</a></li>
+<li><a href="/wiki/STS-51G" title="STS-51G">STS-51-G</a></li>
+<li><a href="/wiki/STS-51F" title="STS-51F">STS-51-F</a></li>
+<li><a href="/wiki/STS-51I" title="STS-51I">STS-51-I</a></li>
+<li><a href="/wiki/STS-51J" title="STS-51J">STS-51-J</a></li>
+<li><a class="mw-redirect" href="/wiki/STS-61-A" title="STS-61-A">STS-61-A</a></li>
+<li><a href="/wiki/STS-61B" title="STS-61B">STS-61-B</a></li>
+<li><a href="/wiki/STS-61C" title="STS-61C">STS-61-C</a></li>
+<li><a href="/wiki/STS-51L" title="STS-51L">STS-51-L</a> †</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">1988—1990</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/STS-26" title="STS-26">STS-26</a></li>
+<li><a href="/wiki/STS-27" title="STS-27">STS-27</a></li>
+<li><a href="/wiki/STS-29" title="STS-29">STS-29</a></li>
+<li><a href="/wiki/STS-30" title="STS-30">STS-30</a></li>
+<li><a href="/wiki/STS-28" title="STS-28">STS-28</a></li>
+<li><a href="/wiki/STS-34" title="STS-34">STS-34</a></li>
+<li><a href="/wiki/STS-33" title="STS-33">STS-33</a></li>
+<li><a href="/wiki/STS-32" title="STS-32">STS-32</a></li>
+<li><a href="/wiki/STS-36" title="STS-36">STS-36</a></li>
+<li><a href="/wiki/STS-31" title="STS-31">STS-31</a></li>
+<li><a href="/wiki/STS-41" title="STS-41">STS-41</a></li>
+<li><a href="/wiki/STS-38" title="STS-38">STS-38</a></li>
+<li><a href="/wiki/STS-35" title="STS-35">STS-35</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">1991—1995</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/STS-37" title="STS-37">STS-37</a></li>
+<li><a href="/wiki/STS-39" title="STS-39">STS-39</a></li>
+<li><a href="/wiki/STS-40" title="STS-40">STS-40</a></li>
+<li><a href="/wiki/STS-43" title="STS-43">STS-43</a></li>
+<li><a href="/wiki/STS-48" title="STS-48">STS-48</a></li>
+<li><a href="/wiki/STS-44" title="STS-44">STS-44</a></li>
+<li><a href="/wiki/STS-42" title="STS-42">STS-42</a></li>
+<li><a href="/wiki/STS-45" title="STS-45">STS-45</a></li>
+<li><a href="/wiki/STS-49" title="STS-49">STS-49</a></li>
+<li><a href="/wiki/STS-50" title="STS-50">STS-50</a></li>
+<li><a href="/wiki/STS-46" title="STS-46">STS-46</a></li>
+<li><a href="/wiki/STS-47" title="STS-47">STS-47</a></li>
+<li><a href="/wiki/STS-52" title="STS-52">STS-52</a></li>
+<li><a href="/wiki/STS-53" title="STS-53">STS-53</a></li>
+<li><a href="/wiki/STS-54" title="STS-54">STS-54</a></li>
+<li><a href="/wiki/STS-56" title="STS-56">STS-56</a></li>
+<li><a href="/wiki/STS-55" title="STS-55">STS-55</a></li>
+<li><a href="/wiki/STS-57" title="STS-57">STS-57</a></li>
+<li><a href="/wiki/STS-51" title="STS-51">STS-51</a></li>
+<li><a href="/wiki/STS-58" title="STS-58">STS-58</a></li>
+<li><a href="/wiki/STS-61" title="STS-61">STS-61</a></li>
+<li><a href="/wiki/STS-60" title="STS-60">STS-60</a></li>
+<li><a href="/wiki/STS-62" title="STS-62">STS-62</a></li>
+<li><a href="/wiki/STS-59" title="STS-59">STS-59</a></li>
+<li><a href="/wiki/STS-65" title="STS-65">STS-65</a></li>
+<li><a href="/wiki/STS-64" title="STS-64">STS-64</a></li>
+<li><a href="/wiki/STS-68" title="STS-68">STS-68</a></li>
+<li><a href="/wiki/STS-66" title="STS-66">STS-66</a></li>
+<li><a href="/wiki/STS-63" title="STS-63">STS-63</a></li>
+<li><a href="/wiki/STS-67" title="STS-67">STS-67</a></li>
+<li><a href="/wiki/STS-71" title="STS-71">STS-71</a></li>
+<li><a href="/wiki/STS-70" title="STS-70">STS-70</a></li>
+<li><a href="/wiki/STS-69" title="STS-69">STS-69</a></li>
+<li><a href="/wiki/STS-73" title="STS-73">STS-73</a></li>
+<li><a href="/wiki/STS-74" title="STS-74">STS-74</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">1996—2000</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/STS-72" title="STS-72">STS-72</a></li>
+<li><a href="/wiki/STS-75" title="STS-75">STS-75</a></li>
+<li><a href="/wiki/STS-76" title="STS-76">STS-76</a></li>
+<li><a href="/wiki/STS-77" title="STS-77">STS-77</a></li>
+<li><a href="/wiki/STS-78" title="STS-78">STS-78</a></li>
+<li><a href="/wiki/STS-79" title="STS-79">STS-79</a></li>
+<li><a href="/wiki/STS-80" title="STS-80">STS-80</a></li>
+<li><a href="/wiki/STS-81" title="STS-81">STS-81</a></li>
+<li><a href="/wiki/STS-82" title="STS-82">STS-82</a></li>
+<li><a href="/wiki/STS-83" title="STS-83">STS-83</a></li>
+<li><a href="/wiki/STS-84" title="STS-84">STS-84</a></li>
+<li><a href="/wiki/STS-94" title="STS-94">STS-94</a></li>
+<li><a href="/wiki/STS-85" title="STS-85">STS-85</a></li>
+<li><a href="/wiki/STS-86" title="STS-86">STS-86</a></li>
+<li><a href="/wiki/STS-87" title="STS-87">STS-87</a></li>
+<li><a href="/wiki/STS-89" title="STS-89">STS-89</a></li>
+<li><a href="/wiki/STS-90" title="STS-90">STS-90</a></li>
+<li><a href="/wiki/STS-91" title="STS-91">STS-91</a></li>
+<li><a href="/wiki/STS-95" title="STS-95">STS-95</a></li>
+<li><a href="/wiki/STS-88" title="STS-88">STS-88</a></li>
+<li><a href="/wiki/STS-96" title="STS-96">STS-96</a></li>
+<li><a href="/wiki/STS-93" title="STS-93">STS-93</a></li>
+<li><a href="/wiki/STS-103" title="STS-103">STS-103</a></li>
+<li><a href="/wiki/STS-99" title="STS-99">STS-99</a></li>
+<li><a href="/wiki/STS-101" title="STS-101">STS-101</a></li>
+<li><a href="/wiki/STS-106" title="STS-106">STS-106</a></li>
+<li><a href="/wiki/STS-92" title="STS-92">STS-92</a></li>
+<li><a href="/wiki/STS-97" title="STS-97">STS-97</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">2001—2003</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/STS-98" title="STS-98">STS-98</a></li>
+<li><a href="/wiki/STS-102" title="STS-102">STS-102</a></li>
+<li><a href="/wiki/STS-100" title="STS-100">STS-100</a></li>
+<li><a href="/wiki/STS-104" title="STS-104">STS-104</a></li>
+<li><a href="/wiki/STS-105" title="STS-105">STS-105</a></li>
+<li><a href="/wiki/STS-108" title="STS-108">STS-108</a></li>
+<li><a href="/wiki/STS-109" title="STS-109">STS-109</a></li>
+<li><a href="/wiki/STS-110" title="STS-110">STS-110</a></li>
+<li><a href="/wiki/STS-111" title="STS-111">STS-111</a></li>
+<li><a href="/wiki/STS-112" title="STS-112">STS-112</a></li>
+<li><a href="/wiki/STS-113" title="STS-113">STS-113</a></li>
+<li><a href="/wiki/STS-107" title="STS-107">STS-107</a> †</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">2005—2011</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/STS-114" title="STS-114">STS-114</a></li>
+<li><a class="mw-selflink selflink">STS-121</a></li>
+<li><a href="/wiki/STS-115" title="STS-115">STS-115</a></li>
+<li><a href="/wiki/STS-116" title="STS-116">STS-116</a></li>
+<li><a href="/wiki/STS-117" title="STS-117">STS-117</a></li>
+<li><a href="/wiki/STS-118" title="STS-118">STS-118</a></li>
+<li><a href="/wiki/STS-120" title="STS-120">STS-120</a></li>
+<li><a href="/wiki/STS-122" title="STS-122">STS-122</a></li>
+<li><a href="/wiki/STS-123" title="STS-123">STS-123</a></li>
+<li><a href="/wiki/STS-124" title="STS-124">STS-124</a></li>
+<li><a href="/wiki/STS-126" title="STS-126">STS-126</a></li>
+<li><a href="/wiki/STS-119" title="STS-119">STS-119</a></li>
+<li><a href="/wiki/STS-125" title="STS-125">STS-125</a></li>
+<li><a href="/wiki/STS-127" title="STS-127">STS-127</a></li>
+<li><a href="/wiki/STS-128" title="STS-128">STS-128</a></li>
+<li><a href="/wiki/STS-129" title="STS-129">STS-129</a></li>
+<li><a href="/wiki/STS-130" title="STS-130">STS-130</a></li>
+<li><a href="/wiki/STS-131" title="STS-131">STS-131</a></li>
+<li><a href="/wiki/STS-132" title="STS-132">STS-132</a></li>
+<li><a href="/wiki/STS-133" title="STS-133">STS-133</a></li>
+<li><a href="/wiki/STS-134" title="STS-134">STS-134</a></li>
+<li><a href="/wiki/STS-135" title="STS-135">STS-135</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="*_←_2005_*_Космические_запуски_в_2006_году_*_2007_→" class="navbox" data-name="Космические запуски в 2006" role="navigation"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%9A%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D0%BA%D0%B8_%D0%B2_2006" title="Перейти к шаблону «Космические запуски в 2006»"><img alt="Перейти к шаблону «Космические запуски в 2006»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span> </span><div id="*_←_2005_*_Космические_запуски_в_2006_году_*_2007_→" style="font-size:114%;margin:0 5em"><div class="hlist">
+<ul><li><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%9A%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D0%BA%D0%B8_%D0%B2_2005" title="Шаблон:Космические запуски в 2005">← <small>2005</small></a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85_%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D0%BA%D0%BE%D0%B2_%D0%B2_2006_%D0%B3%D0%BE%D0%B4%D1%83" title="Список космических запусков в 2006 году">Космические запуски в 2006 году</a></li>
+<li><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%9A%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D0%BA%D0%B8_%D0%B2_2007" title="Шаблон:Космические запуски в 2007"><small>2007</small> →</a></li></ul></div></div></th></tr><tr><td class="navbox-list navbox-odd hlist hlist-items-nowrap" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<li><a href="/wiki/%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D0%B3%D0%BE%D1%80%D0%B8%D0%B7%D0%BE%D0%BD%D1%82%D1%8B" title="Новые горизонты">Новые горизонты</a></li>
+<li><a href="/wiki/Daichi" title="Daichi">Daichi</a></li>
+<li><a class="new" href="/w/index.php?title=EchoStar_X&amp;action=edit&amp;redlink=1" title="EchoStar X (страница отсутствует)">EchoStar X</a></li>
+<li><a class="new" href="/w/index.php?title=Himawari_7&amp;action=edit&amp;redlink=1" title="Himawari 7 (страница отсутствует)">Himawari 7</a></li>
+<li><a href="/wiki/Akari" title="Akari">Akari</a>, <a class="new" href="/w/index.php?title=CUTE-1.7_%2B_APD&amp;action=edit&amp;redlink=1" title="CUTE-1.7 + APD (страница отсутствует)">CUTE-1.7 + APD</a></li>
+<li><a class="new" href="/w/index.php?title=Arabsat-4A&amp;action=edit&amp;redlink=1" title="Arabsat-4A (страница отсутствует)">Arabsat-4A</a></li>
+<li><a class="new" href="/w/index.php?title=SpainSat-1&amp;action=edit&amp;redlink=1" title="SpainSat-1 (страница отсутствует)">SpainSat-1</a>, <a class="new" href="/w/index.php?title=Eutelsat_9A&amp;action=edit&amp;redlink=1" title="Eutelsat 9A (страница отсутствует)">Hot Bird 7A</a></li>
+<li><a class="new" href="/w/index.php?title=Space_Technology_5&amp;action=edit&amp;redlink=1" title="Space Technology 5 (страница отсутствует)">ST-5</a></li>
+<li><i><a class="new" href="/w/index.php?title=FalconSAT-2&amp;action=edit&amp;redlink=1" title="FalconSAT-2 (страница отсутствует)">FalconSAT-2</a></i></li>
+<li><b><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%A2%D0%9C%D0%90-8" title="Союз ТМА-8">Союз ТМА-8</a></b></li>
+<li><a class="new" href="/w/index.php?title=JCSAT-5A&amp;action=edit&amp;redlink=1" title="JCSAT-5A (страница отсутствует)">JCSAT-5A</a></li>
+<li><a class="new" href="/w/index.php?title=Constellation_Observing_System_for_Meteorology,_Ionosphere,_and_Climate&amp;action=edit&amp;redlink=1" title="Constellation Observing System for Meteorology, Ionosphere, and Climate (страница отсутствует)">COSMIC</a></li>
+<li><a class="new" href="/w/index.php?title=Astra_1KR&amp;action=edit&amp;redlink=1" title="Astra 1KR (страница отсутствует)">Astra 1KR</a></li>
+<li><a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B5%D1%81%D1%81_%D0%9C-56" title="Прогресс М-56">Прогресс М-56</a></li>
+<li><a href="/wiki/EROS-B" title="EROS-B">EROS-B</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%AF%D0%BE%D0%B3%D0%B0%D0%BD%D1%8C-1&amp;action=edit&amp;redlink=1" title="Яогань-1 (страница отсутствует)">Яогань-1</a></li>
+<li><a href="/wiki/%D0%9A%D0%BB%D0%B0%D1%83%D0%B4%D1%81%D1%8D%D1%82" title="Клаудсэт">Клаудсэт</a>, <a href="/wiki/CALIPSO" title="CALIPSO">CALIPSO</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D1%81-2420&amp;action=edit&amp;redlink=1" title="Космос-2420 (страница отсутствует)">Космос-2420</a></li>
+<li><a class="new" href="/w/index.php?title=GOES_13&amp;action=edit&amp;redlink=1" title="GOES 13 (страница отсутствует)">GOES 13</a></li>
+<li><a class="new" href="/w/index.php?title=Satmex_6&amp;action=edit&amp;redlink=1" title="Satmex 6 (страница отсутствует)">Satmex 6</a>, <a class="new" href="/w/index.php?title=Thaicom_5&amp;action=edit&amp;redlink=1" title="Thaicom 5 (страница отсутствует)">Thaicom 5</a></li>
+<li><a class="mw-redirect" href="/wiki/%D0%A0%D0%B5%D1%81%D1%83%D1%80%D1%81-%D0%94%D0%9A" title="Ресурс-ДК">Ресурс-ДК</a></li>
+<li><a class="mw-redirect" href="/wiki/%D0%9A%D0%B0%D0%B7%D1%81%D0%B0%D1%82" title="Казсат">Казсат</a></li>
+<li><a class="new" href="/w/index.php?title=Galaxy_16&amp;action=edit&amp;redlink=1" title="Galaxy 16 (страница отсутствует)">Galaxy 16</a></li>
+<li><a class="new" href="/w/index.php?title=USA-187&amp;action=edit&amp;redlink=1" title="USA-187 (страница отсутствует)">USA-187</a>, <a class="new" href="/w/index.php?title=USA-188&amp;action=edit&amp;redlink=1" title="USA-188 (страница отсутствует)">USA-188</a>, <a class="new" href="/w/index.php?title=USA-189&amp;action=edit&amp;redlink=1" title="USA-189 (страница отсутствует)">USA-189</a></li>
+<li><a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B5%D1%81%D1%81_%D0%9C-57" title="Прогресс М-57">Прогресс М-57</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D1%81-2421&amp;action=edit&amp;redlink=1" title="Космос-2421 (страница отсутствует)">Космос-2421</a></li>
+<li><a class="new" href="/w/index.php?title=USA-184&amp;action=edit&amp;redlink=1" title="USA-184 (страница отсутствует)">USA-184</a></li>
+<li><b><a class="mw-selflink selflink">STS-121</a></b> (<a href="/wiki/%D0%9C%D0%BD%D0%BE%D0%B3%D0%BE%D1%86%D0%B5%D0%BB%D0%B5%D0%B2%D0%BE%D0%B9_%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C_%D1%81%D0%BD%D0%B0%D0%B1%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F" title="Многоцелевой модуль снабжения">Многоцелевой модуль снабжения</a>)</li>
+<li><i><a class="new" href="/w/index.php?title=INSAT-4C&amp;action=edit&amp;redlink=1" title="INSAT-4C (страница отсутствует)">INSAT-4C</a></i></li>
+<li><a class="mw-redirect" href="/wiki/Genesis_I" title="Genesis I">Genesis I</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D1%81-2422" title="Космос-2422">Космос-2422</a></li>
+<li><i><a href="/wiki/%D0%91%D0%B5%D0%BB%D0%9A%D0%90_(%D1%81%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA)" title="БелКА (спутник)">БелКА</a>, <a href="/wiki/%D0%91%D0%B0%D1%83%D0%BC%D0%B0%D0%BD%D0%B5%D1%86_(%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BF%D0%BF%D0%B0%D1%80%D0%B0%D1%82)" title="Бауманец (космический аппарат)">Бауманец</a>, <a class="new" href="/w/index.php?title=PicPot&amp;action=edit&amp;redlink=1" title="PicPot (страница отсутствует)">PicPot</a>, <a class="new" href="/w/index.php?title=SACRED&amp;action=edit&amp;redlink=1" title="SACRED (страница отсутствует)">SACRED</a>, <a class="new" href="/w/index.php?title=ION_(%D1%81%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA)&amp;action=edit&amp;redlink=1" title="ION (спутник) (страница отсутствует)">ION</a>, <a class="new" href="/w/index.php?title=Rincon_1&amp;action=edit&amp;redlink=1" title="Rincon 1 (страница отсутствует)">Rincon 1</a>, <a class="new" href="/w/index.php?title=ICECube-1&amp;action=edit&amp;redlink=1" title="ICECube-1 (страница отсутствует)">ICECube-1</a>, <a class="new" href="/w/index.php?title=KUTESat_Pathfinder&amp;action=edit&amp;redlink=1" title="KUTESat Pathfinder (страница отсутствует)">KUTESat Pathfinder</a>, <a class="new" href="/w/index.php?title=SEEDS_(%D1%81%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA)&amp;action=edit&amp;redlink=1" title="SEEDS (спутник) (страница отсутствует)">SEEDS</a>, <a class="new" href="/w/index.php?title=NCube-1&amp;action=edit&amp;redlink=1" title="NCube-1 (страница отсутствует)">nCube-1</a>, <a class="new" href="/w/index.php?title=HAUSAT-1&amp;action=edit&amp;redlink=1" title="HAUSAT-1 (страница отсутствует)">HAUSAT-1</a>, <a class="new" href="/w/index.php?title=MEROPE&amp;action=edit&amp;redlink=1" title="MEROPE (страница отсутствует)">MEROPE</a>, <a class="new" href="/w/index.php?title=CP-2&amp;action=edit&amp;redlink=1" title="CP-2 (страница отсутствует)">CP-2</a>, <a class="new" href="/w/index.php?title=AeroCube-1&amp;action=edit&amp;redlink=1" title="AeroCube-1 (страница отсутствует)">AeroCube-1</a>, <a class="new" href="/w/index.php?title=CP-1&amp;action=edit&amp;redlink=1" title="CP-1 (страница отсутствует)">CP-1</a>, <a class="new" href="/w/index.php?title=Mea_Huaka%27i&amp;action=edit&amp;redlink=1" title="Mea Huaka'i (страница отсутствует)">Mea Huaka'i</a>, <a class="new" href="/w/index.php?title=ICECube-2&amp;action=edit&amp;redlink=1" title="ICECube-2 (страница отсутствует)">ICECube-2</a></i></li>
+<li><a href="/wiki/KOMPSAT-2" title="KOMPSAT-2">KOMPSAT-2</a></li>
+<li><a class="new" href="/w/index.php?title=Hot_Bird_13B&amp;action=edit&amp;redlink=1" title="Hot Bird 13B (страница отсутствует)">Hot Bird 8</a></li>
+<li><a class="new" href="/w/index.php?title=JCSAT-10&amp;action=edit&amp;redlink=1" title="JCSAT-10 (страница отсутствует)">JCSAT-10</a>, <a class="new" href="/w/index.php?title=Syracuse_3B&amp;action=edit&amp;redlink=1" title="Syracuse 3B (страница отсутствует)">Syracuse 3B</a></li>
+<li><a href="/wiki/Koreasat-5" title="Koreasat-5">Koreasat-5</a></li>
+<li><a class="new" href="/w/index.php?title=Shijian_8&amp;action=edit&amp;redlink=1" title="Shijian 8 (страница отсутствует)">Shijian 8</a></li>
+<li><b><a href="/wiki/STS-115" title="STS-115">STS-115</a></b> (<a href="/wiki/%D0%A4%D0%B5%D1%80%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D0%B8_%D0%9C%D0%9A%D0%A1" title="Ферменные конструкции МКС">Ферменные конструкции МКС</a>)</li>
+<li><a class="new" href="/w/index.php?title=IGS-3A&amp;action=edit&amp;redlink=1" title="IGS-3A (страница отсутствует)">IGS-3A</a></li>
+<li><a class="new" href="/w/index.php?title=Chinasat-22A&amp;action=edit&amp;redlink=1" title="Chinasat-22A (страница отсутствует)">Chinasat-22A</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D1%81-2423&amp;action=edit&amp;redlink=1" title="Космос-2423 (страница отсутствует)">Космос-2423</a></li>
+<li><b><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%A2%D0%9C%D0%90-9" title="Союз ТМА-9">Союз ТМА-9</a></b></li>
+<li><a href="/wiki/Hinode" title="Hinode">Hinode</a>, <a class="new" href="/w/index.php?title=HIT-SAT&amp;action=edit&amp;redlink=1" title="HIT-SAT (страница отсутствует)">HIT-SAT</a>, <a class="new" href="/w/index.php?title=SSSAT&amp;action=edit&amp;redlink=1" title="SSSAT (страница отсутствует)">SSSAT</a></li>
+<li><a class="new" href="/w/index.php?title=USA-190&amp;action=edit&amp;redlink=1" title="USA-190 (страница отсутствует)">USA-190</a></li>
+<li><a class="new" href="/w/index.php?title=DirecTV-9S&amp;action=edit&amp;redlink=1" title="DirecTV-9S (страница отсутствует)">DirecTV-9S</a>, <a class="new" href="/w/index.php?title=Optus_D1&amp;action=edit&amp;redlink=1" title="Optus D1 (страница отсутствует)">Optus D1</a>, <a class="new" href="/w/index.php?title=LDREX&amp;action=edit&amp;redlink=1" title="LDREX (страница отсутствует)">LDREX</a></li>
+<li><a href="/wiki/MetOp" title="MetOp">MetOp-A</a></li>
+<li><a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B5%D1%81%D1%81_%D0%9C-58" title="Прогресс М-58">Прогресс М-58</a></li>
+<li><a class="new" href="/w/index.php?title=Shijian_6C&amp;action=edit&amp;redlink=1" title="Shijian 6C (страница отсутствует)">Shijian 6C</a>, <a class="new" href="/w/index.php?title=Shijian_6D&amp;action=edit&amp;redlink=1" title="Shijian 6D (страница отсутствует)">Shijian 6D</a></li>
+<li><a href="/wiki/STEREO" title="STEREO">STEREO</a></li>
+<li><a class="new" href="/w/index.php?title=Sinosat-2&amp;action=edit&amp;redlink=1" title="Sinosat-2 (страница отсутствует)">Sinosat-2</a></li>
+<li><a class="new" href="/w/index.php?title=XM-4&amp;action=edit&amp;redlink=1" title="XM-4 (страница отсутствует)">XM-4</a></li>
+<li><a class="new" href="/w/index.php?title=USA-191&amp;action=edit&amp;redlink=1" title="USA-191 (страница отсутствует)">USA-191</a></li>
+<li><a href="/wiki/ArabSat_4B" title="ArabSat 4B">ArabSat 4B</a></li>
+<li><a class="new" href="/w/index.php?title=USA-192&amp;action=edit&amp;redlink=1" title="USA-192 (страница отсутствует)">USA-192</a></li>
+<li><a class="new" href="/w/index.php?title=Fengyun_2-05&amp;action=edit&amp;redlink=1" title="Fengyun 2-05 (страница отсутствует)">Fengyun 2-05</a></li>
+<li><a class="new" href="/w/index.php?title=WildBlue_1&amp;action=edit&amp;redlink=1" title="WildBlue 1 (страница отсутствует)">WildBlue 1</a>, <a href="/wiki/AMC-18" title="AMC-18">AMC-18</a></li>
+<li><b><a href="/wiki/STS-116" title="STS-116">STS-116</a></b> (<a href="/wiki/%D0%A4%D0%B5%D1%80%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D0%B8_%D0%9C%D0%9A%D0%A1" title="Ферменные конструкции МКС">Ферменные конструкции МКС</a>, <a href="/wiki/%D0%A1%D0%BF%D0%B5%D0%B9%D1%81%D1%85%D1%8D%D0%B1" title="Спейсхэб">SpaceHab LSM</a>, <a class="new" href="/w/index.php?title=ANDE-MAA&amp;action=edit&amp;redlink=1" title="ANDE-MAA (страница отсутствует)">ANDE-MAA</a>, <a class="new" href="/w/index.php?title=ANDE-FACL&amp;action=edit&amp;redlink=1" title="ANDE-FACL (страница отсутствует)">ANDE-FACL</a>, <a class="new" href="/w/index.php?title=RAFT1&amp;action=edit&amp;redlink=1" title="RAFT1 (страница отсутствует)">RAFT1</a>, <a class="new" href="/w/index.php?title=MARScom&amp;action=edit&amp;redlink=1" title="MARScom (страница отсутствует)">MARScom</a>, <a class="new" href="/w/index.php?title=MEPSI-2&amp;action=edit&amp;redlink=1" title="MEPSI-2 (страница отсутствует)">MEPSI-2</a>)</li>
+<li><a class="new" href="/w/index.php?title=MEASAT-3&amp;action=edit&amp;redlink=1" title="MEASAT-3 (страница отсутствует)">MEASAT-3</a></li>
+<li><a href="/wiki/USA-193" title="USA-193">USA-193</a></li>
+<li><a class="new" href="/w/index.php?title=TacSat-2&amp;action=edit&amp;redlink=1" title="TacSat-2 (страница отсутствует)">TacSat-2</a>, <a class="new" href="/w/index.php?title=GeneSat&amp;action=edit&amp;redlink=1" title="GeneSat (страница отсутствует)">GeneSat</a></li>
+<li><a href="/wiki/%D0%9A%D0%B8%D0%BA%D1%83-8" title="Кику-8">Кику-8</a></li>
+<li><a href="/wiki/SAR-Lupe" title="SAR-Lupe">SAR-Lupe 1</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%9C%D0%B5%D1%80%D0%B8%D0%B4%D0%B8%D0%B0%D0%BD-1&amp;action=edit&amp;redlink=1" title="Меридиан-1 (страница отсутствует)">Меридиан-1</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D1%81-2424&amp;action=edit&amp;redlink=1" title="Космос-2424 (страница отсутствует)">Космос-2424</a>, <a class="new" href="/w/index.php?title=%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D1%81-2425&amp;action=edit&amp;redlink=1" title="Космос-2425 (страница отсутствует)">Космос-2425</a>, <a class="new" href="/w/index.php?title=%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D1%81-2426&amp;action=edit&amp;redlink=1" title="Космос-2426 (страница отсутствует)">Космос-2426</a></li>
+<li><a href="/wiki/COROT" title="COROT">COROT</a></li>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><span style="display:inline-block"> Аппараты, выведенные одной ракетой, разделены запятой (<span style="padding:0 2px;"><b>,</b></span>), запуски — интерпунктом (<span style="padding:0 2px;">·</span>). </span><span style="display:inline-block"><b>Пилотируемые полёты</b> выделены жирным начертанием. </span><span style="display:inline-block"><i>Неудачные запуски</i> выделены наклонным начертанием. </span></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.codfw.main‐7db646ff48‐mk67t
+Cached time: 20240218185030
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.406 seconds
+Real time usage: 0.571 seconds
+Preprocessor visited node count: 2849/1000000
+Post‐expand include size: 100053/2097152 bytes
+Template argument size: 9560/2097152 bytes
+Highest expansion depth: 20/100
+Expensive parser function count: 12/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 6750/5000000 bytes
+Lua time usage: 0.184/10.000 seconds
+Lua memory usage: 5417700/52428800 bytes
+Number of Wikibase entities loaded: 11/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  411.427      1 -total
+ 60.31%  248.119      1 Шаблон:Космическая_экспедиция
+ 58.50%  240.692      1 Шаблон:Карточка
+ 17.02%   70.025      8 Шаблон:Wikidata
+ 10.65%   43.811      1 Шаблон:Примечания
+  9.09%   37.415      3 Шаблон:Навигационная_таблица
+  8.75%   36.015      5 Шаблон:Cite_web
+  7.15%   29.431      1 Шаблон:Значения
+  6.87%   28.273      1 Шаблон:Навигация
+  6.26%   25.758      1 Шаблон:Другое_значение
+-->
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:162729-0!canonical and timestamp 20240218185030 and revision id 127854593. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> -->
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=STS-121&amp;oldid=127854593">https://ru.wikipedia.org/w/index.php?title=STS-121&amp;oldid=127854593</a></div></div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:2006_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D0%B8%D0%BA%D0%B5" title="Категория:2006 год в космонавтике">2006 год в космонавтике</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%B8%D0%BB%D0%BE%D1%82%D0%B8%D1%80%D1%83%D0%B5%D0%BC%D1%8B%D0%B5_%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BF%D0%BE%D0%BB%D1%91%D1%82%D1%8B_%D0%BA_%D0%9C%D0%9A%D0%A1" title="Категория:Пилотируемые космические полёты к МКС">Пилотируемые космические полёты к МКС</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%BE%D0%BB%D1%91%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B5_%C2%AB%D0%A1%D0%BF%D0%B5%D0%B9%D1%81_%D0%A8%D0%B0%D1%82%D1%82%D0%BB%C2%BB" title="Категория:Полёты по программе «Спейс Шаттл»">Полёты по программе «Спейс Шаттл»</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:2006_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%A1%D0%A8%D0%90" title="Категория:2006 год в США">2006 год в США</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D0%B8%D1%82%D1%8C_webcitation-%D0%B0%D1%80%D1%85%D0%B8%D0%B2:_deadlink_yes)" title="Категория:Википедия:Cite web (заменить webcitation-архив: deadlink yes)">Википедия:Cite web (заменить webcitation-архив: deadlink yes)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%BD%D0%B5_%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD_%D1%8F%D0%B7%D1%8B%D0%BA)" title="Категория:Википедия:Cite web (не указан язык)">Википедия:Cite web (не указан язык)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81%D0%BE_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8_%D0%BD%D0%B0_%D0%92%D0%B8%D0%BA%D0%B8%D1%81%D0%BA%D0%BB%D0%B0%D0%B4" title="Категория:Статьи со ссылками на Викисклад">Статьи со ссылками на Викисклад</a></li></ul></div></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Навигация</h2>
+<div id="mw-head">
+<nav aria-labelledby="p-personal-label" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" id="p-personal" role="navigation">
+<h3 class="vector-menu-heading" id="p-personal-label">
+<span class="vector-menu-heading-label">Персональные инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="pt-anonuserpage"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li class="mw-list-item" id="pt-anontalk"><a accesskey="n" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]"><span>Обсуждение</span></a></li><li class="mw-list-item" id="pt-anoncontribs"><a accesskey="y" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]"><span>Вклад</span></a></li><li class="mw-list-item" id="pt-createaccount"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=STS-121" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li class="mw-list-item" id="pt-login"><a accesskey="o" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=STS-121" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]"><span>Войти</span></a></li>
+</ul>
+</div>
+</nav>
+<div id="left-navigation">
+<nav aria-labelledby="p-namespaces-label" class="mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-namespaces" role="navigation">
+<h3 class="vector-menu-heading" id="p-namespaces-label">
+<span class="vector-menu-heading-label">Пространства имён</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-nstab-main"><a accesskey="c" href="/wiki/STS-121" title="Просмотреть контентную страницу [c]"><span>Статья</span></a></li><li class="mw-list-item" id="ca-talk"><a accesskey="t" href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:STS-121" rel="discussion" title="Обсуждение основной страницы [t]"><span>Обсуждение</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-variants-label" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" id="p-variants" role="navigation">
+<input aria-haspopup="true" aria-labelledby="p-variants-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-variants" id="p-variants-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-variants-label">
+<span class="vector-menu-heading-label">русский</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+</div>
+<div id="right-navigation">
+<nav aria-labelledby="p-views-label" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-views" role="navigation">
+<h3 class="vector-menu-heading" id="p-views-label">
+<span class="vector-menu-heading-label">Просмотры</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-view"><a href="/wiki/STS-121"><span>Читать</span></a></li><li class="mw-list-item" id="ca-ve-edit"><a accesskey="v" href="/w/index.php?title=STS-121&amp;veaction=edit" title="Редактировать данную страницу [v]"><span>Править</span></a></li><li class="collapsible mw-list-item" id="ca-edit"><a accesskey="e" href="/w/index.php?title=STS-121&amp;action=edit" title="Править исходный текст этой страницы [e]"><span>Править код</span></a></li><li class="mw-list-item" id="ca-history"><a accesskey="h" href="/w/index.php?title=STS-121&amp;action=history" title="Журнал изменений страницы [h]"><span>История</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-cactions-label" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" id="p-cactions" role="navigation" title="Больше возможностей">
+<input aria-haspopup="true" aria-labelledby="p-cactions-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-cactions" id="p-cactions-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-cactions-label">
+<span class="vector-menu-heading-label">Ещё</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+<div class="vector-search-box-vue vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box" id="p-search" role="search">
+<h3>Поиск</h3>
+<form action="/w/index.php" class="vector-search-box-form" id="searchform">
+<div class="vector-search-box-inner" data-search-loc="header-navigation" id="simpleSearch">
+<input accesskey="f" aria-label="Искать в Википедии" autocapitalize="sentences" class="vector-search-box-input" id="searchInput" name="search" placeholder="Искать в Википедии" title="Искать в Википедии [f]" type="search"/>
+<input name="title" type="hidden" value="Служебная:Поиск"/>
+<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Найти страницы, содержащие указанный текст" type="submit" value="Найти"/>
+<input class="searchButton" id="searchButton" name="go" title="Перейти к странице, имеющей в точности такое название" type="submit" value="Перейти"/>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="vector-legacy-sidebar" id="mw-panel">
+<div id="p-logo" role="banner">
+<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу"></a>
+</div>
+<nav aria-labelledby="p-navigation-label" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" id="p-navigation" role="navigation">
+<h3 class="vector-menu-heading" id="p-navigation-label">
+<span class="vector-menu-heading-label">Навигация</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-mainpage-description"><a accesskey="z" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]"><span>Заглавная страница</span></a></li><li class="mw-list-item" id="n-content"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li class="mw-list-item" id="n-featured"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li class="mw-list-item" id="n-randompage"><a accesskey="x" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]"><span>Случайная статья</span></a></li><li class="mw-list-item" id="n-currentevents"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li class="mw-list-item" id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-participation-label" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" id="p-participation" role="navigation">
+<h3 class="vector-menu-heading" id="p-participation-label">
+<span class="vector-menu-heading-label">Участие</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-bug_in_article"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li class="mw-list-item" id="n-introduction"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li class="mw-list-item" id="n-portal"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li class="mw-list-item" id="n-forum"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li class="mw-list-item" id="n-recentchanges"><a accesskey="r" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]"><span>Свежие правки</span></a></li><li class="mw-list-item" id="n-newpages"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li class="mw-list-item" id="n-help"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-tb-label" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" id="p-tb" role="navigation">
+<h3 class="vector-menu-heading" id="p-tb-label">
+<span class="vector-menu-heading-label">Инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="t-whatlinkshere"><a accesskey="j" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/STS-121" title="Список всех страниц, ссылающихся на данную [j]"><span>Ссылки сюда</span></a></li><li class="mw-list-item" id="t-recentchangeslinked"><a accesskey="k" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/STS-121" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]"><span>Связанные правки</span></a></li><li class="mw-list-item" id="t-specialpages"><a accesskey="q" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]"><span>Служебные страницы</span></a></li><li class="mw-list-item" id="t-permalink"><a href="/w/index.php?title=STS-121&amp;oldid=127854593" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li class="mw-list-item" id="t-info"><a href="/w/index.php?title=STS-121&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li class="mw-list-item" id="t-cite"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=STS-121&amp;id=127854593&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li class="mw-list-item" id="t-urlshortener"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2FSTS-121"><span>Получить короткий URL</span></a></li><li class="mw-list-item" id="t-urlshortener-qrcode"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2FSTS-121"><span>Скачать QR-код</span></a></li><li class="mw-list-item" id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q312037" title="Ссылка на связанный элемент репозитория данных [g]"><span>Элемент Викиданных</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-coll-print_export-label" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" id="p-coll-print_export" role="navigation">
+<h3 class="vector-menu-heading" id="p-coll-print_export-label">
+<span class="vector-menu-heading-label">Печать/экспорт</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="coll-download-as-rl"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=STS-121&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li class="mw-list-item" id="t-print"><a accesskey="p" href="/w/index.php?title=STS-121&amp;printable=yes" title="Версия этой страницы для печати [p]"><span>Версия для печати</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-wikibase-otherprojects-label" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal vector-menu" id="p-wikibase-otherprojects" role="navigation">
+<h3 class="vector-menu-heading" id="p-wikibase-otherprojects-label">
+<span class="vector-menu-heading-label">В других проектах</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/STS-121" hreflang="en"><span>Викисклад</span></a></li><li class="wb-otherproject-link wb-otherproject-wikinews mw-list-item"><a href="https://ru.wikinews.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:STS-121" hreflang="ru"><span>Викиновости</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-lang-label" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" id="p-lang" role="navigation">
+<h3 class="vector-menu-heading" id="p-lang-label">
+<span class="vector-menu-heading-label">На других языках</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="interlanguage-link interwiki-ar mw-list-item"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/STS-121" hreflang="ar" lang="ar" title="STS-121 — арабский"><span>العربية</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/STS-121" hreflang="bg" lang="bg" title="STS-121 — болгарский"><span>Български</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/STS-121" hreflang="ca" lang="ca" title="STS-121 — каталанский"><span>Català</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/STS-121" hreflang="cs" lang="cs" title="STS-121 — чешский"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/STS-121" hreflang="da" lang="da" title="STS-121 — датский"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de badge-Q17437796 badge-featuredarticle mw-list-item" title="избранная статья"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/STS-121" hreflang="de" lang="de" title="STS-121 — немецкий"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/STS-121" hreflang="el" lang="el" title="STS-121 — греческий"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a class="interlanguage-link-target" href="https://en.wikipedia.org/wiki/STS-121" hreflang="en" lang="en" title="STS-121 — английский"><span>English</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/STS-121" hreflang="es" lang="es" title="STS-121 — испанский"><span>Español</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/STS-121" hreflang="et" lang="et" title="STS-121 — эстонский"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%A7%D8%B3%E2%80%8C%D8%AA%DB%8C%E2%80%8C%D8%A7%D8%B3-%DB%B1%DB%B2%DB%B1" hreflang="fa" lang="fa" title="اس‌تی‌اس-۱۲۱ — персидский"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/STS-121" hreflang="fi" lang="fi" title="STS-121 — финский"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/STS-121" hreflang="fr" lang="fr" title="STS-121 — французский"><span>Français</span></a></li><li class="interlanguage-link interwiki-gl mw-list-item"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/STS-121" hreflang="gl" lang="gl" title="STS-121 — галисийский"><span>Galego</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/STS-121" hreflang="he" lang="he" title="STS-121 — иврит"><span>עברית</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/STS%E2%80%93121" hreflang="hu" lang="hu" title="STS–121 — венгерский"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/STS-121" hreflang="it" lang="it" title="STS-121 — итальянский"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/STS-121" hreflang="ja" lang="ja" title="STS-121 — японский"><span>日本語</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/STS-121" hreflang="nl" lang="nl" title="STS-121 — нидерландский"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-nn mw-list-item"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/STS-121" hreflang="nn" lang="nn" title="STS-121 — нюнорск"><span>Norsk nynorsk</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/STS-121" hreflang="nb" lang="nb" title="STS-121 — норвежский букмол"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/STS-121" hreflang="pl" lang="pl" title="STS-121 — польский"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/STS-121" hreflang="pt" lang="pt" title="STS-121 — португальский"><span>Português</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/STS-121" hreflang="sk" lang="sk" title="STS-121 — словацкий"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/STS-121" hreflang="sv" lang="sv" title="STS-121 — шведский"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/STS-121" hreflang="uk" lang="uk" title="STS-121 — украинский"><span>Українська</span></a></li><li class="interlanguage-link interwiki-yo mw-list-item"><a class="interlanguage-link-target" href="https://yo.wikipedia.org/wiki/STS-121" hreflang="yo" lang="yo" title="STS-121 — йоруба"><span>Yorùbá</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/STS-121" hreflang="zh" lang="zh" title="STS-121 — китайский"><span>中文</span></a></li><li class="interlanguage-link interwiki-zh-min-nan mw-list-item"><a class="interlanguage-link-target" href="https://zh-min-nan.wikipedia.org/wiki/STS-121" hreflang="nan" lang="nan" title="STS-121 — миньнань"><span>Bân-lâm-gú</span></a></li>
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q312037#sitelinks-wikipedia" title="Править ссылки на другие языки">Править ссылки</a></span></div>
+</div>
+</nav>
+</div>
+</div>
+<footer class="mw-footer" id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 13 января 2023 в 18:01.</li>
+<li id="footer-info-copyright">Текст доступен по <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru" rel="license">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a><a href="//creativecommons.org/licenses/by-sa/4.0/" rel="license" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br/>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org/ru/">Фонд Викимедиа (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//ru.m.wikipedia.org/w/index.php?title=STS-121&amp;mobileaction=toggle_view_mobile">Мобильная версия</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" loading="lazy" src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88"/></a></li>
+<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" loading="lazy" src="/static/images/footer/poweredby_mediawiki_88x31.png" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88"/></a></li>
+</ul>
+</footer>
+
+
+</body>
+</html>

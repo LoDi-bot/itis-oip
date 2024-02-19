@@ -1,0 +1,2953 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="ru">
+<head>
+<meta charset="utf-8"/>
+<title>Фильтр Чебышёва — Википедия</title>
+
+
+
+
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+
+
+<meta content="MediaWiki 1.42.0-wmf.18" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="max-image-preview:standard" name="robots"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="width=1000" name="viewport"/>
+<meta content="Фильтр Чебышёва — Википедия" property="og:title"/>
+<meta content="website" property="og:type"/>
+
+
+
+
+
+
+
+
+
+
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Фильтр_Чебышёва rootpage-Фильтр_Чебышёва skin-vector action-view"><div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators">
+</div>
+<h1 class="firstHeading mw-first-heading" id="firstHeading"><span class="mw-page-title-main">Фильтр Чебышёва</span></h1>
+<div class="vector-body" id="bodyContent">
+<div class="noprint" id="siteSub">Материал из Википедии — свободной энциклопедии</div>
+<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+<div id="contentSub2"></div>
+<div id="jump-to-nav"></div>
+<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+<div class="mw-body-content" id="mw-content-text"><div class="mw-content-ltr mw-parser-output" dir="ltr" lang="ru"><table class="vertical-navbox noprint ts-Боковая_навигационная_таблица-body" data-name="Линейные электронные фильтры" style=""><tbody><tr><th class="ts-Боковая_навигационная_таблица-title" scope="colgroup" style="">Линейные электронные фильтры</th></tr><tr><td class="ts-Боковая_навигационная_таблица-list hlist" style=""><div>
+<ul><li><a href="/wiki/%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80_%D0%91%D0%B0%D1%82%D1%82%D0%B5%D1%80%D0%B2%D0%BE%D1%80%D1%82%D0%B0" title="Фильтр Баттерворта">Фильтр Баттерворта</a></li>
+<li><a class="mw-selflink selflink">Фильтр Чебышёва</a></li>
+<li><a href="/wiki/%D0%AD%D0%BB%D0%BB%D0%B8%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%84%D0%B8%D0%BB%D1%8C%D1%82%D1%80" title="Эллиптический фильтр">Эллиптический фильтр</a></li>
+<li><a href="/wiki/%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80_%D0%91%D0%B5%D1%81%D1%81%D0%B5%D0%BB%D1%8F" title="Фильтр Бесселя">Фильтр Бесселя</a></li>
+<li><a href="/wiki/%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80_%D0%93%D0%B0%D1%83%D1%81%D1%81%D0%B0" title="Фильтр Гаусса">Фильтр Гаусса</a></li>
+<li><a href="/wiki/%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80_%D0%9B%D0%B5%D0%B6%D0%B0%D0%BD%D0%B4%D1%80%D0%B0" title="Фильтр Лежандра">Фильтр Лежандра</a></li>
+<li><a href="/wiki/%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80_%D0%93%D0%B0%D0%B1%D0%BE%D1%80%D0%B0" title="Фильтр Габора">Фильтр Габора</a></li></ul>
+</div></td></tr>
+</tbody></table>
+<p><b>Фильтр Чебышёва</b><sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[К 1]</a></sup> — один из типов <a href="/wiki/%D0%9B%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D1%8B%D0%B9_%D1%84%D0%B8%D0%BB%D1%8C%D1%82%D1%80" title="Линейный фильтр">линейных</a> <a href="/wiki/%D0%90%D0%BD%D0%B0%D0%BB%D0%BE%D0%B3%D0%BE%D0%B2%D1%8B%D0%B9_%D1%84%D0%B8%D0%BB%D1%8C%D1%82%D1%80" title="Аналоговый фильтр">аналоговых</a> или <a href="/wiki/%D0%A6%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B9_%D1%84%D0%B8%D0%BB%D1%8C%D1%82%D1%80" title="Цифровой фильтр">цифровых фильтров</a>, отличительной особенностью которого является более крутой спад <a href="/wiki/%D0%90%D0%BC%D0%BF%D0%BB%D0%B8%D1%82%D1%83%D0%B4%D0%BD%D0%BE-%D1%87%D0%B0%D1%81%D1%82%D0%BE%D1%82%D0%BD%D0%B0%D1%8F_%D1%85%D0%B0%D1%80%D0%B0%D0%BA%D1%82%D0%B5%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0" title="Амплитудно-частотная характеристика">амплитудно-частотной характеристики</a> (АЧХ) и существенные пульсации амплитудно-частотной характеристики на частотах полос пропускания (фильтр Чебышёва I рода) и <a href="/wiki/%D0%9F%D0%BE%D0%BB%D0%BE%D1%81%D0%B0_%D0%BF%D0%BE%D0%B4%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F" title="Полоса подавления">подавления</a> (фильтр Чебышёва II рода), чем у фильтров других типов. Фильтр получил название в честь известного русского математика XIX века <a href="/wiki/%D0%A7%D0%B5%D0%B1%D1%8B%D1%88%D1%91%D0%B2,_%D0%9F%D0%B0%D1%84%D0%BD%D1%83%D1%82%D0%B8%D0%B9_%D0%9B%D1%8C%D0%B2%D0%BE%D0%B2%D0%B8%D1%87" title="Чебышёв, Пафнутий Львович">Пафнутия Львовича Чебышёва</a>, так как характеристики этого фильтра основываются на <a href="/wiki/%D0%9C%D0%BD%D0%BE%D0%B3%D0%BE%D1%87%D0%BB%D0%B5%D0%BD%D1%8B_%D0%A7%D0%B5%D0%B1%D1%8B%D1%88%D1%91%D0%B2%D0%B0" title="Многочлены Чебышёва">многочленах Чебышёва</a>.
+</p><p>Фильтры Чебышёва обычно используются там, где требуется с помощью фильтра небольшого порядка обеспечить требуемые характеристики АЧХ, в частности, хорошее подавление частот из полосы подавления, и при этом гладкость АЧХ на частотах полос пропускания и подавления не столь важна.
+</p><p>Различают фильтры Чебышёва I и II родов.
+</p>
+<div aria-labelledby="mw-toc-heading" class="toc" id="toc" role="navigation"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="ru"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Фильтр_Чебышёва_I_рода"><span class="tocnumber">1</span> <span class="toctext">Фильтр Чебышёва I рода</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Полюса_и_нули"><span class="tocnumber">1.1</span> <span class="toctext">Полюса и нули</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Передаточная_функция"><span class="tocnumber">1.2</span> <span class="toctext">Передаточная функция</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Групповая_задержка"><span class="tocnumber">1.3</span> <span class="toctext">Групповая задержка</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Фазовые_характеристики"><span class="tocnumber">1.4</span> <span class="toctext">Фазовые характеристики</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Временны́е_характеристики"><span class="tocnumber">1.5</span> <span class="toctext">Временны́е характеристики</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Фильтр_Чебышёва_II_рода"><span class="tocnumber">2</span> <span class="toctext">Фильтр Чебышёва II рода</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Полюса_и_нули_2"><span class="tocnumber">2.1</span> <span class="toctext">Полюса и нули</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Передаточная_функция_2"><span class="tocnumber">2.2</span> <span class="toctext">Передаточная функция</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Групповая_задержка_2"><span class="tocnumber">2.3</span> <span class="toctext">Групповая задержка</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Фазовые_характеристики_2"><span class="tocnumber">2.4</span> <span class="toctext">Фазовые характеристики</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Цифровые_фильтры_Чебышёва"><span class="tocnumber">3</span> <span class="toctext">Цифровые фильтры Чебышёва</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Сравнение_с_другими_линейными_фильтрами"><span class="tocnumber">4</span> <span class="toctext">Сравнение с другими линейными фильтрами</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#См._также"><span class="tocnumber">5</span> <span class="toctext">См. также</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Комментарии"><span class="tocnumber">6</span> <span class="toctext">Комментарии</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#Примечания"><span class="tocnumber">7</span> <span class="toctext">Примечания</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#Библиография"><span class="tocnumber">8</span> <span class="toctext">Библиография</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#Ссылки"><span class="tocnumber">9</span> <span class="toctext">Ссылки</span></a></li>
+</ul>
+</div>
+<h2><span id=".D0.A4.D0.B8.D0.BB.D1.8C.D1.82.D1.80_.D0.A7.D0.B5.D0.B1.D1.8B.D1.88.D1.91.D0.B2.D0.B0_I_.D1.80.D0.BE.D0.B4.D0.B0"></span><span class="mw-headline" id="Фильтр_Чебышёва_I_рода">Фильтр Чебышёва I рода</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80_%D0%A7%D0%B5%D0%B1%D1%8B%D1%88%D1%91%D0%B2%D0%B0&amp;veaction=edit&amp;section=1" title="Редактировать раздел «Фильтр Чебышёва I рода»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80_%D0%A7%D0%B5%D0%B1%D1%8B%D1%88%D1%91%D0%B2%D0%B0&amp;action=edit&amp;section=1" title="Редактировать код раздела «Фильтр Чебышёва I рода»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chebyshev_response_rus.PNG"><img class="mw-file-element" data-file-height="527" data-file-width="732" decoding="async" height="180" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Chebyshev_response_rus.PNG/250px-Chebyshev_response_rus.PNG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Chebyshev_response_rus.PNG/375px-Chebyshev_response_rus.PNG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Chebyshev_response_rus.PNG/500px-Chebyshev_response_rus.PNG 2x" width="250"/></a><figcaption>ЛАЧХ фильтра Чебышёва I рода четвёртого порядка с <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \omega _{0}=1}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>ω<!-- ω --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<mo>=</mo>
+<mn>1</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \omega _{0}=1}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \omega _{0}=1}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ee04380d93e624497ceace7e45108a63b1cd2cd3" style="vertical-align: -0.671ex; width:6.761ex; height:2.509ex;"/></span> и <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \varepsilon =1}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>ε<!-- ε --></mi>
+<mo>=</mo>
+<mn>1</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \varepsilon =1}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \varepsilon =1}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1753afd2efa95ce60e70983a02a58bea70cc7b1d" style="vertical-align: -0.338ex; width:5.344ex; height:2.176ex;"/></span></figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Mplwp_chebyshev1-filter-gain-ru.svg"><img class="mw-file-element" data-file-height="546" data-file-width="819" decoding="async" height="167" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Mplwp_chebyshev1-filter-gain-ru.svg/250px-Mplwp_chebyshev1-filter-gain-ru.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Mplwp_chebyshev1-filter-gain-ru.svg/375px-Mplwp_chebyshev1-filter-gain-ru.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/02/Mplwp_chebyshev1-filter-gain-ru.svg/500px-Mplwp_chebyshev1-filter-gain-ru.svg.png 2x" width="250"/></a><figcaption>Сравнение АЧХ <a href="/wiki/%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80_%D0%BD%D0%B8%D0%B6%D0%BD%D0%B8%D1%85_%D1%87%D0%B0%D1%81%D1%82%D0%BE%D1%82" title="Фильтр нижних частот">фильтров низких частот</a>(ФНЧ) Чебышёва I рода порядков от 2 до 5. При увеличении порядка крутизна спада АЧХ увеличивается по 20 дБ/декаду на каждый порядок.</figcaption></figure>
+<p>Это более часто встречающаяся модификация фильтров Чебышёва. Характеризуется колебаниями АЧХ в полосе пропускания. Аналитически АЧХ такого фильтра <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle n}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>n</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle n}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle n}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a601995d55609f2d9f5e233e36fbe9ea26011b3b" style="vertical-align: -0.338ex; width:1.395ex; height:1.676ex;"/></span>-го порядка задаётся следующим выражением:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle G_{n}(\omega )=\left|H_{n}(j\omega )\right|=}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>G</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>n</mi>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>ω<!-- ω --></mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mrow>
+<mo>|</mo>
+<mrow>
+<msub>
+<mi>H</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>n</mi>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>j</mi>
+<mi>ω<!-- ω --></mi>
+<mo stretchy="false">)</mo>
+</mrow>
+<mo>|</mo>
+</mrow>
+<mo>=</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle G_{n}(\omega )=\left|H_{n}(j\omega )\right|=}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle G_{n}(\omega )=\left|H_{n}(j\omega )\right|=}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a4b1f37478f912551d9489f10bdbaade1071f220" style="vertical-align: -0.838ex; width:20.509ex; height:2.843ex;"/></span></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle ={\frac {1}{\sqrt {1+\varepsilon ^{2}T_{n}^{2}\left({\frac {\omega }{\omega _{0}}}\right)}}},}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<msqrt>
+<mn>1</mn>
+<mo>+</mo>
+<msup>
+<mi>ε<!-- ε --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<msubsup>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>n</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msubsup>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>ω<!-- ω --></mi>
+<msub>
+<mi>ω<!-- ω --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+</msqrt>
+</mfrac>
+</mrow>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle ={\frac {1}{\sqrt {1+\varepsilon ^{2}T_{n}^{2}\left({\frac {\omega }{\omega _{0}}}\right)}}},}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle ={\frac {1}{\sqrt {1+\varepsilon ^{2}T_{n}^{2}\left({\frac {\omega }{\omega _{0}}}\right)}}},}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9634dee8e5aded3c9f19f2c3000b2dc31d35d433" style="vertical-align: -6.005ex; width:21.027ex; height:9.343ex;"/></span></dd></dl>
+<dl><dd>где <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \varepsilon }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>ε<!-- ε --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \varepsilon }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \varepsilon }" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a30c89172e5b88edbd45d3e2772c7f5e562e5173" style="vertical-align: -0.338ex; width:1.083ex; height:1.676ex;"/></span> — показатель пульсаций,</dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \omega _{0}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>ω<!-- ω --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \omega _{0}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \omega _{0}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9a713d16c489051d4f515e12b1f86061c6be799b" style="vertical-align: -0.671ex; width:2.5ex; height:2.009ex;"/></span> — <a href="/wiki/%D0%A7%D0%B0%D1%81%D1%82%D0%BE%D1%82%D0%B0_%D1%81%D1%80%D0%B5%D0%B7%D0%B0" title="Частота среза">частота среза</a>,</dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle T_{n}(x)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>n</mi>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T_{n}(x)}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle T_{n}(x)}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/189f6ee3c1d17d5b774aa7d9555947d017c8f43d" style="vertical-align: -0.838ex; width:5.715ex; height:2.843ex;"/></span> — <a href="/wiki/%D0%9C%D0%BD%D0%BE%D0%B3%D0%BE%D1%87%D0%BB%D0%B5%D0%BD%D1%8B_%D0%A7%D0%B5%D0%B1%D1%8B%D1%88%D1%91%D0%B2%D0%B0" title="Многочлены Чебышёва">многочлен Чебышёва</a> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle n}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>n</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle n}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle n}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a601995d55609f2d9f5e233e36fbe9ea26011b3b" style="vertical-align: -0.338ex; width:1.395ex; height:1.676ex;"/></span>-го порядка.</dd></dl>
+<p>В полосе пропускания такого фильтра существуют пульсации, амплитуда которых определяется показателем пульсации (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">ripple factor</span>) <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \varepsilon }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>ε<!-- ε --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \varepsilon }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \varepsilon }" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a30c89172e5b88edbd45d3e2772c7f5e562e5173" style="vertical-align: -0.338ex; width:1.083ex; height:1.676ex;"/></span>. В полосе пропускания многочлены Чебышёва принимают значения от 0 до 1, поэтому коэффициент усиления фильтра принимает значения от максимального <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle G=1}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>G</mi>
+<mo>=</mo>
+<mn>1</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle G=1}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle G=1}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d0b5b4ca2325d82a5c09a94f7ae297b2a09f1e5e" style="vertical-align: -0.338ex; width:6.088ex; height:2.176ex;"/></span> до минимального <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle G=1/{\sqrt {1+\varepsilon ^{2}}}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>G</mi>
+<mo>=</mo>
+<mn>1</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mn>1</mn>
+<mo>+</mo>
+<msup>
+<mi>ε<!-- ε --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</msqrt>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle G=1/{\sqrt {1+\varepsilon ^{2}}}.}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle G=1/{\sqrt {1+\varepsilon ^{2}}}.}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/675c08dc9a4808cfa2aa58391a23f270bd8449be" style="vertical-align: -0.838ex; width:16.361ex; height:3.509ex;"/></span> На частоте среза <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \omega _{0}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>ω<!-- ω --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \omega _{0}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \omega _{0}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9a713d16c489051d4f515e12b1f86061c6be799b" style="vertical-align: -0.671ex; width:2.5ex; height:2.009ex;"/></span> коэффициент усиления имеет значение <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 1/{\sqrt {1+\varepsilon ^{2}}},}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mn>1</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mn>1</mn>
+<mo>+</mo>
+<msup>
+<mi>ε<!-- ε --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</msqrt>
+</mrow>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle 1/{\sqrt {1+\varepsilon ^{2}}},}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle 1/{\sqrt {1+\varepsilon ^{2}}},}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/da4f30e5081a0a4f8ba3ef949f547cacd9174d13" style="vertical-align: -0.838ex; width:11.436ex; height:3.509ex;"/></span> а на частотах выше неё продолжает уменьшаться с увеличением частоты. (<i>Примечание</i>: обычное определение частоты среза как частоты на которой модуль коэффициента передачи снижается на 3 <a href="/wiki/%D0%94%D0%B5%D1%86%D0%B8%D0%B1%D0%B5%D0%BB" title="Децибел">дБ</a> в случае фильтра Чебышёва не применяется).
+</p><p>Для аналогового электронного фильтра Чебышёва его порядок равен числу реактивных компонентов (например, <a href="/wiki/%D0%98%D0%BD%D0%B4%D1%83%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Индуктивность">индуктивностей</a> и/или <a href="/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%BD%D0%B4%D0%B5%D0%BD%D1%81%D0%B0%D1%82%D0%BE%D1%80" title="Электрический конденсатор">конденсаторов</a>), использованных при его реализации.
+</p><p>Пульсации в полосе пропускания часто задаются в <a href="/wiki/%D0%94%D0%B5%D1%86%D0%B8%D0%B1%D0%B5%D0%BB" title="Децибел">децибелах</a>:
+</p>
+<dl><dd>Пульсации в дБ = <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 20\log _{10}{\sqrt {1+\varepsilon ^{2}}}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mn>20</mn>
+<msub>
+<mi>log</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>10</mn>
+</mrow>
+</msub>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mn>1</mn>
+<mo>+</mo>
+<msup>
+<mi>ε<!-- ε --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</msqrt>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle 20\log _{10}{\sqrt {1+\varepsilon ^{2}}}.}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle 20\log _{10}{\sqrt {1+\varepsilon ^{2}}}.}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a65feb04e4def7418276ad009b238b7d5cc6dd17" style="vertical-align: -0.838ex; width:17.058ex; height:3.509ex;"/></span></dd></dl>
+<p>Например, пульсации с амплитудой в 3 дБ соответствуют <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \varepsilon =1.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>ε<!-- ε --></mi>
+<mo>=</mo>
+<mn>1.</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \varepsilon =1.}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \varepsilon =1.}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fd3cf5d8e3fa5a4629928c21ca605d98d4157501" style="vertical-align: -0.338ex; width:5.991ex; height:2.176ex;"/></span>
+</p><p>Более крутой спад АЧХ может быть получен если допустить пульсации не только в полосе пропускания, но и в полосе подавления, добавив в <a href="/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D0%B4%D0%B0%D1%82%D0%BE%D1%87%D0%BD%D0%B0%D1%8F_%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D1%8F" title="Передаточная функция">передаточную функцию</a> фильтра нули на мнимой оси <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle j\omega }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>j</mi>
+<mi>ω<!-- ω --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle j\omega }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle j\omega }" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/635692523e5a0d8187e908408819010da7f0bd09" style="vertical-align: -0.671ex; margin-left: -0.027ex; width:2.431ex; height:2.509ex;"/></span> в <a href="/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BB%D0%BE%D1%81%D0%BA%D0%BE%D1%81%D1%82%D1%8C" title="Комплексная плоскость">комплексной плоскости</a>. Это, однако, приведёт к менее эффективному подавлению в полосе подавления. Полученный таким образом фильтр является <a href="/wiki/%D0%AD%D0%BB%D0%BB%D0%B8%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%84%D0%B8%D0%BB%D1%8C%D1%82%D1%80" title="Эллиптический фильтр">эллиптическим фильтром</a>, также известным как <a class="new" href="/w/index.php?title=%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80_%D0%9A%D0%B0%D1%83%D1%8D%D1%80%D0%B0&amp;action=edit&amp;redlink=1" title="Фильтр Кауэра (страница отсутствует)">фильтр Кауэра</a>.
+</p>
+<h3><span id=".D0.9F.D0.BE.D0.BB.D1.8E.D1.81.D0.B0_.D0.B8_.D0.BD.D1.83.D0.BB.D0.B8"></span><span class="mw-headline" id="Полюса_и_нули">Полюса и нули</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80_%D0%A7%D0%B5%D0%B1%D1%8B%D1%88%D1%91%D0%B2%D0%B0&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Полюса и нули»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80_%D0%A7%D0%B5%D0%B1%D1%8B%D1%88%D1%91%D0%B2%D0%B0&amp;action=edit&amp;section=2" title="Редактировать код раздела «Полюса и нули»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chebyshev8_gain.png"><img class="mw-file-element" data-file-height="600" data-file-width="600" decoding="async" height="250" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Chebyshev8_gain.png/250px-Chebyshev8_gain.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Chebyshev8_gain.png/375px-Chebyshev8_gain.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/87/Chebyshev8_gain.png/500px-Chebyshev8_gain.png 2x" width="250"/></a><figcaption>Логарифм модуля амплитудной характеристики фильтра Чебышёва I рода 8-го порядка на плоскости комплексной частоты (<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle s=\sigma +j\omega }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>s</mi>
+<mo>=</mo>
+<mi>σ<!-- σ --></mi>
+<mo>+</mo>
+<mi>j</mi>
+<mi>ω<!-- ω --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle s=\sigma +j\omega }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle s=\sigma +j\omega }" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/52b9a99cfe16a2003294604462f41acc7863fe66" style="vertical-align: -0.671ex; width:10.763ex; height:2.509ex;"/></span>) при <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \varepsilon =0,\!1}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>ε<!-- ε --></mi>
+<mo>=</mo>
+<mn>0</mn>
+<mo>,</mo>
+<mspace width="negativethinmathspace"></mspace>
+<mn>1</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \varepsilon =0,\!1}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \varepsilon =0,\!1}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/92febcd941b3d79a9affa8bed98caf5dc5e39eec" style="vertical-align: -0.671ex; width:7.154ex; height:2.509ex;"/></span> и <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \omega _{0}=1.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>ω<!-- ω --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<mo>=</mo>
+<mn>1.</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \omega _{0}=1.}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \omega _{0}=1.}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/19571ee66dd2819e84235769787fb9c894493a62" style="vertical-align: -0.671ex; width:7.408ex; height:2.509ex;"/></span> Белые пятна соответствуют полюсам фильтра. Полюса ложатся на <a href="/wiki/%D0%AD%D0%BB%D0%BB%D0%B8%D0%BF%D1%81" title="Эллипс">эллипс</a> с полуосью равной ≈0,3836 по действительной оси и равной ≈1,071 по мнимой оси. Полюса передаточной функции фильтра расположены в левой полуплоскости. Чёрный цвет соответствует на рисунке соответствует коэффициенту передачи менее 0,05, белый — соответствует коэффициенту передачи более 20.</figcaption></figure>
+<p>Для упрощения формул примем частоту среза фильтра равной единице. <a href="/wiki/%D0%9F%D0%BE%D0%BB%D1%8E%D1%81_(%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%BD%D1%8B%D0%B9_%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7)" title="Полюс (комплексный анализ)">Полюса</a> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle (\omega _{pm})}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo stretchy="false">(</mo>
+<msub>
+<mi>ω<!-- ω --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>p</mi>
+<mi>m</mi>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle (\omega _{pm})}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle (\omega _{pm})}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9fb7cd34f5f57cb38b6cdb9359eae53554b7b44b" style="vertical-align: -1.005ex; width:5.757ex; height:3.009ex;"/></span> фильтра Чебышёва являются нулями выражения в его знаменателе. Используя комплексную частоту <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle s}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>s</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle s}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle s}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/01d131dfd7673938b947072a13a9744fe997e632" style="vertical-align: -0.338ex; width:1.09ex; height:1.676ex;"/></span> получим:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 1+\varepsilon ^{2}T_{n}^{2}(-js)=0.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mn>1</mn>
+<mo>+</mo>
+<msup>
+<mi>ε<!-- ε --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<msubsup>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>n</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msubsup>
+<mo stretchy="false">(</mo>
+<mo>−<!-- − --></mo>
+<mi>j</mi>
+<mi>s</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mn>0.</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle 1+\varepsilon ^{2}T_{n}^{2}(-js)=0.}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle 1+\varepsilon ^{2}T_{n}^{2}(-js)=0.}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2aa8acbb063a36811d8f49eadaa03f7f9bbf6e01" style="vertical-align: -0.838ex; width:19.489ex; height:3.176ex;"/></span></dd></dl>
+<p>Представив <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle -js=\cos(\theta )}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo>−<!-- − --></mo>
+<mi>j</mi>
+<mi>s</mi>
+<mo>=</mo>
+<mi>cos</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mo stretchy="false">(</mo>
+<mi>θ<!-- θ --></mi>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle -js=\cos(\theta )}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle -js=\cos(\theta )}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0e7f4b2ac57d5ed9bb2ab555287a343270de11f4" style="vertical-align: -0.838ex; width:12.966ex; height:2.843ex;"/></span> и используя тригонометрическое представление многочленов Чебышёва, получим:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 1+\varepsilon ^{2}T_{n}^{2}(\cos(\theta ))=}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mn>1</mn>
+<mo>+</mo>
+<msup>
+<mi>ε<!-- ε --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<msubsup>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>n</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msubsup>
+<mo stretchy="false">(</mo>
+<mi>cos</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mo stretchy="false">(</mo>
+<mi>θ<!-- θ --></mi>
+<mo stretchy="false">)</mo>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle 1+\varepsilon ^{2}T_{n}^{2}(\cos(\theta ))=}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle 1+\varepsilon ^{2}T_{n}^{2}(\cos(\theta ))=}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/26518110f5aca79fce6933e98c06c224508569ab" style="vertical-align: -0.838ex; width:19.188ex; height:3.176ex;"/></span></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle =1+\varepsilon ^{2}\cos ^{2}(n\theta )=0.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo>=</mo>
+<mn>1</mn>
+<mo>+</mo>
+<msup>
+<mi>ε<!-- ε --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<msup>
+<mi>cos</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>⁡<!-- ⁡ --></mo>
+<mo stretchy="false">(</mo>
+<mi>n</mi>
+<mi>θ<!-- θ --></mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mn>0.</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle =1+\varepsilon ^{2}\cos ^{2}(n\theta )=0.}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle =1+\varepsilon ^{2}\cos ^{2}(n\theta )=0.}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/caa83d13ff2b6f900a47e6be6e44ea41e02dbcb6" style="vertical-align: -0.838ex; width:22.349ex; height:3.176ex;"/></span></dd></dl>
+<p>После разрешения последнго выражения относительно <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \theta :}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>θ<!-- θ --></mi>
+<mo>:</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \theta :}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \theta :}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5a7c2bbffeef8ef00ddbae6a9f5b897410bad0f0" style="vertical-align: -0.338ex; width:2.382ex; height:2.176ex;"/></span>
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \theta ={\frac {1}{n}}\arccos \left({\frac {\pm j}{\varepsilon }}\right)+{\frac {m\pi }{n}}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>θ<!-- θ --></mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mi>n</mi>
+</mfrac>
+</mrow>
+<mi>arccos</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mo>±<!-- ± --></mo>
+<mi>j</mi>
+</mrow>
+<mi>ε<!-- ε --></mi>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>m</mi>
+<mi>π<!-- π --></mi>
+</mrow>
+<mi>n</mi>
+</mfrac>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \theta ={\frac {1}{n}}\arccos \left({\frac {\pm j}{\varepsilon }}\right)+{\frac {m\pi }{n}}.}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \theta ={\frac {1}{n}}\arccos \left({\frac {\pm j}{\varepsilon }}\right)+{\frac {m\pi }{n}}.}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/90c1e89b3cfa10e29cdb10ee41f4620a2cae77a5" style="vertical-align: -2.505ex; width:27.744ex; height:6.176ex;"/></span></dd></dl>
+<p>Тогда полюса фильтра Чебышёва определяются из следующего выражения:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle s_{pm}=j\cos(\theta )=}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>s</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>p</mi>
+<mi>m</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mi>j</mi>
+<mi>cos</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mo stretchy="false">(</mo>
+<mi>θ<!-- θ --></mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle s_{pm}=j\cos(\theta )=}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle s_{pm}=j\cos(\theta )=}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f433b11e887c829454e520f91c0ac8dcdb88885c" style="vertical-align: -1.005ex; width:16.5ex; height:3.009ex;"/></span></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle =j\cos \left({\frac {1}{n}}\arccos \left({\frac {\pm j}{\varepsilon }}\right)+{\frac {m\pi }{n}}\right).}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo>=</mo>
+<mi>j</mi>
+<mi>cos</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mi>n</mi>
+</mfrac>
+</mrow>
+<mi>arccos</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mo>±<!-- ± --></mo>
+<mi>j</mi>
+</mrow>
+<mi>ε<!-- ε --></mi>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>m</mi>
+<mi>π<!-- π --></mi>
+</mrow>
+<mi>n</mi>
+</mfrac>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle =j\cos \left({\frac {1}{n}}\arccos \left({\frac {\pm j}{\varepsilon }}\right)+{\frac {m\pi }{n}}\right).}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle =j\cos \left({\frac {1}{n}}\arccos \left({\frac {\pm j}{\varepsilon }}\right)+{\frac {m\pi }{n}}\right).}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5008bd6e8bdcc1640f3986a295cd6f580f057b4b" style="vertical-align: -2.505ex; width:33.886ex; height:6.176ex;"/></span></dd></dl>
+<p>Используя свойства тригонометрических и гиперболических функций, запишем последнее выражение в <a href="/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%BD%D1%8B%D0%B9_%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7" title="Комплексный анализ">комплексной</a> форме:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle s_{pm}^{\pm }=\pm \,\mathop {\mathrm {sh} } \left({\frac {1}{n}}\mathop {\mathrm {arsh} } \left({\frac {1}{\varepsilon }}\right)\right)\sin(\theta _{m})+}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msubsup>
+<mi>s</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>p</mi>
+<mi>m</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>±<!-- ± --></mo>
+</mrow>
+</msubsup>
+<mo>=</mo>
+<mo>±<!-- ± --></mo>
+<mspace width="thinmathspace"></mspace>
+<mrow class="MJX-TeXAtom-OP">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">s</mi>
+<mi mathvariant="normal">h</mi>
+</mrow>
+</mrow>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mi>n</mi>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-OP">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">a</mi>
+<mi mathvariant="normal">r</mi>
+<mi mathvariant="normal">s</mi>
+<mi mathvariant="normal">h</mi>
+</mrow>
+</mrow>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mi>ε<!-- ε --></mi>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mi>sin</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mo stretchy="false">(</mo>
+<msub>
+<mi>θ<!-- θ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>m</mi>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+<mo>+</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle s_{pm}^{\pm }=\pm \,\mathop {\mathrm {sh} } \left({\frac {1}{n}}\mathop {\mathrm {arsh} } \left({\frac {1}{\varepsilon }}\right)\right)\sin(\theta _{m})+}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle s_{pm}^{\pm }=\pm \,\mathop {\mathrm {sh} } \left({\frac {1}{n}}\mathop {\mathrm {arsh} } \left({\frac {1}{\varepsilon }}\right)\right)\sin(\theta _{m})+}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/68142f6203fca39f25e09ee2fa57a179a51f9407" style="vertical-align: -2.505ex; width:36.849ex; height:6.176ex;"/></span></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle +j\mathop {\mathrm {ch} } \left({\frac {1}{n}}\mathop {\mathrm {arsh} } \left({\frac {1}{\varepsilon }}\right)\right)\cos(\theta _{m}),}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo>+</mo>
+<mi>j</mi>
+<mrow class="MJX-TeXAtom-OP">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">c</mi>
+<mi mathvariant="normal">h</mi>
+</mrow>
+</mrow>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mi>n</mi>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-OP">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">a</mi>
+<mi mathvariant="normal">r</mi>
+<mi mathvariant="normal">s</mi>
+<mi mathvariant="normal">h</mi>
+</mrow>
+</mrow>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mi>ε<!-- ε --></mi>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mi>cos</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mo stretchy="false">(</mo>
+<msub>
+<mi>θ<!-- θ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>m</mi>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle +j\mathop {\mathrm {ch} } \left({\frac {1}{n}}\mathop {\mathrm {arsh} } \left({\frac {1}{\varepsilon }}\right)\right)\cos(\theta _{m}),}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle +j\mathop {\mathrm {ch} } \left({\frac {1}{n}}\mathop {\mathrm {arsh} } \left({\frac {1}{\varepsilon }}\right)\right)\cos(\theta _{m}),}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e3ca05f28fd8647d65cc7a574f932b83a12f0e84" style="vertical-align: -2.505ex; width:29.94ex; height:6.176ex;"/></span></dd></dl>
+<dl><dd>где <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle m=1,\;2,\;\ldots ,\;n,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>m</mi>
+<mo>=</mo>
+<mn>1</mn>
+<mo>,</mo>
+<mspace width="thickmathspace"></mspace>
+<mn>2</mn>
+<mo>,</mo>
+<mspace width="thickmathspace"></mspace>
+<mo>…<!-- … --></mo>
+<mo>,</mo>
+<mspace width="thickmathspace"></mspace>
+<mi>n</mi>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle m=1,\;2,\;\ldots ,\;n,}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle m=1,\;2,\;\ldots ,\;n,}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b8caff0b5ecd258b1b6a9b779ac2ad6703cc8d71" style="vertical-align: -0.671ex; width:17.653ex; height:2.509ex;"/></span></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \theta _{m}={\frac {\pi }{2}}\,{\frac {2m-1}{n}}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>θ<!-- θ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>m</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>π<!-- π --></mi>
+<mn>2</mn>
+</mfrac>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mn>2</mn>
+<mi>m</mi>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+<mi>n</mi>
+</mfrac>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \theta _{m}={\frac {\pi }{2}}\,{\frac {2m-1}{n}}.}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \theta _{m}={\frac {\pi }{2}}\,{\frac {2m-1}{n}}.}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8f2d433c64471b0a555731888ccfc0e122f7d65d" style="vertical-align: -1.838ex; width:17.108ex; height:5.176ex;"/></span></dd></dl>
+<p>Это выражение можно рассматривать как <a href="/wiki/%D0%9F%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%BF%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5" title="Параметрическое представление">параметрическое уравнение</a> с параметром <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \theta _{n}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>θ<!-- θ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>n</mi>
+</mrow>
+</msub>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \theta _{n}.}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \theta _{n}.}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f7324a14316a62ac42b653b52fe41ac59e4b614b" style="vertical-align: -0.671ex; width:2.956ex; height:2.509ex;"/></span> Оно показывает, что полюса лежат на <a href="/wiki/%D0%AD%D0%BB%D0%BB%D0%B8%D0%BF%D1%81" title="Эллипс">эллипсе</a> в <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle s}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>s</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle s}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle s}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/01d131dfd7673938b947072a13a9744fe997e632" style="vertical-align: -0.338ex; width:1.09ex; height:1.676ex;"/></span>-плоскости, причём центр эллипса находится в точке <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle s=0,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>s</mi>
+<mo>=</mo>
+<mn>0</mn>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle s=0,}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle s=0,}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2ee462d750ea36faa72d13e7996d6cdafe41bcd4" style="vertical-align: -0.671ex; width:5.998ex; height:2.509ex;"/></span> полуось действительной оси имеет длину <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathop {\mathrm {sh} } (\mathop {\mathrm {arsh} } (1/\varepsilon )/n),}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-OP">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">s</mi>
+<mi mathvariant="normal">h</mi>
+</mrow>
+</mrow>
+<mo>⁡<!-- ⁡ --></mo>
+<mo stretchy="false">(</mo>
+<mrow class="MJX-TeXAtom-OP">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">a</mi>
+<mi mathvariant="normal">r</mi>
+<mi mathvariant="normal">s</mi>
+<mi mathvariant="normal">h</mi>
+</mrow>
+</mrow>
+<mo>⁡<!-- ⁡ --></mo>
+<mo stretchy="false">(</mo>
+<mn>1</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mi>ε<!-- ε --></mi>
+<mo stretchy="false">)</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mi>n</mi>
+<mo stretchy="false">)</mo>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathop {\mathrm {sh} } (\mathop {\mathrm {arsh} } (1/\varepsilon )/n),}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathop {\mathrm {sh} } (\mathop {\mathrm {arsh} } (1/\varepsilon )/n),}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d77c4eb24107dec2beccacf5736d6de1ed3b9c5c" style="vertical-align: -0.838ex; width:16.723ex; height:2.843ex;"/></span> а полуось мнимой оси имеет длину <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathop {\mathrm {ch} } (\mathop {\mathrm {arsh} } (1/\varepsilon )/n).}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-OP">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">c</mi>
+<mi mathvariant="normal">h</mi>
+</mrow>
+</mrow>
+<mo>⁡<!-- ⁡ --></mo>
+<mo stretchy="false">(</mo>
+<mrow class="MJX-TeXAtom-OP">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">a</mi>
+<mi mathvariant="normal">r</mi>
+<mi mathvariant="normal">s</mi>
+<mi mathvariant="normal">h</mi>
+</mrow>
+</mrow>
+<mo>⁡<!-- ⁡ --></mo>
+<mo stretchy="false">(</mo>
+<mn>1</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mi>ε<!-- ε --></mi>
+<mo stretchy="false">)</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mi>n</mi>
+<mo stretchy="false">)</mo>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathop {\mathrm {ch} } (\mathop {\mathrm {arsh} } (1/\varepsilon )/n).}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathop {\mathrm {ch} } (\mathop {\mathrm {arsh} } (1/\varepsilon )/n).}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/58512667cfdbc11a76a667770a028a10d54a9ab6" style="vertical-align: -0.838ex; width:16.839ex; height:2.843ex;"/></span>
+</p>
+<h3><span id=".D0.9F.D0.B5.D1.80.D0.B5.D0.B4.D0.B0.D1.82.D0.BE.D1.87.D0.BD.D0.B0.D1.8F_.D1.84.D1.83.D0.BD.D0.BA.D1.86.D0.B8.D1.8F"></span><span class="mw-headline" id="Передаточная_функция">Передаточная функция</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80_%D0%A7%D0%B5%D0%B1%D1%8B%D1%88%D1%91%D0%B2%D0%B0&amp;veaction=edit&amp;section=3" title="Редактировать раздел «Передаточная функция»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80_%D0%A7%D0%B5%D0%B1%D1%8B%D1%88%D1%91%D0%B2%D0%B0&amp;action=edit&amp;section=3" title="Редактировать код раздела «Передаточная функция»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Уравнение, выведенное выше, содержит полюса, относящиеся к комплексному коэффициенту усиления фильтра <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle G.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>G</mi>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle G.}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle G.}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/dc645a5b7e8a2022ad70fc42dbda04c008a33a9a" style="vertical-align: -0.338ex; width:2.474ex; height:2.176ex;"/></span> Для каждого полюса есть комплексно-сопряжённый с ним полюс, а для каждой комплексно-сопряжённой пары полюсов есть два полюса, отличающихся от них только знаком действительной части. Передаточная функция должна быть устойчивой, что означает, что её полюса должны иметь отрицательную действительную часть, то есть лежать в левой полуплоскости комплексной плоскости. Передаточная функция в этом случае задаётся следующим выражением:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle H(s)=\prod _{m=0}^{n-1}{\frac {1}{(s-s_{pm}^{-})}},}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>H</mi>
+<mo stretchy="false">(</mo>
+<mi>s</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<munderover>
+<mo>∏<!-- ∏ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>m</mi>
+<mo>=</mo>
+<mn>0</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>n</mi>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+</munderover>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mrow>
+<mo stretchy="false">(</mo>
+<mi>s</mi>
+<mo>−<!-- − --></mo>
+<msubsup>
+<mi>s</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>p</mi>
+<mi>m</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+</msubsup>
+<mo stretchy="false">)</mo>
+</mrow>
+</mfrac>
+</mrow>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle H(s)=\prod _{m=0}^{n-1}{\frac {1}{(s-s_{pm}^{-})}},}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle H(s)=\prod _{m=0}^{n-1}{\frac {1}{(s-s_{pm}^{-})}},}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/01138f92ed86f2b2c96bd5f515a27641dd712339" style="vertical-align: -3.005ex; width:22.808ex; height:7.343ex;"/></span></dd></dl>
+<dl><dd>где <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle s_{pm}^{-}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msubsup>
+<mi>s</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>p</mi>
+<mi>m</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+</msubsup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle s_{pm}^{-}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle s_{pm}^{-}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f434e737101f8361c9e6d964d91fb987ce346203" style="vertical-align: -1.005ex; width:3.592ex; height:3.176ex;"/></span> — это только те полюса, которые имеют отрицательную действительную часть.</dd></dl>
+<h3><span id=".D0.93.D1.80.D1.83.D0.BF.D0.BF.D0.BE.D0.B2.D0.B0.D1.8F_.D0.B7.D0.B0.D0.B4.D0.B5.D1.80.D0.B6.D0.BA.D0.B0"></span><span class="mw-headline" id="Групповая_задержка">Групповая задержка</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80_%D0%A7%D0%B5%D0%B1%D1%8B%D1%88%D1%91%D0%B2%D0%B0&amp;veaction=edit&amp;section=4" title="Редактировать раздел «Групповая задержка»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80_%D0%A7%D0%B5%D0%B1%D1%8B%D1%88%D1%91%D0%B2%D0%B0&amp;action=edit&amp;section=4" title="Редактировать код раздела «Групповая задержка»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chebyshev5_GainDelay-ru.svg"><img class="mw-file-element" data-file-height="659" data-file-width="1113" decoding="async" height="148" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Chebyshev5_GainDelay-ru.svg/250px-Chebyshev5_GainDelay-ru.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Chebyshev5_GainDelay-ru.svg/375px-Chebyshev5_GainDelay-ru.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/42/Chebyshev5_GainDelay-ru.svg/500px-Chebyshev5_GainDelay-ru.svg.png 2x" width="250"/></a><figcaption>АЧХ и групповая задержка фильтра Чебышёва I рода пятого порядка с <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \varepsilon =0,\!5.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>ε<!-- ε --></mi>
+<mo>=</mo>
+<mn>0</mn>
+<mo>,</mo>
+<mspace width="negativethinmathspace"></mspace>
+<mn>5.</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \varepsilon =0,\!5.}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \varepsilon =0,\!5.}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/334bf4ecff41cd6c35608a344eddbddee6e7ff98" style="vertical-align: -0.671ex; width:7.801ex; height:2.509ex;"/></span> Видно, что в полосе пропускания и АЧХ и групповая задержка имеют пульсации, в полосе подавления этих пульсаций нет.</figcaption></figure>
+<p><a class="new" href="/w/index.php?title=%D0%93%D1%80%D1%83%D0%BF%D0%BF%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B7%D0%B0%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0&amp;action=edit&amp;redlink=1" title="Групповая задержка (страница отсутствует)">Групповая задержка</a> определяется как минус <a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D0%BD%D0%B0%D1%8F_%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8" title="Производная функции">производная</a> по частоте <a href="/wiki/%D0%A1%D0%B4%D0%B2%D0%B8%D0%B3_%D1%84%D0%B0%D0%B7" title="Сдвиг фаз">сдвига фазы</a> фильтра и является мерой искажения фазы сигнала на различных частотах:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \tau _{g}=-{\frac {d}{d\omega }}\arg(H(j\omega )).}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>τ<!-- τ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>g</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>d</mi>
+<mrow>
+<mi>d</mi>
+<mi>ω<!-- ω --></mi>
+</mrow>
+</mfrac>
+</mrow>
+<mi>arg</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mo stretchy="false">(</mo>
+<mi>H</mi>
+<mo stretchy="false">(</mo>
+<mi>j</mi>
+<mi>ω<!-- ω --></mi>
+<mo stretchy="false">)</mo>
+<mo stretchy="false">)</mo>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \tau _{g}=-{\frac {d}{d\omega }}\arg(H(j\omega )).}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \tau _{g}=-{\frac {d}{d\omega }}\arg(H(j\omega )).}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ef5b6024c3e66adc897342e0570a301a34c4f7ae" style="vertical-align: -2.005ex; width:22.799ex; height:5.509ex;"/></span></dd></dl>
+<h3><span id=".D0.A4.D0.B0.D0.B7.D0.BE.D0.B2.D1.8B.D0.B5_.D1.85.D0.B0.D1.80.D0.B0.D0.BA.D1.82.D0.B5.D1.80.D0.B8.D1.81.D1.82.D0.B8.D0.BA.D0.B8"></span><span class="mw-headline" id="Фазовые_характеристики">Фазовые характеристики</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80_%D0%A7%D0%B5%D0%B1%D1%8B%D1%88%D1%91%D0%B2%D0%B0&amp;veaction=edit&amp;section=5" title="Редактировать раздел «Фазовые характеристики»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80_%D0%A7%D0%B5%D0%B1%D1%8B%D1%88%D1%91%D0%B2%D0%B0&amp;action=edit&amp;section=5" title="Редактировать код раздела «Фазовые характеристики»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chebyshev10_Phase_rus.png"><img class="mw-file-element" data-file-height="533" data-file-width="771" decoding="async" height="173" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Chebyshev10_Phase_rus.png/250px-Chebyshev10_Phase_rus.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Chebyshev10_Phase_rus.png/375px-Chebyshev10_Phase_rus.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Chebyshev10_Phase_rus.png/500px-Chebyshev10_Phase_rus.png 2x" width="250"/></a><figcaption>Типовая ФЧХ и фазовая задержка фильтра Чебышёва I рода 10-го порядка</figcaption></figure>
+<p>Фазовые характеристики фильтра Чебышёва I рода — <a href="/wiki/%D0%A4%D0%B0%D0%B7%D0%BE-%D1%87%D0%B0%D1%81%D1%82%D0%BE%D1%82%D0%BD%D0%B0%D1%8F_%D1%85%D0%B0%D1%80%D0%B0%D0%BA%D1%82%D0%B5%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0" title="Фазо-частотная характеристика">фазо-частотная характеристика</a> (ФЧХ) и <a class="new" href="/w/index.php?title=%D0%A4%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B7%D0%B0%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0&amp;action=edit&amp;redlink=1" title="Фазовая задержка (страница отсутствует)">фазовая задержка</a> — представлены на рисунке. Фазо-частотная характеристика показывает распределение по частоте смещения фазы выходного сигнала относительно входного. Фазовая задержка определяется как частное от деления фазы фазо-частотной характеристики на частоту и характеризует распределение по частоте временно́го смещения выходного сигнала относительно входного:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \tau _{\varphi }={\frac {\arg H(j\omega )}{\omega }}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>τ<!-- τ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>φ<!-- φ --></mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>arg</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mi>H</mi>
+<mo stretchy="false">(</mo>
+<mi>j</mi>
+<mi>ω<!-- ω --></mi>
+<mo stretchy="false">)</mo>
+</mrow>
+<mi>ω<!-- ω --></mi>
+</mfrac>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \tau _{\varphi }={\frac {\arg H(j\omega )}{\omega }}.}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \tau _{\varphi }={\frac {\arg H(j\omega )}{\omega }}.}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6d181589bf78b87dcc8c2cf6750b23ffd462bc18" style="vertical-align: -1.838ex; width:16.805ex; height:5.676ex;"/></span></dd></dl>
+<h3><span id=".D0.92.D1.80.D0.B5.D0.BC.D0.B5.D0.BD.D0.BD.D1.8B.CC.81.D0.B5_.D1.85.D0.B0.D1.80.D0.B0.D0.BA.D1.82.D0.B5.D1.80.D0.B8.D1.81.D1.82.D0.B8.D0.BA.D0.B8"></span><span class="mw-headline" id="Временны́е_характеристики">Временны́е характеристики</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80_%D0%A7%D0%B5%D0%B1%D1%8B%D1%88%D1%91%D0%B2%D0%B0&amp;veaction=edit&amp;section=6" title="Редактировать раздел «Временны́е характеристики»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80_%D0%A7%D0%B5%D0%B1%D1%8B%D1%88%D1%91%D0%B2%D0%B0&amp;action=edit&amp;section=6" title="Редактировать код раздела «Временны́е характеристики»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chebyshev10_Time_Domain_rus.png"><img class="mw-file-element" data-file-height="533" data-file-width="771" decoding="async" height="173" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Chebyshev10_Time_Domain_rus.png/250px-Chebyshev10_Time_Domain_rus.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Chebyshev10_Time_Domain_rus.png/375px-Chebyshev10_Time_Domain_rus.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Chebyshev10_Time_Domain_rus.png/500px-Chebyshev10_Time_Domain_rus.png 2x" width="250"/></a><figcaption>Типовые временны́е характеристики фильтра Чебышёва I рода 10-го порядка</figcaption></figure>
+<p>Временны́е характеристики фильтра Чебышёва I рода — <a href="/wiki/%D0%98%D0%BC%D0%BF%D1%83%D0%BB%D1%8C%D1%81%D0%BD%D0%B0%D1%8F_%D0%BF%D0%B5%D1%80%D0%B5%D1%85%D0%BE%D0%B4%D0%BD%D0%B0%D1%8F_%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D1%8F" title="Импульсная переходная функция">импульсная переходная функция</a> и <a href="/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D1%85%D0%BE%D0%B4%D0%BD%D0%B0%D1%8F_%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D1%8F" title="Переходная функция">переходная функция</a> представлены на рисунке. Импульсная переходная функция представляет собой отклик фильтра на входной сигнал в виде <a href="/wiki/%D0%94%D0%B5%D0%BB%D1%8C%D1%82%D0%B0-%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D1%8F" title="Дельта-функция">дельта-функции</a> <a class="mw-redirect" href="/wiki/%D0%94%D0%B8%D1%80%D0%B0%D0%BA,_%D0%9F%D0%BE%D0%BB%D1%8C_%D0%90%D0%B4%D1%80%D0%B8%D0%B5%D0%BD_%D0%9C%D0%BE%D1%80%D0%B8%D1%81" title="Дирак, Поль Адриен Морис">Дирака</a>, а переходная функция — отклик фильтра на входное воздействие в виде <a href="/wiki/%D0%A4%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D1%8F_%D0%A5%D0%B5%D0%B2%D0%B8%D1%81%D0%B0%D0%B9%D0%B4%D0%B0" title="Функция Хевисайда">единичной функции Хевисайда</a>.
+</p>
+<div style="clear:both;"></div>
+<h2><span id=".D0.A4.D0.B8.D0.BB.D1.8C.D1.82.D1.80_.D0.A7.D0.B5.D0.B1.D1.8B.D1.88.D1.91.D0.B2.D0.B0_II_.D1.80.D0.BE.D0.B4.D0.B0"></span><span class="mw-headline" id="Фильтр_Чебышёва_II_рода">Фильтр Чебышёва II рода</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80_%D0%A7%D0%B5%D0%B1%D1%8B%D1%88%D1%91%D0%B2%D0%B0&amp;veaction=edit&amp;section=7" title="Редактировать раздел «Фильтр Чебышёва II рода»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80_%D0%A7%D0%B5%D0%B1%D1%8B%D1%88%D1%91%D0%B2%D0%B0&amp;action=edit&amp;section=7" title="Редактировать код раздела «Фильтр Чебышёва II рода»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:ChebyshevII_response-ru.svg"><img class="mw-file-element" data-file-height="652" data-file-width="1052" decoding="async" height="155" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/ChebyshevII_response-ru.svg/250px-ChebyshevII_response-ru.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/ChebyshevII_response-ru.svg/375px-ChebyshevII_response-ru.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/61/ChebyshevII_response-ru.svg/500px-ChebyshevII_response-ru.svg.png 2x" width="250"/></a><figcaption>АЧХ фильтра Чебышёва II рода (фильтр низких частот) с <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \omega _{0}=1}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>ω<!-- ω --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<mo>=</mo>
+<mn>1</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \omega _{0}=1}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \omega _{0}=1}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ee04380d93e624497ceace7e45108a63b1cd2cd3" style="vertical-align: -0.671ex; width:6.761ex; height:2.509ex;"/></span> и <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \varepsilon =0,\!01}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>ε<!-- ε --></mi>
+<mo>=</mo>
+<mn>0</mn>
+<mo>,</mo>
+<mspace width="negativethinmathspace"></mspace>
+<mn>01</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \varepsilon =0,\!01}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \varepsilon =0,\!01}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3112d1e6b3e4855bcdba9dd5ad59fd1dd1e4c93c" style="vertical-align: -0.671ex; width:8.316ex; height:2.509ex;"/></span></figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Mplwp_chebyshev2-filter-gain-ru.svg"><img class="mw-file-element" data-file-height="546" data-file-width="819" decoding="async" height="167" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Mplwp_chebyshev2-filter-gain-ru.svg/250px-Mplwp_chebyshev2-filter-gain-ru.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Mplwp_chebyshev2-filter-gain-ru.svg/375px-Mplwp_chebyshev2-filter-gain-ru.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Mplwp_chebyshev2-filter-gain-ru.svg/500px-Mplwp_chebyshev2-filter-gain-ru.svg.png 2x" width="250"/></a><figcaption>Сравнение АЧХ фильтров низких частот Чебышёва II рода порядков от 2 до 5. При увеличении порядка крутизна спада АЧХ увеличивается по 20 дБ/декаду на каждый порядок.</figcaption></figure>
+<p>Фильтр Чебышёва II рода (или <i>инверсный фильтр Чебышёва</i>) используется реже, чем фильтр Чебышёва I рода ввиду менее крутого спада амплитудной характеристики, что приводит к увеличению числа электронных компонентов для реализации аналогового электронного фильтра с заданной крутизной спада. У него нет пульсаций в полосе пропускания, однако пульсации присутствуют в полосе подавления. Амплитудно-частотная характеристика такого фильтра задаётся выражением:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle G_{n}(\omega ,\;\omega _{0})={\frac {1}{\sqrt {1+{\frac {1}{\varepsilon ^{2}T_{n}^{2}\left(\omega _{0}/\omega \right)}}}}}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>G</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>n</mi>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>ω<!-- ω --></mi>
+<mo>,</mo>
+<mspace width="thickmathspace"></mspace>
+<msub>
+<mi>ω<!-- ω --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<msqrt>
+<mn>1</mn>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msup>
+<mi>ε<!-- ε --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<msubsup>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>n</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msubsup>
+<mrow>
+<mo>(</mo>
+<mrow>
+<msub>
+<mi>ω<!-- ω --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mi>ω<!-- ω --></mi>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mrow>
+</mfrac>
+</mrow>
+</msqrt>
+</mfrac>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle G_{n}(\omega ,\;\omega _{0})={\frac {1}{\sqrt {1+{\frac {1}{\varepsilon ^{2}T_{n}^{2}\left(\omega _{0}/\omega \right)}}}}}.}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle G_{n}(\omega ,\;\omega _{0})={\frac {1}{\sqrt {1+{\frac {1}{\varepsilon ^{2}T_{n}^{2}\left(\omega _{0}/\omega \right)}}}}}.}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8a41a39b2b8ed97b1f55b23157ea2845100ff511" style="vertical-align: -6.005ex; width:30.847ex; height:9.343ex;"/></span></dd></dl>
+<p>В полосе подавления полиномы Чебышёва принимают значения в диапазоне от 0 до 1, из-за чего амплитудная характеристика такого фильтра принимает значения от нуля до <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\frac {1}{\sqrt {1+{\frac {1}{\varepsilon ^{2}}}}}}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<msqrt>
+<mn>1</mn>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<msup>
+<mi>ε<!-- ε --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mfrac>
+</mrow>
+</msqrt>
+</mfrac>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {1}{\sqrt {1+{\frac {1}{\varepsilon ^{2}}}}}}.}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\frac {1}{\sqrt {1+{\frac {1}{\varepsilon ^{2}}}}}}.}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/700a53f089b53c886603dc82accc689e918508d4" style="vertical-align: -4.671ex; width:10.243ex; height:8.009ex;"/></span>
+</p><p>Минимальной частотой, при которой достигается максимум АЧХ является частота среза <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \omega _{0}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>ω<!-- ω --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \omega _{0}.}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \omega _{0}.}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e11b59c293cf0a159b7ddd63ae5a43c720a59a4b" style="vertical-align: -0.671ex; width:3.147ex; height:2.009ex;"/></span> Параметр <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \varepsilon }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>ε<!-- ε --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \varepsilon }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \varepsilon }" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a30c89172e5b88edbd45d3e2772c7f5e562e5173" style="vertical-align: -0.338ex; width:1.083ex; height:1.676ex;"/></span> связан с затуханием в полосе подавления <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \gamma }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>γ<!-- γ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \gamma }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \gamma }" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a223c880b0ce3da8f64ee33c4f0010beee400b1a" style="vertical-align: -0.838ex; width:1.262ex; height:2.176ex;"/></span> в <a href="/wiki/%D0%94%D0%B5%D1%86%D0%B8%D0%B1%D0%B5%D0%BB" title="Децибел">децибелах</a> следующим выражением:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \varepsilon ={\frac {1}{\sqrt {10^{0,\!1\gamma }-1}}}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>ε<!-- ε --></mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<msqrt>
+<msup>
+<mn>10</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+<mo>,</mo>
+<mspace width="negativethinmathspace"></mspace>
+<mn>1</mn>
+<mi>γ<!-- γ --></mi>
+</mrow>
+</msup>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</msqrt>
+</mfrac>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \varepsilon ={\frac {1}{\sqrt {10^{0,\!1\gamma }-1}}}.}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \varepsilon ={\frac {1}{\sqrt {10^{0,\!1\gamma }-1}}}.}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/26df6f31e4aa9ca29d3e3a36e0d7fcb21cd9a13f" style="vertical-align: -3.171ex; width:17.156ex; height:6.509ex;"/></span></dd></dl>
+<dl><dd>Для затухания на частотах полосы подавления в 5 дБ: <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \varepsilon =0,\!6801;}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>ε<!-- ε --></mi>
+<mo>=</mo>
+<mn>0</mn>
+<mo>,</mo>
+<mspace width="negativethinmathspace"></mspace>
+<mn>6801</mn>
+<mo>;</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \varepsilon =0,\!6801;}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \varepsilon =0,\!6801;}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/330d133c68d1de68bb5a4efb499b07a6214e257c" style="vertical-align: -0.671ex; width:11.288ex; height:2.509ex;"/></span></dd>
+<dd>для затухания в 10 дБ: <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \varepsilon =0,\!3333.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>ε<!-- ε --></mi>
+<mo>=</mo>
+<mn>0</mn>
+<mo>,</mo>
+<mspace width="negativethinmathspace"></mspace>
+<mn>3333.</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \varepsilon =0,\!3333.}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \varepsilon =0,\!3333.}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6933da3b61d4a26aaf93e6ace6eec01b1f8a9c46" style="vertical-align: -0.671ex; width:11.288ex; height:2.509ex;"/></span></dd></dl>
+<p>Частота <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle f_{C}=\omega _{C}/(2\pi )}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>f</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>C</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<msub>
+<mi>ω<!-- ω --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>C</mi>
+</mrow>
+</msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mo stretchy="false">(</mo>
+<mn>2</mn>
+<mi>π<!-- π --></mi>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle f_{C}=\omega _{C}/(2\pi )}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle f_{C}=\omega _{C}/(2\pi )}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2560ef2a57058cf8199925aed85300844797f276" style="vertical-align: -0.838ex; width:14.112ex; height:2.843ex;"/></span> является частотой среза.
+</p><p>Частота затухания на 3 дБ <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle f_{H}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>f</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>H</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle f_{H}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle f_{H}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e1a6b7bb0f013d2ba3d95ca74b1b184e836ef569" style="vertical-align: -0.671ex; width:2.831ex; height:2.509ex;"/></span> связана с <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle f_{C}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>f</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>C</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle f_{C}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle f_{C}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ddea767aa91c0adedb766ba683ad5bc8e08ead4e" style="vertical-align: -0.671ex; width:2.62ex; height:2.509ex;"/></span> следующим выражением:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle f_{H}=f_{C}\,\mathop {\mathrm {ch} } \left({\frac {1}{n}}\mathop {\mathrm {ch} } ^{-1}{\frac {1}{\varepsilon }}\right).}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>f</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>H</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<msub>
+<mi>f</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>C</mi>
+</mrow>
+</msub>
+<mspace width="thinmathspace"></mspace>
+<mrow class="MJX-TeXAtom-OP">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">c</mi>
+<mi mathvariant="normal">h</mi>
+</mrow>
+</mrow>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mi>n</mi>
+</mfrac>
+</mrow>
+<mover>
+<mrow class="MJX-TeXAtom-OP">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">c</mi>
+<mi mathvariant="normal">h</mi>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+</mover>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mi>ε<!-- ε --></mi>
+</mfrac>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle f_{H}=f_{C}\,\mathop {\mathrm {ch} } \left({\frac {1}{n}}\mathop {\mathrm {ch} } ^{-1}{\frac {1}{\varepsilon }}\right).}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle f_{H}=f_{C}\,\mathop {\mathrm {ch} } \left({\frac {1}{n}}\mathop {\mathrm {ch} } ^{-1}{\frac {1}{\varepsilon }}\right).}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7bf3ac471373e6147fce88b83f4cd402ae5e64da" style="vertical-align: -2.505ex; width:23.045ex; height:6.176ex;"/></span></dd></dl>
+<h3><span id=".D0.9F.D0.BE.D0.BB.D1.8E.D1.81.D0.B0_.D0.B8_.D0.BD.D1.83.D0.BB.D0.B8_2"></span><span class="mw-headline" id="Полюса_и_нули_2">Полюса и нули</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80_%D0%A7%D0%B5%D0%B1%D1%8B%D1%88%D1%91%D0%B2%D0%B0&amp;veaction=edit&amp;section=8" title="Редактировать раздел «Полюса и нули»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80_%D0%A7%D0%B5%D0%B1%D1%8B%D1%88%D1%91%D0%B2%D0%B0&amp;action=edit&amp;section=8" title="Редактировать код раздела «Полюса и нули»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:ChebyshevII8_gain.png"><img class="mw-file-element" data-file-height="601" data-file-width="600" decoding="async" height="250" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/12/ChebyshevII8_gain.png/250px-ChebyshevII8_gain.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/12/ChebyshevII8_gain.png/375px-ChebyshevII8_gain.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/12/ChebyshevII8_gain.png/500px-ChebyshevII8_gain.png 2x" width="250"/></a><figcaption>Логарифм модуля амплитудной характеристики фильтра Чебышёва II рода восьмого порядка на комплексной плоскости <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle (s=\sigma +j\omega )}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo stretchy="false">(</mo>
+<mi>s</mi>
+<mo>=</mo>
+<mi>σ<!-- σ --></mi>
+<mo>+</mo>
+<mi>j</mi>
+<mi>ω<!-- ω --></mi>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle (s=\sigma +j\omega )}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle (s=\sigma +j\omega )}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fb71bea81d77051b7b4a07ef873efe328c05181f" style="vertical-align: -0.838ex; width:12.572ex; height:2.843ex;"/></span> с <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \varepsilon =0,\!1}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>ε<!-- ε --></mi>
+<mo>=</mo>
+<mn>0</mn>
+<mo>,</mo>
+<mspace width="negativethinmathspace"></mspace>
+<mn>1</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \varepsilon =0,\!1}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \varepsilon =0,\!1}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/92febcd941b3d79a9affa8bed98caf5dc5e39eec" style="vertical-align: -0.671ex; width:7.154ex; height:2.509ex;"/></span> и <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \omega _{0}=1.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>ω<!-- ω --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<mo>=</mo>
+<mn>1.</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \omega _{0}=1.}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \omega _{0}=1.}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/19571ee66dd2819e84235769787fb9c894493a62" style="vertical-align: -0.671ex; width:7.408ex; height:2.509ex;"/></span> Белые пятна соответствуют полюсам, а чёрные — нулям. Показаны все 16 полюсов. 6 нулей (все нули второго порядка) также показаны, 2 из них находятся за пределами картинки (один лежит на положительной мнимой оси, другой — на отрицательной мнимой оси). Полюса передаточной функции фильтра — это полюса, находящиеся в левой полуплоскости, нули передаточной функции — это нули модуля амплитудной характеристики фильтра Чебышёва, только не второго, а первого порядка. Чёрный цвет соответствует коэффициенту усиления менее 0,01; белый — коэффициенту усиления более 3.</figcaption></figure>
+<p>Приняв частоту среза равной единице, получим выражение для полюсов <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle (\omega _{pm})}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo stretchy="false">(</mo>
+<msub>
+<mi>ω<!-- ω --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>p</mi>
+<mi>m</mi>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle (\omega _{pm})}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle (\omega _{pm})}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9fb7cd34f5f57cb38b6cdb9359eae53554b7b44b" style="vertical-align: -1.005ex; width:5.757ex; height:3.009ex;"/></span> фильтра Чебышёва:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 1+\varepsilon ^{2}T_{n}^{2}(-1/js_{pm})=0.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mn>1</mn>
+<mo>+</mo>
+<msup>
+<mi>ε<!-- ε --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<msubsup>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>n</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msubsup>
+<mo stretchy="false">(</mo>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mi>j</mi>
+<msub>
+<mi>s</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>p</mi>
+<mi>m</mi>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mn>0.</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle 1+\varepsilon ^{2}T_{n}^{2}(-1/js_{pm})=0.}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle 1+\varepsilon ^{2}T_{n}^{2}(-1/js_{pm})=0.}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/eef30bf74bd5208ecf3b79da8713b3f92e0d7d47" style="vertical-align: -1.005ex; width:24.315ex; height:3.343ex;"/></span></dd></dl>
+<p>Полюса фильтра Чебышёва II рода представляют собой «инверсию» полюсов фильтра Чебышёва I рода:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\frac {1}{s_{pm}^{\pm }}}=\pm \,\mathop {\mathrm {sh} } \left({\frac {1}{n}}\mathop {\mathrm {arsh} } \left({\frac {1}{\varepsilon }}\right)\right)\sin(\theta _{m})+}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<msubsup>
+<mi>s</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>p</mi>
+<mi>m</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>±<!-- ± --></mo>
+</mrow>
+</msubsup>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mo>±<!-- ± --></mo>
+<mspace width="thinmathspace"></mspace>
+<mrow class="MJX-TeXAtom-OP">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">s</mi>
+<mi mathvariant="normal">h</mi>
+</mrow>
+</mrow>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mi>n</mi>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-OP">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">a</mi>
+<mi mathvariant="normal">r</mi>
+<mi mathvariant="normal">s</mi>
+<mi mathvariant="normal">h</mi>
+</mrow>
+</mrow>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mi>ε<!-- ε --></mi>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mi>sin</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mo stretchy="false">(</mo>
+<msub>
+<mi>θ<!-- θ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>m</mi>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+<mo>+</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {1}{s_{pm}^{\pm }}}=\pm \,\mathop {\mathrm {sh} } \left({\frac {1}{n}}\mathop {\mathrm {arsh} } \left({\frac {1}{\varepsilon }}\right)\right)\sin(\theta _{m})+}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\frac {1}{s_{pm}^{\pm }}}=\pm \,\mathop {\mathrm {sh} } \left({\frac {1}{n}}\mathop {\mathrm {arsh} } \left({\frac {1}{\varepsilon }}\right)\right)\sin(\theta _{m})+}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/48cf360c8b108637e0eae3d52f025971c106694e" style="vertical-align: -2.838ex; width:37.685ex; height:6.509ex;"/></span></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle +j\mathop {\mathrm {ch} } \left({\frac {1}{n}}\mathop {\mathrm {arsh} } \left({\frac {1}{\varepsilon }}\right)\right)\cos(\theta _{m}),}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo>+</mo>
+<mi>j</mi>
+<mrow class="MJX-TeXAtom-OP">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">c</mi>
+<mi mathvariant="normal">h</mi>
+</mrow>
+</mrow>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mi>n</mi>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-OP">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">a</mi>
+<mi mathvariant="normal">r</mi>
+<mi mathvariant="normal">s</mi>
+<mi mathvariant="normal">h</mi>
+</mrow>
+</mrow>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mi>ε<!-- ε --></mi>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mi>cos</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mo stretchy="false">(</mo>
+<msub>
+<mi>θ<!-- θ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>m</mi>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle +j\mathop {\mathrm {ch} } \left({\frac {1}{n}}\mathop {\mathrm {arsh} } \left({\frac {1}{\varepsilon }}\right)\right)\cos(\theta _{m}),}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle +j\mathop {\mathrm {ch} } \left({\frac {1}{n}}\mathop {\mathrm {arsh} } \left({\frac {1}{\varepsilon }}\right)\right)\cos(\theta _{m}),}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e3ca05f28fd8647d65cc7a574f932b83a12f0e84" style="vertical-align: -2.505ex; width:29.94ex; height:6.176ex;"/></span></dd></dl>
+<dl><dd>где <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle m=1,\;2,\;\ldots ,\;n.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>m</mi>
+<mo>=</mo>
+<mn>1</mn>
+<mo>,</mo>
+<mspace width="thickmathspace"></mspace>
+<mn>2</mn>
+<mo>,</mo>
+<mspace width="thickmathspace"></mspace>
+<mo>…<!-- … --></mo>
+<mo>,</mo>
+<mspace width="thickmathspace"></mspace>
+<mi>n</mi>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle m=1,\;2,\;\ldots ,\;n.}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle m=1,\;2,\;\ldots ,\;n.}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e1559901d36b4873f93f0f00f06cf8d01f06700f" style="vertical-align: -0.671ex; width:17.653ex; height:2.509ex;"/></span></dd></dl>
+<p>Нули <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle (\omega _{zm})}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo stretchy="false">(</mo>
+<msub>
+<mi>ω<!-- ω --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>z</mi>
+<mi>m</mi>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle (\omega _{zm})}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle (\omega _{zm})}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9a8a33f65b1419ce6cd55bfa7319b4b86e04fab3" style="vertical-align: -0.838ex; width:5.7ex; height:2.843ex;"/></span> фильтра Чебышёва II рода определяются из следующего соотношения:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \varepsilon ^{2}T_{n}^{2}(-1/js_{zm})=0.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msup>
+<mi>ε<!-- ε --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<msubsup>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>n</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msubsup>
+<mo stretchy="false">(</mo>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mi>j</mi>
+<msub>
+<mi>s</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>z</mi>
+<mi>m</mi>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mn>0.</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \varepsilon ^{2}T_{n}^{2}(-1/js_{zm})=0.}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \varepsilon ^{2}T_{n}^{2}(-1/js_{zm})=0.}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e18c73dd4d1a329eda0230f38c1e0a3995978d57" style="vertical-align: -0.838ex; width:20.255ex; height:3.176ex;"/></span></dd></dl>
+<p>Нули фильтра Чебышёва II рода являются «инверсией» нулей многочленов Чебышёва:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 1/s_{zm}=\cos \left({\frac {\pi }{2}}\,{\frac {2m-1}{n}}\right),}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mn>1</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<msub>
+<mi>s</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>z</mi>
+<mi>m</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mi>cos</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>π<!-- π --></mi>
+<mn>2</mn>
+</mfrac>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mn>2</mn>
+<mi>m</mi>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+<mi>n</mi>
+</mfrac>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle 1/s_{zm}=\cos \left({\frac {\pi }{2}}\,{\frac {2m-1}{n}}\right),}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle 1/s_{zm}=\cos \left({\frac {\pi }{2}}\,{\frac {2m-1}{n}}\right),}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9c0f137bec1dc5b795895427cec2ccdf6ae8e9f2" style="vertical-align: -2.505ex; width:26.734ex; height:6.176ex;"/></span></dd></dl>
+<dl><dd>где <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle m=1,\;2,\;\ldots ,\;n.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>m</mi>
+<mo>=</mo>
+<mn>1</mn>
+<mo>,</mo>
+<mspace width="thickmathspace"></mspace>
+<mn>2</mn>
+<mo>,</mo>
+<mspace width="thickmathspace"></mspace>
+<mo>…<!-- … --></mo>
+<mo>,</mo>
+<mspace width="thickmathspace"></mspace>
+<mi>n</mi>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle m=1,\;2,\;\ldots ,\;n.}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle m=1,\;2,\;\ldots ,\;n.}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e1559901d36b4873f93f0f00f06cf8d01f06700f" style="vertical-align: -0.671ex; width:17.653ex; height:2.509ex;"/></span></dd></dl>
+<h3><span id=".D0.9F.D0.B5.D1.80.D0.B5.D0.B4.D0.B0.D1.82.D0.BE.D1.87.D0.BD.D0.B0.D1.8F_.D1.84.D1.83.D0.BD.D0.BA.D1.86.D0.B8.D1.8F_2"></span><span class="mw-headline" id="Передаточная_функция_2">Передаточная функция</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80_%D0%A7%D0%B5%D0%B1%D1%8B%D1%88%D1%91%D0%B2%D0%B0&amp;veaction=edit&amp;section=9" title="Редактировать раздел «Передаточная функция»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80_%D0%A7%D0%B5%D0%B1%D1%8B%D1%88%D1%91%D0%B2%D0%B0&amp;action=edit&amp;section=9" title="Редактировать код раздела «Передаточная функция»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Передаточная функция задаётся при помощи полюсов в левой полуплоскости комплексной плоскости, её нули совпадают с нулями модуля амплитудной характеристики, с тем лишь отличием, что их порядок равен 1.
+</p>
+<h3><span id=".D0.93.D1.80.D1.83.D0.BF.D0.BF.D0.BE.D0.B2.D0.B0.D1.8F_.D0.B7.D0.B0.D0.B4.D0.B5.D1.80.D0.B6.D0.BA.D0.B0_2"></span><span class="mw-headline" id="Групповая_задержка_2">Групповая задержка</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80_%D0%A7%D0%B5%D0%B1%D1%8B%D1%88%D1%91%D0%B2%D0%B0&amp;veaction=edit&amp;section=10" title="Редактировать раздел «Групповая задержка»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80_%D0%A7%D0%B5%D0%B1%D1%8B%D1%88%D1%91%D0%B2%D0%B0&amp;action=edit&amp;section=10" title="Редактировать код раздела «Групповая задержка»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:ChebyshevII5_GainDelay-ru.svg"><img class="mw-file-element" data-file-height="659" data-file-width="1113" decoding="async" height="148" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/ChebyshevII5_GainDelay-ru.svg/250px-ChebyshevII5_GainDelay-ru.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/ChebyshevII5_GainDelay-ru.svg/375px-ChebyshevII5_GainDelay-ru.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/ChebyshevII5_GainDelay-ru.svg/500px-ChebyshevII5_GainDelay-ru.svg.png 2x" width="250"/></a><figcaption>Амплитудно-частотная характеристика (зелёная кривая) и групповая задержка (красная  кривая) фильтра Чебышёва II рода пятого порядка с <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \varepsilon =0{,}1}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>ε<!-- ε --></mi>
+<mo>=</mo>
+<mn>0</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>,</mo>
+</mrow>
+<mn>1</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \varepsilon =0{,}1}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \varepsilon =0{,}1}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bbe3d878927bf0b4ed8176b4f7600894e4e008cf" style="vertical-align: -0.671ex; width:7.154ex; height:2.509ex;"/></span></figcaption></figure>
+<p>Амплитудно-частотная характеристика и групповая задержка показаны на графике. Можно видеть, что пульсации амплитуды лежат в полосе подавления, а не в полосе пропускания.
+</p>
+<h3><span id=".D0.A4.D0.B0.D0.B7.D0.BE.D0.B2.D1.8B.D0.B5_.D1.85.D0.B0.D1.80.D0.B0.D0.BA.D1.82.D0.B5.D1.80.D0.B8.D1.81.D1.82.D0.B8.D0.BA.D0.B8_2"></span><span class="mw-headline" id="Фазовые_характеристики_2">Фазовые характеристики</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80_%D0%A7%D0%B5%D0%B1%D1%8B%D1%88%D1%91%D0%B2%D0%B0&amp;veaction=edit&amp;section=11" title="Редактировать раздел «Фазовые характеристики»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80_%D0%A7%D0%B5%D0%B1%D1%8B%D1%88%D1%91%D0%B2%D0%B0&amp;action=edit&amp;section=11" title="Редактировать код раздела «Фазовые характеристики»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:ChebyshevII10_Phase_rus.png"><img class="mw-file-element" data-file-height="533" data-file-width="771" decoding="async" height="173" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/ChebyshevII10_Phase_rus.png/250px-ChebyshevII10_Phase_rus.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/ChebyshevII10_Phase_rus.png/375px-ChebyshevII10_Phase_rus.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/ChebyshevII10_Phase_rus.png/500px-ChebyshevII10_Phase_rus.png 2x" width="250"/></a><figcaption>Типовая ФЧХ и фазовая задержка фильтра Чебышёва II рода 10-го порядка</figcaption></figure>
+<p>Фазовые характеристики фильтра Чебышёва II рода — фазо-частотная характеристика и фазовая задержка представлены на рисунке. Фазо-частотная характеристика показывает зависимость от частоты фазовый сдвиг выходного сигнала относительно входного. Фазовая задержка определяется как частное от деления фазового сдвига на частоту и характеризует частотную зависимость временно́го запаздывания выходного сигнала относительно входного.
+</p>
+<h2><span id=".D0.A6.D0.B8.D1.84.D1.80.D0.BE.D0.B2.D1.8B.D0.B5_.D1.84.D0.B8.D0.BB.D1.8C.D1.82.D1.80.D1.8B_.D0.A7.D0.B5.D0.B1.D1.8B.D1.88.D1.91.D0.B2.D0.B0"></span><span class="mw-headline" id="Цифровые_фильтры_Чебышёва">Цифровые фильтры Чебышёва</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80_%D0%A7%D0%B5%D0%B1%D1%8B%D1%88%D1%91%D0%B2%D0%B0&amp;veaction=edit&amp;section=12" title="Редактировать раздел «Цифровые фильтры Чебышёва»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80_%D0%A7%D0%B5%D0%B1%D1%8B%D1%88%D1%91%D0%B2%D0%B0&amp;action=edit&amp;section=12" title="Редактировать код раздела «Цифровые фильтры Чебышёва»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Фильтры Чебышёва часто реализуются в цифровой форме. Для того, чтобы от аналогового фильтра перейти к цифровому, необходимо над передаточной функцией каждого каскада записанной для аналогового фильтра осуществить <a href="/wiki/%D0%91%D0%B8%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" title="Билинейное преобразование">билинейное преобразование</a>. Результирующий фильтр получается путём последовательного соединения каскадов. Простой пример фильтра Чебышёва низких частот I рода чётного порядка<sup class="ts-fix-template noprint">[<i><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D0%BD%D0%B0_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8" title="Википедия:Ссылки на источники"><span title="нет источника (21 декабря 2016)">источник не указан 2615 дней</span></a></i>]</sup>:
+</p><p><a href="/wiki/Z-%D0%BF%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" title="Z-преобразование"><i>Z</i>-преобразование</a> каждого каскада:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle S(Z)={\frac {a(Z)}{b(Z)}}={\frac {\alpha _{0}+\alpha _{1}\cdot Z^{-1}+\alpha _{2}\cdot Z^{-2}}{1+\beta _{1}\cdot Z^{-1}+\beta _{2}\cdot Z^{-2}}}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>S</mi>
+<mo stretchy="false">(</mo>
+<mi>Z</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>a</mi>
+<mo stretchy="false">(</mo>
+<mi>Z</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+<mrow>
+<mi>b</mi>
+<mo stretchy="false">(</mo>
+<mi>Z</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msub>
+<mi>α<!-- α --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<mo>+</mo>
+<msub>
+<mi>α<!-- α --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>⋅<!-- ⋅ --></mo>
+<msup>
+<mi>Z</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+</msup>
+<mo>+</mo>
+<msub>
+<mi>α<!-- α --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mo>⋅<!-- ⋅ --></mo>
+<msup>
+<mi>Z</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+<mrow>
+<mn>1</mn>
+<mo>+</mo>
+<msub>
+<mi>β<!-- β --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>⋅<!-- ⋅ --></mo>
+<msup>
+<mi>Z</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+</msup>
+<mo>+</mo>
+<msub>
+<mi>β<!-- β --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mo>⋅<!-- ⋅ --></mo>
+<msup>
+<mi>Z</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+</mfrac>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle S(Z)={\frac {a(Z)}{b(Z)}}={\frac {\alpha _{0}+\alpha _{1}\cdot Z^{-1}+\alpha _{2}\cdot Z^{-2}}{1+\beta _{1}\cdot Z^{-1}+\beta _{2}\cdot Z^{-2}}}.}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle S(Z)={\frac {a(Z)}{b(Z)}}={\frac {\alpha _{0}+\alpha _{1}\cdot Z^{-1}+\alpha _{2}\cdot Z^{-2}}{1+\beta _{1}\cdot Z^{-1}+\beta _{2}\cdot Z^{-2}}}.}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c17bc978bdae2116ae0b0892aaf5665075c29875" style="vertical-align: -2.671ex; width:42.971ex; height:6.509ex;"/></span></dd></dl>
+<p>Во временно́й области преобразование записывается как:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle y[n]=\alpha _{0}\cdot x[0]+\alpha _{1}\cdot x[-1]+\alpha _{2}\cdot x[-2]-\beta _{1}\cdot y[-1]-\beta _{2}\cdot y[-2].}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>y</mi>
+<mo stretchy="false">[</mo>
+<mi>n</mi>
+<mo stretchy="false">]</mo>
+<mo>=</mo>
+<msub>
+<mi>α<!-- α --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<mo>⋅<!-- ⋅ --></mo>
+<mi>x</mi>
+<mo stretchy="false">[</mo>
+<mn>0</mn>
+<mo stretchy="false">]</mo>
+<mo>+</mo>
+<msub>
+<mi>α<!-- α --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>⋅<!-- ⋅ --></mo>
+<mi>x</mi>
+<mo stretchy="false">[</mo>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+<mo stretchy="false">]</mo>
+<mo>+</mo>
+<msub>
+<mi>α<!-- α --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mo>⋅<!-- ⋅ --></mo>
+<mi>x</mi>
+<mo stretchy="false">[</mo>
+<mo>−<!-- − --></mo>
+<mn>2</mn>
+<mo stretchy="false">]</mo>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>β<!-- β --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>⋅<!-- ⋅ --></mo>
+<mi>y</mi>
+<mo stretchy="false">[</mo>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+<mo stretchy="false">]</mo>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>β<!-- β --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mo>⋅<!-- ⋅ --></mo>
+<mi>y</mi>
+<mo stretchy="false">[</mo>
+<mo>−<!-- − --></mo>
+<mn>2</mn>
+<mo stretchy="false">]</mo>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle y[n]=\alpha _{0}\cdot x[0]+\alpha _{1}\cdot x[-1]+\alpha _{2}\cdot x[-2]-\beta _{1}\cdot y[-1]-\beta _{2}\cdot y[-2].}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle y[n]=\alpha _{0}\cdot x[0]+\alpha _{1}\cdot x[-1]+\alpha _{2}\cdot x[-2]-\beta _{1}\cdot y[-1]-\beta _{2}\cdot y[-2].}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5f3663548e4a0bd259e1f99723d9ca89f5fc6b23" style="vertical-align: -0.838ex; width:65.525ex; height:2.843ex;"/></span></dd></dl>
+<p>Коэффициенты <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \alpha _{i}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>α<!-- α --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \alpha _{i}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \alpha _{i}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3b1fb627423abe4988b7ed88d4920bf1ec074790" style="vertical-align: -0.671ex; width:2.287ex; height:2.009ex;"/></span> и <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \beta _{i}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>β<!-- β --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \beta _{i}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \beta _{i}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f111c43e5cfce37bcffc6121a19b81c6efd825ed" style="vertical-align: -0.671ex; width:2.115ex; height:2.509ex;"/></span> вычисляются по коэффициентам <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle a_{i}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle a_{i}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle a_{i}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0bc77764b2e74e64a63341054fa90f3e07db275f" style="vertical-align: -0.671ex; width:2.029ex; height:2.009ex;"/></span> и <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle b_{i}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>b</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle b_{i}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle b_{i}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/40a8c2db2990a53c683e75961826167c5adac7c3" style="vertical-align: -0.671ex; width:1.797ex; height:2.509ex;"/></span><sup class="ts-fix-template noprint">[<i><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D0%BD%D0%B0_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8" title="Википедия:Ссылки на источники"><span title="нет источника (21 декабря 2016)">источник не указан 2615 дней</span></a></i>]</sup>:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle K=\mathop {\mathrm {tg} } \left(\pi {\frac {\mbox{Frequency}}{\mbox{SampleRate}}}\right),}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>K</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-OP">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">t</mi>
+<mi mathvariant="normal">g</mi>
+</mrow>
+</mrow>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mi>π<!-- π --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mstyle displaystyle="false" scriptlevel="0">
+<mtext>Frequency</mtext>
+</mstyle>
+<mstyle displaystyle="false" scriptlevel="0">
+<mtext>SampleRate</mtext>
+</mstyle>
+</mfrac>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle K=\mathop {\mathrm {tg} } \left(\pi {\frac {\mbox{Frequency}}{\mbox{SampleRate}}}\right),}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle K=\mathop {\mathrm {tg} } \left(\pi {\frac {\mbox{Frequency}}{\mbox{SampleRate}}}\right),}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4e9b19e649f8ff3359f416669d10a2daa897c118" style="vertical-align: -2.505ex; width:25.64ex; height:6.176ex;"/></span></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\mbox{temp}}_{i}=\cos {\frac {(2i+1)\pi }{n}},}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="false" scriptlevel="0">
+<mtext>temp</mtext>
+</mstyle>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mi>cos</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mo stretchy="false">(</mo>
+<mn>2</mn>
+<mi>i</mi>
+<mo>+</mo>
+<mn>1</mn>
+<mo stretchy="false">)</mo>
+<mi>π<!-- π --></mi>
+</mrow>
+<mi>n</mi>
+</mfrac>
+</mrow>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\mbox{temp}}_{i}=\cos {\frac {(2i+1)\pi }{n}},}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\mbox{temp}}_{i}=\cos {\frac {(2i+1)\pi }{n}},}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0e697972ae02ecaedf098a880ba82c0ebc03dd3e" style="vertical-align: -1.838ex; width:23.154ex; height:5.676ex;"/></span></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle b_{i}={\frac {1}{\mathop {\mathrm {ch} } ^{2}\gamma -{\mbox{temp}}_{i}^{2}}},}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>b</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msup>
+<mrow class="MJX-TeXAtom-OP">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">c</mi>
+<mi mathvariant="normal">h</mi>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>⁡<!-- ⁡ --></mo>
+<mi>γ<!-- γ --></mi>
+<mo>−<!-- − --></mo>
+<msubsup>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="false" scriptlevel="0">
+<mtext>temp</mtext>
+</mstyle>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msubsup>
+</mrow>
+</mfrac>
+</mrow>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle b_{i}={\frac {1}{\mathop {\mathrm {ch} } ^{2}\gamma -{\mbox{temp}}_{i}^{2}}},}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle b_{i}={\frac {1}{\mathop {\mathrm {ch} } ^{2}\gamma -{\mbox{temp}}_{i}^{2}}},}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f59a7a1d3acbeef419ba7127c8ce4019a7909a6b" style="vertical-align: -3.171ex; width:20.467ex; height:6.509ex;"/></span></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle a_{i}=K\cdot b_{i}\cdot \mathop {\mathrm {sh} } \,\gamma \cdot 2\,{\mbox{temp}}_{i},}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mi>K</mi>
+<mo>⋅<!-- ⋅ --></mo>
+<msub>
+<mi>b</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo>⋅<!-- ⋅ --></mo>
+<mrow class="MJX-TeXAtom-OP">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">s</mi>
+<mi mathvariant="normal">h</mi>
+</mrow>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>γ<!-- γ --></mi>
+<mo>⋅<!-- ⋅ --></mo>
+<mn>2</mn>
+<mspace width="thinmathspace"></mspace>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="false" scriptlevel="0">
+<mtext>temp</mtext>
+</mstyle>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle a_{i}=K\cdot b_{i}\cdot \mathop {\mathrm {sh} } \,\gamma \cdot 2\,{\mbox{temp}}_{i},}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle a_{i}=K\cdot b_{i}\cdot \mathop {\mathrm {sh} } \,\gamma \cdot 2\,{\mbox{temp}}_{i},}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7823b4165aab8f83edec2a9b714a09599390a2c3" style="vertical-align: -0.838ex; width:26.435ex; height:2.676ex;"/></span></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \alpha _{0}=K\cdot K,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>α<!-- α --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<mo>=</mo>
+<mi>K</mi>
+<mo>⋅<!-- ⋅ --></mo>
+<mi>K</mi>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \alpha _{0}=K\cdot K,}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \alpha _{0}=K\cdot K,}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/cf6abbc0213932ab3b3c99aa8c3763168261fc9c" style="vertical-align: -0.671ex; width:12.098ex; height:2.509ex;"/></span></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \alpha _{1}=2\cdot K^{2},}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>α<!-- α --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>=</mo>
+<mn>2</mn>
+<mo>⋅<!-- ⋅ --></mo>
+<msup>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \alpha _{1}=2\cdot K^{2},}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \alpha _{1}=2\cdot K^{2},}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e73d8931320325f85fb5b1764e43b29225f14ac5" style="vertical-align: -0.671ex; width:12.277ex; height:3.009ex;"/></span></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \alpha _{2}=K\cdot K,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>α<!-- α --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mo>=</mo>
+<mi>K</mi>
+<mo>⋅<!-- ⋅ --></mo>
+<mi>K</mi>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \alpha _{2}=K\cdot K,}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \alpha _{2}=K\cdot K,}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6f7064d81d9988a884f59f13ebdb67b2efa9e105" style="vertical-align: -0.671ex; width:12.098ex; height:2.509ex;"/></span></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \beta _{0}^{\prime }=(a_{i}+K^{2}+b_{i}),}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msubsup>
+<mi>β<!-- β --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi class="MJX-variant" mathvariant="normal">′<!-- ′ --></mi>
+</mrow>
+</msubsup>
+<mo>=</mo>
+<mo stretchy="false">(</mo>
+<msub>
+<mi>a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo>+</mo>
+<msup>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>+</mo>
+<msub>
+<mi>b</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \beta _{0}^{\prime }=(a_{i}+K^{2}+b_{i}),}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \beta _{0}^{\prime }=(a_{i}+K^{2}+b_{i}),}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b88a6aff9f19ca9f2385eb3cc029b1506ae0369f" style="vertical-align: -1.005ex; width:20.58ex; height:3.343ex;"/></span></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \beta _{1}^{\prime }=2\cdot (b_{i}-K^{2}),}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msubsup>
+<mi>β<!-- β --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi class="MJX-variant" mathvariant="normal">′<!-- ′ --></mi>
+</mrow>
+</msubsup>
+<mo>=</mo>
+<mn>2</mn>
+<mo>⋅<!-- ⋅ --></mo>
+<mo stretchy="false">(</mo>
+<msub>
+<mi>b</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<msup>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo stretchy="false">)</mo>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \beta _{1}^{\prime }=2\cdot (b_{i}-K^{2}),}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \beta _{1}^{\prime }=2\cdot (b_{i}-K^{2}),}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f6f56b9982a0fac83fb5547883f5f14d48d52afc" style="vertical-align: -1.005ex; width:18.552ex; height:3.343ex;"/></span></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \beta _{2}^{\prime }=(a_{i}-K^{2}-b_{i}),}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msubsup>
+<mi>β<!-- β --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi class="MJX-variant" mathvariant="normal">′<!-- ′ --></mi>
+</mrow>
+</msubsup>
+<mo>=</mo>
+<mo stretchy="false">(</mo>
+<msub>
+<mi>a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<msup>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>b</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \beta _{2}^{\prime }=(a_{i}-K^{2}-b_{i}),}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \beta _{2}^{\prime }=(a_{i}-K^{2}-b_{i}),}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/45f180763e766163b3dabba45a0a9226a8713d9d" style="vertical-align: -1.005ex; width:20.58ex; height:3.343ex;"/></span></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \beta _{1}=\beta _{1}^{\prime }/\beta _{0}^{\prime },}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>β<!-- β --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>=</mo>
+<msubsup>
+<mi>β<!-- β --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi class="MJX-variant" mathvariant="normal">′<!-- ′ --></mi>
+</mrow>
+</msubsup>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<msubsup>
+<mi>β<!-- β --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi class="MJX-variant" mathvariant="normal">′<!-- ′ --></mi>
+</mrow>
+</msubsup>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \beta _{1}=\beta _{1}^{\prime }/\beta _{0}^{\prime },}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \beta _{1}=\beta _{1}^{\prime }/\beta _{0}^{\prime },}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/925d51fedf28a776132e5c683a95d49af731742b" style="vertical-align: -1.005ex; width:12.018ex; height:3.009ex;"/></span></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \beta _{2}=\beta _{2}^{\prime }/\beta _{0}^{\prime }.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>β<!-- β --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mo>=</mo>
+<msubsup>
+<mi>β<!-- β --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi class="MJX-variant" mathvariant="normal">′<!-- ′ --></mi>
+</mrow>
+</msubsup>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<msubsup>
+<mi>β<!-- β --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi class="MJX-variant" mathvariant="normal">′<!-- ′ --></mi>
+</mrow>
+</msubsup>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \beta _{2}=\beta _{2}^{\prime }/\beta _{0}^{\prime }.}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \beta _{2}=\beta _{2}^{\prime }/\beta _{0}^{\prime }.}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2d6f866a905ffc85b32e2cc3b152f3e3b008c43f" style="vertical-align: -1.005ex; width:12.018ex; height:3.009ex;"/></span></dd></dl>
+<p>Для получения фильтра Чебышёва более высокого порядка, необходимо соединить последовательно несколько каскадов.
+</p>
+<h2><span id=".D0.A1.D1.80.D0.B0.D0.B2.D0.BD.D0.B5.D0.BD.D0.B8.D0.B5_.D1.81_.D0.B4.D1.80.D1.83.D0.B3.D0.B8.D0.BC.D0.B8_.D0.BB.D0.B8.D0.BD.D0.B5.D0.B9.D0.BD.D1.8B.D0.BC.D0.B8_.D1.84.D0.B8.D0.BB.D1.8C.D1.82.D1.80.D0.B0.D0.BC.D0.B8"></span><span class="mw-headline" id="Сравнение_с_другими_линейными_фильтрами">Сравнение с другими линейными фильтрами</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80_%D0%A7%D0%B5%D0%B1%D1%8B%D1%88%D1%91%D0%B2%D0%B0&amp;veaction=edit&amp;section=13" title="Редактировать раздел «Сравнение с другими линейными фильтрами»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80_%D0%A7%D0%B5%D0%B1%D1%8B%D1%88%D1%91%D0%B2%D0%B0&amp;action=edit&amp;section=13" title="Редактировать код раздела «Сравнение с другими линейными фильтрами»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Filters_order5-ru.svg"><img class="mw-file-element" data-file-height="648" data-file-width="702" decoding="async" height="231" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Filters_order5-ru.svg/250px-Filters_order5-ru.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Filters_order5-ru.svg/375px-Filters_order5-ru.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Filters_order5-ru.svg/500px-Filters_order5-ru.svg.png 2x" width="250"/></a><figcaption>Сравнение амплитудно-частотных характеристик фильтров 5-го порядка: Баттерворта, Чебышёва I и II родов и эллиптического фильтра</figcaption></figure>
+<p>На рисунке представлены графики АЧХ фильтра Чебышёва I и II родов с пульсациями в полосе пропускания или полосе подавления равными 0,1 в сравнении с некоторыми другими часто используемыми фильтрами 5-го порядка.
+</p><p>По графикам видно, что амплитудно-частотные характеристики фильтров Чебышёва имеют более крутой спад, чем спад у <a href="/wiki/%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80_%D0%91%D0%B0%D1%82%D1%82%D0%B5%D1%80%D0%B2%D0%BE%D1%80%D1%82%D0%B0" title="Фильтр Баттерворта">фильтров Баттерворта</a>, но не такой крутой спад, как у <a href="/wiki/%D0%AD%D0%BB%D0%BB%D0%B8%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%84%D0%B8%D0%BB%D1%8C%D1%82%D1%80" title="Эллиптический фильтр">эллиптического фильтра</a>.
+</p>
+<h2><span id=".D0.A1.D0.BC._.D1.82.D0.B0.D0.BA.D0.B6.D0.B5"></span><span class="mw-headline" id="См._также">См. также</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80_%D0%A7%D0%B5%D0%B1%D1%8B%D1%88%D1%91%D0%B2%D0%B0&amp;veaction=edit&amp;section=14" title="Редактировать раздел «См. также»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80_%D0%A7%D0%B5%D0%B1%D1%8B%D1%88%D1%91%D0%B2%D0%B0&amp;action=edit&amp;section=14" title="Редактировать код раздела «См. также»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/%D0%93%D1%80%D0%B5%D0%B1%D0%B5%D0%BD%D1%87%D0%B0%D1%82%D1%8B%D0%B9_%D1%84%D0%B8%D0%BB%D1%8C%D1%82%D1%80" title="Гребенчатый фильтр">Гребенчатый фильтр</a></li>
+<li><a href="/wiki/%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80_(%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0)" title="Фильтр (электроника)">Фильтр (электроника)</a></li>
+<li><a href="/wiki/%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80_%D1%81_%D0%B1%D0%B5%D1%81%D0%BA%D0%BE%D0%BD%D0%B5%D1%87%D0%BD%D0%BE%D0%B9_%D0%B8%D0%BC%D0%BF%D1%83%D0%BB%D1%8C%D1%81%D0%BD%D0%BE%D0%B9_%D1%85%D0%B0%D1%80%D0%B0%D0%BA%D1%82%D0%B5%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%BE%D0%B9" title="Фильтр с бесконечной импульсной характеристикой">Фильтр с бесконечной импульсной характеристикой</a></li>
+<li><a href="/wiki/%D0%9E%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9" title="Обработка изображений">Цифровая обработка изображений</a></li>
+<li><a href="/wiki/%D0%A6%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0_%D1%81%D0%B8%D0%B3%D0%BD%D0%B0%D0%BB%D0%BE%D0%B2" title="Цифровая обработка сигналов">Цифровая обработка сигналов</a></li></ul>
+<h2><span id=".D0.9A.D0.BE.D0.BC.D0.BC.D0.B5.D0.BD.D1.82.D0.B0.D1.80.D0.B8.D0.B8"></span><span class="mw-headline" id="Комментарии">Комментарии</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80_%D0%A7%D0%B5%D0%B1%D1%8B%D1%88%D1%91%D0%B2%D0%B0&amp;veaction=edit&amp;section=15" title="Редактировать раздел «Комментарии»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80_%D0%A7%D0%B5%D0%B1%D1%8B%D1%88%D1%91%D0%B2%D0%B0&amp;action=edit&amp;section=15" title="Редактировать код раздела «Комментарии»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text">Вопреки распространённому произношению старинной дворянской фамилии учёного — <a href="/wiki/%D0%A7%D0%B5%D0%B1%D1%8B%D1%88%D1%91%D0%B2%D1%8B" title="Чебышёвы">Чебышёв</a><sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup><sup class="reference" id="cite_ref-unbegaun_2-0"><a href="#cite_note-unbegaun-2">[2]</a></sup><sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> — с ударением на первый слог (<i>Чéбышев</i>), обусловленному характерной для XX века тенденцией к обособлению фамилий на <i>-ов/-ёв</i> от исходных притяжательных прилагательных<sup class="reference" id="cite_ref-unbegaun_2-1"><a href="#cite_note-unbegaun-2">[2]</a></sup> и традиционным <a href="/wiki/%D0%81#Последствия_необязательного_употребления_буквы_«ё»" title="Ё">неразличением <i>е</i>/<i>ё</i> на письме</a>, 4-е издание академического «Русского орфографического словаря» (2013), словарь ударений «Собственные имена в русском языке» (2001) и профильные академические издания, последовательно использующие <i>ё</i> при передаче имён и названий, фиксируют в качестве орфографической и орфоэпической нормы написание и произношение <b>Чебышёв</b><sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup><sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup><sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup><sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup>.</span>
+</li>
+</ol></div></div>
+<h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Примечания">Примечания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80_%D0%A7%D0%B5%D0%B1%D1%8B%D1%88%D1%91%D0%B2%D0%B0&amp;veaction=edit&amp;section=16" title="Редактировать раздел «Примечания»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80_%D0%A7%D0%B5%D0%B1%D1%8B%D1%88%D1%91%D0%B2%D0%B0&amp;action=edit&amp;section=16" title="Редактировать код раздела «Примечания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns" style="column-width:30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><span class="citation" id="CITEREFБСЭ1978">Чебышев Пафнутий Львович / Б. В. Гнеденко // Чаган — Экс-ле-Бен. — <abbr title="Москва">М.</abbr> : Советская энциклопедия, 1978. — (<a href="/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F_%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D1%8D%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F#Третье_издание" title="Большая советская энциклопедия">Большая советская энциклопедия</a> : <span class="nowrap">[в 30 т.]</span> / гл. ред. <span class="nowrap"> <a href="/wiki/%D0%9F%D1%80%D0%BE%D1%85%D0%BE%D1%80%D0%BE%D0%B2,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B8%D1%87" title="Прохоров, Александр Михайлович">А. М. Прохоров</a></span> ; 1969—1978, т. 29).</span>. — В заголовке статьи: «<b>Чебышев</b> (произносится <b>Чебышёв</b>) Пафнутий Львович…»</span>
+</li>
+<li id="cite_note-unbegaun-2"><span class="mw-cite-backlink">↑ <a href="#cite_ref-unbegaun_2-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-unbegaun_2-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="citation"><i>Унбегаун, Б. О.</i> Русские фамилии / пер. с англ. <span class="nowrap">Л. В. Куркиной</span>, <span class="nowrap">В. П. Нерознака</span>, <span class="nowrap">Е. Р. Сквайрс</span>; ред. <span class="nowrap">Н. Н. Попов</span>. — <abbr title="Москва">М.</abbr> : Прогресс, 1989. — С. 349. — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/5010010453">ISBN 5-01-001045-3</a>.</span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><span class="citation"><i>Калиткин, Н. Н.</i> Численные методы : учебное пособие. — 2-е изд., испр. — <abbr title="Санкт-Петербург">СПб.</abbr> : БХВ-Петербург, 2011. — С. 33 [<i><b>чебышёвская</b> система функций</i>], 465 [<i><b>чебышёвский</b> набор шагов</i>], 552 [<i>критерий <b>Чебышёва</b></i>], 574 [<i>многочлены <b>Чебышёва</b></i>]. — (Учебная литература для вузов). — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9785977505000">ISBN 978-5-9775-0500-0</a>.</span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><span class="citation"><b>Чебышёв</b> [<i>многочлены <b>Чебышёва</b></i>, <i>формула <b>Чебышёва</b></i>] ; <b>чебышёвский</b> // Русский орфографический словарь / Российская академия наук. Институт русского языка <span class="nowrap">им. В. В. Виноградова</span>; под ред. <span class="nowrap"><a href="/wiki/%D0%9B%D0%BE%D0%BF%D0%B0%D1%82%D0%B8%D0%BD,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Лопатин, Владимир Владимирович">В. В. Лопатина</a></span>, <span class="nowrap">О. Е. Ивановой</span>. — Изд. 4-е, испр. и доп. — <abbr title="Москва">М.</abbr> : АСТ-ПРЕСС КНИГА, 2013. — С. 819. — (Фундаментальные словари русского языка). — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9785462012723">ISBN 978-5-462-01272-3</a>.</span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><span class="citation"><i><a href="/wiki/%D0%90%D0%B3%D0%B5%D0%B5%D0%BD%D0%BA%D0%BE,_%D0%A4%D0%BB%D0%BE%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D1%8F_%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4%D0%BE%D0%B2%D0%BD%D0%B0" title="Агеенко, Флоренция Леонидовна">Агеенко, Ф. Л.</a></i> <b>Чебышёв</b> Пафнýтий // Собственные имена в русском языке : словарь ударений. — <abbr title="Москва">М.</abbr> : Издательство НЦ ЭНАС, 2001. — С. 349. — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/5931961070">ISBN 5-93196-107-0</a>.</span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><span class="citation">Журнал вычислительной математики и математической физики. — <abbr title="Москва">М.</abbr> : Издательство АН СССР, 1982. — Т. 22, № 1. — С. 142 [<i><b>чебышёвский</b> центр множества</i>].</span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><span class="citation">Математический сборник. — <abbr title="Москва">М.</abbr> : Наука, 2004. — Т. 195. — С. 29 [<i><b>чебышёвский</b> альтернанс</i>], 56—57 [<i><b>чебышёвский</b> метод</i>].</span></span>
+</li>
+</ol></div>
+<h2><span id=".D0.91.D0.B8.D0.B1.D0.BB.D0.B8.D0.BE.D0.B3.D1.80.D0.B0.D1.84.D0.B8.D1.8F"></span><span class="mw-headline" id="Библиография">Библиография</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80_%D0%A7%D0%B5%D0%B1%D1%8B%D1%88%D1%91%D0%B2%D0%B0&amp;veaction=edit&amp;section=17" title="Редактировать раздел «Библиография»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80_%D0%A7%D0%B5%D0%B1%D1%8B%D1%88%D1%91%D0%B2%D0%B0&amp;action=edit&amp;section=17" title="Редактировать код раздела «Библиография»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="citation"><i>Кривицкий Б. Х.</i> Справочник по теоретическим основам радиоэлектроники. — <abbr title="Москва">М.</abbr> : Энергия, 1977.</span></li>
+<li><span class="citation"><i>Лукас В. А.</i> Теория автоматического управления. — M. : Недра, 1990.</span></li>
+<li><span class="citation"><i>Daniels Richard W.</i> Approximation Methods for Electronic Filter Design. — New York : McGraw-Hill, 1974. — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/0070153086">ISBN 0-07-015308-6</a>.</span></li>
+<li><span class="citation"><i>Higgins Richard J.</i> Digital Signal Processing in VLSI. — Paramus, NJ : Prentice-Hall, 1990. — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/013212887X">ISBN 0-13-212887-X</a>.</span></li>
+<li><span class="citation"><i>Haykin S.</i> Adaptive Filter Theory. — 4th ed. — Paramus, NJ : Prentice-Hall, 2001. — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/0130901261">ISBN 0-13-090126-1</a>.</span></li>
+<li><span class="citation"><i>Honig Michael L.; Messerschmitt David G.</i> Adaptive Filters – Structures, Algorithms, and Applications. — Hingham, MA : Kluwer Academic Publishers, 1984. — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/0898381630">ISBN 0-89838-163-0</a>.</span></li>
+<li><span class="citation"><i>Markel J. D.; Gray Jr. A. H.</i> Linear Prediction of Speech. — New York : Springer-Verlag, 1982. — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/0387075631">ISBN 0-387-07563-1</a>.</span></li>
+<li><span class="citation"><i>Oppenheim A. V.; Schafer R. W.</i> Digital Signal Processing. — Paramus, NJ : Prentice-Hall, 1975. — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/0132146355">ISBN 0-13-214635-5</a>.</span></li>
+<li><span class="citation"><i>Proakis John G.; Manolakis Dimitris G.</i> Introduction to Digital Signal Processing. — Paramus, NJ : Prentice-Hall, 1988. — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/002396815X">ISBN 0-02-396815-X</a>.</span></li>
+<li><span class="citation"><i><a href="/wiki/%D0%A0%D0%B0%D0%B1%D0%B8%D0%BD%D0%B5%D1%80,_%D0%9B%D0%BE%D1%80%D0%B5%D0%BD%D1%81" title="Рабинер, Лоренс">Rabiner L. R.</a>; Schafer R. W.</i> Digital Processing of Speech Signals. — Paramus, NJ : Prentice-Hall, 1978. — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/0132136031">ISBN 0-13-213603-1</a>.</span></li>
+<li><span class="citation"><i>Rabiner L. R.; Gold B.</i> Theory and Application of Digital Signal Processing. — Paramus, NJ : Prentice-Hall, 1986. — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/0139141014">ISBN 0-13-914101-4</a>.</span></li>
+<li><span class="citation"><i>Rorabaugh Britton C.</i> Approximation Methods for Electronic Filter Design. — New York : McGraw-Hill, 1999. — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/0070540047">ISBN 0-07-054004-7</a>.</span></li>
+<li><span class="citation"><i>Smith Steven W.</i> <a class="external text" href="http://dspguide.com" rel="nofollow">The Scientist and Engineer’s Guide to Digital Signal Processing</a>. — 2nd ed. — San-Diego : California Technical Publishing, 1999. — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/0966017641">ISBN 0-9660176-4-1</a>.</span></li>
+<li><span class="citation"><i>Widrow B.; Stearns S. D.</i> Adaptive Signal Processing. — Paramus, NJ : Prentice-Hall, 1985. — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/0130040290">ISBN 0-13-004029-0</a>.</span></li></ul>
+<h2><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span><span class="mw-headline" id="Ссылки">Ссылки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80_%D0%A7%D0%B5%D0%B1%D1%8B%D1%88%D1%91%D0%B2%D0%B0&amp;veaction=edit&amp;section=18" title="Редактировать раздел «Ссылки»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80_%D0%A7%D0%B5%D0%B1%D1%8B%D1%88%D1%91%D0%B2%D0%B0&amp;action=edit&amp;section=18" title="Редактировать код раздела «Ссылки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div aria-label="В родственных проектах" class="ts-Родственные_проекты ruwikiWikimediaNavigation tright metadata plainlinks plainlist noprint" role="navigation"><ul><li class="ts-Родственные_проекты-item"><span class="ts-Родственные_проекты-image"><span typeof="mw:File"><span><img alt="" class="mw-file-element" data-file-height="30" data-file-width="30" decoding="async" height="24" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/24px-Notification-icon-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/36px-Notification-icon-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/48px-Notification-icon-Commons-logo.svg.png 2x" width="24"/></span></span></span><span class="ts-Родственные_проекты-label commons-ref"><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Chebyshev_filters" title="commons:Category:Chebyshev filters">Медиафайлы на Викискладе</a></span></li></ul></div>
+<ul><li><span class="citation"><span lang="und"><a class="external text" href="https://web.archive.org/web/20131130183051/http://www.nsu.ru/education/cmet/node53.html" rel="nofollow">Как рассчитывать рекурсивные фильтры?</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span> <a href="/wiki/%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D0%B8%D0%B1%D0%B8%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82" title="Новосибирский государственный университет">НГУ</a>. Дата обращения: 14 февраля 2014. Архивировано из <a class="external text" href="http://www.nsu.ru/education/cmet/node53.html" rel="nofollow">оригинала</a> 30 ноября 2013 года.</span></li>
+<li><span class="citation"><span lang="und"><a class="external text" href="http://analogiu.ru/6/6-5-1.html" rel="nofollow">Классификация фильтров</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Аналоговые измерительные устройства. Дата обращения: 14 февраля 2014.</span></li>
+<li><span class="citation"><span lang="und"><a class="external text" href="http://www.dsp.sut.ru/rus/training/book/lections/l3/l3_2.htm" rel="nofollow">Лекция по цифровой фильтрации</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. DSP.sut.ru. Дата обращения: 14 февраля 2014. <a class="external text" href="https://web.archive.org/web/20070312233719/http://www.dsp.sut.ru/rus/training/book/lections/l3/l3_2.htm" rel="nofollow">Архивировано</a> 12 марта 2007 года.</span></li>
+<li><span class="citation"><span lang="und"><a class="external text" href="http://www.dsplib.ru/content/filters/ch4/ch4.html" rel="nofollow">Расчёт фильтра Чебышёва первого рода с примерами</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Dsplib.ru. Дата обращения: 14 февраля 2014.</span></li>
+<li><span class="citation"><span lang="und"><a class="external text" href="http://www.dsplib.ru/content/filters/ch5/ch5.html" rel="nofollow">Расчёт фильтра Чебышёва второго рода с примерами</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Dsplib.ru. Дата обращения: 14 февраля 2014.</span></li>
+<li><span class="citation"><span lang="und"><a class="external text" href="http://www.gaw.ru/html.cgi/txt/doc/op/funop_11_2.htm" rel="nofollow">Фильтры нижних частот</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Gaw.ru (Рынок Микроэлектроники). Дата обращения: 14 февраля 2014.</span></li>
+<li><span class="citation"><span lang="und"><a class="external text" href="http://www-k.ext.ti.com/SRVS/Data/ti/KnowledgeBases/analog/document/faqs/ch.htm" rel="nofollow">Chebyshev Filters</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Texas Instruments. Дата обращения: 14 февраля 2014. <a class="external text" href="https://web.archive.org/web/20120805205639/http://www-k.ext.ti.com/SRVS/Data/ti/KnowledgeBases/analog/document/faqs/ch.htm" rel="nofollow">Архивировано</a> 5 августа 2012 года.</span> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li></ul>
+<table class="noprint nomobile" role="presentation" style="margin:.72em auto; text-align: center; width:100%; background:#f8f9fa; border:1px #a2a9b1 solid;">
+<tbody><tr>
+<td><div style="margin:-5px">
+<p><span style="padding:12px; line-height:24px" title="Тематический портал «Математика» — подробный обзор темы в Википедии"><span class="nowrap"><span typeof="mw:File"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0" title="Портал:Математика"><img alt="П:" class="mw-file-element" data-file-height="391" data-file-width="391" decoding="async" height="24" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Nuvola_apps_kpovmodeler.svg/24px-Nuvola_apps_kpovmodeler.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Nuvola_apps_kpovmodeler.svg/36px-Nuvola_apps_kpovmodeler.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Nuvola_apps_kpovmodeler.svg/48px-Nuvola_apps_kpovmodeler.svg.png 2x" width="24"/></a></span>  <b><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0" title="Портал:Математика">Математика</a></b> </span></span>
+</p>
+</div>
+</td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw1413
+Cached time: 20240218012532
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.398 seconds
+Real time usage: 0.626 seconds
+Preprocessor visited node count: 15654/1000000
+Post‐expand include size: 44340/2097152 bytes
+Template argument size: 18878/2097152 bytes
+Highest expansion depth: 17/100
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 15174/5000000 bytes
+Lua time usage: 0.103/10.000 seconds
+Lua memory usage: 3429544/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  361.357      1 -total
+ 39.78%  143.760     21 Шаблон:Публикация
+ 24.95%   90.154      2 Шаблон:Примечания
+ 16.61%   60.020      2 Шаблон:Нет_АИ
+ 11.86%   42.847      1 Шаблон:Навигация
+ 10.52%   38.029      7 Шаблон:Cite_web
+  8.80%   31.791      1 Шаблон:БСЭ3
+  8.56%   30.920      2 Шаблон:Сортировка:_статьи_без_источников
+  8.35%   30.191      1 Шаблон:Линейные_электронные_фильтры
+  7.39%   26.687      1 Шаблон:Боковая_навигационная_таблица
+-->
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:312562-0!canonical and timestamp 20240218012532 and revision id 133372197. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> -->
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Фильтр_Чебышёва&amp;oldid=133372197">https://ru.wikipedia.org/w/index.php?title=Фильтр_Чебышёва&amp;oldid=133372197</a></div></div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категория</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F" title="Категория:Фильтрация">Фильтрация</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B,_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D0%B2%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_ISBN" title="Категория:Страницы, использующие волшебные ссылки ISBN">Страницы, использующие волшебные ссылки ISBN</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%B1%D0%B5%D0%B7_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_(%D1%82%D0%B8%D0%BF:_%D0%BD%D0%B5_%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD)" title="Категория:Википедия:Статьи без источников (тип: не указан)">Википедия:Статьи без источников (тип: не указан)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9D%D0%B5%D1%82_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D1%81_%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8F_2016" title="Категория:Википедия:Нет источников с декабря 2016">Википедия:Нет источников с декабря 2016</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D1%83%D1%82%D0%B2%D0%B5%D1%80%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%D0%BC%D0%B8_%D0%B1%D0%B5%D0%B7_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%B1%D0%BE%D0%BB%D0%B5%D0%B5_14_%D0%B4%D0%BD%D0%B5%D0%B9" title="Категория:Википедия:Статьи с утверждениями без источников более 14 дней">Википедия:Статьи с утверждениями без источников более 14 дней</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81%D0%BE_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8_%D0%BD%D0%B0_%D0%92%D0%B8%D0%BA%D0%B8%D1%81%D0%BA%D0%BB%D0%B0%D0%B4" title="Категория:Статьи со ссылками на Викисклад">Статьи со ссылками на Викисклад</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%BD%D0%B5_%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD_%D1%8F%D0%B7%D1%8B%D0%BA)" title="Категория:Википедия:Cite web (не указан язык)">Википедия:Cite web (не указан язык)</a></li></ul></div></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Навигация</h2>
+<div id="mw-head">
+<nav aria-labelledby="p-personal-label" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" id="p-personal" role="navigation">
+<h3 class="vector-menu-heading" id="p-personal-label">
+<span class="vector-menu-heading-label">Персональные инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="pt-anonuserpage"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li class="mw-list-item" id="pt-anontalk"><a accesskey="n" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]"><span>Обсуждение</span></a></li><li class="mw-list-item" id="pt-anoncontribs"><a accesskey="y" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]"><span>Вклад</span></a></li><li class="mw-list-item" id="pt-createaccount"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80+%D0%A7%D0%B5%D0%B1%D1%8B%D1%88%D1%91%D0%B2%D0%B0" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li class="mw-list-item" id="pt-login"><a accesskey="o" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80+%D0%A7%D0%B5%D0%B1%D1%8B%D1%88%D1%91%D0%B2%D0%B0" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]"><span>Войти</span></a></li>
+</ul>
+</div>
+</nav>
+<div id="left-navigation">
+<nav aria-labelledby="p-namespaces-label" class="mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-namespaces" role="navigation">
+<h3 class="vector-menu-heading" id="p-namespaces-label">
+<span class="vector-menu-heading-label">Пространства имён</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-nstab-main"><a accesskey="c" href="/wiki/%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80_%D0%A7%D0%B5%D0%B1%D1%8B%D1%88%D1%91%D0%B2%D0%B0" title="Просмотреть контентную страницу [c]"><span>Статья</span></a></li><li class="mw-list-item" id="ca-talk"><a accesskey="t" href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80_%D0%A7%D0%B5%D0%B1%D1%8B%D1%88%D1%91%D0%B2%D0%B0" rel="discussion" title="Обсуждение основной страницы [t]"><span>Обсуждение</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-variants-label" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" id="p-variants" role="navigation">
+<input aria-haspopup="true" aria-labelledby="p-variants-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-variants" id="p-variants-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-variants-label">
+<span class="vector-menu-heading-label">русский</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+</div>
+<div id="right-navigation">
+<nav aria-labelledby="p-views-label" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-views" role="navigation">
+<h3 class="vector-menu-heading" id="p-views-label">
+<span class="vector-menu-heading-label">Просмотры</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-view"><a href="/wiki/%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80_%D0%A7%D0%B5%D0%B1%D1%8B%D1%88%D1%91%D0%B2%D0%B0"><span>Читать</span></a></li><li class="mw-list-item" id="ca-ve-edit"><a accesskey="v" href="/w/index.php?title=%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80_%D0%A7%D0%B5%D0%B1%D1%8B%D1%88%D1%91%D0%B2%D0%B0&amp;veaction=edit" title="Редактировать данную страницу [v]"><span>Править</span></a></li><li class="collapsible mw-list-item" id="ca-edit"><a accesskey="e" href="/w/index.php?title=%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80_%D0%A7%D0%B5%D0%B1%D1%8B%D1%88%D1%91%D0%B2%D0%B0&amp;action=edit" title="Править исходный текст этой страницы [e]"><span>Править код</span></a></li><li class="mw-list-item" id="ca-history"><a accesskey="h" href="/w/index.php?title=%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80_%D0%A7%D0%B5%D0%B1%D1%8B%D1%88%D1%91%D0%B2%D0%B0&amp;action=history" title="Журнал изменений страницы [h]"><span>История</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-cactions-label" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" id="p-cactions" role="navigation" title="Больше возможностей">
+<input aria-haspopup="true" aria-labelledby="p-cactions-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-cactions" id="p-cactions-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-cactions-label">
+<span class="vector-menu-heading-label">Ещё</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+<div class="vector-search-box-vue vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box" id="p-search" role="search">
+<h3>Поиск</h3>
+<form action="/w/index.php" class="vector-search-box-form" id="searchform">
+<div class="vector-search-box-inner" data-search-loc="header-navigation" id="simpleSearch">
+<input accesskey="f" aria-label="Искать в Википедии" autocapitalize="sentences" class="vector-search-box-input" id="searchInput" name="search" placeholder="Искать в Википедии" title="Искать в Википедии [f]" type="search"/>
+<input name="title" type="hidden" value="Служебная:Поиск"/>
+<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Найти страницы, содержащие указанный текст" type="submit" value="Найти"/>
+<input class="searchButton" id="searchButton" name="go" title="Перейти к странице, имеющей в точности такое название" type="submit" value="Перейти"/>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="vector-legacy-sidebar" id="mw-panel">
+<div id="p-logo" role="banner">
+<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу"></a>
+</div>
+<nav aria-labelledby="p-navigation-label" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" id="p-navigation" role="navigation">
+<h3 class="vector-menu-heading" id="p-navigation-label">
+<span class="vector-menu-heading-label">Навигация</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-mainpage-description"><a accesskey="z" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]"><span>Заглавная страница</span></a></li><li class="mw-list-item" id="n-content"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li class="mw-list-item" id="n-featured"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li class="mw-list-item" id="n-randompage"><a accesskey="x" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]"><span>Случайная статья</span></a></li><li class="mw-list-item" id="n-currentevents"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li class="mw-list-item" id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-participation-label" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" id="p-participation" role="navigation">
+<h3 class="vector-menu-heading" id="p-participation-label">
+<span class="vector-menu-heading-label">Участие</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-bug_in_article"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li class="mw-list-item" id="n-introduction"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li class="mw-list-item" id="n-portal"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li class="mw-list-item" id="n-forum"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li class="mw-list-item" id="n-recentchanges"><a accesskey="r" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]"><span>Свежие правки</span></a></li><li class="mw-list-item" id="n-newpages"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li class="mw-list-item" id="n-help"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-tb-label" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" id="p-tb" role="navigation">
+<h3 class="vector-menu-heading" id="p-tb-label">
+<span class="vector-menu-heading-label">Инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="t-whatlinkshere"><a accesskey="j" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80_%D0%A7%D0%B5%D0%B1%D1%8B%D1%88%D1%91%D0%B2%D0%B0" title="Список всех страниц, ссылающихся на данную [j]"><span>Ссылки сюда</span></a></li><li class="mw-list-item" id="t-recentchangeslinked"><a accesskey="k" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80_%D0%A7%D0%B5%D0%B1%D1%8B%D1%88%D1%91%D0%B2%D0%B0" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]"><span>Связанные правки</span></a></li><li class="mw-list-item" id="t-specialpages"><a accesskey="q" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]"><span>Служебные страницы</span></a></li><li class="mw-list-item" id="t-permalink"><a href="/w/index.php?title=%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80_%D0%A7%D0%B5%D0%B1%D1%8B%D1%88%D1%91%D0%B2%D0%B0&amp;oldid=133372197" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li class="mw-list-item" id="t-info"><a href="/w/index.php?title=%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80_%D0%A7%D0%B5%D0%B1%D1%8B%D1%88%D1%91%D0%B2%D0%B0&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li class="mw-list-item" id="t-cite"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80_%D0%A7%D0%B5%D0%B1%D1%8B%D1%88%D1%91%D0%B2%D0%B0&amp;id=133372197&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li class="mw-list-item" id="t-urlshortener"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%25A4%25D0%25B8%25D0%25BB%25D1%258C%25D1%2582%25D1%2580_%25D0%25A7%25D0%25B5%25D0%25B1%25D1%258B%25D1%2588%25D1%2591%25D0%25B2%25D0%25B0"><span>Получить короткий URL</span></a></li><li class="mw-list-item" id="t-urlshortener-qrcode"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%25A4%25D0%25B8%25D0%25BB%25D1%258C%25D1%2582%25D1%2580_%25D0%25A7%25D0%25B5%25D0%25B1%25D1%258B%25D1%2588%25D1%2591%25D0%25B2%25D0%25B0"><span>Скачать QR-код</span></a></li><li class="mw-list-item" id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q718621" title="Ссылка на связанный элемент репозитория данных [g]"><span>Элемент Викиданных</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-coll-print_export-label" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" id="p-coll-print_export" role="navigation">
+<h3 class="vector-menu-heading" id="p-coll-print_export-label">
+<span class="vector-menu-heading-label">Печать/экспорт</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="coll-download-as-rl"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80_%D0%A7%D0%B5%D0%B1%D1%8B%D1%88%D1%91%D0%B2%D0%B0&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li class="mw-list-item" id="t-print"><a accesskey="p" href="/w/index.php?title=%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80_%D0%A7%D0%B5%D0%B1%D1%8B%D1%88%D1%91%D0%B2%D0%B0&amp;printable=yes" title="Версия этой страницы для печати [p]"><span>Версия для печати</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-wikibase-otherprojects-label" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal vector-menu" id="p-wikibase-otherprojects" role="navigation">
+<h3 class="vector-menu-heading" id="p-wikibase-otherprojects-label">
+<span class="vector-menu-heading-label">В других проектах</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Chebyshev_filters" hreflang="en"><span>Викисклад</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-lang-label" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" id="p-lang" role="navigation">
+<h3 class="vector-menu-heading" id="p-lang-label">
+<span class="vector-menu-heading-label">На других языках</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="interlanguage-link interwiki-ca mw-list-item"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Filtre_de_Txebixov" hreflang="ca" lang="ca" title="Filtre de Txebixov — каталанский"><span>Català</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Tschebyscheff-Filter" hreflang="de" lang="de" title="Tschebyscheff-Filter — немецкий"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a class="interlanguage-link-target" href="https://en.wikipedia.org/wiki/Chebyshev_filter" hreflang="en" lang="en" title="Chebyshev filter — английский"><span>English</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Filtrilo_de_%C4%88ebi%C5%9Dev" hreflang="eo" lang="eo" title="Filtrilo de Ĉebiŝev — эсперанто"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Filtro_de_Chebyshev" hreflang="es" lang="es" title="Filtro de Chebyshev — испанский"><span>Español</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%81%DB%8C%D9%84%D8%AA%D8%B1_%DA%86%D8%A8%DB%8C%D8%B4%D9%81" hreflang="fa" lang="fa" title="فیلتر چبیشف — персидский"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Filtre_de_Tchebychev" hreflang="fr" lang="fr" title="Filtre de Tchebychev — французский"><span>Français</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%9E%D7%A1%D7%A0%D7%A0%D7%99_%D7%A6%27%D7%91%D7%99%D7%A9%D7%91" hreflang="he" lang="he" title="מסנני צ'בישב — иврит"><span>עברית</span></a></li><li class="interlanguage-link interwiki-hi mw-list-item"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%9A%E0%A5%87%E0%A4%AC%E0%A4%BF%E0%A4%B6%E0%A5%87%E0%A4%B5_%E0%A4%AB%E0%A4%BF%E0%A4%B2%E0%A5%8D%E0%A4%9F%E0%A4%B0" hreflang="hi" lang="hi" title="चेबिशेव फिल्टर — хинди"><span>हिन्दी</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Filtro_di_%C4%8Ceby%C5%A1%C3%ABv" hreflang="it" lang="it" title="Filtro di Čebyšëv — итальянский"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%83%93%E3%82%B7%E3%82%A7%E3%83%95%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF" hreflang="ja" lang="ja" title="チェビシェフフィルタ — японский"><span>日本語</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Filtr_Czebyszewa" hreflang="pl" lang="pl" title="Filtr Czebyszewa — польский"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Filtro_Chebyshev" hreflang="pt" lang="pt" title="Filtro Chebyshev — португальский"><span>Português</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Tjebysjovfilter" hreflang="sv" lang="sv" title="Tjebysjovfilter — шведский"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A4%D1%96%D0%BB%D1%8C%D1%82%D1%80_%D0%A7%D0%B5%D0%B1%D0%B8%D1%88%D0%BE%D0%B2%D0%B0" hreflang="uk" lang="uk" title="Фільтр Чебишова — украинский"><span>Українська</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%88%87%E6%AF%94%E9%9B%AA%E5%A4%AB%E6%BB%A4%E6%B3%A2%E5%99%A8" hreflang="zh" lang="zh" title="切比雪夫滤波器 — китайский"><span>中文</span></a></li>
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q718621#sitelinks-wikipedia" title="Править ссылки на другие языки">Править ссылки</a></span></div>
+</div>
+</nav>
+</div>
+</div>
+<footer class="mw-footer" id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 2 октября 2023 в 09:59.</li>
+<li id="footer-info-copyright">Текст доступен по <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru" rel="license">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a><a href="//creativecommons.org/licenses/by-sa/4.0/" rel="license" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br/>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org/ru/">Фонд Викимедиа (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//ru.m.wikipedia.org/w/index.php?title=%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80_%D0%A7%D0%B5%D0%B1%D1%8B%D1%88%D1%91%D0%B2%D0%B0&amp;mobileaction=toggle_view_mobile">Мобильная версия</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" loading="lazy" src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88"/></a></li>
+<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" loading="lazy" src="/static/images/footer/poweredby_mediawiki_88x31.png" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88"/></a></li>
+</ul>
+</footer>
+
+
+</body>
+</html>

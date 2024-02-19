@@ -1,0 +1,1066 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="ru">
+<head>
+<meta charset="utf-8"/>
+<title>Boeing 737 — Википедия</title>
+
+
+
+
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+
+
+<meta content="MediaWiki 1.42.0-wmf.18" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="max-image-preview:standard" name="robots"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/e/e9/South_African_Airlink_Boeing_737-200_Advanced_Smith.jpg" property="og:image"/>
+<meta content="1200" property="og:image:width"/>
+<meta content="800" property="og:image:height"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/South_African_Airlink_Boeing_737-200_Advanced_Smith.jpg/800px-South_African_Airlink_Boeing_737-200_Advanced_Smith.jpg" property="og:image"/>
+<meta content="800" property="og:image:width"/>
+<meta content="534" property="og:image:height"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/South_African_Airlink_Boeing_737-200_Advanced_Smith.jpg/640px-South_African_Airlink_Boeing_737-200_Advanced_Smith.jpg" property="og:image"/>
+<meta content="640" property="og:image:width"/>
+<meta content="427" property="og:image:height"/>
+<meta content="width=1000" name="viewport"/>
+<meta content="Boeing 737 — Википедия" property="og:title"/>
+<meta content="website" property="og:type"/>
+
+
+
+
+
+
+
+
+
+
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Boeing_737 rootpage-Boeing_737 skin-vector action-view"><div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators">
+</div>
+<h1 class="firstHeading mw-first-heading" id="firstHeading"><span class="mw-page-title-main">Boeing 737</span></h1>
+<div class="vector-body" id="bodyContent">
+<div class="noprint" id="siteSub">Материал из Википедии — свободной энциклопедии</div>
+<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+<div id="contentSub2"></div>
+<div id="jump-to-nav"></div>
+<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+<div class="mw-body-content" id="mw-content-text"><div class="mw-content-ltr mw-parser-output" dir="ltr" lang="ru"><table class="infobox infobox-67fb40c777503a73" data-name="Летательный аппарат" style=""><tbody><tr><th class="infobox-above" colspan="2" scope="colgroup" style="">Boeing 737</th></tr><tr><td class="infobox-image" colspan="2" style=""> <span class="no-wikidata" data-wikidata-property-id="P18"><span typeof="mw:File/Frameless"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:South_African_Airlink_Boeing_737-200_Advanced_Smith.jpg" title="Boeing 737-200 авиакомпании Airlink"><img alt="Boeing 737-200 авиакомпании Airlink" class="mw-file-element" data-file-height="717" data-file-width="1075" decoding="async" height="183" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/South_African_Airlink_Boeing_737-200_Advanced_Smith.jpg/274px-South_African_Airlink_Boeing_737-200_Advanced_Smith.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/South_African_Airlink_Boeing_737-200_Advanced_Smith.jpg/411px-South_African_Airlink_Boeing_737-200_Advanced_Smith.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e9/South_African_Airlink_Boeing_737-200_Advanced_Smith.jpg/548px-South_African_Airlink_Boeing_737-200_Advanced_Smith.jpg 2x" width="274"/></a></span><br/><span class="media-caption" data-wikidata-qualifier-id="P2096" style="display:block">Boeing 737-200 авиакомпании <a href="/wiki/Airlink" title="Airlink">Airlink</a></span></span> </td></tr>
+<tr>
+<th class="plainlist" scope="row">Тип</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P279"><a href="/wiki/%D0%A3%D0%B7%D0%BA%D0%BE%D1%84%D1%8E%D0%B7%D0%B5%D0%BB%D1%8F%D0%B6%D0%BD%D1%8B%D0%B9_%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D1%91%D1%82" title="Узкофюзеляжный самолёт">узкофюзеляжный</a> <a href="/wiki/%D0%9F%D0%B0%D1%81%D1%81%D0%B0%D0%B6%D0%B8%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D1%91%D1%82" title="Пассажирский самолёт">пассажирский самолёт</a></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Разработчик</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P178"><span class="flagicon"><span class="mw-image-border noresize noviewer" typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_the_United_States.svg" title="Соединённые Штаты Америки"><img alt="Соединённые Штаты Америки" class="mw-file-element" data-file-height="650" data-file-width="1235" decoding="async" height="12" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/22px-Flag_of_the_United_States.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/33px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/44px-Flag_of_the_United_States.svg.png 2x" width="22"/></a></span></span> <a href="/wiki/Boeing" title="Boeing">Boeing</a></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Производитель</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P176"><span class="flagicon"><span class="mw-image-border noresize noviewer" typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_the_United_States.svg" title="Соединённые Штаты Америки"><img alt="Соединённые Штаты Америки" class="mw-file-element" data-file-height="650" data-file-width="1235" decoding="async" height="12" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/22px-Flag_of_the_United_States.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/33px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/44px-Flag_of_the_United_States.svg.png 2x" width="22"/></a></span></span> <a class="mw-redirect" href="/wiki/Boeing_Commercial_Airplanes" title="Boeing Commercial Airplanes">Boeing Commercial Airplanes</a></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Главный конструктор</th>
+<td class="plainlist">
+<span class="wikidata-claim" data-wikidata-claim-id="Q6387$5500c4fb-444f-54d9-86bb-391a6ae8b96f" data-wikidata-property-id="P287"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/Boeing" title="Boeing">Boeing</a></span></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Первый полёт</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P606"><a href="/wiki/9_%D0%B0%D0%BF%D1%80%D0%B5%D0%BB%D1%8F" title="9 апреля">9 апреля</a> <a href="/wiki/1967_%D0%B3%D0%BE%D0%B4" title="1967 год">1967 года</a></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Начало эксплуатации</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P729"><a href="/wiki/10_%D1%84%D0%B5%D0%B2%D1%80%D0%B0%D0%BB%D1%8F" title="10 февраля">10 февраля</a> <a href="/wiki/1968_%D0%B3%D0%BE%D0%B4" title="1968 год">1968 года</a> (<a href="/wiki/Lufthansa" title="Lufthansa">Lufthansa</a>)</span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Статус</th>
+<td class="plainlist">
+производится,<br/>эксплуатируется</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Эксплуатанты</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P137"><span class="flagicon"><span class="mw-image-border noresize noviewer" typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_the_United_States.svg" title="Соединённые Штаты Америки"><img alt="Соединённые Штаты Америки" class="mw-file-element" data-file-height="650" data-file-width="1235" decoding="async" height="12" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/22px-Flag_of_the_United_States.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/33px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/44px-Flag_of_the_United_States.svg.png 2x" width="22"/></a></span></span> <a href="/wiki/Southwest_Airlines" title="Southwest Airlines">Southwest Airlines</a> (779)<br/><span class="flagicon"><span class="mw-image-border noresize noviewer" typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Ireland.svg" title="Ирландия"><img alt="Ирландия" class="mw-file-element" data-file-height="600" data-file-width="1200" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/22px-Flag_of_Ireland.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/33px-Flag_of_Ireland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/44px-Flag_of_Ireland.svg.png 2x" width="22"/></a></span></span> <a href="/wiki/Ryanair" title="Ryanair">Ryanair</a> (494)<br/><span class="flagicon"><span class="mw-image-border noresize noviewer" typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_the_United_States.svg" title="Соединённые Штаты Америки"><img alt="Соединённые Штаты Америки" class="mw-file-element" data-file-height="650" data-file-width="1235" decoding="async" height="12" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/22px-Flag_of_the_United_States.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/33px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/44px-Flag_of_the_United_States.svg.png 2x" width="22"/></a></span></span> <a href="/wiki/United_Airlines" title="United Airlines">United Airlines</a> (407)<br/><span class="flagicon"><span class="mw-image-border noresize noviewer" typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_the_United_States.svg" title="Соединённые Штаты Америки"><img alt="Соединённые Штаты Америки" class="mw-file-element" data-file-height="650" data-file-width="1235" decoding="async" height="12" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/22px-Flag_of_the_United_States.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/33px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/44px-Flag_of_the_United_States.svg.png 2x" width="22"/></a></span></span> <a href="/wiki/American_Airlines" title="American Airlines">American Airlines</a> (345)</span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Годы производства</th>
+<td class="plainlist">
+<a class="mw-redirect" href="/wiki/1967" title="1967">1967</a> — н.в.</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Единиц произведено</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P1092">11 508 <small>(31 декабря <a href="/wiki/2023_%D0%B3%D0%BE%D0%B4" title="2023 год">2023 года</a>)</small><sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Стоимость единицы</th>
+<td class="plainlist">
+49,5-85 млн долл.</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Варианты</th>
+<td class="plainlist">
+<a href="/wiki/Boeing_737_Classic" title="Boeing 737 Classic">Boeing 737 Classic</a><br/><a href="/wiki/Boeing_737_Next_Generation" title="Boeing 737 Next Generation">Boeing 737 Next Generation</a><br/><a href="/wiki/Boeing_737_MAX" title="Boeing 737 MAX">Boeing 737 MAX</a><br/><a href="/wiki/Boeing_P-8_Poseidon" title="Boeing P-8 Poseidon">Boeing P-8 Poseidon</a></td>
+</tr><tr><td class="infobox-below" colspan="2" style=";"><span class="wikidata-claim" data-wikidata-claim-id="q6387$211587D4-8783-4D2F-A586-3C726F85B797" data-wikidata-property-id="P373"><span class="wikidata-snak wikidata-main-snak"><span typeof="mw:File"><a href="https://commons.wikimedia.org/wiki/Category:Boeing_737" title="commons:Category:Boeing 737"><img alt="Логотип Викисклада" class="mw-file-element" data-file-height="1376" data-file-width="1024" decoding="async" height="20" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/15px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/23px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 2x" width="15"/></a></span> <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Boeing_737" title="commons:Category:Boeing 737">Медиафайлы на Викискладе</a></span></span></td></tr>
+</tbody></table>
+<p><b>Boeing 737</b> — семейство <a href="/wiki/%D0%A3%D0%B7%D0%BA%D0%BE%D1%84%D1%8E%D0%B7%D0%B5%D0%BB%D1%8F%D0%B6%D0%BD%D1%8B%D0%B9_%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D1%91%D1%82" title="Узкофюзеляжный самолёт">узкофюзеляжных</a> ближне-среднемагистральных <a href="/wiki/%D0%9F%D0%B0%D1%81%D1%81%D0%B0%D0%B6%D0%B8%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D1%91%D1%82" title="Пассажирский самолёт">пассажирских самолётов</a> и <a href="/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%BD%D1%8B%D0%B9_%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D1%91%D1%82" title="Транспортный самолёт">транспортных самолётов</a>. Самолёт производится корпорацией <a href="/wiki/Boeing" title="Boeing">Boeing</a> с 1967 года.
+</p><p>Boeing 737 стал самым массовым пассажирским самолётом за всю историю пассажирского авиастроения, 13 марта 2018 года был поставлен десятитысячный самолёт, а более 4500 заказов ещё ожидают исполнения<sup class="reference" id="cite_ref-active.boeing.com_2-0"><a href="#cite_note-active.boeing.com-2">[2]</a></sup>.  Boeing 737 эксплуатируется настолько широко, что в любой момент времени в воздухе находится в среднем 1200 самолётов и каждые 5 секунд в мире взлетает и садится один 737-й<sup class="reference" id="cite_ref-Stat_3-0"><a href="#cite_note-Stat-3">[3]</a></sup>.
+</p>
+<div aria-labelledby="mw-toc-heading" class="toc" id="toc" role="navigation"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="ru"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#История_самолёта"><span class="tocnumber">1</span> <span class="toctext">История самолёта</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Разработка_-_поколение_Original"><span class="tocnumber">1.1</span> <span class="toctext">Разработка - поколение Original</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Начало_продаж"><span class="tocnumber">1.2</span> <span class="toctext">Начало продаж</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Начало_эксплуатации"><span class="tocnumber">1.3</span> <span class="toctext">Начало эксплуатации</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Разработка_-_поколение_Classic"><span class="tocnumber">1.4</span> <span class="toctext">Разработка - поколение Classic</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Разработка_-_поколение_Next_Generation"><span class="tocnumber">1.5</span> <span class="toctext">Разработка - поколение Next Generation</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Поколения_самолётов_семейства_Boeing_737"><span class="tocnumber">2</span> <span class="toctext">Поколения самолётов семейства Boeing 737</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Поколение_737_Original_(-100/-200)"><span class="tocnumber">2.1</span> <span class="toctext">Поколение 737 Original (-100/-200)</span></a>
+<ul>
+<li class="toclevel-3 tocsection-9"><a href="#737-100"><span class="tocnumber">2.1.1</span> <span class="toctext">737-100</span></a></li>
+<li class="toclevel-3 tocsection-10"><a href="#737-200"><span class="tocnumber">2.1.2</span> <span class="toctext">737-200</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-11"><a href="#Поколение_737_Classic_(-300/-400/-500)"><span class="tocnumber">2.2</span> <span class="toctext">Поколение 737 Classic (-300/-400/-500)</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Поколение_737_Next_Generation_(-600/-700/-800/-900)"><span class="tocnumber">2.3</span> <span class="toctext">Поколение 737 Next Generation (-600/-700/-800/-900)</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Семейство_737_MAX_(-7/-8/-9/-10)"><span class="tocnumber">2.4</span> <span class="toctext">Семейство 737 MAX (-7/-8/-9/-10)</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Военные_варианты"><span class="tocnumber">2.5</span> <span class="toctext">Военные варианты</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#Лётно-технические_характеристики"><span class="tocnumber">3</span> <span class="toctext">Лётно-технические характеристики</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#Аэродинамическая_схема"><span class="tocnumber">4</span> <span class="toctext">Аэродинамическая схема</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#Оборудование,_системы_и_двигатели"><span class="tocnumber">5</span> <span class="toctext">Оборудование, системы и двигатели</span></a>
+<ul>
+<li class="toclevel-2 tocsection-18"><a href="#Система_кондиционирования_воздуха/пневмосистема"><span class="tocnumber">5.1</span> <span class="toctext">Система кондиционирования воздуха/пневмосистема</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Система_электроснабжения"><span class="tocnumber">5.2</span> <span class="toctext">Система электроснабжения</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#Система_управления_полётом"><span class="tocnumber">5.3</span> <span class="toctext">Система управления полётом</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="#Топливная_система"><span class="tocnumber">5.4</span> <span class="toctext">Топливная система</span></a></li>
+<li class="toclevel-2 tocsection-22"><a href="#Гидравлическая_система"><span class="tocnumber">5.5</span> <span class="toctext">Гидравлическая система</span></a></li>
+<li class="toclevel-2 tocsection-23"><a href="#Шасси"><span class="tocnumber">5.6</span> <span class="toctext">Шасси</span></a></li>
+<li class="toclevel-2 tocsection-24"><a href="#Авионика"><span class="tocnumber">5.7</span> <span class="toctext">Авионика</span></a>
+<ul>
+<li class="toclevel-3 tocsection-25"><a href="#Original"><span class="tocnumber">5.7.1</span> <span class="toctext">Original</span></a></li>
+<li class="toclevel-3 tocsection-26"><a href="#Classic"><span class="tocnumber">5.7.2</span> <span class="toctext">Classic</span></a></li>
+<li class="toclevel-3 tocsection-27"><a href="#Next_Generation"><span class="tocnumber">5.7.3</span> <span class="toctext">Next Generation</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-28"><a href="#Вспомогательная_силовая_установка"><span class="tocnumber">5.8</span> <span class="toctext">Вспомогательная силовая установка</span></a></li>
+<li class="toclevel-2 tocsection-29"><a href="#Силовая_установка"><span class="tocnumber">5.9</span> <span class="toctext">Силовая установка</span></a>
+<ul>
+<li class="toclevel-3 tocsection-30"><a href="#Original_2"><span class="tocnumber">5.9.1</span> <span class="toctext">Original</span></a></li>
+<li class="toclevel-3 tocsection-31"><a href="#Classic_2"><span class="tocnumber">5.9.2</span> <span class="toctext">Classic</span></a></li>
+<li class="toclevel-3 tocsection-32"><a href="#Next_Generation_2"><span class="tocnumber">5.9.3</span> <span class="toctext">Next Generation</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-33"><a href="#Потери_самолётов"><span class="tocnumber">6</span> <span class="toctext">Потери самолётов</span></a></li>
+<li class="toclevel-1 tocsection-34"><a href="#Похожие_самолёты"><span class="tocnumber">7</span> <span class="toctext">Похожие самолёты</span></a></li>
+<li class="toclevel-1 tocsection-35"><a href="#См._также"><span class="tocnumber">8</span> <span class="toctext">См. также</span></a></li>
+<li class="toclevel-1 tocsection-36"><a href="#Примечания"><span class="tocnumber">9</span> <span class="toctext">Примечания</span></a></li>
+<li class="toclevel-1 tocsection-37"><a href="#Ссылки"><span class="tocnumber">10</span> <span class="toctext">Ссылки</span></a></li>
+</ul>
+</div>
+<h2><span id=".D0.98.D1.81.D1.82.D0.BE.D1.80.D0.B8.D1.8F_.D1.81.D0.B0.D0.BC.D0.BE.D0.BB.D1.91.D1.82.D0.B0"></span><span class="mw-headline" id="История_самолёта">История самолёта</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Boeing_737&amp;veaction=edit&amp;section=1" title="Редактировать раздел «История самолёта»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Boeing_737&amp;action=edit&amp;section=1" title="Редактировать код раздела «История самолёта»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Boeing_737_family_v1.0.png"><img class="mw-file-element" data-file-height="1473" data-file-width="2635" decoding="async" height="168" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Boeing_737_family_v1.0.png/300px-Boeing_737_family_v1.0.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Boeing_737_family_v1.0.png/450px-Boeing_737_family_v1.0.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Boeing_737_family_v1.0.png/600px-Boeing_737_family_v1.0.png 2x" width="300"/></a><figcaption>Семейство Boeing 737 в трёх проекциях</figcaption></figure>
+<h3><span id=".D0.A0.D0.B0.D0.B7.D1.80.D0.B0.D0.B1.D0.BE.D1.82.D0.BA.D0.B0_-_.D0.BF.D0.BE.D0.BA.D0.BE.D0.BB.D0.B5.D0.BD.D0.B8.D0.B5_Original"></span><span class="mw-headline" id="Разработка_-_поколение_Original">Разработка - поколение Original</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Boeing_737&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Разработка - поколение Original»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Boeing_737&amp;action=edit&amp;section=2" title="Редактировать код раздела «Разработка - поколение Original»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Boeing 737 был разработан для рынка пассажирских самолётов сравнительно малой вместимости и малой дальности, где основную роль играли <a href="/wiki/BAC_1-11" title="BAC 1-11">BAC 1-11</a> и <a href="/wiki/McDonnell_Douglas_DC-9" title="McDonnell Douglas DC-9">DC-9</a>. В этой гонке <a href="/wiki/Boeing" title="Boeing">Boeing</a> первоначально сильно отставал от конкурентов: в <a href="/wiki/1964_%D0%B3%D0%BE%D0%B4" title="1964 год">1964 году</a>, когда была начата разработка самолёта, его конкуренты уже проходили лётную сертификацию. Отдел продаж и маркетинга компании Boeing прогнозировал спрос на новый самолёт в 600 единиц. 
+</p><p>Чтобы ускорить процесс разработки, были заимствованы технологии, применяемые на <a href="/wiki/Boeing_707" title="Boeing 707">Boeing 707</a> и <a href="/wiki/Boeing_727" title="Boeing 727">727</a> (наиболее заметно сходство фюзеляжа Boeing 737 с фюзеляжами этих самолётов), однако на статических испытаниях с 95-процентной нагрузкой одно из <a href="/wiki/%D0%9C%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F_%D0%BA%D1%80%D1%8B%D0%BB%D0%B0" title="Механизация крыла">устройств механизации крыла</a> повредилось, выявив недостаток этой конструкции. После перепроектировки появилось новое, более совершенное крыло, позволившее использовать самолёт на коротких <a href="/wiki/%D0%92%D0%B7%D0%BB%D1%91%D1%82%D0%BD%D0%BE-%D0%BF%D0%BE%D1%81%D0%B0%D0%B4%D0%BE%D1%87%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BE%D0%BB%D0%BE%D1%81%D0%B0" title="Взлётно-посадочная полоса">ВПП</a> и увеличившее высоту полёта на крейсерской скорости. Как следствие, повысилась и топливная эффективность. 
+</p><p>В целом разработка самолёта обошлась сравнительно недорого и была проведена очень быстро. Кресла в салоне размещались по 6 в ряд, что обеспечило большую вместительность, чем у конкурентов, имевших пять кресел в каждом ряду. Уже в феврале 1965 года было объявлено о завершении этапа концептуальной разработки конструкции нового авиалайнера. 
+</p><p>В процессе разработки Boeing 737 «подрос» от изначально планируемого 60-местного лайнера до самолёта с пассажировместимостью до 103 мест. При этом сохранились и «фамильные» черты в виде 60%-ной общности конструкции с Boeing 727. В конструкции Boeing 737 использовались унаследованные от Boeing 727 <a href="/wiki/%D0%AD%D0%BB%D0%B5%D1%80%D0%BE%D0%BD%D1%8B" title="Элероны">элероны</a> с приводом от двойной гидросистемы, руль направления и руль высоты, предкрылок и <a href="/wiki/%D0%A9%D0%B8%D1%82%D0%BE%D0%BA_%D0%9A%D1%80%D1%8E%D0%B3%D0%B5%D1%80%D0%B0" title="Щиток Крюгера">щитки Крюгера</a>. От Boeing 707 была взята двойная электрическая система установки угла стабилизатора с ручным резервированием. Увеличение пассажироёмкости лайнера с изначальных 60 мест произошло под влиянием авиакомпании <a href="/wiki/Lufthansa" title="Lufthansa">Люфтганза</a>, ставшей первым заказчиком нового самолёта.
+</p>
+<h3><span id=".D0.9D.D0.B0.D1.87.D0.B0.D0.BB.D0.BE_.D0.BF.D1.80.D0.BE.D0.B4.D0.B0.D0.B6"></span><span class="mw-headline" id="Начало_продаж">Начало продаж</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Boeing_737&amp;veaction=edit&amp;section=3" title="Редактировать раздел «Начало продаж»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Boeing_737&amp;action=edit&amp;section=3" title="Редактировать код раздела «Начало продаж»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>19 февраля 1965 года Люфтганза выдала заказ на 22 Boeing 737-100. О начале серийного производства нового лайнера было объявлено 22 февраля 1965 года. А 15 апреля авиакомпания <a href="/wiki/United_Airlines" title="United Airlines">Юнайтед Эйрлайнз</a> разместила свой заказ на 40 самолётов Boeing 737-200. Торжественная церемония окончания сборки первого самолёта состоялась 17 января <a href="/wiki/1967_%D0%B3%D0%BE%D0%B4" title="1967 год">1967 года</a><sup class="reference" id="cite_ref-Hill_4-0"><a href="#cite_note-Hill-4">[4]</a></sup>.
+</p><p>Картину успешного продвижения Boeing 737 портил один вопрос «политического» характера, поднимавшийся профсоюзами пилотов и другими организациями, настаивавшими на том, что такой самолёт должен управляться экипажем из трёх пилотов или двух пилотов и бортинженера. Такая постановка вопроса была, конечно, невыгодна авиакомпаниям, но, кроме того, мало применима для самого самолёта Boeing 737, ведь его пилотажная кабина изначально проектировалась под экипаж из двух человек, а для дополнительного члена экипажа в кабине имелось лишь откидное кресло. Осенью 1965 года полноразмерный макет кабины пилотов Boeing 737 был показан представителям ассоциации пилотов авиалиний (ALPA, Air Lines Pilots Association) и <a href="/wiki/%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B9_%D0%B0%D0%B2%D0%B8%D0%B0%D1%86%D0%B8%D0%B8_%D0%A1%D0%A8%D0%90" title="Федеральное управление гражданской авиации США">Федерального управления гражданской авиации</a> (Federal Aviation Administration, FAA). Конечно, специалисты FAA не могли принять никакого решения, касающегося сертификации, на основе только простого макета, лишённого каких-либо рабочих функций. Зато пилоты United Airlines очень быстро дали знать о своём несогласии с показанной макетом концепцией двучленного экипажа. Спустя год, для испытания распределения рабочей нагрузки на экипаж, был использован уже динамический макет кабины. И снова группа пилотов United Airlines приняла решение в пользу экипажа из трёх пилотов.
+</p><p>В ноябре 1966 года прошло собрание руководителей ALPA, посвящённое принятию резолюции, требующей управления самолётом Boeing 737 в любых условиях экипажем только из трёх пилотов. За месяц до этого в Boeing начались ежегодные переговоры с United Airlines относительно закупок самолёта, и вопрос с количеством членов экипажа 737 вскоре стал главным. Однако, в это же время Boeing получила от федерального управления гражданской авиации письменное уведомление о том, что FAA предварительно разрешает эксплуатацию самолёта экипажем из двух человек, с принятием окончательного решения по результатам программы лётных испытаний. Очевидно, что до завершения этих споров ситуация, складывавшаяся вокруг Boeing 737, отпугивала многих потенциальных заказчиков. Зато это в особенности помогло компании <a href="/wiki/McDonnell_Douglas" title="McDonnell Douglas">Douglas</a> поднять продажи своих стандартных и удлинённых вариантов DC-9 нескольким небольшим американским региональным авиакомпаниям<sup class="reference" id="cite_ref-Hill_4-1"><a href="#cite_note-Hill-4">[4]</a></sup>.
+</p>
+<h3><span id=".D0.9D.D0.B0.D1.87.D0.B0.D0.BB.D0.BE_.D1.8D.D0.BA.D1.81.D0.BF.D0.BB.D1.83.D0.B0.D1.82.D0.B0.D1.86.D0.B8.D0.B8"></span><span class="mw-headline" id="Начало_эксплуатации">Начало эксплуатации</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Boeing_737&amp;veaction=edit&amp;section=4" title="Редактировать раздел «Начало эксплуатации»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Boeing_737&amp;action=edit&amp;section=4" title="Редактировать код раздела «Начало эксплуатации»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>В январе <a href="/wiki/1967_%D0%B3%D0%BE%D0%B4" title="1967 год">1967 года</a> первый прототип самолёта Boeing 737, получивший регистровый номер N73700, был подготовлен к первому полёту и последующей программе лётных испытаний и сертификации. 8 апреля 1967 года, спустя год после получения первой сотни заказов на новый лайнер, состоялось первое пробное <a href="/wiki/%D0%A0%D1%83%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5" title="Руление">руление</a> самолёта. 9 апреля в 13:15 на аэродроме Boeing Field состоялся первый полёт самолёта Boeing 737-100 с бортовым номером N73700. Командиром первого экипажа был Брайан Вайгл, помощник директора по лётной эксплуатации. Вторым пилотом стал С. Л. «Лью» Вэллик младший, старший лётчик-испытатель компании Boeing. Первый полёт продлился два с половиной часа. 8 августа поднялся в небо первый Boeing 737-200, предназначавшийся авиакомпании United Airlines, однако, как и первые пять построенных самолётов, до передачи заказчику он сразу же присоединился к программе лётных испытаний и сертификации. Вместе с первым N73700 они налетали более 1300 часов лётных испытаний, включая, впервые в сертификационной программе, выполнение заходов на посадку в метеоусловиях, соответствующих 2-й категории ИКАО (CAT II). Следующий построенный самолёт вообще был принесён в жертву программе испытаний. Самолёт № 3 никогда не поднимался в небо, а предназначался для испытаний на вибрационную устойчивость и разрушающие перегрузки, в результате которых доказал прочность конструкции Boeing 737 и точность инженерных расчётов. В 1967 году количество заказанных самолётов достигло 141 единицы<sup class="reference" id="cite_ref-Hill_4-2"><a href="#cite_note-Hill-4">[4]</a></sup>.
+</p><p>В декабре 1967 года оба типа Boeing 737-100 и -200 одновременно получили сертификаты типа и были готовы для эксплуатации в авиакомпаниях. Первые построенные самолёты, участвовавшие в программе испытаний, были, наконец, переданы своим новым владельцам для переучивания и подготовки экипажей. Огромный объём проведённой программы испытаний можно оценить по количеству изменений, внесённых в конструкцию самолёта на основе полученных данных. Например, изначально Boeing 737 оснащался механизмом реверса тяги со створками (как на Boeing 727). Однако, в процессе испытаний такой механизм в конфигурации Boeing 737 оказался малоэффективным, и для его замены был разработан и испытан другой тип дефлектора. На первых построенных самолётах старый тип реверса заменили на новый, ставший с тех пор стандартным. Кроме того, для закрытия ниши основных стоек шасси после их уборки или выпуска изначально предполагалось использовать специальные надувные створки, накачиваемые для закрытия ниши давлением от пневмосистемы. После испытаний на прототипе от таких створок отказались. Более серьёзной проблемой, выявленной в ходе испытаний, оказалось повышенное лобовое сопротивление, превышавшее расчётные значения особенно сильно на крейсерском режиме полёта. Фактически, сопротивление оказалось на 5 % выше ожидаемого, что приводило к потере скорости полёта в 55 км/ч. К счастью, значение подъёмной силы тоже оказалось превосходящим расчётное, а наличие более мощных двигателей <a href="/wiki/Pratt_%26_Whitney_JT8D" title="Pratt &amp; Whitney JT8D">JT8D-9</a> с ограниченной тягой позволило даже увеличить эксплуатационную массу самолёта. Благодаря этому удалось достичь всех заявленных характеристик самолёта. Однако для долгосрочного решения проблемы была начата серия испытаний в аэродинамической трубе. Спустя десять месяцев эти испытания привели к аэродинамическим изменениям в конструкции уже серийных самолётов, а для модернизации уже выпущенных за этот период и эксплуатируемых машин предназначались специальные комплекты для доработки<sup class="reference" id="cite_ref-Hill_4-3"><a href="#cite_note-Hill-4">[4]</a></sup>.
+</p><p>Boeing 737-100 был введён в эксплуатацию в западногерманской авиакомпании Люфтганза в феврале <a href="/wiki/1968_%D0%B3%D0%BE%D0%B4" title="1968 год">1968 года</a>.
+</p><p>После передачи первого серийного самолёта заказчику работа над прототипом N73700 переключилась на разработку изменений конструкции, которые позволили бы эксплуатировать Boeing 737 на взлётно-посадочных полосах (ВПП), не имеющих прочного искусственного покрытия. Изменения коснулись механизации крыла, была улучшена тормозная система и установлены пневматики шин с низким давлением. Кроме того, для защиты нижней части фюзеляжа и воздухозаборников двигателей от повреждения камнями и прочими посторонними предметами были установлены специальные дефлекторы. Сертификация использования самолёта на гравийных ВПП была намечена FAA на февраль <a href="/wiki/1969_%D0%B3%D0%BE%D0%B4" title="1969 год">1969 года</a>. В апреле и мае прототип N73700 успешно продемонстрировал представителям авиакомпаний и правительственного агентства свои способности по работе с ВПП без жёсткого покрытия. В таких возможностях самолёта были, в особенности, заинтересованы такие авиакомпании, как Wien Consolidated, Nordair и Pacific Western. Эти перевозчики уже планировали использовать свои Boeing 737 для полётов в небольшие отдалённые населённые пункты своих обширных маршрутных сетей Аляски и северной Канады, где зачастую инфраструктура аэропортов была минимальной, а ВПП не имели прочного покрытия. Способность Boeing 737 выполнять рейсы в далёкие малонаселённые районы стала одним из его неоспоримых преимуществ<sup class="reference" id="cite_ref-Hill_4-4"><a href="#cite_note-Hill-4">[4]</a></sup>.
+</p>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Boeing_737-2V6_Advanced_Cockpit_Dubai_Air_Show_Ryabtsev.jpg"><img class="mw-file-element" data-file-height="799" data-file-width="1200" decoding="async" height="166" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Boeing_737-2V6_Advanced_Cockpit_Dubai_Air_Show_Ryabtsev.jpg/250px-Boeing_737-2V6_Advanced_Cockpit_Dubai_Air_Show_Ryabtsev.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Boeing_737-2V6_Advanced_Cockpit_Dubai_Air_Show_Ryabtsev.jpg/375px-Boeing_737-2V6_Advanced_Cockpit_Dubai_Air_Show_Ryabtsev.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Boeing_737-2V6_Advanced_Cockpit_Dubai_Air_Show_Ryabtsev.jpg/500px-Boeing_737-2V6_Advanced_Cockpit_Dubai_Air_Show_Ryabtsev.jpg 2x" width="250"/></a><figcaption>Кабина Boeing 737-200</figcaption></figure>
+<p>Изначально окончательная сборка Boeing 737 осуществлялась на новом заводе в Boeing Field, неподалёку от <a href="/wiki/%D0%A1%D0%B8%D1%8D%D1%82%D0%BB" title="Сиэтл">Сиэтла</a>. Крыло и фюзеляж самолёта производились на уже существовавшем заводе № 2 (Plant 2). Хвостовая часть собиралась на заводе <a href="/wiki/Boeing" title="Boeing">Boeing</a> в <a class="mw-redirect" href="/wiki/%D0%92%D0%B8%D1%87%D0%B8%D1%82%D0%B0" title="Вичита">Вичита</a>. Бо́льшая часть производства других частей конструкции Boeing 737, например шасси и почти всех элементов интерьера салона, была передана сторонним подрядчикам. В 1967 году завод в <a class="mw-redirect" href="/wiki/%D0%92%D0%B8%D1%87%D0%B8%D1%82%D0%B0" title="Вичита">Вичита</a> стал ответственным за сборку фюзеляжей для всех моделей 737. После сборки готовые фюзеляжи по железной дороге перевозились уже на сборочную линию (такую практику продолжают по сей день). В <a href="/wiki/1970_%D0%B3%D0%BE%D0%B4" title="1970 год">1970 году</a>, после крупной реорганизации в компании по причине финансовых проблем, вся деятельность по окончательной сборке самолётов была переведена немного южнее — на завод «<a href="/wiki/Boeing" title="Boeing">Boeing</a>» в <a href="/wiki/%D0%A0%D0%B5%D0%BD%D1%82%D0%BE%D0%BD_(%D0%92%D0%B0%D1%88%D0%B8%D0%BD%D0%B3%D1%82%D0%BE%D0%BD)" title="Рентон (Вашингтон)">Рентоне</a>. К этому времени были построены уже 271 Boeing 737<sup class="reference" id="cite_ref-Hill_4-5"><a href="#cite_note-Hill-4">[4]</a></sup>.
+</p><p>Модификации -100 и -200 узнаваемы благодаря сигарообразной гондоле двигателя, почти полностью встроенной в крыло от его передней до задней кромки. Также эти модели легко узнать по плавному изгибу передней кромки киля, сочленяющейся с фюзеляжем. На первых моделях Boeing 737 использовались двигатели <a class="mw-redirect" href="/wiki/Pratt_and_Whitney" title="Pratt and Whitney">Pratt and Whitney</a> <a class="mw-redirect" href="/wiki/JT8D" title="JT8D">JT8D</a> с малой <a href="/wiki/%D0%A1%D1%82%D0%B5%D0%BF%D0%B5%D0%BD%D1%8C_%D0%B4%D0%B2%D1%83%D1%85%D0%BA%D0%BE%D0%BD%D1%82%D1%83%D1%80%D0%BD%D0%BE%D1%81%D1%82%D0%B8" title="Степень двухконтурности">степенью двухконтурности</a>.
+</p>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:S7_Airlines_Boeing_737-8ZS_flight_deck_Beltyukov.jpg"><img class="mw-file-element" data-file-height="584" data-file-width="877" decoding="async" height="166" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/S7_Airlines_Boeing_737-8ZS_flight_deck_Beltyukov.jpg/250px-S7_Airlines_Boeing_737-8ZS_flight_deck_Beltyukov.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/S7_Airlines_Boeing_737-8ZS_flight_deck_Beltyukov.jpg/375px-S7_Airlines_Boeing_737-8ZS_flight_deck_Beltyukov.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/53/S7_Airlines_Boeing_737-8ZS_flight_deck_Beltyukov.jpg/500px-S7_Airlines_Boeing_737-8ZS_flight_deck_Beltyukov.jpg 2x" width="250"/></a><figcaption>Кабина Boeing 737-800</figcaption></figure>
+<p>Boeing 737-200 с удлинённым <a href="/wiki/%D0%A4%D1%8E%D0%B7%D0%B5%D0%BB%D1%8F%D0%B6" title="Фюзеляж">фюзеляжем</a> стал гораздо более популярным и производился до <a href="/wiki/1988_%D0%B3%D0%BE%D0%B4" title="1988 год">1988 года</a>. Первым заказчиком этой модификации стала американская авиакомпания «United Airlines». После выпуска 135 самолётов Boeing разработал принципиально новый, более эффективный механизм реверса, но такое усовершенствование обошлось Boeing в 24 млн долл. Впоследствии семейство получило название 737 Original.
+</p>
+<h3><span id=".D0.A0.D0.B0.D0.B7.D1.80.D0.B0.D0.B1.D0.BE.D1.82.D0.BA.D0.B0_-_.D0.BF.D0.BE.D0.BA.D0.BE.D0.BB.D0.B5.D0.BD.D0.B8.D0.B5_Classic"></span><span class="mw-headline" id="Разработка_-_поколение_Classic">Разработка - поколение Classic</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Boeing_737&amp;veaction=edit&amp;section=5" title="Редактировать раздел «Разработка - поколение Classic»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Boeing_737&amp;action=edit&amp;section=5" title="Редактировать код раздела «Разработка - поколение Classic»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>В начале <a href="/wiki/1980-%D0%B5_%D0%B3%D0%BE%D0%B4%D1%8B" title="1980-е годы">1980-х</a> Boeing 737 подвергся первому серьёзному перепроектированию. Самым большим изменением стало использование двигателей <a href="/wiki/CFM_International" title="CFM International">CFM International</a> <a class="mw-redirect" href="/wiki/CFM56" title="CFM56">CFM56</a> вместо JT8D. CFM56 — <a href="/wiki/%D0%A2%D1%83%D1%80%D0%B1%D0%BE%D0%B2%D0%B5%D0%BD%D1%82%D0%B8%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%BD%D1%8B%D0%B9_%D0%B4%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%B5%D0%BB%D1%8C" title="Турбовентиляторный двигатель">турбовентиляторный</a> двигатель с высокой степенью двухконтурности. Он значительно больше в диаметре, поэтому был подвешен под крылом на пилонах, а от принципа встроенного двигателя отказались. Но маленький <a href="/wiki/%D0%94%D0%BE%D1%80%D0%BE%D0%B6%D0%BD%D1%8B%D0%B9_%D0%BF%D1%80%D0%BE%D1%81%D0%B2%D0%B5%D1%82" title="Дорожный просвет">клиренс</a> самолёта (черта, заимствованная у Boeing 707) в этом случае создавал проблему, поэтому было решено агрегаты, расположенные обычно снизу двигателя, разместить по бокам от секции компрессора. С этим связана необычная «расплющенность» гондолы. В то же время, кабина 737 была усовершенствована до уровня <a href="/wiki/Boeing_757" title="Boeing 757">Boeing 757</a> и <a href="/wiki/Boeing_767" title="Boeing 767">767</a>. Первая модель самолётов нового семейства Classic — 737-300 была введена в эксплуатацию в <a href="/wiki/1984_%D0%B3%D0%BE%D0%B4" title="1984 год">1984 году</a>. В дальнейшем это поколение пополнилось самолётами 737-400 и 737-500.
+</p>
+<h3><span id=".D0.A0.D0.B0.D0.B7.D1.80.D0.B0.D0.B1.D0.BE.D1.82.D0.BA.D0.B0_-_.D0.BF.D0.BE.D0.BA.D0.BE.D0.BB.D0.B5.D0.BD.D0.B8.D0.B5_Next_Generation"></span><span class="mw-headline" id="Разработка_-_поколение_Next_Generation">Разработка - поколение Next Generation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Boeing_737&amp;veaction=edit&amp;section=6" title="Редактировать раздел «Разработка - поколение Next Generation»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Boeing_737&amp;action=edit&amp;section=6" title="Редактировать код раздела «Разработка - поколение Next Generation»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>К <a href="/wiki/1990-%D0%B5_%D0%B3%D0%BE%D0%B4%D1%8B" title="1990-е годы">1990-м годам</a> Boeing 737 уступил технологическое превосходство <a href="/wiki/Airbus_A320" title="Airbus A320">А320</a>. В <a href="/wiki/1993_%D0%B3%D0%BE%D0%B4" title="1993 год">1993 году</a> была запущена программа 737-X, или NG (Next Generation — новое поколение).
+</p><p>Семейство 737 NG включает в себя серии 737-600, -700, -800 и -900, заметно отличающиеся от первых самолётов семейства 737 Original. 737 NG — это полностью новые серии, имеющие, за исключением конструкции фюзеляжа, мало общего с первыми моделями Boeing 737 Original. Главными изменениями стали новое крыло, новая <a href="/wiki/%D0%90%D0%B2%D0%B8%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0" title="Авионика">авионика</a>, усовершенствованные двигатели. На NG была установлена так называемая «<a href="/wiki/%D0%A1%D1%82%D0%B5%D0%BA%D0%BB%D1%8F%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BA%D0%B0%D0%B1%D0%B8%D0%BD%D0%B0" title="Стеклянная кабина">стеклянная кабина</a>», оснащённая дисплеями на <a class="mw-redirect" href="/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D0%BE-%D0%BB%D1%83%D1%87%D0%B5%D0%B2%D0%B0%D1%8F_%D1%82%D1%80%D1%83%D0%B1%D0%BA%D0%B0" title="Электронно-лучевая трубка">электронно-лучевых трубках</a>, а позже — на <a class="mw-redirect" href="/wiki/%D0%96%D0%9A-%D0%B4%D0%B8%D1%81%D0%BF%D0%BB%D0%B5%D0%B9" title="ЖК-дисплей">жидких кристаллах</a> вместо привычных «будильников» — <a href="/wiki/%D0%A6%D0%B8%D1%84%D0%B5%D1%80%D0%B1%D0%BB%D0%B0%D1%82" title="Циферблат">циферблатных</a> аналоговых приборов и цифровыми системами. Бо́льшая часть этих систем была заимствована уже у <a href="/wiki/Boeing_777" title="Boeing 777">Boeing 777</a>, так же, как и дизайн кабины и пассажирского салона. Общее количество деталей самолёта сократилось на треть, что уменьшило его массу, повысило технологичность и улучшило управляемость. К дополнительным преобразованиям относятся также опциональные вертикальные законцовки крыльев — <a class="mw-redirect" href="/wiki/%D0%92%D0%B8%D0%BD%D0%B3%D0%BB%D0%B5%D1%82" title="Винглет">винглеты</a> (winglets), существенно сокращающие расход топлива и улучшающие взлётно-посадочные характеристики. Появилась возможность установки винглетов и на самолёты, изначально ими не оснащённые (в том числе ранних серий).
+</p><p>С <a href="/wiki/2001_%D0%B3%D0%BE%D0%B4" title="2001 год">2001 года</a> путём удлинения фюзеляжа был создан самолёт Boeing 737-900, который на самом деле вмещает пассажиров больше, чем Boeing 707 и выступает в одном классе с Boeing 757. За одну неделю заказов на 737-900 поступило больше, чем на все семейство 757 за весь <a href="/wiki/2004_%D0%B3%D0%BE%D0%B4" title="2004 год">2004 год</a>. В <a href="/wiki/2005_%D0%B3%D0%BE%D0%B4" title="2005 год">2005 году</a> Boeing 737 утратил одну из своих главных отличительных черт — дополнительные «надбровные» окна, расположенные поверх основного лобового окна, в кабине пилотов. В 1960-х годах такие стекла являлись требованием <a href="/wiki/%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B9_%D0%B0%D0%B2%D0%B8%D0%B0%D1%86%D0%B8%D0%B8_%D0%A1%D0%A8%D0%90" title="Федеральное управление гражданской авиации США">Федерального управления гражданской авиации США</a> при лётной сертификации по улучшению обзора при больших углах крена. Однако сегодня это не требуется, и Boeing предлагает заказчикам самолётов эту опцию на выбор.
+</p><p>В июле 2005 года Boeing объявил о начале работ по созданию варианта 737-900ER (Extended range — увеличенная дальность), ранее известного под обозначением 737-900X. 737-900ER по размерам аналогичен 737-900, но на нём установлена дополнительная пара дверей. <a href="/wiki/%D0%9F%D0%B0%D1%81%D1%81%D0%B0%D0%B6%D0%B8%D1%80%D0%BE%D0%B2%D0%BC%D0%B5%D1%81%D1%82%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C" title="Пассажировместимость">Пассажировместимость</a> увеличена до 215 (на 26 больше, чем у 737-800). Первый самолёт планировалось поставить в первой половине <a href="/wiki/2007_%D0%B3%D0%BE%D0%B4" title="2007 год">2007 года</a>. Первый оператор — <a href="/wiki/Lion_Air" title="Lion Air">Lion Air</a> с заказом на 30 самолётов.
+</p><p>Также, было объявлено о работах над самолётом 737-700ER. По размерам он опять же схож со своим прототипом, но на нём установлены дополнительные топливные баки и увеличен максимальный взлётный вес. Первый заказчик — японская <a href="/wiki/All_Nippon_Airways" title="All Nippon Airways">All Nippon Airways</a>.
+</p><p>Boeing намекал, что следующим большим проектом после <a class="mw-redirect" href="/wiki/Boeing_787" title="Boeing 787">Boeing 787</a> будет самолёт для замены всего семейства 737, хотя не совсем ясно, будет ли разработана новая конструкция в течение ближайших 7—10 лет. Тем не менее, такой самолёт сегодня обозначается как 737RS. (Семейство 737 продолжается новым поколением!?)
+</p><p><a href="/wiki/13_%D1%84%D0%B5%D0%B2%D1%80%D0%B0%D0%BB%D1%8F" title="13 февраля">13 февраля</a> <a href="/wiki/2006_%D0%B3%D0%BE%D0%B4" title="2006 год">2006 года</a> Boeing поставил 5000-й самолёт — Boeing 737-700. Он стал 447-м самолётом этого семейства в составе флота <a href="/wiki/Southwest_Airlines" title="Southwest Airlines">Southwest Airlines</a>.
+</p><p>16 апреля <a href="/wiki/2014_%D0%B3%D0%BE%D0%B4" title="2014 год">2014 года</a> был поставлен 8000-й самолёт семейства 737. Им стал Boeing 737-900ER авиакомпании <a href="/wiki/United_Airlines" title="United Airlines">United Airlines</a><sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup>.
+</p>
+<h2><span id=".D0.9F.D0.BE.D0.BA.D0.BE.D0.BB.D0.B5.D0.BD.D0.B8.D1.8F_.D1.81.D0.B0.D0.BC.D0.BE.D0.BB.D1.91.D1.82.D0.BE.D0.B2_.D1.81.D0.B5.D0.BC.D0.B5.D0.B9.D1.81.D1.82.D0.B2.D0.B0_Boeing_737"></span><span class="mw-headline" id="Поколения_самолётов_семейства_Boeing_737">Поколения самолётов семейства Boeing 737</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Boeing_737&amp;veaction=edit&amp;section=7" title="Редактировать раздел «Поколения самолётов семейства Boeing 737»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Boeing_737&amp;action=edit&amp;section=7" title="Редактировать код раздела «Поколения самолётов семейства Boeing 737»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Все семейство самолётов Boeing 737 разделено на 4 поколения:
+</p>
+<ul><li>737 Original: 737-100, -200 (производились с <a class="mw-redirect" href="/wiki/1967" title="1967">1967</a> по <a href="/wiki/1988_%D0%B3%D0%BE%D0%B4" title="1988 год">1988 год</a>).</li>
+<li>737 Classic: 737-300, -400, -500 (производились с <a class="mw-redirect" href="/wiki/1983" title="1983">1983</a> по <a href="/wiki/2000_%D0%B3%D0%BE%D0%B4" title="2000 год">2000 год</a>).</li>
+<li>737 Next Generation: 737-600, -700, -700ER, -800, -900, -900ER, BBJ, BBJ2 (производятся с <a href="/wiki/1997_%D0%B3%D0%BE%D0%B4" title="1997 год">1997 года</a>).</li>
+<li>737 MAX: 737 МАХ 7, МАХ 8, МАХ 9, MAX 10  (первый полёт выполнен в 2016 году).</li></ul>
+<p>Подавляющее большинство эксплуатируемых самолётов Boeing 737 — коммерческие самолёты поколений Classic и Next Generation.
+</p><p>Авиалинии обозначают самолёты следующим образом: Boeing 737-200 — B732, Boeing 737-600 — B736, Boeing 737-700 — B73G, Boeing 737-800 — B73H. Самолёты, оснащённые вертикальными законцовками (winglets), обозначаются как 737W или 739W. По большей части обозначения модификаций самолёта символизируют длину фюзеляжа, хотя обозначений всего 9, а вариантов фюзеляжа — 6. Они распределяются так (по возрастанию длины): 1) -100; 2) -200, -500, -600; 3) -300, -700; 4) -400; 5) -800; 6) -900.
+</p><p><span id="Original_series"><span id="Original_series"></span></span>
+</p>
+<h3><span id=".D0.9F.D0.BE.D0.BA.D0.BE.D0.BB.D0.B5.D0.BD.D0.B8.D0.B5_737_Original_.28-100.2F-200.29"></span><span class="mw-headline" id="Поколение_737_Original_(-100/-200)">Поколение 737 Original (-100/-200)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Boeing_737&amp;veaction=edit&amp;section=8" title="Редактировать раздел «Поколение 737 Original (-100/-200)»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Boeing_737&amp;action=edit&amp;section=8" title="Редактировать код раздела «Поколение 737 Original (-100/-200)»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Boeing_737-130,_Lufthansa_AN2056613.jpg"><img class="mw-file-element" data-file-height="600" data-file-width="900" decoding="async" height="167" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Boeing_737-130%2C_Lufthansa_AN2056613.jpg/250px-Boeing_737-130%2C_Lufthansa_AN2056613.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Boeing_737-130%2C_Lufthansa_AN2056613.jpg/375px-Boeing_737-130%2C_Lufthansa_AN2056613.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Boeing_737-130%2C_Lufthansa_AN2056613.jpg/500px-Boeing_737-130%2C_Lufthansa_AN2056613.jpg 2x" width="250"/></a><figcaption>737—100 <a href="/wiki/Lufthansa" title="Lufthansa">Lufthansa</a></figcaption></figure>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Boeing_737-222,_United_Airlines_AN1045540.jpg"><img class="mw-file-element" data-file-height="702" data-file-width="1024" decoding="async" height="171" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Boeing_737-222%2C_United_Airlines_AN1045540.jpg/250px-Boeing_737-222%2C_United_Airlines_AN1045540.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Boeing_737-222%2C_United_Airlines_AN1045540.jpg/375px-Boeing_737-222%2C_United_Airlines_AN1045540.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Boeing_737-222%2C_United_Airlines_AN1045540.jpg/500px-Boeing_737-222%2C_United_Airlines_AN1045540.jpg 2x" width="250"/></a><figcaption>737—200 <a href="/wiki/United_Airlines" title="United Airlines">United Airlines</a></figcaption></figure>
+<p>Самолёты поколения 737 Original быстро потеряли свою популярность из-за топливной неэффективности, высокой шумности (несмотря на установку на двигатели шумоглушащих устройств) и дорогостоящего обслуживания. Boeing 737-100 больше не эксплуатируется. Большинство самолётов 737-200 эксплуатируются авиакомпаниями развивающихся стран (в основном африканских). Кабина самолётов 737 Original спроектирована для двух пилотов — значительное изменение по сравнению с <a href="/wiki/Boeing_727" title="Boeing 727">Boeing 727</a>, где требуется <a href="/wiki/%D0%91%D0%BE%D1%80%D1%82%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80" title="Бортинженер">бортинженер</a>. Кабина, рассчитанная на двух членов экипажа, в дальнейшем стала стандартом для пассажирских самолётов.
+</p>
+<h4><span class="mw-headline" id="737-100">737-100</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Boeing_737&amp;veaction=edit&amp;section=9" title="Редактировать раздел «737-100»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Boeing_737&amp;action=edit&amp;section=9" title="Редактировать код раздела «737-100»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Boeing 737-100 является первой моделью семейства Boeing 737. Всего было поставлено 30 самолётов в 1968-69 годах. К 2007 году не осталось ни одного самолёта этой модели в состоянии лётной годности.
+</p>
+<h4><span class="mw-headline" id="737-200">737-200</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Boeing_737&amp;veaction=edit&amp;section=10" title="Редактировать раздел «737-200»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Boeing_737&amp;action=edit&amp;section=10" title="Редактировать код раздела «737-200»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Boeing 737-200 является удлинённым специально для <a class="mw-redirect" href="/wiki/%D0%A1%D0%A8%D0%90" title="США">американского</a> рынка вариантом модели 737-100. Первым заказчиком стала американская авиакомпания <a href="/wiki/United_Airlines" title="United Airlines">United Airlines</a>. Модификация 737-200С позволяет переделать самолёт из пассажирского в грузопассажирский или грузовой. 737-200QC является модификацией самолёта 737-200C, позволяющей быстро изменять компоновку салона.
+</p><p>Модель 737-200 в 1971 году была модернизирована до 737-200 Advanced (усовершенствованный), которая стала стандартной. Этот вариант также мог быть выполнен в модификациях -200С и -200QC. Кроме этого, существовали варианты 737-200 Executive Jet и 737-200HGW (High Gross Weight).
+</p><p>Всего с 1967 по 1988 год было выпущено 1114 самолётов серии 737-200 всех модификаций.
+</p>
+<h3><span id=".D0.9F.D0.BE.D0.BA.D0.BE.D0.BB.D0.B5.D0.BD.D0.B8.D0.B5_737_Classic_.28-300.2F-400.2F-500.29"></span><span class="mw-headline" id="Поколение_737_Classic_(-300/-400/-500)">Поколение 737 Classic (-300/-400/-500)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Boeing_737&amp;veaction=edit&amp;section=11" title="Редактировать раздел «Поколение 737 Classic (-300/-400/-500)»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Boeing_737&amp;action=edit&amp;section=11" title="Редактировать код раздела «Поколение 737 Classic (-300/-400/-500)»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable">Основная статья: <b><a href="/wiki/Boeing_737_Classic" title="Boeing 737 Classic">Boeing 737 Classic</a></b></div>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Alaskan_Freightdog_(40872772912).jpg"><img class="mw-file-element" data-file-height="1152" data-file-width="2048" decoding="async" height="141" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Alaskan_Freightdog_%2840872772912%29.jpg/250px-Alaskan_Freightdog_%2840872772912%29.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Alaskan_Freightdog_%2840872772912%29.jpg/375px-Alaskan_Freightdog_%2840872772912%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Alaskan_Freightdog_%2840872772912%29.jpg/500px-Alaskan_Freightdog_%2840872772912%29.jpg 2x" width="250"/></a><figcaption>737—400 <a href="/wiki/Alaska_Airlines" title="Alaska Airlines">Alaska Airlines Cargo</a></figcaption></figure>
+<p>Самолёты серий 737-100 и -200 со временем все более устаревали и утрачивали рентабельность и проигрывали конкурентную борьбу самолётам семейства <a class="mw-redirect" href="/wiki/DC-9" title="DC-9">DC-9</a>, хотя двигатели и <a href="/wiki/%D0%90%D0%B2%D0%B8%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0" title="Авионика">авионика</a> на них были усовершенствованы.
+</p><p>В 1979 году «<a href="/wiki/Boeing" title="Boeing">Boeing</a>» начал исследования по проектированию нового самолёта на 150 мест, взяв за основу 737-200 Advanced. В 1980 году самолёт получил обозначение 737-300. В это же время велись работы по созданию новых самолётов <a href="/wiki/Boeing_757" title="Boeing 757">Boeing 757</a> и <a href="/wiki/Boeing_767" title="Boeing 767">Boeing 767</a>, с которыми новый 737-300 получил значительную унификацию авионики.
+</p><p>Boeing 737-300 унаследовал от самолётов серии -200 элементы планера, систему управления полётом, систему кондиционирования и т. д., но в целом это совершенно другой самолёт. -300 получил цифровую авионику, принципиально другой двигатель и новый салон. Изменения аэродинамики привели к появлению <a class="mw-redirect" href="/wiki/%D0%A4%D0%BE%D1%80%D0%BA%D0%B8%D0%BB%D1%8C" title="Форкиль">форкиля</a>, что стало заметным отличием данной модели и последующих от «оригинальных».
+</p>
+<h3><span id=".D0.9F.D0.BE.D0.BA.D0.BE.D0.BB.D0.B5.D0.BD.D0.B8.D0.B5_737_Next_Generation_.28-600.2F-700.2F-800.2F-900.29"></span><span class="mw-headline" id="Поколение_737_Next_Generation_(-600/-700/-800/-900)">Поколение 737 Next Generation (-600/-700/-800/-900)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Boeing_737&amp;veaction=edit&amp;section=12" title="Редактировать раздел «Поколение 737 Next Generation (-600/-700/-800/-900)»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Boeing_737&amp;action=edit&amp;section=12" title="Редактировать код раздела «Поколение 737 Next Generation (-600/-700/-800/-900)»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable">Основная статья: <b><a href="/wiki/Boeing_737_Next_Generation" title="Boeing 737 Next Generation">Boeing 737 Next Generation</a></b></div>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:N785SW_BWI_MD1.jpg"><img class="mw-file-element" data-file-height="2154" data-file-width="3420" decoding="async" height="157" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/N785SW_BWI_MD1.jpg/250px-N785SW_BWI_MD1.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/N785SW_BWI_MD1.jpg/375px-N785SW_BWI_MD1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/42/N785SW_BWI_MD1.jpg/500px-N785SW_BWI_MD1.jpg 2x" width="250"/></a><figcaption>737—700 <a href="/wiki/Southwest_Airlines" title="Southwest Airlines">Southwest Airlines</a></figcaption></figure>
+<p>Поколение Next Generation явилась ответом <a href="/wiki/Boeing" title="Boeing">Boeing</a> на конкуренцию со стороны более высокотехнологичного <a href="/wiki/Airbus_A320" title="Airbus A320">Airbus A320</a>. На самолётах NG установлены цифровые кокпиты, полностью новое крыло (удлинённое на 5,5 метров) и хвостовое оперение, а также усовершенствованные двигатели. Пассажирский салон самолётов этой серии разработан на основе салонов «757» и «767». Даже при разработке самолёта <a href="/wiki/Boeing_777" title="Boeing 777">Boeing 777</a> использовался стиль салона 737NG. В целом, самолёты поколения 737 Next Generation представляют собой рестайлинговую версию самолётов поколения 737 Classic. Большинство систем схематически и функционально почти не изменились, однако агрегатов стало на треть меньше, и большая их часть была переработана, или переделана (имеет другие номера партий). Так как все поколение проектировалось одновременно, цифры в названии самолётов упорядочены в порядке возрастания длины фюзеляжа.
+</p>
+<h3><span id=".D0.A1.D0.B5.D0.BC.D0.B5.D0.B9.D1.81.D1.82.D0.B2.D0.BE_737_MAX_.28-7.2F-8.2F-9.2F-10.29"></span><span class="mw-headline" id="Семейство_737_MAX_(-7/-8/-9/-10)">Семейство 737 MAX (-7/-8/-9/-10)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Boeing_737&amp;veaction=edit&amp;section=13" title="Редактировать раздел «Семейство 737 MAX (-7/-8/-9/-10)»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Boeing_737&amp;action=edit&amp;section=13" title="Редактировать код раздела «Семейство 737 MAX (-7/-8/-9/-10)»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable">Основная статья: <b><a href="/wiki/Boeing_737_MAX" title="Boeing 737 MAX">Boeing 737 MAX</a></b></div>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:9M-LRD_(37495597164).jpg"><img class="mw-file-element" data-file-height="1168" data-file-width="2801" decoding="async" height="104" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5d/9M-LRD_%2837495597164%29.jpg/250px-9M-LRD_%2837495597164%29.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5d/9M-LRD_%2837495597164%29.jpg/375px-9M-LRD_%2837495597164%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5d/9M-LRD_%2837495597164%29.jpg/500px-9M-LRD_%2837495597164%29.jpg 2x" width="250"/></a><figcaption>737 MAX 8 <a href="/wiki/Batik_Air" title="Batik Air">Batik Air</a></figcaption></figure>
+<p>Boeing 737 MAX — новое семейство самолётов, разрабатываемое компанией Boeing для замены семейства Boeing 737 Next Generation. Первый полёт модели Boeing 737 MAX 8 состоялся 29 января 2016 года<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup>.
+</p><p>После <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B0%D1%81%D1%82%D1%80%D0%BE%D1%84%D0%B0_Boeing_737_%D0%BF%D0%BE%D0%B4_%D0%90%D0%B4%D0%B4%D0%B8%D1%81-%D0%90%D0%B1%D0%B5%D0%B1%D0%BE%D0%B9" title="Катастрофа Boeing 737 под Аддис-Абебой">катастрофы 10 марта 2019 года</a>, когда в Эфиопии разбился самолёт модели Boeing 737 MAX 8 и погибло 157 человек, в ряде стран мира были приняты решения о приостановке эксплуатации самолётов этой модели. Последней страной, которая отказалась от борта, стали США. 14 марта 2019 года в небе не осталось ни одного Boeing 737 MAX 8.
+</p><p>18 ноября 2020 года было принято решение, согласно которому самолёты могут вернуться к коммерческой эксплуатации. Однако на июль 2021 <a href="/wiki/%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%B0%D0%B3%D0%B5%D0%BD%D1%82%D1%81%D1%82%D0%B2%D0%BE_%D0%B2%D0%BE%D0%B7%D0%B4%D1%83%D1%88%D0%BD%D0%BE%D0%B3%D0%BE_%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%B0" title="Федеральное агентство воздушного транспорта">Росавиация</a> так и не дала разрешение на эксплуатацию этих моделей, а авиакомпании (в частности «<a href="/wiki/%D0%9F%D0%BE%D0%B1%D0%B5%D0%B4%D0%B0_(%D0%B0%D0%B2%D0%B8%D0%B0%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F)" title="Победа (авиакомпания)">Победа</a>») все чаще отказываются от закупки самолётов семейства 737 MAX<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup>.
+</p>
+<h3><span id=".D0.92.D0.BE.D0.B5.D0.BD.D0.BD.D1.8B.D0.B5_.D0.B2.D0.B0.D1.80.D0.B8.D0.B0.D0.BD.D1.82.D1.8B"></span><span class="mw-headline" id="Военные_варианты">Военные варианты</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Boeing_737&amp;veaction=edit&amp;section=14" title="Редактировать раздел «Военные варианты»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Boeing_737&amp;action=edit&amp;section=14" title="Редактировать код раздела «Военные варианты»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Существует несколько типов военных самолётов, которые созданы на базе гражданских Boeing 737 для специальных целей.
+</p>
+<ul><li><b>Т-43</b> — Boeing 737-200, используемый для подготовки штурманов в <a class="mw-redirect" href="/wiki/%D0%92%D0%92%D0%A1_%D0%A1%D0%A8%D0%90" title="ВВС США">ВВС США</a>. Некоторые из этих самолётов были переоборудованы в СТ-43 для перевозки людей.</li>
+<li><b>SLAMMR</b> — самолёт морской разведки, либо транспортный самолёт, оснащённый многофункциональным бортовым радаром. 3 таких самолёта были проданы ВВС <a href="/wiki/%D0%98%D0%BD%D0%B4%D0%BE%D0%BD%D0%B5%D0%B7%D0%B8%D1%8F" title="Индонезия">Индонезии</a>.</li>
+<li><b>C-40 Clipper</b> — разработанная на основе 737-700С замена для C-9 Skytrain II. С-40В и С-40С используется ВВС США для перевозки высокопоставленных военных чинов.</li>
+<li><b><a href="/wiki/Boeing_737_AEW%26C" title="Boeing 737 AEW&amp;C">Boeing 737 AEW&amp;C</a> (Project Wedgetail)</b> — самолёт дальнего радиолокационного дозора на основе Boeing 737-700IGW. Первым заказчиком самолёта были ВВС <a href="/wiki/%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B0%D0%BB%D0%B8%D1%8F" title="Австралия">Австралии</a>. Кроме того, ожидаются заказы от <a href="/wiki/%D0%A2%D1%83%D1%80%D1%86%D0%B8%D1%8F" title="Турция">Турции</a>, <a href="/wiki/%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0_%D0%9A%D0%BE%D1%80%D0%B5%D1%8F" title="Республика Корея">Южной Кореи</a> и <a href="/wiki/%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F" title="Италия">Италии</a>.</li>
+<li><b><a href="/wiki/Boeing_P-8_Poseidon" title="Boeing P-8 Poseidon">P-8</a></b> — многофункциональный самолёт для авиации ВМС, разработанный на основе 737-800ERX, призванный заменить уже устаревший легендарный противолодочный самолёт времён <a href="/wiki/%D0%A5%D0%BE%D0%BB%D0%BE%D0%B4%D0%BD%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0" title="Холодная война">холодной войны</a> <a class="mw-redirect" href="/wiki/P-3_Orion" title="P-3 Orion">P-3 Orion</a>. Ожидается не менее 100 заказов, в первую очередь от ВМС США. Возможны заказы от стран <a href="/wiki/%D0%9D%D0%90%D0%A2%D0%9E" title="НАТО">НАТО</a>. Самолёт уникален тем, что его крылья венчают загнутые как у <a href="/wiki/Boeing_767" title="Boeing 767">Boeing 767-400</a> внутрь законцовки крыла, а не вертикальные, как у Boeing 737-800.</li></ul>
+<h2><span id=".D0.9B.D1.91.D1.82.D0.BD.D0.BE-.D1.82.D0.B5.D1.85.D0.BD.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D1.85.D0.B0.D1.80.D0.B0.D0.BA.D1.82.D0.B5.D1.80.D0.B8.D1.81.D1.82.D0.B8.D0.BA.D0.B8"></span><span class="mw-headline" id="Лётно-технические_характеристики">Лётно-технические характеристики</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Boeing_737&amp;veaction=edit&amp;section=15" title="Редактировать раздел «Лётно-технические характеристики»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Boeing_737&amp;action=edit&amp;section=15" title="Редактировать код раздела «Лётно-технические характеристики»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable" style="text-align:center">
+<tbody><tr>
+<th>
+</th>
+<th>737-100</th>
+<th>737-200</th>
+<th>737-300</th>
+<th>737-400</th>
+<th>737-500</th>
+<th>737-600</th>
+<th>737-700</th>
+<th>737-800</th>
+<th>737-900</th>
+<th>737-900ER
+</th></tr>
+<tr>
+<th>Длина, м
+</th>
+<td>28,63</td>
+<td>30,53</td>
+<td>33,25</td>
+<td>36,40</td>
+<td>31,01</td>
+<td>31,24</td>
+<td>33,63</td>
+<td>39,47</td>
+<td>42,11</td>
+<td>42,11
+</td></tr>
+<tr>
+<th>Размах крыла, м
+</th>
+<td colspan="2">28,35</td>
+<td colspan="3">28,88</td>
+<td colspan="5">34,32
+</td></tr>
+<tr>
+<th>Высота, м
+</th>
+<td colspan="2">11,23</td>
+<td colspan="3">11,07</td>
+<td colspan="2">12,67</td>
+<td colspan="3">12,62
+</td></tr>
+<tr>
+<th>Ширина фюзеляжа, м
+</th>
+<td colspan="10">3,76
+</td></tr>
+<tr>
+<th>Ширина салона, м
+</th>
+<td colspan="10">3,54
+</td></tr>
+<tr>
+<th>Высота салона, м
+</th>
+<td>2,19</td>
+<td>2,11</td>
+<td colspan="8">2,20
+</td></tr>
+<tr>
+<th>Максимальное число мест
+</th>
+<td>103</td>
+<td>133</td>
+<td>149</td>
+<td>168</td>
+<td>132</td>
+<td>130</td>
+<td>149</td>
+<td>189</td>
+<td>189</td>
+<td>215
+</td></tr>
+<tr>
+<th>Крейсерская скорость, км/ч
+</th>
+<td colspan="2">817</td>
+<td colspan="3">807</td>
+<td colspan="5">852
+</td></tr>
+<tr>
+<th>Максимальная
+<p>скорость в полёте, узлов
+</p>
+</th>
+<td colspan="2">350</td>
+<td colspan="3">350</td>
+<td colspan="5">330
+</td></tr>
+<tr>
+<th>Дальность полёта, км
+</th>
+<td>2592</td>
+<td>3518</td>
+<td>4176
+</td>
+<td>3815</td>
+<td>4398</td>
+<td>5648</td>
+<td>6230</td>
+<td>5765</td>
+<td>5800</td>
+<td>5925
+</td></tr>
+<tr>
+<th>Перегоночная дальность, км
+</th>
+<td>3148</td>
+<td>4444</td>
+<td>6670</td>
+<td>5000</td>
+<td>5200</td>
+<td>5648</td>
+<td>6230</td>
+<td>5765</td>
+<td>5800</td>
+<td>5925
+</td></tr>
+<tr>
+<th>Потолок, м
+</th>
+<td colspan="2">10 670</td>
+<td>10 700</td>
+<td>11 300</td>
+<td>11 300</td>
+<td>12 500</td>
+<td>12 500</td>
+<td>12 500</td>
+<td>12 500</td>
+<td>12 500
+</td></tr>
+<tr>
+<th>Длина разбега, м
+</th>
+<td>1290</td>
+<td>2058</td>
+<td>2012</td>
+<td>2356</td>
+<td>1860</td>
+<td>1799</td>
+<td>1677</td>
+<td>2241</td>
+<td>2408</td>
+<td>2450
+</td></tr>
+<tr>
+<th>Длина пробега, м
+</th>
+<td>1180</td>
+<td>1350</td>
+<td>1400</td>
+<td>1540</td>
+<td>1360</td>
+<td>1340</td>
+<td>1430</td>
+<td>1630</td>
+<td>1700</td>
+<td>1750
+</td></tr>
+<tr>
+<th>Максимальная взлётная масса, кг
+</th>
+<td>43 998</td>
+<td>45 359</td>
+<td>56 472</td>
+<td>62 823</td>
+<td>52 390</td>
+<td>56 245</td>
+<td>70 080</td>
+<td>79 015</td>
+<td>79 000</td>
+<td>85 200
+</td></tr>
+<tr>
+<th>Масса пустого снаряжённого, кг
+</th>
+<td>26 581</td>
+<td>27 170</td>
+<td>31 479</td>
+<td>33 189</td>
+<td>31 311</td>
+<td>36 378</td>
+<td>37 648</td>
+<td>41 413</td>
+<td>42 901</td>
+<td>44 677
+</td></tr>
+<tr>
+<th>Запас топлива, л
+</th>
+<td>13 399</td>
+<td>13 096</td>
+<td>20 102</td>
+<td>20 102</td>
+<td>20 102</td>
+<td>26 022</td>
+<td>26 022</td>
+<td>26 022</td>
+<td>26 022</td>
+<td>26 025
+</td></tr>
+<tr>
+<th>Запас топлива, кг
+</th>
+<td>10 758</td>
+<td>10 515</td>
+<td>16 141</td>
+<td>16 141</td>
+<td>16 141</td>
+<td>20 894</td>
+<td>20 894</td>
+<td>20 894</td>
+<td>20 894</td>
+<td>20 894
+</td></tr>
+<tr>
+<th>Удельный расход топлива, г/пасс.-км
+</th>
+<td>-</td>
+<td>-</td>
+<td>25,5</td>
+<td>20,9</td>
+<td>25,5</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-
+</td></tr>
+<tr>
+<th>Двигатели<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup>
+</th>
+<td><a href="/wiki/Pratt_%26_Whitney" title="Pratt &amp; Whitney">P &amp; W JT8D-7</a></td>
+<td>P &amp; W JT8D-9/9A</td>
+<td><a href="/wiki/CFM_International_CFM56" title="CFM International CFM56">CFM56-3B1</a></td>
+<td>CFM56-3B2</td>
+<td>CFM56-3B1</td>
+<td>CFM56-7B18
+<p>CFM56-7B20
+</p><p>CFM56-7B22
+</p>
+</td>
+<td>CFM56-7B20
+<p>CFM56-7B22
+</p><p>CFM56-7B24
+</p><p>CFM56-7B26
+</p><p>CFM56-7B27
+</p>
+</td>
+<td>CFM56-7B24
+<p>CFM56-7B26
+</p><p>CFM56-7B27
+</p>
+</td>
+<td>CFM56-7B24
+<p>CFM56-7B26
+</p><p>CFM56-7B27
+</p>
+</td>
+<td>CFM56-7B24
+<p>CFM56-7B26
+</p><p>CFM56-7B27
+</p>
+</td></tr>
+<tr>
+<th>Тяга, тс
+</th>
+<td>2 × 5,7</td>
+<td>2 × 6,6</td>
+<td>2 × 9,1</td>
+<td>2 × 10</td>
+<td>2 × 9,1</td>
+<td>2 x 8,9
+<p>2 × 9,3
+</p><p>2 x 10,3
+</p>
+</td>
+<td>2 x 9,3
+<p>2 x 10,3
+</p><p>2 x 11,0
+</p><p>2 x 11,9
+</p><p>2 × 12,4
+</p>
+</td>
+<td>2 x 11,0
+<p>2 x 11,9
+</p><p>2 × 12,4
+</p>
+</td>
+<td>2 x 11,0
+<p>2 x 11,9
+</p><p>2 × 12,4
+</p>
+</td>
+<td>2 x 11,0
+<p>2 x 11,9
+</p><p>2 × 12,4
+</p>
+</td></tr>
+<tr>
+<th>Первая поставка
+</th>
+<td>10.02.1968 <a href="/wiki/Lufthansa" title="Lufthansa">Lufthansa</a>
+</td>
+<td>28.04.1968 <a href="/wiki/United_Airlines" title="United Airlines">United Air Lines</a>
+</td>
+<td>28.11.1984 <a href="/wiki/US_Airways" title="US Airways">USAir</a>
+</td>
+<td>15.09.1988 <a href="/wiki/Piedmont_Airlines" title="Piedmont Airlines">Piedmont</a>
+</td>
+<td>28.02.1990 <a href="/wiki/Southwest_Airlines" title="Southwest Airlines">Southwest</a>
+</td>
+<td>xx.08.1998 <a class="mw-redirect" href="/wiki/Scandinavian_Airlines_System" title="Scandinavian Airlines System">SAS</a>
+</td>
+<td>xx.10.1997 Southwest
+</td>
+<td>24.04.1998 <a href="/wiki/Hapag-Lloyd_Flug" title="Hapag-Lloyd Flug">Hapag Lloyd</a>
+</td>
+<td>17.05.2001 <a href="/wiki/Alaska_Airlines" title="Alaska Airlines">Alaska Airlines</a>
+</td>
+<td>27.04.2007 <a href="/wiki/Lion_Air" title="Lion Air">Lion Air</a>
+</td></tr></tbody></table>
+<p>Источник:<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup>,<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup>.
+</p>
+<ul><li>На самолёты этих семейств устанавливались и другие двигатели: <a href="/wiki/Pratt_%26_Whitney" title="Pratt &amp; Whitney">Pratt &amp; Whitney</a> JT8D-7, -9, -5, -17 и -17R (-200), <a href="/wiki/CFM_International" title="CFM International">CFM International</a> <a class="mw-redirect" href="/wiki/CFM56_(%D0%B4%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%B5%D0%BB%D0%B8)" title="CFM56 (двигатели)">CFM56-3С</a> (-300, -400, -500), <a class="mw-redirect" href="/wiki/CFM56_(%D0%B4%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%B5%D0%BB%D0%B8)" title="CFM56 (двигатели)">CFM56-7</a> (-600, -700, -800, -900, -900ER)</li>
+<li>Стоимость (<a href="/wiki/%D0%94%D0%BE%D0%BB%D0%BB%D0%B0%D1%80_%D0%A1%D0%A8%D0%90" title="Доллар США">долларов США</a>): от 51,5 млн до 87 млн в ценах 2008 года<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup>.</li></ul>
+<h2><span id=".D0.90.D1.8D.D1.80.D0.BE.D0.B4.D0.B8.D0.BD.D0.B0.D0.BC.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B0.D1.8F_.D1.81.D1.85.D0.B5.D0.BC.D0.B0"></span><span class="mw-headline" id="Аэродинамическая_схема">Аэродинамическая схема</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Boeing_737&amp;veaction=edit&amp;section=16" title="Редактировать раздел «Аэродинамическая схема»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Boeing_737&amp;action=edit&amp;section=16" title="Редактировать код раздела «Аэродинамическая схема»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Boeing 737 — двухдвигательный <a href="/wiki/%D0%9D%D0%B8%D0%B7%D0%BA%D0%BE%D0%BF%D0%BB%D0%B0%D0%BD" title="Низкоплан">низкоплан</a> с <a class="mw-redirect" href="/wiki/%D0%9A%D1%80%D1%8B%D0%BB%D0%BE_(%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D1%91%D1%82)" title="Крыло (самолёт)">крылом</a> малой стреловидности и однокилевым <a href="/wiki/%D0%9E%D0%BF%D0%B5%D1%80%D0%B5%D0%BD%D0%B8%D0%B5_(%D0%B0%D0%B2%D0%B8%D0%B0%D1%86%D0%B8%D1%8F)" title="Оперение (авиация)">оперением</a>, с <a href="/wiki/%D0%A2%D1%83%D1%80%D0%B1%D0%BE%D0%B2%D0%B5%D0%BD%D1%82%D0%B8%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%BD%D1%8B%D0%B9_%D0%B4%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%B5%D0%BB%D1%8C" title="Турбовентиляторный двигатель">турбовентиляторными</a> двигателями, установленными под крылом. При полной загрузке двигатели находятся на высоте 46 см над покрытием взлётной полосы.
+</p>
+<h2><span id=".D0.9E.D0.B1.D0.BE.D1.80.D1.83.D0.B4.D0.BE.D0.B2.D0.B0.D0.BD.D0.B8.D0.B5.2C_.D1.81.D0.B8.D1.81.D1.82.D0.B5.D0.BC.D1.8B_.D0.B8_.D0.B4.D0.B2.D0.B8.D0.B3.D0.B0.D1.82.D0.B5.D0.BB.D0.B8"></span><span class="mw-headline" id="Оборудование,_системы_и_двигатели">Оборудование, системы и двигатели</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Boeing_737&amp;veaction=edit&amp;section=17" title="Редактировать раздел «Оборудование, системы и двигатели»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Boeing_737&amp;action=edit&amp;section=17" title="Редактировать код раздела «Оборудование, системы и двигатели»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id=".D0.A1.D0.B8.D1.81.D1.82.D0.B5.D0.BC.D0.B0_.D0.BA.D0.BE.D0.BD.D0.B4.D0.B8.D1.86.D0.B8.D0.BE.D0.BD.D0.B8.D1.80.D0.BE.D0.B2.D0.B0.D0.BD.D0.B8.D1.8F_.D0.B2.D0.BE.D0.B7.D0.B4.D1.83.D1.85.D0.B0.2F.D0.BF.D0.BD.D0.B5.D0.B2.D0.BC.D0.BE.D1.81.D0.B8.D1.81.D1.82.D0.B5.D0.BC.D0.B0"></span><span class="mw-headline" id="Система_кондиционирования_воздуха/пневмосистема"><a href="/wiki/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D0%BA%D0%BE%D0%BD%D0%B4%D0%B8%D1%86%D0%B8%D0%BE%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F_%D0%B2%D0%BE%D0%B7%D0%B4%D1%83%D1%85%D0%B0_(%D0%B0%D0%B2%D0%B8%D0%B0%D1%86%D0%B8%D1%8F)" title="Система кондиционирования воздуха (авиация)">Система кондиционирования воздуха</a>/пневмосистема</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Boeing_737&amp;veaction=edit&amp;section=18" title="Редактировать раздел «Система кондиционирования воздуха/пневмосистема»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Boeing_737&amp;action=edit&amp;section=18" title="Редактировать код раздела «Система кондиционирования воздуха/пневмосистема»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Отбор воздуха производится от двигателей и вспомогательной силовой установки (ВСУ). Воздух используется для кондиционирования салона, охлаждения оборудования, противообледенительной системы двигателей и крыла и запуска двигателей. Система кондиционирования воздуха (СКВ) имеет два канала и также может использовать воздух из салона для рециркуляции.
+</p><p>На самолётах 737-300, -500, -600 и -700 СКВ аналогична 737 Original. На самолётах 737-400, -800 и -900 СКВ сильно отличается от остальных, что вызвано увеличенным объёмом салона. «Длинные» самолёты имеют две температурные зоны салона, более развитую систему контроля температуры.
+</p><p>У двигателей самолётов семейств <a href="/wiki/Boeing_737_Classic" title="Boeing 737 Classic">Classic</a> и <a href="/wiki/Boeing_737_Next_Generation" title="Boeing 737 Next Generation">Next Generation</a> воздухозаборники имеют некруглую форму. В боковых наплывах расположены агрегаты двигателя. Такое решение было названо «охомячиванием» (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">hamsterisation</span>).
+</p>
+<h3><span id=".D0.A1.D0.B8.D1.81.D1.82.D0.B5.D0.BC.D0.B0_.D1.8D.D0.BB.D0.B5.D0.BA.D1.82.D1.80.D0.BE.D1.81.D0.BD.D0.B0.D0.B1.D0.B6.D0.B5.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Система_электроснабжения">Система электроснабжения</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Boeing_737&amp;veaction=edit&amp;section=19" title="Редактировать раздел «Система электроснабжения»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Boeing_737&amp;action=edit&amp;section=19" title="Редактировать код раздела «Система электроснабжения»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Первичной системой электроснабжения является система переменного тока с напряжением 115 V и частотой 400 Гц. На самолётах типов 737 Original и 737 Classic источниками электроэнергии являются два двигательных синхронных генератора переменного тока с приводом постоянных оборотов и генератор ВСУ. Мощность генераторов 40 КВА. Синхронная работа не предусмотрена. Вторичной является система постоянного тока напряжением 28 V, источниками энергии которой служат три выпрямительных устройства и аккумуляторная батарея. Опционно на самолётах 737 Classic на двигателях вместо синхронных генераторов могут устанавливаться генераторы переменных оборотов/постоянной частоты.
+</p><p>На самолётах NG система электроснабжения несколько изменена по сравнению с 737 Classic: изменена система распределения электроэнергии, добавлена аккумуляторная батарея для запуска ВСУ и установлены новые генераторы, комбинированные с приводом постоянных оборотов <i>Integrated Driven Generator</i> (<i>IDG </i>) мощностью 90 КВА. На панели управления электрикой установлен цифровой индикатор вместо стрелочных указателей.
+</p>
+<h3><span id=".D0.A1.D0.B8.D1.81.D1.82.D0.B5.D0.BC.D0.B0_.D1.83.D0.BF.D1.80.D0.B0.D0.B2.D0.BB.D0.B5.D0.BD.D0.B8.D1.8F_.D0.BF.D0.BE.D0.BB.D1.91.D1.82.D0.BE.D0.BC"></span><span class="mw-headline" id="Система_управления_полётом">Система управления полётом</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Boeing_737&amp;veaction=edit&amp;section=20" title="Редактировать раздел «Система управления полётом»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Boeing_737&amp;action=edit&amp;section=20" title="Редактировать код раздела «Система управления полётом»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>На самолёте Boeing 737 применена первичная система управления полётом с тросовыми тягами и дублированным бустерным управлением с переходом на безбустерное. Управление производится элеронами, рулями высоты и направления. Руль направления управляется основным или резервным (аварийным) приводами, без возможности ручного управления.
+</p><p>Вторичная система управления полётом представлена предкрылками двух конструкций: <i>Slat</i> — три внешние от пилона секции, и <i>Leading Edge Flap</i> (предкрылки Крюгера) — две внутренние секции. Закрылки — трёхщелевые, двухсекционные. Пять секций спойлеров используются вместе с элеронами и как воздушные тормоза и делятся на полётные спойлеры (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">flight spoilers</span>), работающие всегда, и наземные (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">ground spoilers</span>), работающие только по обжатию правой стойки шасси.
+</p><p>Также самолёт имеет переставной стабилизатор.
+</p><p>На самолётах типа NG во вторичной системе применены новые двухщелевые закрылки, добавлено по одной секции предкрылков и спойлеров (в связи с удлинением крыла на 5,5 метров).
+</p>
+<h3><span id=".D0.A2.D0.BE.D0.BF.D0.BB.D0.B8.D0.B2.D0.BD.D0.B0.D1.8F_.D1.81.D0.B8.D1.81.D1.82.D0.B5.D0.BC.D0.B0"></span><span class="mw-headline" id="Топливная_система">Топливная система</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Boeing_737&amp;veaction=edit&amp;section=21" title="Редактировать раздел «Топливная система»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Boeing_737&amp;action=edit&amp;section=21" title="Редактировать код раздела «Топливная система»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>В крыле и центроплане расположены три топливных бака: крыльевые и центральный. Первым вырабатывается центральный, затем — крыльевые. В каждом баке имеется по два топливных насоса. Общая максимальная вместимость баков самолётов семейства 737 Original от 12 700<span class="nowrap"> кг</span> до 15 600<span class="nowrap"> кг</span>, в зависимости от модификации.
+</p><p>На самолётах семейства 737 Classic вместимость баков увеличена до 16 200<span class="nowrap"> кг</span>, а также имеется возможность установить дополнительный топливный бак в заднем багажнике.
+</p><p>На самолётах 737 NG вместимость баков увеличена до 20 800<span class="nowrap"> кг</span>, изменены топливные баки: центральный бак занимает не только центроплан, но и часть крыла от корня до пилона двигателя. Также поменялось расположение насосов и добавлена система удаления воды из баков.
+</p><p>На самолёты BBJ есть возможность устанавливать до девяти дополнительных топливных баков в багажные отсеки, увеличивая их вместимость до 37 712<span class="nowrap"> кг</span>.
+</p><p>Отсутствует система аварийного слива топлива. В случае аварии пилот вынужден кружить, вырабатывая топливо, либо, если нет времени, садиться с превышением максимальной посадочной массы.
+</p>
+<h3><span id=".D0.93.D0.B8.D0.B4.D1.80.D0.B0.D0.B2.D0.BB.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B0.D1.8F_.D1.81.D0.B8.D1.81.D1.82.D0.B5.D0.BC.D0.B0"></span><span class="mw-headline" id="Гидравлическая_система">Гидравлическая система</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Boeing_737&amp;veaction=edit&amp;section=22" title="Редактировать раздел «Гидравлическая система»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Boeing_737&amp;action=edit&amp;section=22" title="Редактировать код раздела «Гидравлическая система»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:WheelWell_VVB.JPG"><img class="mw-file-element" data-file-height="1200" data-file-width="1600" decoding="async" height="165" src="//upload.wikimedia.org/wikipedia/ru/thumb/8/83/WheelWell_VVB.JPG/220px-WheelWell_VVB.JPG" srcset="//upload.wikimedia.org/wikipedia/ru/thumb/8/83/WheelWell_VVB.JPG/330px-WheelWell_VVB.JPG 1.5x, //upload.wikimedia.org/wikipedia/ru/thumb/8/83/WheelWell_VVB.JPG/440px-WheelWell_VVB.JPG 2x" width="220"/></a><figcaption>Ниша шасси Boeing 737-500, передняя переборка. Компоненты гидравлической системы и системы управления полётом</figcaption></figure>
+<p>На самолётах Boeing 737 имеется три гидравлические системы: <i>A</i>, <i>B</i> (основные) и <i>Standby</i> (резервная). На 737-100 и -200 система <i>A</i> работает от двух двигательных насосов, а система <i>B</i> — от двух электронасосов. Резервная система работает от аккумуляторной батареи и снабжает только предкрылки, руль направления и реверса. Большинство компонентов гидравлики расположены в нише шасси.
+</p><p>Гидравлическая система самолётов 737 Classic и 737NG сильно отличается от 737 Original. В ней перераспределены потребители энергии и на каждую из основных систем работают по одному двигательному и одному электрическому гидронасосу. В нормальном полёте электронасосы так же включены, в целях резервирования.
+</p>
+<h3><span id=".D0.A8.D0.B0.D1.81.D1.81.D0.B8"></span><span class="mw-headline" id="Шасси">Шасси</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Boeing_737&amp;veaction=edit&amp;section=23" title="Редактировать раздел «Шасси»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Boeing_737&amp;action=edit&amp;section=23" title="Редактировать код раздела «Шасси»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>На самолёте Boeing 737 применена классическая схема трёхопорного шасси с передней рулевой стойкой. На каждой стойке шасси по два колеса. Основные стойки убираются в ниши шасси, расположенную в центроплане и не имеющую створок, таким образом колёса становятся аэродинамическими поверхностями. Этим минимализируется количество гидравлических компонентов системы шасси, но ухудшается аэродинамика.
+</p><p>В связи с применением на 737 Classic двигателей с большим радиусом стойки выполнены выше, чем на 737 Original, а также в различной степени усилены, в зависимости от взлётной массы различных типов (-300, -400 либо -500).
+</p><p>На самолётах 737 NG стойки шасси перепроектированы, выше, чем на 737 Classic и также усилены в зависимости от взлётной массы. С 2008 года на самолёты 737 NG появилась возможность устанавливать новые карбоновые тормоза, обладающие меньшей массой и большим ресурсом.
+</p>
+<h3><span id=".D0.90.D0.B2.D0.B8.D0.BE.D0.BD.D0.B8.D0.BA.D0.B0"></span><span class="mw-headline" id="Авионика">Авионика</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Boeing_737&amp;veaction=edit&amp;section=24" title="Редактировать раздел «Авионика»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Boeing_737&amp;action=edit&amp;section=24" title="Редактировать код раздела «Авионика»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Original">Original</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Boeing_737&amp;veaction=edit&amp;section=25" title="Редактировать раздел «Original»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Boeing_737&amp;action=edit&amp;section=25" title="Редактировать код раздела «Original»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>На самолётах поколения 737 Original установлен аналоговый комплекс <a href="/wiki/%D0%90%D0%B2%D0%B8%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0" title="Авионика">авионики</a> с дублированием систем и электромеханической индикацией.
+</p>
+<h4><span class="mw-headline" id="Classic">Classic</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Boeing_737&amp;veaction=edit&amp;section=26" title="Редактировать раздел «Classic»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Boeing_737&amp;action=edit&amp;section=26" title="Редактировать код раздела «Classic»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:E%26E_Compt_VVQ.JPG"><img class="mw-file-element" data-file-height="1200" data-file-width="1600" decoding="async" height="383" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/E%26E_Compt_VVQ.JPG/511px-E%26E_Compt_VVQ.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/E%26E_Compt_VVQ.JPG/767px-E%26E_Compt_VVQ.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/35/E%26E_Compt_VVQ.JPG/1022px-E%26E_Compt_VVQ.JPG 2x" width="511"/></a><figcaption>Отсек электрооборудования Boeing 737-500, этажерка Е1</figcaption></figure>
+<p>Boeing 737-300 получил цифровой комплекс авионики <i>Flight Management System</i> (<i>FMS</i>), соответствующий стандартам <a href="/wiki/ARINC" title="ARINC">ARINC</a>. В целом, авионика аналогична самолётам <a href="/wiki/Boeing_767#767-200" title="Boeing 767">Boeing 767-200</a>/<a href="/wiki/Boeing_767#767-300" title="Boeing 767">-300</a> и <a href="/wiki/Boeing_757" title="Boeing 757">Boeing 757</a>-200/-300, только упрощена и с меньшей степенью резервирования.
+</p><p><i>Flight Management System</i> состоит из пяти основных систем:
+</p>
+<ul><li><a class="mw-redirect" href="/wiki/%D0%98%D0%BD%D0%B5%D1%80%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0" title="Инерциальная навигационная система">Инерциальная навигационная система</a> <i>Inertial Reference System</i> (<i>IRS</i>), включающая два инерциальных блока <i>Inertial Reference Unit</i> (<i>IRU</i>) и коммутационное оборудование. Цифровая система воздушных сигналов <i>Digital Air Data Computer</i> (<i>DADC</i>), включающая два компьютера, также иногда включается документацией в состав <i>IRS</i>.</li>
+<li>Система электронной индикации <i>Electronic Flight Instrument System</i> (<i>EFIS</i>) производства Collins, включающая два генератора символов <i>Symbol Generator</i> (<i>SG</i>) и по два ЭЛТ-индикатора: комплексный пилотажный индикатор <i>Electronic Attitude Director Indicator</i> (<i>EADI</i>) и индикатор горизонтальной обстановки <i>Electronic Horizontal Situtaion Indicator</i> (<i>EHSI</i>), а также две панели управления индикацией и коммутационное оборудование.</li>
+<li>Система автоматического управления полётом <i>Digital Flight Control System</i> (<i>DFCS</i>). Эта система функционально делится на собственно систему автоматического управления <i>Automatic Flight Control System</i> (<i>AFCS</i>) и систему директорного управления <i>Digital Flight Direcror System</i> (<i>DFDS</i>) и имеет два канала <i>Channel A</i> и <i>Channel B</i>. В состав <i>DFCS</i> входят два компьютера управления полётом <i>Flight Control Computer</i> (<i>FCC</i>), панель управления режимами <i>Mode Control Panel</i> (<i>MCP</i>) и две пары гидравлических приводов автопилота (по два в продольном и боковом канале), воздействующих на входные штоки бустеров элеронов и рулей высоты, а также множество различных датчиков.</li>
+<li>Автомат тяги <i>Autothrottle</i> (<i>A/T</i>), имеющий свой компьютер либо включённый в состав <i>FCC A</i> и приводы, воздействующие на тросы проводки управления двигателями.</li>
+<li>Компьютерная система управления полётом <i>Flight Management Computer System</i> (<i>FMCS</i>), включающая компьютер Flight Management Computer (<i>FMC</i>) и два многофункциональных пульта управления <i>Control and Display Unit</i> (<i>CDU</i>). Эта система интегрирует весь комплекс <i>FMS</i>, является <a href="/wiki/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D1%91%D1%82%D0%BE%D0%B2%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F" title="Система самолётовождения">вычислительной системой самолётовождения</a>, выполняет встроенный контроль и позволяет выполнять тесты вышеперечисленных систем <i>Build-In Test Equipment</i> (<i>BITE</i>). До 2012 года все самолёты 737 Classic должны быть дооборудованы вторым <i>FMC</i> в связи с переходом к выполнению полётов по <a href="/wiki/GPS" title="GPS">GPS</a>.</li></ul>
+<p>Панели приборов самолётов поколения 737 Classic, оборудованных <i>EFIS</i>, включают как электронные, так и стрелочные индикаторы. Дисплеи расположены перед пилотами в вертикали «Базовой Т»: <i>EADI</i> сверху, <i>EHSI</i> снизу. Первые самолёты <i>737-300</i> выпускались в варианте «Non-EFIS», имея электромеханические индикаторы вместо электронных. Для индикации работы силовой установки на центральной панели установлены два комбинированных индикатора <i>Engine Instrument System</i> (<i>EIS</i>): <i>Primary</i> и <i>Secondary</i>, в которых стрелочные приборы представлены в виде сегментных светодиодных указателей. Также есть варианты кабины, в которых индикация силовой установки представлена обычными стрелочными приборами — вариант «Non-EFIS».
+</p><p>Оборудование позволяет выполнять посадку в условиях <a class="mw-redirect" href="/wiki/%D0%9C%D0%B5%D1%82%D0%B5%D0%BE%D0%BC%D0%B8%D0%BD%D0%B8%D0%BC%D1%83%D0%BC" title="Метеоминимум">метеоминимума</a> <a class="mw-redirect" href="/wiki/%D0%98%D0%9A%D0%90%D0%9E" title="ИКАО">ИКАО</a> CAT IIIA.
+</p>
+<h4><span class="mw-headline" id="Next_Generation">Next Generation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Boeing_737&amp;veaction=edit&amp;section=27" title="Редактировать раздел «Next Generation»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Boeing_737&amp;action=edit&amp;section=27" title="Редактировать код раздела «Next Generation»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Cockpit_of_Boeing_737-800,_ATA_Airlines_1.jpg"><img class="mw-file-element" data-file-height="600" data-file-width="800" decoding="async" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Cockpit_of_Boeing_737-800%2C_ATA_Airlines_1.jpg/220px-Cockpit_of_Boeing_737-800%2C_ATA_Airlines_1.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Cockpit_of_Boeing_737-800%2C_ATA_Airlines_1.jpg/330px-Cockpit_of_Boeing_737-800%2C_ATA_Airlines_1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Cockpit_of_Boeing_737-800%2C_ATA_Airlines_1.jpg/440px-Cockpit_of_Boeing_737-800%2C_ATA_Airlines_1.jpg 2x" width="220"/></a><figcaption>Кабина пилотов Boeing 737-800</figcaption></figure>
+<p>Архитектура комплекса авионики самолёта 737 Next Generation в значительной степени аналогична 737 Classic. Основным отличием является применение комплекса индикации <i>Common Display System</i> (<i>CDS</i>) разработки фирмы <a href="/wiki/Honeywell" title="Honeywell">Honeywell</a>, аналогичному самолёту <a href="/wiki/Boeing_777" title="Boeing 777">Boeing 777</a>. В состав CDS входят два вычислителя <i>Display Electronic Unit</i> (<i>DEU</i>), шесть ЖК-индикаторов <i>Display Unit</i> (<i>DU</i>), две панели управления и коммутационное оборудование. Индикация может переноситься с одного дисплея на другой. Помимо основного назначения — создания индикации, <i>CDS</i> также является центральной интерфейсной системой. <i>CDS</i> также может быть дополнена коллиматорным индикатором (индикатором на лобовое стекло) — <i>Head-Up Display</i> (<i>HUD</i>).
+</p><p>Другим отличием является объединение инерциальной навигационной системы и системы воздушных сигналов в одну систему — <i>Air Data and Inertial Reference System</i> (<i>ADIRS</i>), состоящей из двух блоков <i>Air Data and Inertial Reference Unit</i> (<i>ADIRU</i>).
+</p><p>Самолёт сертифицирован для выполнения посадки в условиях метеоминимума <a class="mw-redirect" href="/wiki/%D0%98%D0%9A%D0%90%D0%9E" title="ИКАО">ИКАО</a> CAT IIIB.
+</p>
+<h3><span id=".D0.92.D1.81.D0.BF.D0.BE.D0.BC.D0.BE.D0.B3.D0.B0.D1.82.D0.B5.D0.BB.D1.8C.D0.BD.D0.B0.D1.8F_.D1.81.D0.B8.D0.BB.D0.BE.D0.B2.D0.B0.D1.8F_.D1.83.D1.81.D1.82.D0.B0.D0.BD.D0.BE.D0.B2.D0.BA.D0.B0"></span><span class="mw-headline" id="Вспомогательная_силовая_установка">Вспомогательная силовая установка</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Boeing_737&amp;veaction=edit&amp;section=28" title="Редактировать раздел «Вспомогательная силовая установка»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Boeing_737&amp;action=edit&amp;section=28" title="Редактировать код раздела «Вспомогательная силовая установка»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:GTCP85-129.JPG"><img class="mw-file-element" data-file-height="1200" data-file-width="1600" decoding="async" height="165" src="//upload.wikimedia.org/wikipedia/ru/thumb/1/1b/GTCP85-129.JPG/220px-GTCP85-129.JPG" srcset="//upload.wikimedia.org/wikipedia/ru/thumb/1/1b/GTCP85-129.JPG/330px-GTCP85-129.JPG 1.5x, //upload.wikimedia.org/wikipedia/ru/thumb/1/1b/GTCP85-129.JPG/440px-GTCP85-129.JPG 2x" width="220"/></a><figcaption>ВСУ GTCP85-129 на самолёте Boeing 737-400</figcaption></figure>
+<p>В качестве вспомогательной силовой установки выбрана ВСУ <i>GTCP85-129</i> производства <a class="new" href="/w/index.php?title=Garrett_Systems&amp;action=edit&amp;redlink=1" title="Garrett Systems (страница отсутствует)">Garrett Systems</a> (сейчас поглощена <a href="/wiki/Honeywell" title="Honeywell">Honeywell</a>), позже на самолёты 737 Classic появилась возможность устанавливать также ВСУ <i>APS2000</i> производства <a class="new" href="/w/index.php?title=Hamilton_Sunstrand&amp;action=edit&amp;redlink=1" title="Hamilton Sunstrand (страница отсутствует)">Hamilton Sunstrand</a>.
+</p><p>На самолёты семейства 737 NG устанавливается ВСУ <i>GTCP131-9(B)</i> производства фирмы <a href="/wiki/AlliedSignal" title="AlliedSignal">AlliedSignal</a> (впоследствии объединилась с <a href="/wiki/Honeywell" title="Honeywell">Honeywell</a>).
+</p>
+<h3><span id=".D0.A1.D0.B8.D0.BB.D0.BE.D0.B2.D0.B0.D1.8F_.D1.83.D1.81.D1.82.D0.B0.D0.BD.D0.BE.D0.B2.D0.BA.D0.B0"></span><span class="mw-headline" id="Силовая_установка">Силовая установка</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Boeing_737&amp;veaction=edit&amp;section=29" title="Редактировать раздел «Силовая установка»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Boeing_737&amp;action=edit&amp;section=29" title="Редактировать код раздела «Силовая установка»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:SilnikLotniczy_Boeing737.jpg"><img class="mw-file-element" data-file-height="1200" data-file-width="1600" decoding="async" height="225" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/SilnikLotniczy_Boeing737.jpg/300px-SilnikLotniczy_Boeing737.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/SilnikLotniczy_Boeing737.jpg/450px-SilnikLotniczy_Boeing737.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/78/SilnikLotniczy_Boeing737.jpg/600px-SilnikLotniczy_Boeing737.jpg 2x" width="300"/></a><figcaption>Авиадвигатель CFMI CFM56-7B</figcaption></figure>
+<h4><span class="mw-headline" id="Original_2">Original</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Boeing_737&amp;veaction=edit&amp;section=30" title="Редактировать раздел «Original»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Boeing_737&amp;action=edit&amp;section=30" title="Редактировать код раздела «Original»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>В качестве силовой установки используются турбовентиляторные двигатели <a class="mw-redirect" href="/wiki/JT8D" title="JT8D">JT8D</a> производства <a class="mw-redirect" href="/wiki/Pratt%26Whitney" title="Pratt&amp;Whitney">Pratt&amp;Whitney</a>
+</p>
+<h4><span class="mw-headline" id="Classic_2">Classic</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Boeing_737&amp;veaction=edit&amp;section=31" title="Редактировать раздел «Classic»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Boeing_737&amp;action=edit&amp;section=31" title="Редактировать код раздела «Classic»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>В качестве силовой установки были выбраны двухконтурные турбовентиляторные двигатели серии <a class="mw-redirect" href="/wiki/CFM56" title="CFM56">CFM56</a>-3 производства <a href="/wiki/CFM_International" title="CFM International">CFM International</a>. Управление двигателем осуществляется традиционными тросовыми тягами, воздействующими на основной управляющий агрегат <i>Main Engine Controller</i> (<i>MEC</i>) и корректируется электронным блоком <i>Power Management Controller</i> (<i>PMC</i>)
+</p>
+<h4><span class="mw-headline" id="Next_Generation_2">Next Generation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Boeing_737&amp;veaction=edit&amp;section=32" title="Редактировать раздел «Next Generation»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Boeing_737&amp;action=edit&amp;section=32" title="Редактировать код раздела «Next Generation»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>В качестве силовой установки применяются <a class="mw-redirect" href="/wiki/%D0%A2%D0%A0%D0%94%D0%94" title="ТРДД">ТРДД</a> серии <a class="mw-redirect" href="/wiki/CFM56" title="CFM56">CFM56</a>-7B производства <a href="/wiki/CFM_International" title="CFM International">CFM International</a>. Этот двигатель обладает большей мощностью, чем <a class="mw-redirect" href="/wiki/CFM56" title="CFM56">CFM56</a>-3. Одним из принципиальных отличий самолётов NG от Classic является применение электродистанционного управления двигателями (fly-by-wire). Все управление осуществляет компьютер <i>Engine Control Computer</i> (<i>ECC</i>), воздействуя на гидромеханический блок <i>Hydromechanical Unit</i> (<i>HMU</i>). Применённая система аналогична применённой на самолёте <a href="/wiki/Airbus_A320" title="Airbus A320">Airbus A320</a> системе <a class="mw-redirect" href="/wiki/FADEC" title="FADEC">FADEC</a>. Отличие от Airbus A320 заключается в применении концепции активных рычагов управления двигателями (РУД): автомат тяги воздействует не на <i>ECC</i> непосредственно, а на РУДы, таким образом положение РУДов соответствует заданной тяге двигателей.
+</p>
+<h2><span id=".D0.9F.D0.BE.D1.82.D0.B5.D1.80.D0.B8_.D1.81.D0.B0.D0.BC.D0.BE.D0.BB.D1.91.D1.82.D0.BE.D0.B2"></span><span class="mw-headline" id="Потери_самолётов">Потери самолётов</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Boeing_737&amp;veaction=edit&amp;section=33" title="Редактировать раздел «Потери самолётов»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Boeing_737&amp;action=edit&amp;section=33" title="Редактировать код раздела «Потери самолётов»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable">Основная статья: <b><a href="/wiki/%D0%90%D0%B2%D0%B8%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%BE%D0%B8%D1%81%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D1%8F_%D1%81_Boeing_737" title="Авиационные происшествия с Boeing 737">Авиационные происшествия с Boeing 737</a></b></div>
+<p>По состоянию на 21 марта 2022 года в общей сложности в результате катастроф и серьёзных аварий были потеряны 219 самолётов Boeing 737<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup>, 122 из них семейства Original: 737-100 и -200 (производились с <a class="mw-redirect" href="/wiki/1967" title="1967">1967</a> по <a href="/wiki/1988_%D0%B3%D0%BE%D0%B4" title="1988 год">1988 годы</a>). Boeing 737 пытались угнать 115 раз, при этом погибли 326 человек<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup>. Всего в этих происшествиях погибли 5585 человек.
+</p><p>Самый значительный инцидент с уничтожением пассажирского Boeing 737 случился 8 ноября 1983 года. Сразу после взлёта с аэродрома Лубанго в Анголе <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B0%D1%81%D1%82%D1%80%D0%BE%D1%84%D0%B0_Boeing_737_%D0%B2_%D0%9B%D1%83%D0%B1%D0%B0%D0%BD%D0%B3%D0%BE" title="Катастрофа Boeing 737 в Лубанго">разбился Boeing 737</a> авиакомпании <span data-interwiki-article="TAAG Angola Airlines" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=TAAG_Angola_Airlines&amp;action=edit&amp;redlink=1" title="TAAG Angola Airlines (страница отсутствует)">TAAG Angola Airlines</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://en.wikipedia.org/wiki/TAAG_Angola_Airlines" title="en:TAAG Angola Airlines"><span title="TAAG Angola Airlines — версия статьи «TAAG Angola Airlines» на английском языке">[en]</span></a></sup></span>. Боевики <a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%81%D0%BE%D1%8E%D0%B7_%D0%B7%D0%B0_%D0%BF%D0%BE%D0%BB%D0%BD%D1%83%D1%8E_%D0%BD%D0%B5%D0%B7%D0%B0%D0%B2%D0%B8%D1%81%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C_%D0%90%D0%BD%D0%B3%D0%BE%D0%BB%D1%8B" title="Национальный союз за полную независимость Анголы">UNITA</a> сами признались в уничтожении самолёта ракетой с земли. 4 члена экипажа и 126 пассажиров, все находившиеся на борту, погибли<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup>.
+</p><p>Самая крупная катастрофа в <a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F" title="Россия">России</a> с этим типом самолётов <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B0%D1%81%D1%82%D1%80%D0%BE%D1%84%D0%B0_Boeing_737_%D0%B2_%D0%9F%D0%B5%D1%80%D0%BC%D0%B8" title="Катастрофа Boeing 737 в Перми">произошла в Перми</a> <a href="/wiki/14_%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8F" title="14 сентября">14 сентября</a> <a href="/wiki/2008_%D0%B3%D0%BE%D0%B4" title="2008 год">2008 года</a>. Пассажирский самолёт <a class="mw-redirect" href="/wiki/Boeing_737-500" title="Boeing 737-500">Boeing 737-500</a> российской <a href="/wiki/%D0%90%D0%B2%D0%B8%D0%B0%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F" title="Авиакомпания">авиакомпании</a> «<a class="mw-redirect" href="/wiki/%D0%90%D1%8D%D1%80%D0%BE%D1%84%D0%BB%D0%BE%D1%82-%D0%9D%D0%BE%D1%80%D0%B4" title="Аэрофлот-Норд">Аэрофлот-Норд</a>» (в настоящее время — «<a class="mw-redirect" href="/wiki/SmartAvia" title="SmartAvia">SmartAvia</a>») упал в черте города, на железную дорогу. В результате этого происшествия погибли все, кто находился на борту (88 человек).
+</p><p>Крупнейшая по числу жертв катастрофа Boeing 737 <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B0%D1%81%D1%82%D1%80%D0%BE%D1%84%D0%B0_Boeing_737_%D0%B2%D0%BE%D0%B7%D0%BB%D0%B5_%D0%94%D0%B6%D0%B0%D0%BA%D0%B0%D1%80%D1%82%D1%8B_(2018)" title="Катастрофа Boeing 737 возле Джакарты (2018)">произошла</a> 29 октября 2018 года у <a href="/wiki/%D0%94%D0%B6%D0%B0%D0%BA%D0%B0%D1%80%D1%82%D0%B0" title="Джакарта">Джакарты</a>. Самолёт местной авиакомпании <a href="/wiki/Lion_Air" title="Lion Air">Lion Air</a> упал в море вскоре после взлёта. Все 189 человек на борту погибли.
+</p><p>Ещё одна похожая катастрофа (самолёт упал через 6 минут после взлёта) <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B0%D1%81%D1%82%D1%80%D0%BE%D1%84%D0%B0_Boeing_737_%D0%BF%D0%BE%D0%B4_%D0%90%D0%B4%D0%B4%D0%B8%D1%81-%D0%90%D0%B1%D0%B5%D0%B1%D0%BE%D0%B9" title="Катастрофа Boeing 737 под Аддис-Абебой">произошла</a> 10 марта 2019 года с 737 MAX 8 авиакомпании <a href="/wiki/Ethiopian_Airlines" title="Ethiopian Airlines">Ethiopian Airlines</a> под Аддис-Абебой. Погибли все 157 человек, находившиеся на борту.
+</p>
+<h2><span id=".D0.9F.D0.BE.D1.85.D0.BE.D0.B6.D0.B8.D0.B5_.D1.81.D0.B0.D0.BC.D0.BE.D0.BB.D1.91.D1.82.D1.8B"></span><span class="mw-headline" id="Похожие_самолёты">Похожие самолёты</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Boeing_737&amp;veaction=edit&amp;section=34" title="Редактировать раздел «Похожие самолёты»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Boeing_737&amp;action=edit&amp;section=34" title="Редактировать код раздела «Похожие самолёты»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Airbus_A320" title="Airbus A320">Airbus A320</a></li>
+<li><a class="mw-redirect" href="/wiki/Boeing_757-200" title="Boeing 757-200">Boeing 757-200</a></li>
+<li><a href="/wiki/McDonnell_Douglas_MD-80" title="McDonnell Douglas MD-80">McDonnell Douglas MD-80</a></li>
+<li><a href="/wiki/%D0%A2%D1%83-154" title="Ту-154">Ту-154</a></li>
+<li><a href="/wiki/%D0%A2%D1%83-204" title="Ту-204">Ту-204</a></li>
+<li><a href="/wiki/%D0%9C%D0%A1-21" title="МС-21">МС-21</a> (Як-242)</li>
+<li><a href="/wiki/Airbus_A220" title="Airbus A220">Bombardier CS300 (Airbus А220-300)</a></li>
+<li><a href="/wiki/%D0%A2%D1%83-204" title="Ту-204">Ту-204/214</a></li></ul>
+<h2><span id=".D0.A1.D0.BC._.D1.82.D0.B0.D0.BA.D0.B6.D0.B5"></span><span class="mw-headline" id="См._также">См. также</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Boeing_737&amp;veaction=edit&amp;section=35" title="Редактировать раздел «См. также»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Boeing_737&amp;action=edit&amp;section=35" title="Редактировать код раздела «См. также»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Airbus_A320" title="Airbus A320">Airbus A320</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D0%B6%D0%B4%D1%83_Airbus_%D0%B8_Boeing" title="Конкуренция между Airbus и Boeing">Конкуренция между Airbus и Boeing</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BA%D0%BE%D0%B4%D0%BE%D0%B2_%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2_%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8_Boeing" title="Список кодов клиентов компании Boeing">Список кодов клиентов компании Boeing</a></li></ul>
+<h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Примечания">Примечания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Boeing_737&amp;veaction=edit&amp;section=36" title="Редактировать раздел «Примечания»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Boeing_737&amp;action=edit&amp;section=36" title="Редактировать код раздела «Примечания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://www.boeing.com/commercial/#/orders-deliveries" rel="nofollow">Orders &amp; Deliveries</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 21 января 2023. <a class="external text" href="https://web.archive.org/web/19991002201937/http://www.boeing.com/commercial/#/orders-deliveries" rel="nofollow">Архивировано</a> 2 октября 1999 года.</span></span>
+</li>
+<li id="cite_note-active.boeing.com-2"><span class="mw-cite-backlink"><a href="#cite_ref-active.boeing.com_2-0">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://web.archive.org/web/20181121013435/http://active.boeing.com/commercial/orders/displaystandardreport.cfm?cboCurrentModel=737&amp;optReportType=AllModels&amp;cboAllModel=737&amp;ViewReportF=View+Report" rel="nofollow">Заказы и поставки Boeing 737</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 27 августа 2011. Архивировано из <a class="external text" href="http://active.boeing.com/commercial/orders/displaystandardreport.cfm?cboCurrentModel=737&amp;optReportType=AllModels&amp;cboAllModel=737&amp;ViewReportF=View+Report" rel="nofollow">оригинала</a> 21 ноября 2018 года.</span></span>
+</li>
+<li id="cite_note-Stat-3"><span class="mw-cite-backlink"><a href="#cite_ref-Stat_3-0">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.boeing.com/commercial/news/feature/737.html" rel="nofollow">Boeing: A World of Service for the Boeing 737</a> <small><a class="external text" href="https://web.archive.org/web/20090120070338/http://www.boeing.com/commercial/news/feature/737.html" rel="nofollow">Архивировано</a> 20 января 2009 года.</small></span>
+</li>
+<li id="cite_note-Hill-4"><span class="mw-cite-backlink">↑ <a href="#cite_ref-Hill_4-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-Hill_4-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-Hill_4-2"><sup><i><b>3</b></i></sup></a> <a href="#cite_ref-Hill_4-3"><sup><i><b>4</b></i></sup></a> <a href="#cite_ref-Hill_4-4"><sup><i><b>5</b></i></sup></a> <a href="#cite_ref-Hill_4-5"><sup><i><b>6</b></i></sup></a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>Malcolm L. Hill.</i> Boeing 737. — Великобритания: Crowood Press, 2002. — 103 p. — (Crowood Aviation Series). — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/1861264046">ISBN 1-86126-404-6</a>.</span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://boeing.mediaroom.com/2014-04-16-Boeing-Delivers-8-000th-737" rel="nofollow">Boeing delivers 8000th 737</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 17 апреля 2014. <a class="external text" href="https://web.archive.org/web/20140419015004/http://boeing.mediaroom.com/2014-04-16-Boeing-Delivers-8-000th-737" rel="nofollow">Архивировано</a> 19 апреля 2014 года.</span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.aex.ru/news/2016/1/29/148784" rel="nofollow">Самолёт Boeing 737MAX совершил первый полёт</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. <i>2016-01-29</i>. Avition EXplorer – AEX.RU. Дата обращения: 27 января 2016. <a class="external text" href="https://web.archive.org/web/20160321144936/http://www.aex.ru/news/2016/1/29/148784/" rel="nofollow">Архивировано</a> 21 марта 2016 года.</span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><span class="citation"><span lang="ru"><a class="external text" href="https://www.rbc.ru/business/08/07/2021/60e58b4d9a79478499f4ce17" rel="nofollow">«Победа» отказалась от одного из крупнейших для России заказов Boeing 737</a></span><span class="hidden-ref" style="display:none;">  <span class="ref-info" style="cursor:help;" title="на русском языке">(рус.)</span></span>. <i>РБК</i>. Дата обращения: 8 июля 2021. <a class="external text" href="https://web.archive.org/web/20210708051017/https://www.rbc.ru/business/08/07/2021/60e58b4d9a79478499f4ce17" rel="nofollow">Архивировано</a> 8 июля 2021 года.</span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.cfmaeroengines.com/engines/cfm56-7b" rel="nofollow">CFM International. Engines: CFM56-7B</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 12 июня 2014. <a class="external text" href="https://web.archive.org/web/20140702010659/http://www.cfmaeroengines.com/engines/cfm56-7b" rel="nofollow">Архивировано</a> 2 июля 2014 года.</span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.boeing.com/assets/pdf/commercial/airports/acaps/737.pdf" rel="nofollow">Boeing Commercial Airplanes D6-58325-6 SEP 2013</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 1 декабря 2013. <a class="external text" href="https://web.archive.org/web/20150207152159/http://www.boeing.com/assets/pdf/commercial/airports/acaps/737.pdf" rel="nofollow">Архивировано</a> 7 февраля 2015 года.</span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.boeing.com/resources/boeingdotcom/company/about_bca/startup/pdf/historical/737-classic-passenger.pdf" rel="nofollow">Архивированная копия</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 31 мая 2018. <a class="external text" href="https://web.archive.org/web/20150407034824/http://www.boeing.com/resources/boeingdotcom/company/about_bca/startup/pdf/historical/737-classic-passenger.pdf" rel="nofollow">Архивировано</a> 7 апреля 2015 года.</span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.boeing.com/commercial/prices/index.html" rel="nofollow">Boeing: Commercial Airplanes — Jet Prices Home</a> <small><a class="external text" href="https://web.archive.org/web/20100106211925/http://www.boeing.com/commercial/prices/index.html" rel="nofollow">Архивировано</a> 6 января 2010 года.</small></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://aviation-safety.net/database/types/Boeing-737-series/losses" rel="nofollow">Aviation Safety Network &gt; ASN Aviation Safety Database &gt; Aircraft type index &gt; Boeing 737 &gt; Accident list: Boeing 737</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 14 октября 2018. <a class="external text" href="https://web.archive.org/web/20190304064223/http://aviation-safety.net/database/types/Boeing-737-series/losses" rel="nofollow">Архивировано</a> 4 марта 2019 года.</span></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://aviation-safety.net/database/types/Boeing-737-series/statistics" rel="nofollow">Aviation Safety Network &gt; ASN Aviation Safety Database &gt; Aircraft type index &gt; Boeing 737 &gt; Boeing 737 Statistics</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 14 октября 2018. <a class="external text" href="https://web.archive.org/web/20160317173610/http://aviation-safety.net/database/types/Boeing-737-series/statistics" rel="nofollow">Архивировано</a> 17 марта 2016 года.</span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.flightglobal.com/pdfarchive/view/1983/1983%20-%202088.html" rel="nofollow">UNITA shoots down TAAG 737</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 20 июня 2014. <a class="external text" href="https://web.archive.org/web/20190403060242/https://www.flightglobal.com/pdfarchive/view/1983/1983%20-%202088.html" rel="nofollow">Архивировано</a> 3 апреля 2019 года.</span></span>
+</li>
+</ol></div></div>
+<h2><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span><span class="mw-headline" id="Ссылки">Ссылки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Boeing_737&amp;veaction=edit&amp;section=37" title="Редактировать раздел «Ссылки»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Boeing_737&amp;action=edit&amp;section=37" title="Редактировать код раздела «Ссылки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div aria-label="В родственных проектах" class="ts-Родственные_проекты ruwikiWikimediaNavigation tright metadata plainlinks plainlist noprint" role="navigation"><ul><li class="ts-Родственные_проекты-item"><span class="ts-Родственные_проекты-image"><span typeof="mw:File"><span><img alt="" class="mw-file-element" data-file-height="30" data-file-width="30" decoding="async" height="24" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/24px-Notification-icon-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/36px-Notification-icon-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/48px-Notification-icon-Commons-logo.svg.png 2x" width="24"/></span></span></span><span class="ts-Родственные_проекты-label commons-ref"><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Boeing_737" title="commons:Category:Boeing 737">Медиафайлы на Викискладе</a></span></li></ul></div>
+<ul><li><a class="external text" href="http://www.boeing.com/commercial/737family/background.html" rel="nofollow">Страница Boeing 737</a> на официальном сайте Boeing <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><a class="external text" href="https://web.archive.org/web/20070927224009/http://www.flugzeug-absturz.de/results.php?modus=aircraft&amp;eingabe=boeing%20737" rel="nofollow">Список всех аварий Boeing 737</a> <small class="ref-info" style="cursor:help;" title="на немецком языке">(нем.)</small></li></ul>
+<div aria-labelledby="Ссылки_на_внешние_ресурсы" class="navbox" data-name="External links" role="navigation" style="padding-top:1px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup" style="display:none"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:External_links" title="Перейти к шаблону «External links»"><img alt="Перейти к шаблону «External links»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span> </span><div id="Ссылки_на_внешние_ресурсы" style="font-size:114%;margin:0 5em">Ссылки на внешние ресурсы</div></th></tr><tr><th class="navbox-group" scope="row" style="width:1px"><div style="padding: 0 35px 0 0; width: 100%;"><div style="float: left;"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8" title="Перейти к шаблону «Внешние ссылки»"><img alt="Перейти к шаблону «Внешние ссылки»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span>  <span typeof="mw:File"><a href="https://www.wikidata.org/wiki/Q6387#identifiers" title="Перейти к элементу Викиданных"><img alt="Перейти к элементу Викиданных" class="mw-file-element" data-file-height="20" data-file-width="20" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/14px-OOjs_UI_icon_edit-ltr-progressive.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/21px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/28px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" width="14"/></a></span></div>  Словари и энциклопедии</div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="external text" href="https://snl.no/Boeing_737" rel="nofollow">Большая норвежская</a></li>
+<li><a class="external text" href="https://www.britannica.com/technology/Boeing-737" rel="nofollow">Britannica (онлайн)</a></li>
+<li><a class="external text" href="https://www.universalis.fr/encyclopedie/boeing-737/" rel="nofollow">Universalis</a></li>
+<li><a class="external text" href="https://ria.ru/spravka/00000000/61684885.html" rel="nofollow">Справка РИА</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">В библиографических каталогах</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Gemeinsame_Normdatei" title="Gemeinsame Normdatei">GND</a>: <a class="external text" href="https://d-nb.info/gnd/4146188-5" rel="nofollow">4146188-5</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8F" title="Национальная библиотека Израиля">J9U</a>: <a class="external text" href="http://olduli.nli.org.il/F/?func=find-b&amp;local_base=NLX10&amp;find_code=UID&amp;request=987007534465105171" rel="nofollow">987007534465105171</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BD%D0%BE%D0%BC%D0%B5%D1%80_%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B8_%D0%9A%D0%BE%D0%BD%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B0" title="Контрольный номер Библиотеки Конгресса">LCCN</a>: <a class="external text" href="https://id.loc.gov/authorities/sh87006428" rel="nofollow">sh87006428</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%A7%D0%B5%D1%88%D1%81%D0%BA%D0%BE%D0%B9_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8" title="Национальная библиотека Чешской Республики">NKC</a>: <a class="external text" href="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=ph1136301&amp;CON_LNG=ENG" rel="nofollow">ph1136301</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Военные_самолёты_Boeing" class="navbox" data-name="Военные самолёты Boeing" role="navigation"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%92%D0%BE%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D1%91%D1%82%D1%8B_Boeing" title="Перейти к шаблону «Военные самолёты Boeing»"><img alt="Перейти к шаблону «Военные самолёты Boeing»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span> </span><div id="Военные_самолёты_Boeing" style="font-size:114%;margin:0 5em">Военные самолёты <a href="/wiki/Boeing" title="Boeing">Boeing</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1px">Истребители/штурмовики:</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Boeing_GA-1" title="Boeing GA-1">GA-1</a></li>
+<li><a href="/wiki/Boeing_Model_15" title="Boeing Model 15">PW-9/FB</a></li>
+<li><a class="new" href="/w/index.php?title=Boeing_F2B&amp;action=edit&amp;redlink=1" title="Boeing F2B (страница отсутствует)">F2B</a></li>
+<li><a class="new" href="/w/index.php?title=Boeing_F3B&amp;action=edit&amp;redlink=1" title="Boeing F3B (страница отсутствует)">F3B</a></li>
+<li><a class="new" href="/w/index.php?title=Boeing_P-12&amp;action=edit&amp;redlink=1" title="Boeing P-12 (страница отсутствует)">F4B</a></li>
+<li><a class="new" href="/w/index.php?title=Boeing_XF6B&amp;action=edit&amp;redlink=1" title="Boeing XF6B (страница отсутствует)">XF6B</a></li>
+<li><a class="new" href="/w/index.php?title=Boeing_P-29&amp;action=edit&amp;redlink=1" title="Boeing P-29 (страница отсутствует)">P-29/XF7B</a></li>
+<li><a class="new" href="/w/index.php?title=Boeing_XF8B&amp;action=edit&amp;redlink=1" title="Boeing XF8B (страница отсутствует)">XF8B</a></li>
+<li><a class="new" href="/w/index.php?title=Boeing_P-12&amp;action=edit&amp;redlink=1" title="Boeing P-12 (страница отсутствует)">P-12</a></li>
+<li><a href="/wiki/Boeing_P-26_Peashooter" title="Boeing P-26 Peashooter">P-26</a></li>
+<li><a class="new" href="/w/index.php?title=Boeing_818&amp;action=edit&amp;redlink=1" title="Boeing 818 (страница отсутствует)">818</a></li>
+<li><a href="/wiki/McDonnell_Douglas_F-15E_Strike_Eagle" title="McDonnell Douglas F-15E Strike Eagle">F-15E</a></li>
+<li><a class="mw-redirect" href="/wiki/Lockheed/Boeing_F-22_Raptor" title="Lockheed/Boeing F-22 Raptor">F-22</a></li>
+<li><a class="mw-redirect" href="/wiki/McDonnell_Douglas_AV-8B_Harrier_II" title="McDonnell Douglas AV-8B Harrier II">AV-8B</a></li>
+<li><a href="/wiki/Boeing_F-15SE_Silent_Eagle" title="Boeing F-15SE Silent Eagle">F-15SE</a></li>
+<li><a href="/wiki/Boeing_F/A-18E/F_Super_Hornet" title="Boeing F/A-18E/F Super Hornet">F/A-18E/F</a></li>
+<li><a class="mw-redirect" href="/wiki/Boeing_EA-18_Growler" title="Boeing EA-18 Growler">EA-18G</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Бомбардировщики</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="new" href="/w/index.php?title=Boeing_YB-9&amp;action=edit&amp;redlink=1" title="Boeing YB-9 (страница отсутствует)">YB-9</a></li>
+<li><a class="new" href="/w/index.php?title=Boeing_XB-15&amp;action=edit&amp;redlink=1" title="Boeing XB-15 (страница отсутствует)">XB-15</a></li>
+<li><a href="/wiki/Boeing_B-17_Flying_Fortress" title="Boeing B-17 Flying Fortress">B-17</a></li>
+<li><a class="new" href="/w/index.php?title=Boeing_Y1B-20&amp;action=edit&amp;redlink=1" title="Boeing Y1B-20 (страница отсутствует)">Y1B-20</a></li>
+<li><a href="/wiki/Boeing_B-29_Superfortress" title="Boeing B-29 Superfortress">B-29</a></li>
+<li><a class="new" href="/w/index.php?title=Boeing_XB-38_Flying_Fortress&amp;action=edit&amp;redlink=1" title="Boeing XB-38 Flying Fortress (страница отсутствует)">XB-38</a></li>
+<li><a class="new" href="/w/index.php?title=Boeing_XB-39_Superfortress&amp;action=edit&amp;redlink=1" title="Boeing XB-39 Superfortress (страница отсутствует)">XB-39</a></li>
+<li><a class="new" href="/w/index.php?title=Boeing_YB-40_Flying_Fortress&amp;action=edit&amp;redlink=1" title="Boeing YB-40 Flying Fortress (страница отсутствует)">YB-40</a></li>
+<li><a href="/wiki/Boeing_B-50_Superfortress" title="Boeing B-50 Superfortress">XB-44</a></li>
+<li><a href="/wiki/Boeing_B-47_Stratojet" title="Boeing B-47 Stratojet">B-47</a></li>
+<li><a href="/wiki/Boeing_B-50_Superfortress" title="Boeing B-50 Superfortress">B-50</a></li>
+<li><a href="/wiki/Boeing_B-52_Stratofortress" title="Boeing B-52 Stratofortress">B-52</a></li>
+<li><a class="new" href="/w/index.php?title=Boeing_B-54&amp;action=edit&amp;redlink=1" title="Boeing B-54 (страница отсутствует)">B-54</a></li>
+<li><a class="new" href="/w/index.php?title=Boeing_XB-55&amp;action=edit&amp;redlink=1" title="Boeing XB-55 (страница отсутствует)">XB-55</a></li>
+<li><a class="new" href="/w/index.php?title=Boeing_XB-56&amp;action=edit&amp;redlink=1" title="Boeing XB-56 (страница отсутствует)">XB-56</a></li>
+<li><a class="new" href="/w/index.php?title=Boeing_XB-59&amp;action=edit&amp;redlink=1" title="Boeing XB-59 (страница отсутствует)">XB-59</a></li>
+<li><a href="/wiki/Rockwell_B-1_Lancer" title="Rockwell B-1 Lancer">B-1</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Поршневые транспортники</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Boeing_247" title="Boeing 247">C-73</a></li>
+<li><a href="/wiki/Boeing_307_Stratoliner" title="Boeing 307 Stratoliner">C-75</a></li>
+<li><a class="new" href="/w/index.php?title=Boeing_C-97_Stratofreighter&amp;action=edit&amp;redlink=1" title="Boeing C-97 Stratofreighter (страница отсутствует)">C-97</a></li>
+<li><a href="/wiki/Boeing_314" title="Boeing 314">C-98</a></li>
+<li><a class="mw-redirect" href="/wiki/Boeing_C-108_Flying_Fortress" title="Boeing C-108 Flying Fortress">C-108</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Реактивные транспортники</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Boeing_C-135_Stratolifter" title="Boeing C-135 Stratolifter">C-135</a></li>
+<li><a class="new" href="/w/index.php?title=Boeing_C-137_Stratoliner&amp;action=edit&amp;redlink=1" title="Boeing C-137 Stratoliner (страница отсутствует)">C-137</a></li>
+<li><a class="new" href="/w/index.php?title=Boeing_CC-137&amp;action=edit&amp;redlink=1" title="Boeing CC-137 (страница отсутствует)">CC-137</a></li>
+<li><a class="new" href="/w/index.php?title=Boeing_YC-14&amp;action=edit&amp;redlink=1" title="Boeing YC-14 (страница отсутствует)">YC-14</a></li>
+<li><a href="/wiki/Boeing_C-17_Globemaster_III" title="Boeing C-17 Globemaster III">C-17</a></li>
+<li><a href="/wiki/Boeing_727" title="Boeing 727">C-22</a></li>
+<li><a href="/wiki/Boeing_VC-25" title="Boeing VC-25">VC-25</a></li>
+<li><a class="new" href="/w/index.php?title=Boeing_C-32&amp;action=edit&amp;redlink=1" title="Boeing C-32 (страница отсутствует)">C-32</a></li>
+<li><span data-interwiki-article="Boeing C-40 Clipper" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=Boeing_C-40_Clipper&amp;action=edit&amp;redlink=1" title="Boeing C-40 Clipper (страница отсутствует)">C-40</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://en.wikipedia.org/wiki/Boeing_C-40_Clipper" title="en:Boeing C-40 Clipper"><span title="Boeing C-40 Clipper — версия статьи «Boeing C-40 Clipper» на английском языке">[en]</span></a></sup></span></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Воздушные танкеры</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="new" href="/w/index.php?title=Boeing_KB-29_Superfortress&amp;action=edit&amp;redlink=1" title="Boeing KB-29 Superfortress (страница отсутствует)">KB-29</a></li>
+<li><a href="/wiki/Boeing_B-50_Superfortress" title="Boeing B-50 Superfortress">KB-50</a></li>
+<li><a href="/wiki/Boeing_KC-97_Stratofreighter" title="Boeing KC-97 Stratofreighter">KC-97</a></li>
+<li><a href="/wiki/Boeing_KC-135_Stratotanker" title="Boeing KC-135 Stratotanker">KC-135</a></li>
+<li><a href="/wiki/Boeing_707" title="Boeing 707">KC-137</a></li>
+<li><a href="/wiki/McDonnell_Douglas_KC-10_Extender" title="McDonnell Douglas KC-10 Extender">KC-10</a></li>
+<li><a href="/wiki/Boeing_KC-46" title="Boeing KC-46">KC-46</a></li>
+<li><a href="/wiki/Boeing_KC-767" title="Boeing KC-767">KC-767</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Учебные</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="new" href="/w/index.php?title=Boeing-Stearman_Model_75&amp;action=edit&amp;redlink=1" title="Boeing-Stearman Model 75 (страница отсутствует)">PT-13</a></li>
+<li><a class="new" href="/w/index.php?title=Boeing-Stearman_Model_75&amp;action=edit&amp;redlink=1" title="Boeing-Stearman Model 75 (страница отсутствует)">PT-17</a></li>
+<li><a class="new" href="/w/index.php?title=Boeing-Stearman_Model_75&amp;action=edit&amp;redlink=1" title="Boeing-Stearman Model 75 (страница отсутствует)">PT-18</a></li>
+<li><a class="new" href="/w/index.php?title=Boeing-Stearman_Model_75&amp;action=edit&amp;redlink=1" title="Boeing-Stearman Model 75 (страница отсутствует)">PT-27</a></li>
+<li><a class="new" href="/w/index.php?title=Boeing_XAT-15&amp;action=edit&amp;redlink=1" title="Boeing XAT-15 (страница отсутствует)">XAT-15</a></li>
+<li><span data-interwiki-article="Boeing T-43" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=Boeing_T-43&amp;action=edit&amp;redlink=1" title="Boeing T-43 (страница отсутствует)">T-43</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://en.wikipedia.org/wiki/Boeing_T-43" title="en:Boeing T-43"><span title="Boeing T-43 — версия статьи «Boeing T-43» на английском языке">[en]</span></a></sup></span></li>
+<li><a href="/wiki/Boeing_T-45_Goshawk" title="Boeing T-45 Goshawk">T-45</a></li>
+<li><a class="mw-redirect" href="/wiki/Boeing_T-X" title="Boeing T-X">T-X</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Патрульные</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Boeing_XPB" title="Boeing XPB">XPB</a></li>
+<li><a class="new" href="/w/index.php?title=Boeing_XPBB_Sea_Ranger&amp;action=edit&amp;redlink=1" title="Boeing XPBB Sea Ranger (страница отсутствует)">XPBB</a></li>
+<li><a class="new" href="/w/index.php?title=Boeing_XP3B&amp;action=edit&amp;redlink=1" title="Boeing XP3B (страница отсутствует)">XP3B</a></li>
+<li><a href="/wiki/Boeing_P-8_Poseidon" title="Boeing P-8 Poseidon">P-8</a></li>
+<li><a class="new" href="/w/index.php?title=Boeing_EC-135&amp;action=edit&amp;redlink=1" title="Boeing EC-135 (страница отсутствует)">EC-135</a></li>
+<li><a href="/wiki/Boeing_EC-18_ARIA" title="Boeing EC-18 ARIA">EC-18</a></li>
+<li><a href="/wiki/Boeing_E-3_Sentry" title="Boeing E-3 Sentry">E-3</a></li>
+<li><a href="/wiki/Boeing_E-4" title="Boeing E-4">E-4</a></li>
+<li><a href="/wiki/Boeing_E-6_Mercury" title="Boeing E-6 Mercury">E-6</a></li>
+<li><a href="/wiki/Boeing_E-8_JSTARS" title="Boeing E-8 JSTARS">E-8</a></li>
+<li><a href="/wiki/Northrop_Grumman_E-10_MC2A" title="Northrop Grumman E-10 MC2A">E-10</a></li>
+<li><a href="/wiki/Boeing_E-767" title="Boeing E-767">E-767</a></li>
+<li><a href="/wiki/Boeing_737_AEW%26C" title="Boeing 737 AEW&amp;C">737 AEW&amp;C</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Разведывательные</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="new" href="/w/index.php?title=Boeing_NC-135&amp;action=edit&amp;redlink=1" title="Boeing NC-135 (страница отсутствует)">NC-135</a></li>
+<li><a class="new" href="/w/index.php?title=Boeing_OC-135B_Open_Skies&amp;action=edit&amp;redlink=1" title="Boeing OC-135B Open Skies (страница отсутствует)">OC-135B</a></li>
+<li><a href="/wiki/Boeing_RC-135" title="Boeing RC-135">RC-135</a></li>
+<li><a href="/wiki/Boeing_WC-135_Constant_Phoenix" title="Boeing WC-135 Constant Phoenix">WC-135</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Дроны/беспилотники</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/CQM-121_Pave_Tiger" title="CQM-121 Pave Tiger">CQM-121</a></li>
+<li><a href="/wiki/A_160_Hummingbird" title="A 160 Hummingbird">MQ-18</a></li>
+<li><a href="/wiki/Boeing_X-50" title="Boeing X-50">X-50</a></li>
+<li><a href="/wiki/ScanEagle" title="ScanEagle">ScanEagle</a></li>
+<li><a href="/wiki/Boeing_MQ-25_Stingray" title="Boeing MQ-25 Stingray">MQ-25</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Экспериментальные/прототипы</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/X-20_Dyna_Soar" title="X-20 Dyna Soar">X-20</a></li>
+<li><a href="/wiki/Boeing_X-32" title="Boeing X-32">X-32</a></li>
+<li><a href="/wiki/McDonnell_Douglas_X-36" title="McDonnell Douglas X-36">X-36</a></li>
+<li><a href="/wiki/Boeing_X-37" title="Boeing X-37">X-37</a></li>
+<li><a class="new" href="/w/index.php?title=Boeing_X-40&amp;action=edit&amp;redlink=1" title="Boeing X-40 (страница отсутствует)">X-40</a></li>
+<li><a href="/wiki/Boeing_X-45" title="Boeing X-45">X-45</a>/<a href="/wiki/Boeing_Phantom_Ray" title="Boeing Phantom Ray">Phantom Ray</a></li>
+<li><a href="/wiki/Boeing_X-50" title="Boeing X-50">X-50</a></li>
+<li><a href="/wiki/Boeing_X-51" title="Boeing X-51">X-51</a></li>
+<li><a href="/wiki/Boeing_X-53" title="Boeing X-53">X-53</a></li>
+<li><a href="/wiki/Boeing_YAL-1" title="Boeing YAL-1">YAL-1</a></li>
+<li><a href="/wiki/Boeing_Phantom_Eye" title="Boeing Phantom Eye">Phantom Eye</a></li>
+<li><a href="/wiki/Boeing_Bird_of_Prey" title="Boeing Bird of Prey">Bird of Prey</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Семейство_Boeing_737" class="navbox" data-name="Семейство Boeing 737" role="navigation"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%A1%D0%B5%D0%BC%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%BE_Boeing_737" title="Перейти к шаблону «Семейство Boeing 737»"><img alt="Перейти к шаблону «Семейство Boeing 737»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span> </span><div id="Семейство_Boeing_737" style="font-size:114%;margin:0 5em">Семейство <a class="mw-selflink selflink">Boeing 737</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1px">Гражданские и коммерческие</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">737 Original (-100/-200)</a></li>
+<li><a href="/wiki/Boeing_737_Classic" title="Boeing 737 Classic">737 Classic (-300/-400/-500)</a></li>
+<li><a href="/wiki/Boeing_737_Next_Generation" title="Boeing 737 Next Generation">737 NG (-600/-700/-800/-900)</a></li>
+<li><a href="/wiki/Boeing_737_MAX" title="Boeing 737 MAX">737 MAX (-7/-8/-9/-10)</a></li>
+<li><a href="/wiki/Boeing_Business_Jet" title="Boeing Business Jet">737 BBJ</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Военные</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Boeing_737_AEW%26C" title="Boeing 737 AEW&amp;C">AEW&amp;C/E-7</a></li>
+<li><span data-interwiki-article="Boeing C-40 Clipper" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=Boeing_C-40_Clipper&amp;action=edit&amp;redlink=1" title="Boeing C-40 Clipper (страница отсутствует)">C-40</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://en.wikipedia.org/wiki/Boeing_C-40_Clipper" title="en:Boeing C-40 Clipper"><span title="Boeing C-40 Clipper — версия статьи «Boeing C-40 Clipper» на английском языке">[en]</span></a></sup></span></li>
+<li><a href="/wiki/Boeing_P-8_Poseidon" title="Boeing P-8 Poseidon">P-8</a></li>
+<li><span data-interwiki-article="Boeing T-43" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=Boeing_T-43&amp;action=edit&amp;redlink=1" title="Boeing T-43 (страница отсутствует)">T-43</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://en.wikipedia.org/wiki/Boeing_T-43" title="en:Boeing T-43"><span title="Boeing T-43 — версия статьи «Boeing T-43» на английском языке">[en]</span></a></sup></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1403
+Cached time: 20240218011642
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.463 seconds
+Real time usage: 0.680 seconds
+Preprocessor visited node count: 4443/1000000
+Post‐expand include size: 87994/2097152 bytes
+Template argument size: 8867/2097152 bytes
+Highest expansion depth: 16/100
+Expensive parser function count: 17/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 16900/5000000 bytes
+Lua time usage: 0.229/10.000 seconds
+Lua memory usage: 8929346/52428800 bytes
+Number of Wikibase entities loaded: 11/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  523.013      1 -total
+ 47.22%  246.982      1 Шаблон:Карточка_ЛА
+ 42.40%  221.740      1 Шаблон:Карточка
+ 17.18%   89.843      1 Шаблон:Примечания
+ 11.22%   58.682      1 Шаблон:ВС
+ 10.44%   54.593      3 Шаблон:Wikidata
+  8.48%   44.334      1 Шаблон:Карточка/оригинал_названия
+  7.98%   41.740     11 Шаблон:Cite_web
+  7.11%   37.195      1 Шаблон:Навигация
+  6.00%   31.381      1 Шаблон:Книга
+-->
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:244300-0!canonical and timestamp 20240218011642 and revision id 135685497. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> -->
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Boeing_737&amp;oldid=135685497">https://ru.wikipedia.org/w/index.php?title=Boeing_737&amp;oldid=135685497</a></div></div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%BE%D0%B7%D0%B4%D1%83%D1%88%D0%BD%D1%8B%D0%B5_%D1%81%D1%83%D0%B4%D0%B0_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Воздушные суда по алфавиту">Воздушные суда по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%BE%D0%B7%D0%B4%D1%83%D1%88%D0%BD%D1%8B%D0%B5_%D1%81%D1%83%D0%B4%D0%B0,_%D0%BE%D1%81%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D0%B2%D1%88%D0%B8%D0%B5_%D0%BF%D0%B5%D1%80%D0%B2%D1%8B%D0%B9_%D0%BF%D0%BE%D0%BB%D1%91%D1%82_%D0%B2_1967_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:Воздушные суда, осуществившие первый полёт в 1967 году">Воздушные суда, осуществившие первый полёт в 1967 году</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%B0%D0%BC%D0%BE%D0%BB%D1%91%D1%82%D1%8B_Boeing" title="Категория:Самолёты Boeing">Самолёты Boeing</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%B0%D1%81%D1%81%D0%B0%D0%B6%D0%B8%D1%80%D1%81%D0%BA%D0%B8%D0%B5_%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D1%91%D1%82%D1%8B" title="Категория:Пассажирские самолёты">Пассажирские самолёты</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%BD%D0%B5_%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD_%D1%8F%D0%B7%D1%8B%D0%BA)" title="Категория:Википедия:Cite web (не указан язык)">Википедия:Cite web (не указан язык)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B,_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D0%B2%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_ISBN" title="Категория:Страницы, использующие волшебные ссылки ISBN">Страницы, использующие волшебные ссылки ISBN</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81%D0%BE_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8_%D0%BD%D0%B0_%D0%92%D0%B8%D0%BA%D0%B8%D1%81%D0%BA%D0%BB%D0%B0%D0%B4" title="Категория:Статьи со ссылками на Викисклад">Статьи со ссылками на Викисклад</a></li></ul></div></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Навигация</h2>
+<div id="mw-head">
+<nav aria-labelledby="p-personal-label" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" id="p-personal" role="navigation">
+<h3 class="vector-menu-heading" id="p-personal-label">
+<span class="vector-menu-heading-label">Персональные инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="pt-anonuserpage"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li class="mw-list-item" id="pt-anontalk"><a accesskey="n" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]"><span>Обсуждение</span></a></li><li class="mw-list-item" id="pt-anoncontribs"><a accesskey="y" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]"><span>Вклад</span></a></li><li class="mw-list-item" id="pt-createaccount"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=Boeing+737" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li class="mw-list-item" id="pt-login"><a accesskey="o" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=Boeing+737" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]"><span>Войти</span></a></li>
+</ul>
+</div>
+</nav>
+<div id="left-navigation">
+<nav aria-labelledby="p-namespaces-label" class="mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-namespaces" role="navigation">
+<h3 class="vector-menu-heading" id="p-namespaces-label">
+<span class="vector-menu-heading-label">Пространства имён</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-nstab-main"><a accesskey="c" href="/wiki/Boeing_737" title="Просмотреть контентную страницу [c]"><span>Статья</span></a></li><li class="mw-list-item" id="ca-talk"><a accesskey="t" href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:Boeing_737" rel="discussion" title="Обсуждение основной страницы [t]"><span>Обсуждение</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-variants-label" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" id="p-variants" role="navigation">
+<input aria-haspopup="true" aria-labelledby="p-variants-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-variants" id="p-variants-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-variants-label">
+<span class="vector-menu-heading-label">русский</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+</div>
+<div id="right-navigation">
+<nav aria-labelledby="p-views-label" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-views" role="navigation">
+<h3 class="vector-menu-heading" id="p-views-label">
+<span class="vector-menu-heading-label">Просмотры</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-view"><a href="/wiki/Boeing_737"><span>Читать</span></a></li><li class="mw-list-item" id="ca-ve-edit"><a accesskey="v" href="/w/index.php?title=Boeing_737&amp;veaction=edit" title="Редактировать данную страницу [v]"><span>Править</span></a></li><li class="collapsible mw-list-item" id="ca-edit"><a accesskey="e" href="/w/index.php?title=Boeing_737&amp;action=edit" title="Править исходный текст этой страницы [e]"><span>Править код</span></a></li><li class="mw-list-item" id="ca-history"><a accesskey="h" href="/w/index.php?title=Boeing_737&amp;action=history" title="Журнал изменений страницы [h]"><span>История</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-cactions-label" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" id="p-cactions" role="navigation" title="Больше возможностей">
+<input aria-haspopup="true" aria-labelledby="p-cactions-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-cactions" id="p-cactions-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-cactions-label">
+<span class="vector-menu-heading-label">Ещё</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+<div class="vector-search-box-vue vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box" id="p-search" role="search">
+<h3>Поиск</h3>
+<form action="/w/index.php" class="vector-search-box-form" id="searchform">
+<div class="vector-search-box-inner" data-search-loc="header-navigation" id="simpleSearch">
+<input accesskey="f" aria-label="Искать в Википедии" autocapitalize="sentences" class="vector-search-box-input" id="searchInput" name="search" placeholder="Искать в Википедии" title="Искать в Википедии [f]" type="search"/>
+<input name="title" type="hidden" value="Служебная:Поиск"/>
+<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Найти страницы, содержащие указанный текст" type="submit" value="Найти"/>
+<input class="searchButton" id="searchButton" name="go" title="Перейти к странице, имеющей в точности такое название" type="submit" value="Перейти"/>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="vector-legacy-sidebar" id="mw-panel">
+<div id="p-logo" role="banner">
+<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу"></a>
+</div>
+<nav aria-labelledby="p-navigation-label" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" id="p-navigation" role="navigation">
+<h3 class="vector-menu-heading" id="p-navigation-label">
+<span class="vector-menu-heading-label">Навигация</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-mainpage-description"><a accesskey="z" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]"><span>Заглавная страница</span></a></li><li class="mw-list-item" id="n-content"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li class="mw-list-item" id="n-featured"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li class="mw-list-item" id="n-randompage"><a accesskey="x" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]"><span>Случайная статья</span></a></li><li class="mw-list-item" id="n-currentevents"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li class="mw-list-item" id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-participation-label" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" id="p-participation" role="navigation">
+<h3 class="vector-menu-heading" id="p-participation-label">
+<span class="vector-menu-heading-label">Участие</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-bug_in_article"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li class="mw-list-item" id="n-introduction"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li class="mw-list-item" id="n-portal"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li class="mw-list-item" id="n-forum"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li class="mw-list-item" id="n-recentchanges"><a accesskey="r" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]"><span>Свежие правки</span></a></li><li class="mw-list-item" id="n-newpages"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li class="mw-list-item" id="n-help"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-tb-label" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" id="p-tb" role="navigation">
+<h3 class="vector-menu-heading" id="p-tb-label">
+<span class="vector-menu-heading-label">Инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="t-whatlinkshere"><a accesskey="j" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/Boeing_737" title="Список всех страниц, ссылающихся на данную [j]"><span>Ссылки сюда</span></a></li><li class="mw-list-item" id="t-recentchangeslinked"><a accesskey="k" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/Boeing_737" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]"><span>Связанные правки</span></a></li><li class="mw-list-item" id="t-specialpages"><a accesskey="q" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]"><span>Служебные страницы</span></a></li><li class="mw-list-item" id="t-permalink"><a href="/w/index.php?title=Boeing_737&amp;oldid=135685497" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li class="mw-list-item" id="t-info"><a href="/w/index.php?title=Boeing_737&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li class="mw-list-item" id="t-cite"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=Boeing_737&amp;id=135685497&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li class="mw-list-item" id="t-urlshortener"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2FBoeing_737"><span>Получить короткий URL</span></a></li><li class="mw-list-item" id="t-urlshortener-qrcode"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2FBoeing_737"><span>Скачать QR-код</span></a></li><li class="mw-list-item" id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q6387" title="Ссылка на связанный элемент репозитория данных [g]"><span>Элемент Викиданных</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-coll-print_export-label" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" id="p-coll-print_export" role="navigation">
+<h3 class="vector-menu-heading" id="p-coll-print_export-label">
+<span class="vector-menu-heading-label">Печать/экспорт</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="coll-download-as-rl"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=Boeing_737&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li class="mw-list-item" id="t-print"><a accesskey="p" href="/w/index.php?title=Boeing_737&amp;printable=yes" title="Версия этой страницы для печати [p]"><span>Версия для печати</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-wikibase-otherprojects-label" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal vector-menu" id="p-wikibase-otherprojects" role="navigation">
+<h3 class="vector-menu-heading" id="p-wikibase-otherprojects-label">
+<span class="vector-menu-heading-label">В других проектах</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Boeing_737" hreflang="en"><span>Викисклад</span></a></li><li class="wb-otherproject-link wb-otherproject-wikinews mw-list-item"><a href="https://ru.wikinews.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:Boeing_737" hreflang="ru"><span>Викиновости</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-lang-label" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" id="p-lang" role="navigation">
+<h3 class="vector-menu-heading" id="p-lang-label">
+<span class="vector-menu-heading-label">На других языках</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="interlanguage-link interwiki-af mw-list-item"><a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Boeing_737" hreflang="af" lang="af" title="Boeing 737 — африкаанс"><span>Afrikaans</span></a></li><li class="interlanguage-link interwiki-als mw-list-item"><a class="interlanguage-link-target" href="https://als.wikipedia.org/wiki/Boeing_737" hreflang="gsw" lang="gsw" title="Boeing 737 — швейцарский немецкий"><span>Alemannisch</span></a></li><li class="interlanguage-link interwiki-an mw-list-item"><a class="interlanguage-link-target" href="https://an.wikipedia.org/wiki/Boeing_737" hreflang="an" lang="an" title="Boeing 737 — арагонский"><span>Aragonés</span></a></li><li class="interlanguage-link interwiki-ar mw-list-item"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%A8%D9%88%D9%8A%D9%86%D8%BA_737" hreflang="ar" lang="ar" title="بوينغ 737 — арабский"><span>العربية</span></a></li><li class="interlanguage-link interwiki-ast mw-list-item"><a class="interlanguage-link-target" href="https://ast.wikipedia.org/wiki/Boeing_737" hreflang="ast" lang="ast" title="Boeing 737 — астурийский"><span>Asturianu</span></a></li><li class="interlanguage-link interwiki-be mw-list-item"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/Boeing_737" hreflang="be" lang="be" title="Boeing 737 — белорусский"><span>Беларуская</span></a></li><li class="interlanguage-link interwiki-be-x-old mw-list-item"><a class="interlanguage-link-target" href="https://be-tarask.wikipedia.org/wiki/Boeing_737" hreflang="be-tarask" lang="be-tarask" title="Boeing 737 — Belarusian (Taraškievica orthography)"><span>Беларуская (тарашкевіца)</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%91%D0%BE%D0%B8%D0%BD%D0%B3_737" hreflang="bg" lang="bg" title="Боинг 737 — болгарский"><span>Български</span></a></li><li class="interlanguage-link interwiki-bn mw-list-item"><a class="interlanguage-link-target" href="https://bn.wikipedia.org/wiki/%E0%A6%AC%E0%A7%8B%E0%A6%AF%E0%A6%BC%E0%A6%BF%E0%A6%82_%E0%A7%AD%E0%A7%A9%E0%A7%AD" hreflang="bn" lang="bn" title="বোয়িং ৭৩৭ — бенгальский"><span>বাংলা</span></a></li><li class="interlanguage-link interwiki-bs mw-list-item"><a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Boeing_737" hreflang="bs" lang="bs" title="Boeing 737 — боснийский"><span>Bosanski</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Boeing_737" hreflang="ca" lang="ca" title="Boeing 737 — каталанский"><span>Català</span></a></li><li class="interlanguage-link interwiki-ckb mw-list-item"><a class="interlanguage-link-target" href="https://ckb.wikipedia.org/wiki/%D8%A8%DB%86%DB%8C%D9%86%DA%AF_%D9%A7%D9%A3%D9%A7" hreflang="ckb" lang="ckb" title="بۆینگ ٧٣٧ — центральнокурдский"><span>کوردی</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Boeing_737" hreflang="cs" lang="cs" title="Boeing 737 — чешский"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Boeing_737" hreflang="da" lang="da" title="Boeing 737 — датский"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de badge-Q17437798 badge-goodarticle mw-list-item" title="хорошая статья"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Boeing_737" hreflang="de" lang="de" title="Boeing 737 — немецкий"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/Boeing_737" hreflang="el" lang="el" title="Boeing 737 — греческий"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a class="interlanguage-link-target" href="https://en.wikipedia.org/wiki/Boeing_737" hreflang="en" lang="en" title="Boeing 737 — английский"><span>English</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Boeing_737" hreflang="eo" lang="eo" title="Boeing 737 — эсперанто"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Boeing_737" hreflang="es" lang="es" title="Boeing 737 — испанский"><span>Español</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Boeing_737" hreflang="et" lang="et" title="Boeing 737 — эстонский"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Boeing_737" hreflang="eu" lang="eu" title="Boeing 737 — баскский"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%A8%D9%88%D8%A6%DB%8C%D9%86%DA%AF_%DB%B7%DB%B3%DB%B7" hreflang="fa" lang="fa" title="بوئینگ ۷۳۷ — персидский"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Boeing_737" hreflang="fi" lang="fi" title="Boeing 737 — финский"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Boeing_737" hreflang="fr" lang="fr" title="Boeing 737 — французский"><span>Français</span></a></li><li class="interlanguage-link interwiki-fy mw-list-item"><a class="interlanguage-link-target" href="https://fy.wikipedia.org/wiki/Boeing_737" hreflang="fy" lang="fy" title="Boeing 737 — западнофризский"><span>Frysk</span></a></li><li class="interlanguage-link interwiki-ga mw-list-item"><a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/Boeing_737" hreflang="ga" lang="ga" title="Boeing 737 — ирландский"><span>Gaeilge</span></a></li><li class="interlanguage-link interwiki-gl mw-list-item"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Boeing_737" hreflang="gl" lang="gl" title="Boeing 737 — галисийский"><span>Galego</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%91%D7%95%D7%90%D7%99%D7%A0%D7%92_737" hreflang="he" lang="he" title="בואינג 737 — иврит"><span>עברית</span></a></li><li class="interlanguage-link interwiki-hi mw-list-item"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%AC%E0%A5%8B%E0%A4%87%E0%A4%82%E0%A4%97_737" hreflang="hi" lang="hi" title="बोइंग 737 — хинди"><span>हिन्दी</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Boeing_737" hreflang="hr" lang="hr" title="Boeing 737 — хорватский"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Boeing_737" hreflang="hu" lang="hu" title="Boeing 737 — венгерский"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-hy mw-list-item"><a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D4%B2%D5%B8%D5%AB%D5%B6%D5%A3_737" hreflang="hy" lang="hy" title="Բոինգ 737 — армянский"><span>Հայերեն</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Boeing_737" hreflang="id" lang="id" title="Boeing 737 — индонезийский"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-io mw-list-item"><a class="interlanguage-link-target" href="https://io.wikipedia.org/wiki/Boeing_737" hreflang="io" lang="io" title="Boeing 737 — идо"><span>Ido</span></a></li><li class="interlanguage-link interwiki-is mw-list-item"><a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/Boeing_737" hreflang="is" lang="is" title="Boeing 737 — исландский"><span>Íslenska</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Boeing_737" hreflang="it" lang="it" title="Boeing 737 — итальянский"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%BC%E3%82%A4%E3%83%B3%E3%82%B0737" hreflang="ja" lang="ja" title="ボーイング737 — японский"><span>日本語</span></a></li><li class="interlanguage-link interwiki-jv mw-list-item"><a class="interlanguage-link-target" href="https://jv.wikipedia.org/wiki/Boeing_737" hreflang="jv" lang="jv" title="Boeing 737 — яванский"><span>Jawa</span></a></li><li class="interlanguage-link interwiki-kk mw-list-item"><a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/Boeing_737" hreflang="kk" lang="kk" title="Boeing 737 — казахский"><span>Қазақша</span></a></li><li class="interlanguage-link interwiki-km mw-list-item"><a class="interlanguage-link-target" href="https://km.wikipedia.org/wiki/Boeing_737" hreflang="km" lang="km" title="Boeing 737 — кхмерский"><span>ភាសាខ្មែរ</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EB%B3%B4%EC%9E%89_737" hreflang="ko" lang="ko" title="보잉 737 — корейский"><span>한국어</span></a></li><li class="interlanguage-link interwiki-lb mw-list-item"><a class="interlanguage-link-target" href="https://lb.wikipedia.org/wiki/Boeing_737" hreflang="lb" lang="lb" title="Boeing 737 — люксембургский"><span>Lëtzebuergesch</span></a></li><li class="interlanguage-link interwiki-li mw-list-item"><a class="interlanguage-link-target" href="https://li.wikipedia.org/wiki/Boeing_737" hreflang="li" lang="li" title="Boeing 737 — лимбургский"><span>Limburgs</span></a></li><li class="interlanguage-link interwiki-lo mw-list-item"><a class="interlanguage-link-target" href="https://lo.wikipedia.org/wiki/Boeing_737" hreflang="lo" lang="lo" title="Boeing 737 — лаосский"><span>ລາວ</span></a></li><li class="interlanguage-link interwiki-lt mw-list-item"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Boeing_737" hreflang="lt" lang="lt" title="Boeing 737 — литовский"><span>Lietuvių</span></a></li><li class="interlanguage-link interwiki-lv mw-list-item"><a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Boeing_737" hreflang="lv" lang="lv" title="Boeing 737 — латышский"><span>Latviešu</span></a></li><li class="interlanguage-link interwiki-mg mw-list-item"><a class="interlanguage-link-target" href="https://mg.wikipedia.org/wiki/Boeing_737" hreflang="mg" lang="mg" title="Boeing 737 — малагасийский"><span>Malagasy</span></a></li><li class="interlanguage-link interwiki-mk mw-list-item"><a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%91%D0%BE%D0%B8%D0%BD%D0%B3_737" hreflang="mk" lang="mk" title="Боинг 737 — македонский"><span>Македонски</span></a></li><li class="interlanguage-link interwiki-mr mw-list-item"><a class="interlanguage-link-target" href="https://mr.wikipedia.org/wiki/%E0%A4%AC%E0%A5%8B%E0%A4%88%E0%A4%82%E0%A4%97_%E0%A5%AD%E0%A5%A9%E0%A5%AD" hreflang="mr" lang="mr" title="बोईंग ७३७ — маратхи"><span>मराठी</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Boeing_737" hreflang="ms" lang="ms" title="Boeing 737 — малайский"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-my mw-list-item"><a class="interlanguage-link-target" href="https://my.wikipedia.org/wiki/%E1%80%98%E1%80%AD%E1%80%AF%E1%80%B8%E1%80%A1%E1%80%84%E1%80%BA%E1%80%B8_%E1%81%87%E1%81%83%E1%81%87" hreflang="my" lang="my" title="ဘိုးအင်း ၇၃၇ — бирманский"><span>မြန်မာဘာသာ</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Boeing_737" hreflang="nl" lang="nl" title="Boeing 737 — нидерландский"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-nn mw-list-item"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Boeing_737" hreflang="nn" lang="nn" title="Boeing 737 — нюнорск"><span>Norsk nynorsk</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Boeing_737" hreflang="nb" lang="nb" title="Boeing 737 — норвежский букмол"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-nso mw-list-item"><a class="interlanguage-link-target" href="https://nso.wikipedia.org/wiki/Boeing_737" hreflang="nso" lang="nso" title="Boeing 737 — северный сото"><span>Sesotho sa Leboa</span></a></li><li class="interlanguage-link interwiki-oc mw-list-item"><a class="interlanguage-link-target" href="https://oc.wikipedia.org/wiki/Boeing_737" hreflang="oc" lang="oc" title="Boeing 737 — окситанский"><span>Occitan</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Boeing_737" hreflang="pl" lang="pl" title="Boeing 737 — польский"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pms mw-list-item"><a class="interlanguage-link-target" href="https://pms.wikipedia.org/wiki/Boeing_737" hreflang="pms" lang="pms" title="Boeing 737 — Piedmontese"><span>Piemontèis</span></a></li><li class="interlanguage-link interwiki-pnb mw-list-item"><a class="interlanguage-link-target" href="https://pnb.wikipedia.org/wiki/%D8%A8%D9%88%D8%A6%D9%86%DA%AF_737" hreflang="pnb" lang="pnb" title="بوئنگ 737 — Western Punjabi"><span>پنجابی</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Boeing_737" hreflang="pt" lang="pt" title="Boeing 737 — португальский"><span>Português</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Boeing_737" hreflang="ro" lang="ro" title="Boeing 737 — румынский"><span>Română</span></a></li><li class="interlanguage-link interwiki-sco mw-list-item"><a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Boeing_737" hreflang="sco" lang="sco" title="Boeing 737 — шотландский"><span>Scots</span></a></li><li class="interlanguage-link interwiki-sh mw-list-item"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Boeing_737" hreflang="sh" lang="sh" title="Boeing 737 — сербскохорватский"><span>Srpskohrvatski / српскохрватски</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Boeing_737" hreflang="en-simple" lang="en-simple" title="Boeing 737 — Simple English"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Boeing_737" hreflang="sk" lang="sk" title="Boeing 737 — словацкий"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-sl mw-list-item"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Boeing_737" hreflang="sl" lang="sl" title="Boeing 737 — словенский"><span>Slovenščina</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%91%D0%BE%D0%B8%D0%BD%D0%B3_737" hreflang="sr" lang="sr" title="Боинг 737 — сербский"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-st mw-list-item"><a class="interlanguage-link-target" href="https://st.wikipedia.org/wiki/Boeing_737" hreflang="st" lang="st" title="Boeing 737 — южный сото"><span>Sesotho</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Boeing_737" hreflang="sv" lang="sv" title="Boeing 737 — шведский"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-ta mw-list-item"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AF%8B%E0%AE%AF%E0%AE%BF%E0%AE%99%E0%AF%8D_737" hreflang="ta" lang="ta" title="போயிங் 737 — тамильский"><span>தமிழ்</span></a></li><li class="interlanguage-link interwiki-tg mw-list-item"><a class="interlanguage-link-target" href="https://tg.wikipedia.org/wiki/Boeing_B737" hreflang="tg" lang="tg" title="Boeing B737 — таджикский"><span>Тоҷикӣ</span></a></li><li class="interlanguage-link interwiki-th mw-list-item"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B9%82%E0%B8%9A%E0%B8%AD%E0%B8%B4%E0%B8%87_737" hreflang="th" lang="th" title="โบอิง 737 — тайский"><span>ไทย</span></a></li><li class="interlanguage-link interwiki-tl mw-list-item"><a class="interlanguage-link-target" href="https://tl.wikipedia.org/wiki/Boeing_737" hreflang="tl" lang="tl" title="Boeing 737 — тагалог"><span>Tagalog</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Boeing_737" hreflang="tr" lang="tr" title="Boeing 737 — турецкий"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-tt mw-list-item"><a class="interlanguage-link-target" href="https://tt.wikipedia.org/wiki/Boeing_737" hreflang="tt" lang="tt" title="Boeing 737 — татарский"><span>Татарча / tatarça</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/Boeing_737" hreflang="uk" lang="uk" title="Boeing 737 — украинский"><span>Українська</span></a></li><li class="interlanguage-link interwiki-uz mw-list-item"><a class="interlanguage-link-target" href="https://uz.wikipedia.org/wiki/Boeing_737" hreflang="uz" lang="uz" title="Boeing 737 — узбекский"><span>Oʻzbekcha / ўзбекча</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Boeing_737" hreflang="vi" lang="vi" title="Boeing 737 — вьетнамский"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-wuu mw-list-item"><a class="interlanguage-link-target" href="https://wuu.wikipedia.org/wiki/%E6%B3%A2%E9%9F%B3737" hreflang="wuu" lang="wuu" title="波音737 — у"><span>吴语</span></a></li><li class="interlanguage-link interwiki-xh mw-list-item"><a class="interlanguage-link-target" href="https://xh.wikipedia.org/wiki/Boeing_737" hreflang="xh" lang="xh" title="Boeing 737 — коса"><span>IsiXhosa</span></a></li><li class="interlanguage-link interwiki-xmf mw-list-item"><a class="interlanguage-link-target" href="https://xmf.wikipedia.org/wiki/Boeing_737" hreflang="xmf" lang="xmf" title="Boeing 737 — Mingrelian"><span>მარგალური</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E6%B3%A2%E9%9F%B3737" hreflang="zh" lang="zh" title="波音737 — китайский"><span>中文</span></a></li><li class="interlanguage-link interwiki-zh-yue mw-list-item"><a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E6%B3%A2%E9%9F%B3737" hreflang="yue" lang="yue" title="波音737 — кантонский"><span>粵語</span></a></li>
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q6387#sitelinks-wikipedia" title="Править ссылки на другие языки">Править ссылки</a></span></div>
+</div>
+</nav>
+</div>
+</div>
+<footer class="mw-footer" id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 20 января 2024 в 15:22.</li>
+<li id="footer-info-copyright">Текст доступен по <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru" rel="license">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a><a href="//creativecommons.org/licenses/by-sa/4.0/" rel="license" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br/>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org/ru/">Фонд Викимедиа (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//ru.m.wikipedia.org/w/index.php?title=Boeing_737&amp;mobileaction=toggle_view_mobile">Мобильная версия</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" loading="lazy" src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88"/></a></li>
+<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" loading="lazy" src="/static/images/footer/poweredby_mediawiki_88x31.png" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88"/></a></li>
+</ul>
+</footer>
+
+
+</body>
+</html>

@@ -1,0 +1,609 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="ru">
+<head>
+<meta charset="utf-8"/>
+<title>Стратостат — Википедия</title>
+
+
+
+
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+
+
+<meta content="MediaWiki 1.42.0-wmf.18" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="max-image-preview:standard" name="robots"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/9/9a/USSR-1_aerostat_5k_stamp.jpg" property="og:image"/>
+<meta content="1200" property="og:image:width"/>
+<meta content="2282" property="og:image:height"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/9/9a/USSR-1_aerostat_5k_stamp.jpg" property="og:image"/>
+<meta content="800" property="og:image:width"/>
+<meta content="1521" property="og:image:height"/>
+<meta content="640" property="og:image:width"/>
+<meta content="1217" property="og:image:height"/>
+<meta content="width=1000" name="viewport"/>
+<meta content="Стратостат — Википедия" property="og:title"/>
+<meta content="website" property="og:type"/>
+
+
+
+
+
+
+
+
+
+
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Стратостат rootpage-Стратостат skin-vector action-view"><div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators">
+</div>
+<h1 class="firstHeading mw-first-heading" id="firstHeading"><span class="mw-page-title-main">Стратостат</span></h1>
+<div class="vector-body" id="bodyContent">
+<div class="noprint" id="siteSub">Материал из Википедии — свободной энциклопедии</div>
+<div id="contentSub"><div id="mw-content-subtitle"><div class="plainlinks flaggedrevs_preview" id="mw-fr-reviewnotice">Текущая версия страницы пока <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9/%D0%9F%D0%BE%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BB%D1%8F_%D1%87%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9" title="Википедия:Проверка статей/Пояснение для читателей">не проверялась</a> опытными участниками и может значительно отличаться от <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%A1%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%81%D1%82%D0%B0%D1%82&amp;stable=1">версии</a>, проверенной 30 января 2023 года; проверки требуют <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%A1%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%81%D1%82%D0%B0%D1%82&amp;oldid=128188554&amp;diff=cur&amp;diffonly=0">6 правок</a>.</div><div class="flaggedrevs_short flaggedrevs_draft_notsynced plainlinks noprint" id="mw-fr-revisiontag"><div class="flaggedrevs_short_basic"><span class="flaggedrevs-icon oo-ui-widget oo-ui-widget-enabled oo-ui-iconElement-icon oo-ui-icon-block oo-ui-iconElement oo-ui-labelElement-invisible oo-ui-iconWidget" title="Текущая версия"></span><span class="fr-toggle-arrow oo-ui-widget oo-ui-widget-enabled oo-ui-indicatorElement-indicator oo-ui-indicator-down oo-ui-indicatorElement oo-ui-labelElement-invisible oo-ui-indicatorWidget" id="mw-fr-revisiontoggle" title="показать/скрыть подробности"></span></div>
+<div id="mw-fr-revisiondetails-wrapper" style="position:relative;"><div class="flaggedrevs_short_details" id="mw-fr-revisiondetails" style="display:none">Текущая версия страницы пока <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9/%D0%9F%D0%BE%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BB%D1%8F_%D1%87%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9" title="Википедия:Проверка статей/Пояснение для читателей">не проверялась</a> опытными участниками и может значительно отличаться от <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%A1%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%81%D1%82%D0%B0%D1%82&amp;stable=1">версии</a>, проверенной 30 января 2023 года; проверки требуют <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%A1%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%81%D1%82%D0%B0%D1%82&amp;oldid=128188554&amp;diff=cur&amp;diffonly=0">6 правок</a>.</div>
+</div>
+</div>
+</div></div>
+<div id="contentSub2"></div>
+<div id="jump-to-nav"></div>
+<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+<div class="mw-body-content" id="mw-content-text"><div class="mw-content-ltr mw-parser-output" dir="ltr" lang="ru"><figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:USSR-1_aerostat_5k_stamp.jpg"><img class="mw-file-element" data-file-height="424" data-file-width="223" decoding="async" height="418" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/USSR-1_aerostat_5k_stamp.jpg/220px-USSR-1_aerostat_5k_stamp.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/9/9a/USSR-1_aerostat_5k_stamp.jpg 1.5x" width="220"/></a><figcaption>Почтовая марка с изображением стратостата «<a href="/wiki/%D0%A1%D0%A1%D0%A1%D0%A0-1" title="СССР-1">СССР-1</a>»</figcaption></figure>
+<p><b>Стратоста́т</b> (<i>стратосферный аэростат</i>) — свободный <a href="/wiki/%D0%90%D1%8D%D1%80%D0%BE%D1%81%D1%82%D0%B0%D1%82" title="Аэростат">аэростат</a>, предназначенный для полётов в <a href="/wiki/%D0%A1%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%81%D1%84%D0%B5%D1%80%D0%B0" title="Стратосфера">стратосферу</a>, то есть на высоту более 11 км.
+Стратостаты, предназначенные для подъёма только до нижних слоёв стратосферы, называются субстратостатами.
+</p>
+<div aria-labelledby="mw-toc-heading" class="toc" id="toc" role="navigation"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="ru"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Устройство_и_оборудование_стратостата"><span class="tocnumber">1</span> <span class="toctext">Устройство и оборудование стратостата</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#FNRS-1"><span class="tocnumber">2</span> <span class="toctext">FNRS-1</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Стратостаты_в_СССР"><span class="tocnumber">3</span> <span class="toctext">Стратостаты в СССР</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Проект_Man_High"><span class="tocnumber">4</span> <span class="toctext">Проект Man High</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Проект_«Red_Bull_Stratos»"><span class="tocnumber">5</span> <span class="toctext">Проект «Red Bull Stratos»</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Парашютные_прыжки_со_стратостатов"><span class="tocnumber">6</span> <span class="toctext">Парашютные прыжки со стратостатов</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Некоторые_полёты_стратостатов"><span class="tocnumber">7</span> <span class="toctext">Некоторые полёты стратостатов</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Примечания"><span class="tocnumber">8</span> <span class="toctext">Примечания</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Литература"><span class="tocnumber">9</span> <span class="toctext">Литература</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Ссылки"><span class="tocnumber">10</span> <span class="toctext">Ссылки</span></a></li>
+</ul>
+</div>
+<h2><span id=".D0.A3.D1.81.D1.82.D1.80.D0.BE.D0.B9.D1.81.D1.82.D0.B2.D0.BE_.D0.B8_.D0.BE.D0.B1.D0.BE.D1.80.D1.83.D0.B4.D0.BE.D0.B2.D0.B0.D0.BD.D0.B8.D0.B5_.D1.81.D1.82.D1.80.D0.B0.D1.82.D0.BE.D1.81.D1.82.D0.B0.D1.82.D0.B0"></span><span class="mw-headline" id="Устройство_и_оборудование_стратостата">Устройство и оборудование стратостата</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%81%D1%82%D0%B0%D1%82&amp;veaction=edit&amp;section=1" title="Редактировать раздел «Устройство и оборудование стратостата»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%81%D1%82%D0%B0%D1%82&amp;action=edit&amp;section=1" title="Редактировать код раздела «Устройство и оборудование стратостата»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Хотя стратостат, по сути, является аэростатом, его устройство имеет ряд существенных отличий от тропосферных и субстратосферных воздушных шаров в силу других условий полёта. <a href="/wiki/%D0%9F%D0%BB%D0%BE%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Плотность">Плотность</a> воздуха в нижних слоях стратосферы на порядок меньше, а на высотах около 30 км на 2 порядка меньше, чем на уровне моря, поэтому для создания достаточной аэростатической подъёмной силы <a href="/wiki/%D0%9E%D0%B1%D1%8A%D1%91%D0%BC" title="Объём">объём</a> баллона должен быть достаточно большим и, как правило, превышает 14 000 м³, а объём самого крупного баллона составлял 850 000 м³. Вследствие сильного расширения газа с высотой на старте баллон имеет сильно вытянутую грушевидную форму, которая приближается к <a class="mw-redirect" href="/wiki/%D0%A8%D0%B0%D1%80_(%D1%81%D1%82%D0%B5%D1%80%D0%B5%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%8F)" title="Шар (стереометрия)">шарообразной</a> вблизи верхней точки полёта (то есть на старте имеют очень низкую т. н. «степень наполнения»). Как правило, баллон стратостата наполняется <a href="/wiki/%D0%93%D0%B5%D0%BB%D0%B8%D0%B9" title="Гелий">гелием</a>, в довоенное время в ряде полётов применялся <a href="/wiki/%D0%92%D0%BE%D0%B4%D0%BE%D1%80%D0%BE%D0%B4" title="Водород">водород</a>, который намного дешевле и обладает большей подъёмной силой, но в смеси с воздухом крайне взрывоопасен. Небольшая удельная подъёмная сила газа на значительной высоте (вследствие низкой плотности воздуха) повышает требования к весу оболочки баллона. Обычно её делают из очень тонкого и прочного <a class="mw-redirect" href="/wiki/%D0%9F%D0%BB%D0%B0%D1%81%D1%82%D0%B8%D0%BA" title="Пластик">пластика</a>. В большинстве случаев баллон оборудуется <a href="/wiki/%D0%9A%D0%BB%D0%B0%D0%BF%D0%B0%D0%BD" title="Клапан">клапаном</a> для стравливания газа, который используется для обеспечения снижения стратостата, а также для уменьшения скорости подъёма во время взлёта.
+</p><p>Гондола стратостата должна надёжно защищать экипаж от смертельных для человека условий стратосферы — низкого давления воздуха и низкой (до −70 °C) <a href="/wiki/%D0%A2%D0%B5%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0" title="Температура">температуры</a>. Оболочка гондолы должна выдерживать значительное внутреннее давление, она изготавливается из лёгких металлов, таких как <a href="/wiki/%D0%90%D0%BB%D1%8E%D0%BC%D0%B8%D0%BD%D0%B8%D0%B9" title="Алюминий">алюминий</a>, и обычно имеет <a href="/wiki/%D0%A1%D1%84%D0%B5%D1%80%D0%B0" title="Сфера">сферическую</a> форму. Как правило, полёт длится в течение многих часов, и экипажу необходима система регенерации воздуха, подобная той, которая применяется в <a href="/wiki/%D0%9F%D0%BE%D0%B4%D0%B2%D0%BE%D0%B4%D0%BD%D0%B0%D1%8F_%D0%BB%D0%BE%D0%B4%D0%BA%D0%B0" title="Подводная лодка">подводных лодках</a> и <a class="mw-disambig" href="/wiki/%D0%9A%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C" title="Космический корабль">космических кораблях</a>. Для поглощения <a href="/wiki/%D0%94%D0%B8%D0%BE%D0%BA%D1%81%D0%B8%D0%B4_%D1%83%D0%B3%D0%BB%D0%B5%D1%80%D0%BE%D0%B4%D0%B0" title="Диоксид углерода">углекислого газа</a> может применяться <a href="/wiki/%D0%93%D0%B8%D0%B4%D1%80%D0%BE%D0%BA%D1%81%D0%B8%D0%B4_%D0%BB%D0%B8%D1%82%D0%B8%D1%8F" title="Гидроксид лития">гидроксид лития</a>, для восполнения запасов кислорода — <a href="/wiki/%D0%9A%D0%B8%D1%81%D0%BB%D0%BE%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D0%B1%D0%B0%D0%BB%D0%BB%D0%BE%D0%BD" title="Кислородный баллон">баллоны</a> со сжатым, а в послевоенных полётах также с жидким <a href="/wiki/%D0%9A%D0%B8%D1%81%D0%BB%D0%BE%D1%80%D0%BE%D0%B4" title="Кислород">кислородом</a>.
+</p><p>Система <a href="/wiki/%D0%A2%D0%B5%D1%80%D0%BC%D0%BE%D1%80%D0%B5%D0%B3%D1%83%D0%BB%D1%8F%D1%86%D0%B8%D1%8F" title="Терморегуляция">терморегуляции</a> служит для поддержания комфортной температуры в гондоле. Оригинальную систему применил в стратостате FNRS-1 <a class="mw-redirect" href="/wiki/%D0%9F%D0%B8%D0%BA%D0%B0%D1%80,_%D0%9E%D0%B3%D1%8E%D1%81%D1%82" title="Пикар, Огюст">Огюст Пикар</a>: гондола была покрашена с одной стороны в белый, а с другой — в чёрный цвет, что при повороте к Солнцу соответствующей стороной приводило к нагреванию или остыванию гондолы. Однако в первых полётах устройство поворота гондолы не работало, что вызвало один раз перегрев, другой раз — сильное охлаждение воздуха в гондоле. В более поздних полётах использовалась относительно надёжная электрическая система терморегуляции.
+</p><p>Герметичная гондола затрудняет непосредственный сброс <a href="/wiki/%D0%91%D0%B0%D0%BB%D0%BB%D0%B0%D1%81%D1%82" title="Балласт">балласта</a>, которым оснащают стратостат для регулирования скорости подъёма и спуска. В FNRS-1 для этого применялась специальная воронка, через которую можно было сбрасывать дробь без разгерметизации. В более поздних полётах применялась <a href="/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BC%D0%B0%D0%B3%D0%BD%D0%B8%D1%82" title="Электромагнит">электромагнитная</a> система сброса балласта, подобная применяемым в <a href="/wiki/%D0%91%D0%B0%D1%82%D0%B8%D1%81%D0%BA%D0%B0%D1%84" title="Батискаф">батискафах</a>.
+</p><p>Измерительное и научное оборудование стратостата определяется целями полёта. Во всех полётах гондола оснащается внутренним и наружным <a href="/wiki/%D0%A2%D0%B5%D1%80%D0%BC%D0%BE%D0%BC%D0%B5%D1%82%D1%80" title="Термометр">термометрами</a> и <a href="/wiki/%D0%92%D1%8B%D1%81%D0%BE%D1%82%D0%BE%D0%BC%D0%B5%D1%80" title="Высотомер">высотомером</a>, достаточно часто используются <a href="/wiki/%D0%94%D0%BE%D0%B7%D0%B8%D0%BC%D0%B5%D1%82%D1%80" title="Дозиметр">счётчики радиоактивных частиц</a>, оборудование для определения <a class="mw-redirect" href="/wiki/%D0%A5%D0%B8%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2" title="Химический состав">химического состава</a> или забора проб воздуха, <a href="/wiki/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F" title="Фотография">фото-</a> и <a href="/wiki/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE" title="Видео">видеооборудование</a>. В ряде полётов в состав оборудования включался <a href="/wiki/%D0%A2%D0%B5%D0%BB%D0%B5%D1%81%D0%BA%D0%BE%D0%BF" title="Телескоп">телескоп</a> для проведения <a href="/wiki/%D0%90%D1%81%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%8F" title="Астрономия">астрономических</a> наблюдений.
+</p>
+<h2><span class="mw-headline" id="FNRS-1"><a href="/wiki/FNRS-1" title="FNRS-1">FNRS-1</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%81%D1%82%D0%B0%D1%82&amp;veaction=edit&amp;section=2" title="Редактировать раздел «FNRS-1»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%81%D1%82%D0%B0%D1%82&amp;action=edit&amp;section=2" title="Редактировать код раздела «FNRS-1»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Bundesarchiv_Bild_102-13739,_Stratosph%C3%A4renflug,_Auguste_Piccard.jpg"><img class="mw-file-element" data-file-height="559" data-file-width="800" decoding="async" height="154" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Bundesarchiv_Bild_102-13739%2C_Stratosph%C3%A4renflug%2C_Auguste_Piccard.jpg/220px-Bundesarchiv_Bild_102-13739%2C_Stratosph%C3%A4renflug%2C_Auguste_Piccard.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Bundesarchiv_Bild_102-13739%2C_Stratosph%C3%A4renflug%2C_Auguste_Piccard.jpg/330px-Bundesarchiv_Bild_102-13739%2C_Stratosph%C3%A4renflug%2C_Auguste_Piccard.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Bundesarchiv_Bild_102-13739%2C_Stratosph%C3%A4renflug%2C_Auguste_Piccard.jpg/440px-Bundesarchiv_Bild_102-13739%2C_Stratosph%C3%A4renflug%2C_Auguste_Piccard.jpg 2x" width="220"/></a><figcaption>Огюст Пикар в гондоле стратостата FNRS-1</figcaption></figure>
+<p>Первый в мире стратостат был сконструирован и построен швейцарским учёным <a class="mw-redirect" href="/wiki/%D0%9F%D0%B8%D0%BA%D0%B0%D1%80,_%D0%9E%D0%B3%D1%8E%D1%81%D1%82" title="Пикар, Огюст">Огюстом Пикаром</a>, который планировал использовать его для исследования <a href="/wiki/%D0%9A%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BB%D1%83%D1%87%D0%B8" title="Космические лучи">космических лучей</a>. Стратостат был оборудован сферической герметичной гондолой из <a href="/wiki/%D0%90%D0%BB%D1%8E%D0%BC%D0%B8%D0%BD%D0%B8%D0%B9" title="Алюминий">алюминия</a>, которая защищала экипаж от непригодных для жизни условий стратосферы. Проектирование и создание гондолы было осуществлено в 1930 году при поддержке бельгийской организации <i>Fonds National de la Recherche Scientifique</i> (FNRS), в честь которой она была названа FNRS-1.
+</p><p>27 мая 1931 года Огюст Пикар и Пауль Кипфер совершили первый в истории полёт в стратосферу из города <a href="/wiki/%D0%90%D1%83%D0%B3%D1%81%D0%B1%D1%83%D1%80%D0%B3" title="Аугсбург">Аугсбург</a>, <a href="/wiki/%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F" title="Германия">Германия</a>, достигнув высоты 15785 м. Через некоторое время после старта выяснилось, что гондола негерметична, но Пикару быстро удалось заделать щель. В ходе дальнейшего подъёма отказал механизм управления клапаном баллона, и стратостат потерял управление. В завершение выяснилось, что неисправна система <a href="/wiki/%D0%A2%D0%B5%D1%80%D0%BC%D0%BE%D1%80%D0%B5%D0%B3%D1%83%D0%BB%D1%8F%D1%86%D0%B8%D1%8F" title="Терморегуляция">терморегуляции</a> гондолы, из-за нагрева солнцем температура поднялась до 40 °C при температуре воздуха снаружи стратостата −50 °C. Несмотря на все неприятности, ночью, когда баллон остыл, стратонавтам удалось благополучно приземлиться в <a href="/wiki/%D0%A2%D0%B8%D1%80%D0%BE%D0%BB%D1%8C_(%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C)" title="Тироль (историческая область)">тирольских</a> <a href="/wiki/%D0%90%D0%BB%D1%8C%D0%BF%D1%8B" title="Альпы">Альпах</a>. 18 августа 1932 года Пикар совершил второй рекордный полёт, в целом более удачный, вместе с бельгийским учёным Максом Козинсом. Стратостат стартовал из <a href="/wiki/%D0%A6%D1%8E%D1%80%D0%B8%D1%85" title="Цюрих">Цюриха</a> и достиг высоты 16,2 км. Во время полётов Пикар собрал важные данные о верхних слоях атмосферы и о космических лучах.
+</p><p>Впоследствии Огюст Пикар использовал идею, заложенную в стратостате, при проектировании первого <a href="/wiki/%D0%91%D0%B0%D1%82%D0%B8%D1%81%D0%BA%D0%B0%D1%84" title="Батискаф">батискафа</a> <a href="/wiki/FNRS-2" title="FNRS-2">FNRS-2</a> — автономного глубоководного исследовательского аппарата. Батискаф был построен по той же схеме: герметичная гондола и баллон, но роль баллона, наполненного лёгким газом, играет стальной поплавок, наполненный <a href="/wiki/%D0%91%D0%B5%D0%BD%D0%B7%D0%B8%D0%BD" title="Бензин">бензином</a>.
+</p>
+<h2><span id=".D0.A1.D1.82.D1.80.D0.B0.D1.82.D0.BE.D1.81.D1.82.D0.B0.D1.82.D1.8B_.D0.B2_.D0.A1.D0.A1.D0.A1.D0.A0"></span><span class="mw-headline" id="Стратостаты_в_СССР">Стратостаты в СССР</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%81%D1%82%D0%B0%D1%82&amp;veaction=edit&amp;section=3" title="Редактировать раздел «Стратостаты в СССР»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%81%D1%82%D0%B0%D1%82&amp;action=edit&amp;section=3" title="Редактировать код раздела «Стратостаты в СССР»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Osoaviahim-1_aerostat_03.jpg"><img class="mw-file-element" data-file-height="642" data-file-width="396" decoding="async" height="357" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Osoaviahim-1_aerostat_03.jpg/220px-Osoaviahim-1_aerostat_03.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Osoaviahim-1_aerostat_03.jpg/330px-Osoaviahim-1_aerostat_03.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/8/8e/Osoaviahim-1_aerostat_03.jpg 2x" width="220"/></a><figcaption>Стратостат «<a href="/wiki/%D0%9E%D1%81%D0%BE%D0%B0%D0%B2%D0%B8%D0%B0%D1%85%D0%B8%D0%BC-1" title="Осоавиахим-1">Осоавиахим-1</a>»</figcaption></figure>
+<p>В <a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D1%85_%D0%A1%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA" title="Союз Советских Социалистических Республик">СССР</a> полёты Пикара вызвали большой интерес, и в 1933—1934 годах были построены стратостаты «<a href="/wiki/%D0%A1%D0%A1%D0%A1%D0%A0-1" title="СССР-1">СССР-1</a>» и «<a href="/wiki/%D0%9E%D1%81%D0%BE%D0%B0%D0%B2%D0%B8%D0%B0%D1%85%D0%B8%D0%BC-1" title="Осоавиахим-1">Осоавиахим-1</a>». 30 сентября 1933 «<a href="/wiki/%D0%A1%D0%A1%D0%A1%D0%A0-1" title="СССР-1">СССР-1</a>» конструкции <a href="/wiki/%D0%93%D0%BE%D0%B4%D1%83%D0%BD%D0%BE%D0%B2,_%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD_%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B5%D0%B2%D0%B8%D1%87" title="Годунов, Константин Дмитриевич">К. Д. Годунова</a> совершил полёт на высоту 19 км, установив новый мировой рекорд. Вместе с Годуновым стратостат пилотировали <a href="/wiki/%D0%91%D0%B8%D1%80%D0%BD%D0%B1%D0%B0%D1%83%D0%BC,_%D0%AD%D1%80%D0%BD%D1%81%D1%82_%D0%9A%D0%B0%D1%80%D0%BB%D0%BE%D0%B2%D0%B8%D1%87" title="Бирнбаум, Эрнст Карлович">Э. К. Бирнбаум</a> и выдающийся советский воздухоплаватель <a href="/wiki/%D0%9F%D1%80%D0%BE%D0%BA%D0%BE%D1%84%D1%8C%D0%B5%D0%B2,_%D0%93%D0%B5%D0%BE%D1%80%D0%B3%D0%B8%D0%B9_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B5%D0%B2%D0%B8%D1%87" title="Прокофьев, Георгий Алексеевич">Г. А. Прокофьев</a>.
+</p><p><a href="/wiki/30_%D1%8F%D0%BD%D0%B2%D0%B0%D1%80%D1%8F" title="30 января">30 января</a> <a href="/wiki/1934_%D0%B3%D0%BE%D0%B4" title="1934 год">1934 года</a> в 9 утра из Кунцева (под Москвой) стартовал «<a href="/wiki/%D0%9E%D1%81%D0%BE%D0%B0%D0%B2%D0%B8%D0%B0%D1%85%D0%B8%D0%BC-1" title="Осоавиахим-1">Осоавиахим-1</a>» с экипажем в составе <a class="mw-redirect" href="/wiki/%D0%A4%D0%B5%D0%B4%D0%BE%D1%81%D0%B5%D0%B5%D0%BD%D0%BA%D0%BE,_%D0%9F%D0%B0%D0%B2%D0%B5%D0%BB_%D0%A4%D0%B5%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Федосеенко, Павел Федорович">П. Ф. Федосеенко</a>, <a href="/wiki/%D0%92%D0%B0%D1%81%D0%B5%D0%BD%D0%BA%D0%BE,_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B9_%D0%91%D0%BE%D0%B3%D0%B4%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87" title="Васенко, Андрей Богданович">А. Б. Васенко</a>, <a href="/wiki/%D0%A3%D1%81%D1%8B%D1%81%D0%BA%D0%B8%D0%BD,_%D0%98%D0%BB%D1%8C%D1%8F_%D0%94%D0%B0%D0%B2%D1%8B%D0%B4%D0%BE%D0%B2%D0%B8%D1%87" title="Усыскин, Илья Давыдович">И. Д. Усыскин</a>. Это был первый в истории зимний полёт стратостата. Несмотря на то, что Федосеенко, который руководил подготовкой стратостата, был очень опытным аэронавтом, летал ещё в гражданскую войну, участвовал в полётах с <a href="/wiki/%D0%A4%D1%80%D0%B8%D0%B4%D0%BC%D0%B0%D0%BD,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Фридман, Александр Александрович">Фридманом</a>, риск был велик. Около 12 часов дня, после достижения высоты 20,6 км, была потеряна связь с пилотами. Помятая гондола была обнаружена в 17 часов в Инсарском районе Мордовской области, возле села Потижский Острог, в 8 км южнее станции Кадошкино. Полёт завершился катастрофой, всё оборудование было разбито, члены экипажа погибли. Судя по записям в журнале, аппарат достиг высоты 22 км. По официальному заключению, причиной катастрофы стало превышение предельной безопасной высоты полёта для этого аппарата (около 20,5 км). Вследствие перегрева солнечным теплом оболочки произошёл сброс объёма газа, что затем сказалось на скорости спуска. Снижение происходило слишком быстро, скорость падения стала критической, и на высоте около 2 км произошёл отрыв гондолы от баллона. Дополнительными факторами, повлиявшими на исход полёта, были слабое крепление гондолы, запутывание клапанной верёвки и сложные условия полёта. Члены экипажа награждены <a href="/wiki/%D0%9E%D1%80%D0%B4%D0%B5%D0%BD_%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0" title="Орден Ленина">орденом Ленина</a> посмертно. Урны с прахом героев были захоронены в <a href="/wiki/%D0%9D%D0%B5%D0%BA%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D1%8C_%D1%83_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%91%D0%B2%D1%81%D0%BA%D0%BE%D0%B9_%D1%81%D1%82%D0%B5%D0%BD%D1%8B" title="Некрополь у Кремлёвской стены">Кремлёвской стене</a> лично <a href="/wiki/%D0%A1%D1%82%D0%B0%D0%BB%D0%B8%D0%BD,_%D0%98%D0%BE%D1%81%D0%B8%D1%84_%D0%92%D0%B8%D1%81%D1%81%D0%B0%D1%80%D0%B8%D0%BE%D0%BD%D0%BE%D0%B2%D0%B8%D1%87" title="Сталин, Иосиф Виссарионович">Сталиным</a>, <a href="/wiki/%D0%9C%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%B2,_%D0%92%D1%8F%D1%87%D0%B5%D1%81%D0%BB%D0%B0%D0%B2_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B8%D1%87" title="Молотов, Вячеслав Михайлович">Молотовым</a> и <a href="/wiki/%D0%92%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%BB%D0%BE%D0%B2,_%D0%9A%D0%BB%D0%B8%D0%BC%D0%B5%D0%BD%D1%82_%D0%95%D1%84%D1%80%D0%B5%D0%BC%D0%BE%D0%B2%D0%B8%D1%87" title="Ворошилов, Климент Ефремович">Ворошиловым</a>.
+</p><p>В 1934 году аварией закончился полёт стратостата «СССР-2».
+</p><p>26 июня 1935 года стартовал стратостат «СССР-1-бис» с экипажем в составе <a class="new" href="/w/index.php?title=%D0%97%D0%B8%D0%BB%D0%BB%D0%B5,_%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B0%D0%BF_%D0%AF%D0%BD%D0%BE%D0%B2%D0%B8%D1%87&amp;action=edit&amp;redlink=1" title="Зилле, Кристап Янович (страница отсутствует)">К. Я. Зилле</a>, <a class="new" href="/w/index.php?title=%D0%9F%D1%80%D0%B8%D0%BB%D1%83%D1%86%D0%BA%D0%B8%D0%B9,_%D0%AE%D1%80%D0%B8%D0%B9_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87&amp;action=edit&amp;redlink=1" title="Прилуцкий, Юрий Григорьевич (страница отсутствует)">Ю. Г. Прилуцкий</a>, <a href="/wiki/%D0%92%D0%B5%D1%80%D0%B8%D0%B3%D0%BE,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%91%D1%80%D0%BE%D0%BD%D0%B8%D1%81%D0%BB%D0%B0%D0%B2%D0%BE%D0%B2%D0%B8%D1%87" title="Вериго, Александр Брониславович">А. Б. Вериго</a>. После выполнения научной программы, в начале снижения, выяснилось, что оболочка баллона повреждена. Через некоторое время после входа в тропосферу, когда появилась возможность безопасно открыть люк, Прилуцкий и Вериго выпрыгнули с парашютом. Зилле удалось благополучно посадить облегчённую гондолу.
+</p><p>В 1937 году упал стратостат «СССР-3».
+</p><p>18 июля 1938 года из-за отказа кислородного оборудования погибли стартовавшие 16 июля с лётного поля под <a href="/wiki/%D0%97%D0%B2%D0%B5%D0%BD%D0%B8%D0%B3%D0%BE%D1%80%D0%BE%D0%B4" title="Звенигород">Звенигородом</a> (Подмосковье) на <a class="mw-redirect" href="/wiki/%D0%A1%D1%83%D0%B1%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%81%D1%82%D0%B0%D1%82" title="Субстратостат">субстратостате</a> — физиологической обсерватории ВВА-1 для изучения влияния высотного давления на организм человека, воздухоплаватели <a class="mw-redirect" href="/wiki/%D0%AF%D0%BA%D0%BE%D0%B2_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87_%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9" title="Яков Григорьевич Украинский">Яков Григорьевич Украинский</a>, <a class="mw-redirect" href="/wiki/%D0%A1%D0%B5%D1%80%D0%B0%D1%84%D0%B8%D0%BC_%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D0%BE%D0%B2%D0%B8%D1%87_%D0%9A%D1%83%D1%87%D1%83%D0%BC%D0%BE%D0%B2" title="Серафим Константинович Кучумов">Серафим Константинович Кучумов</a>, <a class="mw-redirect" href="/wiki/%D0%9F%D1%91%D1%82%D1%80_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B8%D1%87_%D0%91%D0%B0%D1%82%D0%B5%D0%BD%D0%BA%D0%BE" title="Пётр Михайлович Батенко">Пётр Михайлович Батенко</a> и <a class="mw-redirect" href="/wiki/%D0%94%D0%B0%D0%B2%D0%B8%D0%B4_%D0%95%D0%B2%D1%81%D0%B5%D0%B5%D0%B2%D0%B8%D1%87_%D0%A1%D1%82%D0%BE%D0%BB%D0%B1%D1%83%D0%BD" title="Давид Евсеевич Столбун">Давид Евсеевич Столбун</a>. 18 июля, во второй половине дня, шар-стратостат опустился на высоковольтную ЛЭП в центре города <a class="mw-redirect" href="/wiki/%D0%A1%D1%82%D0%B0%D0%BB%D0%B8%D0%BD%D0%BE" title="Сталино">Сталино</a> (сейчас <a href="/wiki/%D0%94%D0%BE%D0%BD%D0%B5%D1%86%D0%BA" title="Донецк">Донецк</a>). Взметнулось огромное пламя: взорвался водород, которым была заполнена оболочка шара ВВА-1. <a href="/wiki/%D0%A1%D1%82%D1%80%D0%B0%D1%82%D0%BE%D0%BD%D0%B0%D0%B2%D1%82" title="Стратонавт">Стратонавты</a> были похоронены в <a class="mw-redirect" href="/wiki/%D0%A1%D1%82%D0%B0%D0%BB%D0%B8%D0%BD%D0%BE" title="Сталино">Сталино</a> на пересечении бульвара Пушкина и проспекта 25-летия РККА. На их могиле 26 апреля 1953 г. был установлен <a href="/wiki/%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA_%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D0%B0%D0%BC_(%D0%94%D0%BE%D0%BD%D0%B5%D1%86%D0%BA)" title="Памятник стратонавтам (Донецк)">памятник</a><sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup>.
+</p><p>22 июня 1940 г. в 5.17 «Осоавиахим-2» стартовал в Звенигороде с майором И. И. Зыковым и научным работником АН СССР А. П. Кузнецовым. Перед стартом не было проверено состояние ранцевого механизма, и на первых же секундах взлёта на высоте 10 м произошло самоотделение гондолы от оболочки; экипаж отделался ушибами<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup>.
+</p><p>В 1958 году в СССР был построен <a href="/wiki/%D0%92%D0%BE%D0%BB%D0%B3%D0%B0_(%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%81%D1%82%D0%B0%D1%82)" title="Волга (стратостат)">стратостат «Волга»</a>.
+</p>
+<h2><span id=".D0.9F.D1.80.D0.BE.D0.B5.D0.BA.D1.82_Man_High"></span><span class="mw-headline" id="Проект_Man_High">Проект Man High</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%81%D1%82%D0%B0%D1%82&amp;veaction=edit&amp;section=4" title="Редактировать раздел «Проект Man High»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%81%D1%82%D0%B0%D1%82&amp;action=edit&amp;section=4" title="Редактировать код раздела «Проект Man High»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Manhigh_II_gondola.jpg"><img class="mw-file-element" data-file-height="443" data-file-width="175" decoding="async" height="443" src="//upload.wikimedia.org/wikipedia/commons/c/ca/Manhigh_II_gondola.jpg" width="175"/></a><figcaption>Гондола стратостата «Man High II»</figcaption></figure>
+<p>Исследования Пикара также привлекли внимание и в <a href="/wiki/%D0%A1%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D0%A8%D1%82%D0%B0%D1%82%D1%8B_%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B8" title="Соединённые Штаты Америки">США</a>. Его брат-близнец Жан Пикар, гражданин США, в 1933—1934 построил стратостат «Век прогресса» (Century of Progress), который совершил два полёта, внеся весомый вклад в исследование стратосферы. Во втором полёте участвовала его жена Жанет, ставшая первой женщиной-стратонавтом. 11 ноября 1935 года американские исследователи А. Стивенс и О. Андерсон на стратостате Explorer-2 достигли высоты 22066 м, полёт водородного стратостата Explorer-1, состоявшегося за год до этого, завершился аварией, экипажу удалось спастись, выпрыгнув с парашютом.
+</p><p>В 1957—1958 годах <a class="mw-redirect" href="/wiki/%D0%92%D0%92%D0%A1_%D0%A1%D0%A8%D0%90" title="ВВС США">ВВС США</a> была проведена серия стратосферных полётов на высоту около 30 км, получившая название «<a class="extiw" href="https://en.wikipedia.org/wiki/Project_Manhigh" title="en:Project Manhigh">Man High</a>» (первоначальное название «Дедал»). Хотя в 1950-е годы <a href="/wiki/%D0%A1%D0%B0%D0%BC%D0%BE%D0%BB%D1%91%D1%82" title="Самолёт">самолёты</a> уже достигали стратосферы, они не могли находиться там дольше нескольких минут, стратостат же мог висеть в условиях, близких к космическим, в течение многих часов, что имело большое значение для отработки систем жизнеобеспечения космических полётов.
+</p><p>9 ноября 1955 году был заключён контракт на создание первого стратостата серии «Man High». В 1956 году проект был детально разработан и утверждён командованием ВВС. Проект осуществлялся сотрудниками центра разработки ракетного вооружения ВВС и авиамедицинской полевой лаборатории, расположенных на базе ВВС США Холломан в штате <a href="/wiki/%D0%9D%D1%8C%D1%8E-%D0%9C%D0%B5%D0%BA%D1%81%D0%B8%D0%BA%D0%BE" title="Нью-Мексико">Нью-Мексико</a>. Руководителем был назначен полковник Джон Пол Стапп. Основными целями проекта были отработка систем жизнеобеспечения, контроля состояния пилота, катапультирования и посадки, исследование космической радиации и влияния условий высотного полёта на организм человека. Впоследствии многие из результатов, полученных в ходе реализации проекта, были использованы при создании серии американских космических кораблей «<a href="/wiki/%D0%9C%D0%B5%D1%80%D0%BA%D1%83%D1%80%D0%B8%D0%B9_(%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0)" title="Меркурий (космическая программа)">Меркурий</a>».
+</p><p>В ходе подготовки были произведены испытания <a href="/wiki/%D0%9F%D0%B0%D1%80%D0%B0%D1%88%D1%8E%D1%82" title="Парашют">парашютной</a> системы гондолы, отработана посадка на сушу и на воду, пилоты произвели ряд полётов в открытых аэростатах и прыжков с парашютом. 2 июня 1957 года в 6 часов 23 минуты возле города <a href="/wiki/%D0%A1%D0%B0%D1%83%D1%82-%D0%A1%D0%B5%D0%BD%D1%82-%D0%9F%D0%BE%D0%BB_(%D0%B3%D0%BE%D1%80%D0%BE%D0%B4,_%D0%9C%D0%B8%D0%BD%D0%BD%D0%B5%D1%81%D0%BE%D1%82%D0%B0)" title="Саут-Сент-Пол (город, Миннесота)">Саут Сент-Пол</a> в штате <a href="/wiki/%D0%9C%D0%B8%D0%BD%D0%BD%D0%B5%D1%81%D0%BE%D1%82%D0%B0" title="Миннесота">Миннесота</a> стратостат Man High I начал первый пилотируемый полёт. Пилотом стал Джозеф Киттингер. Максимальная высота полёта составила 29260 м, что значительно превышало достигнутые к тому времени результаты, несмотря на то, что продолжительность полёта была сокращена с 22 часов до 6,5 из-за небольшой утечки <a href="/wiki/%D0%9A%D0%B8%D1%81%D0%BB%D0%BE%D1%80%D0%BE%D0%B4" title="Кислород">кислорода</a>.
+</p><p>Man High II, пилотируемый Дэвидом Симонсом, поднялся в воздух 19 августа 1957 года из карьера около города <a class="mw-disambig" href="/wiki/%D0%9A%D1%80%D0%BE%D1%81%D0%B1%D0%B8" title="Кросби">Кросби</a> в штате Миннесота. Общая высота стратостата составляла 107 м. Впервые в истории высота полёта превысила 30 км и составила в максимуме 30942 м. Длительность полёта составила 32 часа 10 минут вместо запланированных 24 часов. Симонс был вынужден задержать посадку из-за большого грозового фронта в расчётном районе, который делал её слишком опасной. В последние часы полёта подошёл к концу заряд <a class="mw-redirect" href="/wiki/%D0%90%D0%BA%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80" title="Аккумулятор">аккумуляторов</a> и начались проблемы в системе жизнеобеспечения, поэтому пилоту пришлось отключить систему охлаждения гондолы и пользоваться кислородной маской. Полёт завершился в 17 часов 20 августа в северной части штата <a href="/wiki/%D0%AE%D0%B6%D0%BD%D0%B0%D1%8F_%D0%94%D0%B0%D0%BA%D0%BE%D1%82%D0%B0" title="Южная Дакота">Южная Дакота</a>.
+</p><p>8 октября 1958 года состоялся третий полёт серии. Стратостат Man High III, пилотируемый Клифтоном МакКлюром поднялся в воздух с ракетного полигона <a class="new" href="/w/index.php?title=%D0%A3%D0%B0%D0%B9%D1%82_%D0%A1%D0%B5%D0%BD%D0%B4%D1%81&amp;action=edit&amp;redlink=1" title="Уайт Сендс (страница отсутствует)">Уайт Сендс</a> в штате Нью-Мексико. Из-за повышения температуры в гондоле полёт был прерван досрочно, тем не менее стратостат успел достичь высоты 29870 м. Продолжительность полёта составила 12 часов.
+</p>
+<h2><span id=".D0.9F.D1.80.D0.BE.D0.B5.D0.BA.D1.82_.C2.ABRed_Bull_Stratos.C2.BB"></span><span class="mw-headline" id="Проект_«Red_Bull_Stratos»">Проект «Red Bull Stratos»</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%81%D1%82%D0%B0%D1%82&amp;veaction=edit&amp;section=5" title="Редактировать раздел «Проект «Red Bull Stratos»»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%81%D1%82%D0%B0%D1%82&amp;action=edit&amp;section=5" title="Редактировать код раздела «Проект «Red Bull Stratos»»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable">Основные статьи: <b><a href="/wiki/Red_Bull_Stratos" title="Red Bull Stratos">Red Bull Stratos</a></b> и <b><a href="/wiki/%D0%91%D0%B0%D1%83%D0%BC%D0%B3%D0%B0%D1%80%D1%82%D0%BD%D0%B5%D1%80,_%D0%A4%D0%B5%D0%BB%D0%B8%D0%BA%D1%81" title="Баумгартнер, Феликс">Баумгартнер, Феликс</a></b></div>
+<p>14 октября 2012 года <a href="/wiki/%D0%91%D0%B0%D1%83%D0%BC%D0%B3%D0%B0%D1%80%D1%82%D0%BD%D0%B5%D1%80,_%D0%A4%D0%B5%D0%BB%D0%B8%D0%BA%D1%81" title="Баумгартнер, Феликс">Феликс Баумгартнер</a>, поднявшись на стратостате на высоту около 39 068 метров, совершил удачный прыжок с парашютом с высоты 39 045 метров. Ранее он совершил два подготовительных (тестовых) прыжка: 15 марта 2012 года — с высоты 21 818 метров (во время прыжка он провел около трёх минут и 43 секунд в свободном падении, достигая скорости более 580 км/ч, до открытия парашюта; в общем, прыжок длился около восьми минут и восьми секунд), а 25 июля 2012 года — с высоты 29 460 метров.
+</p>
+<h2><span id=".D0.9F.D0.B0.D1.80.D0.B0.D1.88.D1.8E.D1.82.D0.BD.D1.8B.D0.B5_.D0.BF.D1.80.D1.8B.D0.B6.D0.BA.D0.B8_.D1.81.D0.BE_.D1.81.D1.82.D1.80.D0.B0.D1.82.D0.BE.D1.81.D1.82.D0.B0.D1.82.D0.BE.D0.B2"></span><span class="mw-headline" id="Парашютные_прыжки_со_стратостатов">Парашютные прыжки со стратостатов</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%81%D1%82%D0%B0%D1%82&amp;veaction=edit&amp;section=6" title="Редактировать раздел «Парашютные прыжки со стратостатов»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%81%D1%82%D0%B0%D1%82&amp;action=edit&amp;section=6" title="Редактировать код раздела «Парашютные прыжки со стратостатов»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Kittinger-jump.jpg"><img class="mw-file-element" data-file-height="1800" data-file-width="1417" decoding="async" height="279" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Kittinger-jump.jpg/220px-Kittinger-jump.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Kittinger-jump.jpg/330px-Kittinger-jump.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Kittinger-jump.jpg/440px-Kittinger-jump.jpg 2x" width="220"/></a><figcaption>Рекордный прыжок <a class="mw-redirect" href="/wiki/%D0%9A%D0%B8%D1%82%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%D1%80,_%D0%94%D0%B6%D0%BE%D0%B7%D0%B5%D1%84" title="Киттингер, Джозеф">Киттингера</a></figcaption></figure>
+<p>В 1959—1962 годах было построено несколько стратостатов, предназначенных для испытания космических и авиационных <a href="/wiki/%D0%A1%D0%BA%D0%B0%D1%84%D0%B0%D0%BD%D0%B4%D1%80" title="Скафандр">скафандров</a> и <a href="/wiki/%D0%9F%D0%B0%D1%80%D0%B0%D1%88%D1%8E%D1%82" title="Парашют">парашютных</a> систем для приземления с большой высоты. Такие стратостаты были, как правило, оборудованы открытыми гондолами, от разрежённой атмосферы стратонавтов защищали скафандры. Эти испытания оказались предельно опасны. Из шести стратонавтов трое погибли, а один потерял сознание во время свободного падения.
+</p><p>Американский <a class="mw-redirect" href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%AD%D0%BA%D1%81%D0%B5%D0%BB%D1%8C%D1%81%D0%B8%D0%BE%D1%80" title="Проект Эксельсиор">проект «Excelsior»</a> включал три высотных прыжка из стратостатов объёмом 85 000 м³ с открытой гондолой, которые выполнил <a class="mw-redirect" href="/wiki/%D0%9A%D0%B8%D1%82%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%D1%80,_%D0%94%D0%B6%D0%BE%D0%B7%D0%B5%D1%84" title="Киттингер, Джозеф">Джозеф Киттингер</a> в 1959—1960 годах. Он испытывал компенсирующий гермокостюм со шлемом и двухступенчатый парашют системы Бопре, состоящий из стабилизационного парашюта <a href="/wiki/%D0%94%D0%B8%D0%B0%D0%BC%D0%B5%D1%82%D1%80" title="Диаметр">диаметром</a> 2 м, который должен предохранять парашютиста от вращения при полёте в стратосфере и основного парашюта диаметром 8,5 м для приземления. В первом прыжке с высоты 23300 м из-за раннего раскрытия стабилизационного парашюта тело пилота начало вращаться с частотой около 120 об/мин и он потерял сознание. Лишь благодаря автоматической системе раскрытия основного парашюта Киттингеру удалось спастись. Второй и третий полёты прошли более удачно, несмотря на то, что в третьем произошла разгерметизация правой перчатки и рука пилота сильно распухла. В третьем полёте, который состоялся 16 августа 1960 года, Киттингер установил сразу несколько рекордов — высоты полёта на стратостате, высоты свободного падения и скорости, развитой человеком без использования транспорта. Падение продолжалось 4 минуты 36 секунд, за которые пилот пролетел 25816 м и на некоторых участках развил скорость около 1000 км/ч, вплотную приблизившись к <a href="/wiki/%D0%A1%D0%BA%D0%BE%D1%80%D0%BE%D1%81%D1%82%D1%8C_%D0%B7%D0%B2%D1%83%D0%BA%D0%B0" title="Скорость звука">скорости звука</a>. Полёты в рамках проекта «Excelsior» дали важные результаты для разработки авиационных гермокостюмов и систем спасения.
+</p><p>Проект «StratoLab» включал четыре субстратосферных полёта и пять стратосферных, из которых четыре — с герметичной гондолой и один (StratoLab V) с открытой. В ходе полётов была выполнена обширная научная программа, включающая исследование состава воздуха в стратосфере, космических лучей и атмосферного электричества, а также астрономические наблюдения. Полёт StratoLab V «Lee Lewis» состоялся 4 мая 1961 года. Стратостат объёмом свыше 283 000 м³ был запущен с авианосца Antietam в <a href="/wiki/%D0%9C%D0%B5%D0%BA%D1%81%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BB%D0%B8%D0%B2" title="Мексиканский залив">Мексиканском заливе</a> и через 2 часа 11 минут после старта достиг рекордной высоты 34668 м. Стратонавты <a class="new" href="/w/index.php?title=%D0%9C%D0%B0%D0%BB%D0%BA%D0%BE%D0%BB%D0%BC_%D0%A0%D0%BE%D1%81%D1%81&amp;action=edit&amp;redlink=1" title="Малколм Росс (страница отсутствует)">Малколм Росс</a> и <a class="new" href="/w/index.php?title=%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80_%D0%9F%D1%80%D0%B5%D1%82%D0%B5%D1%80&amp;action=edit&amp;redlink=1" title="Виктор Претер (страница отсутствует)">Виктор Претер</a> были одеты в космические скафандры. После успешного приводнения Претер погиб, не удержавшись на трапе во время подъёма на вертолёт и захлебнувшись. Он раньше времени разгерметизировал скафандр, так как был уверен, что опасность миновала.
+</p>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Gondola_of_high-altitude_balloon_Volga_(USSR,_1959).JPG"><img class="mw-file-element" data-file-height="4580" data-file-width="3030" decoding="async" height="257" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Gondola_of_high-altitude_balloon_Volga_%28USSR%2C_1959%29.JPG/170px-Gondola_of_high-altitude_balloon_Volga_%28USSR%2C_1959%29.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Gondola_of_high-altitude_balloon_Volga_%28USSR%2C_1959%29.JPG/255px-Gondola_of_high-altitude_balloon_Volga_%28USSR%2C_1959%29.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Gondola_of_high-altitude_balloon_Volga_%28USSR%2C_1959%29.JPG/340px-Gondola_of_high-altitude_balloon_Volga_%28USSR%2C_1959%29.JPG 2x" width="170"/></a><figcaption>Гондола стратостата «Волга» в <a class="mw-redirect" href="/wiki/%D0%A6%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BC%D1%83%D0%B7%D0%B5%D0%B9_%D0%92%D0%BE%D0%B5%D0%BD%D0%BD%D0%BE-%D0%B2%D0%BE%D0%B7%D0%B4%D1%83%D1%88%D0%BD%D1%8B%D1%85_%D1%81%D0%B8%D0%BB_%D0%A0%D0%A4" title="Центральный музей Военно-воздушных сил РФ">Центральном музее ВВС</a>.</figcaption></figure>
+<p>В СССР для подобных испытаний использовался стратостат <a href="/wiki/%D0%92%D0%BE%D0%BB%D0%B3%D0%B0_(%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%81%D1%82%D0%B0%D1%82)" title="Волга (стратостат)">«СС»-«Волга»</a>, созданный <a class="new" href="/w/index.php?title=%D0%94%D0%BE%D0%BB%D0%B3%D0%BE%D0%BF%D1%80%D1%83%D0%B4%D0%BD%D0%B5%D0%BD%D1%81%D0%BA%D0%BE%D0%B5_%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B5_%D0%B1%D1%8E%D1%80%D0%BE_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B8&amp;action=edit&amp;redlink=1" title="Долгопрудненское конструкторское бюро автоматики (страница отсутствует)">ОКБ-424 (ныне ГУП «Долгопрудненское конструкторское бюро автоматики»</a>) под руководством <a href="/wiki/%D0%93%D1%83%D0%B4%D0%BA%D0%BE%D0%B2,_%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87" title="Гудков, Михаил Иванович">Гудкова М. И.</a>, герметичная гондола которого имитировала спускаемый аппарат космического корабля, была снабжена устройством для стравливания воздуха и устройством катапультирования вниз (первый беспилотный полёт в 1959 г.)<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup>. 1 ноября 1962 года состоялся пилотируемый рекордный полёт с парашютными прыжками. Стратостат с испытателями <a href="/wiki/%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2,_%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87_(%D0%BF%D0%B0%D1%80%D0%B0%D1%88%D1%8E%D1%82%D0%B8%D1%81%D1%82)" title="Андреев, Евгений Николаевич (парашютист)">Евгением Андреевым</a> и <a href="/wiki/%D0%94%D0%BE%D0%BB%D0%B3%D0%BE%D0%B2,_%D0%9F%D1%91%D1%82%D1%80_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87" title="Долгов, Пётр Иванович">Петром Долговым</a> достиг высоты 25458 м, после чего гондола была разгерметизирована и Андреев катапультировался. Он пролетел в свободном падении около 24500 м и благополучно приземлился. Ему принадлежит зарегистрированный рекорд высоты свободного падения (рекорд Киттингера был установлен с использованием стабилизационного парашюта). Долгов прыгнул с высоты 28640 м, но случайно разгерметизировал шлем при катапультировании из-за удара о выступающий элемент кабины и погиб. Андрееву и Долгову было присвоено звание <a href="/wiki/%D0%93%D0%B5%D1%80%D0%BE%D0%B9_%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%A1%D0%BE%D1%8E%D0%B7%D0%B0" title="Герой Советского Союза">Героя Советского Союза</a> (Долгову посмертно).
+</p><p><b>Стратостат СС-«Волга»</b> активно использовался не только для рекордных парашютных прыжков, но и для вполне обычных испытательных полётов по отработке систем спасения, жизнеобеспечения и др. узлов и систем, изучении состояния организма при полёте. На нём разными пилотами-испытателями (например, будущим <a class="mw-redirect" href="/wiki/%D0%9B%D1%91%D1%82%D1%87%D0%B8%D0%BA-%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82" title="Лётчик-космонавт">лётчиком-космонавтом СССР</a>, майором <a href="/wiki/%D0%9B%D0%B0%D0%B7%D0%B0%D1%80%D0%B5%D0%B2,_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D0%B9_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87" title="Лазарев, Василий Григорьевич">В. Г. Лазаревым</a>) налётано десятки часов каждым.
+</p><p>В 1965—1966 годах американский парашютист Николас Пиантанида предпринял три попытки побить рекорды, установленные Андреевым и Киттингером, инициировав проект «StratoJump». 22 октября 1965 года состоялась первая попытка, длившаяся около 30 минут. На высоте около 7 км баллон был повреждён и пилот спасся на парашюте. Во время второго полёта 2 февраля 1966 стратостат поднялся на высоту 37600 м, установив рекорд. Но Пиантанида не смог отключиться от установленного в гондоле баллона с кислородом и перейти на автономную систему скафандра, поэтому прыжок пришлось отменить. По команде с земли гондола отделилась от стратостата и успешно опустилась на парашюте. 1 мая 1966 года состоялся третий полёт, который закончился трагедией — при подъёме на высоте 17500 м произошла разгерметизация скафандра и парашютист погиб.
+</p><p>3 сентября 2003 года была произведена попытка установить новый рекорд высоты полёта стратостата. Баллон QinetiQ-1 высотой 381 м и объёмом около 1 250 000 м³, изготовленный британской фирмой QinetiQ, должен был поднять открытую гондолу с двумя пилотами, одетыми в космические скафандры, на высоту 40 км. Попытка завершилась провалом — через некоторое время после начала наполнения баллона гелием в оболочке обнаружилось повреждение и полёт был отменён<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup>.
+</p><p>14 октября 2012 года австрийский парашютист <a href="/wiki/%D0%91%D0%B0%D1%83%D0%BC%D0%B3%D0%B0%D1%80%D1%82%D0%BD%D0%B5%D1%80,_%D0%A4%D0%B5%D0%BB%D0%B8%D0%BA%D1%81" title="Баумгартнер, Феликс">Феликс Баумгартнер</a> в рамках проекта «<a href="/wiki/Red_Bull_Stratos" title="Red Bull Stratos">Red Bull Stratos</a>» совершил прыжок с парашютом с высоты 39 км. Во время свободного падения парашютист смог безо всяких технических средств преодолеть скорость звука (от атмосферы его тело было отделено только <a href="/wiki/%D0%A1%D0%BA%D0%B0%D1%84%D0%B0%D0%BD%D0%B4%D1%80" title="Скафандр">скафандром</a>). Полёт и приземление прошли успешно. На данный момент (14 октября) зарегистрированы три рекорда — самый высокий пилотируемый полёт на стратостате, самый продолжительный прыжок с парашютом и самую высокую скорость свободного падения.
+</p><p>24 октября 2014 года вице-президент компании Google по разработкам <a href="/wiki/%D0%AE%D1%81%D1%82%D0%B0%D1%81,_%D0%90%D0%BB%D0%B0%D0%BD" title="Юстас, Алан">Алан Юстас</a> совершил прыжок с высоты 41419 м. В отличие от проекта Red Bull Stratos, в котором парашютист до необходимой высоты поднимался в специальной герметичной гондоле, в Google пошли другим путём, и решили отказаться от гондолы. Гондола Red Bull весила 1400 кг, и для её подъёма до высоты 39 км был необходим огромный баллон. В проекте Google решили сконцентрироваться на костюме: костюм просто подвешивался под шаром, и на необходимой высоте отцеплялся от него посредством пиро-болта. При этом подвешиваемая масса под баллоном оказалась всего 212 кг; за счёт этого получилось на шаре с практически в пять раз меньшим объёмом подняться на большую высоту. Однако костюм получился очень громоздким, и в нём невозможно было передвигаться самостоятельно. Несмотря на большую высоту прыжка, Алан Юстас развил в падении меньшую скорость (1321 км/ч), чем Феликс Баумгартнер, так как стабилизирующий парашют был открыт сразу после отцепки от стратостата.
+</p>
+<h2><span id=".D0.9D.D0.B5.D0.BA.D0.BE.D1.82.D0.BE.D1.80.D1.8B.D0.B5_.D0.BF.D0.BE.D0.BB.D1.91.D1.82.D1.8B_.D1.81.D1.82.D1.80.D0.B0.D1.82.D0.BE.D1.81.D1.82.D0.B0.D1.82.D0.BE.D0.B2"></span><span class="mw-headline" id="Некоторые_полёты_стратостатов">Некоторые полёты стратостатов</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%81%D1%82%D0%B0%D1%82&amp;veaction=edit&amp;section=7" title="Редактировать раздел «Некоторые полёты стратостатов»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%81%D1%82%D0%B0%D1%82&amp;action=edit&amp;section=7" title="Редактировать код раздела «Некоторые полёты стратостатов»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tbody><tr>
+<th>Дата полёта</th>
+<th>Стратостат</th>
+<th>Экипаж</th>
+<th>Объём баллона, м³</th>
+<th>Достигнутая высота, м</th>
+<th>Время в полёте
+</th></tr>
+<tr>
+<td>27.05.1931</td>
+<td>FNRS-1 (Бельгия)</td>
+<td>О. Пикар, П. Кипфер</td>
+<td align="right">14 300</td>
+<td align="center">15 785</td>
+<td>16 ч
+</td></tr>
+<tr>
+<td>18.08.1932</td>
+<td>FNRS-1 (Бельгия)</td>
+<td>О. Пикар, М. Козинс</td>
+<td align="right">14 300</td>
+<td align="center">16 200</td>
+<td>11 ч 45 мин
+</td></tr>
+<tr>
+<td>30.09.1933</td>
+<td>СССР-1 (СССР)</td>
+<td><a href="/wiki/%D0%9F%D1%80%D0%BE%D0%BA%D0%BE%D1%84%D1%8C%D0%B5%D0%B2,_%D0%93%D0%B5%D0%BE%D1%80%D0%B3%D0%B8%D0%B9_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B5%D0%B2%D0%B8%D1%87" title="Прокофьев, Георгий Алексеевич">Г. А. Прокофьев</a>, <a href="/wiki/%D0%93%D0%BE%D0%B4%D1%83%D0%BD%D0%BE%D0%B2,_%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD_%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B5%D0%B2%D0%B8%D1%87" title="Годунов, Константин Дмитриевич">К. Д. Годунов</a>, <a href="/wiki/%D0%91%D0%B8%D1%80%D0%BD%D0%B1%D0%B0%D1%83%D0%BC,_%D0%AD%D1%80%D0%BD%D1%81%D1%82_%D0%9A%D0%B0%D1%80%D0%BB%D0%BE%D0%B2%D0%B8%D1%87" title="Бирнбаум, Эрнст Карлович">Э. К. Бирнбаум</a></td>
+<td align="right">25 000</td>
+<td align="center">18 501</td>
+<td>8 ч 20 мин
+</td></tr>
+<tr>
+<td>20.11.1933</td>
+<td>Century of Progress (США)</td>
+<td>Т. Сеттл, К. Фордни</td>
+<td align="right">17 000</td>
+<td align="center">18 592</td>
+<td>—
+</td></tr>
+<tr>
+<td>30.01.1934</td>
+<td><a href="/wiki/%D0%9E%D1%81%D0%BE%D0%B0%D0%B2%D0%B8%D0%B0%D1%85%D0%B8%D0%BC-1" title="Осоавиахим-1">Осоавиахим-1</a> (СССР)</td>
+<td><a class="mw-redirect" href="/wiki/%D0%A4%D0%B5%D0%B4%D0%BE%D1%81%D0%B5%D0%B5%D0%BD%D0%BA%D0%BE,_%D0%9F%D0%B0%D0%B2%D0%B5%D0%BB_%D0%A4%D0%B5%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Федосеенко, Павел Федорович">П. Ф. Федосеенко</a>, <a href="/wiki/%D0%92%D0%B0%D1%81%D0%B5%D0%BD%D0%BA%D0%BE,_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B9_%D0%91%D0%BE%D0%B3%D0%B4%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87" title="Васенко, Андрей Богданович">А. Б. Васенко</a>, <a href="/wiki/%D0%A3%D1%81%D1%8B%D1%81%D0%BA%D0%B8%D0%BD,_%D0%98%D0%BB%D1%8C%D1%8F_%D0%94%D0%B0%D0%B2%D1%8B%D0%B4%D0%BE%D0%B2%D0%B8%D1%87" title="Усыскин, Илья Давыдович">И. Д. Усыскин</a></td>
+<td align="right">25 000</td>
+<td align="center">21 946</td>
+<td>7 ч 4 мин
+</td></tr>
+<tr>
+<td>28.07.1934</td>
+<td>Explorer-1 (США)</td>
+<td>А. Стивенс, О. Андерсон, У. Кепнер</td>
+<td align="right">85 000</td>
+<td align="center">18 475</td>
+<td>—
+</td></tr>
+<tr>
+<td>18.08.1934</td>
+<td>FNRS-1 (Бельгия)</td>
+<td>М. Козинс, Н. ван дер Элст</td>
+<td align="right">14 300</td>
+<td align="center">16 000</td>
+<td>14 ч
+</td></tr>
+<tr>
+<td>23.10.1934</td>
+<td>Century of Progress (США)</td>
+<td>Жан и Жанет Пикар</td>
+<td align="right">17 000</td>
+<td align="center">17 672</td>
+<td>7 ч 54 мин
+</td></tr>
+<tr>
+<td>26.06.1935</td>
+<td>СССР-1-бис (СССР)</td>
+<td><a class="new" href="/w/index.php?title=%D0%97%D0%B8%D0%BB%D0%BB%D0%B5,_%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B0%D0%BF_%D0%AF%D0%BD%D0%BE%D0%B2%D0%B8%D1%87&amp;action=edit&amp;redlink=1" title="Зилле, Кристап Янович (страница отсутствует)">К. Я. Зилле</a>, <a class="new" href="/w/index.php?title=%D0%9F%D1%80%D0%B8%D0%BB%D1%83%D1%86%D0%BA%D0%B8%D0%B9,_%D0%AE%D1%80%D0%B8%D0%B9_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87&amp;action=edit&amp;redlink=1" title="Прилуцкий, Юрий Григорьевич (страница отсутствует)">Ю. Г. Прилуцкий</a>, <a href="/wiki/%D0%92%D0%B5%D1%80%D0%B8%D0%B3%D0%BE,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%91%D1%80%D0%BE%D0%BD%D0%B8%D1%81%D0%BB%D0%B0%D0%B2%D0%BE%D0%B2%D0%B8%D1%87" title="Вериго, Александр Брониславович">А. Б. Вериго</a></td>
+<td align="right">25 000</td>
+<td align="center">16 200</td>
+<td>2 ч 37 мин
+</td></tr>
+<tr>
+<td>11.11.1935</td>
+<td>Explorer-2 (США)</td>
+<td>А. Стивенс, О. Андерсон</td>
+<td align="right">105 000</td>
+<td align="center">22 066</td>
+<td>8 ч 15 мин
+</td></tr>
+<tr>
+<td>08.11.1956</td>
+<td>StratoLab-1 (США)</td>
+<td>М. Росс, Л. Льюис</td>
+<td align="right">56 600</td>
+<td align="center">23 165</td>
+<td>6 ч
+</td></tr>
+<tr>
+<td>02.06.1957</td>
+<td>Man High-1 (США)</td>
+<td>Дж. Киттингер</td>
+<td align="right">56 600</td>
+<td align="center">29 260</td>
+<td>6 ч 34 мин
+</td></tr>
+<tr>
+<td>19.08.1957</td>
+<td>Man High-2 (США)</td>
+<td>Д. Симонс</td>
+<td align="right">85 000</td>
+<td align="center">30 942</td>
+<td>32 ч 10 мин
+</td></tr>
+<tr>
+<td>08.10.1958</td>
+<td>Man High-3 (США)</td>
+<td>Кл. МакКлюр</td>
+<td align="right">85 000</td>
+<td align="center">29 870</td>
+<td>12 ч
+</td></tr>
+<tr>
+<td>16.11.1959</td>
+<td>Excelsior-1 (США)</td>
+<td>Дж. Киттингер</td>
+<td align="right">85 000</td>
+<td align="center">23 300</td>
+<td>—
+</td></tr>
+<tr>
+<td>11.12.1959</td>
+<td>Excelsior-2 (США)</td>
+<td>Дж. Киттингер</td>
+<td align="right">85 000</td>
+<td align="center">22 800</td>
+<td>-
+</td></tr>
+<tr>
+<td>16.08.1960</td>
+<td>Excelsior-3 (США)</td>
+<td>Дж. Киттингер</td>
+<td align="right">85 000</td>
+<td align="center">31 333</td>
+<td>1 ч 43 мин
+</td></tr>
+<tr>
+<td>04.05.1961</td>
+<td>StratoLab-5 (США)</td>
+<td>М. Росс, В. Претер</td>
+<td align="right">283 000</td>
+<td align="center">34 668</td>
+<td>9 ч 54 мин
+</td></tr>
+<tr>
+<td>01.11.1962</td>
+<td>СС — Волга (СССР)</td>
+<td><a href="/wiki/%D0%94%D0%BE%D0%BB%D0%B3%D0%BE%D0%B2,_%D0%9F%D1%91%D1%82%D1%80_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87" title="Долгов, Пётр Иванович">П. И. Долгов</a>, <a href="/wiki/%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2,_%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87_(%D0%BF%D0%B0%D1%80%D0%B0%D1%88%D1%8E%D1%82%D0%B8%D1%81%D1%82)" title="Андреев, Евгений Николаевич (парашютист)">Е. Н. Андреев</a></td>
+<td align="right">72 900</td>
+<td align="center">25 458/28 640</td>
+<td>2 ч 20 мин
+</td></tr>
+<tr>
+<td>13.12.1962</td>
+<td>Stargazer (США)</td>
+<td>Дж. Киттингер, У. Уайт</td>
+<td align="right">—</td>
+<td align="center">26 200</td>
+<td>3,5 ч
+</td></tr>
+<tr>
+<td>02.02.1966</td>
+<td>StratoJump-2 (США)</td>
+<td>Н. Пиантанида</td>
+<td align="right">141 600</td>
+<td align="center">37 643</td>
+<td>—
+</td></tr>
+<tr>
+<td>01.05.1966</td>
+<td>StratoJump-3 (США)</td>
+<td>Н. Пиантанида</td>
+<td align="right">141 600</td>
+<td align="center">17 500</td>
+<td>—
+</td></tr>
+<tr>
+<td>14.10.2012</td>
+<td><a href="/wiki/Red_Bull_Stratos" title="Red Bull Stratos">Red Bull Stratos</a> (Австрия)</td>
+<td>Феликс Баумгартнер</td>
+<td align="right">850 000</td>
+<td align="center">39 068</td>
+<td>2 ч 30 мин
+</td></tr>
+<tr>
+<td>24.10.2014</td>
+<td>Google Strato (США)</td>
+<td>Алан Юстас</td>
+<td align="right">—</td>
+<td align="center">41 419</td>
+<td>2 ч 23 мин
+</td></tr></tbody></table>
+<h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Примечания">Примечания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%81%D1%82%D0%B0%D1%82&amp;veaction=edit&amp;section=8" title="Редактировать раздел «Примечания»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%81%D1%82%D0%B0%D1%82&amp;action=edit&amp;section=8" title="Редактировать код раздела «Примечания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://infodon.org.ua/pedia/227" rel="nofollow">Памятник стратонавтам</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 9 октября 2008. <a class="external text" href="https://web.archive.org/web/20130121124007/http://infodon.org.ua/pedia/227" rel="nofollow">Архивировано</a> 21 января 2013 года.</span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://nlo-mir.ru/45-kosmos/26300-sem-tragicheskih-jepizodov-v-istorii-sovetskoj-stratonavtiki.html#-2-2" rel="nofollow">Семь трагических эпизодов в истории советской стратонавтики (6 фото)</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 29 сентября 2021. <a class="external text" href="https://web.archive.org/web/20210929100311/https://nlo-mir.ru/45-kosmos/26300-sem-tragicheskih-jepizodov-v-istorii-sovetskoj-stratonavtiki.html#-2-2" rel="nofollow">Архивировано</a> 29 сентября 2021 года.</span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">«Крылья Родины», 2002 г. № 6</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://news.bbc.co.uk/hi/russian/sci/tech/newsid_3077000/3077006.stm" rel="nofollow">Рекорд высоты на воздушном шаре отложен</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 24 января 2017. <a class="external text" href="https://web.archive.org/web/20170410185030/http://news.bbc.co.uk/hi/russian/sci/tech/newsid_3077000/3077006.stm" rel="nofollow">Архивировано</a> 10 апреля 2017 года.</span></span>
+</li>
+</ol></div></div>
+<h2><span id=".D0.9B.D0.B8.D1.82.D0.B5.D1.80.D0.B0.D1.82.D1.83.D1.80.D0.B0"></span><span class="mw-headline" id="Литература">Литература</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%81%D1%82%D0%B0%D1%82&amp;veaction=edit&amp;section=9" title="Редактировать раздел «Литература»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%81%D1%82%D0%B0%D1%82&amp;action=edit&amp;section=9" title="Редактировать код раздела «Литература»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i>Молчанов П. А.</i> Полёты в стратосферу. — М., Л., 1935.</li>
+<li><i>Пиккар А.</i> Над облаками. — М., Л., 1936.</li>
+<li><i>Стивенс А.</i> Два полёта американских стратостатов. — М., 1937.</li>
+<li><i>Piccard A.</i> Auf 16 000 Meter. Meine Fahrten in die Stratosphäre. — Zürich, Schweizer Aero-Revue, 1933, (OCLC 4083138).</li>
+<li><i>Ryan C.</i> The Pre-Astronauts: Manned Ballooning on the Threshold of Space. — Naval Institute Press, 1995, <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/1557507325">ISBN 1-55750-732-5</a>.</li>
+<li><i>Ryan C.</i> Magnificent Failure: Free Fall from the Edge of Space. — Smithsonian Books, 2003, <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/1588341410">ISBN 1-58834-141-0</a>.</li>
+<li><i>Peebles C.</i> The Stratolab programme — Manned balloons to the edge of space. — British Interplanetary Society, Journal (Space Chronicle). Vol. 34, July 1981.</li>
+<li><i>Otto C. Winzen</i> The Balloon as a Stepping-Stone to Space Flight. — The Goddard Library.</li></ul>
+<h2><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span><span class="mw-headline" id="Ссылки">Ссылки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%81%D1%82%D0%B0%D1%82&amp;veaction=edit&amp;section=10" title="Редактировать раздел «Ссылки»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%81%D1%82%D0%B0%D1%82&amp;action=edit&amp;section=10" title="Редактировать код раздела «Ссылки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div aria-labelledby="Стратостат:" class="ts-Родственные_проекты ruwikiWikimediaNavigation tright metadata plainlinks plainlist noprint" role="navigation"><div class="ts-Родственные_проекты-header" id="Стратостат:"><b>Стратостат:</b></div><ul><li class="ts-Родственные_проекты-item"><span class="ts-Родственные_проекты-image"><span typeof="mw:File"><span><img alt="" class="mw-file-element" data-file-height="30" data-file-width="30" decoding="async" height="24" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Notification-icon-Wiktionary-logo.svg/24px-Notification-icon-Wiktionary-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Notification-icon-Wiktionary-logo.svg/36px-Notification-icon-Wiktionary-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Notification-icon-Wiktionary-logo.svg/48px-Notification-icon-Wiktionary-logo.svg.png 2x" width="24"/></span></span></span><span class="ts-Родственные_проекты-label wiktionary-ref"><a class="extiw" href="https://ru.wiktionary.org/wiki/%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%81%D1%82%D0%B0%D1%82" title="wikt:стратостат">Значения в Викисловаре</a></span></li><li class="ts-Родственные_проекты-item"><span class="ts-Родственные_проекты-image"><span typeof="mw:File"><span><img alt="" class="mw-file-element" data-file-height="30" data-file-width="30" decoding="async" height="24" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/24px-Notification-icon-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/36px-Notification-icon-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/48px-Notification-icon-Commons-logo.svg.png 2x" width="24"/></span></span></span><span class="ts-Родственные_проекты-label commons-ref"><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Research_balloons" title="commons:Category:Research balloons">Медиафайлы на Викискладе</a></span></li></ul></div>
+<ul><li><a class="external text" href="http://vivovoco.astronet.ru/VV/JOURNAL/VIET/STRATO/STRATO.HTM" rel="nofollow"><i>Дружинин Ю. О., Соболев Д. А.</i> Полёты в стратосферу в СССР в 1930-е гг.</a></li>
+<li><a class="external text" href="http://www.ostrogozhsk.ru/news/index.php?id=177" rel="nofollow">Документы о катастрофе стратостата «Осоавиахим-1»</a></li>
+<li><a class="external text" href="http://astronaut.ru/strato/start.htm" rel="nofollow">Полёты американских стратостатов в 50—60-е гг.</a></li>
+<li><a class="external text" href="https://web.archive.org/web/20070205175807/http://skydive.kryshi.net/pub/12_04.shtml" rel="nofollow">Стратостат «Волга»</a></li>
+<li><a class="external text" href="http://vectorsite.net/avbloon_3.html" rel="nofollow">The Stratosphere Expeditions</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><a class="external text" href="http://stratocat.com.ar/indexe.html" rel="nofollow">Stratospheric balloons, history and present</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li></ul>
+<div aria-labelledby="Ссылки_на_внешние_ресурсы" class="navbox" data-name="External links" role="navigation" style="padding-top:1px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup" style="display:none"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:External_links" title="Перейти к шаблону «External links»"><img alt="Перейти к шаблону «External links»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span> </span><div id="Ссылки_на_внешние_ресурсы" style="font-size:114%;margin:0 5em">Ссылки на внешние ресурсы</div></th></tr><tr><th class="navbox-group" scope="row" style="width:1px"><div style="padding: 0 35px 0 0; width: 100%;"><div style="float: left;"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8" title="Перейти к шаблону «Внешние ссылки»"><img alt="Перейти к шаблону «Внешние ссылки»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span>  <span typeof="mw:File"><a href="https://www.wikidata.org/wiki/Q2619521#identifiers" title="Перейти к элементу Викиданных"><img alt="Перейти к элементу Викиданных" class="mw-file-element" data-file-height="20" data-file-width="20" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/14px-OOjs_UI_icon_edit-ltr-progressive.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/21px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/28px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" width="14"/></a></span></div>  Словари и энциклопедии</div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="external text" href="https://old.bigenc.ru/text/4168309" rel="nofollow">Большая российская (старая версия)</a></li>
+<li><a class="external text" href="https://www.britannica.com/topic/high-altitude-balloon" rel="nofollow">Britannica (онлайн)</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Летательные_аппараты" class="navbox" data-name="Летательные аппараты" role="navigation"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%9B%D0%B5%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%B0%D0%BF%D0%BF%D0%B0%D1%80%D0%B0%D1%82%D1%8B" title="Перейти к шаблону «Летательные аппараты»"><img alt="Перейти к шаблону «Летательные аппараты»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span> </span><div id="Летательные_аппараты" style="font-size:114%;margin:0 5em"><a href="/wiki/%D0%9B%D0%B5%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B0%D0%BF%D0%BF%D0%B0%D1%80%D0%B0%D1%82" title="Летательный аппарат">Летательные аппараты</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/%D0%9F%D0%BB%D0%B0%D0%BD%D1%91%D1%80" title="Планёр">Планирующие</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%9F%D0%BB%D0%B0%D0%BD%D1%91%D1%80" title="Планёр">Планёр</a>
+<ul><li><a href="/wiki/%D0%9C%D0%BE%D1%82%D0%BE%D0%BF%D0%BB%D0%B0%D0%BD%D0%B5%D1%80" title="Мотопланер">мотопланер</a></li></ul></li>
+<li><a href="/wiki/%D0%94%D0%B5%D0%BB%D1%8C%D1%82%D0%B0%D0%BF%D0%BB%D0%B0%D0%BD" title="Дельтаплан">Дельтаплан</a>
+<ul><li><a href="/wiki/%D0%94%D0%B5%D0%BB%D1%8C%D1%82%D0%B0%D0%BB%D1%91%D1%82" title="Дельталёт">дельталёт</a></li>
+<li><a href="/wiki/%D0%9C%D0%BE%D1%82%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%D1%82%D0%B0%D0%BF%D0%BB%D0%B0%D0%BD" title="Мотодельтаплан">мотодельтаплан</a></li></ul></li>
+<li><a href="/wiki/%D0%9F%D0%B0%D1%80%D0%B0%D0%BF%D0%BB%D0%B0%D0%BD" title="Параплан">Параплан</a>
+<ul><li><a href="/wiki/%D0%9F%D0%B0%D1%80%D0%B0%D0%BB%D1%91%D1%82" title="Паралёт">паралёт</a></li>
+<li><a href="/wiki/%D0%9C%D0%BE%D1%82%D0%BE%D0%BF%D0%B0%D1%80%D0%B0%D0%BF%D0%BB%D0%B0%D0%BD" title="Мотопараплан">мотопараплан</a></li></ul></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/%D0%9D%D0%B5%D1%81%D1%83%D1%89%D0%B8%D0%B9_%D0%B2%D0%B8%D0%BD%D1%82" title="Несущий винт">С несущим винтом</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%90%D0%B2%D1%82%D0%BE%D0%B6%D0%B8%D1%80" title="Автожир">Автожир</a></li>
+<li><a href="/wiki/%D0%92%D0%B5%D1%80%D1%82%D0%BE%D0%BB%D1%91%D1%82" title="Вертолёт">Вертолёт</a>
+<ul><li><a href="/wiki/%D0%A1%D0%B8%D0%BD%D1%85%D1%80%D0%BE%D0%BF%D1%82%D0%B5%D1%80" title="Синхроптер">синхроптер</a></li></ul></li>
+<li><a href="/wiki/%D0%A0%D0%B0%D0%BD%D0%B5%D1%86-%D0%B2%D0%B5%D1%80%D1%82%D0%BE%D0%BB%D1%91%D1%82" title="Ранец-вертолёт">Ранец-вертолёт</a></li>
+<li><a href="/wiki/%D0%92%D0%B8%D0%BD%D1%82%D0%BE%D0%BA%D1%80%D1%8B%D0%BB" title="Винтокрыл">Винтокрыл</a></li>
+<li><a href="/wiki/%D0%92%D0%B8%D0%BD%D1%82%D0%BE%D0%BB%D1%91%D1%82" title="Винтолёт">Винтолёт</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D0%BD%D0%B2%D0%B5%D1%80%D1%82%D0%BE%D0%BF%D0%BB%D0%B0%D0%BD" title="Конвертоплан">Конвертоплан</a></li>
+<li><a href="/wiki/%D0%9C%D1%83%D0%BB%D1%8C%D1%82%D0%B8%D0%BA%D0%BE%D0%BF%D1%82%D0%B5%D1%80" title="Мультикоптер">Мультикоптер</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/%D0%90%D1%8D%D1%80%D0%BE%D1%81%D1%82%D0%B0%D1%82" title="Аэростат">Аэростатические</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%90%D1%8D%D1%80%D0%BE%D1%81%D1%82%D0%B0%D1%82" title="Аэростат">Аэростат</a>
+<ul><li><a href="/wiki/%D0%A8%D0%B0%D1%80%D0%BB%D1%8C%D0%B5%D1%80" title="Шарльер">шарльер</a></li>
+<li><a href="/wiki/%D0%9C%D0%BE%D0%BD%D0%B3%D0%BE%D0%BB%D1%8C%D1%84%D1%8C%D0%B5%D1%80" title="Монгольфьер">монгольфьер</a></li>
+<li><a href="/wiki/%D0%A0%D0%BE%D0%B7%D1%8C%D0%B5%D1%80_(%D1%82%D0%B8%D0%BF_%D0%B0%D1%8D%D1%80%D0%BE%D1%81%D1%82%D0%B0%D1%82%D0%B0)" title="Розьер (тип аэростата)">розьер</a></li>
+<li><a class="mw-selflink selflink">стратостат</a></li></ul></li>
+<li><a href="/wiki/%D0%94%D0%B8%D1%80%D0%B8%D0%B6%D0%B0%D0%B1%D0%BB%D1%8C" title="Дирижабль">Дирижабль</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/%D0%90%D1%8D%D1%80%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0%D0%BC%D0%B8%D0%BA%D0%B0" title="Аэродинамика">Аэродинамические</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%A1%D0%B0%D0%BC%D0%BE%D0%BB%D1%91%D1%82" title="Самолёт">Самолёт</a>
+<ul><li><a href="/wiki/%D0%93%D0%B8%D0%B4%D1%80%D0%BE%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D1%91%D1%82" title="Гидросамолёт">гидросамолёт</a></li>
+<li><a href="/wiki/%D0%93%D0%BE%D0%BD%D0%B4%D0%BE%D0%BB%D0%BE%D0%BF%D0%BB%D0%B0%D0%BD" title="Гондолоплан">гондолоплан</a></li></ul></li>
+<li><a href="/wiki/%D0%9B%D0%B5%D1%82%D0%B0%D1%8E%D1%89%D0%B0%D1%8F_%D0%BF%D0%BE%D0%B4%D0%B2%D0%BE%D0%B4%D0%BD%D0%B0%D1%8F_%D0%BB%D0%BE%D0%B4%D0%BA%D0%B0" title="Летающая подводная лодка">Летающая подводная лодка</a></li>
+<li><a href="/wiki/%D0%AD%D0%BA%D1%80%D0%B0%D0%BD%D0%BE%D0%BF%D0%BB%D0%B0%D0%BD" title="Экраноплан">Экраноплан</a>
+<ul><li><a href="/wiki/%D0%AD%D0%BA%D1%80%D0%B0%D0%BD%D0%BE%D0%BB%D1%91%D1%82" title="Экранолёт">экранолёт</a></li></ul></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/%D0%A0%D0%B0%D0%BA%D0%B5%D1%82%D0%B0" title="Ракета">Ракетодинамические</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%A0%D0%B0%D0%BA%D0%B5%D1%82%D0%BE%D0%BF%D0%BB%D0%B0%D0%BD" title="Ракетоплан">Ракетоплан</a></li>
+<li><a href="/wiki/%D0%9E%D1%80%D0%B1%D0%B8%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D1%91%D1%82" title="Орбитальный самолёт">Орбитальный самолёт</a>
+<ul><li><a href="/wiki/%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BF%D0%BB%D0%B0%D0%BD" title="Космоплан">космоплан</a></li></ul></li>
+<li><a href="/wiki/%D0%A0%D0%B5%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9_%D1%80%D0%B0%D0%BD%D0%B5%D1%86" title="Реактивный ранец">Реактивный ранец</a></li>
+<li><a href="/wiki/%D0%9A%D1%80%D1%8B%D0%BB%D0%B0%D1%82%D0%B0%D1%8F_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0" title="Крылатая ракета">Крылатая ракета</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Другие</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%9E%D1%80%D0%BD%D0%B8%D1%82%D0%BE%D0%BF%D1%82%D0%B5%D1%80" title="Орнитоптер">Орнитоптер</a></li>
+<li><a href="/wiki/%D0%9C%D1%83%D1%81%D0%BA%D1%83%D0%BB%D0%BE%D0%BB%D1%91%D1%82" title="Мускулолёт">Мускулолёт</a></li>
+<li><a href="/wiki/%D0%A6%D0%B8%D0%BA%D0%BB%D0%BE%D0%BA%D0%BE%D0%BF%D1%82%D0%B5%D1%80" title="Циклокоптер">Циклокоптер</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1487
+Cached time: 20240218013912
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.174 seconds
+Real time usage: 0.251 seconds
+Preprocessor visited node count: 821/1000000
+Post‐expand include size: 23690/2097152 bytes
+Template argument size: 684/2097152 bytes
+Highest expansion depth: 13/100
+Expensive parser function count: 2/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 4108/5000000 bytes
+Lua time usage: 0.086/10.000 seconds
+Lua memory usage: 3354136/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  167.466      1 -total
+ 34.46%   57.717      1 Шаблон:Родственные_проекты
+ 24.07%   40.311      1 Шаблон:Внешние_ссылки
+ 21.23%   35.559      1 Шаблон:Примечания
+ 17.25%   28.887      3 Шаблон:Cite_web
+ 12.49%   20.909      1 Шаблон:Основная_статья
+  5.78%    9.684      1 Шаблон:Воздушные_суда
+  3.84%    6.433      1 Шаблон:Навигационная_таблица
+  2.06%    3.456      4 Шаблон:Ref-lang
+  1.21%    2.027      4 Шаблон:Ref-info
+-->
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:381735-0!canonical and timestamp 20240218013912 and revision id 132691646. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> -->
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Стратостат&amp;oldid=132691646">https://ru.wikipedia.org/w/index.php?title=Стратостат&amp;oldid=132691646</a></div></div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категория</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%81%D1%82%D0%B0%D1%82%D1%8B" title="Категория:Стратостаты">Стратостаты</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81%D0%BE_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8_%D0%BD%D0%B0_%D0%92%D0%B8%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C" title="Категория:Статьи со ссылками на Викисловарь">Статьи со ссылками на Викисловарь</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81%D0%BE_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8_%D0%BD%D0%B0_%D0%92%D0%B8%D0%BA%D0%B8%D1%81%D0%BA%D0%BB%D0%B0%D0%B4" title="Категория:Статьи со ссылками на Викисклад">Статьи со ссылками на Викисклад</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B,_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D0%B2%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_ISBN" title="Категория:Страницы, использующие волшебные ссылки ISBN">Страницы, использующие волшебные ссылки ISBN</a></li></ul></div></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Навигация</h2>
+<div id="mw-head">
+<nav aria-labelledby="p-personal-label" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" id="p-personal" role="navigation">
+<h3 class="vector-menu-heading" id="p-personal-label">
+<span class="vector-menu-heading-label">Персональные инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="pt-anonuserpage"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li class="mw-list-item" id="pt-anontalk"><a accesskey="n" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]"><span>Обсуждение</span></a></li><li class="mw-list-item" id="pt-anoncontribs"><a accesskey="y" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]"><span>Вклад</span></a></li><li class="mw-list-item" id="pt-createaccount"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%A1%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%81%D1%82%D0%B0%D1%82" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li class="mw-list-item" id="pt-login"><a accesskey="o" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%A1%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%81%D1%82%D0%B0%D1%82" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]"><span>Войти</span></a></li>
+</ul>
+</div>
+</nav>
+<div id="left-navigation">
+<nav aria-labelledby="p-namespaces-label" class="mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-namespaces" role="navigation">
+<h3 class="vector-menu-heading" id="p-namespaces-label">
+<span class="vector-menu-heading-label">Пространства имён</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-nstab-main"><a accesskey="c" href="/wiki/%D0%A1%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%81%D1%82%D0%B0%D1%82" title="Просмотреть контентную страницу [c]"><span>Статья</span></a></li><li class="mw-list-item" id="ca-talk"><a accesskey="t" href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%A1%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%81%D1%82%D0%B0%D1%82" rel="discussion" title="Обсуждение основной страницы [t]"><span>Обсуждение</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-variants-label" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" id="p-variants" role="navigation">
+<input aria-haspopup="true" aria-labelledby="p-variants-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-variants" id="p-variants-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-variants-label">
+<span class="vector-menu-heading-label">русский</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+</div>
+<div id="right-navigation">
+<nav aria-labelledby="p-views-label" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-views" role="navigation">
+<h3 class="vector-menu-heading" id="p-views-label">
+<span class="vector-menu-heading-label">Просмотры</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="ca-view"><a href="/w/index.php?title=%D0%A1%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%81%D1%82%D0%B0%D1%82&amp;stable=1"><span>Читать</span></a></li><li class="collapsible selected mw-list-item" id="ca-current"><a accesskey="v" href="/w/index.php?title=%D0%A1%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%81%D1%82%D0%B0%D1%82&amp;stable=0&amp;redirect=no" title="Показать текущую версию этой страницы [v]"><span>Текущая версия</span></a></li><li class="mw-list-item" id="ca-ve-edit"><a accesskey="v" href="/w/index.php?title=%D0%A1%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%81%D1%82%D0%B0%D1%82&amp;veaction=edit" title="Редактировать данную страницу [v]"><span>Править</span></a></li><li class="collapsible mw-list-item" id="ca-edit"><a accesskey="e" href="/w/index.php?title=%D0%A1%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%81%D1%82%D0%B0%D1%82&amp;action=edit" title="Править исходный текст этой страницы [e]"><span>Править код</span></a></li><li class="mw-list-item" id="ca-history"><a accesskey="h" href="/w/index.php?title=%D0%A1%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%81%D1%82%D0%B0%D1%82&amp;action=history" title="Журнал изменений страницы [h]"><span>История</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-cactions-label" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" id="p-cactions" role="navigation" title="Больше возможностей">
+<input aria-haspopup="true" aria-labelledby="p-cactions-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-cactions" id="p-cactions-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-cactions-label">
+<span class="vector-menu-heading-label">Ещё</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+<div class="vector-search-box-vue vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box" id="p-search" role="search">
+<h3>Поиск</h3>
+<form action="/w/index.php" class="vector-search-box-form" id="searchform">
+<div class="vector-search-box-inner" data-search-loc="header-navigation" id="simpleSearch">
+<input accesskey="f" aria-label="Искать в Википедии" autocapitalize="sentences" class="vector-search-box-input" id="searchInput" name="search" placeholder="Искать в Википедии" title="Искать в Википедии [f]" type="search"/>
+<input name="title" type="hidden" value="Служебная:Поиск"/>
+<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Найти страницы, содержащие указанный текст" type="submit" value="Найти"/>
+<input class="searchButton" id="searchButton" name="go" title="Перейти к странице, имеющей в точности такое название" type="submit" value="Перейти"/>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="vector-legacy-sidebar" id="mw-panel">
+<div id="p-logo" role="banner">
+<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу"></a>
+</div>
+<nav aria-labelledby="p-navigation-label" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" id="p-navigation" role="navigation">
+<h3 class="vector-menu-heading" id="p-navigation-label">
+<span class="vector-menu-heading-label">Навигация</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-mainpage-description"><a accesskey="z" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]"><span>Заглавная страница</span></a></li><li class="mw-list-item" id="n-content"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li class="mw-list-item" id="n-featured"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li class="mw-list-item" id="n-randompage"><a accesskey="x" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]"><span>Случайная статья</span></a></li><li class="mw-list-item" id="n-currentevents"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li class="mw-list-item" id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-participation-label" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" id="p-participation" role="navigation">
+<h3 class="vector-menu-heading" id="p-participation-label">
+<span class="vector-menu-heading-label">Участие</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-bug_in_article"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li class="mw-list-item" id="n-introduction"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li class="mw-list-item" id="n-portal"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li class="mw-list-item" id="n-forum"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li class="mw-list-item" id="n-recentchanges"><a accesskey="r" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]"><span>Свежие правки</span></a></li><li class="mw-list-item" id="n-newpages"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li class="mw-list-item" id="n-help"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-tb-label" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" id="p-tb" role="navigation">
+<h3 class="vector-menu-heading" id="p-tb-label">
+<span class="vector-menu-heading-label">Инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="t-whatlinkshere"><a accesskey="j" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%A1%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%81%D1%82%D0%B0%D1%82" title="Список всех страниц, ссылающихся на данную [j]"><span>Ссылки сюда</span></a></li><li class="mw-list-item" id="t-recentchangeslinked"><a accesskey="k" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%A1%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%81%D1%82%D0%B0%D1%82" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]"><span>Связанные правки</span></a></li><li class="mw-list-item" id="t-specialpages"><a accesskey="q" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]"><span>Служебные страницы</span></a></li><li class="mw-list-item" id="t-permalink"><a href="/w/index.php?title=%D0%A1%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%81%D1%82%D0%B0%D1%82&amp;oldid=132691646" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li class="mw-list-item" id="t-info"><a href="/w/index.php?title=%D0%A1%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%81%D1%82%D0%B0%D1%82&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li class="mw-list-item" id="t-cite"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%A1%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%81%D1%82%D0%B0%D1%82&amp;id=132691646&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li class="mw-list-item" id="t-urlshortener"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%25A1%25D1%2582%25D1%2580%25D0%25B0%25D1%2582%25D0%25BE%25D1%2581%25D1%2582%25D0%25B0%25D1%2582"><span>Получить короткий URL</span></a></li><li class="mw-list-item" id="t-urlshortener-qrcode"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%25A1%25D1%2582%25D1%2580%25D0%25B0%25D1%2582%25D0%25BE%25D1%2581%25D1%2582%25D0%25B0%25D1%2582"><span>Скачать QR-код</span></a></li><li class="mw-list-item" id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q2619521" title="Ссылка на связанный элемент репозитория данных [g]"><span>Элемент Викиданных</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-coll-print_export-label" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" id="p-coll-print_export" role="navigation">
+<h3 class="vector-menu-heading" id="p-coll-print_export-label">
+<span class="vector-menu-heading-label">Печать/экспорт</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="coll-download-as-rl"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%A1%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%81%D1%82%D0%B0%D1%82&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li class="mw-list-item" id="t-print"><a accesskey="p" href="/w/index.php?title=%D0%A1%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%81%D1%82%D0%B0%D1%82&amp;printable=yes" title="Версия этой страницы для печати [p]"><span>Версия для печати</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-wikibase-otherprojects-label" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal vector-menu" id="p-wikibase-otherprojects" role="navigation">
+<h3 class="vector-menu-heading" id="p-wikibase-otherprojects-label">
+<span class="vector-menu-heading-label">В других проектах</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Research_balloons" hreflang="en"><span>Викисклад</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-lang-label" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" id="p-lang" role="navigation">
+<h3 class="vector-menu-heading" id="p-lang-label">
+<span class="vector-menu-heading-label">На других языках</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="interlanguage-link interwiki-ar mw-list-item"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%85%D9%86%D8%B7%D8%A7%D8%AF_%D8%A8%D8%AD%D8%AB%D9%8A" hreflang="ar" lang="ar" title="منطاد بحثي — арабский"><span>العربية</span></a></li><li class="interlanguage-link interwiki-be mw-list-item"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%A1%D1%82%D1%80%D0%B0%D1%82%D0%B0%D1%81%D1%82%D0%B0%D1%82" hreflang="be" lang="be" title="Стратастат — белорусский"><span>Беларуская</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%A1%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%81%D1%82%D0%B0%D1%82" hreflang="bg" lang="bg" title="Стратостат — болгарский"><span>Български</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a class="interlanguage-link-target" href="https://en.wikipedia.org/wiki/High-altitude_balloon" hreflang="en" lang="en" title="High-altitude balloon — английский"><span>English</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Globo_estratosf%C3%A9rico" hreflang="es" lang="es" title="Globo estratosférico — испанский"><span>Español</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Baloi_estratosferiko" hreflang="eu" lang="eu" title="Baloi estratosferiko — баскский"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D9%84%D9%88%D9%86_%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%88%D8%B3%D9%81%D8%B1" hreflang="fa" lang="fa" title="بالون استراتوسفر — персидский"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Ballon_stratosph%C3%A9rique" hreflang="fr" lang="fr" title="Ballon stratosphérique — французский"><span>Français</span></a></li><li class="interlanguage-link interwiki-hy mw-list-item"><a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D5%8D%D5%BF%D6%80%D5%A1%D5%BF%D5%B8%D5%BD%D5%BF%D5%A1%D5%BF" hreflang="hy" lang="hy" title="Ստրատոստատ — армянский"><span>Հայերեն</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Balon_altitudo_tinggi" hreflang="id" lang="id" title="Balon altitudo tinggi — индонезийский"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E9%AB%98%E9%AB%98%E5%BA%A6%E6%B0%97%E7%90%83" hreflang="ja" lang="ja" title="高高度気球 — японский"><span>日本語</span></a></li><li class="interlanguage-link interwiki-ka mw-list-item"><a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%A1%E1%83%A2%E1%83%A0%E1%83%90%E1%83%A2%E1%83%9D%E1%83%A1%E1%83%A2%E1%83%90%E1%83%A2%E1%83%98" hreflang="ka" lang="ka" title="სტრატოსტატი — грузинский"><span>ქართული</span></a></li><li class="interlanguage-link interwiki-kk mw-list-item"><a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%A1%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%81%D1%82%D0%B0%D1%82" hreflang="kk" lang="kk" title="Стратостат — казахский"><span>Қазақша</span></a></li><li class="interlanguage-link interwiki-ky mw-list-item"><a class="interlanguage-link-target" href="https://ky.wikipedia.org/wiki/%D0%A1%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%81%D1%82%D0%B0%D1%82" hreflang="ky" lang="ky" title="Стратостат — киргизский"><span>Кыргызча</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Balon_stratosferyczny" hreflang="pl" lang="pl" title="Balon stratosferyczny — польский"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Bal%C3%B5es_de_grande_altitude" hreflang="pt" lang="pt" title="Balões de grande altitude — португальский"><span>Português</span></a></li><li class="interlanguage-link interwiki-sl mw-list-item"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Stratosferski_balon" hreflang="sl" lang="sl" title="Stratosferski balon — словенский"><span>Slovenščina</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A1%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%81%D1%82%D0%B0%D1%82" hreflang="uk" lang="uk" title="Стратостат — украинский"><span>Українська</span></a></li><li class="interlanguage-link interwiki-uz mw-list-item"><a class="interlanguage-link-target" href="https://uz.wikipedia.org/wiki/Stratostat" hreflang="uz" lang="uz" title="Stratostat — узбекский"><span>Oʻzbekcha / ўзбекча</span></a></li><li class="interlanguage-link interwiki-wuu mw-list-item"><a class="interlanguage-link-target" href="https://wuu.wikipedia.org/wiki/%E9%AB%98%E7%A9%BA%E6%B0%94%E7%90%83" hreflang="wuu" lang="wuu" title="高空气球 — у"><span>吴语</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E9%AB%98%E7%A9%BA%E6%B0%A3%E7%90%83" hreflang="zh" lang="zh" title="高空氣球 — китайский"><span>中文</span></a></li>
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q2619521#sitelinks-wikipedia" title="Править ссылки на другие языки">Править ссылки</a></span></div>
+</div>
+</nav>
+</div>
+</div>
+<footer class="mw-footer" id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 1 сентября 2023 в 06:59.</li>
+<li id="footer-info-copyright">Текст доступен по <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru" rel="license">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a><a href="//creativecommons.org/licenses/by-sa/4.0/" rel="license" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br/>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org/ru/">Фонд Викимедиа (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//ru.m.wikipedia.org/w/index.php?title=%D0%A1%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%81%D1%82%D0%B0%D1%82&amp;mobileaction=toggle_view_mobile">Мобильная версия</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" loading="lazy" src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88"/></a></li>
+<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" loading="lazy" src="/static/images/footer/poweredby_mediawiki_88x31.png" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88"/></a></li>
+</ul>
+</footer>
+
+
+</body>
+</html>
