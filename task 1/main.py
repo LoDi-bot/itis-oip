@@ -56,7 +56,8 @@ if __name__ == '__main__':
     links_all = []
     info_string = ""
     year = 2006
-    while len(links_all) < COUNT_PAGES:
+    # while len(links_all) < COUNT_PAGES:
+    while year <= 2024:
         current_link = f'{MAIN_LINK}{year}'
         links = get_links(current_link)
         links_all += links
@@ -64,7 +65,7 @@ if __name__ == '__main__':
     for i, link in enumerate(links_all):
         html_text = crawl(link)
         index[i] = link
-        filename = f'00{i}' if i < 10 else f'0{i}'
+        filename = f'000{i}' if i < 10 else (f'00{i}' if i < 100 else (f'0{i}' if i < 1000 else f'{i}'))
         info_string += f"{filename}\t{link}\n"
         path_result = f"Выкачка/{filename}.txt"
         os.makedirs(os.path.dirname(path_result), exist_ok=True)
