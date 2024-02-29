@@ -57,7 +57,7 @@ if __name__ == '__main__':
     info_string = ""
     year = 2006
     # while len(links_all) < COUNT_PAGES:
-    while year <= 2024:
+    while year <= 2011:
         current_link = f'{MAIN_LINK}{year}'
         links = get_links(current_link)
         links_all += links
