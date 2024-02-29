@@ -1,0 +1,1048 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="ru">
+<head>
+<meta charset="utf-8"/>
+<title>Athlon — Википедия</title>
+
+
+
+
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+
+
+<meta content="MediaWiki 1.42.0-wmf.19" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="max-image-preview:standard" name="robots"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Amd_athlon_classic.jpg/1200px-Amd_athlon_classic.jpg" property="og:image"/>
+<meta content="1200" property="og:image:width"/>
+<meta content="714" property="og:image:height"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Amd_athlon_classic.jpg/800px-Amd_athlon_classic.jpg" property="og:image"/>
+<meta content="800" property="og:image:width"/>
+<meta content="476" property="og:image:height"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Amd_athlon_classic.jpg/640px-Amd_athlon_classic.jpg" property="og:image"/>
+<meta content="640" property="og:image:width"/>
+<meta content="381" property="og:image:height"/>
+<meta content="width=1000" name="viewport"/>
+<meta content="Athlon — Википедия" property="og:title"/>
+<meta content="website" property="og:type"/>
+
+
+
+
+
+
+
+
+
+
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Athlon rootpage-Athlon skin-vector action-view"><div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators">
+</div>
+<h1 class="firstHeading mw-first-heading" id="firstHeading"><span class="mw-page-title-main">Athlon</span></h1>
+<div class="vector-body" id="bodyContent">
+<div class="noprint" id="siteSub">Материал из Википедии — свободной энциклопедии</div>
+<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+<div id="contentSub2"></div>
+<div id="jump-to-nav"></div>
+<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+<div class="mw-body-content" id="mw-content-text"><div class="mw-content-ltr mw-parser-output" dir="ltr" lang="ru"><table class="infobox infobox-4e70cbab4b2c3257" data-name="Центральный процессор" style=""><tbody><tr><th class="infobox-above" colspan="2" scope="colgroup" style="">Athlon</th></tr><tr><td class="" colspan="2" style="text-align:center;"><i><a href="/wiki/%D0%A6%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80" title="Центральный процессор">Центральный процессор</a></i></td></tr><tr><td class="infobox-image" colspan="2" style=""> <span class="no-wikidata" data-wikidata-property-id="P18"><span typeof="mw:File/Frameless"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Amd_athlon_classic.jpg"><img class="mw-file-element" data-file-height="1086" data-file-width="1825" decoding="async" height="149" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Amd_athlon_classic.jpg/250px-Amd_athlon_classic.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Amd_athlon_classic.jpg/375px-Amd_athlon_classic.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Amd_athlon_classic.jpg/500px-Amd_athlon_classic.jpg 2x" width="250"/></a></span></span> </td></tr>
+<tr>
+<th class="plainlist" scope="row">Производство</th>
+<td class="plainlist">
+с <a class="mw-redirect" href="/wiki/1999" title="1999">1999</a> по <a class="mw-redirect" href="/wiki/2005" title="2005">2005</a></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Производитель</th>
+<td class="plainlist">
+<div class="no-wikidata" data-wikidata-property-id="P176">
+<div><ul><li><a href="/wiki/AMD" title="AMD">AMD</a></li></ul></div></div></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Частота <a href="/wiki/%D0%A6%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80" title="Центральный процессор">ЦП</a></th>
+<td class="plainlist">
+500—1400 <a class="mw-redirect" href="/wiki/%D0%9C%D0%93%D1%86" title="МГц">МГц</a></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Частота <a href="/wiki/Front_Side_Bus" title="Front Side Bus">FSB</a></th>
+<td class="plainlist">
+200—266 <a class="mw-redirect" href="/wiki/%D0%9C%D0%93%D1%86" title="МГц">МГц</a></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Технология производства</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P2079"><a href="/wiki/%D0%9A%D0%9C%D0%9E%D0%9F" title="КМОП">КМОП</a>, 250—180 <a class="mw-redirect" href="/wiki/%D0%9D%D0%BC" title="Нм">нм</a></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row"><a href="/wiki/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4" title="Система команд">Наборы инструкций</a></th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P1068"><a class="mw-redirect" href="/wiki/IA-32" title="IA-32">IA-32</a>, <a href="/wiki/MMX" title="MMX">MMX</a>, <a href="/wiki/3DNow!" title="3DNow!">3DNow!</a></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row"><a class="mw-redirect" href="/wiki/%D0%A0%D0%B0%D0%B7%D1%8A%D1%91%D0%BC_%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%B0_%D0%BF%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%B0" title="Разъём процессора персонального компьютера">Разъёмы</a></th>
+<td class="plainlist">
+<div><ul><li><a href="/wiki/Slot_A" title="Slot A">Slot A</a></li><li><a href="/wiki/Socket_A" title="Socket A">Socket A</a></li></ul></div></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row"><a href="/wiki/%D0%AF%D0%B4%D1%80%D0%BE_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%B0" title="Ядро микропроцессора">Ядра</a></th>
+<td class="plainlist">
+<div><ul><li>Argon</li><li>Pluto / Orion</li><li>Thunderbird</li></ul></div></td>
+</tr><tr><td class="infobox-below" colspan="2" style=";"><div aria-label="Хронология" class="ts-Карточка-хронология plainlist"><div aria-label="Предыдущий" class="ts-Карточка-хронология-prev is-local"><a class="mw-redirect" href="/wiki/AMD_K6-III" title="AMD K6-III">AMD K6-III</a></div><div aria-label="Следующий" class="ts-Карточка-хронология-next is-local"><a href="/wiki/Athlon_XP" title="Athlon XP">Athlon XP</a></div></div></td></tr>
+</tbody></table>
+<p><b>AMD Athlon</b> (в русском языке «Атло́н») — торговое название представленного <a href="/wiki/23_%D0%B8%D1%8E%D0%BD%D1%8F" title="23 июня">23 июня</a> <a href="/wiki/1999_%D0%B3%D0%BE%D0%B4" title="1999 год">1999 года</a> компанией <a href="/wiki/AMD" title="AMD">AMD</a> высокопроизводительного <a href="/wiki/X86" title="X86">x86</a>-совместимого <a class="mw-redirect" href="/wiki/%D0%9F%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80" title="Процессор">процессора</a> с микроархитектурой K7.
+</p><p>Новый процессор был призван конкурировать с <a href="/wiki/Pentium_III" title="Pentium III">Pentium III</a> компании <a href="/wiki/Intel" title="Intel">Intel</a>, а название Athlon происходит от <a href="/wiki/%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B5%D0%B3%D1%80%D0%B5%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Древнегреческий язык">др.-греч.</a> <span lang="grc"><span style="font-family: palatino linotype, new athena unicode, athena, gentium, code2000, serif; font-size: 105%;">ἆθλον</span></span> — («соревнование», «награда в соревновании», или «место боя; арена») и отражало претензию компании AMD на лидерство своего процессора.
+</p><p>Новое ядро K7 имело множество нововведений, что позволило значительно поднять производительность процессора Athlon по сравнению с предыдущими процессорами компании, в результате чего на момент анонса Athlon являлся самым производительным процессором архитектуры x86, превосходя своего основного конкурента — Intel Pentium III.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup>
+</p><p>AMD продолжает использовать название Athlon и в последующих сериях своих микропроцессоров.
+</p>
+<div aria-labelledby="mw-toc-heading" class="toc" id="toc" role="navigation"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="ru"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Общая_информация"><span class="tocnumber">1</span> <span class="toctext">Общая информация</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Модели"><span class="tocnumber">2</span> <span class="toctext">Модели</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Argon_(Model_1)"><span class="tocnumber">2.1</span> <span class="toctext">Argon (Model 1)</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Pluto_и_Orion_(Model_2)"><span class="tocnumber">2.2</span> <span class="toctext">Pluto и Orion (Model 2)</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Thunderbird_(Model_4)"><span class="tocnumber">2.3</span> <span class="toctext">Thunderbird (Model 4)</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Положение_на_рынке_и_сравнение_с_конкурентами"><span class="tocnumber">3</span> <span class="toctext">Положение на рынке и сравнение с конкурентами</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#«Битва_за_гигагерц»"><span class="tocnumber">3.1</span> <span class="toctext">«Битва за гигагерц»</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Интересные_факты"><span class="tocnumber">4</span> <span class="toctext">Интересные факты</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Технические_характеристики"><span class="tocnumber">5</span> <span class="toctext">Технические характеристики</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Наименование_моделей"><span class="tocnumber">6</span> <span class="toctext">Наименование моделей</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Ревизии_ядер_процессоров"><span class="tocnumber">7</span> <span class="toctext">Ревизии ядер процессоров</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Изменение_параметров_процессора"><span class="tocnumber">8</span> <span class="toctext">Изменение параметров процессора</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Исправленные_ошибки"><span class="tocnumber">9</span> <span class="toctext">Исправленные ошибки</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Примечания"><span class="tocnumber">10</span> <span class="toctext">Примечания</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Ссылки"><span class="tocnumber">11</span> <span class="toctext">Ссылки</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#См._также"><span class="tocnumber">12</span> <span class="toctext">См. также</span></a></li>
+</ul>
+</div>
+<h2><span id=".D0.9E.D0.B1.D1.89.D0.B0.D1.8F_.D0.B8.D0.BD.D1.84.D0.BE.D1.80.D0.BC.D0.B0.D1.86.D0.B8.D1.8F"></span><span class="mw-headline" id="Общая_информация">Общая информация</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Athlon&amp;veaction=edit&amp;section=1" title="Редактировать раздел «Общая информация»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Athlon&amp;action=edit&amp;section=1" title="Редактировать код раздела «Общая информация»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Athlon_model_2.jpg"><img class="mw-file-element" data-file-height="768" data-file-width="1024" decoding="async" height="150" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Athlon_model_2.jpg/200px-Athlon_model_2.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Athlon_model_2.jpg/300px-Athlon_model_2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/68/Athlon_model_2.jpg/400px-Athlon_model_2.jpg 2x" width="200"/></a><figcaption>AMD Athlon 700 (Pluto)</figcaption></figure>
+<p><a href="/wiki/%D0%A6%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80" title="Центральный процессор">Процессоры</a> AMD Athlon для <a href="/wiki/%D0%9D%D0%B0%D1%81%D1%82%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80" title="Настольный компьютер">настольных компьютеров</a> выпускались в двух вариантах корпусов: <a class="mw-redirect" href="/wiki/SECC" title="SECC">SECC</a> (все модификации) и <a class="mw-redirect" href="/wiki/FCPGA" title="FCPGA">FCPGA</a> (Thunderbird).
+</p><p>Процессор Athlon в корпусе <a class="mw-redirect" href="/wiki/SECC" title="SECC">SECC</a> представляет собой полностью закрытый картридж, содержащий процессорную <a href="/wiki/%D0%9F%D0%B5%D1%87%D0%B0%D1%82%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BB%D0%B0%D1%82%D0%B0" title="Печатная плата">плату</a> с установленным на ней ядром процессора (во всех модификациях), а также <a class="mw-redirect" href="/wiki/%D0%9C%D0%B8%D0%BA%D1%80%D0%BE%D1%81%D1%85%D0%B5%D0%BC%D0%B0" title="Микросхема">микросхемами</a> <a href="/wiki/%D0%9A%D1%8D%D1%88" title="Кэш">кэш</a> <a class="new" href="/w/index.php?title=BSRAM&amp;action=edit&amp;redlink=1" title="BSRAM (страница отсутствует)">BSRAM</a> (во всех модификациях, кроме процессоров на ядре Thunderbird). Процессор предназначен для установки в 242-контактный щелевой разъём <a href="/wiki/Slot_A" title="Slot A">Slot A</a>.
+</p><p>В процессорах, основанных на ядрах Argon, Pluto и Orion, кэш второго уровня работает на частоте от трети до половины <a class="mw-redirect" href="/wiki/%D0%A2%D0%B0%D0%BA%D1%82%D0%BE%D0%B2%D0%B0%D1%8F_%D1%87%D0%B0%D1%81%D1%82%D0%BE%D1%82%D0%B0" title="Тактовая частота">частоты ядра</a>, а в процессорах на ядре Thunderbird — на частоте ядра.
+</p><p>На процессорной плате также находится ножевой 40-контактный технологический разъём, закрытый картриджем. Разъём содержит контакты, отвечающие за установку <a href="/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%BD%D0%B0%D0%BF%D1%80%D1%8F%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5" title="Электрическое напряжение">напряжения</a> питания и тактовой частоты. С помощью специального устройства, подключаемого к процессору, возможно изменение этих параметров.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup>
+</p><p>Картридж состоит из двух частей: металлической теплоотводной пластины, контактирующей с кристаллом процессора и микросхемами кэш-памяти (в случае с процессорами, имеющими внешний кэш), а также пластикового кожуха, закрывающего процессорную плату и защищающего установленные на ней элементы от повреждений. Маркировка находится на верхней грани картриджа.
+</p>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:AMD_Athlon_1.1Ghz_Thunderbird.jpg"><img class="mw-file-element" data-file-height="1360" data-file-width="1395" decoding="async" height="195" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/AMD_Athlon_1.1Ghz_Thunderbird.jpg/200px-AMD_Athlon_1.1Ghz_Thunderbird.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/AMD_Athlon_1.1Ghz_Thunderbird.jpg/300px-AMD_Athlon_1.1Ghz_Thunderbird.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3f/AMD_Athlon_1.1Ghz_Thunderbird.jpg/400px-AMD_Athlon_1.1Ghz_Thunderbird.jpg 2x" width="200"/></a><figcaption>AMD Athlon 1100 (Thunderbird)</figcaption></figure>
+<p>Процессоры Athlon в корпусе типа <a class="mw-redirect" href="/wiki/FCPGA" title="FCPGA">FCPGA</a> предназначены для установки в системные платы с 462-контактным гнездовым разъёмом <a href="/wiki/Socket_A" title="Socket A">Socket A</a> и представляют собой подложку из керамического материала с установленным на ней открытым кристаллом на лицевой стороне и контактами на обратной (453 контакта). Существовали также процессоры с органической подложкой, выпущенные ограниченной партией.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> На стороне ядра расположены <a href="/wiki/%D0%9F%D0%BE%D0%B2%D0%B5%D1%80%D1%85%D0%BD%D0%BE%D1%81%D1%82%D0%BD%D1%8B%D0%B9_%D0%BC%D0%BE%D0%BD%D1%82%D0%B0%D0%B6" title="Поверхностный монтаж">SMD-элементы</a>, а также контакты, задающие <a href="/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%BD%D0%B0%D0%BF%D1%80%D1%8F%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5" title="Электрическое напряжение">напряжение</a> питания и тактовую частоту (обычно называемые мостиками). Контакты располагаются группами, которые имеют обозначения L1 — L7. Маркировка нанесена на кристалл процессора.
+</p><p>Изначально кристалл не был защищён от сколов, которые могли происходить в результате перекоса <a class="mw-disambig" href="/wiki/%D0%A0%D0%B0%D0%B4%D0%B8%D0%B0%D1%82%D0%BE%D1%80" title="Радиатор">радиатора</a> при его неправильной установке неквалифицированными пользователями, однако вскоре появилась защита от перекосов в виде четырёх круглых прокладок, расположенных в углах подложки. Несмотря на наличие прокладок, при неаккуратной установке радиатора неопытными пользователями кристалл всё же мог получать трещины и сколы (процессоры с такими повреждениями обычно назывались «ко́лотыми»). В ряде случаев процессор, получивший существенные повреждения кристалла (сколы до 2—3 мм с угла), продолжал работать без сбоев или с редкими сбоями, в то же время, процессор с незначительными сколами мог полностью выйти из строя. Простейший способ проверки процессора на наличие сколов кристалла заключался в проведении по граням кристалла ногтем.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> В случае наличия сколов <a href="/wiki/%D0%9F%D0%B0%D0%BB%D0%B5%D1%86" title="Палец">палец</a> явно ощущал шероховатость. При наличии <a href="/wiki/%D0%9B%D1%83%D0%BF%D0%B0" title="Лупа">лупы</a> или <a href="/wiki/%D0%9C%D0%B8%D0%BA%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF" title="Микроскоп">микроскопа</a> сколы определялись визуально. Однако соблюдение мер предосторожности при сборке или установка опытным сборщиком, вместо самостоятельной установки, исключали механические повреждения процессоров с открытым ядром, таких, как процессоры семейства AMD K7 или Intel Pentium III и Celeron с ядром Coppermine.
+</p>
+<h2><span id=".D0.9C.D0.BE.D0.B4.D0.B5.D0.BB.D0.B8"></span><span class="mw-headline" id="Модели">Модели</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Athlon&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Модели»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Athlon&amp;action=edit&amp;section=2" title="Редактировать код раздела «Модели»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>На выставке <a class="new" href="/w/index.php?title=Comdex_Fall&amp;action=edit&amp;redlink=1" title="Comdex Fall (страница отсутствует)">Comdex Fall</a>, проходившей осенью <a href="/wiki/1997_%D0%B3%D0%BE%D0%B4" title="1997 год">1997 года</a> в <a href="/wiki/%D0%9B%D0%B0%D1%81-%D0%92%D0%B5%D0%B3%D0%B0%D1%81" title="Лас-Вегас">Лас-Вегасе</a> (<a class="mw-redirect" href="/wiki/%D0%A1%D0%A8%D0%90" title="США">США</a>), компанией AMD было объявлено о разработке принципиально нового процессора под кодовым названием K7, который должен прийти на смену процессорам серии <a class="mw-redirect" href="/wiki/AMD_K6" title="AMD K6">K6</a>.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> В октябре <a href="/wiki/1998_%D0%B3%D0%BE%D0%B4" title="1998 год">1998 года</a> были выпущены первые инженерные образцы нового процессора.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup>
+</p><p>Первые процессоры Athlon (ядро Argon) предназначались для настольных компьютеров и производились по 250-<a class="mw-redirect" href="/wiki/%D0%9D%D0%BC" title="Нм">нм</a> <a href="/wiki/%D0%9A%D0%9C%D0%9E%D0%9F" title="КМОП">КМОП</a>-технологии. На смену ядру Argon пришло 180-нм ядро Pluto. Модель, работавшая на частоте 1 <a class="mw-redirect" href="/wiki/%D0%93%D0%B8%D0%B3%D0%B0%D0%B3%D0%B5%D1%80%D1%86" title="Гигагерц">ГГц</a>, получила наименование Orion.
+</p><p>Следующим ядром, использованным в процессорах семейства Athlon, стало 180-нм ядро Thunderbird, получившее интегрированный <a class="mw-redirect" href="/wiki/L2_(%D0%BA%D0%B5%D1%88)" title="L2 (кеш)">кеш второго уровня</a>. Дальнейшим развитием семейства <a href="/wiki/%D0%9D%D0%B0%D1%81%D1%82%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80" title="Настольный компьютер">десктопных</a> процессоров Athlon стали процессоры <a href="/wiki/Athlon_XP" title="Athlon XP">Athlon XP</a>, вышедшие в октябре <a href="/wiki/2001_%D0%B3%D0%BE%D0%B4" title="2001 год">2001 года</a>.
+</p>
+<table class="wide" style="text-align:center">
+<caption><b>Процессоры Athlon на ядре Argon</b>
+</caption>
+<tbody><tr>
+<th width="15%"><a class="mw-redirect" href="/wiki/%D0%A2%D0%B0%D0%BA%D1%82%D0%BE%D0%B2%D0%B0%D1%8F_%D1%87%D0%B0%D1%81%D1%82%D0%BE%D1%82%D0%B0" title="Тактовая частота">Тактовая частота</a>, МГц
+</th>
+<td>500</td>
+<td>550</td>
+<td>600</td>
+<td>650</td>
+<td>700
+</td></tr>
+<tr>
+<th nowrap="">Частота FSB, МГц
+</th>
+<td colspan="5">200
+</td></tr>
+<tr>
+<th>Анонсирован
+</th>
+<td colspan="3"><a href="/wiki/23_%D0%B8%D1%8E%D0%BD%D1%8F" title="23 июня">23 июня</a> <a class="mw-redirect" href="/wiki/1999" title="1999">1999</a>
+</td>
+<td><a href="/wiki/9_%D0%B0%D0%B2%D0%B3%D1%83%D1%81%D1%82%D0%B0" title="9 августа">9 августа</a> 1999
+</td>
+<td><a href="/wiki/4_%D0%BE%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8F" title="4 октября">4 октября</a> 1999
+</td></tr>
+<tr>
+<th width="15%">Цена, долл.<sup class="reference" id="cite_ref-cost_7-0"><a href="#cite_note-cost-7">[7]</a></sup>
+</th>
+<td>324</td>
+<td>479</td>
+<td>699</td>
+<td>849</td>
+<td>849
+</td></tr></tbody></table>
+<table class="wide" style="text-align:center">
+<caption><b>Процессоры Athlon на ядрах Pluto и Orion</b>
+</caption>
+<tbody><tr>
+<th width="15%">Тактовая частота, МГц
+</th>
+<td>550</td>
+<td>600</td>
+<td>650</td>
+<td>700</td>
+<td>750</td>
+<td>800</td>
+<td>850</td>
+<td>900</td>
+<td>950</td>
+<td><i>1000</i>
+</td></tr>
+<tr>
+<th nowrap="">Частота FSB, МГц
+</th>
+<td colspan="10">200
+</td></tr>
+<tr>
+<th>Анонсирован
+</th>
+<td colspan="5"><a href="/wiki/29_%D0%BD%D0%BE%D1%8F%D0%B1%D1%80%D1%8F" title="29 ноября">29 ноября</a> <a class="mw-redirect" href="/wiki/1999" title="1999">1999</a>
+</td>
+<td><a href="/wiki/6_%D1%8F%D0%BD%D0%B2%D0%B0%D1%80%D1%8F" title="6 января">6 января</a> <a class="mw-redirect" href="/wiki/2000" title="2000">2000</a>
+</td>
+<td><a href="/wiki/11_%D1%84%D0%B5%D0%B2%D1%80%D0%B0%D0%BB%D1%8F" title="11 февраля">11 февраля</a> 2000
+</td>
+<td colspan="3"><a href="/wiki/6_%D0%BC%D0%B0%D1%80%D1%82%D0%B0" title="6 марта">6 марта</a> 2000
+</td></tr>
+<tr>
+<th width="15%">Цена, долл.<sup class="reference" id="cite_ref-cost_7-1"><a href="#cite_note-cost-7">[7]</a></sup>
+</th>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>799</td>
+<td>—</td>
+<td>849</td>
+<td>899</td>
+<td>999</td>
+<td>1299
+</td></tr></tbody></table>
+<table class="wide" style="text-align:center">
+<caption><b>Процессоры Athlon на ядре Thunderbird</b>
+</caption>
+<tbody><tr>
+<th width="15%">Тактовая частота, МГц
+</th>
+<td>700</td>
+<td>750</td>
+<td>800</td>
+<td>850</td>
+<td>900</td>
+<td>950</td>
+<td>1000</td>
+<td>1100</td>
+<td>1200</td>
+<td>1000</td>
+<td>1133</td>
+<td>1200</td>
+<td>1333</td>
+<td>1300</td>
+<td>1400
+</td></tr>
+<tr>
+<th nowrap="">Частота FSB, МГц
+</th>
+<td colspan="8">200
+</td>
+<td colspan="4">266
+</td>
+<td colspan="2">200
+</td>
+<td>266
+</td></tr>
+<tr>
+<th>Анонсирован
+</th>
+<td colspan="6"><a href="/wiki/5_%D0%B8%D1%8E%D0%BD%D1%8F" title="5 июня">5 июня</a> <a class="mw-redirect" href="/wiki/2000" title="2000">2000</a>
+</td>
+<td><a href="/wiki/28_%D0%B0%D0%B2%D0%B3%D1%83%D1%81%D1%82%D0%B0" title="28 августа">28 августа</a> 2000
+</td>
+<td><a href="/wiki/17_%D0%BE%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8F" title="17 октября">17 октября</a> 2000
+</td>
+<td colspan="3"><a href="/wiki/30_%D0%BE%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8F" title="30 октября">30 октября</a> 2000
+</td>
+<td colspan="2"><a href="/wiki/22_%D0%BC%D0%B0%D1%80%D1%82%D0%B0" title="22 марта">22 марта</a> <a class="mw-redirect" href="/wiki/2001" title="2001">2001</a>
+</td>
+<td colspan="2"><a href="/wiki/6_%D0%B8%D1%8E%D0%BD%D1%8F" title="6 июня">6 июня</a> 2001
+</td></tr>
+<tr>
+<th width="15%">Цена, долл.<sup class="reference" id="cite_ref-cost_7-2"><a href="#cite_note-cost-7">[7]</a></sup>
+</th>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>853</td>
+<td>612</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>350</td>
+<td>318</td>
+<td colspan="2">253
+</td></tr></tbody></table>
+<h3><span id="Argon_.28Model_1.29"></span><span class="mw-headline" id="Argon_(Model_1)">Argon (Model 1)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Athlon&amp;veaction=edit&amp;section=3" title="Редактировать раздел «Argon (Model 1)»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Athlon&amp;action=edit&amp;section=3" title="Редактировать код раздела «Argon (Model 1)»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Athlon550.jpg"><img class="mw-file-element" data-file-height="1200" data-file-width="1600" decoding="async" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Athlon550.jpg/220px-Athlon550.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Athlon550.jpg/330px-Athlon550.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Athlon550.jpg/440px-Athlon550.jpg 2x" width="220"/></a><figcaption>AMD Athlon 550 МГц</figcaption></figure>
+<p>Первое ядро, использованное в процессорах Athlon, имеет принципиально новую архитектуру по сравнению с предыдущими процессорами компании AMD.
+</p><p>Ключевыми особенностями процессоров архитектуры К7 являются:
+</p>
+<ul><li>Новый блок целочисленных вычислений (<a href="/wiki/%D0%90%D1%80%D0%B8%D1%84%D0%BC%D0%B5%D1%82%D0%B8%D0%BA%D0%BE-%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE" title="Арифметико-логическое устройство">ALU</a>), содержащий три конвейера глубиной 10 стадий. Это позволяет процессору выполнять до трёх инструкций за такт.</li>
+<li>Новый блок вещественночисленных вычислений (<a href="/wiki/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80" title="Математический сопроцессор">FPU</a>), содержащий три конвейера глубиной 15 стадий. В предыдущих процессорах компании AMD блок FPU не был конвейерным и не мог начать выполнять новую команду, пока не закончится выполнение предыдущей, что приводило к сильному падению производительности.</li>
+<li><a class="mw-redirect" href="/wiki/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%BD%D0%B0%D1%8F_%D1%88%D0%B8%D0%BD%D0%B0" title="Системная шина">Системная шина</a> <a href="/wiki/DEC_Alpha" title="DEC Alpha">EV6</a>, лицензированная у компании <a class="mw-redirect" href="/wiki/DEC" title="DEC">DEC</a>, обеспечивающая передачу данных по обоим фронтам тактового сигнала. Это позволило при физической частоте 100 МГц получить эффективную частоту 200 МГц, что соответствует пропускной способности 1,6 Гб/с. Кроме того, шина EV6 использует <a class="new" href="/w/index.php?title=%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB_%D1%82%D0%BE%D1%87%D0%BA%D0%B0-%D1%82%D0%BE%D1%87%D0%BA%D0%B0&amp;action=edit&amp;redlink=1" title="Протокол точка-точка (страница отсутствует)">протокол точка-точка</a>, что позволяет организовать более эффективную многопроцессорную систему.</li>
+<li><a class="mw-redirect" href="/wiki/L1_(%D0%BA%D0%B5%D1%88)" title="L1 (кеш)">Кеш-память первого уровня</a> объёмом 128 Кбайт (64 Кбайт кеш инструкций и 64 Кбайт кеш данных).</li>
+<li>Расширенный набор инструкций Extended <a href="/wiki/3DNow!" title="3DNow!">3DNow!</a>.</li></ul>
+<p><a class="mw-redirect" href="/wiki/L2_(%D0%BA%D0%B5%D1%88)" title="L2 (кеш)">Кеш второго уровня</a> объёмом 512 Кбайт работает на половине частоты ядра и выполнен в виде двух микросхем <a class="new" href="/w/index.php?title=BSRAM&amp;action=edit&amp;redlink=1" title="BSRAM (страница отсутствует)">BSRAM</a> (обычно использовались микросхемы производства <a href="/wiki/Toshiba" title="Toshiba">Toshiba</a> или <a href="/wiki/NEC" title="NEC">NEC</a>), расположенных по обе стороны кристалла процессора.
+</p><p>Для упрощения производства системных плат щелевой разъём <a href="/wiki/Slot_A" title="Slot A">Slot A</a> был сделан механически совместимым с популярным разъёмом процессоров Intel — <a href="/wiki/Slot_1_(%D1%80%D0%B0%D0%B7%D1%8A%D1%91%D0%BC)" title="Slot 1 (разъём)">Slot 1</a>, что позволяло производителям использовать один и тот же разъём на системных платах для процессоров Celeron, <a href="/wiki/Pentium_III" title="Pentium III">Pentium II, Pentium III (на ядре Katmai</a>) и Athlon. Электрически разъёмы Slot A и Slot 1 несовместимы. Различна также нумерация выводов разъёма.
+</p><p>Процессоры Athlon на ядре Argon содержали 22 млн <a href="/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D0%B7%D0%B8%D1%81%D1%82%D0%BE%D1%80" title="Транзистор">транзисторов</a> и выпускались по 250-нм технологии, площадь кристалла составляла 184 мм². Напряжение питания — 1,6 В, максимальное тепловыделение — 50 Вт (на частоте 700 МГц).
+</p>
+<h3><span id="Pluto_.D0.B8_Orion_.28Model_2.29"></span><span class="mw-headline" id="Pluto_и_Orion_(Model_2)">Pluto и Orion (Model 2)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Athlon&amp;veaction=edit&amp;section=4" title="Редактировать раздел «Pluto и Orion (Model 2)»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Athlon&amp;action=edit&amp;section=4" title="Редактировать код раздела «Pluto и Orion (Model 2)»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Slot-A_Athlon.jpg"><img class="mw-file-element" data-file-height="592" data-file-width="1286" decoding="async" height="101" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Slot-A_Athlon.jpg/220px-Slot-A_Athlon.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Slot-A_Athlon.jpg/330px-Slot-A_Athlon.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Slot-A_Athlon.jpg/440px-Slot-A_Athlon.jpg 2x" width="220"/></a><figcaption>AMD Athlon (K75)</figcaption></figure>
+<p>Ядро Pluto, также известное как K75, представляет собой ядро Argon (K7), выполненное по 180-нм технологии. Переход на новую технологию позволил поднять тактовую частоту процессоров Athlon до 1 ГГц. Ядро процессора Athlon, работающего на частоте 1 ГГц, получило собственное наименование — Orion.
+</p><p>Кэш память второго уровня по-прежнему работала на неполной частоте ядра, однако, в связи с ростом частоты ядра и невозможностью работы микросхем BSRAM на частотах выше 350 МГц, были введены новые делители частоты кэш-памяти — 2/5 и 1/3. Таким образом, для различных моделей частота работы микросхем кэш-памяти составляла: для моделей до 700 МГц — 1/2 частоты ядра (275—350 МГц), для моделей от 900 МГц — 1/3 частоты ядра (300—333 МГц), для остальных — 2/5 частоты ядра (300—340 МГц).
+</p><p>По причине того, что частота работы кэша второго уровня в процессорах Athlon на ядре K75 максимальна у модели 700 МГц, дальнейшее увеличение тактовой частоты ядра не приводило к соответствующему росту производительности из-за меньшей частоты работы кэша.
+</p><p>Ядро K75, как и ядро Argon, содержит 22 млн транзисторов, однако, за счёт перехода с 250-нм на 180-нм технологию, площадь ядра сократилась до 102 мм². Напряжение питания — от 1,6 до 1,8 В, максимальное тепловыделение — 65 Вт (на частоте 1000 МГц).
+</p>
+<h3><span id="Thunderbird_.28Model_4.29"></span><span class="mw-headline" id="Thunderbird_(Model_4)">Thunderbird (Model 4)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Athlon&amp;veaction=edit&amp;section=5" title="Редактировать раздел «Thunderbird (Model 4)»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Athlon&amp;action=edit&amp;section=5" title="Редактировать код раздела «Thunderbird (Model 4)»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Tbird850.jpg"><img class="mw-file-element" data-file-height="418" data-file-width="465" decoding="async" height="198" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Tbird850.jpg/220px-Tbird850.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Tbird850.jpg/330px-Tbird850.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Tbird850.jpg/440px-Tbird850.jpg 2x" width="220"/></a><figcaption>AMD Athlon 850 МГц (Thunderbird)</figcaption></figure>
+<p>Ядро Thunderbird представляет собой ядро K75 с интегрированным кэшем второго уровня объёмом 256 Кбайт, работающим на частоте ядра. В отличие от предшествующих процессоров, имеющих кэш-память с инклюзивной архитектурой, кэш-память процессоров на ядре Thunderbird имеет эксклюзивную архитектуру. При такой организации кэш-памяти данные, находящиеся в кэш-памяти первого уровня, не дублируются в кэш-памяти второго уровня. Это позволило получить в процессорах на ядре Thunderbird кэш с эффективным объёмом 384 Кбайт (128 Кбайт кэша первого уровня и 256 Кбайт кэша второго уровня).
+</p><p>Недостатками процессоров Athlon являются относительно высокая латентность кэш-памяти, а также не изменившаяся при интеграции кэш-памяти второго уровня ширина <a class="mw-redirect" href="/wiki/BSB" title="BSB">её шины</a>, по-прежнему составлявшая 64 бит (в то время как процессор <a href="/wiki/Pentium_III" title="Pentium III">Pentium III</a> с интегрированным кэшем имеет 256-битную шину).
+</p><p>Интеграция кэш-памяти второго уровня в ядро процессора, наряду с повышением производительности, позволила в дальнейшем отказаться от использования процессорной платы и картриджа. Процессоры Athlon на ядре Thunderbird выпускались в двух вариантах корпусов:
+</p>
+<ul><li>SECC (модели 650—1000 МГц с частотой системной шины 200 МГц).</li>
+<li>FCPGA (все модели).</li></ul>
+<p>Первоначально процессоры на ядре Thunderbird имели частоту системной шины 200 МГц. В поздних моделях частота системной шины повышена до 266 МГц.
+</p><p>Процессоры на ядре Thunderbird содержали 37 млн транзисторов и выпускались по 180-нм технологии, площадь кристалла составляла 120 мм². Напряжение питания — от 1,7 до 1,75 В, максимальное тепловыделение — 72 Вт (на частоте 1400 МГц).
+</p><p>Тепловыделение процессоров Athlon превышало тепловыделение конкурирующих процессоров Pentium III, однако эти процессоры не имели встроенных средств измерения температуры ядра. Измерение осуществлялось с помощью термодатчика, расположенного под процессором («подсокетный датчик»), и отличалось низкой точностью. Зачастую датчик не контактировал с корпусом процессора, а измерял температуру воздуха возле процессора. Тем не менее эффективность термозащиты в процессорах Athlon была достаточной для защиты процессора в обычных условиях эксплуатации, защищая от таких ситуаций, как остановка кулера. В то же время установка процессора требовала некоторой квалификации: при неправильной установке кулера были возможны механические и тепловые повреждения (например, в том случае, если перекос радиатора не привёл к выходу процессора из строя вследствие скола, отсутствие контакта между кристаллом процессора и радиатором приведёт к тепловым повреждениям процессора<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup>). Распространённое среди неопытных пользователей мнение о ненадёжности процессоров Athlon было связано со случаями неправильной установки процессора<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup>, с агрессивными акциями (так, например, в известном видеоролике Томаса Пабста<sup class="reference" id="cite_ref-pabst_10-0"><a href="#cite_note-pabst-10">[10]</a></sup> была представлена малореальная ситуация полного отказа системы охлаждения), а также недостатком доступных в продаже эффективных и удобных в установке кулеров в первое время после выхода процессоров Athlon на ядре Thunderbird. С появлением эффективных кулеров проблема охлаждения процессоров Athlon перестала существовать.
+</p><p>Ядро Thunderbird легло в основу процессоров для недорогих компьютеров — AMD <a href="/wiki/Duron" title="Duron">Duron</a>. От процессоров Athlon они отличались уменьшенным объёмом кэш-памяти второго уровня. Дальнейшим развитием ядра Thunderbird стало ядро Palomino, использовавшееся в процессорах <a href="/wiki/Athlon_XP" title="Athlon XP">Athlon XP</a>.
+</p>
+<h2><span id=".D0.9F.D0.BE.D0.BB.D0.BE.D0.B6.D0.B5.D0.BD.D0.B8.D0.B5_.D0.BD.D0.B0_.D1.80.D1.8B.D0.BD.D0.BA.D0.B5_.D0.B8_.D1.81.D1.80.D0.B0.D0.B2.D0.BD.D0.B5.D0.BD.D0.B8.D0.B5_.D1.81_.D0.BA.D0.BE.D0.BD.D0.BA.D1.83.D1.80.D0.B5.D0.BD.D1.82.D0.B0.D0.BC.D0.B8"></span><span class="mw-headline" id="Положение_на_рынке_и_сравнение_с_конкурентами">Положение на рынке и сравнение с конкурентами</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Athlon&amp;veaction=edit&amp;section=6" title="Редактировать раздел «Положение на рынке и сравнение с конкурентами»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Athlon&amp;action=edit&amp;section=6" title="Редактировать код раздела «Положение на рынке и сравнение с конкурентами»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Athlon являлся флагманским процессором компании AMD для настольных компьютеров с момента выхода в июне <a href="/wiki/1999_%D0%B3%D0%BE%D0%B4" title="1999 год">1999 года</a> и до появления на рынке процессора <a href="/wiki/Athlon_XP" title="Athlon XP">Athlon XP</a> в октябре <a href="/wiki/2001_%D0%B3%D0%BE%D0%B4" title="2001 год">2001 года</a>. Параллельно с Athlon существовали следующие <a href="/wiki/X86" title="X86">x86</a>-процессоры:
+</p>
+<ul><li>Intel <a href="/wiki/Pentium_III" title="Pentium III">Pentium III</a> (Katmai). Конкурировал с процессорами Athlon на ядрах Argon, Pluto и Orion. Во многих задачах уступал процессору Athlon, в некоторых — опережал за счёт наличия поддержки расширений <a href="/wiki/SSE" title="SSE">SSE</a>.</li>
+<li>Intel Pentium III (Coppermine). Конкурировал с процессорами Athlon на ядрах Pluto, Orion и Thunderbird. В некоторых задачах уступал процессорам Athlon за счёт архитектурных преимуществ процессоров семейства К7, в некоторых — опережал их за счёт наличия поддержки расширений SSE и за счёт быстрой 256-битной шины кэш-памяти (против 64-битной у Athlon)</li>
+<li>Intel <a href="/wiki/Pentium_4" title="Pentium 4">Pentium 4</a>. Серьёзно уступал всем конкурентам на равных частотах, однако за счёт архитектуры <a href="/wiki/NetBurst" title="NetBurst">NetBurst</a> имел значительно более высокий частотный потенциал, что позволяло их опережать в оптимизированных под эту архитектуру приложениях. При некотором преимуществе в тактовой частоте процессоры Pentium 4, выпущенные одновременно с процессорами Athlon, на большинстве приложений уступали конкуренту, но в некоторых задачах были быстрее за счёт поддержки расширений SSE и <a href="/wiki/SSE2" title="SSE2">SSE2</a>.</li>
+<li>Intel <a href="/wiki/Celeron" title="Celeron">Celeron</a> (Coppermine-128). Предназначался для рынка недорогих настольных компьютеров. Уступал как процессорам Athlon, так и конкуренту — AMD <a href="/wiki/Duron" title="Duron">Duron</a> — в основном за счёт использования медленной системной шины (66 / 100 МГц против 200 / 266 МГц у AMD Athlon и Duron). Уменьшенный до 128 Кбайт кэш второго уровня также не позволял процессорам Celeron приблизиться к конкурентам.</li>
+<li>AMD <a href="/wiki/Duron" title="Duron">Duron</a>. Предназначался для рынка недорогих настольных компьютеров. Уступал процессорам Athlon за счёт меньшего объёма кэша второго уровня, а впоследствии и за счёт менее быстрой системной шины, чем у процессоров Athlon.</li>
+<li><a href="/wiki/VIA_C3" title="VIA C3">VIA C3</a>. Предназначался для компьютеров с низким энергопотреблением, имел крайне низкую производительность и уступал всем конкурирующим процессорам.</li>
+<li><a href="/wiki/Transmeta" title="Transmeta">Transmeta</a> <a href="/wiki/Crusoe" title="Crusoe">Crusoe</a>. Предназначался для использования в портативных компьютерах. Имел очень низкое энергопотребление, по производительности отставал от равночастотного Athlon.</li></ul>
+<h3><span id=".C2.AB.D0.91.D0.B8.D1.82.D0.B2.D0.B0_.D0.B7.D0.B0_.D0.B3.D0.B8.D0.B3.D0.B0.D0.B3.D0.B5.D1.80.D1.86.C2.BB"></span><span class="mw-headline" id="«Битва_за_гигагерц»">«Битва за гигагерц»</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Athlon&amp;veaction=edit&amp;section=7" title="Редактировать раздел ««Битва за гигагерц»»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Athlon&amp;action=edit&amp;section=7" title="Редактировать код раздела ««Битва за гигагерц»»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>К концу <a href="/wiki/1999_%D0%B3%D0%BE%D0%B4" title="1999 год">1999 года</a> тактовые частоты процессоров, выпускаемых компаниями Intel и AMD, вплотную приблизились к отметке 1 ГГц. С точки зрения рекламных возможностей, первенство в покорении этой частоты означало серьёзное превосходство над конкурентом, поэтому Intel и AMD прикладывали значительные усилия для преодоления гигагерцового рубежа.
+</p><p>Процессоры Intel <a href="/wiki/Pentium_III" title="Pentium III">Pentium III</a> на тот момент выпускались по <a href="/wiki/%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81_%D0%B2_%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D0%BE%D0%B9_%D0%BF%D1%80%D0%BE%D0%BC%D1%8B%D1%88%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8#180_нм" title="Технологический процесс в электронной промышленности">180-нм технологии</a> и имели интегрированный кэш второго уровня, работающий на частоте ядра. На частотах, близких к 1 ГГц, интегрированный кэш работал нестабильно.
+</p><p>Процессоры AMD Athlon также выпускались по 180-нм технологии, но имели внешний кэш, работающий на уменьшенной частоте. На частотах, близких к 1 ГГц, кэш работал на трети частоты ядра, что позволяло проще наращивать тактовую частоту процессоров.
+</p><p>Это предопределило исход противостояния: <a href="/wiki/6_%D0%BC%D0%B0%D1%80%D1%82%D0%B0" title="6 марта">6 марта</a> <a href="/wiki/2000_%D0%B3%D0%BE%D0%B4" title="2000 год">2000 года</a> компанией AMD был представлен процессор Athlon, работающий на тактовой частоте 1 ГГц. Кэш-память второго уровня в этом процессоре работала на частоте 333 МГц. Поставки Athlon 1 ГГц производителям готовых систем (<a href="/wiki/Compaq" title="Compaq">Compaq</a> и <a class="mw-redirect" href="/wiki/Gateway" title="Gateway">Gateway</a>) начались сразу же после анонса, а в широкую продажу эти процессоры поступили менее чем через месяц после презентации.<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup> Через два дня, <a href="/wiki/8_%D0%BC%D0%B0%D1%80%D1%82%D0%B0" title="8 марта">8 марта</a> 2000 года, компанией Intel был анонсирован процессор Pentium III 1 ГГц, который появился в широкой продаже со значительной задержкой.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup><sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup>
+</p>
+<h2><span id=".D0.98.D0.BD.D1.82.D0.B5.D1.80.D0.B5.D1.81.D0.BD.D1.8B.D0.B5_.D1.84.D0.B0.D0.BA.D1.82.D1.8B"></span><span class="mw-headline" id="Интересные_факты">Интересные факты</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Athlon&amp;veaction=edit&amp;section=8" title="Редактировать раздел «Интересные факты»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Athlon&amp;action=edit&amp;section=8" title="Редактировать код раздела «Интересные факты»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Единственным суперкомпьютером на базе процессоров Athlon, вошедшим в список <a class="mw-redirect" href="/wiki/TOP500" title="TOP500">TOP500</a> стал кластер Presto III, построенный в Токийском институте технологий (GSIC Center, Tokyo Institute of Technology) в <a href="/wiki/2000_%D0%B3%D0%BE%D0%B4" title="2000 год">2000 году</a>. В июне 2001 года Presto III содержал 78 процессоров Athlon 1333 МГц и занимал 438 место. Впоследствии Presto III был значительно модернизирован (480 процессоров Athlon MP) и в июне 2002 занял 47 место.<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup></li>
+<li>Процессор Athlon 1,4 ГГц на ядре Thunderbird A9 принял участие в известном видеоролике, снятом в 2001 году Томасом Пабстом и демонстрирующим эффективность термозащиты процессоров. После снятия кулера с работающего процессора, Athlon получил необратимые термические повреждения, в то время как система с процессором <a href="/wiki/Pentium_III" title="Pentium III">Pentium III</a> зависла, однако процессор был своевременно отключён автоматикой термозащиты.<sup class="reference" id="cite_ref-pabst_10-1"><a href="#cite_note-pabst-10">[10]</a></sup></li></ul>
+<h2><span id=".D0.A2.D0.B5.D1.85.D0.BD.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D1.85.D0.B0.D1.80.D0.B0.D0.BA.D1.82.D0.B5.D1.80.D0.B8.D1.81.D1.82.D0.B8.D0.BA.D0.B8"></span><span class="mw-headline" id="Технические_характеристики">Технические характеристики</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Athlon&amp;veaction=edit&amp;section=9" title="Редактировать раздел «Технические характеристики»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Athlon&amp;action=edit&amp;section=9" title="Редактировать код раздела «Технические характеристики»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<table cellpadding="1" class="wide" style="text-align: center;">
+<tbody><tr>
+<th rowspan="2" width="15%">
+</th>
+<th>Argon</th>
+<th>Pluto</th>
+<th>Orion</th>
+<th colspan="2">Thunderbird
+</th></tr>
+<tr>
+<td colspan="5"><a href="/wiki/%D0%9D%D0%B0%D1%81%D1%82%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80" title="Настольный компьютер">Десктопный</a>
+</td></tr>
+<tr>
+<th colspan="6"><a class="mw-redirect" href="/wiki/%D0%A2%D0%B0%D0%BA%D1%82%D0%BE%D0%B2%D0%B0%D1%8F_%D1%87%D0%B0%D1%81%D1%82%D0%BE%D1%82%D0%B0" title="Тактовая частота">Тактовая частота</a>
+</th></tr>
+<tr>
+<th>Частота ядра, МГц
+</th>
+<td width="16%">500—700</td>
+<td width="16%">550—950</td>
+<td width="16%">1000</td>
+<td width="16%">650—1000</td>
+<td width="16%">650—1400
+</td></tr>
+<tr>
+<th>Частота <a href="/wiki/Front_Side_Bus" title="Front Side Bus">FSB</a>, МГц
+</th>
+<td colspan="4">200</td>
+<td>200—266
+</td></tr>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>
+</th></tr>
+<tr>
+<th colspan="6">Характеристики ядра
+</th></tr>
+<tr>
+<th>Набор инструкций
+</th>
+<td colspan="5"><a class="mw-redirect" href="/wiki/IA-32" title="IA-32">IA-32</a>, <a href="/wiki/MMX" title="MMX">MMX</a>, <a href="/wiki/3DNow!" title="3DNow!">3DNow!</a>, Extended 3DNow!
+</td></tr>
+<tr>
+<th><a href="/wiki/%D0%A0%D0%B0%D0%B7%D1%80%D1%8F%D0%B4%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Разрядность">Разрядность</a> <a href="/wiki/%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80_%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%B0" title="Регистр процессора">регистров</a>
+</th>
+<td colspan="5">32 бит (целочисленные),<br/>80 бит (вещественночисленные),<br/>64 бит (MMX)
+</td></tr>
+<tr>
+<th>Глубина <a class="mw-redirect" href="/wiki/%D0%9A%D0%BE%D0%BD%D0%B2%D0%B5%D0%B9%D0%B5%D1%80_(%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%B0)" title="Конвейер (процессора)">конвейера</a>
+</th>
+<td colspan="5">Целочисленный: 10 стадий, вещественночисленный: 15 стадий
+</td></tr>
+<tr>
+<th>Разрядность <a href="/wiki/%D0%A8%D0%B8%D0%BD%D0%B0_%D0%B0%D0%B4%D1%80%D0%B5%D1%81%D0%B0" title="Шина адреса">ША</a>
+</th>
+<td colspan="5">43 бит<sup class="ts-fix-template">[<i><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D1%8F%D0%B5%D0%BC%D0%BE%D1%81%D1%82%D1%8C#Бремя_доказательства" title="Википедия:Проверяемость"><span title="информация нуждается в подтверждении авторитетными источниками">уточнить</span></a></i>]</sup>
+</td></tr>
+<tr>
+<th>Разрядность <a href="/wiki/%D0%A8%D0%B8%D0%BD%D0%B0_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85" title="Шина данных">ШД</a>
+</th>
+<td colspan="5">64 бит + 8 бит <a class="mw-redirect" href="/wiki/ECC" title="ECC">ECC</a>
+</td></tr>
+<tr>
+<th>Количество <a href="/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D0%B7%D0%B8%D1%81%D1%82%D0%BE%D1%80" title="Транзистор">транзисторов</a>, млн
+</th>
+<td colspan="3">22</td>
+<td colspan="2">37
+</td></tr>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>
+</th></tr>
+<tr>
+<th colspan="6">Кеш <a class="mw-redirect" href="/wiki/L1_(%D0%BA%D0%B5%D1%88)" title="L1 (кеш)">L1</a>
+</th></tr>
+<tr>
+<th>Кэш данных
+</th>
+<td colspan="5">64 Кбайт, 2-канальный наборно-ассоциативный, длина строки — 64 байта, двухпортовый
+</td></tr>
+<tr>
+<th>Кэш инструкций
+</th>
+<td colspan="5">64 Кбайт, 2-канальный наборно-ассоциативный, длина строки — 64 байта
+</td></tr>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>
+</th></tr>
+<tr>
+<th colspan="6">Кеш <a class="mw-redirect" href="/wiki/L2_(%D0%BA%D0%B5%D1%88)" title="L2 (кеш)">L2</a>
+</th></tr>
+<tr>
+<th>Объём, Кбайт
+</th>
+<td colspan="3">512</td>
+<td colspan="2">256
+</td></tr>
+<tr>
+<th>Частота
+</th>
+<td colspan="3">1/2 частоты ядра (модели до 700 МГц)<br/>1/2,5 частоты ядра (модели 750—850 МГц)<br/>1/3 частоты ядра (модели от 900 МГц)
+</td>
+<td colspan="2">частота ядра
+</td></tr>
+<tr>
+<th>Разрядность <a href="/wiki/Back_side_bus" title="Back side bus">BSB</a>
+</th>
+<td colspan="5">64 бит + 8 бит <a class="mw-redirect" href="/wiki/ECC" title="ECC">ECC</a>
+</td></tr>
+<tr>
+<th>Организация
+</th>
+<td colspan="3">Объединённый, наборно-ассоциативный; длина строки — 64 байта
+</td>
+<td colspan="2">Объединённый, наборно-ассоциативный, эксклюзивный; длина строки — 64 байта
+</td></tr>
+<tr>
+<th>Ассоциативность
+</th>
+<td colspan="3">2-канальный</td>
+<td colspan="2">16-канальный
+</td></tr>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>
+</th></tr>
+<tr>
+<th colspan="6">Интерфейс
+</th></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/%D0%A0%D0%B0%D0%B7%D1%8A%D1%91%D0%BC_%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%B0_%D0%BF%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%B0" title="Разъём процессора персонального компьютера">Разъём</a>
+</th>
+<td colspan="4"><a href="/wiki/Slot_A" title="Slot A">Slot A</a></td>
+<td><a href="/wiki/Socket_A" title="Socket A">Socket A</a>
+</td></tr>
+<tr>
+<th>Корпус
+</th>
+<td colspan="4"><a class="mw-redirect" href="/wiki/SECC" title="SECC">SECC</a></td>
+<td>керамический <a class="mw-redirect" href="/wiki/FCPGA" title="FCPGA">FCPGA</a>, <a class="new" href="/w/index.php?title=OPGA&amp;action=edit&amp;redlink=1" title="OPGA (страница отсутствует)">OPGA</a>
+</td></tr>
+<tr>
+<th>Шина
+</th>
+<td colspan="5"><a href="/wiki/DEC_Alpha" title="DEC Alpha">EV6</a> (<a class="mw-disambig" href="/wiki/DDR" title="DDR">DDR</a>)
+</td></tr>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>
+</th></tr>
+<tr>
+<th colspan="6">Технологические, электрические и тепловые характеристики
+</th></tr>
+<tr>
+<th>Технология производства
+</th>
+<td>250 нм <a href="/wiki/%D0%9A%D0%9C%D0%9E%D0%9F" title="КМОП">КМОП</a> (шестислойный, алюминиевые соединения)
+</td>
+<td colspan="2">180 нм <a href="/wiki/%D0%9A%D0%9C%D0%9E%D0%9F" title="КМОП">КМОП</a> (шестислойный, алюминиевые соединения)
+</td>
+<td colspan="2"><a href="/wiki/%D0%9A%D0%9C%D0%9E%D0%9F" title="КМОП">КМОП</a> (шестислойный, алюминиевые или медные соединения<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup>)
+</td></tr>
+<tr>
+<th>Площадь кристалла, мм²
+</th>
+<td>184</td>
+<td colspan="2">102</td>
+<td colspan="2">120
+</td></tr>
+<tr>
+<th>Напряжение ядра, В
+</th>
+<td>1,6</td>
+<td>1,6—1,8</td>
+<td>1,8</td>
+<td colspan="2">1,7—1,75
+</td></tr>
+<tr>
+<th>Напряжение кэша L2, В
+</th>
+<td colspan="3">2,5—3,3</td>
+<td colspan="2">напряжение ядра
+</td></tr>
+<tr>
+<th>Напряжение цепей <a class="mw-redirect" href="/wiki/%D0%A3%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%B0_%D0%B2%D0%B2%D0%BE%D0%B4%D0%B0/%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4%D0%B0" title="Устройства ввода/вывода">I/O</a>, В
+</th>
+<td colspan="5">1,6
+</td></tr>
+<tr>
+<th>Максимальное тепловыделение, Вт
+</th>
+<td>50</td>
+<td>62</td>
+<td>65</td>
+<td>54</td>
+<td>72
+</td></tr></tbody></table>
+<h2><span id=".D0.9D.D0.B0.D0.B8.D0.BC.D0.B5.D0.BD.D0.BE.D0.B2.D0.B0.D0.BD.D0.B8.D0.B5_.D0.BC.D0.BE.D0.B4.D0.B5.D0.BB.D0.B5.D0.B9"></span><span class="mw-headline" id="Наименование_моделей">Наименование моделей</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Athlon&amp;veaction=edit&amp;section=10" title="Редактировать раздел «Наименование моделей»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Athlon&amp;action=edit&amp;section=10" title="Редактировать код раздела «Наименование моделей»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Маркировка процессоров Athlon состоит из трёх строк. Первая строка является наименованием модели, вторая содержит информацию о ревизии ядра процессора и дате его выпуска, третья — информацию о партии процессоров.
+</p><p>Ниже представлена расшифровка строки наименования модели процессоров Athlon с различными ядрами.
+</p><p>Argon (AMD-K7<i>xxx</i>MTR51B):
+</p>
+<ul><li>AMD-K7 — процессор AMD K7.</li>
+<li><i>xxx</i> — <a class="mw-redirect" href="/wiki/%D0%A2%D0%B0%D0%BA%D1%82%D0%BE%D0%B2%D0%B0%D1%8F_%D1%87%D0%B0%D1%81%D1%82%D0%BE%D1%82%D0%B0" title="Тактовая частота">тактовая частота</a>, <a class="mw-redirect" href="/wiki/%D0%9C%D0%93%D1%86" title="МГц">МГц</a>.</li>
+<li>M — тип корпуса (картридж).</li>
+<li>T — напряжение питания (1,6 <a href="/wiki/%D0%92%D0%BE%D0%BB%D1%8C%D1%82" title="Вольт">В</a>).</li>
+<li>R — максимальная температура корпуса (70 °C).</li>
+<li>5 — объём кэш-памяти второго уровня (512 <a href="/wiki/%D0%9A%D0%B8%D0%BB%D0%BE%D0%B1%D0%B0%D0%B9%D1%82" title="Килобайт">Кбайт</a>).</li>
+<li>1 — частота кэш-памяти второго уровня (1/2 частоты ядра).</li>
+<li>B — частота системной шины (200 МГц).</li></ul>
+<p>Pluto, Orion (AMD-K7<i>xxx</i>M<i>y</i>R5<i>z</i>B):
+</p>
+<ul><li>AMD-K7 — процессор AMD K7.</li>
+<li><i>xxx</i> — тактовая частота, МГц.</li>
+<li>M — тип корпуса (картридж).</li>
+<li><i>y</i> — напряжение питания (T: 1,6 В; P: 1,7 В; N: 1,8 В).</li>
+<li>R — максимальная температура корпуса (70 °C).</li>
+<li>5 — объём кэш-памяти второго уровня (512 Кбайт).</li>
+<li><i>z</i> — частота кэш-памяти второго уровня (1: 1/2 частоты ядра; 2: 1/2,5 частоты ядра; 3: 1/3 частоты ядра;).</li>
+<li>B — частота системной шины (200 МГц).</li></ul>
+<p>Thunderbird для <a href="/wiki/Slot_A" title="Slot A">Slot A</a> (AMD-A<i>xxxx</i>M<i>y</i>R24B):
+</p>
+<ul><li>AMD-A — процессор AMD Athlon.</li>
+<li><i>xxxx</i> — тактовая частота, МГц.</li>
+<li>M — тип корпуса (картридж).</li>
+<li><i>y</i> — напряжение питания (M: 1,75 В; N: 1,8 В; P: 1,7 В; T: 1,6 В).</li>
+<li>R — максимальная температура корпуса (70 °C).</li>
+<li>2 — объём кэш-памяти второго уровня (256 Кбайт).</li>
+<li>4 — частота кэш-памяти второго уровня (равна частоте ядра).</li>
+<li>B — частота системной шины (200 МГц).</li></ul>
+<p>Thunderbird для <a href="/wiki/Socket_A" title="Socket A">Socket A</a> (A<i>xxxxgyz</i>3<i>v</i>):
+</p>
+<ul><li>A — процессор AMD Athlon.</li>
+<li><i>xxxx</i> — тактовая частота, МГц.</li>
+<li><i>g</i> — тип корпуса (A: керамический PGA, D: органический PGA).</li>
+<li><i>y</i> — напряжение питания (H: 1,55 В; U: 1,6 В; K: 1,65 В; P: 1,70 В; M: 1,75 В).</li>
+<li><i>z</i> — максимальная температура корпуса (T: 90 °C; S: 90 °C).</li>
+<li>3 — объём кэш-памяти второго уровня (256 Кбайт).</li>
+<li><i>v</i> — частота системной шины (B: 200 МГц; C: 266 МГц).</li></ul>
+<h2><span id=".D0.A0.D0.B5.D0.B2.D0.B8.D0.B7.D0.B8.D0.B8_.D1.8F.D0.B4.D0.B5.D1.80_.D0.BF.D1.80.D0.BE.D1.86.D0.B5.D1.81.D1.81.D0.BE.D1.80.D0.BE.D0.B2"></span><span class="mw-headline" id="Ревизии_ядер_процессоров">Ревизии ядер процессоров</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Athlon&amp;veaction=edit&amp;section=11" title="Редактировать раздел «Ревизии ядер процессоров»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Athlon&amp;action=edit&amp;section=11" title="Редактировать код раздела «Ревизии ядер процессоров»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl><dt>Argon</dt></dl>
+<table class="wide">
+<tbody><tr>
+<th width="10%">Ревизия</th>
+<th width="10%"><a class="mw-redirect" href="/wiki/Cpuid" title="Cpuid">CPU Id</a></th>
+<th>Примечание
+</th></tr>
+<tr>
+<td>C1</td>
+<td>0x611h</td>
+<td rowspan="2">модели AMD-K7500MTR51B C, AMD-K7550MTR51B C, AMD-K7600MTR51B C, AMD-K7650MTR51B C, AMD-K7700MTR51B C
+</td></tr>
+<tr>
+<td>C2</td>
+<td>0x612h
+</td></tr></tbody></table>
+<dl><dt>Pluto, Orion</dt></dl>
+<table class="wide">
+<tbody><tr>
+<th width="10%">Ревизия</th>
+<th width="10%"><a class="mw-redirect" href="/wiki/Cpuid" title="Cpuid">CPU Id</a></th>
+<th>Примечание
+</th></tr>
+<tr>
+<td>A1</td>
+<td>0x621h</td>
+<td rowspan="2">модели AMD-K7550MTR51B A, AMD-K7600MTR51B A, AMD-K7650MTR51B A, AMD-K7700MTR51B A, AMD-K7750MTR52B A, AMD-K7800MPR52B A, AMD-K7850MPR52B A, AMD-K7900MNR53B A, AMD-K7950MNR53B A, AMD-K7100MNR53B A
+</td></tr>
+<tr>
+<td>A2</td>
+<td>0x622h
+</td></tr></tbody></table>
+<dl><dt>Thunderbird</dt></dl>
+<table class="wide">
+<tbody><tr>
+<th width="10%">Ревизия</th>
+<th width="10%"><a class="mw-redirect" href="/wiki/Cpuid" title="Cpuid">CPU Id</a></th>
+<th>Примечание
+</th></tr>
+<tr>
+<td>A4</td>
+<td rowspan="4">0x642h</td>
+<td rowspan="5">модели AMD-A1000MMR24B A, AMD-A0950MMR24B A, AMD-A0900MMR24B A, AMD-A0850MPR24B A, AMD-A0800MPR24B A, AMD-A0750MPR24B A, AMD-A0700MPR24B A, AMD-A0650MPR24B A (<a href="/wiki/Slot_A" title="Slot A">Slot A</a>)<br/>модели A1400AMS3B, A1400AMS3C, A1333AMS3C, A1300AMS3B, A1200AMS3C, A1133AMS3C, A1000AMT3C, A1200AMT3B, A1100AMT3B, A1000AMT3B, A1000APT3B, A1000AUT3B, A0950AMT3B, A0950APT3B, A0900AMT3B, A0900APT3B, A0850AMT3B, A0850APT3B, A0800AMT3B, A0800APT3B, A0750AMT3B, A0750APT3B, A0700AMT3B, A0700APT3B, A0650APT3B (<a href="/wiki/Socket_A" title="Socket A">Socket A</a>)
+</td></tr>
+<tr>
+<td>A5
+</td></tr>
+<tr>
+<td>A6
+</td></tr>
+<tr>
+<td>A7
+</td></tr>
+<tr>
+<td>A9</td>
+<td>0x644h
+</td></tr></tbody></table>
+<h2><span id=".D0.98.D0.B7.D0.BC.D0.B5.D0.BD.D0.B5.D0.BD.D0.B8.D0.B5_.D0.BF.D0.B0.D1.80.D0.B0.D0.BC.D0.B5.D1.82.D1.80.D0.BE.D0.B2_.D0.BF.D1.80.D0.BE.D1.86.D0.B5.D1.81.D1.81.D0.BE.D1.80.D0.B0"></span><span class="mw-headline" id="Изменение_параметров_процессора">Изменение параметров процессора</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Athlon&amp;veaction=edit&amp;section=12" title="Редактировать раздел «Изменение параметров процессора»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Athlon&amp;action=edit&amp;section=12" title="Редактировать код раздела «Изменение параметров процессора»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a class="mw-redirect" href="/wiki/%D0%A2%D0%B0%D0%BA%D1%82%D0%BE%D0%B2%D0%B0%D1%8F_%D1%87%D0%B0%D1%81%D1%82%D0%BE%D1%82%D0%B0" title="Тактовая частота">Тактовая частота</a>, частота кэш-памяти второго уровня и <a href="/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%BD%D0%B0%D0%BF%D1%80%D1%8F%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5" title="Электрическое напряжение">напряжение</a> питания процессоров Athlon в корпусе <a class="mw-redirect" href="/wiki/SECC" title="SECC">SECC</a> задаются с помощью групп <a href="/wiki/%D0%A0%D0%B5%D0%B7%D0%B8%D1%81%D1%82%D0%BE%D1%80" title="Резистор">резисторов</a>, расположенных на процессорной плате. Резисторы могут либо присутствовать, соединяя контактные площадки, либо отсутствовать.
+</p><p>Изменение параметров процессора осуществляется либо перепайкой резисторов, либо при помощи специального устройства (обычно называемого «Goldfinger»<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup>), подсоединяемого к технологическому разъёму на процессорной плате.
+</p><p>За изменение тактовой частоты и напряжения питания отвечают следующие группы резисторов:
+</p>
+<ul><li>FID (R155, R156, R157, R158), BP_FIDa (R121, R122, R123, R124), BP_FIDb (R3, R4, R5, R6) — коэффициент умножения.</li>
+<li>VID (R148, R150, R151, R153) — напряжение питания.</li></ul>
+<p>Частота кэш-памяти второго уровня может задаваться программным путём. Для этого требуется <a href="/wiki/BIOS" title="BIOS">BIOS</a> с поддержкой данной функции.
+</p><p>Тактовая частота и напряжение питания процессоров Athlon в корпусе <a class="mw-redirect" href="/wiki/FCPGA" title="FCPGA">FCPGA</a>. задаются с помощью нескольких групп контактов, расположенных на подложке процессора. Контакты могут быть либо замкнуты, либо пережжены <a href="/wiki/%D0%9B%D0%B0%D0%B7%D0%B5%D1%80" title="Лазер">лазером</a> в процессе производства процессора.
+</p><p>Расположение контактов на подложке позволяет пользователю в домашних условиях изменять параметры процессора, соединяя разорванные контакты, либо перерезая замкнутые.
+</p><p>За изменение указанных параметров отвечают следующие группы контактов:
+</p>
+<ul><li>L1 — линии, ответственные за изменение коэффициента умножения (замыкание контактов группы L1 разрешает изменение коэффициента умножения).</li>
+<li>BP_FID (L3, L4), FID (L6) — коэффициент умножения.</li>
+<li>VID (L7) — напряжение питания.</li></ul>
+<h2><span id=".D0.98.D1.81.D0.BF.D1.80.D0.B0.D0.B2.D0.BB.D0.B5.D0.BD.D0.BD.D1.8B.D0.B5_.D0.BE.D1.88.D0.B8.D0.B1.D0.BA.D0.B8"></span><span class="mw-headline" id="Исправленные_ошибки">Исправленные ошибки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Athlon&amp;veaction=edit&amp;section=13" title="Редактировать раздел «Исправленные ошибки»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Athlon&amp;action=edit&amp;section=13" title="Редактировать код раздела «Исправленные ошибки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Процессор представляет собой сложное микроэлектронное устройство, что не позволяет исключить вероятность его некорректной работы. Ошибки появляются на этапе проектирования и могут быть исправлены обновлениями микрокода процессора, прошивкой новой версии <a href="/wiki/BIOS" title="BIOS">BIOS</a> системной платы, либо выпуском новой ревизии ядра процессора. В процессорах Athlon на ядрах Argon, Orion и Pluto обнаружено 13 различных ошибок, из которых 4 исправлены. В процессорах Athlon на ядре Thunderbird обнаружено 24 различных ошибки, из которых 2 исправлены.
+</p><p>Далее перечислены ошибки, исправленные в различных ревизиях ядер процессора Athlon. Данные ошибки присутствуют во всех ядрах, выпущенных до их исправления, начиная с ядра Argon C1, если не указано обратное. В процессорах на ядре Thunderbird ревизии A9 присутствует ошибка, в некоторых случаях не позволяющая процессору корректно работать после исправления микрокода.
+</p>
+<dl><dt>Pluto A1</dt></dl>
+<ul><li>Ошибка при работе с самомодифицирующимся кодом.</li>
+<li>Ошибка программной предвыборки данных.</li>
+<li>Ошибки, приводящие к потере производительности в режиме SMM.</li></ul>
+<dl><dt>Thunderbird A6</dt></dl>
+<ul><li>Завышенное значение сопротивления на выводах ZN и ZP (Thunderbird A4).</li></ul>
+<dl><dt>Thunderbird A7</dt></dl>
+<ul><li>Возникновение <a href="/wiki/%D0%92%D0%B7%D0%B0%D0%B8%D0%BC%D0%BD%D0%B0%D1%8F_%D0%B1%D0%BB%D0%BE%D0%BA%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0" title="Взаимная блокировка">тупиковых ситуаций</a> и последующее зависание при исполнении некоторых последовательностей операций.</li></ul>
+<h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Примечания">Примечания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Athlon&amp;veaction=edit&amp;section=14" title="Редактировать раздел «Примечания»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Athlon&amp;action=edit&amp;section=14" title="Редактировать код раздела «Примечания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Anand Lal Shimpi. <a class="external text" href="http://www.anandtech.com/showdoc.aspx?i=1015" rel="nofollow">AMD Athlon</a> <a class="external text" href="https://web.archive.org/web/20070903051956/http://www.anandtech.com/showdoc.aspx?i=1015" rel="nofollow">Архивная копия</a> от 3 сентября 2007 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> 9 августа 1999</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.ixbt.com/cpu/athlon-slota-oc.html" rel="nofollow">AMD Athlon (Slot A), как идеальный объект для разгона</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 13 июня 2007. <a class="external text" href="https://web.archive.org/web/20070929091417/http://www.ixbt.com/cpu/athlon-slota-oc.html" rel="nofollow">Архивировано</a> 29 сентября 2007 года.</span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Информация о процессорах Athlon в корпусе OPGA:
+<ul><li><a class="external text" href="http://www.cpu-world.com/CPUs/K7/AMD-Athlon%201000%20-%20A1000DMT3B.html" rel="nofollow">AMD Athlon 1000 — A1000DMT3B</a> <a class="external text" href="https://web.archive.org/web/20071011205638/http://www.cpu-world.com/CPUs/K7/AMD-Athlon%201000%20-%20A1000DMT3B.html" rel="nofollow">Архивная копия</a> от 11 октября 2007 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></li>
+<li><a class="external text" href="http://www.cpu-world.com/CPUs/K7/AMD-Athlon%201000%20-%20A1000DMT3C.html" rel="nofollow">AMD Athlon 1000 — A1000DMT3C</a> <a class="external text" href="https://web.archive.org/web/20070715151629/http://www.cpu-world.com/CPUs/K7/AMD-Athlon%201000%20-%20A1000DMT3C.html" rel="nofollow">Архивная копия</a> от 15 июля 2007 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></li>
+<li><a class="external text" href="http://www.cpu-world.com/forum/viewtopic.php?p=9269" rel="nofollow">Обсуждение на форуме</a></li></ul>
+</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a class="external text" href="https://web.archive.org/web/20071008040926/http://thevetbattle.jino-net.ru/useful/checkfcpgacorel.avi" rel="nofollow">Проверка ногтем на примере Intel Celeron (видео)</a></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://web.archive.org/web/20070927122600/http://www.ci.ru/inform23_97/comdex.htm" rel="nofollow">Comdex Fall’97</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 16 июня 2007. Архивировано из <a class="external text" href="http://www.ci.ru/inform23_97/comdex.htm" rel="nofollow">оригинала</a> 27 сентября 2007 года.</span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.amd.com/ru-ru/Corporate/VirtualPressRoom/0,,51_104_543_554~883,00.html" rel="nofollow">AMD Discloses Next-Generation AMD-K7™ Processor Microarchitecture at Microprocessor Forum</a> <small class="ref-info">(недоступная ссылка)</small></span>
+</li>
+<li id="cite_note-cost-7"><span class="mw-cite-backlink">↑ <a href="#cite_ref-cost_7-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-cost_7-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-cost_7-2"><sup><i><b>3</b></i></sup></a></span> <span class="reference-text">Указана стоимость процессоров на момент анонса в партии от 1000 штук.
+<ul><li><a class="external free" href="http://www.cpu-world.com/CPUs/K7/index.html" rel="nofollow">http://www.cpu-world.com/CPUs/K7/index.html</a> <a class="external text" href="https://web.archive.org/web/20211203214848/http://www.cpu-world.com/CPUs/K7/index.html" rel="nofollow">Архивная копия</a> от 3 декабря 2021 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></li></ul>
+</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.citforum.ru/hardware/pc/athlon_install/" rel="nofollow">Особенности монтажа процессоров AMD Athlon</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 1 июня 2008. <a class="external text" href="https://web.archive.org/web/20080604072356/http://www.citforum.ru/hardware/pc/athlon_install/" rel="nofollow">Архивировано</a> 4 июня 2008 года.</span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text">Обсуждение подобных случаев осуществлялось в основном в различных интернет-конференциях. Пример такого обсуждения: <a class="external text" href="http://forums.overclockers.ru/viewtopic.php?t=44577" rel="nofollow">«Сколы и другие механические повреждения процессоров AMD»</a> <a class="external text" href="https://web.archive.org/web/20071219141057/http://forums.overclockers.ru/viewtopic.php?t=44577" rel="nofollow">Архивная копия</a> от 19 декабря 2007 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span>
+</li>
+<li id="cite_note-pabst-10"><span class="mw-cite-backlink">↑ <a href="#cite_ref-pabst_10-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-pabst_10-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://thg.ru/cpu/20010917/index.html" rel="nofollow">Горячо! Как современные процессоры защищены от перегрева?</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span> Дата обращения: 12 июня 2007. <a class="external text" href="https://web.archive.org/web/20111004054258/http://www.thg.ru/cpu/20010917/index.html" rel="nofollow">Архивировано</a> 4 октября 2011 года.</span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><a class="external text" href="http://scripts.online.ru/it/news/00/03/07_593.htm" rel="nofollow">Процессор AMD Athlon преодолевает барьер в 1 ГГц</a> <small class="ref-info">(недоступная ссылка)</small></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://web.archive.org/web/20070928003211/http://www.wn.ru/computers/13.03.2000/5.html" rel="nofollow">Pentium III 1 ГГц — любите и жалуйте</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 14 июня 2007. Архивировано из <a class="external text" href="http://www.wn.ru/computers/13.03.2000/5.html" rel="nofollow">оригинала</a> 28 сентября 2007 года.</span></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.k2kapital.com/news/fin/65614.html" rel="nofollow">Intel приступает к выпуску процессоров Pentium III 1 ГГц</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 14 июня 2007. <a class="external text" href="https://web.archive.org/web/20070926224938/http://www.k2kapital.com/news/fin/65614.html" rel="nofollow">Архивировано</a> 26 сентября 2007 года.</span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text"><a class="external text" href="http://top500.org/system/5321" rel="nofollow">Top 500 Supercomputer sites — GSIC Center, Tokyo Institute of Technology — Presto III Athlon 1.333 ГГц</a> <a class="external text" href="https://web.archive.org/web/20070928000009/http://top500.org/system/5321" rel="nofollow">Архивная копия</a> от 28 сентября 2007 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text">Процессоры с алюминиевыми соединениями выпускались на фабрике <a class="new" href="/w/index.php?title=Fab25&amp;action=edit&amp;redlink=1" title="Fab25 (страница отсутствует)">Fab25</a> (<a href="/wiki/%D0%9E%D1%81%D1%82%D0%B8%D0%BD_(%D0%A2%D0%B5%D1%85%D0%B0%D1%81)" title="Остин (Техас)">Остин</a>, <a class="mw-redirect" href="/wiki/%D0%A1%D0%A8%D0%90" title="США">США</a>), с медными — на <a class="new" href="/w/index.php?title=Fab30&amp;action=edit&amp;redlink=1" title="Fab30 (страница отсутствует)">Fab30</a> (<a href="/wiki/%D0%94%D1%80%D0%B5%D0%B7%D0%B4%D0%B5%D0%BD" title="Дрезден">Дрезден</a>, <a href="/wiki/%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F" title="Германия">Германия</a>).</span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.hardocp.com/article.html?art=NDY=" rel="nofollow">Maximizer GoldFinger Adapter</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 23 июня 2007. <a class="external text" href="https://web.archive.org/web/20070927204729/http://www.hardocp.com/article.html?art=NDY=" rel="nofollow">Архивировано</a> 27 сентября 2007 года.</span></span>
+</li>
+</ol></div></div>
+<h2><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span><span class="mw-headline" id="Ссылки">Ссылки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Athlon&amp;veaction=edit&amp;section=15" title="Редактировать раздел «Ссылки»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Athlon&amp;action=edit&amp;section=15" title="Редактировать код раздела «Ссылки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div aria-label="В родственных проектах" class="ts-Родственные_проекты ruwikiWikimediaNavigation tright metadata plainlinks plainlist noprint" role="navigation"><ul><li class="ts-Родственные_проекты-item"><span class="ts-Родственные_проекты-image"><span typeof="mw:File"><span><img alt="" class="mw-file-element" data-file-height="30" data-file-width="30" decoding="async" height="24" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/24px-Notification-icon-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/36px-Notification-icon-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/48px-Notification-icon-Commons-logo.svg.png 2x" width="24"/></span></span></span><span class="ts-Родственные_проекты-label commons-ref"><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Athlon" title="commons:Category:Athlon">Медиафайлы на Викискладе</a></span></li></ul></div>
+<dl><dt>Официальная информация</dt></dl>
+<ul><li><a class="external text" href="http://support.amd.com/us/Processor_TechDocs/23792.pdf" rel="nofollow">AMD Athlon Processor Model 4 Data Sheet</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><a class="external text" href="http://support.amd.com/us/Processor_TechDocs/21016.pdf" rel="nofollow">AMD Athlon Processor Module Data Sheet</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><a class="external text" href="https://web.archive.org/web/20030410144942/http://www.amd.com/us-en/assets/content_type/white_papers_and_tech_docs/22557.pdf" rel="nofollow">AMD Athlon Processor Model 1 and Model 2 Revison Guide</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><a class="external text" href="http://support.amd.com/us/Processor_TechDocs/23614.pdf" rel="nofollow">AMD Athlon Processor Model 4 Revision Guide</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li></ul>
+<dl><dt>Характеристики процессоров</dt></dl>
+<ul><li><a class="external text" href="https://web.archive.org/web/19991013102053/http://sandpile.org/impl/k7.htm" rel="nofollow">Подробные характеристики процессоров AMD K7</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><a class="external text" href="http://fab51.com/cpu/guide/cpu_guide1-e.html" rel="nofollow">Характеристики процессоров AMD (Socket A)</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><a class="external text" href="https://web.archive.org/web/20070622190226/http://users.erols.com/chare/786.htm" rel="nofollow">Характеристики процессоров AMD K7 и Intel Pentium 4</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><a class="external text" href="http://www.amdclub.ru/content/view/42/2/" rel="nofollow">Справочная информация по процессорам AMD K7 (Socket A)</a></li></ul>
+<dl><dt>Описание архитектуры и история процессоров</dt></dl>
+<ul><li><a class="external text" href="http://www.fcenter.ru/online.shtml?articles/hardware/processors/1799#91" rel="nofollow">Описание архитектуры процессоров K7</a></li></ul>
+<dl><dt>Обзоры и тестирование</dt></dl>
+<ul><li><a class="external text" href="http://www.thg.ru/cpu/19990823/index.html" rel="nofollow">Сравнение процессоров Intel Pentium III и AMD Athlon</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><a class="external text" href="http://www.amdclub.ru/content/view/5/2/" rel="nofollow">Разгон Сокет А процессоров</a> <small class="ref-info" style="cursor:help;" title="на русском языке">(рус.)</small></li>
+<li><a class="external text" href="http://www.thg.ru/cpu/20001206/index.html" rel="nofollow">Сравнение процессоров Intel Pentium 4 и AMD Athlon</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><a class="external text" href="http://www.thg.ru/cpu/20010919/index.html" rel="nofollow">Сравнение процессоров Intel Pentium III, Pentium 4 и AMD Athlon</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><a class="external text" href="http://www.anandtech.com/showdoc.aspx?i=1252" rel="nofollow">Обзор и тестирование процессоров AMD Athlon 1 ГГц и 800 МГц</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><a class="external text" href="http://www.ixbt.com/cpu/new-amd-oc.html" rel="nofollow">Разгон процессоров AMD Athlon (Thunderbird) и Duron</a></li>
+<li><a class="external text" href="http://www.ixbt.com/cpu/faster-socketa.shtml" rel="nofollow">High-End на Socket A: самые быстрые процессоры плюс самая быстрая память</a></li>
+<li><a class="external text" href="http://overclockers.ru/lab/19926.shtml" rel="nofollow">Первое поколение AMD K7, ставшее теперь просто историей</a></li>
+<li><a class="external text" href="https://web.archive.org/web/20070926222958/http://thevetbattle.jino-net.ru/resbrowser.php?sb=cls&amp;th=4" rel="nofollow">Результаты тестирования компьютеров 1999—2001 гг.</a></li></ul>
+<dl><dt>Разное</dt></dl>
+<ul><li><a class="external text" href="http://www.top500.org/lists" rel="nofollow">Списки TOP500 с 1993 года по настоящее время</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><a class="external text" href="http://testlabs.kz/processors/65-istoricheskaya-bitva-amd-i-intel-ot-pervyh-nezavisimyh-processorov-do-gigagerca.html" rel="nofollow">Хронология «Битвы за Гигагерц»</a></li></ul>
+<h2><span id=".D0.A1.D0.BC._.D1.82.D0.B0.D0.BA.D0.B6.D0.B5"></span><span class="mw-headline" id="См._также">См. также</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Athlon&amp;veaction=edit&amp;section=16" title="Редактировать раздел «См. также»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Athlon&amp;action=edit&amp;section=16" title="Редактировать код раздела «См. также»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Athlon_XP" title="Athlon XP">Athlon XP</a></li>
+<li><a href="/wiki/Duron" title="Duron">Duron</a></li>
+<li><a href="/wiki/Sempron" title="Sempron">Sempron</a></li></ul>
+<div aria-labelledby="Процессоры_AMD" class="navbox" data-name="Процессоры AMD" role="navigation"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%9F%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D1%8B_AMD" title="Перейти к шаблону «Процессоры AMD»"><img alt="Перейти к шаблону «Процессоры AMD»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span></span><div id="Процессоры_AMD" style="font-size:114%;margin:0 5em">Процессоры <a href="/wiki/AMD" title="AMD">AMD</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BE%D0%B2_AMD" title="Список микропроцессоров AMD">Список микропроцессоров AMD</a></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Сняты с производства</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:8.5em">До <a href="/wiki/X86" title="X86">x86</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="new" href="/w/index.php?title=AMD_Am9080&amp;action=edit&amp;redlink=1" title="AMD Am9080 (страница отсутствует)">Am9080</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BE%D0%B2_AMD#Микропроцессорный_комплект_Am2900" title="Список микропроцессоров AMD">Am2900</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BE%D0%B2_AMD#Процессоры_серии_Am29000_(Am29K)" title="Список микропроцессоров AMD">Am29000</a>
+<ul><li><a href="/wiki/RISC" title="RISC">Berkeley RISC</a></li></ul></li>
+<li><a href="/wiki/Alchemy_(%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D1%8B)" title="Alchemy (процессоры)">Alchemy</a>
+<ul><li><a href="/wiki/MIPS_(%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0)" title="MIPS (архитектура)">MIPS32</a></li></ul></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:8.5em">Ранние <a href="/wiki/X86" title="X86">x86</a> (<a href="/wiki/16_%D0%B1%D0%B8%D1%82" title="16 бит">16 бит</a>)</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="new" href="/w/index.php?title=Am8086&amp;action=edit&amp;redlink=1" title="Am8086 (страница отсутствует)">Am8086</a></li>
+<li><a class="new" href="/w/index.php?title=Am8088&amp;action=edit&amp;redlink=1" title="Am8088 (страница отсутствует)">Am8088</a></li>
+<li><a class="new" href="/w/index.php?title=Am80186&amp;action=edit&amp;redlink=1" title="Am80186 (страница отсутствует)">Am80186</a></li>
+<li><a class="new" href="/w/index.php?title=Am80188&amp;action=edit&amp;redlink=1" title="Am80188 (страница отсутствует)">Am80188</a></li>
+<li><a href="/wiki/Intel_80286" title="Intel 80286">Am286</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:8.5em"><a class="mw-redirect" href="/wiki/IA-32" title="IA-32">IA-32</a> (<a href="/wiki/32_%D0%B1%D0%B8%D1%82%D0%B0" title="32 бита">32 бита</a>)</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Am386" title="Am386">Am386</a></li>
+<li><a href="/wiki/Am486" title="Am486">Am486</a></li>
+<li><a class="mw-redirect" href="/wiki/Am5x86" title="Am5x86">Am5x86</a></li>
+<li><a class="mw-redirect" href="/wiki/AMD_K5" title="AMD K5">K5</a></li>
+<li><a class="mw-redirect" href="/wiki/AMD_K6" title="AMD K6">K6</a></li>
+<li><a href="/wiki/K6-2" title="K6-2">K6-2</a></li>
+<li><a href="/wiki/K6-III" title="K6-III">K6-III</a></li>
+<li><a href="/wiki/Duron" title="Duron">Duron</a></li>
+<li><a class="mw-selflink selflink">Athlon</a></li>
+<li><a href="/wiki/Athlon_XP" title="Athlon XP">Athlon XP</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BE%D0%B2_Athlon_XP#Серверные_процессоры" title="Список микропроцессоров Athlon XP">Athlon MP</a></li>
+<li><a href="/wiki/Geode" title="Geode">Geode</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:8.5em"><a href="/wiki/X86-64" title="X86-64">x86-64</a> (<a href="/wiki/64_%D0%B1%D0%B8%D1%82%D0%B0" title="64 бита">64 бита</a>)</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Athlon_64" title="Athlon 64">Athlon 64</a>
+<ul><li><a href="/wiki/Athlon_64_X2" title="Athlon 64 X2">Athlon 64 X2</a></li>
+<li><a href="/wiki/Athlon_64_FX" title="Athlon 64 FX">Athlon 64 FX</a></li></ul></li>
+<li><a href="/wiki/Phenom" title="Phenom">Phenom</a></li>
+<li><a href="/wiki/Turion_64" title="Turion 64">Turion 64</a>
+<ul><li><a href="/wiki/Turion_64_X2" title="Turion 64 X2">Turion 64 X2</a></li>
+<li><a href="/wiki/Turion_X2_Ultra" title="Turion X2 Ultra">Turion X2 Ultra</a></li></ul></li>
+<li><a href="/wiki/Phenom_II" title="Phenom II">Phenom II</a></li>
+<li><a href="/wiki/Sempron" title="Sempron">Sempron</a></li>
+<li><a href="/wiki/Athlon_II" title="Athlon II">Athlon II</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BE%D0%B2_AMD_FX" title="Список микропроцессоров AMD FX">FX</a></li>
+<li><a href="/wiki/Opteron" title="Opteron">Opteron</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Актуальные</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:9.6em"><a href="/wiki/X86-64" title="X86-64">x86-64</a> (<a href="/wiki/64_%D0%B1%D0%B8%D1%82%D0%B0" title="64 бита">64 бита</a>)</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Accelerated_Processing_Unit#AMD" title="Accelerated Processing Unit">AMD APU</a></li>
+<li><a href="/wiki/Ryzen" title="Ryzen">Ryzen</a></li>
+<li><a class="mw-redirect" href="/wiki/Ryzen_Threadripper" title="Ryzen Threadripper">Threadripper</a></li>
+<li><a href="/wiki/EPYC" title="EPYC">EPYC</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Списки</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%87%D0%B8%D0%BF%D1%81%D0%B5%D1%82%D0%BE%D0%B2_AMD" title="Список чипсетов AMD">Чипсеты AMD</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%80%D0%B0%D0%B7%D1%8A%D1%91%D0%BC%D0%BE%D0%B2_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BE%D0%B2#Разъёмы_процессоров_AMD" title="Список разъёмов микропроцессоров">Разъемы процессоров</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BE%D0%B2_Duron" title="Список микропроцессоров Duron">Duron</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BE%D0%B2_Athlon" title="Список микропроцессоров Athlon">Athlon</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BE%D0%B2_Athlon_XP" title="Список микропроцессоров Athlon XP">Athlon XP</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BE%D0%B2_Athlon_64" title="Список микропроцессоров Athlon 64">Athlon 64</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BE%D0%B2_Athlon_X2" title="Список микропроцессоров Athlon X2">Athlon X2</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BE%D0%B2_Sempron" title="Список микропроцессоров Sempron">Sempron</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BE%D0%B2_Phenom" title="Список микропроцессоров Phenom">Phenom</a></li>
+<li><a href="/wiki/Turion" title="Turion">Turion</a></li>
+<li><a href="/wiki/Opteron" title="Opteron">Opteron</a></li>
+<li><a href="/wiki/AMD_APU" title="AMD APU">AMD APU</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BE%D0%B2_AMD_FX" title="Список микропроцессоров AMD FX">FX</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/%D0%9C%D0%B8%D0%BA%D1%80%D0%BE%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0" title="Микроархитектура">Микроархитектуры</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/K5" title="K5">K5</a></li>
+<li><a href="/wiki/K6" title="K6">K6</a></li>
+<li><a class="mw-selflink selflink">K7</a></li>
+<li><a href="/wiki/K8" title="K8">K8</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BE%D0%B2_AMD#Процессоры_серии_K9" title="Список микропроцессоров AMD">K9</a></li>
+<li><a href="/wiki/K10" title="K10">K10(10h)</a></li>
+<li><a href="/wiki/Bobcat_(%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0)" title="Bobcat (микроархитектура)">Bobcat</a> (<abbr title="Англ. Low Power — «пониженное энергопотребление». Процессоры этой серии предназначены для использования в мобильных устройствах с низким и ультранизким потреблением энергии.">LP</abbr>)</li>
+<li><span data-interwiki-article="Jaguar (microarchitecture)" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=Jaguar_(%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0)&amp;action=edit&amp;redlink=1" title="Jaguar (микроархитектура) (страница отсутствует)">Jaguar</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://en.wikipedia.org/wiki/Jaguar_(microarchitecture)" title="en:Jaguar (microarchitecture)"><span title="Jaguar (microarchitecture) — версия статьи «Jaguar (микроархитектура)» на английском языке">[en]</span></a></sup></span> (LP)
+<ul><li><span data-interwiki-article="Puma (microarchitecture)" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=Puma_(%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0)&amp;action=edit&amp;redlink=1" title="Puma (микроархитектура) (страница отсутствует)">Puma</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://en.wikipedia.org/wiki/Puma_(microarchitecture)" title="en:Puma (microarchitecture)"><span title="Puma (microarchitecture) — версия статьи «Puma (микроархитектура)» на английском языке">[en]</span></a></sup></span> (LP)</li></ul></li>
+<li><a href="/wiki/Bulldozer_(%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0)" title="Bulldozer (микроархитектура)">Bulldozer</a>
+<ul><li><a href="/wiki/Trinity_(%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80)" title="Trinity (процессор)">Piledriver</a></li>
+<li><span data-interwiki-article="Steamroller (microarchitecture)" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=Steamroller_(%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0)&amp;action=edit&amp;redlink=1" title="Steamroller (микроархитектура) (страница отсутствует)">Steamroller</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://en.wikipedia.org/wiki/Steamroller_(microarchitecture)" title="en:Steamroller (microarchitecture)"><span title="Steamroller (microarchitecture) — версия статьи «Steamroller (микроархитектура)» на английском языке">[en]</span></a></sup></span></li>
+<li><span data-interwiki-article="Excavator (microarchitecture)" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=Excavator_(%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0)&amp;action=edit&amp;redlink=1" title="Excavator (микроархитектура) (страница отсутствует)">Excavator</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://en.wikipedia.org/wiki/Excavator_(microarchitecture)" title="en:Excavator (microarchitecture)"><span title="Excavator (microarchitecture) — версия статьи «Excavator (микроархитектура)» на английском языке">[en]</span></a></sup></span></li></ul></li>
+<li><a href="/wiki/Zen_(%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0)" title="Zen (микроархитектура)">Zen</a>
+<ul><li><a href="/wiki/Zen%2B" title="Zen+">Zen+</a></li>
+<li><a href="/wiki/Zen_2" title="Zen 2">Zen 2</a></li>
+<li><a href="/wiki/Zen_3" title="Zen 3">Zen 3</a></li>
+<li><a href="/wiki/Zen_4" title="Zen 4">Zen 4</a></li>
+<li><span data-interwiki-article="Zen 5" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=Zen_5&amp;action=edit&amp;redlink=1" title="Zen 5 (страница отсутствует)">Zen 5</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://en.wikipedia.org/wiki/Zen_5" title="en:Zen 5"><span title="Zen 5 — версия статьи «Zen 5» на английском языке">[en]</span></a></sup></span></li></ul></li>
+<li><a href="/wiki/AMD_K12" title="AMD K12">K12</a> (<a href="/wiki/ARM_(%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0)" title="ARM (архитектура)">ARMv8-A(ARM64)</a>)</li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1414
+Cached time: 20240228162812
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.294 seconds
+Real time usage: 0.420 seconds
+Preprocessor visited node count: 3102/1000000
+Post‐expand include size: 68375/2097152 bytes
+Template argument size: 5542/2097152 bytes
+Highest expansion depth: 14/100
+Expensive parser function count: 12/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 17084/5000000 bytes
+Lua time usage: 0.110/10.000 seconds
+Lua memory usage: 5073147/52428800 bytes
+Number of Wikibase entities loaded: 5/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  316.373      1 -total
+ 51.81%  163.902      1 Шаблон:Карточка_центрального_процессора
+ 49.82%  157.608      1 Шаблон:Карточка
+ 18.49%   58.488      1 Шаблон:Примечания
+ 12.99%   41.096      3 Шаблон:Wikidata
+ 11.45%   36.215      1 Шаблон:Процессоры_AMD
+ 11.26%   35.631      7 Шаблон:Cite_web
+ 10.76%   34.051      1 Шаблон:Навигационная_таблица
+  8.69%   27.498      1 Шаблон:Навигация
+  6.67%   21.097      3 Шаблон:Bulleted_list
+-->
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:129941-0!canonical and timestamp 20240228162812 and revision id 122054432. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> -->
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Athlon&amp;oldid=122054432">https://ru.wikipedia.org/w/index.php?title=Athlon&amp;oldid=122054432</a></div></div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:X86" title="Категория:X86">X86</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9C%D0%B8%D0%BA%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D1%8B_%D1%84%D0%B8%D1%80%D0%BC%D1%8B_AMD" title="Категория:Микропроцессоры фирмы AMD">Микропроцессоры фирмы AMD</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%BD%D0%B5_%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD_%D1%8F%D0%B7%D1%8B%D0%BA)" title="Категория:Википедия:Cite web (не указан язык)">Википедия:Cite web (не указан язык)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D0%BD%D0%B5%D1%80%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%BC%D0%B8_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8" title="Категория:Википедия:Статьи с нерабочими ссылками">Википедия:Статьи с нерабочими ссылками</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%A0%D0%9E:%D0%98%D0%A2:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:ПРО:ИТ:Статьи по алфавиту">ПРО:ИТ:Статьи по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%A0%D0%9E:%D0%98%D0%A2:%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D1%8F%D1%8F_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:_%D0%B2_%D0%BF%D0%BE%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%BE%D0%BC_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:ПРО:ИТ:Последняя правка: в позапрошлом году">ПРО:ИТ:Последняя правка: в позапрошлом году</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8,_%D1%82%D1%80%D0%B5%D0%B1%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D1%83%D1%82%D0%BE%D1%87%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2" title="Категория:Википедия:Статьи, требующие уточнения источников">Википедия:Статьи, требующие уточнения источников</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B0%D0%BC%D0%B8_%D0%BD%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D1%82%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Википедия:Статьи с шаблонами недостатков по алфавиту">Википедия:Статьи с шаблонами недостатков по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81%D0%BE_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8_%D0%BD%D0%B0_%D0%92%D0%B8%D0%BA%D0%B8%D1%81%D0%BA%D0%BB%D0%B0%D0%B4" title="Категория:Статьи со ссылками на Викисклад">Статьи со ссылками на Викисклад</a></li></ul></div></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Навигация</h2>
+<div id="mw-head">
+<nav aria-labelledby="p-personal-label" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" id="p-personal" role="navigation">
+<h3 class="vector-menu-heading" id="p-personal-label">
+<span class="vector-menu-heading-label">Персональные инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="pt-anonuserpage"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li class="mw-list-item" id="pt-anontalk"><a accesskey="n" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]"><span>Обсуждение</span></a></li><li class="mw-list-item" id="pt-anoncontribs"><a accesskey="y" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]"><span>Вклад</span></a></li><li class="mw-list-item" id="pt-createaccount"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=Athlon" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li class="mw-list-item" id="pt-login"><a accesskey="o" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=Athlon" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]"><span>Войти</span></a></li>
+</ul>
+</div>
+</nav>
+<div id="left-navigation">
+<nav aria-labelledby="p-namespaces-label" class="mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-namespaces" role="navigation">
+<h3 class="vector-menu-heading" id="p-namespaces-label">
+<span class="vector-menu-heading-label">Пространства имён</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-nstab-main"><a accesskey="c" href="/wiki/Athlon" title="Просмотреть контентную страницу [c]"><span>Статья</span></a></li><li class="mw-list-item" id="ca-talk"><a accesskey="t" href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:Athlon" rel="discussion" title="Обсуждение основной страницы [t]"><span>Обсуждение</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-variants-label" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" id="p-variants" role="navigation">
+<input aria-haspopup="true" aria-labelledby="p-variants-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-variants" id="p-variants-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-variants-label">
+<span class="vector-menu-heading-label">русский</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+</div>
+<div id="right-navigation">
+<nav aria-labelledby="p-views-label" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-views" role="navigation">
+<h3 class="vector-menu-heading" id="p-views-label">
+<span class="vector-menu-heading-label">Просмотры</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-view"><a href="/wiki/Athlon"><span>Читать</span></a></li><li class="mw-list-item" id="ca-ve-edit"><a accesskey="v" href="/w/index.php?title=Athlon&amp;veaction=edit" title="Редактировать данную страницу [v]"><span>Править</span></a></li><li class="collapsible mw-list-item" id="ca-edit"><a accesskey="e" href="/w/index.php?title=Athlon&amp;action=edit" title="Править исходный текст этой страницы [e]"><span>Править код</span></a></li><li class="mw-list-item" id="ca-history"><a accesskey="h" href="/w/index.php?title=Athlon&amp;action=history" title="Журнал изменений страницы [h]"><span>История</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-cactions-label" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" id="p-cactions" role="navigation" title="Больше возможностей">
+<input aria-haspopup="true" aria-labelledby="p-cactions-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-cactions" id="p-cactions-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-cactions-label">
+<span class="vector-menu-heading-label">Ещё</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+<div class="vector-search-box-vue vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box" id="p-search" role="search">
+<h3>Поиск</h3>
+<form action="/w/index.php" class="vector-search-box-form" id="searchform">
+<div class="vector-search-box-inner" data-search-loc="header-navigation" id="simpleSearch">
+<input accesskey="f" aria-label="Искать в Википедии" autocapitalize="sentences" class="vector-search-box-input" id="searchInput" name="search" placeholder="Искать в Википедии" title="Искать в Википедии [f]" type="search"/>
+<input name="title" type="hidden" value="Служебная:Поиск"/>
+<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Найти страницы, содержащие указанный текст" type="submit" value="Найти"/>
+<input class="searchButton" id="searchButton" name="go" title="Перейти к странице, имеющей в точности такое название" type="submit" value="Перейти"/>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="vector-legacy-sidebar" id="mw-panel">
+<div id="p-logo" role="banner">
+<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу"></a>
+</div>
+<nav aria-labelledby="p-navigation-label" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" id="p-navigation" role="navigation">
+<h3 class="vector-menu-heading" id="p-navigation-label">
+<span class="vector-menu-heading-label">Навигация</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-mainpage-description"><a accesskey="z" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]"><span>Заглавная страница</span></a></li><li class="mw-list-item" id="n-content"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li class="mw-list-item" id="n-featured"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li class="mw-list-item" id="n-randompage"><a accesskey="x" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]"><span>Случайная статья</span></a></li><li class="mw-list-item" id="n-currentevents"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li class="mw-list-item" id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-participation-label" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" id="p-participation" role="navigation">
+<h3 class="vector-menu-heading" id="p-participation-label">
+<span class="vector-menu-heading-label">Участие</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-bug_in_article"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li class="mw-list-item" id="n-introduction"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li class="mw-list-item" id="n-portal"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li class="mw-list-item" id="n-forum"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li class="mw-list-item" id="n-recentchanges"><a accesskey="r" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]"><span>Свежие правки</span></a></li><li class="mw-list-item" id="n-newpages"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li class="mw-list-item" id="n-help"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-tb-label" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" id="p-tb" role="navigation">
+<h3 class="vector-menu-heading" id="p-tb-label">
+<span class="vector-menu-heading-label">Инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="t-whatlinkshere"><a accesskey="j" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/Athlon" title="Список всех страниц, ссылающихся на данную [j]"><span>Ссылки сюда</span></a></li><li class="mw-list-item" id="t-recentchangeslinked"><a accesskey="k" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/Athlon" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]"><span>Связанные правки</span></a></li><li class="mw-list-item" id="t-specialpages"><a accesskey="q" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]"><span>Служебные страницы</span></a></li><li class="mw-list-item" id="t-permalink"><a href="/w/index.php?title=Athlon&amp;oldid=122054432" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li class="mw-list-item" id="t-info"><a href="/w/index.php?title=Athlon&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li class="mw-list-item" id="t-cite"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=Athlon&amp;id=122054432&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li class="mw-list-item" id="t-urlshortener"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2FAthlon"><span>Получить короткий URL</span></a></li><li class="mw-list-item" id="t-urlshortener-qrcode"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2FAthlon"><span>Скачать QR-код</span></a></li><li class="mw-list-item" id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q390562" title="Ссылка на связанный элемент репозитория данных [g]"><span>Элемент Викиданных</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-coll-print_export-label" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" id="p-coll-print_export" role="navigation">
+<h3 class="vector-menu-heading" id="p-coll-print_export-label">
+<span class="vector-menu-heading-label">Печать/экспорт</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="coll-download-as-rl"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=Athlon&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li class="mw-list-item" id="t-print"><a accesskey="p" href="/w/index.php?title=Athlon&amp;printable=yes" title="Версия этой страницы для печати [p]"><span>Версия для печати</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-wikibase-otherprojects-label" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal vector-menu" id="p-wikibase-otherprojects" role="navigation">
+<h3 class="vector-menu-heading" id="p-wikibase-otherprojects-label">
+<span class="vector-menu-heading-label">В других проектах</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Athlon" hreflang="en"><span>Викисклад</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-lang-label" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" id="p-lang" role="navigation">
+<h3 class="vector-menu-heading" id="p-lang-label">
+<span class="vector-menu-heading-label">На других языках</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="interlanguage-link interwiki-bs mw-list-item"><a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Athlon" hreflang="bs" lang="bs" title="Athlon — боснийский"><span>Bosanski</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Athlon" hreflang="ca" lang="ca" title="Athlon — каталанский"><span>Català</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/AMD_Athlon" hreflang="cs" lang="cs" title="AMD Athlon — чешский"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Athlon" hreflang="da" lang="da" title="Athlon — датский"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/AMD_Athlon" hreflang="de" lang="de" title="AMD Athlon — немецкий"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a class="interlanguage-link-target" href="https://en.wikipedia.org/wiki/Athlon" hreflang="en" lang="en" title="Athlon — английский"><span>English</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/AMD_Athlon" hreflang="es" lang="es" title="AMD Athlon — испанский"><span>Español</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/AMD_Athlon" hreflang="fi" lang="fi" title="AMD Athlon — финский"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Athlon" hreflang="fr" lang="fr" title="Athlon — французский"><span>Français</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/Athlon" hreflang="he" lang="he" title="Athlon — иврит"><span>עברית</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Athlon" hreflang="hu" lang="hu" title="Athlon — венгерский"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Athlon" hreflang="id" lang="id" title="Athlon — индонезийский"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Athlon" hreflang="it" lang="it" title="Athlon — итальянский"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/Athlon" hreflang="ja" lang="ja" title="Athlon — японский"><span>日本語</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%95%A0%EC%8A%AC%EB%A1%A0" hreflang="ko" lang="ko" title="애슬론 — корейский"><span>한국어</span></a></li><li class="interlanguage-link interwiki-ml mw-list-item"><a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%85%E0%B4%A4%E0%B5%8D%E0%B4%B2%E0%B5%8B%E0%B5%BA" hreflang="ml" lang="ml" title="അത്ലോൺ — малаялам"><span>മലയാളം</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Athlon" hreflang="nl" lang="nl" title="Athlon — нидерландский"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Athlon" hreflang="nb" lang="nb" title="Athlon — норвежский букмол"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/AMD_Athlon" hreflang="pl" lang="pl" title="AMD Athlon — польский"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Athlon" hreflang="pt" lang="pt" title="Athlon — португальский"><span>Português</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Athlon" hreflang="sk" lang="sk" title="Athlon — словацкий"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Athlon" hreflang="sv" lang="sv" title="Athlon — шведский"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-ta mw-list-item"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%85%E0%AE%A4%E0%AF%8D%E0%AE%B2%E0%AF%8B%E0%AE%A9%E0%AF%8D" hreflang="ta" lang="ta" title="அத்லோன் — тамильский"><span>தமிழ்</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Athlon" hreflang="tr" lang="tr" title="Athlon — турецкий"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/Athlon" hreflang="uk" lang="uk" title="Athlon — украинский"><span>Українська</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/AMD_Athlon" hreflang="zh" lang="zh" title="AMD Athlon — китайский"><span>中文</span></a></li>
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q390562#sitelinks-wikipedia" title="Править ссылки на другие языки">Править ссылки</a></span></div>
+</div>
+</nav>
+</div>
+</div>
+<footer class="mw-footer" id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 4 мая 2022 в 09:29.</li>
+<li id="footer-info-copyright">Текст доступен по <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru" rel="license">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a><a href="//creativecommons.org/licenses/by-sa/4.0/" rel="license" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br/>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org/ru/">Фонд Викимедиа (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//ru.m.wikipedia.org/w/index.php?title=Athlon&amp;mobileaction=toggle_view_mobile">Мобильная версия</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" loading="lazy" src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88"/></a></li>
+<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" loading="lazy" src="/static/images/footer/poweredby_mediawiki_88x31.png" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88"/></a></li>
+</ul>
+</footer>
+
+
+</body>
+</html>

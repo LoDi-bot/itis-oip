@@ -11,7 +11,7 @@
 <meta content="" name="ResourceLoaderDynamicStyles"/>
 
 
-<meta content="MediaWiki 1.42.0-wmf.18" name="generator"/>
+<meta content="MediaWiki 1.42.0-wmf.19" name="generator"/>
 <meta content="origin" name="referrer"/>
 <meta content="origin-when-cross-origin" name="referrer"/>
 <meta content="max-image-preview:standard" name="robots"/>
@@ -357,11 +357,11 @@
 <li><a class="external text" href="https://web.archive.org/web/20070205175807/http://skydive.kryshi.net/pub/12_04.shtml" rel="nofollow">Стратостат «Волга»</a></li>
 <li><a class="external text" href="http://vectorsite.net/avbloon_3.html" rel="nofollow">The Stratosphere Expeditions</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
 <li><a class="external text" href="http://stratocat.com.ar/indexe.html" rel="nofollow">Stratospheric balloons, history and present</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li></ul>
-<div aria-labelledby="Ссылки_на_внешние_ресурсы" class="navbox" data-name="External links" role="navigation" style="padding-top:1px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup" style="display:none"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:External_links" title="Перейти к шаблону «External links»"><img alt="Перейти к шаблону «External links»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span> </span><div id="Ссылки_на_внешние_ресурсы" style="font-size:114%;margin:0 5em">Ссылки на внешние ресурсы</div></th></tr><tr><th class="navbox-group" scope="row" style="width:1px"><div style="padding: 0 35px 0 0; width: 100%;"><div style="float: left;"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8" title="Перейти к шаблону «Внешние ссылки»"><img alt="Перейти к шаблону «Внешние ссылки»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span>  <span typeof="mw:File"><a href="https://www.wikidata.org/wiki/Q2619521#identifiers" title="Перейти к элементу Викиданных"><img alt="Перейти к элементу Викиданных" class="mw-file-element" data-file-height="20" data-file-width="20" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/14px-OOjs_UI_icon_edit-ltr-progressive.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/21px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/28px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" width="14"/></a></span></div>  Словари и энциклопедии</div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<div aria-labelledby="Ссылки_на_внешние_ресурсы" class="navbox" data-name="External links" role="navigation" style="padding-top:1px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup" style="display:none"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:External_links" title="Перейти к шаблону «External links»"><img alt="Перейти к шаблону «External links»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span></span><div id="Ссылки_на_внешние_ресурсы" style="font-size:114%;margin:0 5em">Ссылки на внешние ресурсы</div></th></tr><tr><th class="navbox-group" scope="row" style="width:1px"><div style="padding: 0 35px 0 0; width: 100%;"><div style="float: left;"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8" title="Перейти к шаблону «Внешние ссылки»"><img alt="Перейти к шаблону «Внешние ссылки»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span>  <span typeof="mw:File"><a href="https://www.wikidata.org/wiki/Q2619521#identifiers" title="Перейти к элементу Викиданных"><img alt="Перейти к элементу Викиданных" class="mw-file-element" data-file-height="20" data-file-width="20" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/14px-OOjs_UI_icon_edit-ltr-progressive.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/21px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/28px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" width="14"/></a></span></div>  Словари и энциклопедии</div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
 <ul><li><a class="external text" href="https://old.bigenc.ru/text/4168309" rel="nofollow">Большая российская (старая версия)</a></li>
 <li><a class="external text" href="https://www.britannica.com/topic/high-altitude-balloon" rel="nofollow">Britannica (онлайн)</a></li></ul>
 </div></td></tr></tbody></table></div>
-<div aria-labelledby="Летательные_аппараты" class="navbox" data-name="Летательные аппараты" role="navigation"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%9B%D0%B5%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%B0%D0%BF%D0%BF%D0%B0%D1%80%D0%B0%D1%82%D1%8B" title="Перейти к шаблону «Летательные аппараты»"><img alt="Перейти к шаблону «Летательные аппараты»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span> </span><div id="Летательные_аппараты" style="font-size:114%;margin:0 5em"><a href="/wiki/%D0%9B%D0%B5%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B0%D0%BF%D0%BF%D0%B0%D1%80%D0%B0%D1%82" title="Летательный аппарат">Летательные аппараты</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/%D0%9F%D0%BB%D0%B0%D0%BD%D1%91%D1%80" title="Планёр">Планирующие</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<div aria-labelledby="Летательные_аппараты" class="navbox" data-name="Летательные аппараты" role="navigation"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%9B%D0%B5%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%B0%D0%BF%D0%BF%D0%B0%D1%80%D0%B0%D1%82%D1%8B" title="Перейти к шаблону «Летательные аппараты»"><img alt="Перейти к шаблону «Летательные аппараты»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span></span><div id="Летательные_аппараты" style="font-size:114%;margin:0 5em"><a href="/wiki/%D0%9B%D0%B5%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B0%D0%BF%D0%BF%D0%B0%D1%80%D0%B0%D1%82" title="Летательный аппарат">Летательные аппараты</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/%D0%9F%D0%BB%D0%B0%D0%BD%D1%91%D1%80" title="Планёр">Планирующие</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
 <ul><li><a href="/wiki/%D0%9F%D0%BB%D0%B0%D0%BD%D1%91%D1%80" title="Планёр">Планёр</a>
 <ul><li><a href="/wiki/%D0%9C%D0%BE%D1%82%D0%BE%D0%BF%D0%BB%D0%B0%D0%BD%D0%B5%D1%80" title="Мотопланер">мотопланер</a></li></ul></li>
 <li><a href="/wiki/%D0%94%D0%B5%D0%BB%D1%8C%D1%82%D0%B0%D0%BF%D0%BB%D0%B0%D0%BD" title="Дельтаплан">Дельтаплан</a>
@@ -406,38 +406,38 @@
 </div></td></tr></tbody></table></div>
 <!-- 
 NewPP limit report
-Parsed by mw1487
-Cached time: 20240218013912
+Parsed by mw‐web.eqiad.main‐7bc865cbcb‐t9vht
+Cached time: 20240226120213
 Cache expiry: 2592000
 Reduced expiry: false
 Complications: [show‐toc]
-CPU time usage: 0.174 seconds
-Real time usage: 0.251 seconds
-Preprocessor visited node count: 821/1000000
-Post‐expand include size: 23690/2097152 bytes
-Template argument size: 684/2097152 bytes
+CPU time usage: 0.183 seconds
+Real time usage: 0.274 seconds
+Preprocessor visited node count: 761/1000000
+Post‐expand include size: 23433/2097152 bytes
+Template argument size: 524/2097152 bytes
 Highest expansion depth: 13/100
 Expensive parser function count: 2/500
 Unstrip recursion depth: 0/20
 Unstrip post‐expand size: 4108/5000000 bytes
-Lua time usage: 0.086/10.000 seconds
-Lua memory usage: 3354136/52428800 bytes
+Lua time usage: 0.094/10.000 seconds
+Lua memory usage: 3266577/52428800 bytes
 Number of Wikibase entities loaded: 1/400
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  167.466      1 -total
- 34.46%   57.717      1 Шаблон:Родственные_проекты
- 24.07%   40.311      1 Шаблон:Внешние_ссылки
- 21.23%   35.559      1 Шаблон:Примечания
- 17.25%   28.887      3 Шаблон:Cite_web
- 12.49%   20.909      1 Шаблон:Основная_статья
-  5.78%    9.684      1 Шаблон:Воздушные_суда
-  3.84%    6.433      1 Шаблон:Навигационная_таблица
-  2.06%    3.456      4 Шаблон:Ref-lang
-  1.21%    2.027      4 Шаблон:Ref-info
+100.00%  187.415      1 -total
+ 36.24%   67.919      1 Шаблон:Родственные_проекты
+ 24.89%   46.648      1 Шаблон:Внешние_ссылки
+ 18.73%   35.108      1 Шаблон:Примечания
+ 15.50%   29.048      3 Шаблон:Cite_web
+ 13.89%   26.030      1 Шаблон:Основная_статья
+  4.39%    8.224      1 Шаблон:Воздушные_суда
+  2.47%    4.627      1 Шаблон:Навигационная_таблица
+  1.97%    3.695      4 Шаблон:Ref-lang
+  1.15%    2.158      4 Шаблон:Ref-info
 -->
-<!-- Saved in parser cache with key ruwiki:pcache:idhash:381735-0!canonical and timestamp 20240218013912 and revision id 132691646. Rendering was triggered because: page-view
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:381735-0!canonical and timestamp 20240226120213 and revision id 132691646. Rendering was triggered because: page-view
  -->
 </div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> -->
 <div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Стратостат&amp;oldid=132691646">https://ru.wikipedia.org/w/index.php?title=Стратостат&amp;oldid=132691646</a></div></div>

@@ -1,0 +1,642 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="ru">
+<head>
+<meta charset="utf-8"/>
+<title>Электроника МС 0511 — Википедия</title>
+
+
+
+
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+
+
+<meta content="MediaWiki 1.42.0-wmf.19" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="max-image-preview:standard" name="robots"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="https://upload.wikimedia.org/wikipedia/ru/thumb/3/35/MC0511.jpg/1200px-MC0511.jpg" property="og:image"/>
+<meta content="1200" property="og:image:width"/>
+<meta content="848" property="og:image:height"/>
+<meta content="https://upload.wikimedia.org/wikipedia/ru/thumb/3/35/MC0511.jpg/800px-MC0511.jpg" property="og:image"/>
+<meta content="800" property="og:image:width"/>
+<meta content="566" property="og:image:height"/>
+<meta content="https://upload.wikimedia.org/wikipedia/ru/thumb/3/35/MC0511.jpg/640px-MC0511.jpg" property="og:image"/>
+<meta content="640" property="og:image:width"/>
+<meta content="453" property="og:image:height"/>
+<meta content="width=1000" name="viewport"/>
+<meta content="Электроника МС 0511 — Википедия" property="og:title"/>
+<meta content="website" property="og:type"/>
+
+
+
+
+
+
+
+
+
+
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Электроника_МС_0511 rootpage-Электроника_МС_0511 skin-vector action-view"><div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators">
+</div>
+<h1 class="firstHeading mw-first-heading" id="firstHeading"><span class="mw-page-title-main">Электроника МС 0511</span></h1>
+<div class="vector-body" id="bodyContent">
+<div class="noprint" id="siteSub">Материал из Википедии — свободной энциклопедии</div>
+<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+<div id="contentSub2"></div>
+<div id="jump-to-nav"></div>
+<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+<div class="mw-body-content" id="mw-content-text"><div class="mw-content-ltr mw-parser-output" dir="ltr" lang="ru"><table class="infobox infobox-6b4799f2c6ab7575" data-name="Компьютер" style=""><tbody><tr><th class="infobox-above" colspan="2" scope="colgroup" style="">Электроника МС 0511</th></tr><tr><td class="infobox-image" colspan="2" style=""> <span class="no-wikidata" data-wikidata-property-id="P18"><span typeof="mw:File/Frameless"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:MC0511.jpg"><img class="mw-file-element" data-file-height="1448" data-file-width="2048" decoding="async" height="194" src="//upload.wikimedia.org/wikipedia/ru/thumb/3/35/MC0511.jpg/274px-MC0511.jpg" srcset="//upload.wikimedia.org/wikipedia/ru/thumb/3/35/MC0511.jpg/411px-MC0511.jpg 1.5x, //upload.wikimedia.org/wikipedia/ru/thumb/3/35/MC0511.jpg/548px-MC0511.jpg 2x" width="274"/></a></span></span> </td></tr>
+<tr>
+<th class="plainlist" scope="row">Тип</th>
+<td class="plainlist">
+Учебный компьютер</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Производи­тель</th>
+<td class="plainlist">
+<span class="wikidata-claim" data-wikidata-claim-id="Q3721335$f90184bd-46b2-b5f5-180e-03d8bcc811b6" data-wikidata-property-id="P176"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_(%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BC%D0%B0%D1%80%D0%BA%D0%B0)" title="Электроника (торговая марка)">Электроника</a></span></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Дата выпуска</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P577">1987</span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Выпускался по</th>
+<td class="plainlist">
+1994<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row"><a href="/wiki/%D0%A6%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80" title="Центральный процессор">Процессор</a></th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P880">2 × <a class="mw-redirect" href="/wiki/%D0%9A%D0%9C1801%D0%92%D0%9C2" title="КМ1801ВМ2">КМ1801ВМ2</a></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row"><a class="mw-redirect" href="/wiki/%D0%9E%D0%97%D0%A3" title="ОЗУ">Оперативная память</a></th>
+<td class="plainlist">
+<a class="mw-redirect" href="/wiki/%D0%9E%D0%97%D0%A3" title="ОЗУ">ОЗУ</a> 192 Кбайт, <a href="/wiki/%D0%9F%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%BD%D0%BE%D0%B5_%D0%B7%D0%B0%D0%BF%D0%BE%D0%BC%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B5%D0%B5_%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE" title="Постоянное запоминающее устройство">ПЗУ</a> 32 Кбайт</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Устройства хранения данных</th>
+<td class="plainlist">
+НГМД 5¼ дюйма, компакт-кассета</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row"><a href="/wiki/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0" title="Операционная система">ОС</a></th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P306"><a class="mw-redirect" href="/wiki/%D0%A0%D0%90%D0%A4%D0%9E%D0%A1" title="РАФОС">РАФОС</a>, <a class="mw-redirect" href="/wiki/%D0%A4%D0%9E%D0%94%D0%9E%D0%A1" title="ФОДОС">ФОДОС</a>, <a href="/wiki/RT-11" title="RT-11">RT-11</a></span></td>
+</tr><tr><td class="infobox-below" colspan="2" style=";"><span class="wikidata-claim" data-wikidata-claim-id="q3721335$04363726-EAFA-49E4-B54B-7C94BA9A1179" data-wikidata-property-id="P373"><span class="wikidata-snak wikidata-main-snak"><span typeof="mw:File"><a href="https://commons.wikimedia.org/wiki/Category:UKNC" title="commons:Category:UKNC"><img alt="Логотип Викисклада" class="mw-file-element" data-file-height="1376" data-file-width="1024" decoding="async" height="20" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/15px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/23px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 2x" width="15"/></a></span> <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:UKNC" title="commons:Category:UKNC">Медиафайлы на Викискладе</a></span></span></td></tr>
+</tbody></table>
+<p><b>«Электроника МС 0511»</b> (также известный под названием «<b>УК НЦ</b>») — персональная микроЭВМ, <a class="mw-redirect" href="/wiki/%D0%A1%D0%A1%D0%A1%D0%A0" title="СССР">советский</a> учебный компьютер (УК), разработанный для учебных классов. Входит в состав КУВТ «Электроника МС 0202»<span class="ts-Переход noprint" title="#Электроника МС 0202"><sup><a href="#Электроника_МС_0202">[⇨]</a></sup></span>.
+</p><p>Разработан в <a class="mw-redirect" href="/wiki/%D0%9D%D0%B0%D1%83%D1%87%D0%BD%D1%8B%D0%B9_%D0%A6%D0%B5%D0%BD%D1%82%D1%80_(%D0%9D%D0%9F%D0%9E)" title="Научный Центр (НПО)">НПО «Научный центр»</a>, г. <a href="/wiki/%D0%97%D0%B5%D0%BB%D0%B5%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D0%B4" title="Зеленоград">Зеленоград</a>. Главный конструктор — А. Е. Абрамов, зам. ГК А. Н. Полосин<sup class="reference" id="cite_ref-malashevich_2-0"><a href="#cite_note-malashevich-2">[2]</a></sup>, ведущие разработчики: Н. Г. Карпинский, А. И. Половянюк, О. Л. Семичастнов, Б. Г. Бекетов, А. Д. Развязнев, И. О. Лозовой, М. И. Дябин, В. Л. Сафонов, И. Н. Селянко, В. Н. Дронов и др.<sup class="reference" id="cite_ref-:0_3-0"><a href="#cite_note-:0-3">[3]</a></sup>
+</p><p>КУВТ МС 0202 был впервые представлен в начале 1987 года, но по нему было сделано множество замечаний<sup class="reference" id="cite_ref-ershov7109_4-0"><a href="#cite_note-ershov7109-4">[4]</a></sup>. В итоге, в конце <a href="/wiki/1987_%D0%B3%D0%BE%D0%B4" title="1987 год">1987 года</a> он был принят государственной комиссией во главе с академиком <a href="/wiki/%D0%95%D1%80%D1%88%D0%BE%D0%B2,_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B9_%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Ершов, Андрей Петрович">А. П. Ершовым</a>. Выпускался серийно с конца <a href="/wiki/1987_%D0%B3%D0%BE%D0%B4" title="1987 год">1987 года</a> на заводах <a class="mw-redirect" href="/wiki/%D0%9C%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D0%B5%D1%80%D1%81%D1%82%D0%B2%D0%BE_%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D0%BE%D0%B9_%D0%BF%D1%80%D0%BE%D0%BC%D1%8B%D1%88%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8" title="Министерство электронной промышленности">Минэлектронпрома</a>: «<a class="mw-redirect" href="/wiki/%D0%9A%D0%B2%D0%B0%D0%BD%D1%82_(%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4)" title="Квант (завод)">Квант</a>» (Зеленоград), <a class="new" href="/w/index.php?title=%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%BE%D0%B3%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4&amp;action=edit&amp;redlink=1" title="Солнечногорский электромеханический завод (страница отсутствует)">Солнечногорский электромеханический завод</a> (СЭМЗ),  «<a class="new" href="/w/index.php?title=%D0%9C%D0%B5%D0%B7%D0%BE%D0%BD_(%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4)&amp;action=edit&amp;redlink=1" title="Мезон (завод) (страница отсутствует)">Мезон</a>» (<a href="/wiki/%D0%9A%D0%B8%D1%88%D0%B8%D0%BD%D1%91%D0%B2" title="Кишинёв">Кишинёв</a>), «<a class="new" href="/w/index.php?title=%D0%9C%D0%B8%D0%BE%D0%BD&amp;action=edit&amp;redlink=1" title="Мион (страница отсутствует)">Мион</a>» (<a href="/wiki/%D0%A2%D0%B1%D0%B8%D0%BB%D0%B8%D1%81%D0%B8" title="Тбилиси">Тбилиси</a>), «<a href="/wiki/%D0%9D%D1%83%D0%BA%D0%BB%D0%BE%D0%BD_(%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4)" title="Нуклон (завод)">Нуклон</a>» (<a href="/wiki/%D0%A8%D1%8F%D1%83%D0%BB%D1%8F%D0%B9" title="Шяуляй">Шяуляй</a>). По некоторым сведениям<sup class="reference" id="cite_ref-malashevich_2-1"><a href="#cite_note-malashevich-2">[2]</a></sup><sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup>, всего было выпущено около 310 000 ЭВМ, основная масса машин — в Зеленограде и <a href="/wiki/%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%BE%D0%B3%D0%BE%D1%80%D1%81%D0%BA" title="Солнечногорск">Солнечногорске</a>. Было сформировано и поставлено около 22 000 классов КУВТ УКНЦ<sup class="reference" id="cite_ref-malashevich_2-2"><a href="#cite_note-malashevich-2">[2]</a></sup>. В 1991 году выпуск машин был прекращён из-за снижения спроса<sup class="reference" id="cite_ref-malashevich_2-3"><a href="#cite_note-malashevich-2">[2]</a></sup> — начались первые поставки КУВТ на базе <a href="/wiki/IBM_PC" title="IBM PC">IBM PC</a>-совместимых компьютеров.
+</p><p>Помимо учебного применения, на основе УКНЦ строились системы управления технологическими процессами, телеграфные концентраторы, системы бухгалтерского учёта, системы продажи ж/д билетов и другие системы<sup class="reference" id="cite_ref-malashevich_2-4"><a href="#cite_note-malashevich-2">[2]</a></sup><sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup>.
+</p>
+<div aria-labelledby="mw-toc-heading" class="toc" id="toc" role="navigation"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="ru"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Электроника_МС_0202"><span class="tocnumber">1</span> <span class="toctext">Электроника МС 0202</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Технические_характеристики"><span class="tocnumber">2</span> <span class="toctext">Технические характеристики</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Особенности"><span class="tocnumber">3</span> <span class="toctext">Особенности</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Программное_обеспечение"><span class="tocnumber">4</span> <span class="toctext">Программное обеспечение</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Модернизация"><span class="tocnumber">5</span> <span class="toctext">Модернизация</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Литература_и_публикации"><span class="tocnumber">6</span> <span class="toctext">Литература и публикации</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Примечания"><span class="tocnumber">7</span> <span class="toctext">Примечания</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Ссылки"><span class="tocnumber">8</span> <span class="toctext">Ссылки</span></a></li>
+</ul>
+</div>
+<h2><span id=".D0.AD.D0.BB.D0.B5.D0.BA.D1.82.D1.80.D0.BE.D0.BD.D0.B8.D0.BA.D0.B0_.D0.9C.D0.A1_0202"></span><span class="mw-headline" id="Электроника_МС_0202">Электроника МС 0202</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%9C%D0%A1_0511&amp;veaction=edit&amp;section=1" title="Редактировать раздел «Электроника МС 0202»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%9C%D0%A1_0511&amp;action=edit&amp;section=1" title="Редактировать код раздела «Электроника МС 0202»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:MC0202.04.jpg"><img class="mw-file-element" data-file-height="512" data-file-width="1280" decoding="async" height="107" src="//upload.wikimedia.org/wikipedia/ru/thumb/1/19/MC0202.04.jpg/267px-MC0202.04.jpg" srcset="//upload.wikimedia.org/wikipedia/ru/thumb/1/19/MC0202.04.jpg/401px-MC0202.04.jpg 1.5x, //upload.wikimedia.org/wikipedia/ru/thumb/1/19/MC0202.04.jpg/534px-MC0202.04.jpg 2x" width="267"/></a><figcaption>Электроника МС 0202.04</figcaption></figure>
+<p>КУВТ «Электроника МС 0202» (<a href="/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%82_%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D0%BE%D0%B9_%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9_%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B8" title="Комплект учебной вычислительной техники">комплект учебной вычислительной техники</a>, он же КВУ<sup class="reference" id="cite_ref-ershov7109_4-1"><a href="#cite_note-ershov7109-4">[4]</a></sup> (комплекс вычислительный учебный), также известный под названием «Электроника УК НЦ»<sup class="reference" id="cite_ref-:0_3-1"><a href="#cite_note-:0-3">[3]</a></sup> (учебный компьютер Научного центра<sup class="reference" id="cite_ref-:1_7-0"><a href="#cite_note-:1-7">[7]</a></sup>)) предназначался для использования в школах, техникумах, ПТУ и высших учебных заведениях<sup class="reference" id="cite_ref-:2_8-0"><a href="#cite_note-:2-8">[8]</a></sup> для обучения основам <a href="/wiki/%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0" title="Информатика">информатики</a> и вычислительной техники и был призван заменить <a class="mw-redirect" href="/wiki/%D0%9A%D0%A3%D0%92%D0%A2-86" title="КУВТ-86">КУВТ-86</a><sup class="reference" id="cite_ref-ershov7109_4-2"><a href="#cite_note-ershov7109-4">[4]</a></sup>.
+</p><p>«УК НЦ» — двухмашинный комплекс, состоящий из центральной и периферийной машин, соединённых каналом связи<sup class="reference" id="cite_ref-:2_8-1"><a href="#cite_note-:2-8">[8]</a></sup>. Комплекс состоял из рабочего места преподавателя (РМП, центральная машина, ЦМ) «Электроника МС 0511.02» и до 12 рабочих мест учащихся (РМУ, периферийная машина, ПМ) «Электроника МС 0511.01»<sup class="reference" id="cite_ref-:1_7-1"><a href="#cite_note-:1-7">[7]</a></sup>, соединённых локальной кольцевой сетью<sup class="reference" id="cite_ref-:2_8-2"><a href="#cite_note-:2-8">[8]</a></sup>. Каждое рабочее место состоит из микро-ЭВМ <b>Электроника МС 0511</b> и монитора — монохромного (МС 6105) или цветного (МС 6106). В состав РМП входили, помимо этого, накопитель на гибких магнитных дисках («Электроника НГМД-6022», «Электроника МС 5309» либо «Электроника МС 5310») и <a href="/wiki/%D0%9F%D1%80%D0%B8%D0%BD%D1%82%D0%B5%D1%80" title="Принтер">принтер</a> (Д-100, <a class="mw-redirect" href="/wiki/Epson" title="Epson">Epson</a> FX-800, <a href="/wiki/Robotron" title="Robotron">Robotron</a> СМ 6329.01 М).
+</p><p>Модификация «Электроника МС 0202.04» включала в себя только рабочее место преподавателя.
+</p>
+<h2><span id=".D0.A2.D0.B5.D1.85.D0.BD.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D1.85.D0.B0.D1.80.D0.B0.D0.BA.D1.82.D0.B5.D1.80.D0.B8.D1.81.D1.82.D0.B8.D0.BA.D0.B8"></span><span class="mw-headline" id="Технические_характеристики">Технические характеристики</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%9C%D0%A1_0511&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Технические характеристики»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%9C%D0%A1_0511&amp;action=edit&amp;section=2" title="Редактировать код раздела «Технические характеристики»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright" style="max-width: 100%; width: 279px;">
+<div class="thumbinner">
+<div style="margin: 1px; width: 269px">
+<div class="thumbimage"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:MC0511-back.jpg"><img alt="" class="mw-file-element" data-file-height="623" data-file-width="2556" decoding="async" height="65" src="//upload.wikimedia.org/wikipedia/ru/thumb/7/79/MC0511-back.jpg/267px-MC0511-back.jpg" srcset="//upload.wikimedia.org/wikipedia/ru/thumb/7/79/MC0511-back.jpg/401px-MC0511-back.jpg 1.5x, //upload.wikimedia.org/wikipedia/ru/thumb/7/79/MC0511-back.jpg/534px-MC0511-back.jpg 2x" width="267"/></a></span>
+</div>
+<div class="thumbcaption" style="clear:left">МС 0511 — вид сзади
+</div>
+</div><div style="margin: 1px; width: 269px">
+<div class="thumbimage"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:MC0511-side.jpg"><img alt="" class="mw-file-element" data-file-height="598" data-file-width="1976" decoding="async" height="81" src="//upload.wikimedia.org/wikipedia/ru/thumb/d/da/MC0511-side.jpg/267px-MC0511-side.jpg" srcset="//upload.wikimedia.org/wikipedia/ru/thumb/d/da/MC0511-side.jpg/401px-MC0511-side.jpg 1.5x, //upload.wikimedia.org/wikipedia/ru/thumb/d/da/MC0511-side.jpg/534px-MC0511-side.jpg 2x" width="267"/></a></span>
+</div><div class="thumbcaption" style="clear:left">МС 0511 — вид слева
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+<div style="clear:both"></div>
+</div>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Uknc_pcb.jpg"><img class="mw-file-element" data-file-height="1944" data-file-width="2592" decoding="async" height="200" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Uknc_pcb.jpg/267px-Uknc_pcb.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Uknc_pcb.jpg/401px-Uknc_pcb.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Uknc_pcb.jpg/534px-Uknc_pcb.jpg 2x" width="267"/></a><figcaption>МС 0511 — системная печатная плата</figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:UKNC_keyboard.svg"><img class="mw-file-element" data-file-height="876" data-file-width="2439" decoding="async" height="108" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/UKNC_keyboard.svg/300px-UKNC_keyboard.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/UKNC_keyboard.svg/450px-UKNC_keyboard.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/UKNC_keyboard.svg/600px-UKNC_keyboard.svg.png 2x" width="300"/></a><figcaption>Клавиатура «Электроника МС 7007»</figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:UKNC_charset.png"><img class="mw-file-element" data-file-height="172" data-file-width="160" decoding="async" height="172" src="//upload.wikimedia.org/wikipedia/ru/e/ec/UKNC_charset.png" width="160"/></a><figcaption>Набор символов УКНЦ — встроенный шрифт</figcaption></figure>
+<p>Изделие «Электроника МС 0511» имело три исполнения, различающихся напряжением питания и наличием контроллера сетевого адаптера:
+</p>
+<ul><li>Электроника МС 0511 — напряжение питания 42 В, контроллер СА У13.065.303</li>
+<li>Электроника МС 0511.01 — напряжение питания 220 В, контроллер СА У13.065.303</li>
+<li>Электроника МС 0511.02 — напряжение питания 220 В, контроллер СА отсутствует</li></ul>
+<p>Основные технические характеристики<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup>:
+</p>
+<ul><li><a href="/wiki/%D0%A6%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80" title="Центральный процессор">Центральный процессор</a> (ЦП): 16-разрядный <a class="mw-redirect" href="/wiki/%D0%9A%D0%9C1801%D0%92%D0%9C2" title="КМ1801ВМ2">КМ1801ВМ2</a> на тактовой частоте 8 МГц (внутренняя частота процессора 4 МГц), быстродействие — около 600 тыс. оп./с</li>
+<li>Периферийный процессор (ПП): КМ1801ВМ2, тактовая частота 6,25 МГц (внутренняя частота процессора 3,125 МГц), быстродействие — около 400 тыс. оп./с</li>
+<li>Память ЦП: <a class="mw-redirect" href="/wiki/%D0%9E%D0%97%D0%A3" title="ОЗУ">ОЗУ</a> — 64 Кбайт, доступно пользователю — 56 Кбайт</li>
+<li>Память ПП: ОЗУ — 32 Кбайт, из них доступно для запуска пользовательских подпрограмм — 22 Кбайт, <a href="/wiki/%D0%9F%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%BD%D0%BE%D0%B5_%D0%B7%D0%B0%D0%BF%D0%BE%D0%BC%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B5%D0%B5_%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE" title="Постоянное запоминающее устройство">ПЗУ</a> — 32 Кбайт (четыре микросхемы масочного ПЗУ 1801РЕ2 с индексами 205..208)</li>
+<li>Видеопамять — 96 Кбайт (3 блока по 32 Кбайт)</li>
+<li>Режимы отображения: текстовый 24 строки по 10/20/40/80 символов (матрица символа — 8×11 точек), графический — 640 × 288 (более низкое разрешение по горизонтали обеспечивается масштабированием в 2, 4 или 8 раз, которое может применяться отдельно к каждой строке), 8 цветов на строку (из палитры 16). Также отображаются 2 дополнительных служебных строки.</li>
+<li><a href="/wiki/%D0%9A%D0%BB%D0%B0%D0%B2%D0%B8%D0%B0%D1%82%D1%83%D1%80%D0%B0" title="Клавиатура">Клавиатура</a>: «Электроника МС 7007», 88 клавиш</li>
+<li>Размеры: «Электроника МС 0511» — 448 × 290 × 80 мм</li>
+<li>Масса: 3,5 кг</li>
+<li>Потребляемая мощность: не более 25 Вт</li></ul>
+<p>Конструктивное исполнение — моноблок; системная плата, плата клавиатуры и блок питания размещаются в пластмассовом корпусе, совмещённом с клавиатурой.
+</p><p>Интерфейсы:
+</p>
+<ul><li>Два видеовыхода (соединены параллельно)</li>
+<li>Параллельный порт для подключения принтера и других устройств по интерфейсам <a href="/wiki/%D0%98%D0%A0%D0%9F%D0%A0" title="ИРПР">ИРПР</a>, ИРПР-М (Centronics)</li>
+<li>Последовательный порт «Стык С2» — функциональный аналог <a href="/wiki/RS-232" title="RS-232">RS-232</a>, с фиксированной скоростью обмена 9600 бит/с</li>
+<li>Интерфейс для подключения бытового магнитофона (скорость обмена — 1200 бит/с)</li>
+<li>Краевой 60-контактный разъём для подключения устройств по протоколу <a href="/wiki/%D0%9C%D0%B0%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B0%D1%80%D0%B0%D0%BB%D0%BB%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81" title="Магистральный параллельный интерфейс">МПИ</a> к магистрали ЦП. Практически единственным устройством был сетевой адаптер:
+<ul><li>Сетевой адаптер (для машин, работающих в составе сети КУВТ УКНЦ<sup class="reference" id="cite_ref-info19906_10-0"><a href="#cite_note-info19906-10">[10]</a></sup>). Построен на основе БИС КР1801ВП1-065<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup>. <a class="mw-redirect" href="/wiki/%D0%9B%D0%BE%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%81%D0%B5%D1%82%D1%8C" title="Локальная сеть">Локальная сеть</a> — двухпроводная <a href="/wiki/%D0%9A%D0%BE%D0%BB%D1%8C%D1%86%D0%BE_(%D1%82%D0%BE%D0%BF%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F_%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%BE%D0%B9_%D1%81%D0%B5%D1%82%D0%B8)" title="Кольцо (топология компьютерной сети)">кольцевая</a>, 57 600 бит/с, с контролем чётности, сетевой адрес 1..63 задавался переключателями на плате адаптера<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup>; обслуживается драйвером <code>MC.SYS</code>.</li></ul></li>
+<li>Два 48-контактных разъёма для подключения различных периферийных устройств к магистрали ПП, в том числе:
+<ul><li>контроллера НГМД — устройство КМД УК (У13.065.013) на основе БИС КР1801ВП1-097 или −128 (обслуживается драйвером <code>MZ.SYS</code>)</li>
+<li>электронного диска (существовали версии объёмом 128 Кбайт, 512 Кбайт и 1 Мбайт)</li>
+<li>различных кассет ПЗУ с интерпретаторами языков программирования Бейсик, Фокал <span class="nowrap">и т. п.</span></li></ul></li></ul>
+<p>В сохранившейся документации<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup> упоминается модификация УКНЦ <b>Электроника МС-0512</b>. Отличия от МС-0511:
+</p>
+<ul><li>размеры: 364 × 206 × 76 мм</li>
+<li>клавиатура: 4.305.302</li>
+<li>интерфейс кассеты ПЗУ — отсутствует</li></ul>
+<p>Информация о запуске в серию отсутствует.
+</p>
+<h2><span id=".D0.9E.D1.81.D0.BE.D0.B1.D0.B5.D0.BD.D0.BD.D0.BE.D1.81.D1.82.D0.B8"></span><span class="mw-headline" id="Особенности">Особенности</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%9C%D0%A1_0511&amp;veaction=edit&amp;section=3" title="Редактировать раздел «Особенности»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%9C%D0%A1_0511&amp;action=edit&amp;section=3" title="Редактировать код раздела «Особенности»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Особенностью УКНЦ является двухмагистральная архитектура с двумя одинаковыми процессорами КМ1801ВМ2. <a href="/wiki/%D0%A6%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80" title="Центральный процессор">Центральный процессор</a> выполняет задачи, определённые программами пользователя, а периферийный процессор выполняет логические функции контроллеров устройств ввода-вывода (клавиатуры, дисплея и др.), но его можно использовать и для запуска пользовательских задач. Между магистралями ЦП и ПП установлен высокоскоростной байтовый параллельный интерфейс обмена командами и данными. Кроме того, из магистрали ПП организован регистровый доступ к ОЗУ ЦП для передачи массивов данных между магистралями на фоне работы ЦП. Похожая архитектура используется в ДВК с <a href="/wiki/%D0%94%D0%B8%D0%B0%D0%BB%D0%BE%D0%B3%D0%BE%D0%B2%D1%8B%D0%B9_%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81#КЦГД" title="Диалоговый вычислительный комплекс">контроллером цветного графического дисплея (КЦГД)</a>.
+</p><p>Другая особенность УКНЦ — организация видеопамяти в три плана по 32 Кбайт с доступом через регистры. Количество используемых планов определяет число одновременно отображаемых цветов: от 2 до 8 (из возможных 16). Регистровый доступ избавляет от необходимости выделять для видеопамяти основное адресное пространство, но замедляет работу. Для ускорения работы есть возможность использовать в качестве видеопамяти непосредственно адресуемую оперативную память. В то же время незадействованные планы видеопамяти можно использовать для хранения данных, например организовав виртуальный диск.
+</p><p>По-видимому, многие классы УКНЦ отличались невысокой надёжностью<sup class="reference" id="cite_ref-Быстров_14-0"><a href="#cite_note-Быстров-14">[14]</a></sup>. Неисправности опытных образцов отмечались ещё на приёмо-сдаточных испытаниях<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup>, но эти замечания не вошли в итоговый акт комиссии.
+Официально, по <a href="/wiki/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F" title="Технические условия">техническим условиям</a> надёжность УКНЦ составляла 10000 часов <a href="/wiki/%D0%9D%D0%B0%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0_%D0%BD%D0%B0_%D0%BE%D1%82%D0%BA%D0%B0%D0%B7" title="Наработка на отказ">наработки на отказ</a>, 5000 часов — для КУВТ в целом<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup>.
+Проверка, проведённая Комитетом народного контроля СССР, показала что наработка на отказ «Электроника МС0511» составляла менее 1 тыс. часов<sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup>.
+Причиной сбоев машины критики называли «несбалансированность тепловых режимов» и перегрев<sup class="reference" id="cite_ref-info19906_10-1"><a href="#cite_note-info19906-10">[10]</a></sup>.
+</p>
+<h2><span id=".D0.9F.D1.80.D0.BE.D0.B3.D1.80.D0.B0.D0.BC.D0.BC.D0.BD.D0.BE.D0.B5_.D0.BE.D0.B1.D0.B5.D1.81.D0.BF.D0.B5.D1.87.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Программное_обеспечение">Программное обеспечение</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%9C%D0%A1_0511&amp;veaction=edit&amp;section=4" title="Редактировать раздел «Программное обеспечение»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%9C%D0%A1_0511&amp;action=edit&amp;section=4" title="Редактировать код раздела «Программное обеспечение»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Uknc_boot_menu.png"><img class="mw-file-element" data-file-height="193" data-file-width="248" decoding="async" height="193" src="//upload.wikimedia.org/wikipedia/commons/e/e4/Uknc_boot_menu.png" width="248"/></a><figcaption>Загрузочное меню УКНЦ</figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Uknc_Zamok_Goblinov.png"><img class="mw-file-element" data-file-height="239" data-file-width="320" decoding="async" height="239" src="//upload.wikimedia.org/wikipedia/ru/b/b2/Uknc_Zamok_Goblinov.png" width="320"/></a><figcaption>Игра «Замок гоблинов»</figcaption></figure>
+<p>Система команд КМ1801ВМ2 — это система команд <a href="/wiki/PDP-11" title="PDP-11">PDP-11</a>, с командами расширенной арифметики (MUL, DIV, ASH, ASHC). Команды арифметики с плавающей запятой (FADD, FSUB, FMUL, FDIV) реализуются программно.
+Тем самым, УКНЦ частично совместим с PDP-11 и другими ЭВМ сходной архитектуры, в частности, с некоторыми машинами <a href="/wiki/%D0%A1%D0%9C_%D0%AD%D0%92%D0%9C" title="СМ ЭВМ">СМ ЭВМ</a>, серией «<a href="/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0-60" title="Электроника-60">Электроника-60</a>», <a href="/wiki/%D0%94%D0%B8%D0%B0%D0%BB%D0%BE%D0%B3%D0%BE%D0%B2%D1%8B%D0%B9_%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81" title="Диалоговый вычислительный комплекс">ДВК</a> и <a href="/wiki/%D0%91%D0%9A_(%D1%81%D0%B5%D0%BC%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%BE_%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BE%D0%B2)" title="БК (семейство компьютеров)">БК</a>. Полной двоичной совместимости с этими компьютерами нет из-за разницы в организации памяти и портов ввода-вывода.
+</p><p>При включении РМП появляется загрузочное меню.
+На РМУ сразу начинается загрузка из сети.
+</p><p>Программное обеспечение УКНЦ включает в себя:
+</p>
+<ul><li>операционная система — <a class="mw-redirect" href="/wiki/%D0%A0%D0%90%D0%A4%D0%9E%D0%A1" title="РАФОС">РАФОС</a>, <a class="new" href="/w/index.php?title=%D0%A0%D0%A3%D0%94%D0%9E%D0%A1&amp;action=edit&amp;redlink=1" title="РУДОС (страница отсутствует)">РУДОС</a>, <a class="mw-redirect" href="/wiki/%D0%A4%D0%9E%D0%94%D0%9E%D0%A1" title="ФОДОС">ФОДОС</a> (клоны <a href="/wiki/RT-11" title="RT-11">RT-11</a>) либо RT11SJ</li>
+<li>управляющая программа локальной сети, для загрузки программ с РМП на РМУ через сеть</li>
+<li>языки программирования — <a class="mw-redirect" href="/wiki/BASIC" title="BASIC">Бейсик</a> (<a href="/wiki/%D0%91%D0%B5%D0%B9%D1%81%D0%B8%D0%BA_%D0%92%D0%B8%D0%BB%D1%8C%D0%BD%D1%8E%D1%81" title="Бейсик Вильнюс">Бейсик Вильнюс</a>, Turbo Basic Олега Герасимова), <a href="/wiki/%D0%9F%D0%B0%D1%81%D0%BA%D0%B0%D0%BB%D1%8C_(%D1%8F%D0%B7%D1%8B%D0%BA_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)" title="Паскаль (язык программирования)">Паскаль</a>, <a href="/wiki/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D0%B0-2" title="Модула-2">Модула-2</a>, <a href="/wiki/%D0%A1%D0%B8_(%D1%8F%D0%B7%D1%8B%D0%BA_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)" title="Си (язык программирования)">Си</a>, <a href="/wiki/%D0%AF%D0%B7%D1%8B%D0%BA_%D0%B0%D1%81%D1%81%D0%B5%D0%BC%D0%B1%D0%BB%D0%B5%D1%80%D0%B0" title="Язык ассемблера">ассемблер</a> MACRO-11, <a class="mw-redirect" href="/wiki/%D0%A0%D0%90%D0%9F%D0%98%D0%A0%D0%90" title="РАПИРА">РАПИРА</a>, <a class="mw-redirect" href="/wiki/%D0%95-%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D1%83%D0%BC" title="Е-практикум">Е-практикум</a>, <a class="mw-redirect" href="/wiki/Lisp" title="Lisp">Lisp</a>, <a href="/wiki/%D0%9B%D0%BE%D0%B3%D0%BE_(%D1%8F%D0%B7%D1%8B%D0%BA_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)" title="Лого (язык программирования)">Лого</a>, <a href="/wiki/%D0%9F%D1%80%D0%BE%D0%BB%D0%BE%D0%B3_(%D1%8F%D0%B7%D1%8B%D0%BA_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)" title="Пролог (язык программирования)">Пролог</a>, <a href="/wiki/%D0%A4%D0%BE%D1%80%D1%82_(%D1%8F%D0%B7%D1%8B%D0%BA_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)" title="Форт (язык программирования)">Форт</a>, <a href="/wiki/%D0%A4%D0%BE%D0%BA%D0%B0%D0%BB" title="Фокал">Фокал</a>, <a href="/wiki/%D0%A4%D0%BE%D1%80%D1%82%D1%80%D0%B0%D0%BD" title="Фортран">Фортран</a></li>
+<li>прикладные программы — текстовые редакторы, электронная таблица, учебная СУБД и др.</li>
+<li>обучающие программы по школьным предметам</li>
+<li>текстовые игры — используют только возможности текстового режима: «Королевство Эйфория», «Сталкер», «Бармен», «Городки» и др.</li>
+<li>графические игры — «Замок гоблинов» (клон <a href="/wiki/Lode_Runner" title="Lode Runner">Lode Runner</a>), Hot Line (<a href="/wiki/Sokoban" title="Sokoban">Sokoban</a>), «Кот-рыболов», «Castle», «Garden» и др.<sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup></li>
+<li>файловый менеджер «PAF Commander» А. Петросяна</li></ul>
+<p>Практически всё программное обеспечение хранилось и распространялось на 5-дюймовых <a href="/wiki/%D0%94%D0%B8%D1%81%D0%BA%D0%B5%D1%82%D0%B0" title="Дискета">дискетах</a>. Практически единственной известной программой, распространяемой на картридже, был «кассетный» вариант Вильнюс Бейсик<sup class="reference" id="cite_ref-batkov_19-0"><a href="#cite_note-batkov-19">[19]</a></sup>.
+</p>
+<h2><span id=".D0.9C.D0.BE.D0.B4.D0.B5.D1.80.D0.BD.D0.B8.D0.B7.D0.B0.D1.86.D0.B8.D1.8F"></span><span class="mw-headline" id="Модернизация">Модернизация</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%9C%D0%A1_0511&amp;veaction=edit&amp;section=5" title="Редактировать раздел «Модернизация»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%9C%D0%A1_0511&amp;action=edit&amp;section=5" title="Редактировать код раздела «Модернизация»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>С 1994 года <a class="external text" href="https://web.archive.org/web/20100712123107/http://www.lintech.ru/solutions/" rel="nofollow">ЗАО «ЛИнТех» («Лаборатория информационных технологий»)</a> выполняло модернизацию классов УКНЦ<sup class="reference" id="cite_ref-20"><a href="#cite_note-20">[20]</a></sup>. Разработка носила название <b>Net-Rt11</b><sup class="reference" id="cite_ref-Быстров_14-1"><a href="#cite_note-Быстров-14">[14]</a></sup><sup class="reference" id="cite_ref-batkov_19-1"><a href="#cite_note-batkov-19">[19]</a></sup>. В качестве головной машины использовался <a href="/wiki/IBM_PC" title="IBM PC">IBM PC</a>-совместимый компьютер со специальной ISA-платой (на базе однокристальной микроЭВМ i8751), подключаемой к сети УКНЦ, модернизировалась сеть. Разработка была основана на аналогичной модернизации для КУВТ «Корвет». В результате скорость работы сети повышалась до 375 Кбит/с, на РМУ появлялась возможность работать в операционной системе RT-11 с доступом к 8 логическим дискам до 16 МБ каждый. Всего было модернизировано 3500 школ.<sup class="reference" id="cite_ref-21"><a href="#cite_note-21">[21]</a></sup> Цена модернизации класса в 1994 году составляла 600 долл.
+</p><p>Для использования совместно с Net-Rt11, ООО «Алтер-Вест» предлагала свою систему <b><a href="/wiki/DOS-Line" title="DOS-Line">DOS-Line</a></b><sup class="reference" id="cite_ref-22"><a href="#cite_note-22">[22]</a></sup>, позволяющую работать с каждого РМУ в режиме «Virtual PC», организовать многотерминальную работу в <a href="/wiki/MS-DOS" title="MS-DOS">MS-DOS</a> и <a href="/wiki/Windows_3.x" title="Windows 3.x">Windows 3.11</a>.
+Net-Rt11 и DOS-Line были рекомендованы Министерством образования РФ для применения в школах<sup class="reference" id="cite_ref-23"><a href="#cite_note-23">[23]</a></sup>.
+</p><p>Другим вариантом модернизации является использование УКНЦ в качестве терминала — через стык С2 специальным кабелем выполняется подключение к последовательному порту компьютера, работающего под управлением <a class="mw-redirect" href="/wiki/GNU/Linux" title="GNU/Linux">Linux</a><sup class="reference" id="cite_ref-24"><a href="#cite_note-24">[24]</a></sup>.
+</p><p>В 1994—1995 годах кооператив «Электронные работы» выпускал адаптер для подключения <a href="/wiki/%D0%96%D1%91%D1%81%D1%82%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B8%D1%81%D0%BA" title="Жёсткий диск">жёсткого диска</a> <a href="/wiki/ATA" title="ATA">IDE</a>, выполненный в виде стандартного модуля расширения. Жёсткий диск для ноутбуков формата 2.5" мог устанавливаться прямо внутри этого модуля. Кооператив также предлагал модернизацию сети <b>NET128</b><sup class="reference" id="cite_ref-batkov_19-2"><a href="#cite_note-batkov-19">[19]</a></sup>.
+</p><p>Серийно выпускался электронный диск на основе <a href="/wiki/%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9_%D0%BC%D0%B0%D1%82%D1%80%D0%B8%D1%87%D0%BD%D1%8B%D0%B9_%D0%BA%D1%80%D0%B8%D1%81%D1%82%D0%B0%D0%BB%D0%BB" title="Базовый матричный кристалл">БМК</a> <a href="/wiki/1515%D0%A5%D0%9C1" title="1515ХМ1">К1515ХМ1</a> и микросхем памяти <a href="/wiki/%D0%9A565%D0%A0%D0%A37" title="К565РУ7">К565РУ7</a> в формате стандартного модуля расширения.
+</p><p>Радиолюбителями также выполнялось подключение к УКНЦ контроллеров MFM и IDE для использования внешних жёстких дисков<sup class="reference" id="cite_ref-batkov_19-3"><a href="#cite_note-batkov-19">[19]</a></sup><sup class="reference" id="cite_ref-25"><a href="#cite_note-25">[25]</a></sup>. Также было несколько вариантов подключения «электронного диска».
+</p>
+<h2><span id=".D0.9B.D0.B8.D1.82.D0.B5.D1.80.D0.B0.D1.82.D1.83.D1.80.D0.B0_.D0.B8_.D0.BF.D1.83.D0.B1.D0.BB.D0.B8.D0.BA.D0.B0.D1.86.D0.B8.D0.B8"></span><span class="mw-headline" id="Литература_и_публикации">Литература и публикации</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%9C%D0%A1_0511&amp;veaction=edit&amp;section=6" title="Редактировать раздел «Литература и публикации»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%9C%D0%A1_0511&amp;action=edit&amp;section=6" title="Редактировать код раздела «Литература и публикации»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="citation"><i>А. Н. Полосин, Н. Г. Карпинский, И. О. Лозовой, А. И. Половянюк, О. В. Ургант, М. И. Дябин.</i> <a class="external text" href="http://www.wdigest.ru/mpss_pdf/1986/mpss-1986-06.pdf" rel="nofollow">Учебный компьютер «Электроника УК НЦ»</a> // <a href="/wiki/%D0%9C%D0%B8%D0%BA%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BD%D1%8B%D0%B5_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%B0_%D0%B8_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B" title="Микропроцессорные средства и системы">Микропроцессорные средства и системы</a>. — 1986. — <span class="nowrap">№ 6</span>. — <span class="nowrap">С. 14—16</span>. — <a class="mw-redirect" href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D0%BD%D1%8B%D0%B9_%D1%81%D0%B5%D1%80%D0%B8%D0%B9%D0%BD%D1%8B%D0%B9_%D0%BD%D0%BE%D0%BC%D0%B5%D1%80" title="Международный стандартный серийный номер">ISSN</a> <a class="external text" href="//www.worldcat.org/search?fq=x0:jrnl&amp;q=n2:0233-4844" rel="nofollow">0233-4844</a>.</span></li>
+<li>В журнале «Информатика и образование» регулярно публиковались статьи, посвящённые УКНЦ. Существовал специальный раздел — «Клуб УКНЦ». Последние публикации датируются 2000 годом.</li>
+<li>Журнал «Персональный компьютер УКНЦ»<sup class="reference" id="cite_ref-26"><a href="#cite_note-26">[26]</a></sup> — выпускался в 1994—1995 годах издательством «Образование и информатика», затем издательством «Компьютика». Всего вышло 7 выпусков журнала (№ 1-3’94 и № 1-4’95).</li>
+<li><span class="citation"><i>Лаборатория Информационных Технологий.</i> <span lang="und"><a class="external text" href="http://uknc.narod.ru/Net-RT11/Net-RT11_User_Manual.doc" rel="nofollow">NET-Rt11 &amp; DOS-Line V2.0, Руководство пользователя</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span> (1996). Дата обращения: 25 октября 2009. <a class="external text" href="https://www.webcitation.org/61CoRiLMF?url=http://uknc.narod.ru/Net-RT11/Net-RT11_User_Manual.doc" rel="nofollow">Архивировано</a> 25 августа 2011 года.</span></li>
+<li><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>Г.А.Батьков, О.А.Батьков.</i> <a class="external text" href="http://zx-pk.ru/showpost.php?p=759733&amp;postcount=1" rel="nofollow">Компьютер УКНЦ: справочник практика</a>. — Москва: «Компьютика», 1996. — 112 с.</span></li></ul>
+<h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Примечания">Примечания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%9C%D0%A1_0511&amp;veaction=edit&amp;section=7" title="Редактировать раздел «Примечания»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%9C%D0%A1_0511&amp;action=edit&amp;section=7" title="Редактировать код раздела «Примечания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://emuverse.ru/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:MS-0511_1994-C00914.jpg" rel="nofollow">Шильдик УКНЦ МС-0511 выпуска 1994 года</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 18 декабря 2023. <a class="external text" href="https://web.archive.org/web/20231218180833/https://emuverse.ru/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:MS-0511_1994-C00914.jpg" rel="nofollow">Архивировано</a> 18 декабря 2023 года.</span></span>
+</li>
+<li id="cite_note-malashevich-2"><span class="mw-cite-backlink">↑ <a href="#cite_ref-malashevich_2-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-malashevich_2-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-malashevich_2-2"><sup><i><b>3</b></i></sup></a> <a href="#cite_ref-malashevich_2-3"><sup><i><b>4</b></i></sup></a> <a href="#cite_ref-malashevich_2-4"><sup><i><b>5</b></i></sup></a></span> <span class="reference-text"><span class="citation"><i>Б.Малашевич.</i> <a class="external text" href="http://www.electronics.ru/journal/article/477" rel="nofollow">Зеленоградские бытовые и школьные компьютеры. Инициатива наказуема исполнением</a> // ЭЛЕКТРОНИКА: Наука, Технология, Бизнес. — 2008. — <span class="nowrap">№ 7</span>. — <span class="nowrap">С. 96—107</span>. <small><a class="external text" href="https://web.archive.org/web/20120203151516/http://www.electronics.ru/journal/article/477" rel="nofollow">Архивировано</a> 3 февраля 2012 года.</small></span></span>
+</li>
+<li id="cite_note-:0-3"><span class="mw-cite-backlink">↑ <a href="#cite_ref-:0_3-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-:0_3-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>Борис Малашевич.</i> <a class="external text" href="https://books.google.ru/books?id=aP57BwAAQBAJ&amp;pg=PA663" rel="nofollow">50 лет отечественной микроэлектронике. Краткие основы и история развития. Выпуск 5</a>. — Litres, 2017-01-12. — С. 663. — 800 с. — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9785457737273">ISBN 9785457737273</a>.</span></span>
+</li>
+<li id="cite_note-ershov7109-4"><span class="mw-cite-backlink">↑ <a href="#cite_ref-ershov7109_4-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-ershov7109_4-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-ershov7109_4-2"><sup><i><b>3</b></i></sup></a></span> <span class="reference-text"><span class="citation"><a class="external text" href="http://ershov.iis.nsk.su/archive/eaindex.asp?lang=1&amp;did=7109" rel="nofollow">КУВТ УКНЦ: Опытный образец принят</a> // Информатика и образование. — 1988. — <span class="nowrap">№ 1</span>. — <span class="nowrap">С. 3—7</span>. <small><a class="external text" href="https://web.archive.org/web/20060728175230/http://ershov.iis.nsk.su/archive/eaindex.asp?lang=1&amp;did=7109" rel="nofollow">Архивировано</a> 28 июля 2006 года.</small></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><span class="citation"><i>Дьяков Ю. Н., Пивоваров А. В., Васенков А. А. .</i> <span lang="und"><a class="external text" href="http://www.computer-museum.ru/histussr/nc_zel35.htm" rel="nofollow">Объединению «Научный центр» — 35 лет</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Виртуальный компьютерный музей. Дата обращения: 17 июня 2009. <a class="external text" href="https://web.archive.org/web/20201006105704/https://www.computer-museum.ru/histussr/nc_zel35.htm" rel="nofollow">Архивировано</a> 6 октября 2020 года.</span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://web.archive.org/web/20141205150544/http://fincoins.spb.ru/oldpc/0511/0511-uds.html" rel="nofollow">Электроника 0511 УДС</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 1 октября 2012. Архивировано из <a class="external text" href="http://fincoins.spb.ru/oldpc/0511/0511-uds.html" rel="nofollow">оригинала</a> 5 декабря 2014 года.</span></span>
+</li>
+<li id="cite_note-:1-7"><span class="mw-cite-backlink">↑ <a href="#cite_ref-:1_7-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-:1_7-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343"><span data-wikidata-qualifier-id="P248">Глава 5 Учебный вычислительный комплекс на базе персональной микроЭВМ «Электроника УК НЦ»</span> // Книга 8. МикроЭВМ в учебных заведениях. — <abbr title="Москва">М.</abbr>: Высшая школа, 1988. — (МикроЭВМ).</span></span>
+</li>
+<li id="cite_note-:2-8"><span class="mw-cite-backlink">↑ <a href="#cite_ref-:2_8-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-:2_8-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-:2_8-2"><sup><i><b>3</b></i></sup></a></span> <span class="reference-text"><span class="citation"><i>Полосин А.Н., Карпинский Н.Г., Лозовой И.О., Половянюк А.И., Ургант О.В., Дябин М.И.</i> <a class="external text" href="http://www.wdigest.ru/mpss_1986.htm" rel="nofollow">Учебный компьютер «Электроника УК НЦ»</a><span class="hidden-ref" style="display:none"> <small class="ref-info" style="cursor:help;" title="на русском языке">(рус.)</small></span> // Микропроцессорные средства и системы : журнал. — 1986. — <span class="nowrap">№ 6</span>. — <span class="nowrap">С. 14—16</span>. — <a class="mw-redirect" href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D0%BD%D1%8B%D0%B9_%D1%81%D0%B5%D1%80%D0%B8%D0%B9%D0%BD%D1%8B%D0%B9_%D0%BD%D0%BE%D0%BC%D0%B5%D1%80" title="Международный стандартный серийный номер">ISSN</a> <a class="external text" href="//www.worldcat.org/search?fq=x0:jrnl&amp;q=n2:0233-4844" rel="nofollow">0233-4844</a>. <small><a class="external text" href="https://web.archive.org/web/20170315235230/http://www.wdigest.ru/mpss_1986.htm" rel="nofollow">Архивировано</a> 15 марта 2017 года.</small></span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://uknc.narod.ru/Strelets/index.htm" rel="nofollow">Электроника МС 0202 Книга 3</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 30 июля 2007. <a class="external text" href="https://web.archive.org/web/20220114172641/http://uknc.narod.ru/Strelets/index.htm" rel="nofollow">Архивировано</a> 14 января 2022 года.</span></span>
+</li>
+<li id="cite_note-info19906-10"><span class="mw-cite-backlink">↑ <a href="#cite_ref-info19906_10-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-info19906_10-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="citation"><i>М. Гуткин, А. Иванов, С. Новосельцев, С. Христочевский.</i> Учебные персональные ЭВМ // Информатика и образование. — 1990. — <span class="nowrap">№ 6</span>. — <span class="nowrap">С. 34</span>.</span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text">Сетевой адаптер разработали канд. техн. наук В. И. Белильников и Ю. И. Волков, инженер В. Г. Шапкин. Подробнее см. <span class="citation"><i>Преснухии Л. Н., Белильников В. И., Волков Ю. И., Ургант О. В., Шапкин В. Г.</i> Адаптер локальной вычислительной сети на базе БИС К1801ВП1-065 // Микропроцессорные средства и системы. — 1986. — <span class="nowrap">№ 6</span>. — <span class="nowrap">С. 57—59 и обложка</span>.</span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><a class="external free" href="https://web.archive.org/web/20150202150531/http://hobot.pdp-11.ru/BIBLIOTEKA/KLASS_UKNC/README" rel="nofollow">https://web.archive.org/web/20150202150531/http://hobot.pdp-11.ru/BIBLIOTEKA/KLASS_UKNC/README</a></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.felixl.com/Uknc_tech_desc" rel="nofollow">Ранний вариант Технического описания УКНЦ</a> <a class="external text" href="https://web.archive.org/web/20081121032223/http://www.felixl.com/Uknc_tech_desc" rel="nofollow">Архивная копия</a> от 21 ноября 2008 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>, содержит сведения об Электроника МС-0512</span>
+</li>
+<li id="cite_note-Быстров-14"><span class="mw-cite-backlink">↑ <a href="#cite_ref-Быстров_14-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-Быстров_14-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="citation"><i>И. И. Быстров.</i> <a class="external text" href="http://www.felixl.com/Uknc_Magazine_1994-01_Lintech" rel="nofollow">«Net-Rt11» — сетевая система для КУВТ «УКНЦ» с IBM-совместимой головной машиной</a> // Журнал «ПК УКНЦ». — 1994. — <span class="nowrap">№ 1</span>. <small><a class="external text" href="https://web.archive.org/web/20130317115945/http://www.felixl.com/Uknc_Magazine_1994-01_Lintech" rel="nofollow">Архивировано</a> 17 марта 2013 года.</small></span></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text"><a class="external text" href="http://ershov.iis.nsk.su/archive/eaimage.asp?lang=1&amp;did=23704&amp;fileid=167329" rel="nofollow">Титов О. Ф. Докладная записка. 1987-10-01</a> <a class="external text" href="https://web.archive.org/web/20140422185207/http://ershov.iis.nsk.su/archive/eaimage.asp?lang=1&amp;did=23704&amp;fileid=167329" rel="nofollow">Архивная копия</a> от 22 апреля 2014 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> — Содержит информацию о представленных опытных образцах КУВТ, продемонстрировавших низкую надёжность на опытных испытаниях.</span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text">Информатика в понятиях и терминах : Кн. для учащихся ст. кл. сред. шк. / [Г. А. Бордовский, В. А. Извозчиков, Ю. В. Исаев, В. В. Морозов]; Под ред. В. А. Извозчикова. — М. : Просвещение, 1991. С. 110</span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><a href="#cite_ref-17">↑</a></span> <span class="reference-text"><span class="citation"><i>Захаров В. Н.</i> <a class="external text" href="http://www.computer-museum.ru/histsoft/informatika_sorucom_2011.htm" rel="nofollow">Школьная информатика в России – техническая база начального периода</a>. — 2011. <small><a class="external text" href="https://web.archive.org/web/20150923210225/http://www.computer-museum.ru/histsoft/informatika_sorucom_2011.htm" rel="nofollow">Архивировано</a> 23 сентября 2015 года.</small></span></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><a href="#cite_ref-18">↑</a></span> <span class="reference-text"><a class="external text" href="http://uk-nc.narod.ru/" rel="nofollow">Мир игр УКНЦ</a> <a class="external text" href="https://web.archive.org/web/20220114172636/http://uk-nc.narod.ru/" rel="nofollow">Архивная копия</a> от 14 января 2022 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> — скриншоты игр УКНЦ</span>
+</li>
+<li id="cite_note-batkov-19"><span class="mw-cite-backlink">↑ <a href="#cite_ref-batkov_19-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-batkov_19-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-batkov_19-2"><sup><i><b>3</b></i></sup></a> <a href="#cite_ref-batkov_19-3"><sup><i><b>4</b></i></sup></a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>Г.А.Батьков, О.А.Батьков.</i> <a class="external text" href="http://zx-pk.ru/showpost.php?p=759733&amp;postcount=1" rel="nofollow">Компьютер УКНЦ: справочник практика</a>. — Москва: «Компьютика», 1996. — 112 с. <small><a class="external text" href="https://web.archive.org/web/20150102111052/http://zx-pk.ru/showpost.php?p=759733&amp;postcount=1" rel="nofollow">Архивировано</a> 2 января 2015 года.</small></span></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><a href="#cite_ref-20">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://github.com/nightgryphon/LInTech-network" rel="nofollow">GitHub - nightgryphon/LInTech-network: Reconstructing USSR school retro PC network by LInTech</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 29 октября 2023. <a class="external text" href="https://web.archive.org/web/20231029014529/https://github.com/nightgryphon/LInTech-network" rel="nofollow">Архивировано</a> 29 октября 2023 года.</span></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><a href="#cite_ref-21">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://web.archive.org/web/20120302202452/http://www.lintech.ru/all-about-us/" rel="nofollow">ЛИНТЕХ / Наша история</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 19 мая 2011. Архивировано из <a class="external text" href="http://www.lintech.ru/all-about-us/" rel="nofollow">оригинала</a> 2 марта 2012 года.</span></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><a href="#cite_ref-22">↑</a></span> <span class="reference-text"><span class="citation"><i>Алтер-Вест.</i> <span lang="und"><a class="external text" href="http://www.uw.ru/about/archive/dos-line/index.khtml" rel="nofollow">Архив разработок компании Алтер-Вест :: DOS-Line</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span> (1998). — информационный листок о продукте. Дата обращения: 19 мая 2011. <a class="external text" href="https://web.archive.org/web/20120225141352/http://www.uw.ru/about/archive/dos-line/" rel="nofollow">Архивировано</a> 25 февраля 2012 года.</span></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><a href="#cite_ref-23">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://web.archive.org/web/20100405030026/http://www.edu.ru/db-mon/mo/Data/d_96/l155.html" rel="nofollow">О модернизации отечественных КУВТ «Корвет» и УКНЦ — документ Минобразования РФ № 155/28 от 13 мая 1996 г.</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span> Российское образование. Дата обращения: 28 марта 2016. Архивировано из <a class="external text" href="http://www.edu.ru/db-mon/mo/Data/d_96/l155.html" rel="nofollow">оригинала</a> 5 апреля 2010 года.</span></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><a href="#cite_ref-24">↑</a></span> <span class="reference-text"><a class="external text" href="http://uk-nc.chat.ru/" rel="nofollow">Работа с Linux на УК-НЦ</a> <a class="external text" href="https://web.archive.org/web/20060618133157/http://uk-nc.chat.ru/" rel="nofollow">Архивная копия</a> от 18 июня 2006 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> (<i>Осторожно! Информация о назначении контактов кабеля УКНЦ на данной странице неверна</i>)</span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><a href="#cite_ref-25">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://uknc.narod.ru/Suvorov/index.htm" rel="nofollow">Материалы по подключению винчестеров</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. uknc.narod.ru. Дата обращения: 28 марта 2016. <a class="external text" href="https://web.archive.org/web/20160413181445/http://uknc.narod.ru/Suvorov/index.htm" rel="nofollow">Архивировано</a> 13 апреля 2016 года.</span></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><a href="#cite_ref-26">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.emuverse.ru/wiki/%D0%A3%D0%9A%D0%9D%D0%A6_%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB" rel="nofollow">Содержание журнала «Персональный компьютер УКНЦ»</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Emuverse.ru. Дата обращения: 28 марта 2016. <a class="external text" href="https://web.archive.org/web/20160325032430/http://www.emuverse.ru/wiki/%D0%A3%D0%9A%D0%9D%D0%A6_%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB" rel="nofollow">Архивировано</a> 25 марта 2016 года.</span></span>
+</li>
+</ol></div></div>
+<h2><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span><span class="mw-headline" id="Ссылки">Ссылки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%9C%D0%A1_0511&amp;veaction=edit&amp;section=8" title="Редактировать раздел «Ссылки»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%9C%D0%A1_0511&amp;action=edit&amp;section=8" title="Редактировать код раздела «Ссылки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="http://uknc.narod.ru/" rel="nofollow">УКНЦ &amp; PDP-11</a> — сборник документов и программного обеспечения УКНЦ</li>
+<li><a class="external text" href="http://uknc.narod.ru/Img/index.htm" rel="nofollow">Электроника МС0511.01 УКНЦ</a> — фотографии</li>
+<li><a class="external text" href="http://archive.pdp-11.org.ru/" rel="nofollow">Архив программ для компьютеров УКНЦ, ДВК и БК.</a>.</li>
+<li><a class="external text" href="https://github.com/nzeemin/ukncbtl" rel="nofollow">UKNCBTL</a> — проект эмулятора УКНЦ с открытым исходным кодом</li>
+<li><a class="external text" href="https://nzeemin.github.io/ukncbtl-online.html" rel="nofollow">Эмулятор УКНЦ онлайн</a> — эмулятор УКНЦ, работающий в браузере</li>
+<li><a class="external text" href="http://www.old-games.ru/forum/showthread.php?p=828719#post828719" rel="nofollow">Эмуляторы УКНЦ и ДВК</a> — обзор эмуляторов и игр</li>
+<li><a class="external text" href="http://www.old-games.ru/forum/attachment.php?attachmentid=21275&amp;d=1394227130" rel="nofollow">Сборник игр 40в1 для УКНЦ и UKNCBTL</a> — образ 800кб дискеты..</li>
+<li><a class="external text" href="http://zx-pk.ru/showpost.php?p=564437&amp;postcount=1" rel="nofollow">Тема посвящённая играм</a> — обсуждение и публикация классических и современных игровых проектов.</li>
+<li><a class="external text" href="http://ershov.iis.nsk.su/archive/eaindex.asp?did=23702" rel="nofollow">Акт государственной комиссии по проведению испытаний базового комплекса вычислительного учебного (КВУ) «Электроника МС 0202»</a>, 1987 г.</li>
+<li><a class="external text" href="http://ershov.iis.nsk.su/archive/eaindex.asp?lang=1&amp;did=7109" rel="nofollow">«КУВТ УКНЦ: опытный образец принят»</a> — интервью с А. П. Ершовым, 6 ноября 1987 г.</li>
+<li>[web.archive.org/web/20140502000129/www.az-libr.ru/Persons/0GN/fe16506c/Books/info/19880219.shtml А. Г. Северный. УКНЦ — по следам государственных комиссий] — критическая статья</li>
+<li><a class="external text" href="http://www.emuverse.ru/wiki/%D0%A3%D0%9A%D0%9D%D0%A6" rel="nofollow">Материалы по УКНЦ на Emuverse.ru</a></li>
+<li><a class="external text" href="http://hobot.pdp-11.ru/EMULATORS/UKNCBTL_HDD/UKNCBTL/UNIX_UKNC/" rel="nofollow">ОС UNIX на УК-НЦ</a></li></ul>
+<div aria-labelledby="ЭВМ_СССР" class="navbox" data-name="Перечень советских компьютеров" role="navigation"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%9F%D0%B5%D1%80%D0%B5%D1%87%D0%B5%D0%BD%D1%8C_%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D1%85_%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BE%D0%B2" title="Перейти к шаблону «Перечень советских компьютеров»"><img alt="Перейти к шаблону «Перечень советских компьютеров»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span></span><div id="ЭВМ_СССР" style="font-size:114%;margin:0 5em"><a class="mw-redirect" href="/wiki/%D0%AD%D0%92%D0%9C" title="ЭВМ">ЭВМ</a> <a class="mw-redirect" href="/wiki/%D0%A1%D0%A1%D0%A1%D0%A0" title="СССР">СССР</a></div></th></tr><tr><td class="navbox-list navbox-odd hlist hlist-items-nowrap" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:6.5em;text-align: center"><a href="/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80_%D0%BE%D0%B1%D1%89%D0%B5%D0%B3%D0%BE_%D0%BD%D0%B0%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D1%8F" title="Компьютер общего назначения">Общие</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1px">Оригинальные</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%90%D1%80%D0%B0%D0%B3%D0%B0%D1%86_(%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80)" title="Арагац (компьютер)">Арагац</a></li>
+<li><a href="/wiki/%D0%91%D0%AD%D0%A1%D0%9C" title="БЭСМ">БЭСМ</a></li>
+<li><a href="/wiki/%D0%92%D0%B5%D1%81%D0%BD%D0%B0_(%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D0%BE-%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0)" title="Весна (электронно-вычислительная машина)">Весна и Снег</a></li>
+<li><a href="/wiki/%D0%9C-1_(%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D0%BE-%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0)" title="М-1 (электронно-вычислительная машина)">М-1</a></li>
+<li><a class="mw-redirect" href="/wiki/%D0%9C-2_(%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D0%BE-%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0)" title="М-2 (электронно-вычислительная машина)">М-2</a></li>
+<li><a class="mw-redirect" href="/wiki/%D0%9C-3_(%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D0%BE-%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0)" title="М-3 (электронно-вычислительная машина)">М-3</a></li>
+<li><a href="/wiki/%D0%9C-220" title="М-220">М-220</a></li>
+<li><a href="/wiki/%D0%9C%D0%B8%D0%BD%D1%81%D0%BA_(%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80)" title="Минск (компьютер)">Минск</a></li>
+<li><a href="/wiki/%D0%9C%D0%AD%D0%A1%D0%9C" title="МЭСМ">МЭСМ</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D0%B8%D1%80%D0%B8_(%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80)" title="Наири (компьютер)">Наири</a></li>
+<li><a href="/wiki/%D0%9F%D1%80%D0%BE%D0%BC%D0%B8%D0%BD%D1%8C_(%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80)" title="Проминь (компьютер)">Проминь</a></li>
+<li><a href="/wiki/%D0%A0%D0%B0%D0%B7%D0%B4%D0%B0%D0%BD_(%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80)" title="Раздан (компьютер)">Раздан</a></li>
+<li><a href="/wiki/%D0%A1%D0%9C_%D0%AD%D0%92%D0%9C" title="СМ ЭВМ">СМ ЭВМ</a></li>
+<li><a href="/wiki/%D0%A1%D1%82%D1%80%D0%B5%D0%BB%D0%B0_(%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D0%BE-%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0)" title="Стрела (электронно-вычислительная машина)">Стрела</a></li>
+<li><a href="/wiki/%D0%A3%D1%80%D0%B0%D0%BB_(%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80)" title="Урал (компьютер)">Урал</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Клоны</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%95%D0%A1_%D0%AD%D0%92%D0%9C" title="ЕС ЭВМ">ЕС ЭВМ</a></li>
+<li><a href="/wiki/%D0%95%D0%A1_%D0%9F%D0%AD%D0%92%D0%9C" title="ЕС ПЭВМ">ЕС ПЭВМ</a></li>
+<li><a href="/wiki/%D0%A1%D0%9C_%D0%AD%D0%92%D0%9C" title="СМ ЭВМ">СМ ЭВМ</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:6.5em;text-align: center"><span class="ts-comment-commentedText" title="Специализированные"><a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0" title="Специализированная вычислительная машина">Спец.</a></span></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="new" href="/w/index.php?title=%D0%9A%D0%B2%D0%B0%D0%BD%D1%82-1_(%D0%A6%D0%98%D0%9C)&amp;action=edit&amp;redlink=1" title="Квант-1 (ЦИМ) (страница отсутствует)">Квант-1</a></li>
+<li><a href="/wiki/%D0%9C%D0%98%D0%A0" title="МИР">МИР</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D1%82%D1%83%D0%BD%D1%8C_(%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80)" title="Сетунь (компьютер)">Сетунь</a></li>
+<li><a href="/wiki/%D0%A6%D0%98%D0%9C-1" title="ЦИМ-1">ЦИМ-1</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:6.5em;text-align: center"><a href="/wiki/%D0%91%D0%AD%D0%A1%D0%9C#ЭВМ_военного_назначения" title="БЭСМ">Военные</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/5%D0%AD92%D0%B1" title="5Э92б">5Э92б</a></li>
+<li><a href="/wiki/%D0%91%D0%AD%D0%A1%D0%9C#5Э26" title="БЭСМ">5Э26</a></li>
+<li><a class="mw-redirect" href="/wiki/5%D0%AD37" title="5Э37">5Э37</a></li>
+<li><a href="/wiki/5%D0%AD53" title="5Э53">5Э53</a></li>
+<li><a href="/wiki/5%D0%AD66" title="5Э66">5Э66</a></li>
+<li><a href="/wiki/%D0%90%D0%BB%D0%BC%D0%B0%D0%B7_(%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80)" title="Алмаз (компьютер)">Алмаз</a></li>
+<li><a href="/wiki/%D0%90%D1%80%D0%B3%D0%BE%D0%BD_(%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80)" title="Аргон (компьютер)">Аргон</a></li>
+<li><a href="/wiki/%D0%9C-9_(%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D0%BE-%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0)" title="М-9 (электронно-вычислительная машина)">М-9</a></li>
+<li><a href="/wiki/%D0%9C-10_(%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D0%BE-%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0)" title="М-10 (электронно-вычислительная машина)">М-10</a></li>
+<li><a href="/wiki/%D0%9C-13_(%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D0%BE-%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0)" title="М-13 (электронно-вычислительная машина)">М-13</a></li>
+<li><a href="/wiki/%D0%9C-20_(%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D0%BE-%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0)" title="М-20 (электронно-вычислительная машина)">М-20</a></li>
+<li><a href="/wiki/%D0%91%D0%AD%D0%A1%D0%9C#М-40" title="БЭСМ">М-40</a></li>
+<li><a href="/wiki/%D0%9C-50_(%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80)" title="М-50 (компьютер)">М-50</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%90340%D0%90&amp;action=edit&amp;redlink=1" title="А340А (страница отсутствует)">А340А</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%A2340%D0%90&amp;action=edit&amp;redlink=1" title="Т340А (страница отсутствует)">Т340А</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%9A340%D0%90&amp;action=edit&amp;redlink=1" title="К340А (страница отсутствует)">К340А</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%9B%D0%B8%D0%B4%D0%B5%D1%80_(%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80)&amp;action=edit&amp;redlink=1" title="Лидер (компьютер) (страница отсутствует)">Лидер</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%A0%D0%B0%D0%B4%D0%BE%D0%BD_(%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80)&amp;action=edit&amp;redlink=1" title="Радон (компьютер) (страница отсутствует)">Радон</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:6.5em;text-align: center"><span class="ts-comment-commentedText" title="Промышленные"><a href="/wiki/%D0%9F%D1%80%D0%BE%D0%BC%D1%8B%D1%88%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80" title="Промышленный компьютер">Пром.</a></span></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%94%D0%BD%D0%B5%D0%BF%D1%80_(%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D0%BE-%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0)" title="Днепр (электронно-вычислительная машина)">Днепр</a></li>
+<li><a href="/wiki/%D0%9A%D0%92%D0%9C-1" title="КВМ-1">КВМ-1</a></li>
+<li><a href="/wiki/%D0%9A%D0%B8%D0%B5%D0%B2_(%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80)" title="Киев (компьютер)">Киев</a></li>
+<li><a href="/wiki/%D0%9C%D0%9F%D0%9F%D0%98-1" title="МППИ-1">МППИ-1</a></li>
+<li><a href="/wiki/%D0%A0%D1%83%D1%82%D0%B0-110" title="Рута-110">Рута-110</a></li>
+<li>УМ
+<ul><li><a href="/wiki/%D0%A3%D0%9C-1" title="УМ-1">1</a></li>
+<li><a href="/wiki/%D0%A3%D0%9C-1%D0%9D%D0%A5" title="УМ-1НХ">1НХ</a></li>
+<li><a href="/wiki/%D0%A3%D0%9C-2" title="УМ-2">2</a></li></ul></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:6.5em;text-align: center"><span class="ts-comment-commentedText" title="Бортовые цифровые вычислительные машины"><a href="/wiki/%D0%91%D0%BE%D1%80%D1%82%D0%BE%D0%B2%D0%B0%D1%8F_%D1%86%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0" title="Бортовая цифровая вычислительная машина">БЦВМ</a></span></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%90%D1%80%D0%B3%D0%BE%D0%BD_(%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80)" title="Аргон (компьютер)">Аргон</a></li>
+<li><a href="/wiki/%D0%93%D0%BD%D0%BE%D0%BC_(%D0%91%D0%A6%D0%92%D0%9C)" title="Гном (БЦВМ)">Гном</a></li>
+<li><a href="/wiki/%D0%91%D0%A6%D0%92%D0%9C_%D0%9E%D1%80%D0%B1%D0%B8%D1%82%D0%B0" title="БЦВМ Орбита">Орбита</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%91%D0%A6%D0%92%D0%9C_%D1%81%D0%B5%D1%80%D0%B8%D0%B8_%D0%90&amp;action=edit&amp;redlink=1" title="БЦВМ серии А (страница отсутствует)">серии А</a></li>
+<li><a href="/wiki/%D0%91%D0%A6%D0%92%D0%9C_%D1%81%D0%B5%D1%80%D0%B8%D0%B8_%D0%A6" title="БЦВМ серии Ц">серии Ц</a>
+<ul><li><a href="/wiki/%D0%A6%D0%92%D0%9C-101" title="ЦВМ-101">ЦВМ-101</a></li></ul></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:6.5em;text-align: center"><a href="/wiki/%D0%A1%D1%83%D0%BF%D0%B5%D1%80%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80" title="Суперкомпьютер">СуперЭВМ</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%91%D0%AD%D0%A1%D0%9C-6" title="БЭСМ-6">БЭСМ-6</a></li>
+<li><a href="/wiki/%D0%95%D0%A1-2701" title="ЕС-2701">ЕС-2701</a></li>
+<li><a href="/wiki/%D0%9C%D0%90%D0%A0%D0%A1_(%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80)" title="МАРС (компьютер)">МАРС</a></li>
+<li><a href="/wiki/%D0%9F%D0%A1-2000" title="ПС-2000">ПС-2000</a></li>
+<li><a href="/wiki/%D0%9F%D0%A1-3000" title="ПС-3000">ПС-3000</a></li>
+<li><a class="mw-redirect" href="/wiki/%D0%A1%D0%92%D0%A1_(%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80)" title="СВС (компьютер)">СВС</a></li>
+<li><a href="/wiki/%D0%AD%D0%BB%D1%8C%D0%B1%D1%80%D1%83%D1%81_(%D1%81%D0%B5%D0%BC%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%BE_%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BE%D0%B2)" title="Эльбрус (семейство компьютеров)">Эльбрус</a></li>
+<li><a href="/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%A1%D0%A1_%D0%91%D0%98%D0%A1" title="Электроника СС БИС">Электроника СС БИС</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd hlist hlist-items-nowrap" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup" style="text-align: center;"><div id="Персональные_и_учебные" style="font-size:114%;margin:0 5em"><small><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D1%85_%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8%D1%85_%D0%B8_%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D1%8B%D1%85_%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BE%D0%B2" title="Список советских домашних и учебных компьютеров">Персональные и учебные</a></small></div></th></tr><tr><td class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:6.5em;text-align: center"><span class="ts-comment-commentedText" title="PDP-11-совместимые"><a href="/wiki/PDP-11" title="PDP-11">PDP-11</a></span></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%94%D0%B8%D0%B0%D0%BB%D0%BE%D0%B3%D0%BE%D0%B2%D1%8B%D0%B9_%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81" title="Диалоговый вычислительный комплекс">ДВК</a></li>
+<li><a href="/wiki/%D0%9D%D0%B5%D0%BC%D0%B8%D0%B3%D0%B0_(%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80)" title="Немига (компьютер)">Немига</a></li>
+<li><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7-%D0%9D%D0%B5%D0%BE%D0%BD_%D0%9F%D0%9A-11/16" title="Союз-Неон ПК-11/16">Союз-Неон ПК-11/16</a></li>
+<li><a class="mw-selflink selflink">УКНЦ</a></li>
+<li>«<a href="/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_(%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BC%D0%B0%D1%80%D0%BA%D0%B0)#Компьютерная_техника" title="Электроника (торговая марка)">Электроника</a>»
+<ul><li><a href="/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0-60" title="Электроника-60">60</a></li>
+<li><a href="/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%9C%D0%A1_0515" title="Электроника МС 0515">0515</a></li>
+<li><a href="/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_85" title="Электроника 85">85</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_88&amp;action=edit&amp;redlink=1" title="Электроника 88 (страница отсутствует)">88</a></li></ul></li>
+<li><a href="/wiki/%D0%91%D0%9A_(%D1%81%D0%B5%D0%BC%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%BE_%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BE%D0%B2)" title="БК (семейство компьютеров)">БК</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:6.5em;text-align: center"><span class="ts-comment-commentedText" title="IBM PC-совместимые"><a class="mw-redirect" href="/wiki/IBM_PC-%D1%81%D0%BE%D0%B2%D0%BC%D0%B5%D1%81%D1%82%D0%B8%D0%BC%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80" title="IBM PC-совместимый компьютер">IBM PC</a></span></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%90%D1%81%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BD%D1%82_(%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80)" title="Ассистент (компьютер)">Ассистент</a></li>
+<li><a href="/wiki/%D0%95%D0%A1_%D0%9F%D0%AD%D0%92%D0%9C" title="ЕС ПЭВМ">ЕС ПЭВМ</a></li>
+<li><a href="/wiki/%D0%98%D1%81%D0%BA%D1%80%D0%B0-1030" title="Искра-1030">Искра-1030</a></li>
+<li><a href="/wiki/%D0%9A%D0%B2%D0%B0%D0%B7%D0%B0%D1%80-86" title="Квазар-86">Квазар-86</a></li>
+<li><a class="mw-redirect" href="/wiki/%D0%9A%D0%9E%D0%9C%D0%9F%D0%90%D0%9D" title="КОМПАН">КОМПАН</a></li>
+<li><a href="/wiki/%D0%9C%D0%9A-88" title="МК-88">МК-88</a></li>
+<li><a href="/wiki/%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D0%BD_%D0%989.66" title="Нейрон И9.66">Нейрон И9.66</a></li>
+<li><a href="/wiki/%D0%9F%D0%BE%D0%B8%D1%81%D0%BA_(%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80)" title="Поиск (компьютер)">Поиск</a></li>
+<li><a href="/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_(%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BC%D0%B0%D1%80%D0%BA%D0%B0)#Компьютерная_техника" title="Электроника (торговая марка)">Электроника</a>
+<ul><li><a href="/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%9C%D0%A1_1502" title="Электроника МС 1502">МС 1502</a></li>
+<li><a href="/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%9C%D0%A1_1504" title="Электроника МС 1504">МС 1504</a></li>
+<li><a href="/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_901" title="Электроника 901">901</a></li></ul></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:6.5em;text-align: center"><span class="ts-comment-commentedText" title="Клоны и копии"><a href="/wiki/%D0%9A%D0%BB%D0%BE%D0%BD%D1%8B_ZX_Spectrum#СССР/Россия/СНГ" title="Клоны ZX Spectrum">ZX Spectrum</a></span></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%91%D0%B0%D0%B9%D1%82_(%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80)" title="Байт (компьютер)">Байт</a></li>
+<li><a href="/wiki/%D0%94%D1%83%D0%B1%D0%BD%D0%B0_48%D0%9A" title="Дубна 48К">Дубна 48К</a></li>
+<li><a class="mw-redirect" href="/wiki/%D0%94%D0%B5%D0%BB%D1%8C%D1%82%D0%B0-%D0%A1" title="Дельта-С">Дельта-С</a></li>
+<li><a href="/wiki/%D0%98%D1%81%D0%BA%D1%80%D0%B0-1085" title="Искра-1085">Искра-1085</a></li>
+<li><a href="/wiki/%D0%9A%D0%B2%D0%BE%D1%80%D1%83%D0%BC_(%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80)" title="Кворум (компьютер)">Кворум</a></li>
+<li><a class="mw-redirect" href="/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D1%8C%D0%BE%D0%BD_(%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80)" title="Компаньон (компьютер)">Компаньон</a></li>
+<li><a href="/wiki/%D0%9E%D1%80%D0%B5%D0%BB%D1%8C_%D0%91%D0%9A-08" title="Орель БК-08">Орель БК-08</a></li>
+<li><a href="/wiki/%D0%9F%D0%B5%D0%BD%D1%82%D0%B0%D0%B3%D0%BE%D0%BD_(%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80)" title="Пентагон (компьютер)">Пентагон</a></li>
+<li><a class="mw-redirect" href="/wiki/%D0%A0%D0%B0%D1%82%D0%BE%D0%BD-9003" title="Ратон-9003">Ратон-9003</a></li>
+<li><a href="/wiki/%D0%A1%D0%B8%D0%BC%D0%B2%D0%BE%D0%BB_(%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80)" title="Символ (компьютер)">Символ</a></li>
+<li><a href="/wiki/%D0%A4%D0%BE%D0%B1%D0%BE%D1%81_%D0%91%D0%9A-01" title="Фобос БК-01">Фобос БК-01</a></li>
+<li><a href="/wiki/%D0%A5%D0%BE%D0%B1%D0%B1%D0%B8%D1%82_(%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80)" title="Хоббит (компьютер)">Хоббит</a></li>
+<li><a href="/wiki/ALF_TV_Game" title="ALF TV Game">ALF TV Game</a></li>
+<li><a href="/wiki/ATM_Turbo" title="ATM Turbo">ATM Turbo</a></li>
+<li><a href="/wiki/Scorpion_(%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80)" title="Scorpion (компьютер)">Scorpion</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:6.5em;text-align: center">На базе<br/><a href="/wiki/%D0%9A%D0%A0580%D0%92%D0%9C80%D0%90" title="КР580ВМ80А">КР580ВМ80А</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%90%D0%BF%D0%BE%D0%B3%D0%B5%D0%B9_%D0%91%D0%9A-01" title="Апогей БК-01">Апогей БК-01</a></li>
+<li><a href="/wiki/%D0%91%D0%B0%D1%88%D0%BA%D0%B8%D1%80%D0%B8%D1%8F-2%D0%9C" title="Башкирия-2М">Башкирия-2М</a></li>
+<li><a href="/wiki/%D0%92%D0%B5%D0%BA%D1%82%D0%BE%D1%80-06%D0%A6" title="Вектор-06Ц">Вектор-06Ц</a></li>
+<li><a href="/wiki/%D0%98%D1%80%D0%B8%D1%88%D0%B0" title="Ириша">Ириша</a></li>
+<li><a href="/wiki/%D0%98%D1%81%D0%BA%D1%80%D0%B0_1080_%D0%A2%D0%B0%D1%80%D1%82%D1%83" title="Искра 1080 Тарту">Искра 1080 Тарту</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D1%80%D0%B2%D0%B5%D1%82_(%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80)" title="Корвет (компьютер)">Корвет</a> (Контур, Нейва, Квант-8, Орбита)</li>
+<li><a href="/wiki/%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B0_(%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80)" title="Криста (компьютер)">Криста</a></li>
+<li><a href="/wiki/%D0%9B%D0%B8%D0%BA_(%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80)" title="Лик (компьютер)">ЛИК</a></li>
+<li><a href="/wiki/%D0%9C%D0%B8%D0%BA%D1%80%D0%BE-80" title="Микро-80">Микро-80</a></li>
+<li><a href="/wiki/%D0%9C%D0%B8%D0%BA%D1%80%D0%BE%D1%88%D0%B0" title="Микроша">Микроша</a></li>
+<li><a href="/wiki/%D0%9F%D0%9A-01_%C2%AB%D0%9B%D1%8C%D0%B2%D0%BE%D0%B2%C2%BB" title="ПК-01 «Львов»">Львов ПК-01</a></li>
+<li><a href="/wiki/%D0%9E%D0%BA%D0%B5%D0%B0%D0%BD-240" title="Океан-240">Океан-240</a></li>
+<li><a href="/wiki/%D0%9E%D1%80%D0%B8%D0%BE%D0%BD-128" title="Орион-128">Орион-128</a></li>
+<li><a href="/wiki/%D0%9F%D0%B0%D1%80%D1%82%D0%BD%D1%91%D1%80_01.01" title="Партнёр 01.01">Партнёр 01.01</a></li>
+<li><a href="/wiki/%D0%9F%D0%9A8000" title="ПК8000">ПК8000</a> (Веста, Сура, Хобби)</li>
+<li><a href="/wiki/%D0%A0%D0%B0%D0%B4%D0%B8%D0%BE-86%D0%A0%D0%9A" title="Радио-86РК">Радио-86РК</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B5%D0%BA%D1%82%D1%80-001_(%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80)" title="Спектр-001 (компьютер)">Спектр-001</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82_(%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80)" title="Специалист (компьютер)">Специалист</a></li>
+<li><a href="/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%9A%D0%A0" title="Электроника КР">Электроника КР</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%AE%D0%A2-88&amp;action=edit&amp;redlink=1" title="ЮТ-88 (страница отсутствует)">ЮТ-88</a></li>
+<li><a href="/wiki/%D0%AE%D0%BD%D0%B8%D0%BE%D1%80_%D0%A4%D0%92-6506" title="Юниор ФВ-6506">Юниор ФВ-6506</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:6.5em;text-align: center"><span class="ts-comment-commentedText" title="серийно выпускавшиеся">Прочие</span></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%90%D0%B3%D0%B0%D1%82_(%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80)" title="Агат (компьютер)">Агат</a></li>
+<li><a href="/wiki/%D0%91%D0%B5%D1%81%D1%82%D0%B0_(%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80)" title="Беста (компьютер)">Беста</a></li>
+<li><a href="/wiki/%D0%98%D1%81%D0%BA%D1%80%D0%B0_226" title="Искра 226">Искра 226</a></li>
+<li><a href="/wiki/%D0%98%D1%81%D0%BA%D1%80%D0%B0-1256" title="Искра-1256">Искра-1256</a></li>
+<li><a href="/wiki/%D0%98%D1%81%D1%82%D1%80%D0%B0-4816" title="Истра-4816">Истра-4816</a></li>
+<li><a href="/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_(%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BC%D0%B0%D1%80%D0%BA%D0%B0)#Компьютерная_техника" title="Электроника (торговая марка)">Электроника</a>
+<ul><li><a href="/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%943-28" title="Электроника Д3-28">Д3-28</a></li>
+<li><a href="/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%9D%D0%A6" title="Электроника НЦ">НЦ</a></li>
+<li><a href="/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%A23-29" title="Электроника Т3-29">Т3-29</a></li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr></tbody></table></div>
+<table class="mbox-Спам-ссылки plainlinks metadata ambox ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Emblem-important.svg"><img alt="" class="mw-file-element" data-file-height="48" data-file-width="48" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Emblem-important.svg/40px-Emblem-important.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Emblem-important.svg/60px-Emblem-important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Emblem-important.svg/80px-Emblem-important.svg.png 2x" width="40"/></a></span></div></td><td class="mbox-text"><div class="mbox-text-div">Некоторые <b>внешние ссылки</b> в этой статье <b>ведут на сайты, занесённые в <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D1%81%D0%BF%D0%B0%D0%BC-%D0%BB%D0%B8%D1%81%D1%82%D0%B0" title="Википедия:Изменение спам-листа">спам-лист</a></b></div><div class="mbox-textsmall-div hide-when-compact" style="font-size:85%"><span class="hide-when-compact"> Эти сайты могут нарушать авторские права, быть признаны <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D1%82%D0%BD%D1%8B%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8" title="Википедия:Авторитетные источники">неавторитетными источниками</a> или по другим причинам быть запрещены в Википедии. Редакторам следует заменить такие ссылки <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8" title="Википедия:Внешние ссылки">ссылками на соответствующие правилам сайты</a> или библиографическими ссылками на печатные источники либо удалить их (возможно, вместе с подтверждаемым ими содержимым).
+  <div class="mw-collapsible mw-collapsed has-collapsible-header ts-Скрытый_блок ts-Скрытый_блок-transparent ts-Скрытый_блок-rightHideLink" style="font-size:100%;"><div class="ts-Скрытый_блок-title collapsible-header" style="">Список проблемных ссылок</div><div class="mw-collapsible-content" style="">
+<p class="mw-empty-elt">
+</p>
+<ul><li><a class="external free" href="https://web.archive.org/web/20140502000129/http://www.az-libr.ru/Persons/0GN/fe16506c/Books/info/19880219.shtml" rel="nofollow">https://web.archive.org/web/20140502000129/http://www.az-libr.ru/Persons/0GN/fe16506c/Books/info/19880219.shtml</a></li></ul>
+</div></div></span></div></td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐5ddd5d9c49‐gwhp5
+Cached time: 20240223195305
+Cache expiry: 533217
+Reduced expiry: true
+Complications: [show‐toc]
+CPU time usage: 0.466 seconds
+Real time usage: 0.611 seconds
+Preprocessor visited node count: 10655/1000000
+Post‐expand include size: 130197/2097152 bytes
+Template argument size: 16921/2097152 bytes
+Highest expansion depth: 19/100
+Expensive parser function count: 9/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 37151/5000000 bytes
+Lua time usage: 0.168/10.000 seconds
+Lua memory usage: 8517877/52428800 bytes
+Number of Wikibase entities loaded: 10/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  519.421      1 -total
+ 33.09%  171.869      1 Шаблон:Карточка_компьютера
+ 29.89%  155.274      1 Шаблон:Карточка
+ 19.95%  103.609      1 Шаблон:Примечания
+ 17.03%   88.450      8 Шаблон:Статья
+ 14.70%   76.380      1 Шаблон:Спам-ссылки
+ 13.77%   71.541      1 Шаблон:Ambox
+  9.61%   49.893      1 Шаблон:Перечень_советских_компьютеров
+  9.48%   49.221     13 Шаблон:Бсокр
+  9.18%   47.662      1 Шаблон:Навигационная_таблица_с_блоками
+-->
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:79392-0!canonical and timestamp 20240223195305 and revision id 135378499. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> -->
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Электроника_МС_0511&amp;oldid=135378499">https://ru.wikipedia.org/w/index.php?title=Электроника_МС_0511&amp;oldid=135378499</a></div></div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%BE%D1%8F%D0%B2%D0%B8%D0%BB%D0%B8%D1%81%D1%8C_%D0%B2_1987_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:Появились в 1987 году">Появились в 1987 году</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D1%8B_%D0%A1%D0%A1%D0%A1%D0%A0" title="Категория:Компьютеры СССР">Компьютеры СССР</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:PDP-11" title="Категория:PDP-11">PDP-11</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%BE%D1%8F%D0%B2%D0%B8%D0%BB%D0%B8%D1%81%D1%8C_%D0%B2_1987_%D0%B3%D0%BE%D0%B4%D1%83_%D0%B2_%D0%A1%D0%A1%D0%A1%D0%A0" title="Категория:Появились в 1987 году в СССР">Появились в 1987 году в СССР</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%BD%D0%B5_%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD_%D1%8F%D0%B7%D1%8B%D0%BA)" title="Категория:Википедия:Cite web (не указан язык)">Википедия:Cite web (не указан язык)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B,_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D0%B2%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_ISBN" title="Категория:Страницы, использующие волшебные ссылки ISBN">Страницы, использующие волшебные ссылки ISBN</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%A0%D0%9E:%D0%98%D0%A2:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:ПРО:ИТ:Статьи по алфавиту">ПРО:ИТ:Статьи по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%A0%D0%9E:%D0%98%D0%A2:%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D1%8F%D1%8F_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:_%D0%B2_%D1%82%D0%B5%D0%BA%D1%83%D1%89%D0%B5%D0%BC_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:ПРО:ИТ:Последняя правка: в текущем году">ПРО:ИТ:Последняя правка: в текущем году</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D0%B8%D1%82%D1%8C_webcitation-%D0%B0%D1%80%D1%85%D0%B8%D0%B2:_deadlink_no)" title="Категория:Википедия:Cite web (заменить webcitation-архив: deadlink no)">Википедия:Cite web (заменить webcitation-архив: deadlink no)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81%D0%BE_%D1%81%D0%BF%D0%B0%D0%BC-%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8" title="Категория:Википедия:Статьи со спам-ссылками">Википедия:Статьи со спам-ссылками</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B0%D0%BC%D0%B8_%D0%BD%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D1%82%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Википедия:Статьи с шаблонами недостатков по алфавиту">Википедия:Статьи с шаблонами недостатков по алфавиту</a></li></ul></div></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Навигация</h2>
+<div id="mw-head">
+<nav aria-labelledby="p-personal-label" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" id="p-personal" role="navigation">
+<h3 class="vector-menu-heading" id="p-personal-label">
+<span class="vector-menu-heading-label">Персональные инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="pt-anonuserpage"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li class="mw-list-item" id="pt-anontalk"><a accesskey="n" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]"><span>Обсуждение</span></a></li><li class="mw-list-item" id="pt-anoncontribs"><a accesskey="y" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]"><span>Вклад</span></a></li><li class="mw-list-item" id="pt-createaccount"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0+%D0%9C%D0%A1+0511" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li class="mw-list-item" id="pt-login"><a accesskey="o" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0+%D0%9C%D0%A1+0511" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]"><span>Войти</span></a></li>
+</ul>
+</div>
+</nav>
+<div id="left-navigation">
+<nav aria-labelledby="p-namespaces-label" class="mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-namespaces" role="navigation">
+<h3 class="vector-menu-heading" id="p-namespaces-label">
+<span class="vector-menu-heading-label">Пространства имён</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-nstab-main"><a accesskey="c" href="/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%9C%D0%A1_0511" title="Просмотреть контентную страницу [c]"><span>Статья</span></a></li><li class="mw-list-item" id="ca-talk"><a accesskey="t" href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%9C%D0%A1_0511" rel="discussion" title="Обсуждение основной страницы [t]"><span>Обсуждение</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-variants-label" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" id="p-variants" role="navigation">
+<input aria-haspopup="true" aria-labelledby="p-variants-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-variants" id="p-variants-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-variants-label">
+<span class="vector-menu-heading-label">русский</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+</div>
+<div id="right-navigation">
+<nav aria-labelledby="p-views-label" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-views" role="navigation">
+<h3 class="vector-menu-heading" id="p-views-label">
+<span class="vector-menu-heading-label">Просмотры</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-view"><a href="/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%9C%D0%A1_0511"><span>Читать</span></a></li><li class="mw-list-item" id="ca-ve-edit"><a accesskey="v" href="/w/index.php?title=%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%9C%D0%A1_0511&amp;veaction=edit" title="Редактировать данную страницу [v]"><span>Править</span></a></li><li class="collapsible mw-list-item" id="ca-edit"><a accesskey="e" href="/w/index.php?title=%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%9C%D0%A1_0511&amp;action=edit" title="Править исходный текст этой страницы [e]"><span>Править код</span></a></li><li class="mw-list-item" id="ca-history"><a accesskey="h" href="/w/index.php?title=%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%9C%D0%A1_0511&amp;action=history" title="Журнал изменений страницы [h]"><span>История</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-cactions-label" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" id="p-cactions" role="navigation" title="Больше возможностей">
+<input aria-haspopup="true" aria-labelledby="p-cactions-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-cactions" id="p-cactions-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-cactions-label">
+<span class="vector-menu-heading-label">Ещё</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+<div class="vector-search-box-vue vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box" id="p-search" role="search">
+<h3>Поиск</h3>
+<form action="/w/index.php" class="vector-search-box-form" id="searchform">
+<div class="vector-search-box-inner" data-search-loc="header-navigation" id="simpleSearch">
+<input accesskey="f" aria-label="Искать в Википедии" autocapitalize="sentences" class="vector-search-box-input" id="searchInput" name="search" placeholder="Искать в Википедии" title="Искать в Википедии [f]" type="search"/>
+<input name="title" type="hidden" value="Служебная:Поиск"/>
+<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Найти страницы, содержащие указанный текст" type="submit" value="Найти"/>
+<input class="searchButton" id="searchButton" name="go" title="Перейти к странице, имеющей в точности такое название" type="submit" value="Перейти"/>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="vector-legacy-sidebar" id="mw-panel">
+<div id="p-logo" role="banner">
+<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу"></a>
+</div>
+<nav aria-labelledby="p-navigation-label" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" id="p-navigation" role="navigation">
+<h3 class="vector-menu-heading" id="p-navigation-label">
+<span class="vector-menu-heading-label">Навигация</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-mainpage-description"><a accesskey="z" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]"><span>Заглавная страница</span></a></li><li class="mw-list-item" id="n-content"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li class="mw-list-item" id="n-featured"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li class="mw-list-item" id="n-randompage"><a accesskey="x" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]"><span>Случайная статья</span></a></li><li class="mw-list-item" id="n-currentevents"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li class="mw-list-item" id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-participation-label" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" id="p-participation" role="navigation">
+<h3 class="vector-menu-heading" id="p-participation-label">
+<span class="vector-menu-heading-label">Участие</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-bug_in_article"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li class="mw-list-item" id="n-introduction"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li class="mw-list-item" id="n-portal"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li class="mw-list-item" id="n-forum"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li class="mw-list-item" id="n-recentchanges"><a accesskey="r" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]"><span>Свежие правки</span></a></li><li class="mw-list-item" id="n-newpages"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li class="mw-list-item" id="n-help"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-tb-label" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" id="p-tb" role="navigation">
+<h3 class="vector-menu-heading" id="p-tb-label">
+<span class="vector-menu-heading-label">Инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="t-whatlinkshere"><a accesskey="j" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%9C%D0%A1_0511" title="Список всех страниц, ссылающихся на данную [j]"><span>Ссылки сюда</span></a></li><li class="mw-list-item" id="t-recentchangeslinked"><a accesskey="k" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%9C%D0%A1_0511" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]"><span>Связанные правки</span></a></li><li class="mw-list-item" id="t-specialpages"><a accesskey="q" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]"><span>Служебные страницы</span></a></li><li class="mw-list-item" id="t-permalink"><a href="/w/index.php?title=%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%9C%D0%A1_0511&amp;oldid=135378499" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li class="mw-list-item" id="t-info"><a href="/w/index.php?title=%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%9C%D0%A1_0511&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li class="mw-list-item" id="t-cite"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%9C%D0%A1_0511&amp;id=135378499&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li class="mw-list-item" id="t-urlshortener"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%25AD%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2582%25D1%2580%25D0%25BE%25D0%25BD%25D0%25B8%25D0%25BA%25D0%25B0_%25D0%259C%25D0%25A1_0511"><span>Получить короткий URL</span></a></li><li class="mw-list-item" id="t-urlshortener-qrcode"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%25AD%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2582%25D1%2580%25D0%25BE%25D0%25BD%25D0%25B8%25D0%25BA%25D0%25B0_%25D0%259C%25D0%25A1_0511"><span>Скачать QR-код</span></a></li><li class="mw-list-item" id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q3721335" title="Ссылка на связанный элемент репозитория данных [g]"><span>Элемент Викиданных</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-coll-print_export-label" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" id="p-coll-print_export" role="navigation">
+<h3 class="vector-menu-heading" id="p-coll-print_export-label">
+<span class="vector-menu-heading-label">Печать/экспорт</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="coll-download-as-rl"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%9C%D0%A1_0511&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li class="mw-list-item" id="t-print"><a accesskey="p" href="/w/index.php?title=%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%9C%D0%A1_0511&amp;printable=yes" title="Версия этой страницы для печати [p]"><span>Версия для печати</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-wikibase-otherprojects-label" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal vector-menu" id="p-wikibase-otherprojects" role="navigation">
+<h3 class="vector-menu-heading" id="p-wikibase-otherprojects-label">
+<span class="vector-menu-heading-label">В других проектах</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:UKNC" hreflang="en"><span>Викисклад</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-lang-label" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" id="p-lang" role="navigation">
+<h3 class="vector-menu-heading" id="p-lang-label">
+<span class="vector-menu-heading-label">На других языках</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="interlanguage-link interwiki-en mw-list-item"><a class="interlanguage-link-target" href="https://en.wikipedia.org/wiki/UKNC" hreflang="en" lang="en" title="UKNC — английский"><span>English</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/UKNC" hreflang="et" lang="et" title="UKNC — эстонский"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Elektronika_MS_0511" hreflang="fr" lang="fr" title="Elektronika MS 0511 — французский"><span>Français</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/%C4%96lektronika_MS_0511" hreflang="it" lang="it" title="Ėlektronika MS 0511 — итальянский"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/UKNC" hreflang="ja" lang="ja" title="UKNC — японский"><span>日本語</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%95%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D1%96%D0%BA%D0%B0_%D0%9C%D0%A1_0511" hreflang="uk" lang="uk" title="Електроніка МС 0511 — украинский"><span>Українська</span></a></li>
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q3721335#sitelinks-wikipedia" title="Править ссылки на другие языки">Править ссылки</a></span></div>
+</div>
+</nav>
+</div>
+</div>
+<footer class="mw-footer" id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 6 января 2024 в 07:45.</li>
+<li id="footer-info-copyright">Текст доступен по <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru" rel="license">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a><a href="//creativecommons.org/licenses/by-sa/4.0/" rel="license" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br/>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org/ru/">Фонд Викимедиа (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//ru.m.wikipedia.org/w/index.php?title=%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_%D0%9C%D0%A1_0511&amp;mobileaction=toggle_view_mobile">Мобильная версия</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" loading="lazy" src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88"/></a></li>
+<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" loading="lazy" src="/static/images/footer/poweredby_mediawiki_88x31.png" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88"/></a></li>
+</ul>
+</footer>
+
+
+</body>
+</html>

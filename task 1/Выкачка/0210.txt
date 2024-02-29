@@ -11,7 +11,7 @@
 <meta content="" name="ResourceLoaderDynamicStyles"/>
 
 
-<meta content="MediaWiki 1.42.0-wmf.18" name="generator"/>
+<meta content="MediaWiki 1.42.0-wmf.19" name="generator"/>
 <meta content="origin" name="referrer"/>
 <meta content="origin-when-cross-origin" name="referrer"/>
 <meta content="max-image-preview:standard" name="robots"/>
@@ -157,7 +157,7 @@ Baegun hwasang chorok buljo jikji simche yojeol</td>
 <li><a class="external text" href="http://www.korea.net/korea/kor_loca.asp?code=K0413" rel="nofollow">Описание на портале Korea.net</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
 <li><a class="external text" href="http://www.digitaljikji.net/" rel="nofollow">Оцифрованное содержание «Чикчи»</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
 <li><a class="external text" href="http://www.jikji.org/" rel="nofollow">Сайт, посвящённый «Чикчи»</a> <small class="ref-info" style="cursor:help;" title="на корейском языке">(кор.)</small></li></ul>
-<div aria-labelledby="Искусство_книгопечатания" class="navbox" data-name="Искусство книгопечатания" role="navigation"><table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%BE_%D0%BA%D0%BD%D0%B8%D0%B3%D0%BE%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D0%B0%D0%BD%D0%B8%D1%8F" title="Перейти к шаблону «Искусство книгопечатания»"><img alt="Перейти к шаблону «Искусство книгопечатания»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span> </span><div id="Искусство_книгопечатания" style="font-size:114%;margin:0 5em">Искусство <a href="/wiki/%D0%9A%D0%BD%D0%B8%D0%B3%D0%BE%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D0%B0%D0%BD%D0%B8%D0%B5" title="Книгопечатание">книгопечатания</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1px">Книги</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<div aria-labelledby="Искусство_книгопечатания" class="navbox" data-name="Искусство книгопечатания" role="navigation"><table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%BE_%D0%BA%D0%BD%D0%B8%D0%B3%D0%BE%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D0%B0%D0%BD%D0%B8%D1%8F" title="Перейти к шаблону «Искусство книгопечатания»"><img alt="Перейти к шаблону «Искусство книгопечатания»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span></span><div id="Искусство_книгопечатания" style="font-size:114%;margin:0 5em">Искусство <a href="/wiki/%D0%9A%D0%BD%D0%B8%D0%B3%D0%BE%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D0%B0%D0%BD%D0%B8%D0%B5" title="Книгопечатание">книгопечатания</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1px">Книги</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
 <ul><li><a href="/wiki/%D0%90%D0%BB%D0%BC%D0%B0%D0%B7%D0%BD%D0%B0%D1%8F_%D1%81%D1%83%D1%82%D1%80%D0%B0" title="Алмазная сутра">Алмазная сутра</a>
 <ul><li>868 год</li></ul></li>
 <li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B4%D1%80%D0%B5%D0%B2%D0%BD%D0%B5%D0%B5%D0%B3%D0%B8%D0%BF%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D1%85_%D0%BF%D0%B0%D0%BF%D0%B8%D1%80%D1%83%D1%81%D0%BE%D0%B2" title="Список древнеегипетских папирусов">Древнеегипетские папирусы</a></li>
@@ -291,38 +291,38 @@ Baegun hwasang chorok buljo jikji simche yojeol</td>
 </div></td></tr></tbody></table></div>
 <!-- 
 NewPP limit report
-Parsed by mw‐api‐int.codfw.main‐5cbdb975d8‐dpdk8
-Cached time: 20240218013125
+Parsed by mw‐web.eqiad.main‐7bc865cbcb‐zv7xk
+Cached time: 20240226132659
 Cache expiry: 2592000
 Reduced expiry: false
 Complications: [show‐toc]
-CPU time usage: 0.158 seconds
-Real time usage: 0.225 seconds
-Preprocessor visited node count: 1695/1000000
-Post‐expand include size: 68534/2097152 bytes
-Template argument size: 851/2097152 bytes
+CPU time usage: 0.191 seconds
+Real time usage: 0.279 seconds
+Preprocessor visited node count: 1672/1000000
+Post‐expand include size: 68277/2097152 bytes
+Template argument size: 757/2097152 bytes
 Highest expansion depth: 11/100
 Expensive parser function count: 16/500
 Unstrip recursion depth: 0/20
 Unstrip post‐expand size: 6931/5000000 bytes
-Lua time usage: 0.052/10.000 seconds
-Lua memory usage: 3400049/52428800 bytes
+Lua time usage: 0.061/10.000 seconds
+Lua memory usage: 3447934/52428800 bytes
 Number of Wikibase entities loaded: 0/400
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  171.917      1 -total
- 37.47%   64.412      1 Шаблон:Корейское_имя
- 36.41%   62.589      1 Шаблон:Карточка
- 27.53%   47.329      1 Шаблон:Искусство_книгопечатания
- 27.52%   47.311      1 Шаблон:Примечания
- 26.51%   45.568      1 Шаблон:Навигационная_таблица
- 18.15%   31.200      8 Шаблон:Cite_web
- 16.36%   28.122     16 Шаблон:Не_переведено_5
-  4.01%    6.891      1 Шаблон:Недоступная_ссылка
-  3.20%    5.506      1 Шаблон:Карточка/название
+100.00%  209.359      1 -total
+ 47.40%   99.228      1 Шаблон:Примечания
+ 23.76%   49.740      1 Шаблон:Искусство_книгопечатания
+ 22.40%   46.887      8 Шаблон:Cite_web
+ 22.37%   46.843      1 Шаблон:Навигационная_таблица
+ 21.36%   44.726      1 Шаблон:Корейское_имя
+ 20.41%   42.738      1 Шаблон:Карточка
+ 19.16%   40.103      1 Шаблон:Недоступная_ссылка
+ 15.16%   31.749     16 Шаблон:Не_переведено_5
+  3.23%    6.761      1 Шаблон:Карточка/название
 -->
-<!-- Saved in parser cache with key ruwiki:pcache:idhash:345202-0!canonical and timestamp 20240218013125 and revision id 129918505. Rendering was triggered because: api-parse
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:345202-0!canonical and timestamp 20240226132659 and revision id 129918505. Rendering was triggered because: page-view
  -->
 </div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> -->
 <div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Чикчи&amp;oldid=129918505">https://ru.wikipedia.org/w/index.php?title=Чикчи&amp;oldid=129918505</a></div></div>

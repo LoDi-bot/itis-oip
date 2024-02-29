@@ -1,0 +1,1134 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="ru">
+<head>
+<meta charset="utf-8"/>
+<title>Duron — Википедия</title>
+
+
+
+
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+
+
+<meta content="MediaWiki 1.42.0-wmf.19" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="max-image-preview:standard" name="robots"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/AMD_Duron_Processor_Logo.svg/1200px-AMD_Duron_Processor_Logo.svg.png" property="og:image"/>
+<meta content="1200" property="og:image:width"/>
+<meta content="1200" property="og:image:height"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/AMD_Duron_Processor_Logo.svg/800px-AMD_Duron_Processor_Logo.svg.png" property="og:image"/>
+<meta content="800" property="og:image:width"/>
+<meta content="800" property="og:image:height"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/AMD_Duron_Processor_Logo.svg/640px-AMD_Duron_Processor_Logo.svg.png" property="og:image"/>
+<meta content="640" property="og:image:width"/>
+<meta content="640" property="og:image:height"/>
+<meta content="width=1000" name="viewport"/>
+<meta content="Duron — Википедия" property="og:title"/>
+<meta content="website" property="og:type"/>
+
+
+
+
+
+
+
+
+
+
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Duron rootpage-Duron skin-vector action-view"><div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators">
+</div>
+<h1 class="firstHeading mw-first-heading" id="firstHeading"><span class="mw-page-title-main">Duron</span></h1>
+<div class="vector-body" id="bodyContent">
+<div class="noprint" id="siteSub">Материал из Википедии — свободной энциклопедии</div>
+<div id="contentSub"><div id="mw-content-subtitle"><div class="flaggedrevs_short flaggedrevs_stable_synced plainlinks noprint" id="mw-fr-revisiontag"><div class="flaggedrevs_short_basic"><span class="flaggedrevs-icon oo-ui-widget oo-ui-widget-enabled oo-ui-iconElement-icon oo-ui-icon-articleSearch oo-ui-iconElement oo-ui-labelElement-invisible oo-ui-iconWidget" title="Правки этой страницы требуют проверки."></span><span class="flaggedrevs-icon oo-ui-widget oo-ui-widget-enabled oo-ui-iconElement-icon oo-ui-icon-eye oo-ui-iconElement oo-ui-labelElement-invisible oo-ui-iconWidget" title="Это отпатрулированная версия страницы"></span><span class="fr-toggle-arrow oo-ui-widget oo-ui-widget-enabled oo-ui-indicatorElement-indicator oo-ui-indicator-down oo-ui-indicatorElement oo-ui-labelElement-invisible oo-ui-indicatorWidget" id="mw-fr-revisiontoggle" title="показать/скрыть подробности"></span></div>
+<div id="mw-fr-revisiondetails-wrapper" style="position:relative;"><div class="flaggedrevs_short_details" id="mw-fr-revisiondetails" style="display:none">Это <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%B0%D1%82%D1%80%D1%83%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" title="Википедия:Патрулирование">стабильная версия</a>, <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB%D1%8B&amp;type=review&amp;page=Duron">отпатрулированная</a> <i>31 декабря 2022</i>.</div>
+</div>
+</div>
+</div></div>
+<div id="contentSub2"></div>
+<div id="jump-to-nav"></div>
+<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+<div class="mw-body-content" id="mw-content-text"><div class="mw-content-ltr mw-parser-output" dir="ltr" lang="ru"><table class="infobox infobox-847b40810ef13105" data-name="Центральный процессор" style=""><tbody><tr><th class="infobox-above" colspan="2" scope="colgroup" style="">Duron</th></tr><tr><td class="" colspan="2" style="text-align:center;"><i><a href="/wiki/%D0%A6%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80" title="Центральный процессор">Центральный процессор</a></i></td></tr><tr><td class="infobox-image" colspan="2" style=""> <span class="no-wikidata" data-wikidata-property-id="P18"><span typeof="mw:File/Frameless"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:AMD_Duron_Processor_Logo.svg"><img class="mw-file-element" data-file-height="501" data-file-width="501" decoding="async" height="150" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/AMD_Duron_Processor_Logo.svg/150px-AMD_Duron_Processor_Logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/AMD_Duron_Processor_Logo.svg/225px-AMD_Duron_Processor_Logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b3/AMD_Duron_Processor_Logo.svg/300px-AMD_Duron_Processor_Logo.svg.png 2x" width="150"/></a></span></span> </td></tr>
+<tr>
+<th class="plainlist" scope="row">Производство</th>
+<td class="plainlist">
+с <a href="/wiki/2000_%D0%B3%D0%BE%D0%B4" title="2000 год">2000</a> по <a href="/wiki/2004_%D0%B3%D0%BE%D0%B4" title="2004 год">2004</a></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Производитель</th>
+<td class="plainlist">
+<div class="no-wikidata" data-wikidata-property-id="P176">
+<div><ul><li><a href="/wiki/AMD" title="AMD">AMD</a></li></ul></div></div></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Частота <a href="/wiki/%D0%A6%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80" title="Центральный процессор">ЦП</a></th>
+<td class="plainlist">
+600—1800 <a class="mw-redirect" href="/wiki/%D0%9C%D0%93%D1%86" title="МГц">МГц</a></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Частота <a href="/wiki/Front_Side_Bus" title="Front Side Bus">FSB</a></th>
+<td class="plainlist">
+200—266 <a class="mw-redirect" href="/wiki/%D0%9C%D0%93%D1%86" title="МГц">МГц</a></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Технология производства</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P2079"><a href="/wiki/%D0%9A%D0%9C%D0%9E%D0%9F" title="КМОП">КМОП</a>, 180—130 <a class="mw-redirect" href="/wiki/%D0%9D%D0%BC" title="Нм">нм</a></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row"><a href="/wiki/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4" title="Система команд">Наборы инструкций</a></th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P1068"><a class="mw-redirect" href="/wiki/IA-32" title="IA-32">IA-32</a>, <a href="/wiki/MMX" title="MMX">MMX</a>, <a href="/wiki/3DNow!" title="3DNow!">3DNow!</a>, <a href="/wiki/SSE" title="SSE">SSE</a></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row"><a class="mw-redirect" href="/wiki/%D0%A0%D0%B0%D0%B7%D1%8A%D1%91%D0%BC_%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%B0_%D0%BF%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%B0" title="Разъём процессора персонального компьютера">Разъём</a></th>
+<td class="plainlist">
+<div><ul><li><a href="/wiki/Socket_A" title="Socket A">Socket A</a></li></ul></div></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row"><a href="/wiki/%D0%AF%D0%B4%D1%80%D0%BE_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%B0" title="Ядро микропроцессора">Ядра</a></th>
+<td class="plainlist">
+<div><ul><li>Spitfire</li><li>Morgan</li><li>Applebred</li></ul></div></td>
+</tr><tr><td class="infobox-below" colspan="2" style=";"><div aria-label="Хронология" class="ts-Карточка-хронология plainlist"><div aria-label="Следующий" class="ts-Карточка-хронология-next is-local"><a href="/wiki/Sempron" title="Sempron">Sempron</a></div></div></td></tr>
+</tbody></table>
+<p><b>AMD Duron</b> (<small><a class="mw-redirect" href="/wiki/%D0%9C%D0%A4%D0%90" title="МФА">МФА</a></small>: [<span class="IPA"><a class="mw-redirect" href="/wiki/%D0%97%D0%B2%D0%BE%D0%BD%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BB%D1%8C%D0%B2%D0%B5%D0%BE%D0%BB%D1%8F%D1%80%D0%BD%D1%8B%D0%B9_%D0%B2%D0%B7%D1%80%D1%8B%D0%B2%D0%BD%D0%BE%D0%B9_%D1%81%D0%BE%D0%B3%D0%BB%D0%B0%D1%81%D0%BD%D1%8B%D0%B9" title="Звонкий альвеолярный взрывной согласный">d</a><a href="/wiki/%D0%9F%D0%B0%D0%BB%D0%B0%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B0%D0%BF%D0%BF%D1%80%D0%BE%D0%BA%D1%81%D0%B8%D0%BC%D0%B0%D0%BD%D1%82" title="Палатальный аппроксимант">j</a><a href="/wiki/%D0%9E%D0%B3%D1%83%D0%B1%D0%BB%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B3%D0%BB%D0%B0%D1%81%D0%BD%D1%8B%D0%B9_%D0%B7%D0%B0%D0%B4%D0%BD%D0%B5%D0%B3%D0%BE_%D1%80%D1%8F%D0%B4%D0%B0_%D0%B2%D0%B5%D1%80%D1%85%D0%BD%D0%B5%D0%B3%D0%BE_%D0%BF%D0%BE%D0%B4%D1%8A%D1%91%D0%BC%D0%B0" title="Огублённый гласный заднего ряда верхнего подъёма">u</a><a href="/wiki/%D0%97%D0%BD%D0%B0%D0%BA_%D0%B4%D0%BE%D0%BB%D0%B3%D0%BE%D1%82%D1%8B_(%D1%81%D0%B8%D0%BC%D0%B2%D0%BE%D0%BB_%D0%9C%D0%A4%D0%90)" title="Знак долготы (символ МФА)">ː</a><a href="/wiki/%D0%90%D0%BB%D1%8C%D0%B2%D0%B5%D0%BE%D0%BB%D1%8F%D1%80%D0%BD%D1%8B%D0%B5_%D0%B4%D1%80%D0%BE%D0%B6%D0%B0%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B3%D0%BB%D0%B0%D1%81%D0%BD%D1%8B%D0%B5" title="Альвеолярные дрожащие согласные">r</a><a href="/wiki/%D0%9E%D0%B3%D1%83%D0%B1%D0%BB%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B3%D0%BB%D0%B0%D1%81%D0%BD%D1%8B%D0%B9_%D0%B7%D0%B0%D0%B4%D0%BD%D0%B5%D0%B3%D0%BE_%D1%80%D1%8F%D0%B4%D0%B0_%D0%BD%D0%B8%D0%B6%D0%BD%D0%B5%D0%B3%D0%BE_%D0%BF%D0%BE%D0%B4%D1%8A%D1%91%D0%BC%D0%B0" title="Огублённый гласный заднего ряда нижнего подъёма">ɒ</a><a href="/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D0%B4%D0%BD%D0%B5%D1%8F%D0%B7%D1%8B%D1%87%D0%BD%D1%8B%D0%B9_%D0%BD%D0%BE%D1%81%D0%BE%D0%B2%D0%BE%D0%B9_%D1%81%D0%BE%D0%B3%D0%BB%D0%B0%D1%81%D0%BD%D1%8B%D0%B9" title="Переднеязычный носовой согласный">n</a></span>], «Дюрон»; от <a href="/wiki/%D0%9B%D0%B0%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Латинский язык">лат.</a> <span lang="la" style="font-style:italic;">durus</span><sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup>) — линейка <a href="/wiki/X86" title="X86">x86</a>-совместимых <a class="mw-redirect" href="/wiki/%D0%9F%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80" title="Процессор">микропроцессоров</a>, выпускавшаяся компанией <a href="/wiki/AMD" title="AMD">AMD</a> в 2000—2004 годах и ориентированная на потребительский рынок.
+</p><p>Процессор Duron основан на архитектуре <a class="mw-redirect" href="/wiki/AMD_K7" title="AMD K7">K7</a>. Был анонсирован <a href="/wiki/19_%D0%B8%D1%8E%D0%BD%D1%8F" title="19 июня">19 июня</a> <a href="/wiki/2000_%D0%B3%D0%BE%D0%B4" title="2000 год">2000 года</a> и нацелен на рынок недорогих компьютеров, где составлял конкуренцию процессорам <a href="/wiki/Celeron" title="Celeron">Intel Celeron</a>. Единственным отличием ядра процессоров Duron от более дорогих AMD <a href="/wiki/Athlon" title="Athlon">Athlon</a> и <a href="/wiki/Athlon_XP" title="Athlon XP">Athlon XP</a> был уменьшенный до 64 <a href="/wiki/%D0%9A%D0%B8%D0%BB%D0%BE%D0%B1%D0%B0%D0%B9%D1%82" title="Килобайт">кБ</a> размер кэша второго уровня. Изначально процессоры Athlon и Duron имели одинаковую частоту системной шины, а в более поздних моделях Athlon шина работала на большей частоте, чем у Duron.
+</p>
+<div aria-labelledby="mw-toc-heading" class="toc" id="toc" role="navigation"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="ru"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Общая_информация"><span class="tocnumber">1</span> <span class="toctext">Общая информация</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Особенности_архитектуры"><span class="tocnumber">2</span> <span class="toctext">Особенности архитектуры</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Модели"><span class="tocnumber">3</span> <span class="toctext">Модели</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Duron"><span class="tocnumber">3.1</span> <span class="toctext">Duron</span></a>
+<ul>
+<li class="toclevel-3 tocsection-5"><a href="#Spitfire_(Model_3)"><span class="tocnumber">3.1.1</span> <span class="toctext">Spitfire (Model 3)</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Morgan_(Model_7)"><span class="tocnumber">3.1.2</span> <span class="toctext">Morgan (Model 7)</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="#Applebred_(Model_8)"><span class="tocnumber">3.1.3</span> <span class="toctext">Applebred (Model 8)</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-8"><a href="#Mobile_Duron"><span class="tocnumber">3.2</span> <span class="toctext">Mobile Duron</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Положение_на_рынке_и_сравнение_с_конкурентами"><span class="tocnumber">4</span> <span class="toctext">Положение на рынке и сравнение с конкурентами</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Технические_характеристики"><span class="tocnumber">5</span> <span class="toctext">Технические характеристики</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Наименование_моделей"><span class="tocnumber">6</span> <span class="toctext">Наименование моделей</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Ревизии_ядер_процессоров"><span class="tocnumber">7</span> <span class="toctext">Ревизии ядер процессоров</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#Duron_2"><span class="tocnumber">7.1</span> <span class="toctext">Duron</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Mobile_Duron_2"><span class="tocnumber">7.2</span> <span class="toctext">Mobile Duron</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#Изменение_параметров_процессора"><span class="tocnumber">8</span> <span class="toctext">Изменение параметров процессора</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#Исправленные_ошибки"><span class="tocnumber">9</span> <span class="toctext">Исправленные ошибки</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#Примечания"><span class="tocnumber">10</span> <span class="toctext">Примечания</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#Ссылки"><span class="tocnumber">11</span> <span class="toctext">Ссылки</span></a></li>
+</ul>
+</div>
+<h2><span id=".D0.9E.D0.B1.D1.89.D0.B0.D1.8F_.D0.B8.D0.BD.D1.84.D0.BE.D1.80.D0.BC.D0.B0.D1.86.D0.B8.D1.8F"></span><span class="mw-headline" id="Общая_информация">Общая информация</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Duron&amp;veaction=edit&amp;section=1" title="Редактировать раздел «Общая информация»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Duron&amp;action=edit&amp;section=1" title="Редактировать код раздела «Общая информация»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:AMD-Duron-1300.jpg"><img class="mw-file-element" data-file-height="338" data-file-width="400" decoding="async" height="169" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/AMD-Duron-1300.jpg/200px-AMD-Duron-1300.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/AMD-Duron-1300.jpg/300px-AMD-Duron-1300.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/a/a1/AMD-Duron-1300.jpg 2x" width="200"/></a><figcaption>AMD Duron 1300</figcaption></figure>
+<p>Процессоры Duron выполнены в корпусе типа <a class="mw-redirect" href="/wiki/FCPGA" title="FCPGA">FCPGA</a> и предназначены для установки в системные платы с 462-контактным гнездовым разъёмом <a href="/wiki/Socket_A" title="Socket A">Socket A</a>.
+</p><p>Корпус процессоров Duron представляет собой подложку из керамического (ядра Spitfire и Morgan) или органического (зелёного или коричневого цвета) материала (ядро Applebred) с установленным на ней открытым кристаллом на лицевой стороне и контактами на обратной (453 контакта). На стороне кристалла расположены <a href="/wiki/%D0%9F%D0%BE%D0%B2%D0%B5%D1%80%D1%85%D0%BD%D0%BE%D1%81%D1%82%D0%BD%D1%8B%D0%B9_%D0%BC%D0%BE%D0%BD%D1%82%D0%B0%D0%B6" title="Поверхностный монтаж">SMD</a>-элементы, а также контакты, задающие <a href="/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%BD%D0%B0%D0%BF%D1%80%D1%8F%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5" title="Электрическое напряжение">напряжение</a> питания, <a class="mw-redirect" href="/wiki/%D0%A2%D0%B0%D0%BA%D1%82%D0%BE%D0%B2%D0%B0%D1%8F_%D1%87%D0%B0%D1%81%D1%82%D0%BE%D1%82%D0%B0" title="Тактовая частота">частоту</a> и размер включённой <a href="/wiki/%D0%9A%D1%8D%D1%88" title="Кэш">кэш</a>-памяти второго уровня (обычно называемые мостиками). Контакты располагаются группами, которые имеют обозначения L1 — L7 в процессорах на ядре Spitfire, L1 — L11 в процессорах на ядре Morgan и L1 — L12 в процессорах на ядре Applebred. В поздних процессорах на ядре Applebred использовалась также «безмостиковая» упаковка, в которой конфигурационные контакты скрыты под слоем лака<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup><sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup>.
+</p><p>Маркировка процессоров на ядрах Spitfire и Morgan нанесена на кристалл процессора, а процессоров на ядре Applebred — на наклейку, расположенную возле кристалла.
+</p><p>Изначально кристалл не был защищён от сколов, которые могли происходить в результате перекоса <a class="mw-disambig" href="/wiki/%D0%A0%D0%B0%D0%B4%D0%B8%D0%B0%D1%82%D0%BE%D1%80" title="Радиатор">радиатора</a> при его неправильной установке неквалифицированными пользователями, однако вскоре появилась защита от перекосов в виде четырёх круглых прокладок, расположенных в углах подложки. Несмотря на наличие прокладок, при неаккуратной установке радиатора неопытными пользователями кристалл всё же мог получать трещины и сколы (процессоры с такими повреждениями обычно назывались «ко́лотыми»).
+</p><p>В ряде случаев процессор, получивший существенные повреждения кристалла (сколы до 2—3 <a class="mw-redirect" href="/wiki/%D0%9C%D0%BC" title="Мм">мм</a> с угла), продолжал работать без сбоев или с редкими сбоями, в то же время, процессор с незначительными сколами мог полностью выйти из строя.
+</p><p>Простейшим способом проверки на «колотость» процессора (без использования <a href="/wiki/%D0%9B%D1%83%D0%BF%D0%B0" title="Лупа">лупы</a> и <a href="/wiki/%D0%9C%D0%B8%D0%BA%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF" title="Микроскоп">микроскопа</a>) была «проверка ногтем» — по граням кристалла проводили ногтем<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup>. В случае наличия сколов палец явно ощущал шероховатость. Сколы углов кристалла определялись визуально. Однако соблюдение мер предосторожности при сборке или установка опытным сборщиком, вместо самостоятельной установки, исключали механические повреждения процессоров с открытым ядром, таких, как процессоры семейства AMD K7 или Intel Pentium III и Celeron с ядром Coppermine.
+</p>
+<h2><span id=".D0.9E.D1.81.D0.BE.D0.B1.D0.B5.D0.BD.D0.BD.D0.BE.D1.81.D1.82.D0.B8_.D0.B0.D1.80.D1.85.D0.B8.D1.82.D0.B5.D0.BA.D1.82.D1.83.D1.80.D1.8B"></span><span class="mw-headline" id="Особенности_архитектуры">Особенности архитектуры</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Duron&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Особенности архитектуры»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Duron&amp;action=edit&amp;section=2" title="Редактировать код раздела «Особенности архитектуры»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable">Основная статья: <b><a class="mw-redirect" href="/wiki/AMD_K7" title="AMD K7">AMD K7</a></b></div>
+<table class="mbox-Заготовка_раздела plainlinks metadata ambox ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><span><img alt="" class="mw-file-element" data-file-height="44" data-file-width="44" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Wiki_letter_w.svg/25px-Wiki_letter_w.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Wiki_letter_w.svg/38px-Wiki_letter_w.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Wiki_letter_w.svg/50px-Wiki_letter_w.svg.png 2x" width="25"/></span></span></div></td><td class="mbox-text"><div class="mbox-text-div">Этот раздел <b><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%97%D0%B0%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Википедия:Заготовка статьи">не завершён</a></b>.</div><div class="mbox-textsmall-div hide-when-compact" style="font-size:85%"><span class="hide-when-compact"> Вы поможете проекту, <a class="mw-redirect" href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0_%D0%B8_%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D1%8F" title="Википедия:Правила и указания">исправив и дополнив</a> его следующей информацией: краткое описание архитектуры K7.<br/></span></div></td></tr></tbody></table>
+<h2><span id=".D0.9C.D0.BE.D0.B4.D0.B5.D0.BB.D0.B8"></span><span class="mw-headline" id="Модели">Модели</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Duron&amp;veaction=edit&amp;section=3" title="Редактировать раздел «Модели»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Duron&amp;action=edit&amp;section=3" title="Редактировать код раздела «Модели»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-Заготовка_раздела plainlinks metadata ambox ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><span><img alt="" class="mw-file-element" data-file-height="44" data-file-width="44" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Wiki_letter_w.svg/25px-Wiki_letter_w.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Wiki_letter_w.svg/38px-Wiki_letter_w.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Wiki_letter_w.svg/50px-Wiki_letter_w.svg.png 2x" width="25"/></span></span></div></td><td class="mbox-text"><div class="mbox-text-div">Этот раздел <b><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%97%D0%B0%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Википедия:Заготовка статьи">не завершён</a></b>.</div><div class="mbox-textsmall-div hide-when-compact" style="font-size:85%"><span class="hide-when-compact"> Вы поможете проекту, <a class="mw-redirect" href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0_%D0%B8_%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D1%8F" title="Википедия:Правила и указания">исправив и дополнив</a> его следующей информацией: стоимость на момент анонса.<br/></span></div></td></tr></tbody></table>
+<p>Первые процессоры Duron (Spitfire) предназначались для недорогих <a href="/wiki/%D0%9D%D0%B0%D1%81%D1%82%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80" title="Настольный компьютер">настольных компьютеров</a> и производились по 180-<a class="mw-redirect" href="/wiki/%D0%9D%D0%BC" title="Нм">нм</a> технологии. Они отличались от процессоров <a href="/wiki/AMD" title="AMD">AMD</a> <a href="/wiki/Athlon" title="Athlon">Athlon</a> (Thunderbird) уменьшенным до 64 <a href="/wiki/%D0%9A%D0%B8%D0%BB%D0%BE%D0%B1%D0%B0%D0%B9%D1%82" title="Килобайт">Кб</a> кэшем второго уровня. На базе ядра Spitfire производились также процессоры для <a href="/wiki/%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA" title="Ноутбук">ноутбуков</a> — Mobile Duron, отличавшиеся пониженным напряжением питания и наличием энергосберегающей технологии <a href="/wiki/PowerNow!" title="PowerNow!">PowerNow!</a>.
+</p><p>Дальнейшим развитием семейства <a href="/wiki/%D0%9D%D0%B0%D1%81%D1%82%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80" title="Настольный компьютер">десктопных</a> Duron стало ядро Morgan (180 нм), отличавшееся от предшественника наличием блока инструкций <a href="/wiki/SSE" title="SSE">SSE</a>. Ядро Morgan было создано на основе ядра Palomino процессоров <a href="/wiki/AMD" title="AMD">AMD</a> <a href="/wiki/Athlon_XP" title="Athlon XP">Athlon XP</a> и отличалось от него уменьшенным до 64 Кб кэшем второго уровня.
+Ядро Camaro, предназначенное для <a href="/wiki/%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA" title="Ноутбук">мобильных компьютеров</a>, отличалось от ядра Morgan пониженным напряжением питания и наличием энергосберегающей технологии <a href="/wiki/PowerNow!" title="PowerNow!">PowerNow!</a>.
+</p><p>Последним ядром, использованным в процессорах семейства Duron стало ядро Applebred (130 нм), представлявшее собой ядро Thoroughbred (<a href="/wiki/Athlon_XP" title="Athlon XP">Athlon XP</a>) с частично отключённым кэшем второго уровня.
+</p><p>В <a href="/wiki/2004_%D0%B3%D0%BE%D0%B4" title="2004 год">2004 году</a> на смену процессорам Duron пришло семейство процессоров <a href="/wiki/AMD" title="AMD">AMD</a> <a href="/wiki/Sempron" title="Sempron">Sempron</a>.
+</p>
+<table class="wide" style="text-align: center">
+<caption><b>Процессоры Duron на ядре Spitfire</b>
+</caption>
+<tbody><tr>
+<th width="15%">Тактовая частота (МГц)
+</th>
+<td>600</td>
+<td>650</td>
+<td>700</td>
+<td>750</td>
+<td>800</td>
+<td>850</td>
+<td>900</td>
+<td>950
+</td></tr>
+<tr>
+<th>Частота FSB (МГц)
+</th>
+<td colspan="8">200
+</td></tr>
+<tr>
+<th>Анонсирован
+</th>
+<td colspan="3"><a href="/wiki/19_%D0%B8%D1%8E%D0%BD%D1%8F" title="19 июня">19 июня</a> <a class="mw-redirect" href="/wiki/2000" title="2000">2000</a>
+</td>
+<td><a href="/wiki/5_%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8F" title="5 сентября">5 сентября</a> <a class="mw-redirect" href="/wiki/2000" title="2000">2000</a>
+</td>
+<td><a href="/wiki/17_%D0%BE%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8F" title="17 октября">17 октября</a> <a class="mw-redirect" href="/wiki/2000" title="2000">2000</a>
+</td>
+<td><a href="/wiki/8_%D1%8F%D0%BD%D0%B2%D0%B0%D1%80%D1%8F" title="8 января">8 января</a> <a class="mw-redirect" href="/wiki/2001" title="2001">2001</a>
+</td>
+<td><a href="/wiki/2_%D0%B0%D0%BF%D1%80%D0%B5%D0%BB%D1%8F" title="2 апреля">2 апреля</a> <a class="mw-redirect" href="/wiki/2001" title="2001">2001</a>
+</td>
+<td><a href="/wiki/6_%D0%B8%D1%8E%D0%BD%D1%8F" title="6 июня">6 июня</a> <a class="mw-redirect" href="/wiki/2001" title="2001">2001</a>
+</td></tr></tbody></table>
+<table class="wide" style="text-align: center">
+<caption><b>Процессоры Duron на ядре Morgan</b>
+</caption>
+<tbody><tr>
+<th width="15%">Тактовая частота (МГц)
+</th>
+<td>1000</td>
+<td>1100</td>
+<td>1200</td>
+<td>1300
+</td></tr>
+<tr>
+<th>Частота FSB (МГц)
+</th>
+<td colspan="4">200
+</td></tr>
+<tr>
+<th>Анонсирован
+</th>
+<td><a href="/wiki/20_%D0%B0%D0%B2%D0%B3%D1%83%D1%81%D1%82%D0%B0" title="20 августа">20 августа</a> <a class="mw-redirect" href="/wiki/2001" title="2001">2001</a>
+</td>
+<td><a href="/wiki/1_%D0%BE%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8F" title="1 октября">1 октября</a> <a class="mw-redirect" href="/wiki/2001" title="2001">2001</a>
+</td>
+<td><a href="/wiki/15_%D0%BD%D0%BE%D1%8F%D0%B1%D1%80%D1%8F" title="15 ноября">15 ноября</a> <a class="mw-redirect" href="/wiki/2001" title="2001">2001</a>
+</td>
+<td><a href="/wiki/21_%D1%8F%D0%BD%D0%B2%D0%B0%D1%80%D1%8F" title="21 января">21 января</a> <a class="mw-redirect" href="/wiki/2002" title="2002">2002</a>
+</td></tr></tbody></table>
+<table class="wide" style="text-align: center">
+<caption><b>Процессоры Duron на ядре Applebred</b>
+</caption>
+<tbody><tr>
+<th width="15%">Тактовая частота (МГц)
+</th>
+<td>1400</td>
+<td>1600</td>
+<td>1800
+</td></tr>
+<tr>
+<th>Частота FSB (МГц)
+</th>
+<td colspan="3">266
+</td></tr>
+<tr>
+<th>Анонсирован
+</th>
+<td colspan="3"><a href="/wiki/21_%D0%B0%D0%B2%D0%B3%D1%83%D1%81%D1%82%D0%B0" title="21 августа">21 августа</a> <a class="mw-redirect" href="/wiki/2003" title="2003">2003</a>
+</td></tr></tbody></table>
+<table class="wide" style="text-align: center">
+<caption><b>Процессоры Mobile Duron на ядре Camaro</b>
+</caption>
+<tbody><tr>
+<th width="15%">Тактовая частота (МГц)
+</th>
+<td>800</td>
+<td>850</td>
+<td>900</td>
+<td>950</td>
+<td>1000</td>
+<td>1100</td>
+<td>1200</td>
+<td>1300
+</td></tr>
+<tr>
+<th>Частота FSB (МГц)
+</th>
+<td colspan="8">200
+</td></tr>
+<tr>
+<th>Анонсирован
+</th>
+<td colspan="2"><a href="/wiki/14_%D0%BC%D0%B0%D1%8F" title="14 мая">14 мая</a> <a class="mw-redirect" href="/wiki/2001" title="2001">2001</a>
+</td>
+<td><a href="/wiki/20_%D0%B0%D0%B2%D0%B3%D1%83%D1%81%D1%82%D0%B0" title="20 августа">20 августа</a> <a class="mw-redirect" href="/wiki/2001" title="2001">2001</a>
+</td>
+<td><a href="/wiki/12_%D0%BD%D0%BE%D1%8F%D0%B1%D1%80%D1%8F" title="12 ноября">12 ноября</a> <a class="mw-redirect" href="/wiki/2001" title="2001">2001</a>
+</td>
+<td><a href="/wiki/17_%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8F" title="17 декабря">17 декабря</a> <a class="mw-redirect" href="/wiki/2001" title="2001">2001</a>
+</td>
+<td colspan="3"><a href="/wiki/30_%D1%8F%D0%BD%D0%B2%D0%B0%D1%80%D1%8F" title="30 января">30 января</a> <a class="mw-redirect" href="/wiki/2002" title="2002">2002</a>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Duron">Duron</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Duron&amp;veaction=edit&amp;section=4" title="Редактировать раздел «Duron»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Duron&amp;action=edit&amp;section=4" title="Редактировать код раздела «Duron»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span id="Spitfire_.28Model_3.29"></span><span class="mw-headline" id="Spitfire_(Model_3)">Spitfire (Model 3)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Duron&amp;veaction=edit&amp;section=5" title="Редактировать раздел «Spitfire (Model 3)»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Duron&amp;action=edit&amp;section=5" title="Редактировать код раздела «Spitfire (Model 3)»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:AMD_Duron_D600AUT1B.jpg"><img class="mw-file-element" data-file-height="738" data-file-width="738" decoding="async" height="200" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/AMD_Duron_D600AUT1B.jpg/200px-AMD_Duron_D600AUT1B.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/AMD_Duron_D600AUT1B.jpg/300px-AMD_Duron_D600AUT1B.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e8/AMD_Duron_D600AUT1B.jpg/400px-AMD_Duron_D600AUT1B.jpg 2x" width="200"/></a><figcaption>AMD Duron (Spitfire)</figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Socket_462.saa.jpeg"><img class="mw-file-element" data-file-height="736" data-file-width="648" decoding="async" height="227" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Socket_462.saa.jpeg/200px-Socket_462.saa.jpeg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Socket_462.saa.jpeg/300px-Socket_462.saa.jpeg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Socket_462.saa.jpeg/400px-Socket_462.saa.jpeg 2x" width="200"/></a><figcaption>Разъём <a href="/wiki/Socket_A" title="Socket A">Socket A</a> с термодатчиком</figcaption></figure>
+<p>Первое ядро, использованное в процессорах Duron, представляет собой ядро процессора <a href="/wiki/AMD" title="AMD">AMD</a> <a href="/wiki/Athlon" title="Athlon">Athlon</a> с уменьшенным до 64 <a href="/wiki/%D0%9A%D0%B8%D0%BB%D0%BE%D0%B1%D0%B0%D0%B9%D1%82" title="Килобайт">кБ</a> объёмом <a href="/wiki/%D0%9A%D1%8D%D1%88" title="Кэш">кэш</a>-памяти второго уровня. В отличие от кристалла процессоров <a href="/wiki/Celeron" title="Celeron">Celeron</a>, представлявших собой <a href="/wiki/Pentium_III" title="Pentium III">Pentium III</a> с частично отключённым кэшем, кристалл процессора Duron содержит лишь необходимые 64 кБ. Это позволило сократить количество <a href="/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D0%B7%D0%B8%D1%81%D1%82%D0%BE%D1%80" title="Транзистор">транзисторов</a> и уменьшить площадь кристалла, тем самым увеличив выход годных кристаллов и удешевив производство.
+</p><p>Как и процессор Athlon, Duron имеет кэш-память первого уровня объёмом 128 кБ (64 кБ — кэш инструкций и 64 кБ — кэш данных), что вдвое превышает объём кэш-памяти второго уровня.
+</p><p>Такое уменьшение объёма кэш-памяти второго уровня в процессорах Duron возможно за счёт использования эксклюзивной архитектуры кэш-памяти, когда данные, хранящиеся в кэше первого уровня, не дублируются в кэше второго уровня. Таким образом, эффективный объём кэш-памяти в процессорах Duron составляет 192 кБ, в то время как эффективный объём кэш-памяти процессоров <a href="/wiki/Celeron" title="Celeron">Celeron</a>, имеющей инклюзивную архитектуру, равен объёму кэша второго уровня — 128 кБ.
+Благодаря более эффективной архитектуре кэш-памяти, влияние объёма кэш-памяти на производительность в процессорах архитектуры <a href="/wiki/Athlon" title="Athlon">K7</a> менее заметно. Это позволяет использовать память с более высокими задержками и с меньшей пропускной способностью без потери производительности.
+</p><p>Процессоры Duron, как и <a href="/wiki/Athlon#Thunderbird_(Model_4)" title="Athlon">Athlon Thunderbird</a>, имеют 16-канальный ассоциативный кэш второго уровня, в то время как <a class="new" href="/w/index.php?title=%D0%A1%D1%82%D0%B5%D0%BF%D0%B5%D0%BD%D1%8C_%D0%B0%D1%81%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%BA%D1%8D%D1%88-%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D0%B8&amp;action=edit&amp;redlink=1" title="Степень ассоциативности кэш-памяти (страница отсутствует)">степень ассоциативности кэш-памяти</a> второго уровня процессоров Celeron (4 канала) вдвое уменьшена по сравнению с процессорами Pentium III. Таким образом, эффективность кэширования у процессоров Duron снижается только за счёт уменьшения объёма кэш-памяти второго уровня.
+</p><p>Недостатками процессоров Duron являются более высокая <a class="mw-disambig" href="/wiki/%D0%9B%D0%B0%D1%82%D0%B5%D0%BD%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Латентность">латентность</a> кэш-памяти по сравнению с процессорами Celeron, а также небольшая ширина <a href="/wiki/Back_side_bus" title="Back side bus">шины кэш-памяти второго уровня</a> — 64 бит (Celeron имеет 256-битную шину), что несколько снижает производительность подсистемы памяти<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup>.
+</p><p>Как и <a href="/wiki/AMD" title="AMD">AMD</a> <a href="/wiki/Athlon" title="Athlon">Athlon</a>, процессоры Duron работают с системной шиной <a class="mw-redirect mw-disambig" href="/wiki/Alpha" title="Alpha">Alpha</a> <a class="mw-redirect" href="/wiki/EV6" title="EV6">EV6</a>, лицензированной компанией <a href="/wiki/AMD" title="AMD">AMD</a> у <a class="mw-redirect" href="/wiki/DEC" title="DEC">DEC</a>. Отличительной особенностью этой шины является передача данных по обоим <a class="new" href="/w/index.php?title=%D0%A4%D1%80%D0%BE%D0%BD%D1%82_%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B8%D0%BC%D0%BF%D1%83%D0%BB%D1%8C%D1%81%D0%B0&amp;action=edit&amp;redlink=1" title="Фронт электрического импульса (страница отсутствует)">фронтам</a> тактового импульса. Таким образом, эффективная <a href="/wiki/%D0%A7%D0%B0%D1%81%D1%82%D0%BE%D1%82%D0%B0" title="Частота">частота</a> шины в два раза превышает базовую.
+</p><p>Процессоры Duron на ядре Spitfire выпускались по 180-<a class="mw-redirect" href="/wiki/%D0%9D%D0%BC" title="Нм">нм</a> технологии, содержали 25 млн транзисторов, площадь кристалла составляла 100 мм². Системная шина работала на частоте 100 <a class="mw-redirect" href="/wiki/%D0%9C%D0%93%D1%86" title="МГц">МГц</a> (эффективная <a href="/wiki/%D0%A7%D0%B0%D1%81%D1%82%D0%BE%D1%82%D0%B0" title="Частота">частота</a> — 200 МГц).
+Напряжение питания составляло 1,6 <a href="/wiki/%D0%92%D0%BE%D0%BB%D1%8C%D1%82" title="Вольт">В</a>. Максимальное тепловыделение составляло 41,5 <a href="/wiki/%D0%92%D0%B0%D1%82%D1%82" title="Ватт">Вт</a>.
+</p><p>Процессоры Duron, как и Athlon, не имели встроенных средств измерения температуры ядра. Измерение осуществлялось с помощью датчика, расположенного под процессором («подсокетный датчик») и отличалось низкой точностью. Зачастую датчик не контактировал с корпусом процессора, а измерял температуру воздуха возле процессора. Эффективность термозащиты в процессорах Duron на ядре Spitfire была недостаточной в ситуации включения без радиатора или в маловероятной ситуации разрушения его крепления, что при установке процессора неопытными пользователями могло привести к выходу его из строя в результате перегрева.
+</p>
+<h4><span id="Morgan_.28Model_7.29"></span><span class="mw-headline" id="Morgan_(Model_7)">Morgan (Model 7)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Duron&amp;veaction=edit&amp;section=6" title="Редактировать раздел «Morgan (Model 7)»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Duron&amp;action=edit&amp;section=6" title="Редактировать код раздела «Morgan (Model 7)»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Amd-duron-1200.jpg"><img class="mw-file-element" data-file-height="807" data-file-width="800" decoding="async" height="202" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Amd-duron-1200.jpg/200px-Amd-duron-1200.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Amd-duron-1200.jpg/300px-Amd-duron-1200.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/29/Amd-duron-1200.jpg/400px-Amd-duron-1200.jpg 2x" width="200"/></a><figcaption>AMD Duron (Morgan)</figcaption></figure>
+<p><a href="/wiki/20_%D0%B0%D0%B2%D0%B3%D1%83%D1%81%D1%82%D0%B0" title="20 августа">20 августа</a> <a href="/wiki/2001_%D0%B3%D0%BE%D0%B4" title="2001 год">2001 года</a> компания <a href="/wiki/AMD" title="AMD">AMD</a> анонсировала процессор Duron, построенный на новом ядре — Morgan. Это ядро представляет собой ядро процессора AMD Athlon XP (Palomino) с уменьшенным до 64 кБ объёмом кэш-памяти второго уровня.
+</p><p>Процессор AMD Duron на ядре Morgan вышел раньше, чем Athlon XP на ядре Palomino. До этого момента процессоры, нацеленные на рынок высокопроизводительных систем выходили раньше, чем процессоры для недорогих компьютеров, созданные на их основе. В случае с ядром Palomino первыми процессорами на этом ядре были мобильные <a href="/wiki/Athlon_XP" title="Athlon XP">Athlon 4</a>, анонсированные <a href="/wiki/14_%D0%BC%D0%B0%D1%8F" title="14 мая">14 мая</a> <a href="/wiki/2001_%D0%B3%D0%BE%D0%B4" title="2001 год">2001 года</a>. <a href="/wiki/5_%D0%B8%D1%8E%D0%BD%D1%8F" title="5 июня">5 июня</a> вышли серверные процессоры <a href="/wiki/Athlon_XP" title="Athlon XP">Athlon MP</a>, а 20 августа — Duron на ядре Morgan. Процессоры Athlon XP были анонсированы 9 октября 2001 года<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup>.
+</p><p>Основными нововведениями, представленными в ядре Morgan, являются наличие блока инструкций <a href="/wiki/SSE" title="SSE">SSE</a>, а также наличие механизма аппаратной предвыборки данных (hardware prefetch). Благодаря этим нововведениям производительность процессоров Duron на ядре Morgan на 2—5 процентов превышает производительность процессоров на ядре Spitfire при одинаковой тактовой частоте<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup>.
+</p><p>Кроме того, процессоры Duron на ядре Morgan имеют встроенный датчик температуры (<a class="new" href="/w/index.php?title=%D0%A2%D0%B5%D1%80%D0%BC%D0%BE%D0%B4%D0%B8%D0%BE%D0%B4&amp;action=edit&amp;redlink=1" title="Термодиод (страница отсутствует)">термодиод</a>), что позволяет при использовании <a href="/wiki/%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%BB%D0%B0%D1%82%D0%B0" title="Материнская плата">системной платы</a>, поддерживающей работу с этим датчиком, организовать более эффективную защиту от перегрева, чем при использовании внешнего термодатчика. Однако в связи с тем, что некоторые производители системных плат, особенно в первое время после начала выпуска процессоров Athlon XP и Duron со встроенным датчиком температуры, нарушали рекомендации AMD по термозащите, защита могла быть неэффективной при включении без радиатора или разрушении его крепления<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup>. Тем не менее эффективность термозащиты в процессорах Duron была достаточной для защиты процессора в обычных условиях эксплуатации, защищая от таких ситуаций, как остановка кулера.
+</p><p>Процессоры Duron на ядре Morgan по-прежнему выпускались по 180-нм технологии, содержали 25,2 млн транзисторов, площадь кристалла составляла 105,68 мм². Системная шина, как и в процессорах на ядре Spitfire, работала на частоте 100 МГц (эффективная частота — 200 МГц). Напряжение питания для обеспечения стабильной работы на более высоких частотах (до 1,3 <a class="mw-redirect" href="/wiki/%D0%93%D0%93%D1%86" title="ГГц">ГГц</a>) было повышено до 1,75 <a href="/wiki/%D0%92%D0%BE%D0%BB%D1%8C%D1%82" title="Вольт">В</a>. В связи с этим возросло и тепловыделение процессоров (до 60 <a href="/wiki/%D0%92%D0%B0%D1%82%D1%82" title="Ватт">Вт</a>), несмотря на проведённый редизайн ядра, направленный на его снижение.
+</p><p>Предполагалось, что дальнейшим развитием линейки Duron станет 130-нм ядро Appaloosa, однако в начале <a href="/wiki/2002_%D0%B3%D0%BE%D0%B4" title="2002 год">2002 года</a> это ядро исчезло из официальных планов компании AMD. Была выпущена лишь небольшая партия инженерных образцов.
+</p>
+<h4><span id="Applebred_.28Model_8.29"></span><span class="mw-headline" id="Applebred_(Model_8)">Applebred (Model 8)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Duron&amp;veaction=edit&amp;section=7" title="Редактировать раздел «Applebred (Model 8)»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Duron&amp;action=edit&amp;section=7" title="Редактировать код раздела «Applebred (Model 8)»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Duron_1600_Applebred_model_A_Front.jpg"><img class="mw-file-element" data-file-height="649" data-file-width="648" decoding="async" height="200" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Duron_1600_Applebred_model_A_Front.jpg/200px-Duron_1600_Applebred_model_A_Front.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Duron_1600_Applebred_model_A_Front.jpg/300px-Duron_1600_Applebred_model_A_Front.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Duron_1600_Applebred_model_A_Front.jpg/400px-Duron_1600_Applebred_model_A_Front.jpg 2x" width="200"/></a><figcaption>AMD Duron (Applebred)</figcaption></figure>
+<p><a href="/wiki/21_%D0%B0%D0%B2%D0%B3%D1%83%D1%81%D1%82%D0%B0" title="21 августа">21 августа</a> <a href="/wiki/2003_%D0%B3%D0%BE%D0%B4" title="2003 год">2003 года</a> были анонсированы последние представители линейки бюджетных процессоров <a href="/wiki/AMD" title="AMD">AMD</a> Duron. Они представляли собой процессоры <a href="/wiki/Athlon_XP" title="Athlon XP">Athlon XP</a> на ядре Thoroughbred с частично отключённым кэшем второго уровня и отличались от предшественников повышенной до 266 <a class="mw-redirect" href="/wiki/%D0%9C%D0%93%D1%86" title="МГц">МГц</a> частотой системной шины, несколько меньшими напряжением питания (1,5 <a href="/wiki/%D0%92%D0%BE%D0%BB%D1%8C%D1%82" title="Вольт">В</a>) и тепловыделением (57 <a href="/wiki/%D0%92%D0%B0%D1%82%D1%82" title="Ватт">Вт</a>).
+</p><p>Процессоры Duron на ядре Applebred, как и Athlon XP на ядре Thoroughbred, выпускались по 130-нм технологии, содержали 37,2 млн транзисторов (часть из которых приходилась на отключённый кэш), площадь кристалла составляла 80,89 мм² у ядра ревизии A0 и 84,66 мм² у ядра ревизии B0.
+</p><p>В связи с тем, что процессоры на ядре Applebred физически имели 256 кБ кэш-памяти второго уровня, которая с большой вероятностью могла быть работоспособной, был найден способ включения всех 256 кБ путём замыкания определённых контактов, расположенных на подложке процессора. При успешном включении кэш-памяти второго уровня, процессор Duron превращался в Athlon XP на ядре Thoroughbred<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup>.
+</p><p><a href="/wiki/28_%D0%B8%D1%8E%D0%BB%D1%8F" title="28 июля">28 июля</a> 2004 года были анонсированы первые процессоры нового семейства бюджетных процессоров компании AMD — <a href="/wiki/Sempron" title="Sempron">Sempron</a> (часть из которых выпускалась на основе ядра Thoroughbred B0), пришедшего на смену семейству Duron.
+</p>
+<h3><span class="mw-headline" id="Mobile_Duron">Mobile Duron</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Duron&amp;veaction=edit&amp;section=8" title="Редактировать раздел «Mobile Duron»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Duron&amp;action=edit&amp;section=8" title="Редактировать код раздела «Mobile Duron»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Процессоры Mobile Duron выпускались на базе ядер Spitfire и Morgan (мобильный вариант ядра Morgan носит название Camaro) и отличались от десктопных Duron пониженными напряжением питания (1,4—1,5 <a href="/wiki/%D0%92%D0%BE%D0%BB%D1%8C%D1%82" title="Вольт">В</a>) и тепловыделением (до 35 Вт), а также наличием поддержки технологии <a href="/wiki/PowerNow!" title="PowerNow!">PowerNow!</a>, позволявшей в процессе работы управлять тактовой частотой и напряжением питания. В моменты простоя процессоров напряжение снижалось до 1,2 В, а частота — до 300 <a class="mw-redirect" href="/wiki/%D0%9C%D0%93%D1%86" title="МГц">МГц</a>. Это позволяло на треть снизить <a class="mw-redirect" href="/wiki/%D0%AD%D0%BD%D0%B5%D1%80%D0%B3%D0%BE%D0%BF%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5" title="Энергопотребление">энергопотребление</a> процессора, тем самым продлевая <a class="new" href="/w/index.php?title=%D0%92%D1%80%D0%B5%D0%BC%D1%8F_%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D0%BE%D0%B9_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B&amp;action=edit&amp;redlink=1" title="Время автономной работы (страница отсутствует)">время автономной работы</a> <a href="/wiki/%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA" title="Ноутбук">ноутбука</a>.
+</p><p>Mobile Duron, как и десктопные процессоры, выпускались в корпусе <a class="mw-redirect" href="/wiki/FCPGA" title="FCPGA">FCPGA</a> c 453 контактами и устанавливались в 462-контактный разъём <a href="/wiki/Socket_A" title="Socket A">Socket A</a>.
+</p>
+<h2><span id=".D0.9F.D0.BE.D0.BB.D0.BE.D0.B6.D0.B5.D0.BD.D0.B8.D0.B5_.D0.BD.D0.B0_.D1.80.D1.8B.D0.BD.D0.BA.D0.B5_.D0.B8_.D1.81.D1.80.D0.B0.D0.B2.D0.BD.D0.B5.D0.BD.D0.B8.D0.B5_.D1.81_.D0.BA.D0.BE.D0.BD.D0.BA.D1.83.D1.80.D0.B5.D0.BD.D1.82.D0.B0.D0.BC.D0.B8"></span><span class="mw-headline" id="Положение_на_рынке_и_сравнение_с_конкурентами">Положение на рынке и сравнение с конкурентами</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Duron&amp;veaction=edit&amp;section=9" title="Редактировать раздел «Положение на рынке и сравнение с конкурентами»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Duron&amp;action=edit&amp;section=9" title="Редактировать код раздела «Положение на рынке и сравнение с конкурентами»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Процессоры Duron предназначались для рынка недорогих компьютеров как альтернатива более дорогим <a href="/wiki/AMD" title="AMD">AMD</a> <a href="/wiki/Athlon" title="Athlon">Athlon</a> и в качестве конкурента бюджетным процессорам компании <a href="/wiki/Intel" title="Intel">Intel</a> — семейству <a href="/wiki/Celeron" title="Celeron">Celeron</a>. На рынке процессоры Duron присутствовали с момента анонса в июне <a href="/wiki/2000_%D0%B3%D0%BE%D0%B4" title="2000 год">2000 года</a> и до выхода нового семейства недорогих процессоров <a href="/wiki/AMD" title="AMD">AMD</a> <a href="/wiki/Sempron" title="Sempron">Sempron</a> в июле <a href="/wiki/2004_%D0%B3%D0%BE%D0%B4" title="2004 год">2004 года</a>. Параллельно с Duron существовали следующие <a href="/wiki/X86" title="X86">x86</a>-процессоры:
+</p>
+<ul><li><a href="/wiki/AMD" title="AMD">AMD</a> <a href="/wiki/Athlon" title="Athlon">Athlon</a>, <a href="/wiki/Athlon_XP" title="Athlon XP">Athlon XP</a>. Предназначался для рынка высокопроизводительных компьютеров. Опережал Duron за счёт большего объёма кэша второго уровня, а позже и за счёт более высокой частоты системной шины<sup class="reference" id="cite_ref-celedur_10-0"><a href="#cite_note-celedur-10">[10]</a></sup>.</li>
+<li><a class="mw-redirect" href="/wiki/Intel_Pentium_III" title="Intel Pentium III">Intel Pentium III</a>. Предназначался для рынка высокопроизводительных компьютеров. Незначительно опережал равночастотный Duron в ряде задач<sup class="reference" id="cite_ref-celedur_10-1"><a href="#cite_note-celedur-10">[10]</a></sup>.</li>
+<li><a class="mw-redirect" href="/wiki/Intel_Pentium_4" title="Intel Pentium 4">Intel Pentium 4</a>. Предназначался для рынка высокопроизводительных компьютеров. Серьёзно уступал всем конкурентам на равных частотах, однако за счёт архитектуры <a href="/wiki/NetBurst" title="NetBurst">NetBurst</a> имел значительно более высокий частотный потенциал, что позволяло их опережать в оптимизированных под эту архитектуру приложениях. В некоторых приложениях, которые не были оптимизированы под архитектуру <a href="/wiki/NetBurst" title="NetBurst">NetBurst</a> и не использовали набор инструкций <a href="/wiki/SSE2" title="SSE2">SSE2</a>, мог уступать даже Duron со значительно меньшей частотой<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup>.</li>
+<li><a class="mw-redirect" href="/wiki/Intel_Celeron" title="Intel Celeron">Intel Celeron</a> (Coppermine-128). Конкурировал с процессорами Duron на ядре Spitfire. Уступал во многих задачах за счёт медленной системной шины, превосходил Duron в задачах, оптимизированных под набор инструкций <a href="/wiki/SSE" title="SSE">SSE</a><sup class="reference" id="cite_ref-celedur_10-2"><a href="#cite_note-celedur-10">[10]</a></sup><sup class="reference" id="cite_ref-cel_12-0"><a href="#cite_note-cel-12">[12]</a></sup></li>
+<li><a class="mw-redirect" href="/wiki/Intel_Celeron" title="Intel Celeron">Intel Celeron</a> (Tualatin-256). Имел приблизительно равную производительность с процессорами Duron на ядре Morgan, в зависимости от вида задачи опережая конкурента или уступая ему<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup><sup class="reference" id="cite_ref-lowend1g_14-0"><a href="#cite_note-lowend1g-14">[14]</a></sup>.</li>
+<li><a class="mw-redirect" href="/wiki/Intel_Celeron" title="Intel Celeron">Intel Celeron</a> (Willamette-128, Northwood-128). Конкурировал с процессорами Duron на ядре Applebred. Уступал во многих задачах даже при гораздо более высокой частоте<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup>.</li>
+<li><a href="/wiki/VIA_C3" title="VIA C3">VIA C3</a>. Предназначался для компьютеров с низким энергопотреблением, имел крайне низкую производительность и уступал всем конкурирующим процессорам<sup class="reference" id="cite_ref-lowend1g_14-1"><a href="#cite_note-lowend1g-14">[14]</a></sup>.</li>
+<li><a class="mw-redirect" href="/wiki/Transmeta_Crusoe" title="Transmeta Crusoe">Transmeta Crusoe</a>. Предназначался для использования в портативных компьютерах. Имел очень низкое энергопотребление, по производительности немного отставал от равночастотного Duron.</li></ul>
+<h2><span id=".D0.A2.D0.B5.D1.85.D0.BD.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D1.85.D0.B0.D1.80.D0.B0.D0.BA.D1.82.D0.B5.D1.80.D0.B8.D1.81.D1.82.D0.B8.D0.BA.D0.B8"></span><span class="mw-headline" id="Технические_характеристики">Технические характеристики</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Duron&amp;veaction=edit&amp;section=10" title="Редактировать раздел «Технические характеристики»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Duron&amp;action=edit&amp;section=10" title="Редактировать код раздела «Технические характеристики»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wide" style="text-align: center">
+<tbody><tr>
+<th rowspan="2" width="15%"><sup class="reference" id="cite_ref-sandpile_16-0"><a href="#cite_note-sandpile-16">[16]</a></sup><sup class="reference" id="cite_ref-cpuworld_17-0"><a href="#cite_note-cpuworld-17">[17]</a></sup>
+</th>
+<th colspan="2">Spitfire
+</th>
+<th>Morgan
+</th>
+<th>Camaro
+</th>
+<th>Applebred
+</th></tr>
+<tr>
+<td><a href="/wiki/%D0%9D%D0%B0%D1%81%D1%82%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80" title="Настольный компьютер">Десктопный</a>
+</td>
+<td><a href="/wiki/%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA" title="Ноутбук">Мобильный</a>
+</td>
+<td><a href="/wiki/%D0%9D%D0%B0%D1%81%D1%82%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80" title="Настольный компьютер">Десктопный</a>
+</td>
+<td><a href="/wiki/%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA" title="Ноутбук">Мобильный</a>
+</td>
+<td><a href="/wiki/%D0%9D%D0%B0%D1%81%D1%82%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80" title="Настольный компьютер">Десктопный</a>
+</td></tr>
+<tr>
+<th colspan="6"><a class="mw-redirect" href="/wiki/%D0%A2%D0%B0%D0%BA%D1%82%D0%BE%D0%B2%D0%B0%D1%8F_%D1%87%D0%B0%D1%81%D1%82%D0%BE%D1%82%D0%B0" title="Тактовая частота">Тактовая частота</a>
+</th></tr>
+<tr>
+<th>Частота ядра, МГц
+</th>
+<td width="16%">600—950
+</td>
+<td width="16%">600—700
+</td>
+<td width="16%">1000—1300
+</td>
+<td width="16%">800—1300
+</td>
+<td width="16%">1400—1800
+</td></tr>
+<tr>
+<th>Частота <a class="mw-disambig" href="/wiki/FSB" title="FSB">FSB</a>, МГц
+</th>
+<td colspan="4">200
+</td>
+<td>266
+</td></tr>
+<tr>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th></tr>
+<tr>
+<th colspan="6">Характеристики ядра
+</th></tr>
+<tr>
+<th>Набор инструкций
+</th>
+<td colspan="2"><a class="mw-redirect" href="/wiki/IA-32" title="IA-32">IA-32</a>, <a href="/wiki/MMX" title="MMX">MMX</a>, <a href="/wiki/3DNow!" title="3DNow!">3DNow!</a>, <a href="/wiki/3DNow!" title="3DNow!">Extended 3DNow!</a>
+</td>
+<td colspan="3"><a class="mw-redirect" href="/wiki/IA-32" title="IA-32">IA-32</a>, <a href="/wiki/MMX" title="MMX">MMX</a>, <a href="/wiki/3DNow!" title="3DNow!">3DNow!</a>, <a href="/wiki/3DNow!" title="3DNow!">Extended 3DNow!</a>, <a href="/wiki/SSE" title="SSE">SSE</a>
+</td></tr>
+<tr>
+<th><a href="/wiki/%D0%A0%D0%B0%D0%B7%D1%80%D1%8F%D0%B4%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Разрядность">Разрядность</a> <a href="/wiki/%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80_%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%B0" title="Регистр процессора">регистров</a>
+</th>
+<td colspan="2">32 бит (целочисленные),<br/>80 бит (вещественночисленные),<br/>64 бит (MMX)
+</td>
+<td colspan="3">32 бит (целочисленные),<br/>80 бит (вещественночисленные),<br/>64 бит (MMX), 128 бит (SSE)
+</td></tr>
+<tr>
+<th>Глубина <a class="mw-redirect" href="/wiki/%D0%9A%D0%BE%D0%BD%D0%B2%D0%B5%D0%B9%D0%B5%D1%80_(%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D1%8B)" title="Конвейер (процессоры)">конвейера</a>
+</th>
+<td colspan="5">Целочисленный: 10 стадий, вещественночисленный: 15 стадий
+</td></tr>
+<tr>
+<th>Разрядность <a href="/wiki/%D0%A8%D0%B8%D0%BD%D0%B0_%D0%B0%D0%B4%D1%80%D0%B5%D1%81%D0%B0" title="Шина адреса">ША</a>
+</th>
+<td colspan="5">43 бит
+</td></tr>
+<tr>
+<th>Разрядность <a href="/wiki/%D0%A8%D0%B8%D0%BD%D0%B0_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85" title="Шина данных">ШД</a>
+</th>
+<td colspan="5">64 бит + 8 бит <a class="mw-redirect" href="/wiki/ECC" title="ECC">ECC</a>
+</td></tr>
+<tr>
+<th>Аппаратная предвыборка данных
+</th>
+<td colspan="2">нет
+</td>
+<td colspan="3">есть
+</td></tr>
+<tr>
+<th>Количество <a href="/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D0%B7%D0%B8%D1%81%D1%82%D0%BE%D1%80" title="Транзистор">транзисторов</a>, млн.
+</th>
+<td colspan="2">25
+</td>
+<td colspan="2">25,2
+</td>
+<td>37,2
+</td></tr>
+<tr>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th></tr>
+<tr>
+<th colspan="6"><a href="/wiki/%D0%9A%D1%8D%D1%88" title="Кэш">Кэш</a> L1
+</th></tr>
+<tr>
+<th>Кэш данных
+</th>
+<td colspan="5">64 кБ, 2-канальный наборно-ассоциативный, длина строки — 64 байта, двухпортовый
+</td></tr>
+<tr>
+<th>Кэш инструкций
+</th>
+<td colspan="5">64 кБ, 2-канальный наборно-ассоциативный, длина строки — 64 байта
+</td></tr>
+<tr>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th></tr>
+<tr>
+<th colspan="6"><a href="/wiki/%D0%9A%D1%8D%D1%88" title="Кэш">Кэш</a> L2
+</th></tr>
+<tr>
+<th>Объём, кБ
+</th>
+<td colspan="5">64
+</td></tr>
+<tr>
+<th>Частота
+</th>
+<td colspan="5">частота ядра
+</td></tr>
+<tr>
+<th>Разрядность <a class="mw-redirect" href="/wiki/BSB" title="BSB">BSB</a>
+</th>
+<td colspan="5">64 бит + 8 бит <a class="mw-redirect" href="/wiki/ECC" title="ECC">ECC</a>
+</td></tr>
+<tr>
+<th>Организация
+</th>
+<td colspan="5">Объединённый, наборно-ассоциативный, эксклюзивный; длина строки — 64 байта
+</td></tr>
+<tr>
+<th>Ассоциативность
+</th>
+<td colspan="5">16-канальный
+</td></tr>
+<tr>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th></tr>
+<tr>
+<th colspan="6">Интерфейс
+</th></tr>
+<tr>
+<th>Разъём
+</th>
+<td colspan="5"><a href="/wiki/Socket_A" title="Socket A">Socket A</a>
+</td></tr>
+<tr>
+<th>Корпус
+</th>
+<td colspan="4">керамический <a class="mw-redirect" href="/wiki/FCPGA" title="FCPGA">FCPGA</a>
+</td>
+<td>органический <a class="mw-redirect" href="/wiki/FCPGA" title="FCPGA">FCPGA</a>
+</td></tr>
+<tr>
+<th>Шина
+</th>
+<td colspan="5"><a class="mw-redirect" href="/wiki/EV6" title="EV6">EV6</a> (<a class="mw-disambig" href="/wiki/DDR" title="DDR">DDR</a>)
+</td></tr>
+<tr>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th></tr>
+<tr>
+<th colspan="6">Технологические, электрические и тепловые характеристики
+</th></tr>
+<tr>
+<th>Технология производства
+</th>
+<td colspan="3">180 нм. <a href="/wiki/%D0%9A%D0%9C%D0%9E%D0%9F" title="КМОП">КМОП</a> (шестислойный, алюминиевые соединения)
+</td>
+<td>180 нм. <a href="/wiki/%D0%9A%D0%9C%D0%9E%D0%9F" title="КМОП">КМОП</a> (шестислойный, медные соединения)
+</td>
+<td>130 нм. <a href="/wiki/%D0%9A%D0%9C%D0%9E%D0%9F" title="КМОП">КМОП</a> (медные соединения)
+</td></tr>
+<tr>
+<th>Площадь кристалла, мм²
+</th>
+<td colspan="2">100
+</td>
+<td colspan="2">105,68
+</td>
+<td>80,89 (A0),<br/>84,66 (B0)
+</td></tr>
+<tr>
+<th>Напряжение ядра, В
+</th>
+<td>1,6
+</td>
+<td>1,4
+</td>
+<td>1,55—1,75
+</td>
+<td>1,5
+</td>
+<td>1,5
+</td></tr>
+<tr>
+<th>Напряжение цепей <a href="/wiki/%D0%A3%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE_%D0%B2%D0%B2%D0%BE%D0%B4%D0%B0-%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4%D0%B0" title="Устройство ввода-вывода">I/O</a>, В
+</th>
+<td colspan="5">1,6
+</td></tr>
+<tr>
+<th>Максимальное тепловыделение, Вт
+</th>
+<td>41,5
+</td>
+<td>35,4
+</td>
+<td>60,0
+</td>
+<td>35,0
+</td>
+<td>57,0
+</td></tr>
+<tr>
+<th>Энергосберегающие технологии
+</th>
+<td width="16%">—
+</td>
+<td width="16%"><a href="/wiki/PowerNow!" title="PowerNow!">PowerNow!</a>
+</td>
+<td width="16%">—
+</td>
+<td width="16%"><a href="/wiki/PowerNow!" title="PowerNow!">PowerNow!</a>
+</td>
+<td width="16%">—
+</td></tr>
+<tr>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th></tr></tbody></table>
+<h2><span id=".D0.9D.D0.B0.D0.B8.D0.BC.D0.B5.D0.BD.D0.BE.D0.B2.D0.B0.D0.BD.D0.B8.D0.B5_.D0.BC.D0.BE.D0.B4.D0.B5.D0.BB.D0.B5.D0.B9"></span><span class="mw-headline" id="Наименование_моделей">Наименование моделей</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Duron&amp;veaction=edit&amp;section=11" title="Редактировать раздел «Наименование моделей»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Duron&amp;action=edit&amp;section=11" title="Редактировать код раздела «Наименование моделей»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Маркировка процессоров Duron состоит из трёх строк. Первая строка является наименованием модели, вторая содержит информацию о ревизии ядра процессора и дате его выпуска, третья — информацию о партии процессоров.
+Ниже представлена расшифровка строки наименования модели процессоров Duron с различными ядрами.
+</p><p><b> Spitfire </b> (D<i>xxx</i>AUT1B)
+</p>
+<ul><li>D — процессор AMD Duron.</li>
+<li><i>xxx</i> — тактовая <a href="/wiki/%D0%A7%D0%B0%D1%81%D1%82%D0%BE%D1%82%D0%B0" title="Частота">частота</a>, <a class="mw-redirect" href="/wiki/%D0%9C%D0%93%D1%86" title="МГц">МГц</a>.</li>
+<li>A — тип корпуса (керамический PGA).</li>
+<li>U — напряжение питания (1,6 <a href="/wiki/%D0%92%D0%BE%D0%BB%D1%8C%D1%82" title="Вольт">В</a>).</li>
+<li>T — максимальная температура корпуса (90 °C).</li>
+<li>1 — объём кэш-памяти второго уровня (64 <a href="/wiki/%D0%9A%D0%B8%D0%BB%D0%BE%D0%B1%D0%B0%D0%B9%D1%82" title="Килобайт">кБ</a>).</li>
+<li>B — частота системной шины (200 МГц).</li></ul>
+<p><b> Mobile Spitfire </b> (DM<i>xxx</i>AVS1B)
+</p>
+<ul><li>D — процессор AMD Duron.</li>
+<li>M — мобильный.</li>
+<li><i>xxx</i> — тактовая <a href="/wiki/%D0%A7%D0%B0%D1%81%D1%82%D0%BE%D1%82%D0%B0" title="Частота">частота</a>, <a class="mw-redirect" href="/wiki/%D0%9C%D0%93%D1%86" title="МГц">МГц</a>.</li>
+<li>A — тип корпуса (керамический PGA).</li>
+<li>V — напряжение питания (1,4 <a href="/wiki/%D0%92%D0%BE%D0%BB%D1%8C%D1%82" title="Вольт">В</a>).</li>
+<li>S — максимальная температура корпуса (95 °C).</li>
+<li>1 — объём кэш-памяти второго уровня (64 <a href="/wiki/%D0%9A%D0%B8%D0%BB%D0%BE%D0%B1%D0%B0%D0%B9%D1%82" title="Килобайт">кБ</a>).</li>
+<li>B — частота системной шины (200 МГц).</li></ul>
+<p><b> Morgan </b> (DH<i>zxxxx</i>A<i>y</i>T1B)
+</p>
+<ul><li>D — процессор AMD Duron.</li>
+<li>H — высокопроизводительный.</li>
+<li><i>z</i> — тип (D: десктопный; L: с пониженным энергопотреблением).</li>
+<li><i>xxxx</i> — тактовая <a href="/wiki/%D0%A7%D0%B0%D1%81%D1%82%D0%BE%D1%82%D0%B0" title="Частота">частота</a>, <a class="mw-redirect" href="/wiki/%D0%9C%D0%93%D1%86" title="МГц">МГц</a>.</li>
+<li>A — тип корпуса (керамический PGA).</li>
+<li><i>y</i> — напряжение питания (H: 1,55 В; K: 1,65 В; P: 1,70 В; M: 1,75 В).</li>
+<li>T — максимальная температура корпуса (90 °C).</li>
+<li>1 — объём кэш-памяти второго уровня (64 <a href="/wiki/%D0%9A%D0%B8%D0%BB%D0%BE%D0%B1%D0%B0%D0%B9%D1%82" title="Килобайт">кБ</a>).</li>
+<li>B — частота системной шины (200 МГц).</li></ul>
+<p><b> Camaro </b> (DHM<i>xxxx</i>A<i>yz</i>1B)
+</p>
+<ul><li>D — процессор AMD Duron.</li>
+<li>HM — высокопроизводительный мобильный.</li>
+<li><i>xxxx</i> — тактовая <a href="/wiki/%D0%A7%D0%B0%D1%81%D1%82%D0%BE%D1%82%D0%B0" title="Частота">частота</a>, <a class="mw-redirect" href="/wiki/%D0%9C%D0%93%D1%86" title="МГц">МГц</a>.</li>
+<li>A — тип корпуса (керамический PGA).</li>
+<li><i>y</i> — напряжение питания (V: 1,4 В; Q: 1,45 В; L: 1,5 В; H: 1,55 В; K: 1,65 В).</li>
+<li><i>z</i> — максимальная температура корпуса (S: 95 °C; Q: 100 °C).</li>
+<li>1 — объём кэш-памяти второго уровня (64 <a href="/wiki/%D0%9A%D0%B8%D0%BB%D0%BE%D0%B1%D0%B0%D0%B9%D1%82" title="Килобайт">кБ</a>).</li>
+<li>B — частота системной шины (200 МГц).</li></ul>
+<p><b> Applebred </b> (DHD<i>xxxx</i>DLV1C)
+</p>
+<ul><li>D — процессор AMD Duron.</li>
+<li>HD — высокопроизводительный десктопный.</li>
+<li><i>xxxx</i> — тактовая <a href="/wiki/%D0%A7%D0%B0%D1%81%D1%82%D0%BE%D1%82%D0%B0" title="Частота">частота</a>, <a class="mw-redirect" href="/wiki/%D0%9C%D0%93%D1%86" title="МГц">МГц</a>.</li>
+<li>D — тип корпуса (органический PGA).</li>
+<li>L — напряжение питания (1,5 <a href="/wiki/%D0%92%D0%BE%D0%BB%D1%8C%D1%82" title="Вольт">В</a>).</li>
+<li>V — максимальная температура корпуса (85 °C).</li>
+<li>1 — объём кэш-памяти второго уровня (64 <a href="/wiki/%D0%9A%D0%B8%D0%BB%D0%BE%D0%B1%D0%B0%D0%B9%D1%82" title="Килобайт">кБ</a>).</li>
+<li>C — частота системной шины (266 МГц).</li></ul>
+<h2><span id=".D0.A0.D0.B5.D0.B2.D0.B8.D0.B7.D0.B8.D0.B8_.D1.8F.D0.B4.D0.B5.D1.80_.D0.BF.D1.80.D0.BE.D1.86.D0.B5.D1.81.D1.81.D0.BE.D1.80.D0.BE.D0.B2"></span><span class="mw-headline" id="Ревизии_ядер_процессоров">Ревизии ядер процессоров</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Duron&amp;veaction=edit&amp;section=12" title="Редактировать раздел «Ревизии ядер процессоров»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Duron&amp;action=edit&amp;section=12" title="Редактировать код раздела «Ревизии ядер процессоров»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Duron_2">Duron</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Duron&amp;veaction=edit&amp;section=13" title="Редактировать раздел «Duron»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Duron&amp;action=edit&amp;section=13" title="Редактировать код раздела «Duron»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><b> Spitfire </b>
+</p>
+<table class="standard" width="100%">
+<tbody><tr>
+<th width="10%">Ревизия</th>
+<th width="10%">CPU Id</th>
+<th>Примечание
+</th></tr>
+<tr>
+<td>A0</td>
+<td>0x630h</td>
+<td rowspan="2">модели D600AUT1B, D650AUT1B, D700AUT1B, D750AUT1B, D800AUT1B, D850AUT1B, D900AUT1B, D950AUT1B
+</td></tr>
+<tr>
+<td>A2</td>
+<td>0x631h
+</td></tr></tbody></table>
+<p><b> Morgan </b>
+</p>
+<table class="standard" width="100%">
+<tbody><tr>
+<th width="10%">Ревизия</th>
+<th width="10%">CPU Id</th>
+<th>Примечание
+</th></tr>
+<tr>
+<td>A0</td>
+<td>0x670h</td>
+<td rowspan="2">модели DHD1000AMT1B, DHD1100AMT1B, DHD1200AMT1B, DHD1300AMT1B; модели DHL1100AHT1B, DHL1000AKT1B, DHL950APT1B, DHL900AMT1B (low-power)
+</td></tr>
+<tr>
+<td>A1</td>
+<td>0x671h
+</td></tr></tbody></table>
+<p><b> Applebred </b>
+</p>
+<table class="standard" width="100%">
+<tbody><tr>
+<th width="10%">Ревизия</th>
+<th width="10%">CPU Id</th>
+<th>Примечание
+</th></tr>
+<tr>
+<td>A0</td>
+<td>0x680h</td>
+<td rowspan="2">модели DHD1400DLV1C, DHD1600DLV1C, DHD1800DLV1C
+</td></tr>
+<tr>
+<td>B0</td>
+<td>0x681h
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Mobile_Duron_2">Mobile Duron</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Duron&amp;veaction=edit&amp;section=14" title="Редактировать раздел «Mobile Duron»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Duron&amp;action=edit&amp;section=14" title="Редактировать код раздела «Mobile Duron»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="standard" width="100%">
+<tbody><tr>
+<th width="10%">Ревизия</th>
+<th width="10%">CPU Id</th>
+<th>Примечание
+</th></tr>
+<tr>
+<td>sA0</td>
+<td>0x630h</td>
+<td rowspan="2">модели DM600AVS1B, DM700AVS1B
+</td></tr>
+<tr>
+<td>sA1</td>
+<td>0x631h
+</td></tr>
+<tr>
+<td>cA0</td>
+<td>0x670h</td>
+<td rowspan="2">модели DHM0800ALS1B, DHM0850ALS1B, DHM0900ALS1B, DHM0950AQS1B, DHM1000ALS1B, DHM1000AVS1B, DHM1100AVS1B, DHM1200AJS1B (25 Вт); модели DHM1000AKQ1B, DHM1100AHQ1B, DHM1200AQQ1B, DHM1300ALQ1B (35 Вт)
+</td></tr>
+<tr>
+<td>cA2</td>
+<td>0x671h
+</td></tr></tbody></table>
+<h2><span id=".D0.98.D0.B7.D0.BC.D0.B5.D0.BD.D0.B5.D0.BD.D0.B8.D0.B5_.D0.BF.D0.B0.D1.80.D0.B0.D0.BC.D0.B5.D1.82.D1.80.D0.BE.D0.B2_.D0.BF.D1.80.D0.BE.D1.86.D0.B5.D1.81.D1.81.D0.BE.D1.80.D0.B0"></span><span class="mw-headline" id="Изменение_параметров_процессора">Изменение параметров процессора</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Duron&amp;veaction=edit&amp;section=15" title="Редактировать раздел «Изменение параметров процессора»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Duron&amp;action=edit&amp;section=15" title="Редактировать код раздела «Изменение параметров процессора»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Такие параметры процессоров, как <a class="mw-redirect" href="/wiki/%D0%A2%D0%B0%D0%BA%D1%82%D0%BE%D0%B2%D0%B0%D1%8F_%D1%87%D0%B0%D1%81%D1%82%D0%BE%D1%82%D0%B0" title="Тактовая частота">тактовая частота</a>, <a href="/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%BD%D0%B0%D0%BF%D1%80%D1%8F%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5" title="Электрическое напряжение">напряжение</a> питания, объём включённой кэш-памяти второго уровня (Applebred) и частота системной шины (Applebred) задаются с помощью нескольких групп <a href="/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82" title="Электрический контакт">контактов</a>, расположенных на подложке процессора. Контакты могут быть либо замкнуты, либо пережжены <a href="/wiki/%D0%9B%D0%B0%D0%B7%D0%B5%D1%80" title="Лазер">лазером</a> в процессе производства процессора.
+</p><p>Расположение контактов на подложке позволяет пользователю в домашних условиях изменять параметры процессора, соединяя разорванные контакты, либо перерезая замкнутые.
+</p><p>Ниже приведён список групп контактов и их функциональность для различных ядер процессоров Duron.
+</p><p><b>Spitfire</b>
+</p>
+<ul><li>L1 — линии, ответственные за изменение коэффициента умножения (замыкание контактов группы L1 разрешает изменение коэффициента умножения).</li>
+<li>L3, L4, L6 — коэффициент умножения.</li>
+<li>L7 — напряжение питания.</li></ul>
+<p><b>Morgan</b>
+</p>
+<ul><li>L1 — линии, ответственные за изменение коэффициента умножения.</li>
+<li>L3, L4, L10 — коэффициент умножения настольных процессоров.</li>
+<li>L5 — работа в многопроцессорных системах, выбор типа процессора (мобильный/десктопный).</li>
+<li>L6 — максимальный коэффициент умножения мобильных процессоров.</li>
+<li>L11 — напряжение питания.</li></ul>
+<p><b>Applebred</b>
+</p>
+<ul><li>L1 — линии, ответственные за изменение коэффициента умножения.</li>
+<li>L2, L9 — объём включённой кэш-памяти второго уровня.</li>
+<li>L3 — коэффициент умножения.</li>
+<li>L5 — работа в многопроцессорных системах, выбор типа процессора (мобильный/десктопный).</li>
+<li>L6 — коэффициент умножения мобильных процессоров.</li>
+<li>L11 — напряжение питания.</li>
+<li>L12 — частота системной шины.</li></ul>
+<p>Также возможно изменение коэффициента умножения путём замыкания контактов разъёма <a href="/wiki/Socket_A" title="Socket A">Socket A</a>. Данный способ работает в том случае, если изменение коэффициента умножения не заблокировано. Существует также специальное устройство, устанавливающееся между процессором и гнездовым разъёмом и позволяющее изменять коэффициент умножения незаблокированных процессоров на ядре Applebred<sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup>.
+</p><p>В поздних процессорах на ядре Applebred, выпущенных после 39-й недели <a href="/wiki/2003_%D0%B3%D0%BE%D0%B4" title="2003 год">2003 года</a> (а также в некоторых процессорах, выпущенных после 34-й недели), коэффициент умножения жёстко зафиксирован и не может быть разблокирован обычным способом с помощью контактов группы L1, однако существует возможность изменения типа процессора на мобильный с возможностью изменения коэффициента умножения<sup class="reference" id="cite_ref-19"><a href="#cite_note-19">[19]</a></sup>. Данный способ работает только на системных платах с <a href="/wiki/%D0%A7%D0%B8%D0%BF%D1%81%D0%B5%D1%82" title="Чипсет">чипсетом</a>, поддерживающим изменение множителя во время работы<sup class="reference" id="cite_ref-20"><a href="#cite_note-20">[20]</a></sup>.
+</p><p>Дата выпуска процессора определяется по второй строке маркировки: четырёхзначное число после буквенного кода содержит информацию о годе и неделе выпуска. Так, например, процессор с маркировкой «MIRGA0337VPMW» выпущен на 37-й неделе <a href="/wiki/2003_%D0%B3%D0%BE%D0%B4" title="2003 год">2003 года</a>.
+</p>
+<h2><span id=".D0.98.D1.81.D0.BF.D1.80.D0.B0.D0.B2.D0.BB.D0.B5.D0.BD.D0.BD.D1.8B.D0.B5_.D0.BE.D1.88.D0.B8.D0.B1.D0.BA.D0.B8"></span><span class="mw-headline" id="Исправленные_ошибки">Исправленные ошибки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Duron&amp;veaction=edit&amp;section=16" title="Редактировать раздел «Исправленные ошибки»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Duron&amp;action=edit&amp;section=16" title="Редактировать код раздела «Исправленные ошибки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Процессор представляет собой сложное микроэлектронное устройство, что не позволяет исключить вероятность его некорректной работы. Ошибки появляются на этапе проектирования и могут быть исправлены обновлениями микрокода процессора (прошивкой новой версии <a href="/wiki/BIOS" title="BIOS">BIOS</a> системной платы), либо выпуском новой ревизии ядра процессора. В процессорах Duron на ядре Spitfire обнаружено 24 различные ошибки, из которых 2 исправлены. В процессорах Duron на ядре Morgan обнаружено 10 различных ошибок, из которых 2 исправлены<sup class="reference" id="cite_ref-21"><a href="#cite_note-21">[21]</a></sup>.
+</p><p>Далее перечислены ошибки, исправленные в различных ревизиях ядер процессора Duron. Данные ошибки присутствуют во всех ядрах, выпущенных до их исправления, начиная с ядра Spitfire A0, если не указано обратное. В процессорах на ядре Morgan ревизии A1 присутствует ошибка, в некоторых случаях не позволяющая процессору корректно работать после исправления микрокода.
+</p><p><b> Spitfire А2</b>
+</p>
+<ul><li>Некорректная информация о размере кэша второго уровня, получаемая с помощью инструкции <a class="mw-redirect" href="/wiki/Cpuid" title="Cpuid">cpuid</a>.</li>
+<li>Завышенное значение сопротивления на выводах ZN и ZP.</li></ul>
+<p><b> Morgan А1</b>
+</p>
+<ul><li>Ошибка при очистке страницы TLB (4 МБ) с помощью инструкции INVLPG.</li>
+<li>Ошибка при изменении частоты в мобильных процессорах.</li></ul>
+<h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Примечания">Примечания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Duron&amp;veaction=edit&amp;section=17" title="Редактировать раздел «Примечания»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Duron&amp;action=edit&amp;section=17" title="Редактировать код раздела «Примечания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">«твёрдый», «крепкий»</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.cpu-world.com/Images/uploaded/0000/02/00000278.jpg" rel="nofollow">Duron в «безмостиковой» упаковке</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 1 июля 2007. <a class="external text" href="https://web.archive.org/web/20211230211030/https://www.cpu-world.com/Images/uploaded/0000/02/00000278.jpg" rel="nofollow">Архивировано</a> 30 декабря 2021 года.</span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.overclockers.ru/images/news/2003/11/09/barton_01.jpg" rel="nofollow">Контакты процессора Athlon XP под слоем лака</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 1 июля 2007. <a class="external text" href="https://web.archive.org/web/20130625121244/http://www.overclockers.ru/images/news/2003/11/09/barton_01.jpg" rel="nofollow">Архивировано</a> 25 июня 2013 года.</span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a class="external text" href="https://web.archive.org/web/20071008040926/http://thevetbattle.jino-net.ru/useful/checkfcpgacorel.avi" rel="nofollow">Проверка ногтем на примере Intel Celeron (видео)</a></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.ixbt.com/cpu/duron-650.html" rel="nofollow">Обзор процессора AMD Duron 650</a> <a class="external text" href="https://web.archive.org/web/20211230211026/http://www.ixbt.com/cpu/duron-650.html" rel="nofollow">Архивная копия</a> от 30 декабря 2021 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> <small class="ref-info" style="cursor:help;" title="на русском языке">(рус.)</small></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.ixbt.com/cpu/athlon-xp1800.shtml" rel="nofollow">AMD Athlon XP 1800+ (1533 МГц)</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 1 июля 2007. <a class="external text" href="https://web.archive.org/web/20211230101003/https://www.ixbt.com/cpu/athlon-xp1800.shtml" rel="nofollow">Архивировано</a> 30 декабря 2021 года.</span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://web.archive.org/web/20090223020016/http://www.fcenter.ru/online.shtml?articles%2Fhardware%2Fprocessors%2F1273#1" rel="nofollow">Сравнение Morgan и Spitfire 1000 МГц</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 7 мая 2022. Архивировано из <a class="external text" href="http://www.fcenter.ru/online.shtml?articles%2Fhardware%2Fprocessors%2F1273#1" rel="nofollow">оригинала</a> 23 февраля 2009 года.</span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.ixbt.com/cpu/pentium4-athlonxp-thermal-management.shtml" rel="nofollow">Тепловой режим процессоров Pentium 4 и Athlon XP</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 1 июля 2007. <a class="external text" href="https://web.archive.org/web/20120127132541/http://www.ixbt.com/cpu/pentium4-athlonxp-thermal-management.shtml" rel="nofollow">Архивировано</a> 27 января 2012 года.</span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><a class="external text" href="http://hardinfo.h1.ru/articles/duronxp.php" rel="nofollow">Превращение Duron Applebred в Athlon XP Thoroughbred</a> <small><a class="external text" href="https://web.archive.org/web/20070930210740/http://hardinfo.h1.ru/articles/duronxp.php" rel="nofollow">Архивировано</a> 30 сентября 2007 года.</small></span>
+</li>
+<li id="cite_note-celedur-10"><span class="mw-cite-backlink">↑ <a href="#cite_ref-celedur_10-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-celedur_10-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-celedur_10-2"><sup><i><b>3</b></i></sup></a></span> <span class="reference-text">Сравнение процессоров Duron, Athlon, Pentium III и Celeron:
+<ul><li><a class="external text" href="http://www.thg.ru/cpu/20010108/index.html" rel="nofollow">Обзор процессора Duron 850 МГц и его сравнение с Intel Celeron 800 МГц</a> <a class="external text" href="https://web.archive.org/web/20211230211033/http://www.thg.ru/cpu/20010108/index.html" rel="nofollow">Архивная копия</a> от 30 декабря 2021 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>  <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><a class="external text" href="http://www.thg.ru/cpu/20000619/index.html" rel="nofollow">Убийца Celeron — новый процессор AMD Duron</a> <a class="external text" href="https://web.archive.org/web/20211230211031/http://www.thg.ru/cpu/20000619/index.html" rel="nofollow">Архивная копия</a> от 30 декабря 2021 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>  <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><a class="external text" href="http://www.anandtech.com/showdoc.aspx?i=1314" rel="nofollow">Обзор и тестирование процессора Duron 750 МГц</a> <a class="external text" href="https://web.archive.org/web/20100131025838/http://www.anandtech.com/showdoc.aspx?i=1314" rel="nofollow">Архивная копия</a> от 31 января 2010 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>  <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li></ul>
+</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text">Сравнение процессоров Duron и Pentium 4:
+<ul><li><a class="external text" href="http://www.thg.ru/cpu/20011116/" rel="nofollow">AMD Duron 1200 атакует Pentium 4</a> <a class="external text" href="https://web.archive.org/web/20211230211025/http://www.thg.ru/cpu/20011116/" rel="nofollow">Архивная копия</a> от 30 декабря 2021 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> <small class="ref-info" style="cursor:help;" title="на русском языке">(рус.)</small></li></ul>
+</span></li>
+<li id="cite_note-cel-12"><span class="mw-cite-backlink"><a href="#cite_ref-cel_12-0">↑</a></span> <span class="reference-text">Сравнение процессоров Duron и Celeron:
+<ul><li><a class="external text" href="http://www.ixbt.com/cpu/celeron800.shtml" rel="nofollow">Intel Celeron 800 МГц (сравнение с Duron)</a> <a class="external text" href="https://web.archive.org/web/20211230211030/http://www.ixbt.com/cpu/celeron800.shtml" rel="nofollow">Архивная копия</a> от 30 декабря 2021 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> <small class="ref-info" style="cursor:help;" title="на русском языке">(рус.)</small></li>
+<li><a class="external text" href="http://www.anandtech.com/showdoc.aspx?i=1398" rel="nofollow">Обзор и тестирование процессора Duron 850 МГц</a> <a class="external text" href="https://web.archive.org/web/20100131153151/http://www.anandtech.com/showdoc.aspx?i=1398" rel="nofollow">Архивная копия</a> от 31 января 2010 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>  <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li></ul>
+</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text">Сравнение процессоров Duron и Celeron (Tualatin):
+<ul><li><a class="external text" href="http://www.ixbt.com/cpu/celeron-1300mhz.shtml" rel="nofollow">Intel Celeron 1,3 ГГц и AMD Duron 1,1 и 1,2 ГГц</a> <a class="external text" href="https://web.archive.org/web/20211230211030/http://www.ixbt.com/cpu/celeron-1300mhz.shtml" rel="nofollow">Архивная копия</a> от 30 декабря 2021 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> <small class="ref-info" style="cursor:help;" title="на русском языке">(рус.)</small></li>
+<li><a class="external text" href="http://www.thg.ru/cpu/20011003/index.html" rel="nofollow">Сравнение процессоров Duron 1,1 ГГц и Intel Celeron 1,2 ГГц</a> <a class="external text" href="https://web.archive.org/web/20211230211026/http://www.thg.ru/cpu/20011003/index.html" rel="nofollow">Архивная копия</a> от 30 декабря 2021 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>  <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li></ul>
+</span></li>
+<li id="cite_note-lowend1g-14"><span class="mw-cite-backlink">↑ <a href="#cite_ref-lowend1g_14-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-lowend1g_14-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><a class="external text" href="http://www.ixbt.com/cpu/via-c3-1ghz-lowend.shtml" rel="nofollow">Процессоры рынка low-end</a> <a class="external text" href="https://web.archive.org/web/20211230211030/http://www.ixbt.com/cpu/via-c3-1ghz-lowend.shtml" rel="nofollow">Архивная копия</a> от 30 декабря 2021 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> <small class="ref-info" style="cursor:help;" title="на русском языке">(рус.)</small></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.fcenter.ru/online.shtml?articles/hardware/processors/3738" rel="nofollow">Новые Celeron 1,7 и 1,8 ГГц для Socket 478 (сравнение с Duron)</a> <a class="external text" href="https://web.archive.org/web/20070927210039/http://www.fcenter.ru/online.shtml?articles%2Fhardware%2Fprocessors%2F3738" rel="nofollow">Архивная копия</a> от 27 сентября 2007 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> <small class="ref-info" style="cursor:help;" title="на русском языке">(рус.)</small></span>
+</li>
+<li id="cite_note-sandpile-16"><span class="mw-cite-backlink"><a href="#cite_ref-sandpile_16-0">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a class="external text" href="https://www.webcitation.org/65Rvpbxk8?url=http://www.sandpile.org/" rel="nofollow">IA-32 implementation: AMD K7</a></span> <span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>. Архивировано из <a class="external text" href="http://sandpile.org/impl/k7.htm" rel="nofollow">оригинала</a> 14 февраля 2012 года.</span></span>
+</li>
+<li id="cite_note-cpuworld-17"><span class="mw-cite-backlink"><a href="#cite_ref-cpuworld_17-0">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a class="external text" href="https://www.webcitation.org/65Rvq8NRe?url=http://www.cpu-world.com/CPUs/K7/AMD-Mobile%20Duron%20800%20-%20DHM0800ALS1B.html" rel="nofollow">AMD Mobile Duron 800 - DHM0800ALS1B</a></span> <span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>. Архивировано из <a class="external text" href="http://www.cpu-world.com/CPUs/K7/AMD-Mobile%20Duron%20800%20-%20DHM0800ALS1B.html" rel="nofollow">оригинала</a> 14 февраля 2012 года.</span></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><a href="#cite_ref-18">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://web.archive.org/web/20080120082847/http://www.computery.ru/upgrade/numbers/2004/174/power_174.htm" rel="nofollow">Разблокировщик множителя PowerLeap PL-AXP</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 1 июля 2007. Архивировано из <a class="external text" href="http://www.computery.ru/upgrade/numbers/2004/174/power_174.htm" rel="nofollow">оригинала</a> 20 января 2008 года.</span></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><a href="#cite_ref-19">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.freewebs.com/dan5249/faq1r.htm#q8" rel="nofollow">FAQ: Что такое лоченый проц или блокированный КУ?</a> <small><a class="external text" href="https://web.archive.org/web/20070917021556/http://www.freewebs.com/dan5249/faq1r.htm" rel="nofollow">Архивировано</a> 17 сентября 2007 года.</small></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><a href="#cite_ref-20">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.freewebs.com/dan5249/faq1r.htm#q11" rel="nofollow">FAQ: А замобиливание везде работает?</a> <small><a class="external text" href="https://web.archive.org/web/20070917021556/http://www.freewebs.com/dan5249/faq1r.htm" rel="nofollow">Архивировано</a> 17 сентября 2007 года.</small></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><a href="#cite_ref-21">↑</a></span> <span class="reference-text">Данные по ошибкам приводятся в соответствии с официальной документацией. См. <a class="external text" href="https://www.amd.com/us-en/assets/content_type/white_papers_and_tech_docs/23865.pdf" rel="nofollow">AMD Duron™ Processor Model 3 Revision Guide</a> <a class="external text" href="https://web.archive.org/web/20081206052329/https://www.amd.com/us-en/assets/content_type/white_papers_and_tech_docs/23865.pdf" rel="nofollow">Архивная копия</a> от 6 декабря 2008 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> и <a class="external text" href="https://www.amd.com/us-en/assets/content_type/white_papers_and_tech_docs/24806.pdf" rel="nofollow">AMD Duron™ Processor Model 7 Revision Guide</a> <a class="external text" href="https://web.archive.org/web/20081206052341/https://www.amd.com/us-en/assets/content_type/white_papers_and_tech_docs/24806.pdf" rel="nofollow">Архивная копия</a> от 6 декабря 2008 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>  <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></span>
+</li>
+</ol></div></div>
+<h2><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span><span class="mw-headline" id="Ссылки">Ссылки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Duron&amp;veaction=edit&amp;section=18" title="Редактировать раздел «Ссылки»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Duron&amp;action=edit&amp;section=18" title="Редактировать код раздела «Ссылки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div aria-label="В родственных проектах" class="ts-Родственные_проекты ruwikiWikimediaNavigation tright metadata plainlinks plainlist noprint" role="navigation"><ul><li class="ts-Родственные_проекты-item"><span class="ts-Родственные_проекты-image"><span typeof="mw:File"><span><img alt="" class="mw-file-element" data-file-height="30" data-file-width="30" decoding="async" height="24" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/24px-Notification-icon-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/36px-Notification-icon-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/48px-Notification-icon-Commons-logo.svg.png 2x" width="24"/></span></span></span><span class="ts-Родственные_проекты-label commons-ref"><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Duron" title="commons:Category:Duron">Медиафайлы на Викискладе</a></span></li></ul></div>
+<p><b>Официальная информация</b>
+</p>
+<ul><li><a class="external text" href="https://www.amd.com/us-en/assets/content_type/white_papers_and_tech_docs/23802.pdf" rel="nofollow">AMD Duron™ Processor Model 3 Data Sheet</a>  <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><a class="external text" href="https://www.amd.com/us-en/assets/content_type/white_papers_and_tech_docs/24310.pdf" rel="nofollow">AMD Duron™ Processor Model 7 Data Sheet</a>  <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><a class="external text" href="https://www.amd.com/us-en/assets/content_type/white_papers_and_tech_docs/25848.PDF" rel="nofollow">AMD Duron™ Processor Model 8 Data Sheet</a>  <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><a class="external text" href="https://www.amd.com/us-en/assets/content_type/white_papers_and_tech_docs/23865.pdf" rel="nofollow">AMD Duron™ Processor Model 3 Revision Guide</a>  <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><a class="external text" href="https://www.amd.com/us-en/assets/content_type/white_papers_and_tech_docs/24806.pdf" rel="nofollow">AMD Duron™ Processor Model 7 Revision Guide</a>  <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li></ul>
+<p><b>Характеристики процессоров</b>
+</p>
+<ul><li><a class="external text" href="https://web.archive.org/web/19991013102053/http://sandpile.org/impl/k7.htm" rel="nofollow">Подробные характеристики процессоров AMD K7</a>  <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><a class="external text" href="http://fab51.com/cpu/guide/cpu_guide1-e.html" rel="nofollow">Характеристики процессоров AMD (Socket A)</a>  <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><a class="external text" href="https://web.archive.org/web/20070622190226/http://users.erols.com/chare/786.htm" rel="nofollow">Характеристики процессоров AMD K7 и Intel Pentium 4</a>  <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li></ul>
+<p><b>Обзоры и тестирование</b>
+</p>
+<ul><li><a class="external text" href="https://www.amd.com/us-en/Processors/ProductInformation/0,,30_118_1260_1202%5E1938,00.html" rel="nofollow">Обзор Duron на официальном сайте AMD</a>  <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><a class="external text" href="https://www.amd.com/us-en/Processors/ProductInformation/0,,30_118_1260_1204%5E1218,00.html" rel="nofollow">Обзор Mobile Duron на официальном сайте AMD</a>  <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><a class="external text" href="https://www.amd.com/us-en/Processors/ProductInformation/0,,30_118_1260_1202%5E3991,00.html" rel="nofollow">Сравнение процессоров Duron 1,2 ГГц и 1,3 ГГц с Intel Celeron 1,2 ГГц на официальном сайте AMD</a>  <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><a class="external text" href="https://www.amd.com/us-en/Processors/ProductInformation/0,,30_118_1260_1204%5E1974,00.html" rel="nofollow">Сравнение мобильных процессоров на официальном сайте AMD</a>  <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><a class="external text" href="http://www.thg.ru/cpu/19990809/athlon-11.html" rel="nofollow">Описание системной шины процессоров К7</a>  <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><a class="external text" href="http://www.cpu-collection.de/?tn=0&amp;l0=co&amp;l1=AMD&amp;l2=Duron" rel="nofollow">Фотографии и описания процессоров Duron</a>  <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li></ul>
+<ul><li><a class="external text" href="http://www.thg.ru/cpu/20010608/index.html" rel="nofollow">Обзор и тестирование процессоров AMD Athlon 1,4 ГГц и Duron 950 МГц</a>  <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><a class="external text" href="http://www.thg.ru/cpu/20010402/index.html" rel="nofollow">Обзор процессора Duron 900 МГц</a>  <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><a class="external text" href="http://www.anandtech.com/showdoc.aspx?i=1521" rel="nofollow">Обзор и тестирование процессора Duron 1 ГГц</a>  <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><a class="external text" href="http://www.pcstats.com/articleview.cfm?articleID=1069" rel="nofollow">Обзор, разгон и тестирование процессора Duron 1 ГГц</a>  <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><a class="external text" href="http://www.ixbt.com/cpu/faq/athlon-faq.shtml" rel="nofollow">FAQ по процессорам AMD Athlon/Duron</a> <small class="ref-info" style="cursor:help;" title="на русском языке">(рус.)</small></li>
+<li><a class="external text" href="http://www.ixbt.com/cpu/intel-amd-cpu-roundup-video.shtml" rel="nofollow">Процессоры Intel и AMD в кодировании видео</a> <small class="ref-info" style="cursor:help;" title="на русском языке">(рус.)</small></li>
+<li><a class="external text" href="http://www.ixbt.com/cpu/intel-amd-cpu-roundup-audio.shtml" rel="nofollow">Процессоры Intel и AMD в кодировании аудио</a> <small class="ref-info" style="cursor:help;" title="на русском языке">(рус.)</small></li>
+<li><a class="external text" href="http://www.ixbt.com/cpu/duron-oc.html" rel="nofollow">Разгоняем AMD Duron</a> <small class="ref-info" style="cursor:help;" title="на русском языке">(рус.)</small></li>
+<li><a class="external text" href="http://www.ixbt.com/cpu/duron-oc-itc.shtml" rel="nofollow">AMD Duron 600: в умелых руках — не только «600»</a> <small class="ref-info" style="cursor:help;" title="на русском языке">(рус.)</small></li>
+<li><a class="external text" href="http://www.ixbt.com/cpu/new-amd-oc.html" rel="nofollow">Разгон процессоров AMD Athlon (Thunderbird) и Duron</a> <small class="ref-info" style="cursor:help;" title="на русском языке">(рус.)</small></li>
+<li><a class="external text" href="http://www.ixbt.com/cpu/amd-cpu-steppings.shtml" rel="nofollow">Степпинги процессоров AMD</a> <small class="ref-info" style="cursor:help;" title="на русском языке">(рус.)</small></li>
+<li><a class="external text" href="http://www.fcenter.ru/online.shtml?articles/hardware/processors/1273" rel="nofollow">Обзор AMD Duron 1,0 и 1,1 ГГц с ядром Morgan</a> <small class="ref-info" style="cursor:help;" title="на русском языке">(рус.)</small></li>
+<li><a class="external text" href="http://www.fcenter.ru/online.shtml?articles/hardware/motherboards/1498" rel="nofollow">Dual Duron дома — альтернатива или блеф?</a> <small class="ref-info" style="cursor:help;" title="на русском языке">(рус.)</small></li>
+<li><a class="external text" href="http://www.overclockers.ru/lab/15417.shtml" rel="nofollow">AMD Duron 1600 МГц — убийца Intel Celeron и некоторых Athlon XP заодно</a> <small class="ref-info" style="cursor:help;" title="на русском языке">(рус.)</small></li>
+<li><a class="external text" href="http://www.overclockers.ru/lab/15778.shtml" rel="nofollow">Разгон AMD Duron 1600 МГц (Applebred)</a> <small class="ref-info" style="cursor:help;" title="на русском языке">(рус.)</small></li>
+<li><a class="external text" href="http://www.overclockers.ru/lab/15435.shtml" rel="nofollow">AMD Duron 1600 (Applebred)</a> <small class="ref-info" style="cursor:help;" title="на русском языке">(рус.)</small></li>
+<li><a class="external text" href="http://www.overclockers.ru/lab/15437.shtml" rel="nofollow">AMD Duron 1400 (Applebred)</a> <small class="ref-info" style="cursor:help;" title="на русском языке">(рус.)</small></li>
+<li><a class="external text" href="http://www.overclockers.ru/lab/14884.shtml" rel="nofollow">Duron 1300 не для нас</a> <small class="ref-info" style="cursor:help;" title="на русском языке">(рус.)</small></li>
+<li><a class="external text" href="http://www.overclockers.ru/lab/14813.shtml" rel="nofollow">Результаты разгона Duron 1,0 ГГц</a> <small class="ref-info" style="cursor:help;" title="на русском языке">(рус.)</small></li>
+<li><a class="external text" href="http://www.overclockers.ru/lab/14856.shtml" rel="nofollow">Duron 950 МГц быстрее Athlon 1,0 ГГц и Pentium III 1,0 ГГц</a> <small class="ref-info" style="cursor:help;" title="на русском языке">(рус.)</small></li>
+<li><a class="external text" href="http://www.overclockers.ru/lab/14836.shtml" rel="nofollow">Разгон Duron 850 МГц</a> <small class="ref-info" style="cursor:help;" title="на русском языке">(рус.)</small></li>
+<li><a class="external text" href="http://www.overclockers.ru/lab/14915.shtml" rel="nofollow">Duron и FSB 166 МГц</a> <small class="ref-info" style="cursor:help;" title="на русском языке">(рус.)</small></li>
+<li><a class="external text" href="http://www.thevetbattle.com/resbrowser.php?sb=cat&amp;th=2" rel="nofollow">Результаты тестирования компьютеров 2000—2003 гг.</a> <small class="ref-info">(недоступная ссылка)</small> <small class="ref-info" style="cursor:help;" title="на русском языке">(рус.)</small></li></ul>
+<div aria-labelledby="Процессоры_AMD" class="navbox" data-name="Процессоры AMD" role="navigation"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%9F%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D1%8B_AMD" title="Перейти к шаблону «Процессоры AMD»"><img alt="Перейти к шаблону «Процессоры AMD»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span></span><div id="Процессоры_AMD" style="font-size:114%;margin:0 5em">Процессоры <a href="/wiki/AMD" title="AMD">AMD</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BE%D0%B2_AMD" title="Список микропроцессоров AMD">Список микропроцессоров AMD</a></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Сняты с производства</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:8.5em">До <a href="/wiki/X86" title="X86">x86</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="new" href="/w/index.php?title=AMD_Am9080&amp;action=edit&amp;redlink=1" title="AMD Am9080 (страница отсутствует)">Am9080</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BE%D0%B2_AMD#Микропроцессорный_комплект_Am2900" title="Список микропроцессоров AMD">Am2900</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BE%D0%B2_AMD#Процессоры_серии_Am29000_(Am29K)" title="Список микропроцессоров AMD">Am29000</a>
+<ul><li><a href="/wiki/RISC" title="RISC">Berkeley RISC</a></li></ul></li>
+<li><a href="/wiki/Alchemy_(%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D1%8B)" title="Alchemy (процессоры)">Alchemy</a>
+<ul><li><a href="/wiki/MIPS_(%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0)" title="MIPS (архитектура)">MIPS32</a></li></ul></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:8.5em">Ранние <a href="/wiki/X86" title="X86">x86</a> (<a href="/wiki/16_%D0%B1%D0%B8%D1%82" title="16 бит">16 бит</a>)</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="new" href="/w/index.php?title=Am8086&amp;action=edit&amp;redlink=1" title="Am8086 (страница отсутствует)">Am8086</a></li>
+<li><a class="new" href="/w/index.php?title=Am8088&amp;action=edit&amp;redlink=1" title="Am8088 (страница отсутствует)">Am8088</a></li>
+<li><a class="new" href="/w/index.php?title=Am80186&amp;action=edit&amp;redlink=1" title="Am80186 (страница отсутствует)">Am80186</a></li>
+<li><a class="new" href="/w/index.php?title=Am80188&amp;action=edit&amp;redlink=1" title="Am80188 (страница отсутствует)">Am80188</a></li>
+<li><a href="/wiki/Intel_80286" title="Intel 80286">Am286</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:8.5em"><a class="mw-redirect" href="/wiki/IA-32" title="IA-32">IA-32</a> (<a href="/wiki/32_%D0%B1%D0%B8%D1%82%D0%B0" title="32 бита">32 бита</a>)</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Am386" title="Am386">Am386</a></li>
+<li><a href="/wiki/Am486" title="Am486">Am486</a></li>
+<li><a class="mw-redirect" href="/wiki/Am5x86" title="Am5x86">Am5x86</a></li>
+<li><a class="mw-redirect" href="/wiki/AMD_K5" title="AMD K5">K5</a></li>
+<li><a class="mw-redirect" href="/wiki/AMD_K6" title="AMD K6">K6</a></li>
+<li><a href="/wiki/K6-2" title="K6-2">K6-2</a></li>
+<li><a href="/wiki/K6-III" title="K6-III">K6-III</a></li>
+<li><a class="mw-selflink selflink">Duron</a></li>
+<li><a href="/wiki/Athlon" title="Athlon">Athlon</a></li>
+<li><a href="/wiki/Athlon_XP" title="Athlon XP">Athlon XP</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BE%D0%B2_Athlon_XP#Серверные_процессоры" title="Список микропроцессоров Athlon XP">Athlon MP</a></li>
+<li><a href="/wiki/Geode" title="Geode">Geode</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:8.5em"><a href="/wiki/X86-64" title="X86-64">x86-64</a> (<a href="/wiki/64_%D0%B1%D0%B8%D1%82%D0%B0" title="64 бита">64 бита</a>)</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Athlon_64" title="Athlon 64">Athlon 64</a>
+<ul><li><a href="/wiki/Athlon_64_X2" title="Athlon 64 X2">Athlon 64 X2</a></li>
+<li><a href="/wiki/Athlon_64_FX" title="Athlon 64 FX">Athlon 64 FX</a></li></ul></li>
+<li><a href="/wiki/Phenom" title="Phenom">Phenom</a></li>
+<li><a href="/wiki/Turion_64" title="Turion 64">Turion 64</a>
+<ul><li><a href="/wiki/Turion_64_X2" title="Turion 64 X2">Turion 64 X2</a></li>
+<li><a href="/wiki/Turion_X2_Ultra" title="Turion X2 Ultra">Turion X2 Ultra</a></li></ul></li>
+<li><a href="/wiki/Phenom_II" title="Phenom II">Phenom II</a></li>
+<li><a href="/wiki/Sempron" title="Sempron">Sempron</a></li>
+<li><a href="/wiki/Athlon_II" title="Athlon II">Athlon II</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BE%D0%B2_AMD_FX" title="Список микропроцессоров AMD FX">FX</a></li>
+<li><a href="/wiki/Opteron" title="Opteron">Opteron</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Актуальные</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:9.6em"><a href="/wiki/X86-64" title="X86-64">x86-64</a> (<a href="/wiki/64_%D0%B1%D0%B8%D1%82%D0%B0" title="64 бита">64 бита</a>)</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Accelerated_Processing_Unit#AMD" title="Accelerated Processing Unit">AMD APU</a></li>
+<li><a href="/wiki/Ryzen" title="Ryzen">Ryzen</a></li>
+<li><a class="mw-redirect" href="/wiki/Ryzen_Threadripper" title="Ryzen Threadripper">Threadripper</a></li>
+<li><a href="/wiki/EPYC" title="EPYC">EPYC</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Списки</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%87%D0%B8%D0%BF%D1%81%D0%B5%D1%82%D0%BE%D0%B2_AMD" title="Список чипсетов AMD">Чипсеты AMD</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%80%D0%B0%D0%B7%D1%8A%D1%91%D0%BC%D0%BE%D0%B2_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BE%D0%B2#Разъёмы_процессоров_AMD" title="Список разъёмов микропроцессоров">Разъемы процессоров</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BE%D0%B2_Duron" title="Список микропроцессоров Duron">Duron</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BE%D0%B2_Athlon" title="Список микропроцессоров Athlon">Athlon</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BE%D0%B2_Athlon_XP" title="Список микропроцессоров Athlon XP">Athlon XP</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BE%D0%B2_Athlon_64" title="Список микропроцессоров Athlon 64">Athlon 64</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BE%D0%B2_Athlon_X2" title="Список микропроцессоров Athlon X2">Athlon X2</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BE%D0%B2_Sempron" title="Список микропроцессоров Sempron">Sempron</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BE%D0%B2_Phenom" title="Список микропроцессоров Phenom">Phenom</a></li>
+<li><a href="/wiki/Turion" title="Turion">Turion</a></li>
+<li><a href="/wiki/Opteron" title="Opteron">Opteron</a></li>
+<li><a href="/wiki/AMD_APU" title="AMD APU">AMD APU</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BE%D0%B2_AMD_FX" title="Список микропроцессоров AMD FX">FX</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/%D0%9C%D0%B8%D0%BA%D1%80%D0%BE%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0" title="Микроархитектура">Микроархитектуры</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/K5" title="K5">K5</a></li>
+<li><a href="/wiki/K6" title="K6">K6</a></li>
+<li><a href="/wiki/Athlon" title="Athlon">K7</a></li>
+<li><a href="/wiki/K8" title="K8">K8</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BE%D0%B2_AMD#Процессоры_серии_K9" title="Список микропроцессоров AMD">K9</a></li>
+<li><a href="/wiki/K10" title="K10">K10(10h)</a></li>
+<li><a href="/wiki/Bobcat_(%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0)" title="Bobcat (микроархитектура)">Bobcat</a> (<abbr title="Англ. Low Power — «пониженное энергопотребление». Процессоры этой серии предназначены для использования в мобильных устройствах с низким и ультранизким потреблением энергии.">LP</abbr>)</li>
+<li><span data-interwiki-article="Jaguar (microarchitecture)" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=Jaguar_(%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0)&amp;action=edit&amp;redlink=1" title="Jaguar (микроархитектура) (страница отсутствует)">Jaguar</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://en.wikipedia.org/wiki/Jaguar_(microarchitecture)" title="en:Jaguar (microarchitecture)"><span title="Jaguar (microarchitecture) — версия статьи «Jaguar (микроархитектура)» на английском языке">[en]</span></a></sup></span> (LP)
+<ul><li><span data-interwiki-article="Puma (microarchitecture)" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=Puma_(%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0)&amp;action=edit&amp;redlink=1" title="Puma (микроархитектура) (страница отсутствует)">Puma</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://en.wikipedia.org/wiki/Puma_(microarchitecture)" title="en:Puma (microarchitecture)"><span title="Puma (microarchitecture) — версия статьи «Puma (микроархитектура)» на английском языке">[en]</span></a></sup></span> (LP)</li></ul></li>
+<li><a href="/wiki/Bulldozer_(%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0)" title="Bulldozer (микроархитектура)">Bulldozer</a>
+<ul><li><a href="/wiki/Trinity_(%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80)" title="Trinity (процессор)">Piledriver</a></li>
+<li><span data-interwiki-article="Steamroller (microarchitecture)" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=Steamroller_(%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0)&amp;action=edit&amp;redlink=1" title="Steamroller (микроархитектура) (страница отсутствует)">Steamroller</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://en.wikipedia.org/wiki/Steamroller_(microarchitecture)" title="en:Steamroller (microarchitecture)"><span title="Steamroller (microarchitecture) — версия статьи «Steamroller (микроархитектура)» на английском языке">[en]</span></a></sup></span></li>
+<li><span data-interwiki-article="Excavator (microarchitecture)" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=Excavator_(%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0)&amp;action=edit&amp;redlink=1" title="Excavator (микроархитектура) (страница отсутствует)">Excavator</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://en.wikipedia.org/wiki/Excavator_(microarchitecture)" title="en:Excavator (microarchitecture)"><span title="Excavator (microarchitecture) — версия статьи «Excavator (микроархитектура)» на английском языке">[en]</span></a></sup></span></li></ul></li>
+<li><a href="/wiki/Zen_(%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0)" title="Zen (микроархитектура)">Zen</a>
+<ul><li><a href="/wiki/Zen%2B" title="Zen+">Zen+</a></li>
+<li><a href="/wiki/Zen_2" title="Zen 2">Zen 2</a></li>
+<li><a href="/wiki/Zen_3" title="Zen 3">Zen 3</a></li>
+<li><a href="/wiki/Zen_4" title="Zen 4">Zen 4</a></li>
+<li><span data-interwiki-article="Zen 5" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=Zen_5&amp;action=edit&amp;redlink=1" title="Zen 5 (страница отсутствует)">Zen 5</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://en.wikipedia.org/wiki/Zen_5" title="en:Zen 5"><span title="Zen 5 — версия статьи «Zen 5» на английском языке">[en]</span></a></sup></span></li></ul></li>
+<li><a href="/wiki/AMD_K12" title="AMD K12">K12</a> (<a href="/wiki/ARM_(%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0)" title="ARM (архитектура)">ARMv8-A(ARM64)</a>)</li></ul>
+</div></td></tr></tbody></table></div></div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> -->
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Duron&amp;oldid=125371892">https://ru.wikipedia.org/w/index.php?title=Duron&amp;oldid=125371892</a></div></div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9C%D0%B8%D0%BA%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D1%8B_%D1%84%D0%B8%D1%80%D0%BC%D1%8B_AMD" title="Категория:Микропроцессоры фирмы AMD">Микропроцессоры фирмы AMD</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:X86" title="Категория:X86">X86</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%BD%D0%B5_%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD_%D1%8F%D0%B7%D1%8B%D0%BA)" title="Категория:Википедия:Cite web (не указан язык)">Википедия:Cite web (не указан язык)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D0%B8%D1%82%D1%8C_webcitation-%D0%B0%D1%80%D1%85%D0%B8%D0%B2:_deadlink_yes)" title="Категория:Википедия:Cite web (заменить webcitation-архив: deadlink yes)">Википедия:Cite web (заменить webcitation-архив: deadlink yes)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%A0%D0%9E:%D0%98%D0%A2:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:ПРО:ИТ:Статьи по алфавиту">ПРО:ИТ:Статьи по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%A0%D0%9E:%D0%98%D0%A2:%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D1%8F%D1%8F_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:_%D0%B2_%D0%BF%D0%BE%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%BE%D0%BC_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:ПРО:ИТ:Последняя правка: в позапрошлом году">ПРО:ИТ:Последняя правка: в позапрошлом году</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D0%BD%D0%B5%D0%B7%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D1%91%D0%BD%D0%BD%D1%8B%D0%BC%D0%B8_%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B0%D0%BC%D0%B8" title="Категория:Википедия:Статьи с незавершёнными разделами">Википедия:Статьи с незавершёнными разделами</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B0%D0%BC%D0%B8_%D0%BD%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D1%82%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Википедия:Статьи с шаблонами недостатков по алфавиту">Википедия:Статьи с шаблонами недостатков по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81%D0%BE_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8_%D0%BD%D0%B0_%D0%92%D0%B8%D0%BA%D0%B8%D1%81%D0%BA%D0%BB%D0%B0%D0%B4" title="Категория:Статьи со ссылками на Викисклад">Статьи со ссылками на Викисклад</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D0%BD%D0%B5%D1%80%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%BC%D0%B8_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8" title="Категория:Википедия:Статьи с нерабочими ссылками">Википедия:Статьи с нерабочими ссылками</a></li></ul></div></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Навигация</h2>
+<div id="mw-head">
+<nav aria-labelledby="p-personal-label" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" id="p-personal" role="navigation">
+<h3 class="vector-menu-heading" id="p-personal-label">
+<span class="vector-menu-heading-label">Персональные инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="pt-anonuserpage"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li class="mw-list-item" id="pt-anontalk"><a accesskey="n" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]"><span>Обсуждение</span></a></li><li class="mw-list-item" id="pt-anoncontribs"><a accesskey="y" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]"><span>Вклад</span></a></li><li class="mw-list-item" id="pt-createaccount"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=Duron" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li class="mw-list-item" id="pt-login"><a accesskey="o" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=Duron" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]"><span>Войти</span></a></li>
+</ul>
+</div>
+</nav>
+<div id="left-navigation">
+<nav aria-labelledby="p-namespaces-label" class="mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-namespaces" role="navigation">
+<h3 class="vector-menu-heading" id="p-namespaces-label">
+<span class="vector-menu-heading-label">Пространства имён</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-nstab-main"><a accesskey="c" href="/wiki/Duron" title="Просмотреть контентную страницу [c]"><span>Статья</span></a></li><li class="mw-list-item" id="ca-talk"><a accesskey="t" href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:Duron" rel="discussion" title="Обсуждение основной страницы [t]"><span>Обсуждение</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-variants-label" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" id="p-variants" role="navigation">
+<input aria-haspopup="true" aria-labelledby="p-variants-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-variants" id="p-variants-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-variants-label">
+<span class="vector-menu-heading-label">русский</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+</div>
+<div id="right-navigation">
+<nav aria-labelledby="p-views-label" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-views" role="navigation">
+<h3 class="vector-menu-heading" id="p-views-label">
+<span class="vector-menu-heading-label">Просмотры</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-view"><a href="/wiki/Duron"><span>Читать</span></a></li><li class="mw-list-item" id="ca-ve-edit"><a accesskey="v" href="/w/index.php?title=Duron&amp;veaction=edit" title="Редактировать данную страницу [v]"><span>Править</span></a></li><li class="collapsible mw-list-item" id="ca-edit"><a accesskey="e" href="/w/index.php?title=Duron&amp;action=edit" title="Править исходный текст этой страницы [e]"><span>Править код</span></a></li><li class="mw-list-item" id="ca-history"><a accesskey="h" href="/w/index.php?title=Duron&amp;action=history" title="Журнал изменений страницы [h]"><span>История</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-cactions-label" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" id="p-cactions" role="navigation" title="Больше возможностей">
+<input aria-haspopup="true" aria-labelledby="p-cactions-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-cactions" id="p-cactions-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-cactions-label">
+<span class="vector-menu-heading-label">Ещё</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+<div class="vector-search-box-vue vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box" id="p-search" role="search">
+<h3>Поиск</h3>
+<form action="/w/index.php" class="vector-search-box-form" id="searchform">
+<div class="vector-search-box-inner" data-search-loc="header-navigation" id="simpleSearch">
+<input accesskey="f" aria-label="Искать в Википедии" autocapitalize="sentences" class="vector-search-box-input" id="searchInput" name="search" placeholder="Искать в Википедии" title="Искать в Википедии [f]" type="search"/>
+<input name="title" type="hidden" value="Служебная:Поиск"/>
+<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Найти страницы, содержащие указанный текст" type="submit" value="Найти"/>
+<input class="searchButton" id="searchButton" name="go" title="Перейти к странице, имеющей в точности такое название" type="submit" value="Перейти"/>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="vector-legacy-sidebar" id="mw-panel">
+<div id="p-logo" role="banner">
+<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу"></a>
+</div>
+<nav aria-labelledby="p-navigation-label" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" id="p-navigation" role="navigation">
+<h3 class="vector-menu-heading" id="p-navigation-label">
+<span class="vector-menu-heading-label">Навигация</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-mainpage-description"><a accesskey="z" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]"><span>Заглавная страница</span></a></li><li class="mw-list-item" id="n-content"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li class="mw-list-item" id="n-featured"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li class="mw-list-item" id="n-randompage"><a accesskey="x" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]"><span>Случайная статья</span></a></li><li class="mw-list-item" id="n-currentevents"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li class="mw-list-item" id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-participation-label" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" id="p-participation" role="navigation">
+<h3 class="vector-menu-heading" id="p-participation-label">
+<span class="vector-menu-heading-label">Участие</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-bug_in_article"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li class="mw-list-item" id="n-introduction"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li class="mw-list-item" id="n-portal"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li class="mw-list-item" id="n-forum"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li class="mw-list-item" id="n-recentchanges"><a accesskey="r" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]"><span>Свежие правки</span></a></li><li class="mw-list-item" id="n-newpages"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li class="mw-list-item" id="n-help"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-tb-label" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" id="p-tb" role="navigation">
+<h3 class="vector-menu-heading" id="p-tb-label">
+<span class="vector-menu-heading-label">Инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="t-whatlinkshere"><a accesskey="j" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/Duron" title="Список всех страниц, ссылающихся на данную [j]"><span>Ссылки сюда</span></a></li><li class="mw-list-item" id="t-recentchangeslinked"><a accesskey="k" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/Duron" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]"><span>Связанные правки</span></a></li><li class="mw-list-item" id="t-specialpages"><a accesskey="q" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]"><span>Служебные страницы</span></a></li><li class="mw-list-item" id="t-permalink"><a href="/w/index.php?title=Duron&amp;oldid=125371892" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li class="mw-list-item" id="t-info"><a href="/w/index.php?title=Duron&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li class="mw-list-item" id="t-cite"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=Duron&amp;id=125371892&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li class="mw-list-item" id="t-urlshortener"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2FDuron"><span>Получить короткий URL</span></a></li><li class="mw-list-item" id="t-urlshortener-qrcode"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2FDuron"><span>Скачать QR-код</span></a></li><li class="mw-list-item" id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q294947" title="Ссылка на связанный элемент репозитория данных [g]"><span>Элемент Викиданных</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-coll-print_export-label" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" id="p-coll-print_export" role="navigation">
+<h3 class="vector-menu-heading" id="p-coll-print_export-label">
+<span class="vector-menu-heading-label">Печать/экспорт</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="coll-download-as-rl"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=Duron&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li class="mw-list-item" id="t-print"><a accesskey="p" href="/w/index.php?title=Duron&amp;printable=yes" title="Версия этой страницы для печати [p]"><span>Версия для печати</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-wikibase-otherprojects-label" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal vector-menu" id="p-wikibase-otherprojects" role="navigation">
+<h3 class="vector-menu-heading" id="p-wikibase-otherprojects-label">
+<span class="vector-menu-heading-label">В других проектах</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Duron" hreflang="en"><span>Викисклад</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-lang-label" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" id="p-lang" role="navigation">
+<h3 class="vector-menu-heading" id="p-lang-label">
+<span class="vector-menu-heading-label">На других языках</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="interlanguage-link interwiki-ca mw-list-item"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Duron" hreflang="ca" lang="ca" title="Duron — каталанский"><span>Català</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Duron" hreflang="cs" lang="cs" title="Duron — чешский"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/AMD_Duron" hreflang="de" lang="de" title="AMD Duron — немецкий"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a class="interlanguage-link-target" href="https://en.wikipedia.org/wiki/Duron" hreflang="en" lang="en" title="Duron — английский"><span>English</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/AMD_Duron" hreflang="es" lang="es" title="AMD Duron — испанский"><span>Español</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Duron" hreflang="et" lang="et" title="Duron — эстонский"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Duron" hreflang="fi" lang="fi" title="Duron — финский"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Duron" hreflang="fr" lang="fr" title="Duron — французский"><span>Français</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Duron" hreflang="hu" lang="hu" title="Duron — венгерский"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Duron" hreflang="id" lang="id" title="Duron — индонезийский"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Duron" hreflang="it" lang="it" title="Duron — итальянский"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/Duron" hreflang="ja" lang="ja" title="Duron — японский"><span>日本語</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EB%93%80%EB%A1%A0" hreflang="ko" lang="ko" title="듀론 — корейский"><span>한국어</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Duron_(processor)" hreflang="nl" lang="nl" title="Duron (processor) — нидерландский"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/AMD_Duron" hreflang="pl" lang="pl" title="AMD Duron — польский"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Duron" hreflang="pt" lang="pt" title="Duron — португальский"><span>Português</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Duron" hreflang="sk" lang="sk" title="Duron — словацкий"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%94%D1%83%D1%80%D0%BE%D0%BD" hreflang="sr" lang="sr" title="Дурон — сербский"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Duron" hreflang="sv" lang="sv" title="Duron — шведский"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-ta mw-list-item"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%9F%E0%AE%BF%E0%AE%AF%E0%AF%82%E0%AE%B0%E0%AF%8B%E0%AE%A9%E0%AF%8D" hreflang="ta" lang="ta" title="டியூரோன் — тамильский"><span>தமிழ்</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/Duron" hreflang="uk" lang="uk" title="Duron — украинский"><span>Українська</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/AMD_Duron" hreflang="zh" lang="zh" title="AMD Duron — китайский"><span>中文</span></a></li>
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q294947#sitelinks-wikipedia" title="Править ссылки на другие языки">Править ссылки</a></span></div>
+</div>
+</nav>
+</div>
+</div>
+<footer class="mw-footer" id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 9 сентября 2022 в 16:46.</li>
+<li id="footer-info-copyright">Текст доступен по <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru" rel="license">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a><a href="//creativecommons.org/licenses/by-sa/4.0/" rel="license" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br/>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org/ru/">Фонд Викимедиа (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//ru.m.wikipedia.org/w/index.php?title=Duron&amp;mobileaction=toggle_view_mobile">Мобильная версия</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" loading="lazy" src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88"/></a></li>
+<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" loading="lazy" src="/static/images/footer/poweredby_mediawiki_88x31.png" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88"/></a></li>
+</ul>
+</footer>
+
+
+</body>
+</html>

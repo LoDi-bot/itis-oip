@@ -1,0 +1,597 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="ru">
+<head>
+<meta charset="utf-8"/>
+<title>Гунибская ГЭС — Википедия</title>
+
+
+
+
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+
+
+<meta content="MediaWiki 1.42.0-wmf.19" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="max-image-preview:standard" name="robots"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Gunib_HPP1.jpg/1200px-Gunib_HPP1.jpg" property="og:image"/>
+<meta content="1200" property="og:image:width"/>
+<meta content="900" property="og:image:height"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Gunib_HPP1.jpg/800px-Gunib_HPP1.jpg" property="og:image"/>
+<meta content="800" property="og:image:width"/>
+<meta content="600" property="og:image:height"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Gunib_HPP1.jpg/640px-Gunib_HPP1.jpg" property="og:image"/>
+<meta content="640" property="og:image:width"/>
+<meta content="480" property="og:image:height"/>
+<meta content="width=1000" name="viewport"/>
+<meta content="Гунибская ГЭС — Википедия" property="og:title"/>
+<meta content="website" property="og:type"/>
+
+
+
+
+
+
+
+
+
+
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Гунибская_ГЭС rootpage-Гунибская_ГЭС skin-vector action-view"><div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators">
+<div class="mw-indicator" id="mw-indicator-0-coord"><div class="mw-parser-output"><span class="coordinates plainlinks nourlexpansion" data-param="42_25_54.5_N_46_59_16.3_E_type:landmark_region:RU_scale:3000"><span title="Показать карту"><a class="mw-kartographer-maplink" data-lang="ru" data-lat="42.431806" data-lon="46.987861" data-mw-kartographer="maplink" data-overlays='["_17f11207544cf14c3dbe9e7ea9588e6effe742e0"]' data-style="osm-intl" data-zoom="17" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:Map/17/42.431806/46.987861/ru">42°25′54″ с. ш. 46°59′16″ в. д.</a></span><sup class="geo-services noprint"><span class="geo-geohack" title="Карты и инструменты на GeoHack"><a class="external text" href="https://geohack.toolforge.org/geohack.php?language=ru&amp;pagename=%D0%93%D1%83%D0%BD%D0%B8%D0%B1%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1&amp;params=42_25_54.5_N_46_59_16.3_E_type:landmark_region:RU_scale:3000"><span>H</span></a></span><span class="geo-google" title="Это место на «Картах Google»"><a class="external text" href="//maps.google.com/maps?ll=42.431806,46.987861&amp;q=42.431806,46.987861&amp;spn=0.003,0.003&amp;t=h&amp;hl=ru" rel="nofollow"><span>G</span></a></span><span class="geo-yandex" title="Это место на «Яндекс.Картах»"><a class="external text" href="//yandex.ru/maps/?ll=46.987861,42.431806&amp;pt=46.987861,42.431806&amp;spn=0.003,0.003&amp;l=sat,skl" rel="nofollow"><span>Я</span></a></span><span class="geo-osm" title="Это место на карте OpenStreetMap"><a class="external text" href="https://www.openstreetmap.org/?mlat=42.431806&amp;mlon=46.987861&amp;zoom=17" rel="nofollow"><span>O</span></a></span></sup></span></div></div>
+<div class="mw-indicator" id="mw-indicator-ga"><div class="mw-parser-output"><span typeof="mw:File"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Эта статья входит в число хороших статей"><img alt="Эта статья входит в число хороших статей" class="mw-file-element" data-file-height="13" data-file-width="13" decoding="async" height="13" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Blue_star_unboxed.svg/13px-Blue_star_unboxed.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Blue_star_unboxed.svg/20px-Blue_star_unboxed.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Blue_star_unboxed.svg/26px-Blue_star_unboxed.svg.png 2x" width="13"/></a></span></div></div>
+</div>
+<h1 class="firstHeading mw-first-heading" id="firstHeading"><span class="mw-page-title-main">Гунибская ГЭС</span></h1>
+<div class="vector-body" id="bodyContent">
+<div class="noprint" id="siteSub">Материал из Википедии — свободной энциклопедии</div>
+<div id="contentSub"><div id="mw-content-subtitle"><div class="flaggedrevs_short flaggedrevs_stable_synced plainlinks noprint" id="mw-fr-revisiontag"><div class="flaggedrevs_short_basic"><span class="flaggedrevs-icon oo-ui-widget oo-ui-widget-enabled oo-ui-iconElement-icon oo-ui-icon-articleSearch oo-ui-iconElement oo-ui-labelElement-invisible oo-ui-iconWidget" title="Правки этой страницы требуют проверки."></span><span class="flaggedrevs-icon oo-ui-widget oo-ui-widget-enabled oo-ui-iconElement-icon oo-ui-icon-eye oo-ui-iconElement oo-ui-labelElement-invisible oo-ui-iconWidget" title="Это отпатрулированная версия страницы"></span><span class="fr-toggle-arrow oo-ui-widget oo-ui-widget-enabled oo-ui-indicatorElement-indicator oo-ui-indicator-down oo-ui-indicatorElement oo-ui-labelElement-invisible oo-ui-indicatorWidget" id="mw-fr-revisiontoggle" title="показать/скрыть подробности"></span></div>
+<div id="mw-fr-revisiondetails-wrapper" style="position:relative;"><div class="flaggedrevs_short_details" id="mw-fr-revisiondetails" style="display:none">Это <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%B0%D1%82%D1%80%D1%83%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" title="Википедия:Патрулирование">стабильная версия</a>, <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB%D1%8B&amp;type=review&amp;page=%D0%93%D1%83%D0%BD%D0%B8%D0%B1%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1">отпатрулированная</a> <i>12 апреля 2023</i>.</div>
+</div>
+</div>
+</div></div>
+<div id="contentSub2"></div>
+<div id="jump-to-nav"></div>
+<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+<div class="mw-body-content" id="mw-content-text"><div class="mw-content-ltr mw-parser-output" dir="ltr" lang="ru"><table class="infobox infobox-6d00d3e4b1f7511f" data-name="Электростанция" style=""><tbody><tr><th class="infobox-above" colspan="2" scope="colgroup" style="background:#cfe3ff;">Гунибская ГЭС им. Расула Гамзатова</th></tr><tr><td class="infobox-image" colspan="2" style=""> <span class="no-wikidata" data-wikidata-property-id="P18"><span typeof="mw:File/Frameless"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Gunib_HPP1.jpg"><img class="mw-file-element" data-file-height="1920" data-file-width="2560" decoding="async" height="225" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Gunib_HPP1.jpg/300px-Gunib_HPP1.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Gunib_HPP1.jpg/450px-Gunib_HPP1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Gunib_HPP1.jpg/600px-Gunib_HPP1.jpg 2x" width="300"/></a></span></span> </td></tr>
+<tr>
+<th class="plainlist" scope="row" style="min-width:10em;">Страна</th>
+<td class="plainlist" style="min-width:11em;">
+<span class="no-wikidata" data-wikidata-property-id="P17"><span class="nowrap" data-sort-value="Россия"><span class="flagicon"><span class="mw-image-border noresize" typeof="mw:File"><span><img alt="" class="mw-file-element" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/22px-Flag_of_Russia.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/33px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/44px-Flag_of_Russia.svg.png 2x" width="22"/></span></span></span> <a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F" title="Россия"><span class="wrap">Россия</span></a></span></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row" style="min-width:10em;">Местоположение</th>
+<td class="plainlist" style="min-width:11em;">
+<span class="no-wikidata" data-wikidata-property-id="P131"><span class="nowrap" data-sort-value="Дагестан"><span class="flagicon"><span class="mw-image-border noresize" typeof="mw:File"><span><img alt="" class="mw-file-element" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_Dagestan.svg/22px-Flag_of_Dagestan.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_Dagestan.svg/33px-Flag_of_Dagestan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_Dagestan.svg/44px-Flag_of_Dagestan.svg.png 2x" width="22"/></span></span></span> <a href="/wiki/%D0%94%D0%B0%D0%B3%D0%B5%D1%81%D1%82%D0%B0%D0%BD" title="Дагестан"><span class="wrap">Дагестан</span></a></span></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row" style="min-width:10em;"><a href="/wiki/%D0%A0%D0%B5%D0%BA%D0%B0" title="Река">Река</a></th>
+<td class="plainlist" style="min-width:11em;">
+<a href="/wiki/%D0%9A%D0%B0%D1%80%D0%B0%D0%BA%D0%BE%D0%B9%D1%81%D1%83" title="Каракойсу">Каракойсу</a></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row" style="min-width:10em;">Собственник</th>
+<td class="plainlist" style="min-width:11em;">
+<span class="no-wikidata" data-wikidata-property-id="P127"><a class="mw-redirect" href="/wiki/%D0%A0%D1%83%D1%81%D0%93%D0%B8%D0%B4%D1%80%D0%BE" title="РусГидро">РусГидро</a></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row" style="min-width:10em;">Статус</th>
+<td class="plainlist" style="min-width:11em;">
+действующая</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row" style="min-width:10em;">Год начала строительства</th>
+<td class="plainlist" style="min-width:11em;">
+1995</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row" style="min-width:10em;">Годы ввода агрегатов</th>
+<td class="plainlist" style="min-width:11em;">
+2004</td>
+</tr>
+<tr>
+<th class="infobox-header" colspan="2" scope="colgroup" style="background:#dcebff;">Основные характеристики</th>
+</tr>
+<tr>
+<th class="plainlist" scope="row" style="min-width:10em;">Годовая выработка электроэнергии, млн <span class="nowrap"> <a href="/wiki/%D0%9A%D0%B8%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%82-%D1%87%D0%B0%D1%81" title="Киловатт-час">кВт⋅ч</a></span></th>
+<td class="plainlist" style="min-width:11em;">
+57,6</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row" style="min-width:10em;">Разновидность электростанции</th>
+<td class="plainlist" style="min-width:11em;">
+плотинная</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row" style="min-width:10em;">Расчётный <a href="/wiki/%D0%9D%D0%B0%D0%BF%D0%BE%D1%80" title="Напор">напор</a>, м</th>
+<td class="plainlist" style="min-width:11em;">
+48,5</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row" style="min-width:10em;">Электрическая мощность, <a class="mw-redirect" href="/wiki/%D0%9C%D0%B5%D0%B3%D0%B0%D0%B2%D0%B0%D1%82%D1%82" title="Мегаватт">МВт</a></th>
+<td class="plainlist" style="min-width:11em;">
+<span class="no-wikidata" data-wikidata-property-id="P2109">15</span></td>
+</tr>
+<tr>
+<th class="infobox-header" colspan="2" scope="colgroup" style="background:#dcebff;">Характеристики оборудования</th>
+</tr>
+<tr>
+<th class="plainlist" scope="row" style="min-width:10em;">Тип турбин</th>
+<td class="plainlist" style="min-width:11em;">
+<a href="/wiki/%D0%A0%D0%B0%D0%B4%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE-%D0%BE%D1%81%D0%B5%D0%B2%D0%B0%D1%8F_%D1%82%D1%83%D1%80%D0%B1%D0%B8%D0%BD%D0%B0" title="Радиально-осевая турбина">радиально-осевые</a></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row" style="min-width:10em;">Количество и марка турбин</th>
+<td class="plainlist" style="min-width:11em;">
+3×РО75-В-140</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row" style="min-width:10em;">Расход через турбины, м³/<a href="/wiki/%D0%A1%D0%B5%D0%BA%D1%83%D0%BD%D0%B4%D0%B0" title="Секунда">с</a></th>
+<td class="plainlist" style="min-width:11em;">
+3×11,8</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row" style="min-width:10em;">Количество и марка генераторов</th>
+<td class="plainlist" style="min-width:11em;">
+3×СВ 325/54-16</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row" style="min-width:10em;">Мощность генераторов, <a class="mw-redirect" href="/wiki/%D0%9C%D0%92%D1%82" title="МВт">МВт</a></th>
+<td class="plainlist" style="min-width:11em;">
+3×5</td>
+</tr>
+<tr>
+<th class="infobox-header" colspan="2" scope="colgroup" style="background:#dcebff;">Основные сооружения</th>
+</tr>
+<tr>
+<th class="plainlist" scope="row" style="min-width:10em;">Тип плотины</th>
+<td class="plainlist" style="min-width:11em;">
+арочная</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row" style="min-width:10em;">Высота плотины, м</th>
+<td class="plainlist" style="min-width:11em;">
+73</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row" style="min-width:10em;">Длина плотины, м</th>
+<td class="plainlist" style="min-width:11em;">
+59</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row" style="min-width:10em;"><a class="mw-redirect" href="/wiki/%D0%A8%D0%BB%D1%8E%D0%B7_(%D0%B3%D0%B8%D0%B4%D1%80%D0%BE%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D1%81%D0%BE%D0%BE%D1%80%D1%83%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5)" title="Шлюз (гидротехническое сооружение)">Шлюз</a></th>
+<td class="plainlist" style="min-width:11em;">
+нет</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row" style="min-width:10em;"><a href="/wiki/%D0%A0%D0%B0%D1%81%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE" title="Распределительное устройство">РУ</a></th>
+<td class="plainlist" style="min-width:11em;">
+110 кВ</td>
+</tr>
+<tr>
+<th class="infobox-header" colspan="2" scope="colgroup" style="background:#dcebff;">На карте</th>
+</tr>
+<tr>
+<td class="plainlist" colspan="2" style="text-align:center;min-width:11em;">
+<span class="no-wikidata" data-wikidata-property-id="P625"><div class="location-map" style="width:300px; ;;margin:0 auto"><div class=""><div class="thumbimage" style="overflow:hidden;max-width:100%;width:300px;position:relative; ;"><span class="notpageimage" typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Russia_Dagestan_relief_location_map.png" title="Гунибская ГЭС им. Расула Гамзатова (Дагестан)"><img alt="Гунибская ГЭС им. Расула Гамзатова (Дагестан)" class="mw-file-element" data-file-height="1689" data-file-width="1181" decoding="async" height="429" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Russia_Dagestan_relief_location_map.png/300px-Russia_Dagestan_relief_location_map.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Russia_Dagestan_relief_location_map.png/450px-Russia_Dagestan_relief_location_map.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Russia_Dagestan_relief_location_map.png/600px-Russia_Dagestan_relief_location_map.png 2x" width="300"/></a></span><div class="ts-ПозКарта-метка" style="left:54.17%; top:67.05%"><div class="ts-ПозКарта-метка-точка" style="left:-4px; top:-4px;"><span typeof="mw:File"><span title="Красная точка"><img alt="Красная точка" class="mw-file-element" data-file-height="64" data-file-width="64" decoding="async" height="9" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/9px-Red_pog.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/14px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/18px-Red_pog.svg.png 2x" width="9"/></span></span></div><div class="ts-ПозКарта-метка-ссылка" style="text-align: right; left: -162.5px">Гунибская ГЭС им. Расула Гамзатова</div></div></div></div></div></span></td>
+</tr><tr><td class="infobox-below" colspan="2" style="background:#dcebff;;"><span class="wikidata-claim" data-wikidata-claim-id="q4152170$236C96B2-F2FD-48BC-8933-998DB2344113" data-wikidata-property-id="P373"><span class="wikidata-snak wikidata-main-snak"><span typeof="mw:File"><a href="https://commons.wikimedia.org/wiki/Category:Gunib_hydroelectric_power_plant" title="commons:Category:Gunib hydroelectric power plant"><img alt="Логотип Викисклада" class="mw-file-element" data-file-height="1376" data-file-width="1024" decoding="async" height="20" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/15px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/23px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 2x" width="15"/></a></span> <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Gunib_hydroelectric_power_plant" title="commons:Category:Gunib hydroelectric power plant">Медиафайлы на Викискладе</a></span></span></td></tr>
+</tbody></table><p><span class="no-wikidata" data-wikidata-property-id="P625"></span>
+</p><p><b>Гуни́бская ГЭС им. <a href="/wiki/%D0%93%D0%B0%D0%BC%D0%B7%D0%B0%D1%82%D0%BE%D0%B2,_%D0%A0%D0%B0%D1%81%D1%83%D0%BB_%D0%93%D0%B0%D0%BC%D0%B7%D0%B0%D1%82%D0%BE%D0%B2%D0%B8%D1%87" title="Гамзатов, Расул Гамзатович">Расула Гамзатова</a></b> — <a href="/wiki/%D0%93%D0%B8%D0%B4%D1%80%D0%BE%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F" title="Гидроэлектростанция">гидроэлектростанция</a> на реке <a href="/wiki/%D0%9A%D0%B0%D1%80%D0%B0%D0%BA%D0%BE%D0%B9%D1%81%D1%83" title="Каракойсу">Каракойсу</a> в <a href="/wiki/%D0%93%D1%83%D0%BD%D0%B8%D0%B1%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD" title="Гунибский район">Гунибском районе</a> <a href="/wiki/%D0%94%D0%B0%D0%B3%D0%B5%D1%81%D1%82%D0%B0%D0%BD" title="Дагестан">Дагестана</a>. Является верхней ступенью каскада ГЭС на Каракойсу. Строительство ГЭС было начато в 1995 году, завершено в 2005 году. Гунибская ГЭС построена по плотинной схеме с <a href="/wiki/%D0%91%D0%B5%D1%82%D0%BE%D0%BD" title="Бетон">бетонной</a> <a href="/wiki/%D0%90%D1%80%D0%BE%D1%87%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BB%D0%BE%D1%82%D0%B8%D0%BD%D0%B0" title="Арочная плотина">арочной плотиной</a>, представляя собой одну из немногих гидроэлектростанций такого типа в <a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F" title="Россия">России</a>. Установленная мощность ГЭС составляет 15 МВт, и согласно существующей в России классификации она относится к <a href="/wiki/%D0%9C%D0%B0%D0%BB%D0%B0%D1%8F_%D0%B3%D0%B8%D0%B4%D1%80%D0%BE%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F" title="Малая гидроэлектростанция">малым ГЭС</a><sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup>. Гунибская ГЭС входит в состав Дагестанского филиала ПАО «<a class="mw-redirect" href="/wiki/%D0%A0%D1%83%D1%81%D0%93%D0%B8%D0%B4%D1%80%D0%BE" title="РусГидро">РусГидро</a>».
+</p>
+<div aria-labelledby="mw-toc-heading" class="toc" id="toc" role="navigation"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="ru"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Природные_условия"><span class="tocnumber">1</span> <span class="toctext">Природные условия</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Описание_сооружений"><span class="tocnumber">2</span> <span class="toctext">Описание сооружений</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Плотина"><span class="tocnumber">2.1</span> <span class="toctext">Плотина</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Напорный_тракт"><span class="tocnumber">2.2</span> <span class="toctext">Напорный тракт</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Здание_ГЭС"><span class="tocnumber">2.3</span> <span class="toctext">Здание ГЭС</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Схема_выдачи_мощности"><span class="tocnumber">2.4</span> <span class="toctext">Схема выдачи мощности</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Водохранилище"><span class="tocnumber">2.5</span> <span class="toctext">Водохранилище</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#История"><span class="tocnumber">3</span> <span class="toctext">История</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Проектирование"><span class="tocnumber">3.1</span> <span class="toctext">Проектирование</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Строительство"><span class="tocnumber">3.2</span> <span class="toctext">Строительство</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Эксплуатация"><span class="tocnumber">3.3</span> <span class="toctext">Эксплуатация</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Примечания"><span class="tocnumber">4</span> <span class="toctext">Примечания</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Литература"><span class="tocnumber">5</span> <span class="toctext">Литература</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Ссылки"><span class="tocnumber">6</span> <span class="toctext">Ссылки</span></a></li>
+</ul>
+</div>
+<h2><span id=".D0.9F.D1.80.D0.B8.D1.80.D0.BE.D0.B4.D0.BD.D1.8B.D0.B5_.D1.83.D1.81.D0.BB.D0.BE.D0.B2.D0.B8.D1.8F"></span><span class="mw-headline" id="Природные_условия">Природные условия</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%93%D1%83%D0%BD%D0%B8%D0%B1%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1&amp;veaction=edit&amp;section=1" title="Редактировать раздел «Природные условия»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%93%D1%83%D0%BD%D0%B8%D0%B1%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1&amp;action=edit&amp;section=1" title="Редактировать код раздела «Природные условия»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Гунибская ГЭС расположена на реке Каракойсу (Кара-Койсу), притоке реки <a href="/wiki/%D0%90%D0%B2%D0%B0%D1%80%D1%81%D0%BA%D0%BE%D0%B5_%D0%9A%D0%BE%D0%B9%D1%81%D1%83" title="Аварское Койсу">Аварское Койсу</a>, выше пущенной в 1937 году <a href="/wiki/%D0%93%D0%B5%D1%80%D0%B3%D0%B5%D0%B1%D0%B8%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1" title="Гергебильская ГЭС">Гергебильской ГЭС</a>. Среднемноголетний расход Каракойсу в створе Гунибской ГЭС составляет 19,2 м³/с, максимальный расход — 510 м³/с. С апреля по октябрь по реке проходит около 90 % годового стока. Вода реки отличается большой <a href="/wiki/%D0%9C%D1%83%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C_%D0%B2%D0%BE%D0%B4%D1%8B" title="Мутность воды">мутностью</a> (средняя за год — 4,36 кг/м³, максимальная — до 25 кг/м³), за год река переносит 1,86 млн тонн <a href="/wiki/%D0%9D%D0%B0%D0%BD%D0%BE%D1%81%D1%8B" title="Наносы">наносов</a>, главным образом в период <a href="/wiki/%D0%9F%D0%B0%D0%B2%D0%BE%D0%B4%D0%BE%D0%BA" title="Паводок">паводка</a>. Климат в районе расположения Гунибской ГЭС <a href="/wiki/%D0%9A%D0%BE%D0%BD%D1%82%D0%B8%D0%BD%D0%B5%D0%BD%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D0%B8%D0%BC%D0%B0%D1%82" title="Континентальный климат">континентальный</a> с короткой мягкой зимой и жарким летом, среднегодовая температура воздуха составляет +9°С. Максимальная зарегистрированная температура — +42°С (август), минимальная — −30°С (январь). Среднегодовое количество осадков 500 мм, большая часть их выпадает с мая по сентябрь. Сплошной <a href="/wiki/%D0%9B%D0%B5%D0%B4%D1%8F%D0%BD%D0%BE%D0%B9_%D0%BF%D0%BE%D0%BA%D1%80%D0%BE%D0%B2" title="Ледяной покров">ледяной покров</a> на реке не устанавливается, наблюдаются <a href="/wiki/%D0%97%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B3%D0%B8" title="Забереги">забереги</a>, <a href="/wiki/%D0%A8%D1%83%D0%B3%D0%B0" title="Шуга">шуга</a> и <a href="/wiki/%D0%97%D0%B0%D0%B6%D0%BE%D1%80" title="Зажор">зажоры</a><sup class="reference" id="cite_ref-_d7c8b74c3bba46eb_2-0"><a href="#cite_note-_d7c8b74c3bba46eb-2">[2]</a></sup>.
+</p><p>Створ Гунибской ГЭС расположен в 22 км выше впадения Каракойсу в Аварское Койсу в сужении <a href="/wiki/%D0%94%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0" title="Долина">речной долины</a> (<a href="/wiki/%D0%A3%D1%89%D0%B5%D0%BB%D1%8C%D0%B5" title="Ущелье">ущелье</a> Красного моста). На участке размещения основных сооружений ГЭС распространены прочные скальные породы — <a href="/wiki/%D0%98%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%BD%D1%8F%D0%BA" title="Известняк">известняки</a>, также встречаются <a href="/wiki/%D0%90%D0%BB%D0%B5%D0%B2%D1%80%D0%BE%D0%BB%D0%B8%D1%82" title="Алевролит">алевролиты</a>, <a href="/wiki/%D0%90%D1%80%D0%B3%D0%B8%D0%BB%D0%BB%D0%B8%D1%82" title="Аргиллит">аргиллиты</a>, <a href="/wiki/%D0%9F%D0%B5%D1%81%D1%87%D0%B0%D0%BD%D0%B8%D0%BA" title="Песчаник">песчаники</a>. <a href="/wiki/%D0%A1%D0%BA%D0%B0%D0%BB%D0%B0" title="Скала">Скальные</a> породы местами перекрыты на склонах <a class="mw-disambig" href="/wiki/%D0%93%D0%BB%D1%8B%D0%B1%D0%B0" title="Глыба">глыбово</a>-<a href="/wiki/%D0%A9%D0%B5%D0%B1%D0%B5%D0%BD%D1%8C" title="Щебень">щебенистыми</a> отложениями мощностью до 10 м, а в русле — <a href="/wiki/%D0%90%D0%BB%D0%BB%D1%8E%D0%B2%D0%B8%D0%B9" title="Аллювий">аллювиальными</a> <a href="/wiki/%D0%92%D0%B0%D0%BB%D1%83%D0%BD" title="Валун">валунно</a>-<a href="/wiki/%D0%93%D0%B0%D0%BB%D1%8C%D0%BA%D0%B0" title="Галька">галечниковыми</a> отложениями с <a href="/wiki/%D0%9F%D0%B5%D1%81%D0%BE%D0%BA" title="Песок">песчаным</a> заполнителем мощностью до 20-25 м. <a class="mw-redirect" href="/wiki/%D0%A1%D0%B5%D0%B9%D1%81%D0%BC%D0%B8%D1%87%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Сейсмичность">Сейсмичность</a> зоны расположения ГЭС — 9 баллов <a href="/wiki/%D0%A8%D0%BA%D0%B0%D0%BB%D0%B0_%D0%9C%D0%B5%D0%B4%D0%B2%D0%B5%D0%B4%D0%B5%D0%B2%D0%B0_%E2%80%94_%D0%A8%D0%BF%D0%BE%D0%BD%D1%85%D0%BE%D0%B9%D0%B5%D1%80%D0%B0_%E2%80%94_%D0%9A%D0%B0%D1%80%D0%BD%D0%B8%D0%BA%D0%B0" title="Шкала Медведева — Шпонхойера — Карника">по шкале MSK-64</a><sup class="reference" id="cite_ref-_d7c8b74c3bba46eb_2-1"><a href="#cite_note-_d7c8b74c3bba46eb-2">[2]</a></sup>.
+</p>
+<h2><span id=".D0.9E.D0.BF.D0.B8.D1.81.D0.B0.D0.BD.D0.B8.D0.B5_.D1.81.D0.BE.D0.BE.D1.80.D1.83.D0.B6.D0.B5.D0.BD.D0.B8.D0.B9"></span><span class="mw-headline" id="Описание_сооружений">Описание сооружений</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%93%D1%83%D0%BD%D0%B8%D0%B1%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Описание сооружений»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%93%D1%83%D0%BD%D0%B8%D0%B1%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1&amp;action=edit&amp;section=2" title="Редактировать код раздела «Описание сооружений»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Гунибская ГЭС представляет собой плотинную средненапорную гидроэлектростанцию с арочной плотиной и зданием ГЭС берегового типа (расположено отдельно от плотины на правом берегу реки). <a href="/wiki/%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BC%D0%BE%D1%89%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Установленная мощность">Установленная мощность</a> ГЭС — 15 МВт, проектная среднегодовая выработка — 57,6 млн <a href="/wiki/%D0%9A%D0%B8%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%82-%D1%87%D0%B0%D1%81" title="Киловатт-час">кВт·ч</a><sup class="reference" id="cite_ref-_d7c8b74c3bba46eb_2-2"><a href="#cite_note-_d7c8b74c3bba46eb-2">[2]</a></sup>.
+</p>
+<h3><span id=".D0.9F.D0.BB.D0.BE.D1.82.D0.B8.D0.BD.D0.B0"></span><span class="mw-headline" id="Плотина">Плотина</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%93%D1%83%D0%BD%D0%B8%D0%B1%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1&amp;veaction=edit&amp;section=3" title="Редактировать раздел «Плотина»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%93%D1%83%D0%BD%D0%B8%D0%B1%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1&amp;action=edit&amp;section=3" title="Редактировать код раздела «Плотина»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Плотина Гунибской ГЭС бетонная арочная, с пробкой (Гунибская ГЭС является одной из трёх ГЭС России с арочными плотинами (наряду с <a href="/wiki/%D0%A7%D0%B8%D1%80%D0%BA%D0%B5%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1" title="Чиркейская ГЭС">Чиркейской</a> и <a href="/wiki/%D0%9C%D0%B8%D0%B0%D1%82%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1" title="Миатлинская ГЭС">Миатлинской</a>). Полная высота плотины — 73 м, из них на арочную часть приходится 33 м, а на пробку 40 м, гребень плотины имеет отметку 863,5 м. Длина плотины по гребню составляет 58,7 м. Толщина арочной части составляет в верхней части 4 м и на контакте с пробкой 6 м, толщина пробки 20 м. На гребне плотина расширяется до 6,5 м с целью обеспечения необходимых габаритов для организации проезда автотранспорта (по плотине проходит автомобильный проезд шириной 4,5 метра с двумя пешеходными <a href="/wiki/%D0%A2%D1%80%D0%BE%D1%82%D1%83%D0%B0%D1%80" title="Тротуар">тротуарами</a>). В пробке на отметке 822,0 м размещён глубинный <a href="/wiki/%D0%92%D0%BE%D0%B4%D0%BE%D1%81%D0%BF%D1%83%D1%81%D0%BA" title="Водоспуск">водосброс</a> сечением 4,3×4,5 м, имеющий пропускную способность 448 м³/с. Плоские основные <a class="new" href="/w/index.php?title=%D0%97%D0%B0%D1%82%D0%B2%D0%BE%D1%80_(%D0%B3%D0%B8%D0%B4%D1%80%D0%BE%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0)&amp;action=edit&amp;redlink=1" title="Затвор (гидротехника) (страница отсутствует)">затворы</a> водосброса расположены со стороны нижнего бьефа, плоские аварийно-ремонтные затворы — со стороны верхнего бьефа; механизмы маневрирования аварийно-ремонтными затворами размещаются на гребне плотины. В теле плотины размещены две галереи, служащие для размещения контрольно-измерительной аппаратуры и отвода фильтрующихся через тело плотины вод. Для предотвращения фильтрации, в основании и бортах плотины устроены <a class="new" href="/w/index.php?title=%D0%A6%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B7%D0%B0%D0%B2%D0%B5%D1%81%D0%B0&amp;action=edit&amp;redlink=1" title="Цементационная завеса (страница отсутствует)">цементационные завесы</a><sup class="reference" id="cite_ref-_d7c8b74c3bba46eb_2-3"><a href="#cite_note-_d7c8b74c3bba46eb-2">[2]</a></sup><sup class="reference" id="cite_ref-Прометей_3-0"><a href="#cite_note-Прометей-3">[3]</a></sup>.
+</p>
+<h3><span id=".D0.9D.D0.B0.D0.BF.D0.BE.D1.80.D0.BD.D1.8B.D0.B9_.D1.82.D1.80.D0.B0.D0.BA.D1.82"></span><span class="mw-headline" id="Напорный_тракт">Напорный тракт</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%93%D1%83%D0%BD%D0%B8%D0%B1%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1&amp;veaction=edit&amp;section=4" title="Редактировать раздел «Напорный тракт»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%93%D1%83%D0%BD%D0%B8%D0%B1%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1&amp;action=edit&amp;section=4" title="Редактировать код раздела «Напорный тракт»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a class="mw-redirect" href="/wiki/%D0%92%D0%BE%D0%B4%D0%BE%D0%BF%D1%80%D0%B8%D1%91%D0%BC%D0%BD%D0%B8%D0%BA" title="Водоприёмник">Водоприёмник</a>, служащий для забора воды в подводящий <a href="/wiki/%D0%94%D0%B5%D1%80%D0%B8%D0%B2%D0%B0%D1%86%D0%B8%D1%8F_(%D0%B3%D0%B8%D0%B4%D1%80%D0%BE%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0)" title="Деривация (гидротехника)">деривационный</a> <a href="/wiki/%D0%A2%D0%BE%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C" title="Тоннель">тоннель</a>, расположен вблизи правобережного <a class="mw-disambig" href="/wiki/%D0%A3%D1%81%D1%82%D0%BE%D0%B9" title="Устой">устоя</a> плотины, представляет собой врезанную в скальный массив <a href="/wiki/%D0%96%D0%B5%D0%BB%D0%B5%D0%B7%D0%BE%D0%B1%D0%B5%D1%82%D0%BE%D0%BD" title="Железобетон">железобетонную</a> конструкцию длиной 20 м и шириной 9 м. Входное отверстие водоприёмника имеет размеры 5×8 м, оборудовано <a class="new" href="/w/index.php?title=%D0%A1%D0%BE%D1%80%D0%BE%D1%83%D0%B4%D0%B5%D1%80%D0%B6%D0%B8%D0%B2%D0%B0%D1%8E%D1%89%D0%B0%D1%8F_%D1%80%D0%B5%D1%88%D1%91%D1%82%D0%BA%D0%B0&amp;action=edit&amp;redlink=1" title="Сороудерживающая решётка (страница отсутствует)">сороудерживающей решёткой</a> и плоским аварийно-ремонтным затвором, маневрирование которым осуществляется <a href="/wiki/%D0%9A%D0%BE%D0%B7%D0%BB%D0%BE%D0%B2%D0%BE%D0%B9_%D0%BA%D1%80%D0%B0%D0%BD" title="Козловой кран">козловым краном</a> грузоподъёмностью 40 т. Порог водоприёмника находится на отметке 847,5 м<sup class="reference" id="cite_ref-_d7c8b74c3bba46eb_2-4"><a href="#cite_note-_d7c8b74c3bba46eb-2">[2]</a></sup>.
+</p><p>За водоприемником располагается слабонаклонная шахта глубиной 40 м круглого сечения (диаметром 3,1 м) с железобетонной обделкой. Шахта переходит слабонаклонный (уклон 0,015) деривационный тоннель, являющийся частью бывшего строительного тоннеля коробчатого сечения высотой 7,5 м и шириной 7 м (с учетом толщины обделки — 0,5 м), длина тоннеля 92 м. В концевой части тоннель заделан бетонной пробкой толщиной 10 м, через которую проложен металлический <a href="/wiki/%D0%A2%D1%80%D1%83%D0%B1%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4" title="Трубопровод">трубопровод</a> диаметром 3,1 м (толщина стенок 12 мм). Трубопровод завершается металлической развилкой, разделяющей поступающую воду между тремя гидроагрегатами<sup class="reference" id="cite_ref-_d7c8b74c3bba46eb_2-5"><a href="#cite_note-_d7c8b74c3bba46eb-2">[2]</a></sup>.
+</p>
+<h3><span id=".D0.97.D0.B4.D0.B0.D0.BD.D0.B8.D0.B5_.D0.93.D0.AD.D0.A1"></span><span class="mw-headline" id="Здание_ГЭС">Здание ГЭС</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%93%D1%83%D0%BD%D0%B8%D0%B1%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1&amp;veaction=edit&amp;section=5" title="Редактировать раздел «Здание ГЭС»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%93%D1%83%D0%BD%D0%B8%D0%B1%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1&amp;action=edit&amp;section=5" title="Редактировать код раздела «Здание ГЭС»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Здание ГЭС берегового типа, расположено в 70 м от плотины, состоит из трёх агрегатных блоков и монтажной площадки. Машинный зал имеет длину 40 м, ширину 14 м, расстояние между осями <a href="/wiki/%D0%93%D0%B8%D0%B4%D1%80%D0%BE%D0%B0%D0%B3%D1%80%D0%B5%D0%B3%D0%B0%D1%82" title="Гидроагрегат">гидроагрегатов</a> — 7,5 м. В здании ГЭС расположено 3 вертикальных гидроагрегата с <a href="/wiki/%D0%A0%D0%B0%D0%B4%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE-%D0%BE%D1%81%D0%B5%D0%B2%D0%B0%D1%8F_%D1%82%D1%83%D1%80%D0%B1%D0%B8%D0%BD%D0%B0" title="Радиально-осевая турбина">радиально-осевыми турбинами</a> РО-75-В-75 (мощность 5,2 МВт, диаметр рабочего колеса 1,4 м, расчётный <a href="/wiki/%D0%9D%D0%B0%D0%BF%D0%BE%D1%80" title="Напор">напор</a> 48,5 м, частота вращения 375 об/мин, расход воды через турбину 11,8 м³/с). При необходимости, поступление воды к турбинам перекрывается при помощи дисковых предтурбинных затворов ЗДб160-115 диаметром 1,6 м. Турбины приводят в действие <a href="/wiki/%D0%93%D0%B8%D0%B4%D1%80%D0%BE%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80" title="Гидрогенератор">гидрогенераторы</a> СВ 325/50-16 мощностью по 5 МВт, выдающих <a href="/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="Электричество">электроэнергию</a> на напряжении 6,3 кВ. Турбины произведены <a href="/wiki/%D0%A5%D0%B0%D1%80%D1%8C%D0%BA%D0%BE%D0%B2" title="Харьков">харьковским</a> заводом «<a href="/wiki/%D0%A2%D1%83%D1%80%D0%B1%D0%BE%D0%B0%D1%82%D0%BE%D0%BC" title="Турбоатом">Турбоатом</a>», генераторы — <a href="/wiki/%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B1%D1%83%D1%80%D0%B3" title="Екатеринбург">екатеринбургским</a> «<a href="/wiki/%D0%A3%D1%80%D0%B0%D0%BB%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%82%D1%8F%D0%B6%D0%BC%D0%B0%D1%88" title="Уралэлектротяжмаш">Уралэлектротяжмашем</a>». Гидроагрегаты Гунибской ГЭС идентичны тем, что были ранее использованы при реконструкции Гергебильской ГЭС. Для перемещения элементов гидроагрегатов в машинном зале имеется <a class="mw-redirect" href="/wiki/%D0%9C%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B9_%D0%BA%D1%80%D0%B0%D0%BD_(%D1%82%D0%B8%D0%BF)" title="Мостовой кран (тип)">мостовой кран</a> грузоподъёмностью 32 т<sup class="reference" id="cite_ref-_d7c8b74c3bba46eb_2-6"><a href="#cite_note-_d7c8b74c3bba46eb-2">[2]</a></sup><sup class="reference" id="cite_ref-Прометей_3-1"><a href="#cite_note-Прометей-3">[3]</a></sup><sup class="reference" id="cite_ref-_d1647130e730e106_4-0"><a href="#cite_note-_d1647130e730e106-4">[4]</a></sup>.
+</p>
+<ul class="gallery mw-gallery-traditional center">
+<li class="gallerycaption">Сооружения Гунибской ГЭС</li>
+<li class="gallerybox" style="width: 155px">
+<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Gunib_HPP2.jpg" title="Вид с плотины в нижний бьеф"><img alt="Вид с плотины в нижний бьеф" class="mw-file-element" data-file-height="2592" data-file-width="3888" decoding="async" height="80" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Gunib_HPP2.jpg/120px-Gunib_HPP2.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Gunib_HPP2.jpg/180px-Gunib_HPP2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/44/Gunib_HPP2.jpg/240px-Gunib_HPP2.jpg 2x" width="120"/></a></span></div>
+<div class="gallerytext">Вид с плотины в нижний бьеф</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Gunib_HPP11.jpg" title="Глубинный водосброс в работе"><img alt="Глубинный водосброс в работе" class="mw-file-element" data-file-height="1200" data-file-width="1600" decoding="async" height="90" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Gunib_HPP11.jpg/120px-Gunib_HPP11.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Gunib_HPP11.jpg/180px-Gunib_HPP11.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/61/Gunib_HPP11.jpg/240px-Gunib_HPP11.jpg 2x" width="120"/></a></span></div>
+<div class="gallerytext">Глубинный водосброс в работе</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Gunib_HPP4.jpg" title="Машинный зал"><img alt="Машинный зал" class="mw-file-element" data-file-height="1200" data-file-width="1600" decoding="async" height="90" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/15/Gunib_HPP4.jpg/120px-Gunib_HPP4.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/15/Gunib_HPP4.jpg/180px-Gunib_HPP4.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/15/Gunib_HPP4.jpg/240px-Gunib_HPP4.jpg 2x" width="120"/></a></span></div>
+<div class="gallerytext">Машинный зал</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Gunib_HPP3.jpg" title="Открытое распределительное устройство"><img alt="Открытое распределительное устройство" class="mw-file-element" data-file-height="2588" data-file-width="2465" decoding="async" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Gunib_HPP3.jpg/114px-Gunib_HPP3.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Gunib_HPP3.jpg/171px-Gunib_HPP3.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Gunib_HPP3.jpg/229px-Gunib_HPP3.jpg 2x" width="114"/></a></span></div>
+<div class="gallerytext">Открытое распределительное устройство</div>
+</li>
+</ul>
+<h3><span id=".D0.A1.D1.85.D0.B5.D0.BC.D0.B0_.D0.B2.D1.8B.D0.B4.D0.B0.D1.87.D0.B8_.D0.BC.D0.BE.D1.89.D0.BD.D0.BE.D1.81.D1.82.D0.B8"></span><span class="mw-headline" id="Схема_выдачи_мощности">Схема выдачи мощности</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%93%D1%83%D0%BD%D0%B8%D0%B1%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1&amp;veaction=edit&amp;section=6" title="Редактировать раздел «Схема выдачи мощности»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%93%D1%83%D0%BD%D0%B8%D0%B1%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1&amp;action=edit&amp;section=6" title="Редактировать код раздела «Схема выдачи мощности»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Выдача электроэнергии в <a href="/wiki/%D0%AD%D0%BD%D0%B5%D1%80%D0%B3%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0" title="Энергосистема">энергосистему</a> производится с открытого <a href="/wiki/%D0%A0%D0%B0%D1%81%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE" title="Распределительное устройство">распределительного устройства</a> (ОРУ) напряжением 110 кВ, размеры ОРУ — 35×50 м. На ОРУ размещены два повышающих <a href="/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%BE%D1%80" title="Трансформатор">трансформатора</a> ТДН 16000/110 мощностью по 16 МВА. От станции отходят четыре <a href="/wiki/%D0%9B%D0%B8%D0%BD%D0%B8%D1%8F_%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%B0%D1%87%D0%B8" title="Линия электропередачи">линии электропередачи</a>:<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup><sup class="reference" id="cite_ref-Прометей_3-2"><a href="#cite_note-Прометей-3">[3]</a></sup>
+</p>
+<ul><li>ВЛ 110 кВ Гунибская ГЭС — <a href="/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%BE%D0%B4%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F" title="Электрическая подстанция">ПС</a> Гуниб (ВЛ-110-193);</li>
+<li>ВЛ 110 кВ Гунибская ГЭС — ПС Хунзах (ВЛ-110-189);</li>
+<li>ВЛ 110 кВ Гунибская ГЭС — ПС Гергебиль (ВЛ-110-158);</li>
+<li>ВЛ 10 кВ Гергебильская ГЭС — Гунибская ГЭС (ВЛ-10-2).</li></ul>
+<p>Также, на площадке ГЭС размещён трёхэтажный производственно-технический корпус, в котором расположено генераторное распределительное устройство напряжением 6 кВ и иные производственные объекты<sup class="reference" id="cite_ref-Прометей_3-3"><a href="#cite_note-Прометей-3">[3]</a></sup>.
+</p>
+<h3><span id=".D0.92.D0.BE.D0.B4.D0.BE.D1.85.D1.80.D0.B0.D0.BD.D0.B8.D0.BB.D0.B8.D1.89.D0.B5"></span><span class="mw-headline" id="Водохранилище">Водохранилище</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%93%D1%83%D0%BD%D0%B8%D0%B1%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1&amp;veaction=edit&amp;section=7" title="Редактировать раздел «Водохранилище»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%93%D1%83%D0%BD%D0%B8%D0%B1%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1&amp;action=edit&amp;section=7" title="Редактировать код раздела «Водохранилище»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Плотина Гунибской ГЭС создала небольшое <a href="/wiki/%D0%92%D0%BE%D0%B4%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D0%B8%D0%BB%D0%B8%D1%89%D0%B5" title="Водохранилище">водохранилище</a> со следующими параметрами: максимальная длина — 3,8 км, максимальная ширина — 350 м, максимальная глубина — 53 м, полный объём водохранилища — 10,58 млн м³, его полезный объём — 0,87 млн м³, площадь зеркала водохранилища при нормальном уровне — 0,6 км². Водохранилище затопило всего 55 гектаров малоценных земель, в том числе <a href="/wiki/%D0%9F%D0%B0%D1%81%D1%82%D0%B1%D0%B8%D1%89%D0%B5" title="Пастбище">пастбища</a> — 6,39 га, <a href="/wiki/%D0%A1%D0%B0%D0%B4" title="Сад">сады</a> — 3,94 га, <a href="/wiki/%D0%9A%D1%83%D1%81%D1%82%D0%B0%D1%80%D0%BD%D0%B8%D0%BA" title="Кустарник">кустарники</a> — 7 га, <a href="/wiki/%D0%9B%D0%B5%D1%81" title="Лес">лес</a> — 0,6 га, прочие земли — 27,77 га<sup class="reference" id="cite_ref-Прометей_3-4"><a href="#cite_note-Прометей-3">[3]</a></sup>. Помимо энергетических целей, водохранилище используется для <a href="/wiki/%D0%92%D0%BE%D0%B4%D0%BE%D1%81%D0%BD%D0%B0%D0%B1%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5" title="Водоснабжение">водоснабжения</a> и <a class="mw-redirect" href="/wiki/%D0%98%D1%80%D1%80%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D1%8F" title="Ирригация">ирригации</a>. В связи с тем, что река Каракойсу несёт большое количество наносов, что приводит к постепенному <a href="/wiki/%D0%98%D0%BB" title="Ил">заиливанию</a> водохранилища, ежегодно проводится его промывка<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup>.
+</p>
+<h2><span id=".D0.98.D1.81.D1.82.D0.BE.D1.80.D0.B8.D1.8F"></span><span class="mw-headline" id="История">История</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%93%D1%83%D0%BD%D0%B8%D0%B1%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1&amp;veaction=edit&amp;section=8" title="Редактировать раздел «История»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%93%D1%83%D0%BD%D0%B8%D0%B1%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1&amp;action=edit&amp;section=8" title="Редактировать код раздела «История»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id=".D0.9F.D1.80.D0.BE.D0.B5.D0.BA.D1.82.D0.B8.D1.80.D0.BE.D0.B2.D0.B0.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Проектирование">Проектирование</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%93%D1%83%D0%BD%D0%B8%D0%B1%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1&amp;veaction=edit&amp;section=9" title="Редактировать раздел «Проектирование»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%93%D1%83%D0%BD%D0%B8%D0%B1%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1&amp;action=edit&amp;section=9" title="Редактировать код раздела «Проектирование»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Впервые возможность гидроэнергетического использования реки Каракойсу выше Гергебильской ГЭС была рассмотрена в «Водно-энергетической схеме Северного Кавказа», разработанной <a href="/wiki/%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%B2-%D0%BD%D0%B0-%D0%94%D0%BE%D0%BD%D1%83" title="Ростов-на-Дону">Ростовским</a> отделением института «<a href="/wiki/%D0%93%D0%B8%D0%B4%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82" title="Гидропроект">Гидроэнергопроект</a>» в 1935 году. Согласно данной схеме, намечалось сооружение трёх деривационных ГЭС общей мощностью 58 МВт и среднегодовой выработкой 300 млн кВт·ч. В 1966 году институтом «<a href="/wiki/%D0%93%D0%B8%D0%B4%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82" title="Гидропроект">Гидропроект</a>» были выпущены «Технические направления использования ресурсов Кавказа», в которой использование Каракойсу выше Гергебильской ГЭС планировалось осуществить двумя ступенями. В 1970 году институтом «<a href="/wiki/%D0%9B%D0%B5%D0%BD%D0%B3%D0%B8%D0%B4%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82" title="Ленгидропроект">Ленгидропроект</a>» была составлена «Схема использования рр. <a href="/wiki/%D0%90%D0%BD%D0%B4%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B5_%D0%9A%D0%BE%D0%B9%D1%81%D1%83" title="Андийское Койсу">Андийское</a> и Аварское Койсу», в которой подробно рассматривалась схема использования Каракойсу, включавшая в себя три ГЭС — Магарскую, Боцадахскую и Гунибскую общей мощностью 120 МВт и среднегодовой выработкой 0,5 млрд кВт·ч. В 1988 году тем же институтом в работе «Уточнение схемы использования водотока р. Кара-Койсу» были подробно рассмотрены створы и параметры запланированных к строительству Магарского, Боцадахского, Гунибского и Курминского гидроузлов<sup class="reference" id="cite_ref-_d7c8b74c3bba46eb_2-7"><a href="#cite_note-_d7c8b74c3bba46eb-2">[2]</a></sup>.
+</p><p>Технико-экономический расчёт строительства Гунибского гидроузла был разработан в 1987 году институтом «Ленгидропроект» и утверждён приказом № 97 от 16 октября 1990 года территориальным энергетическим объединением «Южэнерго». Рабочий проект Гунибской ГЭС разрабатывался «Ленгидропроектом» с 1991 по 1996 год, главный инженер проекта — В. А. Минин. В ходе проектирования, были рассмотрены два варианта плотины (арочные с пробкой и глубинным водосбросом и без пробки с поверхностным водосбросом) и водоподводящего тракта (с раздельным или совмещенным со строительным тоннелем расположением водовода)<sup class="reference" id="cite_ref-_d7c8b74c3bba46eb_2-8"><a href="#cite_note-_d7c8b74c3bba46eb-2">[2]</a></sup>.
+</p>
+<h3><span id=".D0.A1.D1.82.D1.80.D0.BE.D0.B8.D1.82.D0.B5.D0.BB.D1.8C.D1.81.D1.82.D0.B2.D0.BE"></span><span class="mw-headline" id="Строительство">Строительство</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%93%D1%83%D0%BD%D0%B8%D0%B1%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1&amp;veaction=edit&amp;section=10" title="Редактировать раздел «Строительство»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%93%D1%83%D0%BD%D0%B8%D0%B1%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1&amp;action=edit&amp;section=10" title="Редактировать код раздела «Строительство»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Строительство Гунибской ГЭС было начато в августе 1995 года с подготовки базы строительства, дороги и инженерных коммуникаций, <a href="/wiki/%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BF%D0%BE%D0%B4%D1%80%D1%8F%D0%B4%D1%87%D0%B8%D0%BA" title="Генеральный подрядчик">генеральным подрядчиком</a> строительства выступило ОАО «<a class="new" href="/w/index.php?title=%D0%A7%D0%B8%D1%80%D0%BA%D0%B5%D0%B9%D0%93%D0%AD%D0%A1%D1%81%D1%82%D1%80%D0%BE%D0%B9&amp;action=edit&amp;redlink=1" title="ЧиркейГЭСстрой (страница отсутствует)">ЧиркейГЭСстрой</a>» (с 1998 года генподрядчиком стало ООО «Энергострой ЛТД»). В 1996 году были начаты работы по основным сооружениям гидроузла — строительному тоннелю и зданию ГЭС. В 1999 году начаты работы по сооружению водоприёмника, в 2001 году было завершено сооружение строительного тоннеля. На первом этапе строительства (1995—2001 годы) финансирование строительных работ осуществлялось в небольшом объёме и нерегулярно, что привело к значительному затягиванию сроков строительства<sup class="reference" id="cite_ref-_d7c8b74c3bba46eb_2-9"><a href="#cite_note-_d7c8b74c3bba46eb-2">[2]</a></sup>.
+</p>
+<ul class="gallery mw-gallery-traditional center">
+<li class="gallerycaption">Строительство Гунибской ГЭС</li>
+<li class="gallerybox" style="width: 155px">
+<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Gunib_HPP9.jpg" title="Бетонирование плотины"><img alt="Бетонирование плотины" class="mw-file-element" data-file-height="1200" data-file-width="1600" decoding="async" height="90" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Gunib_HPP9.jpg/120px-Gunib_HPP9.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Gunib_HPP9.jpg/180px-Gunib_HPP9.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/86/Gunib_HPP9.jpg/240px-Gunib_HPP9.jpg 2x" width="120"/></a></span></div>
+<div class="gallerytext">Бетонирование плотины</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Gunib_HPP8.jpg" title="Вид на плотину перед заполнением водохранилища"><img alt="Вид на плотину перед заполнением водохранилища" class="mw-file-element" data-file-height="1704" data-file-width="2272" decoding="async" height="90" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Gunib_HPP8.jpg/120px-Gunib_HPP8.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Gunib_HPP8.jpg/180px-Gunib_HPP8.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Gunib_HPP8.jpg/240px-Gunib_HPP8.jpg 2x" width="120"/></a></span></div>
+<div class="gallerytext">Вид на плотину перед заполнением водохранилища</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Gunib_HPP10.jpg" title="Бетонирование глубинного водосброса"><img alt="Бетонирование глубинного водосброса" class="mw-file-element" data-file-height="960" data-file-width="1280" decoding="async" height="90" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/Gunib_HPP10.jpg/120px-Gunib_HPP10.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/Gunib_HPP10.jpg/180px-Gunib_HPP10.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/13/Gunib_HPP10.jpg/240px-Gunib_HPP10.jpg 2x" width="120"/></a></span></div>
+<div class="gallerytext">Бетонирование глубинного водосброса</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Gunib_HPP6.jpg" title="Строительство производственно-технического комплекса"><img alt="Строительство производственно-технического комплекса" class="mw-file-element" data-file-height="1200" data-file-width="1600" decoding="async" height="90" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Gunib_HPP6.jpg/120px-Gunib_HPP6.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Gunib_HPP6.jpg/180px-Gunib_HPP6.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/Gunib_HPP6.jpg/240px-Gunib_HPP6.jpg 2x" width="120"/></a></span></div>
+<div class="gallerytext">Строительство производственно-технического комплекса</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Gunib_HPP7.jpg" title="Монтаж оборудования на ОРУ-110 кВ"><img alt="Монтаж оборудования на ОРУ-110 кВ" class="mw-file-element" data-file-height="1200" data-file-width="1600" decoding="async" height="90" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Gunib_HPP7.jpg/120px-Gunib_HPP7.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Gunib_HPP7.jpg/180px-Gunib_HPP7.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Gunib_HPP7.jpg/240px-Gunib_HPP7.jpg 2x" width="120"/></a></span></div>
+<div class="gallerytext">Монтаж оборудования на ОРУ-110 кВ</div>
+</li>
+</ul>
+<p>С 2002 года финансирование было значительно увеличено, что позволило в течение трёх лет завершить строительство станции. 28 ноября 2002 года река Каракойсу была перекрыта насыпной перемычкой, сток реки перенаправлен в строительный тоннель. Под защитой перемычки начата разработка котлована плотины. В 2003 году были завершены основные строительные работы по водоприёмнику, зданию ГЭС, ОРУ, производственно-технологическому корпусу, начат монтаж гидросилового и электротехнического оборудования<sup class="reference" id="cite_ref-_d7c8b74c3bba46eb_2-10"><a href="#cite_note-_d7c8b74c3bba46eb-2">[2]</a></sup>.
+</p><p>Бетонные работы по сооружению плотины были начаты в конце марта 2004 года. К сентябрю того же года плотина достигла отметки 825,0 м, после чего был перекрыт строительный тоннель и начался первый этап заполнения водохранилища. С этого момента, пропуск воды осуществляется через эксплуатационный водосброс в теле плотины. Во входных и выходных частях строительного тоннеля устроены бетонные пробки, тоннель был соединён с шахтой водоприёмника и стал частью водоподводящего тракта. 21 декабря 2004 года состоялся пуск гидроагрегатов Гунибской ГЭС в промышленную эксплуатацию. Все строительные работы были завершены в 2005 году, 6 мая 2005 года Гунибская ГЭС была принята Госкомиссией в эксплуатацию. Строительство Гунибской ГЭС обошлось ОАО «<a class="new" href="/w/index.php?title=%D0%94%D0%B0%D0%B3%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%BE&amp;action=edit&amp;redlink=1" title="Дагэнерго (страница отсутствует)">Дагэнерго</a>» в сумму порядка 600 млн рублей (в ценах 2005 года)<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup><sup class="reference" id="cite_ref-_d7c8b74c3bba46eb_2-11"><a href="#cite_note-_d7c8b74c3bba46eb-2">[2]</a></sup>.
+</p>
+<table cellpadding="2" style="background:#fff; border-collapse:collapse; border:1px solid #996; margin:1ex 0; text-align:center">
+<tbody><tr style="background-color:#996; color:#fff">
+<td colspan="6"><b>Финансирование строительства Гунибской ГЭС, млн руб. (в ценах 1984 г.)</b><sup class="reference" id="cite_ref-_d7c8b74c3bba46eb_2-12"><a href="#cite_note-_d7c8b74c3bba46eb-2">[2]</a></sup>
+</td></tr>
+<tr style="background-color:#ddb">
+<td style="border:1px solid #996; width:16%">1995—2001
+</td>
+<td style="border:1px solid #996; width:16%">2002
+</td>
+<td style="border:1px solid #996; width:16%">2003
+</td>
+<td style="border:1px solid #996; width:16%">2004
+</td>
+<td style="border:1px solid #996; width:16%">2005
+</td>
+<td style="border:1px solid #996; width:16%">Всего
+</td></tr>
+<tr>
+<td style="border:1px solid #996">1,82
+</td>
+<td style="border:1px solid #996">3,0
+</td>
+<td style="border:1px solid #996">4,0
+</td>
+<td style="border:1px solid #996">6,0
+</td>
+<td style="border:1px solid #996">1,0
+</td>
+<td style="border:1px solid #996">15,82
+</td></tr></tbody></table>
+<h3><span id=".D0.AD.D0.BA.D1.81.D0.BF.D0.BB.D1.83.D0.B0.D1.82.D0.B0.D1.86.D0.B8.D1.8F"></span><span class="mw-headline" id="Эксплуатация">Эксплуатация</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%93%D1%83%D0%BD%D0%B8%D0%B1%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1&amp;veaction=edit&amp;section=11" title="Редактировать раздел «Эксплуатация»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%93%D1%83%D0%BD%D0%B8%D0%B1%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1&amp;action=edit&amp;section=11" title="Редактировать код раздела «Эксплуатация»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Ещё во время строительства, 1 июня 2004 года Гунибской ГЭС было присвоено имя народного поэта Дагестана <a href="/wiki/%D0%93%D0%B0%D0%BC%D0%B7%D0%B0%D1%82%D0%BE%D0%B2,_%D0%A0%D0%B0%D1%81%D1%83%D0%BB_%D0%93%D0%B0%D0%BC%D0%B7%D0%B0%D1%82%D0%BE%D0%B2%D0%B8%D1%87" title="Гамзатов, Расул Гамзатович">Расула Гамзатова</a><sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup>.
+После завершения строительства Гунибская ГЭС находилась на балансе специально созданного ОАО «Прометей» (дочернее предприятие ОАО «Дагэнерго»). К 19 ноября 2006 года станция выработала 100 млн кВт·ч электроэнергии<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup>. В ходе реформы РАО «ЕЭС России», собственником ОАО «Прометей» стало ОАО «ГидроОГК» (позднее переименованное в ОАО «РусГидро». В 2009 году принято решение о ликвидации ОАО «Прометей», Гунибская ГЭС была передана в ведение Дагестанского филиала ОАО «<a class="mw-redirect" href="/wiki/%D0%A0%D1%83%D1%81%D0%93%D0%B8%D0%B4%D1%80%D0%BE" title="РусГидро">РусГидро</a>»<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup>.
+</p><p>С 27 июля 2009 года в бассейне Каракойсу начались обильные дожди, сформировавшие мощный <a href="/wiki/%D0%9F%D0%B0%D0%B2%D0%BE%D0%B4%D0%BE%D0%BA" title="Паводок">паводок</a> и вызвавшие резкое увеличение приточности в водохранилище Гунибской ГЭС. Максимальная приточность воды была зафиксирована 29 июля и составила более 200 м³/с. Водохранилище задержало часть стока, обеспечив уменьшение уровня паводка в нижнем бьефе, однако уровень воды в водохранилище поднялся до отметки гребня плотины, вследствие чего 29 июля начался её перелив через гребень, завершившийся на следующий день, 30 июля<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup>. Сооружения ГЭС при этом не пострадали, но был нанесён определённый ущерб оборудованию станции, который составил 13,7 млн рублей и был возмещён страховой компанией<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup>. С учётом опыта прохождения экстремального паводка, в 2010 году была проведена доработка затворов водосброса, что позволило управлять ими дистанционно, а также произведена реконструкция аэрационных труб с целью исключения попадания воды на механизмы затворов. Также, была построена подпорная стенка для защиты ОРУ от затопления со стороны нижнего бьефа<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup>.
+</p>
+<table class="standard">
+<caption>Выработка электроэнергии Гунибской ГЭС, млн кВт·ч<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup>
+</caption>
+<tbody><tr>
+<th>2005
+</th>
+<th>2006
+</th>
+<th>2007
+</th>
+<th>2008
+</th>
+<th>2009
+</th>
+<th>2010
+</th>
+<th>2011
+</th>
+<th>2012
+</th>
+<th>2013
+</th>
+<th>2014
+</th>
+<th>2015
+</th>
+<th>2016
+</th>
+<th>2017
+</th>
+<th>2018
+</th></tr>
+<tr>
+<td>48,5
+</td>
+<td>57,8
+</td>
+<td>58,8
+</td>
+<td>57,0
+</td>
+<td>61,1
+</td>
+<td>53,5
+</td>
+<td>51,0
+</td>
+<td>49,0
+</td>
+<td>59,1
+</td>
+<td>48,91
+</td>
+<td>50,2
+</td>
+<td>54,6
+</td>
+<td>42,8
+</td>
+<td>35,0
+</td></tr></tbody></table>
+<h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Примечания">Примечания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%93%D1%83%D0%BD%D0%B8%D0%B1%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1&amp;veaction=edit&amp;section=12" title="Редактировать раздел «Примечания»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%93%D1%83%D0%BD%D0%B8%D0%B1%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1&amp;action=edit&amp;section=12" title="Редактировать код раздела «Примечания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.docload.ru/Basesdoc/1/1974/index.htm" rel="nofollow">СНиП 2.06.01-86. Гидротехнические сооружения. Основные положения проектирования</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 11 июня 2020. <a class="external text" href="https://web.archive.org/web/20120224222852/http://www.docload.ru/Basesdoc/1/1974/index.htm" rel="nofollow">Архивировано</a> 24 февраля 2012 года.</span></span>
+</li>
+<li id="cite_note-_d7c8b74c3bba46eb-2"><span class="mw-cite-backlink">↑ <a href="#cite_ref-_d7c8b74c3bba46eb_2-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-_d7c8b74c3bba46eb_2-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-_d7c8b74c3bba46eb_2-2"><sup><i><b>3</b></i></sup></a> <a href="#cite_ref-_d7c8b74c3bba46eb_2-3"><sup><i><b>4</b></i></sup></a> <a href="#cite_ref-_d7c8b74c3bba46eb_2-4"><sup><i><b>5</b></i></sup></a> <a href="#cite_ref-_d7c8b74c3bba46eb_2-5"><sup><i><b>6</b></i></sup></a> <a href="#cite_ref-_d7c8b74c3bba46eb_2-6"><sup><i><b>7</b></i></sup></a> <a href="#cite_ref-_d7c8b74c3bba46eb_2-7"><sup><i><b>8</b></i></sup></a> <a href="#cite_ref-_d7c8b74c3bba46eb_2-8"><sup><i><b>9</b></i></sup></a> <a href="#cite_ref-_d7c8b74c3bba46eb_2-9"><sup><i><b>10</b></i></sup></a> <a href="#cite_ref-_d7c8b74c3bba46eb_2-10"><sup><i><b>11</b></i></sup></a> <a href="#cite_ref-_d7c8b74c3bba46eb_2-11"><sup><i><b>12</b></i></sup></a> <a href="#cite_ref-_d7c8b74c3bba46eb_2-12"><sup><i><b>13</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFМинин2006">Минин, 2006</a>, с. 2—11.</span>
+</li>
+<li id="cite_note-Прометей-3"><span class="mw-cite-backlink">↑ <a href="#cite_ref-Прометей_3-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-Прометей_3-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-Прометей_3-2"><sup><i><b>3</b></i></sup></a> <a href="#cite_ref-Прометей_3-3"><sup><i><b>4</b></i></sup></a> <a href="#cite_ref-Прометей_3-4"><sup><i><b>5</b></i></sup></a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.prometey.rushydro.ru/hpp/general" rel="nofollow">ОАО «Прометей». Общие сведения</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. РусГидро. Дата обращения: 11 июня 2020. <a class="external text" href="https://web.archive.org/web/20160304104125/http://www.prometey.rushydro.ru/hpp/general" rel="nofollow">Архивировано</a> 4 марта 2016 года.</span></span>
+</li>
+<li id="cite_note-_d1647130e730e106-4"><span class="mw-cite-backlink"><a href="#cite_ref-_d1647130e730e106_4-0">↑</a></span> <span class="reference-text"><a href="#CITEREFМ._И._Дворецкая2018">М. И. Дворецкая, 2018</a>, с. 202—203.</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.kip-guide.ru/info/62211-15" rel="nofollow">Система автоматизированная информационно-измерительная коммерческого учета электроэнергии (АИИС КУЭ) Филиала ОАО «РусГидро» — «Дагестанский филиал»)</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Федеральное агентство по техническому регулированию и метрологии. Дата обращения: 11 июня 2020.</span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.dagestan.rushydro.ru/press/news/30234.html" rel="nofollow">На Гунибской и Гергебильской ГЭС проводится очистка водохранилищ</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Русгидро. Дата обращения: 11 июня 2020. <a class="external text" href="https://web.archive.org/web/20200611134706/http://www.dagestan.rushydro.ru/press/news/30234.html" rel="nofollow">Архивировано</a> 11 июня 2020 года.</span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.finmarket.ru/database/news/378504?fid=6541&amp;l=31&amp;fs=T&amp;ref=AnketaOrg" rel="nofollow">Сдана в промышленную эксплуатацию Гунибская ГЭС; инвестиции «Дагэнерго» в ее строительство составили около 600 млн руб.</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span> Финмаркет. Дата обращения: 11 июня 2020. <a class="external text" href="https://web.archive.org/web/20200611134710/http://www.finmarket.ru/database/news/378504?fid=6541&amp;l=31&amp;fs=T&amp;ref=AnketaOrg" rel="nofollow">Архивировано</a> 11 июня 2020 года.</span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.regnum.ru/news/271515.html" rel="nofollow">Гунибской ГЭС присвоено имя народного поэта Дагестана Расула Гамзатова</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. REGNUM. Дата обращения: 11 июня 2020. <a class="external text" href="https://web.archive.org/web/20131115100353/http://www.regnum.ru/news/271515.html" rel="nofollow">Архивировано</a> 15 ноября 2013 года.</span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.prometey.rushydro.ru/press/news/34341.html" rel="nofollow">100 миллионов Гунибской ГЭС</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. ОАО «ДРГК». Дата обращения: 11 июня 2020. <a class="external text" href="https://web.archive.org/web/20200611135739/http://www.prometey.rushydro.ru/press/news/34341.html" rel="nofollow">Архивировано</a> 11 июня 2020 года.</span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.prometey.rushydro.ru/press/news/34336.html" rel="nofollow">Совет директоров ОАО «РусГидро» одобрил совершение сделки, связанной с отчуждением имущества ОАО «Прометей»</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. РусГидро. Дата обращения: 11 июня 2020. <a class="external text" href="https://web.archive.org/web/20200611135653/http://www.prometey.rushydro.ru/press/news/34336.html" rel="nofollow">Архивировано</a> 11 июня 2020 года.</span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.rushydro.ru/press/news/25646.html" rel="nofollow">Приточность воды в водохранилище Гунибской ГЭС продолжает снижаться</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. РусГидро. Дата обращения: 11 июня 2020. <a class="external text" href="https://web.archive.org/web/20200611134717/http://www.rushydro.ru/press/news/25646.html" rel="nofollow">Архивировано</a> 11 июня 2020 года.</span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.rushydro.ru/press/holding-news/30300.html" rel="nofollow">ОАО «Капитал Страхование» выплатило аванс по договору страхования имущества ОАО «РусГидро»</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. РусГидро. Дата обращения: 11 июня 2020. <a class="external text" href="https://web.archive.org/web/20200611134719/http://www.rushydro.ru/press/holding-news/30300.html" rel="nofollow">Архивировано</a> 11 июня 2020 года.</span></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.rushydro.ru/press/holding-news/30247.html" rel="nofollow">Итоги деятельности Дагестанского филиала ОАО «РусГидро» за 9 месяцев 2010 года</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. РусГидро. Дата обращения: 11 июня 2020. <a class="external text" href="https://web.archive.org/web/20200611134707/http://www.rushydro.ru/press/holding-news/30247.html" rel="nofollow">Архивировано</a> 11 июня 2020 года.</span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.dagestan.rushydro.ru/branch/production/" rel="nofollow">Производство электроэнергии</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. РусГидро. Дата обращения: 11 июня 2020. <a class="external text" href="https://web.archive.org/web/20200429003301/http://www.dagestan.rushydro.ru/branch/production/" rel="nofollow">Архивировано</a> 29 апреля 2020 года.</span></span>
+</li>
+</ol></div></div>
+<h2><span id=".D0.9B.D0.B8.D1.82.D0.B5.D1.80.D0.B0.D1.82.D1.83.D1.80.D0.B0"></span><span class="mw-headline" id="Литература">Литература</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%93%D1%83%D0%BD%D0%B8%D0%B1%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1&amp;veaction=edit&amp;section=13" title="Редактировать раздел «Литература»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%93%D1%83%D0%BD%D0%B8%D0%B1%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1&amp;action=edit&amp;section=13" title="Редактировать код раздела «Литература»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="citation no-wikidata" data-wikidata-property-id="P1343" id="CITEREFМ._И._Дворецкая2018"><i>Дворецкая М. И., Жданова А. П., Лушников О. Г., Слива И. В.</i> Возобновляемая энергия. Гидроэлектростанции России. — <abbr title="Санкт-Петербург">СПб.</abbr>: Издательство Санкт-Петербургского политехнического университета Петра Великого, 2018. — 224 с. — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9785742261391">ISBN 978-5-7422-6139-1</a>.</span></li>
+<li><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>Абигасанов М.</i> Сияние Черной реки. — Махачкала: ИД «Эпоха», 2005. — 331 с. — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/5983900064">ISBN 5-98390-006-4</a>.</span></li>
+<li><span class="citation" id="CITEREFМинин2006"><i>Минин В.А.</i> Проектирование и строительство Гунибской ГЭС на р.Кара-Койсу в Дагестане // Гидротехническое строительство. — 2006. — <span class="nowrap">№ 7</span>. — <span class="nowrap">С. 2-11</span>.</span></li></ul>
+<h2><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span><span class="mw-headline" id="Ссылки">Ссылки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%93%D1%83%D0%BD%D0%B8%D0%B1%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1&amp;veaction=edit&amp;section=14" title="Редактировать раздел «Ссылки»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%93%D1%83%D0%BD%D0%B8%D0%B1%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1&amp;action=edit&amp;section=14" title="Редактировать код раздела «Ссылки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div aria-label="В родственных проектах" class="ts-Родственные_проекты ruwikiWikimediaNavigation tright metadata plainlinks plainlist noprint" role="navigation"><ul><li class="ts-Родственные_проекты-item"><span class="ts-Родственные_проекты-image"><span typeof="mw:File"><span><img alt="" class="mw-file-element" data-file-height="30" data-file-width="30" decoding="async" height="24" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/24px-Notification-icon-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/36px-Notification-icon-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/48px-Notification-icon-Commons-logo.svg.png 2x" width="24"/></span></span></span><span class="ts-Родственные_проекты-label commons-ref"><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Gunib_hydroelectric_power_plant" title="commons:Category:Gunib hydroelectric power plant">Медиафайлы на Викискладе</a></span></li></ul></div>
+<ul><li><span class="citation"><span lang="und"><a class="external text" href="http://www.dagestan.rushydro.ru/hpp/irganayskges/gunib/" rel="nofollow">Описание Гунибской ГЭС на сайте Дагестанского филиала ПАО «РусГидро»</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. РусГидро. Дата обращения: 11 июня 2020.</span></li>
+<li><span class="citation"><span lang="und"><a class="external text" href="http://www.lhp.rushydro.ru/company/objectsmap/5719.html" rel="nofollow">Описание Гунибской ГЭС на сайте института «Ленгидропроект»</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Ленгидропроект. Дата обращения: 11 июня 2020.</span></li>
+<li><span class="citation"><span lang="und"><a class="external text" href="https://dedmaxopka.livejournal.com/70077.html" rel="nofollow">Фотообзор Гунибской ГЭС</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Вадим Махоров. Дата обращения: 11 июня 2020.</span></li></ul>
+<table class="mbox-Хорошая_статья plainlinks metadata ambox ambox-good" id="ga-message" role="presentation" style="margin-top:1em"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D1%85_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9" title="Википедия:Список хороших статей"><img alt="✰" class="mw-file-element" data-file-height="24" data-file-width="24" decoding="async" height="24" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Blue_star_boxed.svg/24px-Blue_star_boxed.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Blue_star_boxed.svg/36px-Blue_star_boxed.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Blue_star_boxed.svg/48px-Blue_star_boxed.svg.png 2x" width="24"/></a></span></div></td><td class="mbox-text"><div class="mbox-text-div">Эта статья входит в число <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Википедия:Хорошие статьи">хороших статей</a> русскоязычного раздела Википедии.</div><div class="mbox-textsmall-div hide-when-compact" style="font-size:85%"></div></td></tr></tbody></table></div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> -->
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Гунибская_ГЭС&amp;oldid=129789222">https://ru.wikipedia.org/w/index.php?title=Гунибская_ГЭС&amp;oldid=129789222</a></div></div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Электростанции по алфавиту">Электростанции по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%93%D0%B8%D0%B4%D1%80%D0%BE%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D0%B8_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Категория:Гидроэлектростанции России">Гидроэлектростанции России</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D0%B8_%D0%94%D0%B0%D0%B3%D0%B5%D1%81%D1%82%D0%B0%D0%BD%D0%B0" title="Категория:Электростанции Дагестана">Электростанции Дагестана</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%BD%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%B3%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D0%B3%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D1%8B_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Антропогенные географические объекты по алфавиту">Антропогенные географические объекты по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%A0%D0%9E:%D0%90%D0%93%D0%95%D0%9E:%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D1%8F%D1%8F_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:_%D0%B2_%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%BE%D0%BC_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:ПРО:АГЕО:Последняя правка: в прошлом году">ПРО:АГЕО:Последняя правка: в прошлом году</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81%D0%BE_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8_%D0%BD%D0%B0_%D0%92%D0%B8%D0%BA%D0%B8%D1%81%D0%BA%D0%BB%D0%B0%D0%B4" title="Категория:Статьи со ссылками на Викисклад">Статьи со ссылками на Викисклад</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Википедия:Хорошие статьи по алфавиту">Википедия:Хорошие статьи по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%BF%D0%BE_%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B5" title="Категория:Википедия:Хорошие статьи по экономике">Википедия:Хорошие статьи по экономике</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%BE_%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B5" title="Категория:Википедия:Хорошие статьи о технике">Википедия:Хорошие статьи о технике</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B,_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D0%B2%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_ISBN" title="Категория:Страницы, использующие волшебные ссылки ISBN">Страницы, использующие волшебные ссылки ISBN</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D1%81_%D0%BA%D0%B0%D1%80%D1%82%D0%B0%D0%BC%D0%B8" title="Категория:Википедия:Страницы с картами">Википедия:Страницы с картами</a></li></ul></div></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Навигация</h2>
+<div id="mw-head">
+<nav aria-labelledby="p-personal-label" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" id="p-personal" role="navigation">
+<h3 class="vector-menu-heading" id="p-personal-label">
+<span class="vector-menu-heading-label">Персональные инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="pt-anonuserpage"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li class="mw-list-item" id="pt-anontalk"><a accesskey="n" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]"><span>Обсуждение</span></a></li><li class="mw-list-item" id="pt-anoncontribs"><a accesskey="y" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]"><span>Вклад</span></a></li><li class="mw-list-item" id="pt-createaccount"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%93%D1%83%D0%BD%D0%B8%D0%B1%D1%81%D0%BA%D0%B0%D1%8F+%D0%93%D0%AD%D0%A1" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li class="mw-list-item" id="pt-login"><a accesskey="o" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%93%D1%83%D0%BD%D0%B8%D0%B1%D1%81%D0%BA%D0%B0%D1%8F+%D0%93%D0%AD%D0%A1" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]"><span>Войти</span></a></li>
+</ul>
+</div>
+</nav>
+<div id="left-navigation">
+<nav aria-labelledby="p-namespaces-label" class="mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-namespaces" role="navigation">
+<h3 class="vector-menu-heading" id="p-namespaces-label">
+<span class="vector-menu-heading-label">Пространства имён</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-nstab-main"><a accesskey="c" href="/wiki/%D0%93%D1%83%D0%BD%D0%B8%D0%B1%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1" title="Просмотреть контентную страницу [c]"><span>Статья</span></a></li><li class="mw-list-item" id="ca-talk"><a accesskey="t" href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%93%D1%83%D0%BD%D0%B8%D0%B1%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1" rel="discussion" title="Обсуждение основной страницы [t]"><span>Обсуждение</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-variants-label" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" id="p-variants" role="navigation">
+<input aria-haspopup="true" aria-labelledby="p-variants-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-variants" id="p-variants-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-variants-label">
+<span class="vector-menu-heading-label">русский</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+</div>
+<div id="right-navigation">
+<nav aria-labelledby="p-views-label" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-views" role="navigation">
+<h3 class="vector-menu-heading" id="p-views-label">
+<span class="vector-menu-heading-label">Просмотры</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-view"><a href="/wiki/%D0%93%D1%83%D0%BD%D0%B8%D0%B1%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1"><span>Читать</span></a></li><li class="mw-list-item" id="ca-ve-edit"><a accesskey="v" href="/w/index.php?title=%D0%93%D1%83%D0%BD%D0%B8%D0%B1%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1&amp;veaction=edit" title="Редактировать данную страницу [v]"><span>Править</span></a></li><li class="collapsible mw-list-item" id="ca-edit"><a accesskey="e" href="/w/index.php?title=%D0%93%D1%83%D0%BD%D0%B8%D0%B1%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1&amp;action=edit" title="Править исходный текст этой страницы [e]"><span>Править код</span></a></li><li class="mw-list-item" id="ca-history"><a accesskey="h" href="/w/index.php?title=%D0%93%D1%83%D0%BD%D0%B8%D0%B1%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1&amp;action=history" title="Журнал изменений страницы [h]"><span>История</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-cactions-label" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" id="p-cactions" role="navigation" title="Больше возможностей">
+<input aria-haspopup="true" aria-labelledby="p-cactions-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-cactions" id="p-cactions-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-cactions-label">
+<span class="vector-menu-heading-label">Ещё</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+<div class="vector-search-box-vue vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box" id="p-search" role="search">
+<h3>Поиск</h3>
+<form action="/w/index.php" class="vector-search-box-form" id="searchform">
+<div class="vector-search-box-inner" data-search-loc="header-navigation" id="simpleSearch">
+<input accesskey="f" aria-label="Искать в Википедии" autocapitalize="sentences" class="vector-search-box-input" id="searchInput" name="search" placeholder="Искать в Википедии" title="Искать в Википедии [f]" type="search"/>
+<input name="title" type="hidden" value="Служебная:Поиск"/>
+<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Найти страницы, содержащие указанный текст" type="submit" value="Найти"/>
+<input class="searchButton" id="searchButton" name="go" title="Перейти к странице, имеющей в точности такое название" type="submit" value="Перейти"/>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="vector-legacy-sidebar" id="mw-panel">
+<div id="p-logo" role="banner">
+<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу"></a>
+</div>
+<nav aria-labelledby="p-navigation-label" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" id="p-navigation" role="navigation">
+<h3 class="vector-menu-heading" id="p-navigation-label">
+<span class="vector-menu-heading-label">Навигация</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-mainpage-description"><a accesskey="z" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]"><span>Заглавная страница</span></a></li><li class="mw-list-item" id="n-content"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li class="mw-list-item" id="n-featured"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li class="mw-list-item" id="n-randompage"><a accesskey="x" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]"><span>Случайная статья</span></a></li><li class="mw-list-item" id="n-currentevents"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li class="mw-list-item" id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-participation-label" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" id="p-participation" role="navigation">
+<h3 class="vector-menu-heading" id="p-participation-label">
+<span class="vector-menu-heading-label">Участие</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-bug_in_article"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li class="mw-list-item" id="n-introduction"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li class="mw-list-item" id="n-portal"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li class="mw-list-item" id="n-forum"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li class="mw-list-item" id="n-recentchanges"><a accesskey="r" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]"><span>Свежие правки</span></a></li><li class="mw-list-item" id="n-newpages"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li class="mw-list-item" id="n-help"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-tb-label" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" id="p-tb" role="navigation">
+<h3 class="vector-menu-heading" id="p-tb-label">
+<span class="vector-menu-heading-label">Инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="t-whatlinkshere"><a accesskey="j" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%93%D1%83%D0%BD%D0%B8%D0%B1%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1" title="Список всех страниц, ссылающихся на данную [j]"><span>Ссылки сюда</span></a></li><li class="mw-list-item" id="t-recentchangeslinked"><a accesskey="k" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%93%D1%83%D0%BD%D0%B8%D0%B1%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]"><span>Связанные правки</span></a></li><li class="mw-list-item" id="t-specialpages"><a accesskey="q" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]"><span>Служебные страницы</span></a></li><li class="mw-list-item" id="t-permalink"><a href="/w/index.php?title=%D0%93%D1%83%D0%BD%D0%B8%D0%B1%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1&amp;oldid=129789222" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li class="mw-list-item" id="t-info"><a href="/w/index.php?title=%D0%93%D1%83%D0%BD%D0%B8%D0%B1%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li class="mw-list-item" id="t-cite"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%93%D1%83%D0%BD%D0%B8%D0%B1%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1&amp;id=129789222&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li class="mw-list-item" id="t-urlshortener"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%2593%25D1%2583%25D0%25BD%25D0%25B8%25D0%25B1%25D1%2581%25D0%25BA%25D0%25B0%25D1%258F_%25D0%2593%25D0%25AD%25D0%25A1"><span>Получить короткий URL</span></a></li><li class="mw-list-item" id="t-urlshortener-qrcode"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%2593%25D1%2583%25D0%25BD%25D0%25B8%25D0%25B1%25D1%2581%25D0%25BA%25D0%25B0%25D1%258F_%25D0%2593%25D0%25AD%25D0%25A1"><span>Скачать QR-код</span></a></li><li class="mw-list-item" id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q4152170" title="Ссылка на связанный элемент репозитория данных [g]"><span>Элемент Викиданных</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-coll-print_export-label" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" id="p-coll-print_export" role="navigation">
+<h3 class="vector-menu-heading" id="p-coll-print_export-label">
+<span class="vector-menu-heading-label">Печать/экспорт</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="coll-download-as-rl"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%93%D1%83%D0%BD%D0%B8%D0%B1%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li class="mw-list-item" id="t-print"><a accesskey="p" href="/w/index.php?title=%D0%93%D1%83%D0%BD%D0%B8%D0%B1%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1&amp;printable=yes" title="Версия этой страницы для печати [p]"><span>Версия для печати</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-wikibase-otherprojects-label" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal vector-menu" id="p-wikibase-otherprojects" role="navigation">
+<h3 class="vector-menu-heading" id="p-wikibase-otherprojects-label">
+<span class="vector-menu-heading-label">В других проектах</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Gunib_hydroelectric_power_plant" hreflang="en"><span>Викисклад</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-lang-label" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" id="p-lang" role="navigation">
+<h3 class="vector-menu-heading" id="p-lang-label">
+<span class="vector-menu-heading-label">На других языках</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="uls-after-portlet-link"></span><span class="wb-langlinks-add wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q4152170#sitelinks-wikipedia" title="Добавить ссылки на другие языки">Добавить ссылки</a></span></div>
+</div>
+</nav>
+</div>
+</div>
+<footer class="mw-footer" id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 12 апреля 2023 в 13:07.</li>
+<li id="footer-info-copyright">Текст доступен по <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru" rel="license">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a><a href="//creativecommons.org/licenses/by-sa/4.0/" rel="license" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br/>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org/ru/">Фонд Викимедиа (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//ru.m.wikipedia.org/w/index.php?title=%D0%93%D1%83%D0%BD%D0%B8%D0%B1%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1&amp;mobileaction=toggle_view_mobile">Мобильная версия</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" loading="lazy" src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88"/></a></li>
+<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" loading="lazy" src="/static/images/footer/poweredby_mediawiki_88x31.png" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88"/></a></li>
+</ul>
+</footer>
+
+
+</body>
+</html>

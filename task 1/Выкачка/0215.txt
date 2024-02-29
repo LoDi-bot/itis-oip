@@ -11,7 +11,7 @@
 <meta content="" name="ResourceLoaderDynamicStyles"/>
 
 
-<meta content="MediaWiki 1.42.0-wmf.18" name="generator"/>
+<meta content="MediaWiki 1.42.0-wmf.19" name="generator"/>
 <meta content="origin" name="referrer"/>
 <meta content="origin-when-cross-origin" name="referrer"/>
 <meta content="max-image-preview:standard" name="robots"/>
@@ -184,13 +184,13 @@
 <table class="mbox-Нет_сносок plainlinks metadata ambox ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Emblem-important.svg"><img alt="" class="mw-file-element" data-file-height="48" data-file-width="48" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Emblem-important.svg/40px-Emblem-important.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Emblem-important.svg/60px-Emblem-important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Emblem-important.svg/80px-Emblem-important.svg.png 2x" width="40"/></a></span></div></td><td class="mbox-text"><div class="mbox-text-div">В статье есть список <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D1%82%D0%BD%D1%8B%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8" title="Википедия:Авторитетные источники">источников</a>, но <b>не хватает <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BD%D0%BE%D1%81%D0%BA%D0%B8" title="Википедия:Сноски">сносок</a></b>.</div><div class="mbox-textsmall-div hide-when-compact" style="font-size:85%"><span class="hide-when-compact"> Без сносок сложно <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D1%8F%D0%B5%D0%BC%D0%BE%D1%81%D1%82%D1%8C" title="Википедия:Проверяемость">определить, из какого источника</a> взято каждое отдельное утверждение. Вы можете улучшить статью, проставив <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D0%BD%D0%B0_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8" title="Википедия:Ссылки на источники">сноски на источники</a>, подтверждающие информацию. Сведения без сносок <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D1%82%D0%BD%D1%8B%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8#Материал_без_источников" title="Википедия:Авторитетные источники">могут быть удалены</a>.</span> <span class="mbox-date"><i>(<span class="date">17 мая 2013</span>)</i></span></div></td></tr></tbody></table>
 <!-- 
 NewPP limit report
-Parsed by mw‐web.codfw.main‐5c6c4d58c9‐67dfg
-Cached time: 20240205233023
+Parsed by mw1387
+Cached time: 20240223181457
 Cache expiry: 2592000
 Reduced expiry: false
 Complications: [show‐toc]
-CPU time usage: 0.079 seconds
-Real time usage: 0.122 seconds
+CPU time usage: 0.090 seconds
+Real time usage: 0.209 seconds
 Preprocessor visited node count: 349/1000000
 Post‐expand include size: 8591/2097152 bytes
 Template argument size: 176/2097152 bytes
@@ -199,19 +199,19 @@ Expensive parser function count: 2/500
 Unstrip recursion depth: 0/20
 Unstrip post‐expand size: 0/5000000 bytes
 Lua time usage: 0.022/10.000 seconds
-Lua memory usage: 1519324/52428800 bytes
+Lua memory usage: 1458551/52428800 bytes
 Number of Wikibase entities loaded: 0/400
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%   64.301      1 -total
- 48.43%   31.142      1 Шаблон:Нет_сносок
- 44.19%   28.414      2 Шаблон:Iw
- 41.06%   26.404      1 Шаблон:Ambox
-  3.47%    2.230      1 Шаблон:Wayback
-  3.11%    2.002      2 Шаблон:Lang-ko3
+100.00%   62.598      1 -total
+ 49.24%   30.826      1 Шаблон:Нет_сносок
+ 43.76%   27.390      2 Шаблон:Iw
+ 42.30%   26.479      1 Шаблон:Ambox
+  3.40%    2.128      1 Шаблон:Wayback
+  2.79%    1.745      2 Шаблон:Lang-ko3
 -->
-<!-- Saved in parser cache with key ruwiki:pcache:idhash:196501-0!canonical and timestamp 20240205233023 and revision id 133257951. Rendering was triggered because: page-view
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:196501-0!canonical and timestamp 20240223181457 and revision id 133257951. Rendering was triggered because: page-view
  -->
 </div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> -->
 <div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Кисэн&amp;oldid=133257951">https://ru.wikipedia.org/w/index.php?title=Кисэн&amp;oldid=133257951</a></div></div>

@@ -1,0 +1,963 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="ru">
+<head>
+<meta charset="utf-8"/>
+<title>Р-27 (баллистическая ракета) — Википедия</title>
+
+
+
+
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+
+
+<meta content="MediaWiki 1.42.0-wmf.19" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="max-image-preview:standard" name="robots"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/%D0%A0%D0%A1%D0%9C-25.jpg/1200px-%D0%A0%D0%A1%D0%9C-25.jpg" property="og:image"/>
+<meta content="1200" property="og:image:width"/>
+<meta content="926" property="og:image:height"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/%D0%A0%D0%A1%D0%9C-25.jpg/800px-%D0%A0%D0%A1%D0%9C-25.jpg" property="og:image"/>
+<meta content="800" property="og:image:width"/>
+<meta content="618" property="og:image:height"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/%D0%A0%D0%A1%D0%9C-25.jpg/640px-%D0%A0%D0%A1%D0%9C-25.jpg" property="og:image"/>
+<meta content="640" property="og:image:width"/>
+<meta content="494" property="og:image:height"/>
+<meta content="width=1000" name="viewport"/>
+<meta content="Р-27 (баллистическая ракета) — Википедия" property="og:title"/>
+<meta content="website" property="og:type"/>
+
+
+
+
+
+
+
+
+
+
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Р-27_баллистическая_ракета rootpage-Р-27_баллистическая_ракета skin-vector action-view"><div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators">
+<div class="mw-indicator" id="mw-indicator-ga"><div class="mw-parser-output"><span typeof="mw:File"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Эта статья входит в число хороших статей"><img alt="Эта статья входит в число хороших статей" class="mw-file-element" data-file-height="13" data-file-width="13" decoding="async" height="13" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Blue_star_unboxed.svg/13px-Blue_star_unboxed.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Blue_star_unboxed.svg/20px-Blue_star_unboxed.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Blue_star_unboxed.svg/26px-Blue_star_unboxed.svg.png 2x" width="13"/></a></span></div></div>
+</div>
+<h1 class="firstHeading mw-first-heading" id="firstHeading"><span class="mw-page-title-main">Р-27 (баллистическая ракета)</span></h1>
+<div class="vector-body" id="bodyContent">
+<div class="noprint" id="siteSub">Материал из Википедии — свободной энциклопедии</div>
+<div id="contentSub"><div id="mw-content-subtitle"><div class="flaggedrevs_short flaggedrevs_stable_notsynced plainlinks noprint" id="mw-fr-revisiontag"><div class="flaggedrevs_short_basic"><span class="flaggedrevs-icon oo-ui-widget oo-ui-widget-enabled oo-ui-iconElement-icon oo-ui-icon-articleSearch oo-ui-iconElement oo-ui-labelElement-invisible oo-ui-iconWidget" title="Правки этой страницы требуют проверки."></span><span class="flaggedrevs-icon oo-ui-widget oo-ui-widget-enabled oo-ui-iconElement-icon oo-ui-icon-eye oo-ui-iconElement oo-ui-labelElement-invisible oo-ui-iconWidget" title="Это отпатрулированная версия страницы"></span><span class="fr-toggle-arrow oo-ui-widget oo-ui-widget-enabled oo-ui-indicatorElement-indicator oo-ui-indicator-down oo-ui-indicatorElement oo-ui-labelElement-invisible oo-ui-indicatorWidget" id="mw-fr-revisiontoggle" title="показать/скрыть подробности"></span></div>
+<div id="mw-fr-revisiondetails-wrapper" style="position:relative;"><div class="flaggedrevs_short_details" id="mw-fr-revisiondetails" style="display:none">Это <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9/%D0%9F%D0%BE%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BB%D1%8F_%D1%87%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9" title="Википедия:Проверка статей/Пояснение для читателей">стабильная версия</a>, <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:Log&amp;type=review&amp;page=%D0%A0-27_(%D0%B1%D0%B0%D0%BB%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0)">проверенная</a> 1 марта 2023.
+<a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%A0-27_(%D0%B1%D0%B0%D0%BB%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0)&amp;oldid=128832166&amp;diff=cur&amp;diffonly=0">2 правки</a> ожидают проверки.</div>
+</div>
+</div>
+</div></div>
+<div id="contentSub2"></div>
+<div id="jump-to-nav"></div>
+<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+<div class="mw-body-content" id="mw-content-text"><div class="mw-content-ltr mw-parser-output" dir="ltr" lang="ru"><div class="hatnote navigation-not-searchable noprint dabhide">У этого термина существуют и другие значения, см. <a class="mw-disambig" href="/wiki/%D0%A0-27" title="Р-27">Р-27</a>.</div>
+<table class="infobox infobox-e3a311ad05b2e91e" data-name="Ракетное оружие" style=""><tbody><tr><th class="infobox-above" colspan="2" scope="colgroup" style="">Р-27</th></tr><tr><td class="" colspan="2" style="text-align:center;"><a href="/wiki/%D0%98%D0%BD%D0%B4%D0%B5%D0%BA%D1%81_%D0%93%D0%A0%D0%90%D0%A3#УРАВ_ВМФ_и_УВ_ВВС" title="Индекс ГРАУ">индекс УРАВ ВМФ</a> — 4К10<br/>код <a class="mw-redirect" href="/wiki/%D0%A1%D0%9D%D0%92-1" title="СНВ-1">СНВ</a> — РСМ-25<br/><a href="/wiki/%D0%9A%D0%BE%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5_%D0%BE%D0%B1%D0%BE%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D1%8F_%D0%9D%D0%90%D0%A2%D0%9E" title="Кодовые обозначения НАТО">код МО США и НАТО</a> — <i>SS-N-6 Mod 1, Serb</i></td></tr><tr><td class="infobox-image" colspan="2" style=""> <span class="no-wikidata" data-wikidata-property-id="P18"><span typeof="mw:File/Frameless"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%A0%D0%A1%D0%9C-25.jpg" title="Баллистическая ракета РСМ-25. Музей С.П. Королёва, г. Пересвет, Московская область, Россия"><img alt="Баллистическая ракета РСМ-25. Музей С.П. Королёва, г. Пересвет, Московская область, Россия" class="mw-file-element" data-file-height="2123" data-file-width="2750" decoding="async" height="212" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/%D0%A0%D0%A1%D0%9C-25.jpg/274px-%D0%A0%D0%A1%D0%9C-25.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/%D0%A0%D0%A1%D0%9C-25.jpg/411px-%D0%A0%D0%A1%D0%9C-25.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d8/%D0%A0%D0%A1%D0%9C-25.jpg/548px-%D0%A0%D0%A1%D0%9C-25.jpg 2x" width="274"/></a></span><br/><span class="media-caption" data-wikidata-qualifier-id="P2096" style="display:block">Баллистическая ракета РСМ-25. Музей С.П. Королёва, г. Пересвет, Московская область, Россия</span></span> </td></tr>
+<tr>
+<th class="plainlist" scope="row">Тип</th>
+<td class="plainlist">
+<a href="/wiki/%D0%91%D0%B0%D0%BB%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D1%8B_%D0%BF%D0%BE%D0%B4%D0%B2%D0%BE%D0%B4%D0%BD%D1%8B%D1%85_%D0%BB%D0%BE%D0%B4%D0%BE%D0%BA" title="Баллистические ракеты подводных лодок">БРПЛ</a></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Статус</th>
+<td class="plainlist">
+снята с вооружения</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Разработчик</th>
+<td class="plainlist">
+<span class="flagicon"><span class="mw-image-border noresize noviewer" typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_the_Soviet_Union.svg" title="Союз Советских Социалистических Республик"><img alt="Союз Советских Социалистических Республик" class="mw-file-element" data-file-height="600" data-file-width="1200" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/22px-Flag_of_the_Soviet_Union.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/33px-Flag_of_the_Soviet_Union.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/44px-Flag_of_the_Soviet_Union.svg.png 2x" width="22"/></a></span></span> <a class="mw-redirect" href="/wiki/%D0%A1%D0%9A%D0%91-385" title="СКБ-385">СКБ-385</a> (ГРЦ им. Макеева)</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Главный конструктор</th>
+<td class="plainlist">
+<a href="/wiki/%D0%9C%D0%B0%D0%BA%D0%B5%D0%B5%D0%B2,_%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80_%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Макеев, Виктор Петрович">В. П. Макеев</a></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Годы разработки</th>
+<td class="plainlist">
+1962 — 1968</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Начало испытаний</th>
+<td class="plainlist">
+сентябрь <a href="/wiki/1965_%D0%B3%D0%BE%D0%B4" title="1965 год">1965 года</a></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Принятие на вооружение</th>
+<td class="plainlist">
+<a href="/wiki/13_%D0%BC%D0%B0%D1%80%D1%82%D0%B0" title="13 марта">13 марта</a> <a href="/wiki/1968_%D0%B3%D0%BE%D0%B4" title="1968 год">1968 года</a></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Производитель</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P176"><a href="/wiki/%D0%97%D0%BB%D0%B0%D1%82%D0%BE%D1%83%D1%81%D1%82%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4" title="Златоустовский машиностроительный завод">ЗМЗ</a> / <a href="/wiki/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D1%8F%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4" title="Красноярский машиностроительный завод">КМЗ</a></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Основные эксплуатанты</th>
+<td class="plainlist">
+<span class="flagicon"><span class="mw-image-border noresize noviewer" typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Naval_Ensign_of_the_Soviet_Union_(1950%E2%80%931991).svg" title="Союз Советских Социалистических Республик"><img alt="Союз Советских Социалистических Республик" class="mw-file-element" data-file-height="900" data-file-width="1350" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Naval_Ensign_of_the_Soviet_Union_%281950%E2%80%931991%29.svg/22px-Naval_Ensign_of_the_Soviet_Union_%281950%E2%80%931991%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Naval_Ensign_of_the_Soviet_Union_%281950%E2%80%931991%29.svg/33px-Naval_Ensign_of_the_Soviet_Union_%281950%E2%80%931991%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Naval_Ensign_of_the_Soviet_Union_%281950%E2%80%931991%29.svg/44px-Naval_Ensign_of_the_Soviet_Union_%281950%E2%80%931991%29.svg.png 2x" width="22"/></a></span></span> <a class="mw-redirect" href="/wiki/%D0%92%D0%9C%D0%A4_%D0%A1%D0%A1%D0%A1%D0%A0" title="ВМФ СССР">ВМФ СССР</a></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Модификации</th>
+<td class="plainlist">
+Р-27У, Р-27К</td>
+</tr>
+<tr>
+<th class="infobox-header" colspan="2" scope="colgroup" style="">Основные технические характеристики</th>
+</tr>
+<tr>
+<td class="plainlist" colspan="2" style="text-align:center;">
+Дальность: 2500—3000 км<br/>Мощность заряда: 1 Мт либо 3×200 кт</td>
+</tr>
+<tr>
+<td class="plainlist" colspan="2" style="text-align:center;">
+<a href="#Тактико-технические_характеристики">↓Все технические характеристики</a></td>
+</tr><tr><td class="infobox-below" colspan="2" style=";"><span class="wikidata-claim" data-wikidata-claim-id="Q498695$EA270839-7270-4F02-BAEE-51679B36519B" data-wikidata-property-id="P373"><span class="wikidata-snak wikidata-main-snak"><span typeof="mw:File"><a href="https://commons.wikimedia.org/wiki/Category:SS-N-6_Serb" title="commons:Category:SS-N-6 Serb"><img alt="Логотип Викисклада" class="mw-file-element" data-file-height="1376" data-file-width="1024" decoding="async" height="20" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/15px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/23px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 2x" width="15"/></a></span> <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:SS-N-6_Serb" title="commons:Category:SS-N-6 Serb">Медиафайлы на Викискладе</a></span></span></td></tr>
+</tbody></table>
+<p><b>Р-27</b> (<a href="/wiki/%D0%98%D0%BD%D0%B4%D0%B5%D0%BA%D1%81_%D0%93%D0%A0%D0%90%D0%A3#УРАВ_ВМФ_и_УВ_ВВС" title="Индекс ГРАУ">индекс УРАВ ВМФ</a> — <b>4К10</b>, код <a class="mw-redirect" href="/wiki/%D0%A1%D0%9D%D0%92-1" title="СНВ-1">СНВ</a> — <b>РСМ-25</b>, по <a href="/wiki/%D0%9A%D0%BE%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5_%D0%BE%D0%B1%D0%BE%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D1%8F_%D0%9D%D0%90%D0%A2%D0%9E" title="Кодовые обозначения НАТО">классификации МО США и НАТО</a> — <i>SS-N-6 Mod 1, Serb</i>) — <a class="mw-redirect" href="/wiki/%D0%A1%D0%A1%D0%A1%D0%A0" title="СССР">советская</a> <a href="/wiki/%D0%96%D0%B8%D0%B4%D0%BA%D0%BE%D1%81%D1%82%D0%BD%D1%8B%D0%B9_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%BD%D1%8B%D0%B9_%D0%B4%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%B5%D0%BB%D1%8C" title="Жидкостный ракетный двигатель">жидкостная</a> одноступенчатая <a href="/wiki/%D0%91%D0%B0%D0%BB%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0" title="Баллистическая ракета">баллистическая ракета</a> комплекса Д-5, размещаемого на подводных лодках (<a href="/wiki/%D0%91%D0%B0%D0%BB%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D1%8B_%D0%BF%D0%BE%D0%B4%D0%B2%D0%BE%D0%B4%D0%BD%D1%8B%D1%85_%D0%BB%D0%BE%D0%B4%D0%BE%D0%BA" title="Баллистические ракеты подводных лодок">БРПЛ</a>) проекта <a href="/wiki/%D0%9F%D0%BE%D0%B4%D0%B2%D0%BE%D0%B4%D0%BD%D1%8B%D0%B5_%D0%BB%D0%BE%D0%B4%D0%BA%D0%B8_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0_667%D0%90_%C2%AB%D0%9D%D0%B0%D0%B2%D0%B0%D0%B3%D0%B0%C2%BB" title="Подводные лодки проекта 667А «Навага»">667А</a> и 667АУ. Разработка ракеты велась в <a class="mw-redirect" href="/wiki/%D0%A1%D0%9A%D0%91-385" title="СКБ-385">СКБ-385</a> под руководством главного конструктора <a href="/wiki/%D0%9C%D0%B0%D0%BA%D0%B5%D0%B5%D0%B2,_%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80_%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Макеев, Виктор Петрович">Макеева В. П.</a> с 1962 по 1968 год. Принята на вооружение 13 марта 1968 года. На сегодняшний момент снята с вооружения. Последний запуск в рамках боевой подготовки произведён в 1988 году. С 1991 по 1993 год были проведены три запуска ракеты-носителя «Зыбь», созданного на базе Р-27.
+</p>
+<div aria-labelledby="mw-toc-heading" class="toc" id="toc" role="navigation"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="ru"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#История_разработки"><span class="tocnumber">1</span> <span class="toctext">История разработки</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Конструкция"><span class="tocnumber">2</span> <span class="toctext">Конструкция</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Испытания"><span class="tocnumber">3</span> <span class="toctext">Испытания</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Модификации"><span class="tocnumber">4</span> <span class="toctext">Модификации</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Р-27У"><span class="tocnumber">4.1</span> <span class="toctext">Р-27У</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Р-27К"><span class="tocnumber">4.2</span> <span class="toctext">Р-27К</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Ракета-носитель_«Зыбь»"><span class="tocnumber">4.3</span> <span class="toctext">Ракета-носитель «Зыбь»</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Мусудан"><span class="tocnumber">4.4</span> <span class="toctext">Мусудан</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Эксплуатация"><span class="tocnumber">5</span> <span class="toctext">Эксплуатация</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Снятие_с_вооружения"><span class="tocnumber">5.1</span> <span class="toctext">Снятие с вооружения</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Тактико-технические_характеристики"><span class="tocnumber">6</span> <span class="toctext">Тактико-технические характеристики</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Оценка_проекта"><span class="tocnumber">7</span> <span class="toctext">Оценка проекта</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Примечания"><span class="tocnumber">8</span> <span class="toctext">Примечания</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Литература"><span class="tocnumber">9</span> <span class="toctext">Литература</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Ссылки"><span class="tocnumber">10</span> <span class="toctext">Ссылки</span></a></li>
+</ul>
+</div>
+<h2><span id=".D0.98.D1.81.D1.82.D0.BE.D1.80.D0.B8.D1.8F_.D1.80.D0.B0.D0.B7.D1.80.D0.B0.D0.B1.D0.BE.D1.82.D0.BA.D0.B8"></span><span class="mw-headline" id="История_разработки">История разработки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A0-27_(%D0%B1%D0%B0%D0%BB%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0)&amp;veaction=edit&amp;section=1" title="Редактировать раздел «История разработки»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A0-27_(%D0%B1%D0%B0%D0%BB%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0)&amp;action=edit&amp;section=1" title="Редактировать код раздела «История разработки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:P-21_(SS-N-5_%C2%ABSerb%C2%BB).jpg"><img class="mw-file-element" data-file-height="2580" data-file-width="1340" decoding="async" height="327" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/P-21_%28SS-N-5_%C2%ABSerb%C2%BB%29.jpg/170px-P-21_%28SS-N-5_%C2%ABSerb%C2%BB%29.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/P-21_%28SS-N-5_%C2%ABSerb%C2%BB%29.jpg/255px-P-21_%28SS-N-5_%C2%ABSerb%C2%BB%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fd/P-21_%28SS-N-5_%C2%ABSerb%C2%BB%29.jpg/340px-P-21_%28SS-N-5_%C2%ABSerb%C2%BB%29.jpg 2x" width="170"/></a><figcaption><a href="/wiki/%D0%A0-21" title="Р-21">Р-21</a> в <a class="mw-redirect" href="/wiki/%D0%A6%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BC%D1%83%D0%B7%D0%B5%D0%B9_%D0%92%D0%BE%D0%BE%D1%80%D1%83%D0%B6%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%A1%D0%B8%D0%BB" title="Центральный музей Вооружённых Сил">музее</a></figcaption></figure>
+<p>Принятая на вооружение в 1963 году ракета <a href="/wiki/%D0%A0-21" title="Р-21">Р-21</a> комплекса Д-4 с дальностью стрельбы 1400 км существенно уступала по основным характеристикам американским ракетам «<a href="/wiki/%D0%9F%D0%BE%D0%BB%D0%B0%D1%80%D0%B8%D1%81" title="Поларис">Поларис</a> A1» (<a href="/wiki/1960_%D0%B3%D0%BE%D0%B4" title="1960 год">1960 год</a>, 2200 км) и «Поларис A2» (1962 год, 2800 км). Для ликвидации отставания требовалась разработка новой ракеты.
+</p><p>24 апреля 1962 года вышло постановление <a class="mw-redirect" href="/wiki/%D0%A1%D0%BE%D0%B2%D0%B5%D1%82_%D0%9C%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%BE%D0%B2_%D0%A1%D0%A1%D0%A1%D0%A0" title="Совет Министров СССР">Совета Министров СССР</a> № 386—179 о разработке новой ракеты Р-27 комплекса Д-5 для вооружения подводных лодок проекта <a href="/wiki/%D0%9F%D0%BE%D0%B4%D0%B2%D0%BE%D0%B4%D0%BD%D1%8B%D0%B5_%D0%BB%D0%BE%D0%B4%D0%BA%D0%B8_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0_667%D0%90_%C2%AB%D0%9D%D0%B0%D0%B2%D0%B0%D0%B3%D0%B0%C2%BB" title="Подводные лодки проекта 667А «Навага»">667А</a>. Головным разработчиком по ракете и комплексу было назначено <a class="mw-redirect" href="/wiki/%D0%A1%D0%9A%D0%91-385" title="СКБ-385">СКБ-385</a>, главный конструктор — Макеев В. П. Разработка системы управления ракетой была поручена <a class="mw-redirect" href="/wiki/%D0%9D%D0%98%D0%98-592" title="НИИ-592">НИИ-592</a> (главный конструктор <a href="/wiki/%D0%A1%D0%B5%D0%BC%D0%B8%D1%85%D0%B0%D1%82%D0%BE%D0%B2,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Семихатов, Николай Александрович">Семихатов Н. А.</a>), а размещение комплекса на подводной лодке проекта 667А — <a class="mw-redirect" href="/wiki/%D0%A6%D0%9A%D0%91-18" title="ЦКБ-18">ЦКБ-18</a> (главный конструктор <a href="/wiki/%D0%9A%D0%BE%D0%B2%D0%B0%D0%BB%D1%91%D0%B2,_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9_%D0%9D%D0%B8%D0%BA%D0%B8%D1%82%D0%B8%D1%87" title="Ковалёв, Сергей Никитич">Ковалёв С. Н.</a>).
+</p><p>При разработке ракеты был применён ряд новаторских решений, надолго определивший облик ракет СКБ-385:
+</p>
+<ul><li>Максимальное использование всего внутреннего объёма ракеты для размещения в нём компонентов <a href="/wiki/%D0%A0%D0%B0%D0%BA%D0%B5%D1%82%D0%BD%D0%BE%D0%B5_%D1%82%D0%BE%D0%BF%D0%BB%D0%B8%D0%B2%D0%BE" title="Ракетное топливо">топлива</a> — отсутствие традиционного разбиения на отсеки, размещение <a href="/wiki/%D0%9C%D0%B0%D1%80%D1%88%D0%B5%D0%B2%D1%8B%D0%B9_%D0%B4%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%B5%D0%BB%D1%8C" title="Маршевый двигатель">маршевого</a> двигателя в баке горючего (так называемая утоплённая схема), использование общего днища бака горючего и <a href="/wiki/%D0%9E%D0%BA%D0%B8%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C" title="Окислитель">окислителя</a>, размещение приборного отсека в переднем днище ракеты.</li>
+<li>Цельносварной герметичный корпус из вафельных оболочек полученных <a class="new" href="/w/index.php?title=%D0%A5%D0%B8%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D1%84%D1%80%D0%B5%D0%B7%D0%B5%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;action=edit&amp;redlink=1" title="Химическое фрезерование (страница отсутствует)">химическим фрезерованием</a> плит, материалом для которых служил <a href="/wiki/%D0%90%D0%BB%D1%8E%D0%BC%D0%B8%D0%BD%D0%B8%D0%B5%D0%B2%D1%8B%D0%B5_%D1%81%D0%BF%D0%BB%D0%B0%D0%B2%D1%8B" title="Алюминиевые сплавы">алюминиево-магниевый</a> сплав АМг6.</li>
+<li>уменьшение объёмов <a class="new" href="/w/index.php?title=%D0%92%D0%BE%D0%B7%D0%B4%D1%83%D1%88%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BB%D0%BE%D0%BA%D0%BE%D0%BB&amp;action=edit&amp;redlink=1" title="Воздушный колокол (страница отсутствует)">воздушного колокола</a> за счёт последовательного пуска при старте сначала рулевых двигателей, а потом маршевого двигателя («<a class="new" href="/w/index.php?title=%D0%94%D0%B8%D0%BD%D0%B0%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%BB%D0%BE%D0%BA%D0%BE%D0%BB&amp;action=edit&amp;redlink=1" title="Динамический колокол (страница отсутствует)">динамический колокол</a>»)<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></li>
+<li>совместная разработка ракеты и элементов <a href="/wiki/%D0%A0%D0%B0%D0%BA%D0%B5%D1%82%D0%BD%D0%B0%D1%8F_%D0%BF%D1%83%D1%81%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0" title="Ракетная пусковая установка">ракетно-стартовой системы</a> — отказ от <a class="mw-redirect" href="/wiki/%D0%A1%D1%82%D0%B0%D0%B1%D0%B8%D0%BB%D0%B8%D0%B7%D0%B0%D1%82%D0%BE%D1%80_(%D0%B0%D0%B2%D0%B8%D0%B0%D1%86%D0%B8%D1%8F)" title="Стабилизатор (авиация)">аэродинамических стабилизаторов</a> и использование поясных резинометаллических амортизаторов;</li>
+<li>заводская заправка ракет и <a class="new" href="/w/index.php?title=%D0%90%D0%BC%D0%BF%D1%83%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F&amp;action=edit&amp;redlink=1" title="Ампулизация (страница отсутствует)">ампулизация</a> компонентов топлива.</li></ul>
+<p>Эти меры позволили резко повысить среднюю плотность компоновки ракеты, тем самым уменьшив её габариты, а также уменьшить потребный объём <a href="/wiki/%D0%A8%D0%B0%D1%85%D1%82%D0%BD%D0%B0%D1%8F_%D0%BF%D1%83%D1%81%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0" title="Шахтная пусковая установка">шахты</a> и <a class="new" href="/w/index.php?title=%D0%A6%D0%B8%D1%81%D1%82%D0%B5%D1%80%D0%BD%D0%B0_%D0%BA%D0%BE%D0%BB%D1%8C%D1%86%D0%B5%D0%B2%D0%BE%D0%B3%D0%BE_%D0%B7%D0%B0%D0%B7%D0%BE%D1%80%D0%B0&amp;action=edit&amp;redlink=1" title="Цистерна кольцевого зазора (страница отсутствует)">цистерн кольцевого зазора</a>. Так, по сравнению с ракетой Р-21 дальность стрельбы увеличилась в 2 раза, длина ракеты сократилась на треть, масса пусковой установки уменьшилась больше чем в 10 раз, масса ракеты — почти на треть, объём кольцевого зазора — почти в 5 раз. Нагрузка на лодку в расчёте на одну ракету (масса ракет, пусковых установок, ракетных шахт и цистерн кольцевого зазора) уменьшилась в три раза.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup>
+</p>
+<h2><span id=".D0.9A.D0.BE.D0.BD.D1.81.D1.82.D1.80.D1.83.D0.BA.D1.86.D0.B8.D1.8F"></span><span class="mw-headline" id="Конструкция">Конструкция</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A0-27_(%D0%B1%D0%B0%D0%BB%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0)&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Конструкция»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A0-27_(%D0%B1%D0%B0%D0%BB%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0)&amp;action=edit&amp;section=2" title="Редактировать код раздела «Конструкция»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:SSN6_mod1.svg"><img class="mw-file-element" data-file-height="514" data-file-width="319" decoding="async" height="354" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/SSN6_mod1.svg/220px-SSN6_mod1.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/SSN6_mod1.svg/330px-SSN6_mod1.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/35/SSN6_mod1.svg/440px-SSN6_mod1.svg.png 2x" width="220"/></a><figcaption>Схема ракеты Р-27<br/>1 — моноблочная головная часть; 2 — приборный отсек; 3 — резинометаллические амортизаторы; 4 — система перелива окислителя из нижнего полубака в верхний; 5 — патрубки системы наддува баков; 6 — верхний и нижний полубаки окислителя; 7 — система забора окислителя; 8 — бак горючего; 9 — маршевый блок двигателя; 10 — рулевой блок</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:RA82_for_R-27_SLBM_Army-2022_2022-08-20_2451.jpg"><img class="mw-file-element" data-file-height="3053" data-file-width="4580" decoding="async" height="147" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/RA82_for_R-27_SLBM_Army-2022_2022-08-20_2451.jpg/220px-RA82_for_R-27_SLBM_Army-2022_2022-08-20_2451.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/RA82_for_R-27_SLBM_Army-2022_2022-08-20_2451.jpg/330px-RA82_for_R-27_SLBM_Army-2022_2022-08-20_2451.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/78/RA82_for_R-27_SLBM_Army-2022_2022-08-20_2451.jpg/440px-RA82_for_R-27_SLBM_Army-2022_2022-08-20_2451.jpg 2x" width="220"/></a><figcaption>Ядерная моноблочная боевая часть РА82.</figcaption></figure>
+<p>Ракета Р-27 была выполнена по одноступенчатой схеме с <a class="new" href="/w/index.php?title=%D0%9C%D0%BE%D0%BD%D0%BE%D0%B1%D0%BB%D0%BE%D1%87%D0%BD%D0%B0%D1%8F_%D0%BE%D1%82%D0%B4%D0%B5%D0%BB%D1%8F%D0%B5%D0%BC%D0%B0%D1%8F_%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0%D1%8F_%D1%87%D0%B0%D1%81%D1%82%D1%8C&amp;action=edit&amp;redlink=1" title="Моноблочная отделяемая головная часть (страница отсутствует)">моноблочной отделяемой головной частью</a>. Корпус ракеты цельносварной, герметичный, изготавливался из «вафельных» полотен, полученных химическим фрезерованием плит из алюминиево-магниевого сплава АМг6. Было достигнуто 5—6-кратное превышение толщины листа исходного металла над толщиной получаемой оболочки. Впоследствии, при применении механического фрезерования, этот показатель довели до 9.<sup class="reference" id="cite_ref-ГРЦ_87_3-0"><a href="#cite_note-ГРЦ_87-3">[3]</a></sup> Наружная поверхность корпуса защищалась тепловлагостойким покрытием на основе <a class="new" href="/w/index.php?title=%D0%90%D1%81%D0%B1%D0%BE%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%BE%D0%BB%D0%B8%D1%82&amp;action=edit&amp;redlink=1" title="Асботекстолит (страница отсутствует)">асботекстолита</a>.<sup class="reference" id="cite_ref-_9d705181b238dea9_4-0"><a href="#cite_note-_9d705181b238dea9-4">[4]</a></sup>
+</p><p>На ракете устанавливался <a href="/wiki/%D0%96%D0%B8%D0%B4%D0%BA%D0%BE%D1%81%D1%82%D0%BD%D1%8B%D0%B9_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%BD%D1%8B%D0%B9_%D0%B4%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%B5%D0%BB%D1%8C" title="Жидкостный ракетный двигатель">жидкостный ракетный двигатель</a> 4Д10 разработки <a class="mw-redirect" href="/wiki/%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B5_%D0%B1%D1%8E%D1%80%D0%BE_%D1%85%D0%B8%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%B8%D1%8F" title="Конструкторское бюро химического машиностроения">ОКБ-2</a> (главный конструктор <a href="/wiki/%D0%98%D1%81%D0%B0%D0%B5%D0%B2,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B8%D1%87" title="Исаев, Алексей Михайлович">Исаев А. М.</a>)<sup class="reference" id="cite_ref-ГРЦ_87_3-1"><a href="#cite_note-ГРЦ_87-3">[3]</a></sup>, состоявший из двух блоков. Двигатель состоял из маршевого блока <a href="/wiki/%D0%A0%D0%B5%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%B0%D1%8F_%D1%82%D1%8F%D0%B3%D0%B0" title="Реактивная тяга">тягой</a> 23 тонны<sup class="reference" id="cite_ref-_9d705181b238deaa_5-0"><a href="#cite_note-_9d705181b238deaa-5">[5]</a></sup> и рулевого блока из двух камер общей тягой 3 тонны<sup class="reference" id="cite_ref-Подвига_276_6-0"><a href="#cite_note-Подвига_276-6">[6]</a></sup>. В ЖРД использовались самовоспламеняющиеся компоненты топлива. В качестве горючего применялся <a class="mw-redirect" href="/wiki/%D0%9D%D0%B5%D1%81%D0%B8%D0%BC%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%87%D0%BD%D1%8B%D0%B9_%D0%B4%D0%B8%D0%BC%D0%B5%D1%82%D0%B8%D0%BB%D0%B3%D0%B8%D0%B4%D1%80%D0%B0%D0%B7%D0%B8%D0%BD" title="Несимметричный диметилгидразин">несимметричный диметилгидразин</a> (НДМГ), а в качестве окислителя — <a href="/wiki/%D0%A2%D0%B5%D1%82%D1%80%D0%B0%D0%BE%D0%BA%D1%81%D0%B8%D0%B4_%D0%B4%D0%B8%D0%B0%D0%B7%D0%BE%D1%82%D0%B0" title="Тетраоксид диазота">азотный тетроксид</a> (АТ).<sup class="reference" id="cite_ref-Коршунов-Кутовой_7-0"><a href="#cite_note-Коршунов-Кутовой-7">[7]</a></sup> Подача компонентов топлива осуществлялась <a href="/wiki/%D0%A2%D1%83%D1%80%D0%B1%D0%BE%D0%BD%D0%B0%D1%81%D0%BE%D1%81%D0%BD%D1%8B%D0%B9_%D0%B0%D0%B3%D1%80%D0%B5%D0%B3%D0%B0%D1%82" title="Турбонасосный агрегат">турбонасосными агрегатами</a>. Маршевый двигатель работал по схеме с дожиганием окислительного газа. Тяга двигателя регулировалась регулятором расхода горючего. Рулевой блок был выполнен по схеме без дожигания, с газогенератором вырабатывающим газ с избытком горючего. Тяга рулевого блока управлялась регулятором на общей линии окислителя.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup> На рулевом блоке в рулевых приводах впервые использованы струйные гидравлические рулевые машинки замкнутой схемы, отбиравшее от ТНА горючее, использовавшие его в качестве рабочего тела при рабочем давлении 36-40 атм и затем возвращавшие обратно в ТБ.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup>
+</p><p>Впервые в мировой практике двигатель был размещён в топливном баке — так называемая «утопленная» схема. При монтаже двигателя были использованы только неразъёмные соединения — сварка и пайка. Двигатель стал необслуживаемым и непроверяемым. Запуск двигателя осуществлялся от одного <a href="/wiki/%D0%9F%D0%B8%D1%80%D0%BE%D0%BF%D0%B0%D1%82%D1%80%D0%BE%D0%BD" title="Пиропатрон">пиропатрона</a>, а выход на режим контролировался собственной автоматикой.<sup class="reference" id="cite_ref-ГРЦ_87_3-2"><a href="#cite_note-ГРЦ_87-3">[3]</a></sup> Качающиеся камеры рулевого двигателя были установлены на коническом днище топливного бака<sup class="reference" id="cite_ref-ГРЦ_87_3-3"><a href="#cite_note-ГРЦ_87-3">[3]</a></sup>, под углом 45° к <a class="new" href="/w/index.php?title=%D0%9F%D0%BB%D0%BE%D1%81%D0%BA%D0%BE%D1%81%D1%82%D1%8C_%D1%81%D1%82%D0%B0%D0%B1%D0%B8%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D1%8B&amp;action=edit&amp;redlink=1" title="Плоскость стабилизации ракеты (страница отсутствует)">плоскостям стабилизации ракеты</a><sup class="reference" id="cite_ref-Подвига_276_6-1"><a href="#cite_note-Подвига_276-6">[6]</a></sup>. Крепление <a href="/wiki/%D0%A1%D1%82%D0%B0%D0%BB%D1%8C" title="Сталь">стальных</a> элементов двигателя к <a href="/wiki/%D0%90%D0%BB%D1%8E%D0%BC%D0%B8%D0%BD%D0%B8%D0%B9" title="Алюминий">алюминиевому</a> корпусу осуществлялось с помощью специальных <a href="/wiki/%D0%91%D0%B8%D0%BC%D0%B5%D1%82%D0%B0%D0%BB%D0%BB" title="Биметалл">биметаллических</a> переходников.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup>
+</p><p>Для уменьшения незаполненных топливом полостей ракеты использовалось общее <a class="new" href="/w/index.php?title=%D0%94%D0%B2%D1%83%D1%85%D1%81%D0%BB%D0%BE%D0%B9%D0%BD%D0%BE%D0%B5_%D0%B4%D0%BD%D0%B8%D1%89%D0%B5&amp;action=edit&amp;redlink=1" title="Двухслойное днище (страница отсутствует)">двухслойное днище</a> баков горючего и окислителя. Это позволило устранить <a class="new" href="/w/index.php?title=%D0%9C%D0%B5%D0%B6%D0%B1%D0%B0%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_%D0%BE%D1%82%D1%81%D0%B5%D0%BA&amp;action=edit&amp;redlink=1" title="Межбаковый отсек (страница отсутствует)">межбаковый отсек</a>. Ещё одним новаторским решением стала заводская заправка топливом с последующей «ампулизацией» баков посредством заварки заправочно-дренажных клапанов.<sup class="reference" id="cite_ref-ГРЦ_89_11-0"><a href="#cite_note-ГРЦ_89-11">[11]</a></sup> В совокупности с работами по повышению <a href="/wiki/%D0%9A%D0%BE%D1%80%D1%80%D0%BE%D0%B7%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D0%BE%D0%B9%D0%BA%D0%BE%D1%81%D1%82%D1%8C" title="Коррозионная стойкость">коррозионной стойкости</a> материалов, герметичности швов и соединений, это позволило установить срок службы ракет в заправленном состоянии 5 лет. А впоследствии довести его до 15<sup class="reference" id="cite_ref-ГРЦ_89_11-1"><a href="#cite_note-ГРЦ_89-11">[11]</a></sup>
+</p><p>Элементы <a href="/wiki/%D0%98%D0%BD%D0%B5%D1%80%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D1%8F" title="Инерциальная навигация">инерциальной</a> <a href="/wiki/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F" title="Система управления">системы управления</a> впервые в <a class="mw-redirect" href="/wiki/%D0%A1%D0%A1%D0%A1%D0%A0" title="СССР">СССР</a> (для БРПЛ<sup class="reference" id="cite_ref-Подвига_276_6-2"><a href="#cite_note-Подвига_276-6">[6]</a></sup>) были размещены на <a class="mw-redirect" href="/wiki/%D0%93%D0%B8%D1%80%D0%BE%D1%81%D1%82%D0%B0%D0%B1%D0%B8%D0%BB%D0%B8%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D0%B0" title="Гиростабилизированная платформа">гиростабилизированной платформе</a>. Аппаратура системы управления размещалась в герметизированном объёме, образованном полусферическим верхним днищем бака окислителя. Это позволило исключить из конструкции ракеты классический <a class="new" href="/w/index.php?title=%D0%9F%D1%80%D0%B8%D0%B1%D0%BE%D1%80%D0%BD%D1%8B%D0%B9_%D0%BE%D1%82%D1%81%D0%B5%D0%BA&amp;action=edit&amp;redlink=1" title="Приборный отсек (страница отсутствует)">приборный отсек</a>.<sup class="reference" id="cite_ref-_9d705181b238dea9_4-1"><a href="#cite_note-_9d705181b238dea9-4">[4]</a></sup>
+</p><p>Ракета оснащалась моноблочной отделяемой головной частью весом 650 кг.<sup class="reference" id="cite_ref-Подвига_277_12-0"><a href="#cite_note-Подвига_277-12">[12]</a></sup><sup class="reference" id="cite_ref-R-27_FAS_13-0"><a href="#cite_note-R-27_FAS-13">[13]</a></sup> <a href="/wiki/%D0%A2%D1%80%D0%BE%D1%82%D0%B8%D0%BB%D0%BE%D0%B2%D1%8B%D0%B9_%D1%8D%D0%BA%D0%B2%D0%B8%D0%B2%D0%B0%D0%BB%D0%B5%D0%BD%D1%82" title="Тротиловый эквивалент">Мощность</a> размещённого на ней <a href="/wiki/%D0%AF%D0%B4%D0%B5%D1%80%D0%BD%D0%BE%D0%B5_%D0%BE%D1%80%D1%83%D0%B6%D0%B8%D0%B5" title="Ядерное оружие">ядерного заряда</a> 1 Мт.<sup class="reference" id="cite_ref-Подвига_277_12-1"><a href="#cite_note-Подвига_277-12">[12]</a></sup><sup class="reference" id="cite_ref-R-27_FAS_13-1"><a href="#cite_note-R-27_FAS-13">[13]</a></sup> Для отделения головной части от ракеты, впервые в практике ГРЦ, было применено устройство взрывного действия — <a href="/wiki/%D0%A3%D0%B4%D0%BB%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B7%D0%B0%D1%80%D1%8F%D0%B4" title="Удлинённый заряд">детонирующий удлинённый заряд</a> <a href="/wiki/%D0%9A%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9_%D1%8D%D1%84%D1%84%D0%B5%D0%BA%D1%82" title="Кумулятивный эффект">кумулятивного</a> типа на основе бризантного <a href="/wiki/%D0%92%D0%B7%D1%80%D1%8B%D0%B2%D1%87%D0%B0%D1%82%D1%8B%D0%B5_%D0%B2%D0%B5%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0" title="Взрывчатые вещества">взрывчатого вещества</a>.<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup> При стрельбе на максимальную дальность было достигнуто <a href="/wiki/%D0%9A%D1%80%D1%83%D0%B3%D0%BE%D0%B2%D0%BE%D0%B5_%D0%B2%D0%B5%D1%80%D0%BE%D1%8F%D1%82%D0%BD%D0%BE%D0%B5_%D0%BE%D1%82%D0%BA%D0%BB%D0%BE%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5" title="Круговое вероятное отклонение">КВО</a> 1,9 км.<sup class="reference" id="cite_ref-Подвига_278_15-0"><a href="#cite_note-Подвига_278-15">[15]</a></sup>
+</p><p>Тип старта ракеты — <a class="new" href="/w/index.php?title=%D0%9C%D0%BE%D0%BA%D1%80%D1%8B%D0%B9_%D1%81%D1%82%D0%B0%D1%80%D1%82_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D1%8B&amp;action=edit&amp;redlink=1" title="Мокрый старт ракеты (страница отсутствует)">мокрый</a>, из предварительно затопленной шахты. В нижней части Р-27 был установлен специальный переходник, с помощью которого ракета стыковалась со <a class="mw-redirect" href="/wiki/%D0%A1%D1%82%D0%B0%D1%80%D1%82%D0%BE%D0%B2%D1%8B%D0%B9_%D1%81%D1%82%D0%BE%D0%BB" title="Стартовый стол">стартовым столом</a>. В процессе подготовки ракеты к старту осуществлялся <a href="/wiki/%D0%9D%D0%B0%D0%B4%D0%B4%D1%83%D0%B2" title="Наддув">наддув</a> баков ракеты. В шахту поступала вода и давление уравнивалось с забортным. Открывалась крышка ракетной шахты. Для снижения гидравлического удара, возникающего при запуске двигателя в заполненной ракетой шахте, запуск двигателя осуществлялся в герметичный объём образованный переходником и стартовым столом. Была разработана технология создания «динамического колокола». В начале старта в образованный переходником «газовый колокол» производился запуск рулевых двигателей. Затем, при начале движения ракеты, осуществлялся запуск маршевого двигателя и постепенный вывод его на режим полной тяги.
+</p><p>При дальнейшем движении ракеты на неё начинал действовать момент от набегающего потока воды. Снижению нагрузок, действующих на конструкцию выходящей из шахты ракеты способствовал предварительный наддув баков и расположенные на самой ракете пояса специальных резинометаллических амортизаторов.
+</p><p>Обслуживание и процедуры <a class="new" href="/w/index.php?title=%D0%9F%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D1%80%D1%82%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D1%8B&amp;action=edit&amp;redlink=1" title="Предстартовая подготовка ракеты (страница отсутствует)">предстартовой подготовки</a> и старта ракет были максимально возможно автоматизированы. С единого пульта корабельной системы повседневного и предстартового обслуживания ракет обеспечивалось дистанционное управление и контроль за состоянием систем. С пульта управления ракетным оружием осуществлялось проведение комплексных регламентных проверок, управление предстартовой подготовкой и стартом ракет.<sup class="reference" id="cite_ref-_9d705181b238deaa_5-1"><a href="#cite_note-_9d705181b238deaa-5">[5]</a></sup>
+</p><p>Исходные данные для стрельбы вырабатывались созданной под руководством главного конструктора Бельского Р. Р. боевой информационно-управляющей системой «Туча». Аппаратура позволяла производить боевую стрельбу двумя восьмиракетными залпами.<sup class="reference" id="cite_ref-_9d705181b238deaa_5-2"><a href="#cite_note-_9d705181b238deaa-5">[5]</a></sup>
+</p><p>Пуск ракет осуществлялся с глубины 40—50 м, скорости лодки до 4 узлов и волнении моря 5 <a href="/wiki/%D0%A1%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B5_%D0%BC%D0%BE%D1%80%D1%8F" title="Состояние моря">баллов</a>.<sup class="reference" id="cite_ref-_9f52913b51cf6e27_16-0"><a href="#cite_note-_9f52913b51cf6e27-16">[16]</a></sup> Время предстартовой подготовки ракет 10 минут. Интервал стрельбы ракет в одном залпе — 8 секунд.<sup class="reference" id="cite_ref-_9d705181b238deaa_5-3"><a href="#cite_note-_9d705181b238deaa-5">[5]</a></sup> Время между залпами по источникам не уточняется.
+</p>
+<h2><span id=".D0.98.D1.81.D0.BF.D1.8B.D1.82.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Испытания">Испытания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A0-27_(%D0%B1%D0%B0%D0%BB%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0)&amp;veaction=edit&amp;section=3" title="Редактировать раздел «Испытания»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A0-27_(%D0%B1%D0%B0%D0%BB%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0)&amp;action=edit&amp;section=3" title="Редактировать код раздела «Испытания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Испытания комплекса Д-5 производились в три этапа. Первый этап <a class="new" href="/w/index.php?title=%D0%91%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%8B%D0%B5_%D0%B8%D1%81%D0%BF%D1%8B%D1%82%D0%B0%D0%BD%D0%B8%D1%8F&amp;action=edit&amp;redlink=1" title="Бросковые испытания (страница отсутствует)">бросковых испытаний</a> <a class="new" href="/w/index.php?title=%D0%9D%D0%B0%D1%82%D1%83%D1%80%D0%BD%D1%8B%D0%B9_%D0%BC%D0%B0%D0%BA%D0%B5%D1%82&amp;action=edit&amp;redlink=1" title="Натурный макет (страница отсутствует)">натурных макетов</a> Р-27 производился с затапливаемого плавстенда ПСД-5 в сентябре 1965 года. Было выполнено два пуска.<sup class="reference" id="cite_ref-_9d705181b238deaa_5-4"><a href="#cite_note-_9d705181b238deaa-5">[5]</a></sup><sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup>
+</p><p>В январе 1967 года начались испытания макетов ракет на Чёрном море с борта подводной лодки проекта 613Д5 (переоборудованная на заводе № 444 в Севастополе опытовая подводная лодка проекта 613Д7<sup class="reference" id="cite_ref-_9d705181b238deaa_5-5"><a href="#cite_note-_9d705181b238deaa-5">[5]</a></sup>) в подводном положении. Задержка работ была связана с тем, что лодка была получена заказчиком только <a href="/wiki/23_%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8F" title="23 декабря">23 декабря</a> <a href="/wiki/1965_%D0%B3%D0%BE%D0%B4" title="1965 год">1965 года</a>. <a href="/wiki/18_%D1%8F%D0%BD%D0%B2%D0%B0%D1%80%D1%8F" title="18 января">18 января</a> <a href="/wiki/1967_%D0%B3%D0%BE%D0%B4" title="1967 год">1967 года</a> с глубины 45 м при скорости лодки 3 узла, волнении моря 3 <a href="/wiki/%D0%A1%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B5_%D0%BC%D0%BE%D1%80%D1%8F" title="Состояние моря">балла</a> и скорости ветра 7—8 <a href="/wiki/%D0%A8%D0%BA%D0%B0%D0%BB%D0%B0_%D0%91%D0%BE%D1%84%D0%BE%D1%80%D1%82%D0%B0" title="Шкала Бофорта">баллов</a> был осуществлён первый пуск макета ракеты 4К10. Последнее, шестое испытание было проведено <a href="/wiki/10_%D0%B0%D0%B2%D0%B3%D1%83%D1%81%D1%82%D0%B0" title="10 августа">10 августа</a> <a href="/wiki/1967_%D0%B3%D0%BE%D0%B4" title="1967 год">1967 года</a>.<sup class="reference" id="cite_ref-_9d705181b238deaa_5-6"><a href="#cite_note-_9d705181b238deaa-5">[5]</a></sup>
+</p><p>Параллельно проводился второй этап. Лётные испытания с наземного стенда на полигоне <a href="/wiki/%D0%9A%D0%B0%D0%BF%D1%83%D1%81%D1%82%D0%B8%D0%BD_%D0%AF%D1%80" title="Капустин Яр">Капустин Яр</a><sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup> производились с июня <a class="mw-redirect" href="/wiki/1966" title="1966">1966</a> по апрель <a href="/wiki/1967_%D0%B3%D0%BE%D0%B4" title="1967 год">1967 года</a>. Всего было выполнено 17 пусков, из которых 12 признано успешными.<sup class="reference" id="cite_ref-Подвига_278_15-1"><a href="#cite_note-Подвига_278-15">[15]</a></sup>
+</p><p>Полномасштабные <a class="new" href="/w/index.php?title=%D0%A1%D0%BE%D0%B2%D0%BC%D0%B5%D1%81%D1%82%D0%BD%D1%8B%D0%B5_%D0%BB%D1%91%D1%82%D0%BD%D1%8B%D0%B5_%D0%B8%D1%81%D0%BF%D1%8B%D1%82%D0%B0%D0%BD%D0%B8%D1%8F&amp;action=edit&amp;redlink=1" title="Совместные лётные испытания (страница отсутствует)">совместные лётные испытания</a> Р-27 начались на <a class="mw-redirect" href="/wiki/%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%B9_%D1%84%D0%BB%D0%BE%D1%82_%D0%92%D0%9C%D0%A4_%D0%A1%D0%A1%D0%A1%D0%A0" title="Северный флот ВМФ СССР">Северном флоте</a> на головной лодке проекта <a class="mw-redirect" href="/wiki/667%D0%90" title="667А">667А</a> — <a class="new" href="/w/index.php?title=%D0%9A-137&amp;action=edit&amp;redlink=1" title="К-137 (страница отсутствует)">К-137</a> «Ленинец» в августе <a href="/wiki/1967_%D0%B3%D0%BE%D0%B4" title="1967 год">1967 года</a>. Всего было выполнено 6 пусков.<sup class="reference" id="cite_ref-Подвига_278_15-2"><a href="#cite_note-Подвига_278-15">[15]</a></sup>
+</p><p>Комплекс Д-5 с ракетой Р-27 был принят на вооружение 13 марта 1968 года постановлением Совета Министров СССР № 162—164.<sup class="reference" id="cite_ref-_9d705181b238deaa_5-7"><a href="#cite_note-_9d705181b238deaa-5">[5]</a></sup>
+</p>
+<h2><span id=".D0.9C.D0.BE.D0.B4.D0.B8.D1.84.D0.B8.D0.BA.D0.B0.D1.86.D0.B8.D0.B8"></span><span class="mw-headline" id="Модификации">Модификации</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A0-27_(%D0%B1%D0%B0%D0%BB%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0)&amp;veaction=edit&amp;section=4" title="Редактировать раздел «Модификации»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A0-27_(%D0%B1%D0%B0%D0%BB%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0)&amp;action=edit&amp;section=4" title="Редактировать код раздела «Модификации»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id=".D0.A0-27.D0.A3"></span><span class="mw-headline" id="Р-27У">Р-27У</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A0-27_(%D0%B1%D0%B0%D0%BB%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0)&amp;veaction=edit&amp;section=5" title="Редактировать раздел «Р-27У»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A0-27_(%D0%B1%D0%B0%D0%BB%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0)&amp;action=edit&amp;section=5" title="Редактировать код раздела «Р-27У»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:SSN-6_mod_3.JPG"><img class="mw-file-element" data-file-height="172" data-file-width="294" decoding="async" height="129" src="//upload.wikimedia.org/wikipedia/ru/thumb/3/3e/SSN-6_mod_3.JPG/220px-SSN-6_mod_3.JPG" srcset="//upload.wikimedia.org/wikipedia/ru/3/3e/SSN-6_mod_3.JPG 1.5x" width="220"/></a><figcaption>Ракета Р-27У с разделяющейся головной частью</figcaption></figure>
+<p>Постановление Совмина о модернизации комплекса Д-5 вышло 10 июня 1971 года.<sup class="reference" id="cite_ref-_9d705181b238dea4_19-0"><a href="#cite_note-_9d705181b238dea4-19">[19]</a></sup> Была поставлена цель создания двух вариантов модернизированной ракеты. В первом варианте предусматривалось оснащения ракеты головной частью с тремя боеголовками, с сохранением максимальной дальности стрельбы. Головная часть «рассеивающего» типа, с блоками без индивидуального наведения. По второму варианту предусматривалось увеличить дальность и повысить точность ракеты. Модернизированный вариант комплекса получил обозначение Д-5У, а ракет — Р-27У. Была создана ракета с тремя боевыми блоками мощностью по 200 кт с максимальной дальностью 2400 км. Разделяющаяся головная часть была так называемого «<a class="new" href="/w/index.php?title=%D0%A0%D0%93%D0%A7_%D1%80%D0%B0%D1%81%D1%81%D0%B5%D0%B8%D0%B2%D0%B0%D1%8E%D1%89%D0%B5%D0%B3%D0%BE_%D1%82%D0%B8%D0%BF%D0%B0&amp;action=edit&amp;redlink=1" title="РГЧ рассеивающего типа (страница отсутствует)">рассеивающего типа</a>» — <a class="mw-redirect" href="/wiki/%D0%91%D0%BE%D0%B5%D0%B2%D0%BE%D0%B9_%D0%B1%D0%BB%D0%BE%D0%BA" title="Боевой блок">боевые блоки</a> не имели индивидуального наведения. В конце <a href="/wiki/%D0%90%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9_%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BE%D0%BA_%D0%BF%D0%BE%D0%BB%D1%91%D1%82%D0%B0" title="Активный участок полёта">активного участка</a> блоки «расталкивались» в разные стороны с небольшой скоростью. По второму варианту была создана ракета с дальностью 3000 км и моноблочной головной частью мощностью 1 Мт. Было достигнуто КВО 1,3 км.<sup class="reference" id="cite_ref-Подвига_278_15-3"><a href="#cite_note-Подвига_278-15">[15]</a></sup> Модернизация коснулась двигателя (была увеличена тяга) и системы управления. На западе ракеты получили обозначение SS-N-6 Mod 3 и Mod 2 соответственно.
+</p><p>Корабельные испытания ракет Р-27У проходили с сентября 1972 по август 1973 года.<sup class="reference" id="cite_ref-R-27_FAS_13-2"><a href="#cite_note-R-27_FAS-13">[13]</a></sup> Было выполнено 16 пусков, все признаны успешными. Ракета Р-27У была принята на вооружение <a href="/wiki/4_%D1%8F%D0%BD%D0%B2%D0%B0%D1%80%D1%8F" title="4 января">4 января</a> <a href="/wiki/1974_%D0%B3%D0%BE%D0%B4" title="1974 год">1974 года</a> постановлением Совета Министров № 8-5.<sup class="reference" id="cite_ref-_9d705181b238dea4_19-1"><a href="#cite_note-_9d705181b238dea4-19">[19]</a></sup> Комплексом Д-5У с ракетами Р-27У оснащались строящиеся атомные подводные ракетоносцы проекта 667АУ, а также лодки проекта 667А после модернизации.<sup class="reference" id="cite_ref-Подвига_278_15-4"><a href="#cite_note-Подвига_278-15">[15]</a></sup>
+</p>
+<h3><span id=".D0.A0-27.D0.9A"></span><span class="mw-headline" id="Р-27К">Р-27К</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A0-27_(%D0%B1%D0%B0%D0%BB%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0)&amp;veaction=edit&amp;section=6" title="Редактировать раздел «Р-27К»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A0-27_(%D0%B1%D0%B0%D0%BB%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0)&amp;action=edit&amp;section=6" title="Редактировать код раздела «Р-27К»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Первоначальным постановлением СМ от 24 апреля 1962 года о создании комплекса Д-5 предусматривалось создание также ракеты с самонаводящейся боевой частью, способной поражать движущиеся корабли. Противокорабельный вариант ракеты получил обозначение Р-27К (<a href="/wiki/%D0%98%D0%BD%D0%B4%D0%B5%D0%BA%D1%81_%D0%93%D0%A0%D0%90%D0%A3" title="Индекс ГРАУ">индекс ГРАУ</a> 4К18). На западе ракета получила индекс SS-NX-13. Ракета оснащалась второй ступенью с жидкостным ракетным двигателем разработки КБ-2 (главный конструктор Исаев А. М.). Для сохранения габаритов ракеты были уменьшены размеры первой ступени, что в конечном счёте привело к уменьшению максимальной дальности стрельбы до 900 км. Головная часть моноблочная, ядерная, мощностью 0,65 Мт.<sup class="reference" id="cite_ref-militaryparitet_20-0"><a href="#cite_note-militaryparitet-20">[20]</a></sup>
+</p><p>Наведение на пассивном участке осуществлялось с помощью <a class="new" href="/w/index.php?title=%D0%9F%D0%B0%D1%81%D1%81%D0%B8%D0%B2%D0%BD%D0%B0%D1%8F_%D0%A0%D0%9B%D0%93%D0%A1%D0%9D&amp;action=edit&amp;redlink=1" title="Пассивная РЛГСН (страница отсутствует)">пассивной радиолокационной ГСН</a>, с обработкой сигнала <a class="mw-redirect" href="/wiki/%D0%91%D0%A6%D0%92%D0%9C" title="БЦВМ">бортовой цифровой вычислительной системой</a>.<sup class="reference" id="cite_ref-Широкорад_517_21-0"><a href="#cite_note-Широкорад_517-21">[21]</a></sup> Первоначальные данные для стрельбы выдавались спутниковой системой «<a class="mw-redirect" href="/wiki/%D0%9C%D0%9A%D0%A0%D0%A6_%C2%AB%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D0%B0%C2%BB" title="МКРЦ «Легенда»">Легенда</a>» или <a class="new" href="/w/index.php?title=%D0%90%D0%B2%D0%B8%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%C2%AB%D0%A3%D1%81%D0%BF%D0%B5%D1%85-%D0%A3%C2%BB&amp;action=edit&amp;redlink=1" title="Авиационная система «Успех-У» (страница отсутствует)">авиационной системой «Успех-У»</a>. Обработка данных на корабельной <a class="new" href="/w/index.php?title=%D0%90%D0%BF%D0%BF%D0%B0%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0_%D1%80%D0%B0%D0%B7%D0%B2%D0%B5%D0%B4%D0%BA%D0%B8_%C2%AB%D0%9A%D0%B0%D1%81%D0%B0%D1%82%D0%BA%D0%B0%C2%BB&amp;action=edit&amp;redlink=1" title="Аппаратура разведки «Касатка» (страница отсутствует)">аппаратуре разведки «Касатка»</a> позволяла определить координаты группы кораблей с точностью до 25 км. Эти данные постоянно устаревают — за время предстартовой подготовки местоположение цели может измениться до 150 км.<sup class="reference" id="cite_ref-22"><a href="#cite_note-22">[22]</a></sup> Поэтому для второй ступени предусматривалось управление посредством двукратного включения двигательной установки второй ступени на внеатмосферном участке полёта. Первоначально также рассматривался вариант дополнительной коррекции траектории на атмосферном участке и оснащение ракеты боезарядом малой мощности. Но впоследствии от этого варианта отказались в пользу чисто баллистического, с боезарядом повышенной мощности.<sup class="reference" id="cite_ref-ГРЦ_102_23-0"><a href="#cite_note-ГРЦ_102-23">[23]</a></sup>
+</p><p>Испытания ракетного комплекса начались в декабре 1970 года.<sup class="reference" id="cite_ref-Коршунов-Кутовой_7-1"><a href="#cite_note-Коршунов-Кутовой-7">[7]</a></sup>
+</p><p>Техническим руководителем и заместителем председателя Государственной комиссии при отработке ракеты Р-27К при пусках с наземного стартового комплекса был назначен <a href="/wiki/%D0%91%D0%BE%D0%BA%D1%81%D0%B0%D1%80,_%D0%A8%D0%B0%D1%8F_%D0%98%D0%BE%D0%BD%D0%BE%D0%B2%D0%B8%D1%87" title="Боксар, Шая Ионович">Ш. И. Боксар</a>.
+</p><p>Цикл наземных испытаний на полигоне Капустин Яр включал в себя 20 пусков (из них 16 признаны успешными).<sup class="reference" id="cite_ref-ГРЦ_102_23-1"><a href="#cite_note-ГРЦ_102-23">[23]</a></sup> Под носитель ракет по проекту 605 была переоборудована подводная лодка — «<a href="/wiki/%D0%9A-102" title="К-102">К-102</a>» проекта <a href="/wiki/%D0%9F%D0%BE%D0%B4%D0%B2%D0%BE%D0%B4%D0%BD%D1%8B%D0%B5_%D0%BB%D0%BE%D0%B4%D0%BA%D0%B8_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0_629" title="Подводные лодки проекта 629">629</a>, с 4 ракетными шахтами на борту. Первый пуск с подлодки был осуществлён в декабре <a href="/wiki/1972_%D0%B3%D0%BE%D0%B4" title="1972 год">1972 года</a>. А в ноябре <a href="/wiki/1973_%D0%B3%D0%BE%D0%B4" title="1973 год">1973 года</a> испытания завершились двухракетным залпом. Всего было выполнено 11 пусков, из них 10 признано успешными. Во время последнего пуска судно-мишень было поражено прямым попаданием наводимого блока.<sup class="reference" id="cite_ref-ГРЦ_102_23-2"><a href="#cite_note-ГРЦ_102-23">[23]</a></sup>
+</p>
+<h3><span id=".D0.A0.D0.B0.D0.BA.D0.B5.D1.82.D0.B0-.D0.BD.D0.BE.D1.81.D0.B8.D1.82.D0.B5.D0.BB.D1.8C_.C2.AB.D0.97.D1.8B.D0.B1.D1.8C.C2.BB"></span><span class="mw-headline" id="Ракета-носитель_«Зыбь»">Ракета-носитель «Зыбь»</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A0-27_(%D0%B1%D0%B0%D0%BB%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0)&amp;veaction=edit&amp;section=7" title="Редактировать раздел «Ракета-носитель «Зыбь»»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A0-27_(%D0%B1%D0%B0%D0%BB%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0)&amp;action=edit&amp;section=7" title="Редактировать код раздела «Ракета-носитель «Зыбь»»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>В 1990-х годах проводились работы по созданию <a href="/wiki/%D0%A0%D0%B0%D0%BA%D0%B5%D1%82%D0%B0-%D0%BD%D0%BE%D1%81%D0%B8%D1%82%D0%B5%D0%BB%D1%8C" title="Ракета-носитель">ракет-носителей</a> на основе снимаемых с вооружения баллистических ракет подводных лодок. На базе Р-27 была создана ракета-носитель «Зыбь». Ракеты использовались в научно-исследовательских экспериментах, требующих создания микрогравитации. Период невесомости от 17 до 24 минут. На суборбитальную траекторию «Зыбь» может вывести полезный груз объёмом 1,5 м³. Масса полезной нагрузки 650 кг при максимальной высоте орбиты 1800 км, или 1000 кг при высоте <a href="/wiki/%D0%9E%D1%80%D0%B1%D0%B8%D1%82%D0%B0" title="Орбита">орбиты</a> 1000 км.<sup class="reference" id="cite_ref-astronautix_24-0"><a href="#cite_note-astronautix-24">[24]</a></sup>
+</p><p>Было осуществлено три запуска. 1 декабря 1991 года<sup class="reference" id="cite_ref-astronautix_24-1"><a href="#cite_note-astronautix-24">[24]</a></sup> был запущен модуль «Спринт», разработанный ГРЦ совместно с <a class="new" href="/w/index.php?title=%D0%9D%D0%9F%D0%9E_%C2%AB%D0%9A%D0%BE%D0%BC%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%C2%BB&amp;action=edit&amp;redlink=1" title="НПО «Композит» (страница отсутствует)">НПО «Композит»</a>. Модуль предназначался для отработки технологий получения <a href="/wiki/%D0%A1%D0%B2%D0%B5%D1%80%D1%85%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C" title="Сверхпроводимость">сверхпроводниковых</a> материалов и нёс на борту 15 экзотермических печей.<sup class="reference" id="cite_ref-ГРЦ_346_25-0"><a href="#cite_note-ГРЦ_346-25">[25]</a></sup>
+</p><p>9 декабря 1992 года и 1 декабря 1993 года<sup class="reference" id="cite_ref-astronautix_24-2"><a href="#cite_note-astronautix-24">[24]</a></sup> были осуществлены запуски модуля «Эфир» с <a href="/wiki/%D0%91%D0%B8%D0%BE%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Биотехнология">биотехнологической</a> аппаратурой «Медуза» массой 80 кг. Модуль разработанный совместно с <a class="new" href="/w/index.php?title=%D0%A6%D0%B5%D0%BD%D1%82%D1%80_%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B9_%D0%B1%D0%B8%D0%BE%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" title="Центр космической биотехнологии (страница отсутствует)">Центром космической биотехнологии</a> предназначался для исследований технологии очистки биологических и медицинских препаратов методом <a href="/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%84%D0%BE%D1%80%D0%B5%D0%B7" title="Электрофорез">электрофореза</a> в условиях невесомости<sup class="reference" id="cite_ref-ГРЦ_346_25-1"><a href="#cite_note-ГРЦ_346-25">[25]</a></sup>.
+</p>
+<h3><span id=".D0.9C.D1.83.D1.81.D1.83.D0.B4.D0.B0.D0.BD"></span><span class="mw-headline" id="Мусудан">Мусудан</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A0-27_(%D0%B1%D0%B0%D0%BB%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0)&amp;veaction=edit&amp;section=8" title="Редактировать раздел «Мусудан»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A0-27_(%D0%B1%D0%B0%D0%BB%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0)&amp;action=edit&amp;section=8" title="Редактировать код раздела «Мусудан»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Считается, что на базе советской Р-27 создана <a href="/wiki/%D0%9A%D0%BE%D1%80%D0%B5%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%9D%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%BE-%D0%94%D0%B5%D0%BC%D0%BE%D0%BA%D1%80%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0" title="Корейская Народно-Демократическая Республика">северокорейская</a> баллистическая ракета «<a href="/wiki/%D0%9C%D1%83%D1%81%D1%83%D0%B4%D0%B0%D0%BD_(%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0)" title="Мусудан (ракета)">Мусудан</a>»<sup class="reference" id="cite_ref-Musudan_missilethreat_26-0"><a href="#cite_note-Musudan_missilethreat-26">[26]</a></sup>.
+</p><p>Можно также встретить утверждения<sup class="reference" id="cite_ref-27"><a href="#cite_note-27">[27]</a></sup>, что на основе корейской ракеты создана иранская,  «<a href="/wiki/%D0%A8%D0%B0%D1%85%D0%B0%D0%B1-3" title="Шахаб-3">Шахаб-3</a>» («Метеор-3»),  ставшая в свою очередь основой для ракеты-носителя «<a href="/wiki/%D0%A1%D0%B0%D1%84%D0%B8%D1%80_(%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0-%D0%BD%D0%BE%D1%81%D0%B8%D1%82%D0%B5%D0%BB%D1%8C)" title="Сафир (ракета-носитель)">Сафир</a>» («Посланник»), до 2017 года обеспечивавшей большую часть запусков <a href="/wiki/%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D0%B8%D0%BA%D0%B0_%D0%98%D1%80%D0%B0%D0%BD%D0%B0" title="Космонавтика Ирана">иранской космической программы</a>. В действительности, однако, эти утверждения неверны: «Шахаб-3» разработана на базе ОТРК «<span data-interwiki-article="Rodong-1" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=%D0%9D%D0%BE%D0%B4%D0%BE%D0%BD-1&amp;action=edit&amp;redlink=1" title="Нодон-1 (страница отсутствует)">Нодон-1</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://en.wikipedia.org/wiki/Rodong-1" title="en:Rodong-1"><span title="Rodong-1 — версия статьи «Нодон-1» на английском языке">[en]</span></a></sup></span>» (корейского развития <a href="/wiki/%D0%A0-17" title="Р-17">Р-17</a>)<sup class="reference" id="cite_ref-Shahab_missilethreat_28-0"><a href="#cite_note-Shahab_missilethreat-28">[28]</a></sup>, также известной как «Нодон-А», а не на базе «Мусудан» (известной как «Нодон-Б»<sup class="reference" id="cite_ref-Musudan_missilethreat_26-1"><a href="#cite_note-Musudan_missilethreat-26">[26]</a></sup>).
+</p>
+<h2><span id=".D0.AD.D0.BA.D1.81.D0.BF.D0.BB.D1.83.D0.B0.D1.82.D0.B0.D1.86.D0.B8.D1.8F"></span><span class="mw-headline" id="Эксплуатация">Эксплуатация</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A0-27_(%D0%B1%D0%B0%D0%BB%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0)&amp;veaction=edit&amp;section=9" title="Редактировать раздел «Эксплуатация»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A0-27_(%D0%B1%D0%B0%D0%BB%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0)&amp;action=edit&amp;section=9" title="Редактировать код раздела «Эксплуатация»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Всего было произведено около 1800 ракет. Комплекс Д-5 эксплуатировался с <a class="mw-redirect" href="/wiki/1968" title="1968">1968</a> по <a href="/wiki/1988_%D0%B3%D0%BE%D0%B4" title="1988 год">1988 год</a>. Всего было выполнено 492 пуска ракет, из которых 429 признано успешными. Максимальное количество пусков было в 1971 году — 58. Это своеобразный рекорд для советских и российских баллистических ракет подводных лодок. Комплекс удерживает также рекорд по среднегодовому количеству пусков — 23,4.
+</p><p>При эксплуатации комплекса Д-5У был выполнен 161 пуск, из них 150 успешных. Последние пуски ракет Р-27 и Р-27У по планам боевой подготовки были выполнены в 1988 году.<sup class="reference" id="cite_ref-Подвига_278_15-5"><a href="#cite_note-Подвига_278-15">[15]</a></sup> После этого пуски осуществлялись только в исследовательских целях. За время эксплуатации дважды (по одному разу на Северном и Тихоокеанском флотах) были проведены стрельбы 8 ракет в одном залпе. Все пуски были признаны успешными. За весь период эксплуатации было выполнено более 10 тысяч погрузок-выгрузок ракет, лодками вооружёнными РСМ-25 было осуществлено 590 боевых патрулирований в различных районах Мирового океана.
+</p><p>За время эксплуатации произошло несколько аварий с разрушением ракет. Погибли 5 человек и потеряна одна подводная лодка — <a href="/wiki/%D0%9A-219" title="К-219">К-219</a>.
+</p><p>При погрузке с нарушением процесса погрузки-выгрузки ракета с высоты 10 м упала на причал. Был разрушен бак окислителя. Два человека из погрузочной партии погибли от воздействия паров окислителя на незащищённые органы дыхания.<sup class="reference" id="cite_ref-Эксплуатация_РСМ25_29-0"><a href="#cite_note-Эксплуатация_РСМ25-29">[29]</a></sup>
+</p><p>Трижды разрушалась ракета в шахте лодки, находящейся на боевом дежурстве.
+</p><p>На учениях «<a class="new" href="/w/index.php?title=%D0%9E%D0%BA%D0%B5%D0%B0%D0%BD-76&amp;action=edit&amp;redlink=1" title="Океан-76 (страница отсутствует)">Океан-76</a>» на лодке <a class="new" href="/w/index.php?title=%D0%9A-444&amp;action=edit&amp;redlink=1" title="К-444 (страница отсутствует)">К-444</a> провели предстартовую подготовку трёх ракет. Был осуществлён пуск двух ракет, а стрельба третьей ракетой не производилась. Давление в баках ракеты из-за ряда человеческих ошибок было сброшено до всплытия лодки. Давление забортной воды разрушило баки ракеты, а при всплытии и осушении шахты окислитель протёк в шахту. Благодаря умелым действиям личного состава развития аварийной ситуации не произошло.<sup class="reference" id="cite_ref-Эксплуатация_РСМ25_29-1"><a href="#cite_note-Эксплуатация_РСМ25-29">[29]</a></sup>
+</p><p>В 1973 году на лодке <a href="/wiki/%D0%9A-219" title="К-219">К-219</a> находящейся на глубине 100 м из-за ложного срабатывания системы орошения при открытом клапане осушения шахты и ручного клапана на перемычке между главной осушительной магистралью лодки и трубопроводом осушения шахты произошло сообщение ракетной шахты с забортной водой. Давление в 10 <a href="/wiki/%D0%90%D1%82%D0%BC%D0%BE%D1%81%D1%84%D0%B5%D1%80%D0%B0_(%D0%B5%D0%B4%D0%B8%D0%BD%D0%B8%D1%86%D0%B0_%D0%B8%D0%B7%D0%BC%D0%B5%D1%80%D0%B5%D0%BD%D0%B8%D1%8F)" title="Атмосфера (единица измерения)">атмосфер</a> разрушило баки ракеты. При осушении шахты произошло возгорание ракетного топлива, но своевременное срабатывание системы автоматического орошения предотвратило дальнейшее развитие аварии. Лодка благополучно вернулась на базу.<sup class="reference" id="cite_ref-Эксплуатация_РСМ25_29-2"><a href="#cite_note-Эксплуатация_РСМ25-29">[29]</a></sup>
+</p>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:K219-DN-SC-87-00808.JPEG"><img class="mw-file-element" data-file-height="768" data-file-width="1440" decoding="async" height="117" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/K219-DN-SC-87-00808.JPEG/220px-K219-DN-SC-87-00808.JPEG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/K219-DN-SC-87-00808.JPEG/330px-K219-DN-SC-87-00808.JPEG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/K219-DN-SC-87-00808.JPEG/440px-K219-DN-SC-87-00808.JPEG 2x" width="220"/></a><figcaption>Пожар на К-219 в октябре 1986 года</figcaption></figure>
+<p>Третий случай произошёл также на лодке К-219 3 октября 1986 года. По неустановленным причинам при погружении после сеанса связи в ракетную шахту стала поступать вода. Экипаж попытался отключить автоматику и слить воду нештатными средствами. В результате сначала давление сравнялось с забортным и разрушились баки ракеты. Затем после осушения шахты произошло возгорание компонентов топлива. Отключённая автоматика орошения не сработала и произошёл взрыв. Была сорвана крышка ракетной шахты, начался пожар в четвёртом ракетном отсеке. Потушить пожар собственными силами не удалось. Личный состав покинул лодку, отсеки заполнились забортной водой и лодка пошла ко дну. Во время пожара и задымления в ракетных 4-м и 5-м отсеках погибли 3 человека, в том числе командир <a class="mw-redirect" href="/wiki/%D0%91%D0%A7-2" title="БЧ-2">БЧ-2</a>.<sup class="reference" id="cite_ref-Эксплуатация_РСМ25_29-3"><a href="#cite_note-Эксплуатация_РСМ25-29">[29]</a></sup>
+</p><p>Опыт эксплуатации ракет РСМ-25 был проанализирован и учтён при разработке новых комплексов. В результате при эксплуатации последующих ракет не было ни одного случая гибели людей.
+</p>
+<h3><span id=".D0.A1.D0.BD.D1.8F.D1.82.D0.B8.D0.B5_.D1.81_.D0.B2.D0.BE.D0.BE.D1.80.D1.83.D0.B6.D0.B5.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Снятие_с_вооружения">Снятие с вооружения</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A0-27_(%D0%B1%D0%B0%D0%BB%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0)&amp;veaction=edit&amp;section=10" title="Редактировать раздел «Снятие с вооружения»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A0-27_(%D0%B1%D0%B0%D0%BB%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0)&amp;action=edit&amp;section=10" title="Редактировать код раздела «Снятие с вооружения»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Модификация Р-27У была снята с вооружения ещё до распада Советского Союза, в 1989 году.<sup class="reference" id="cite_ref-militaryparitet_20-1"><a href="#cite_note-militaryparitet-20">[20]</a></sup> Другие модификации ракеты снимались с вооружения в <a class="mw-redirect" href="/wiki/%D0%92%D0%BE%D0%BE%D1%80%D1%83%D0%B6%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D0%A1%D0%B8%D0%BB%D1%8B_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8" title="Вооружённые Силы Российской Федерации">России</a> в рамках исполнения договора <a class="mw-redirect" href="/wiki/%D0%A1%D0%9D%D0%92-1" title="СНВ-1">СНВ-1</a>. Согласно сентябрьскому меморандуму <a href="/wiki/1990_%D0%B3%D0%BE%D0%B4" title="1990 год">1990 года</a>, на территории СССР на Р-27 было развёрнуто 192 ядерных боезаряда. По состоянию на июль <a href="/wiki/1997_%D0%B3%D0%BE%D0%B4" title="1997 год">1997 года</a> <a href="/wiki/%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0" title="Украина">Украина</a>, <a href="/wiki/%D0%91%D0%B5%D0%BB%D0%BE%D1%80%D1%83%D1%81%D1%81%D0%B8%D1%8F" title="Белоруссия">Белоруссия</a> и <a href="/wiki/%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD" title="Казахстан">Казахстан</a> по <a href="/wiki/%D0%9B%D0%B8%D1%81%D1%81%D0%B0%D0%B1%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB" title="Лиссабонский протокол">Лиссабонскому протоколу</a><sup class="reference" id="cite_ref-ACA_lisb-agr_30-0"><a href="#cite_note-ACA_lisb-agr-30">[30]</a></sup> отказались от ядерного оружия, а в России на Р-27 оставалось 16 развёрнутых боезарядов.<sup class="reference" id="cite_ref-ACA_strateg_forces1_31-0"><a href="#cite_note-ACA_strateg_forces1-31">[31]</a></sup> Январский меморандум <a href="/wiki/2008_%D0%B3%D0%BE%D0%B4" title="2008 год">2008 года</a> подтвердил, что все Р-27 в России были сняты с вооружения.<sup class="reference" id="cite_ref-ACA_strateg_forces2_32-0"><a href="#cite_note-ACA_strateg_forces2-32">[32]</a></sup>
+</p>
+<h2><span id=".D0.A2.D0.B0.D0.BA.D1.82.D0.B8.D0.BA.D0.BE-.D1.82.D0.B5.D1.85.D0.BD.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D1.85.D0.B0.D1.80.D0.B0.D0.BA.D1.82.D0.B5.D1.80.D0.B8.D1.81.D1.82.D0.B8.D0.BA.D0.B8"></span><span class="mw-headline" id="Тактико-технические_характеристики">Тактико-технические характеристики</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A0-27_(%D0%B1%D0%B0%D0%BB%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0)&amp;veaction=edit&amp;section=11" title="Редактировать раздел «Тактико-технические характеристики»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A0-27_(%D0%B1%D0%B0%D0%BB%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0)&amp;action=edit&amp;section=11" title="Редактировать код раздела «Тактико-технические характеристики»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable" style="text-align:center">
+<tbody><tr>
+<th></th>
+<th>Р-27</th>
+<th colspan="2">Р-27У</th>
+<th>Р-27К
+</th></tr>
+<tr>
+<td align="left">Тип ракеты</td>
+<td align="center" colspan="3"><a href="/wiki/%D0%91%D0%B0%D0%BB%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D1%8B_%D0%BF%D0%BE%D0%B4%D0%B2%D0%BE%D0%B4%D0%BD%D1%8B%D1%85_%D0%BB%D0%BE%D0%B4%D0%BE%D0%BA" title="Баллистические ракеты подводных лодок">БРПЛ</a></td>
+<td><a href="/wiki/%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BE%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0" title="Противокорабельная ракета">ПКР</a>
+</td></tr>
+<tr>
+<td align="left">Индекс <a class="mw-redirect" href="/wiki/%D0%93%D0%A0%D0%90%D0%A3" title="ГРАУ">ГРАУ</a></td>
+<td>4К10<sup class="reference" id="cite_ref-Подвига_277_12-2"><a href="#cite_note-Подвига_277-12">[12]</a></sup></td>
+<td></td>
+<td></td>
+<td>4К18<sup class="reference" id="cite_ref-Широкорад_517_21-1"><a href="#cite_note-Широкорад_517-21">[21]</a></sup>
+</td></tr>
+<tr>
+<td align="left">Код <a class="mw-redirect" href="/wiki/%D0%A1%D0%9D%D0%92-1" title="СНВ-1">СНВ</a></td>
+<td>РСМ-25</td>
+<td colspan="2">РСМ-25</td>
+<td>
+</td></tr>
+<tr>
+<td align="left">Код НАТО</td>
+<td>SS-N-6 Mod 1 «Serb»</td>
+<td>SS-N-6 Mod 2 «Serb»</td>
+<td>SS-N-6 Mod 3 «Serb»</td>
+<td>SS-NX-13
+</td></tr>
+<tr>
+<td align="left">Комплекс</td>
+<td>Д-5</td>
+<td align="center" colspan="2">Д-5У</td>
+<td>
+</td></tr>
+<tr>
+<td align="left">Носитель (подводная лодка)</td>
+<td><a class="mw-redirect" href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_667%D0%90" title="Проект 667А">проект 667А</a></td>
+<td colspan="2"><a class="mw-redirect" href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_667%D0%90%D0%A3" title="Проект 667АУ">проект 667АУ</a></td>
+<td><a class="mw-redirect" href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_605" title="Проект 605">проект 605</a>
+</td></tr>
+<tr>
+<td align="left">Количество пусковых установок</td>
+<td>16</td>
+<td colspan="2">16</td>
+<td>4
+</td></tr>
+<tr>
+<th colspan="5">Данные ракеты
+</th></tr>
+<tr>
+<td align="left">Количество ступеней</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>2
+</td></tr>
+<tr>
+<td align="left">Двигатель</td>
+<td align="center"><a href="/wiki/%D0%96%D0%B8%D0%B4%D0%BA%D0%BE%D1%81%D1%82%D0%BD%D1%8B%D0%B9_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%BD%D1%8B%D0%B9_%D0%B4%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%B5%D0%BB%D1%8C" title="Жидкостный ракетный двигатель">ЖРД</a> 4Д10</td>
+<td colspan="3">ЖРД
+</td></tr>
+<tr>
+<th colspan="5">Массогабаритные показатели
+</th></tr>
+<tr>
+<td align="left">Масса ракеты, кг</td>
+<td>14 200</td>
+<td>14 200</td>
+<td>14 200?</td>
+<td>13 250<sup class="reference" id="cite_ref-Широкорад_517_21-2"><a href="#cite_note-Широкорад_517-21">[21]</a></sup>
+</td></tr>
+<tr>
+<td align="left">Длина, мм</td>
+<td>8890</td>
+<td>8890</td>
+<td>8890</td>
+<td>~9000<sup class="reference" id="cite_ref-Широкорад_517_21-3"><a href="#cite_note-Широкорад_517-21">[21]</a></sup>
+</td></tr>
+<tr>
+<td align="left">Диаметр, мм</td>
+<td colspan="3">1500</td>
+<td>
+</td></tr>
+<tr>
+<th colspan="5">Полезная нагрузка
+</th></tr>
+<tr>
+<td align="left">Масса головной части, кг</td>
+<td>650</td>
+<td>650</td>
+<td>3×170 кг<sup class="reference" id="cite_ref-33"><a href="#cite_note-33">[33]</a></sup></td>
+<td>?
+</td></tr>
+<tr>
+<td align="left">Тип головной части</td>
+<td colspan="2"><a class="mw-redirect" href="/wiki/%D0%9C%D0%BE%D0%BD%D0%BE%D0%B1%D0%BB%D0%BE%D1%87%D0%BD%D0%B0%D1%8F_%D0%93%D0%A7" title="Моноблочная ГЧ">моноблочная</a></td>
+<td><a class="mw-redirect" href="/wiki/%D0%A0%D0%93%D0%A7_%D0%A0%D0%A2" title="РГЧ РТ">РГЧ РТ</a></td>
+<td>ГЧ с самонаведением
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/%D0%A2%D1%80%D0%BE%D1%82%D0%B8%D0%BB%D0%BE%D0%B2%D1%8B%D0%B9_%D1%8D%D0%BA%D0%B2%D0%B8%D0%B2%D0%B0%D0%BB%D0%B5%D0%BD%D1%82" title="Тротиловый эквивалент">Мощность</a> ядерного заряда</td>
+<td>1 Мт<br/>(0,6—1,2 Мт<sup class="reference" id="cite_ref-R-27_FAS_13-3"><a href="#cite_note-R-27_FAS-13">[13]</a></sup><sup class="reference" id="cite_ref-west_source_34-0"><a href="#cite_note-west_source-34">[34]</a></sup>)</td>
+<td>1 Мт<br/>(0,6—1,2 Мт<sup class="reference" id="cite_ref-R-27_FAS_13-4"><a href="#cite_note-R-27_FAS-13">[13]</a></sup><sup class="reference" id="cite_ref-west_source_34-1"><a href="#cite_note-west_source-34">[34]</a></sup>)</td>
+<td>3×0,2 Мт<br/>(3×0,1—0,8 Мт<sup class="reference" id="cite_ref-R-27_FAS_13-5"><a href="#cite_note-R-27_FAS-13">[13]</a></sup><sup class="reference" id="cite_ref-west_source_34-2"><a href="#cite_note-west_source-34">[34]</a></sup>)</td>
+<td>
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/%D0%9A%D1%80%D1%83%D0%B3%D0%BE%D0%B2%D0%BE%D0%B5_%D0%B2%D0%B5%D1%80%D0%BE%D1%8F%D1%82%D0%BD%D0%BE%D0%B5_%D0%BE%D1%82%D0%BA%D0%BB%D0%BE%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5" title="Круговое вероятное отклонение">КВО</a>, км</td>
+<td>1,9 (1,1<sup class="reference" id="cite_ref-R-27_FAS_13-6"><a href="#cite_note-R-27_FAS-13">[13]</a></sup><sup class="reference" id="cite_ref-west_source_34-3"><a href="#cite_note-west_source-34">[34]</a></sup>)</td>
+<td colspan="2">1,3—1,8</td>
+<td>
+</td></tr>
+<tr>
+<th colspan="5">Параметры траектории
+</th></tr>
+<tr>
+<td align="left">Скорость в конце активного участка, м/с</td>
+<td>4400<sup class="reference" id="cite_ref-Широкорад_517_21-4"><a href="#cite_note-Широкорад_517-21">[21]</a></sup></td>
+<td></td>
+<td></td>
+<td>
+</td></tr>
+<tr>
+<td align="left">Высота в конце активного участка, км</td>
+<td>120<sup class="reference" id="cite_ref-Широкорад_517_21-5"><a href="#cite_note-Широкорад_517-21">[21]</a></sup></td>
+<td></td>
+<td></td>
+<td>
+</td></tr>
+<tr>
+<td align="left">Время активного участка, с</td>
+<td>128,5<sup class="reference" id="cite_ref-Широкорад_517_21-6"><a href="#cite_note-Широкорад_517-21">[21]</a></sup></td>
+<td></td>
+<td></td>
+<td>
+</td></tr>
+<tr>
+<td align="left">Максимальная высота, км</td>
+<td>620<sup class="reference" id="cite_ref-Широкорад_517_21-7"><a href="#cite_note-Широкорад_517-21">[21]</a></sup></td>
+<td></td>
+<td></td>
+<td>
+</td></tr>
+<tr>
+<td align="left">Максимальная дальность, км</td>
+<td>2500<sup class="reference" id="cite_ref-Широкорад_517_21-8"><a href="#cite_note-Широкорад_517-21">[21]</a></sup> (2400<sup class="reference" id="cite_ref-R-27_FAS_13-7"><a href="#cite_note-R-27_FAS-13">[13]</a></sup><sup class="reference" id="cite_ref-west_source_34-4"><a href="#cite_note-west_source-34">[34]</a></sup>)</td>
+<td>3000 (3200<sup class="reference" id="cite_ref-R-27_FAS_13-8"><a href="#cite_note-R-27_FAS-13">[13]</a></sup><sup class="reference" id="cite_ref-west_source_34-5"><a href="#cite_note-west_source-34">[34]</a></sup>)</td>
+<td>2500 (3200<sup class="reference" id="cite_ref-R-27_FAS_13-9"><a href="#cite_note-R-27_FAS-13">[13]</a></sup><sup class="reference" id="cite_ref-west_source_34-6"><a href="#cite_note-west_source-34">[34]</a></sup>)</td>
+<td>900<sup class="reference" id="cite_ref-Широкорад_517_21-9"><a href="#cite_note-Широкорад_517-21">[21]</a></sup>
+</td></tr>
+<tr>
+<td align="left">Скорость встречи с целью, м/с</td>
+<td>300<sup class="reference" id="cite_ref-Широкорад_517_21-10"><a href="#cite_note-Широкорад_517-21">[21]</a></sup></td>
+<td></td>
+<td></td>
+<td>
+</td></tr>
+<tr>
+<th colspan="5">История
+</th></tr>
+<tr>
+<td align="left">Разработчик</td>
+<td align="center" colspan="4"><a class="mw-redirect" href="/wiki/%D0%A1%D0%9A%D0%91-385" title="СКБ-385">СКБ-385</a> (ГРЦ им. Макеева)
+</td></tr>
+<tr>
+<td align="left">Конструктор</td>
+<td colspan="4">Макеев В. П.
+</td></tr>
+<tr>
+<td align="left">Начало разработки</td>
+<td><a href="/wiki/24_%D0%B0%D0%BF%D1%80%D0%B5%D0%BB%D1%8F" title="24 апреля">24 апреля</a> <a class="mw-redirect" href="/wiki/1962" title="1962">1962</a></td>
+<td align="center" colspan="2"><a href="/wiki/10_%D0%B8%D1%8E%D0%BD%D1%8F" title="10 июня">10 июня</a> <a class="mw-redirect" href="/wiki/1971" title="1971">1971</a></td>
+<td>
+</td></tr>
+<tr>
+<td align="left">Пуски со стенда</td>
+<td>сентябрь <a class="mw-redirect" href="/wiki/1965" title="1965">1965</a> — август <a class="mw-redirect" href="/wiki/1967" title="1967">1967</a></td>
+<td colspan="2">не проводились</td>
+<td>
+</td></tr>
+<tr>
+<td align="left">Пуски с подводной лодки</td>
+<td>декабрь <a class="mw-redirect" href="/wiki/1972" title="1972">1972</a> — ноябрь <a class="mw-redirect" href="/wiki/1973" title="1973">1973</a></td>
+<td colspan="2">сентябрь <a class="mw-redirect" href="/wiki/1972" title="1972">1972</a> — август <a class="mw-redirect" href="/wiki/1973" title="1973">1973</a></td>
+<td>
+</td></tr>
+<tr>
+<td align="left">Принятие на вооружение</td>
+<td><a href="/wiki/13_%D0%BC%D0%B0%D1%80%D1%82%D0%B0" title="13 марта">13 марта</a> <a class="mw-redirect" href="/wiki/1968" title="1968">1968</a></td>
+<td colspan="2"><a href="/wiki/4_%D1%8F%D0%BD%D0%B2%D0%B0%D1%80%D1%8F" title="4 января">4 января</a> <a class="mw-redirect" href="/wiki/1974" title="1974">1974</a></td>
+<td>не принималась
+</td></tr>
+<tr>
+<td align="left">Изготовитель</td>
+<td colspan="4"><a href="/wiki/%D0%97%D0%BB%D0%B0%D1%82%D0%BE%D1%83%D1%81%D1%82%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4" title="Златоустовский машиностроительный завод">Златоустовский машиностроительный завод</a><br/><a href="/wiki/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D1%8F%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4" title="Красноярский машиностроительный завод">Красноярский машиностроительный завод</a>
+</td></tr></tbody></table>
+<h2><span id=".D0.9E.D1.86.D0.B5.D0.BD.D0.BA.D0.B0_.D0.BF.D1.80.D0.BE.D0.B5.D0.BA.D1.82.D0.B0"></span><span class="mw-headline" id="Оценка_проекта">Оценка проекта</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A0-27_(%D0%B1%D0%B0%D0%BB%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0)&amp;veaction=edit&amp;section=12" title="Редактировать раздел «Оценка проекта»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A0-27_(%D0%B1%D0%B0%D0%BB%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0)&amp;action=edit&amp;section=12" title="Редактировать код раздела «Оценка проекта»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Ракетный комплекс Д-4 с ракетой Р-27 для вооружения подводных лодок проекта 667А стал ответом на американскую программу «Поларис».<sup class="reference" id="cite_ref-Ведерников_35-0"><a href="#cite_note-Ведерников-35">[35]</a></sup> По своим тактико-техническим характеристикам ракета Р-27 стала аналогом ракеты «Поларис A1», а моноблочный вариант ракеты Р-27У аналогом «Поларис A2». Вариант ракеты Р-27У с тремя боевыми блоками уже существенно уступал своему аналогу «Поларис A3» по дальности. При этом советские ракеты были приняты на вооружение на 8—10 лет позже и имели худшие показатели точности (<a href="/wiki/%D0%9A%D1%80%D1%83%D0%B3%D0%BE%D0%B2%D0%BE%D0%B5_%D0%B2%D0%B5%D1%80%D0%BE%D1%8F%D1%82%D0%BD%D0%BE%D0%B5_%D0%BE%D1%82%D0%BA%D0%BB%D0%BE%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5" title="Круговое вероятное отклонение">КВО</a>).<sup class="reference" id="cite_ref-36"><a href="#cite_note-36">[36]</a></sup> В 1970 году США приняли на вооружение ракету «Посейдон C3» с разделяющейся головной частью с десятью блоками индивидуального наведения, что позволило им резко повысить эффективность своих морских стратегических ядерных сил.
+</p><p>Отличительной особенностью советских ракет было то, что на них использовались <a href="/wiki/%D0%96%D0%B8%D0%B4%D0%BA%D0%BE%D1%81%D1%82%D0%BD%D1%8B%D0%B9_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%BD%D1%8B%D0%B9_%D0%B4%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%B5%D0%BB%D1%8C" title="Жидкостный ракетный двигатель">ракетные двигатели с жидким топливом</a> и они были одноступенчатыми, а американские ракеты создавались с <a href="/wiki/%D0%A2%D0%B2%D0%B5%D1%80%D0%B4%D0%BE%D1%82%D0%BE%D0%BF%D0%BB%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%BD%D1%8B%D0%B9_%D0%B4%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%B5%D0%BB%D1%8C" title="Твердотопливный ракетный двигатель">твердотопливными двигателями</a> и были двухступенчатыми. Советские ракеты были немного легче, но при этом имели большие габариты. Более высокой по сравнению с американскими ракетами была и взрывопожароопасность.
+</p><p>Французские ракетостроители избрали американский путь и создавали свои первые ракеты — M1/M2 и M20 — двухступенчатыми с твердотопливными двигателями. По своим тактико-техническим характеристикам эти ракеты соответствовали моноблочным вариантам ракет Р-27 и Р-27У, обладали сравнимой точностью и были приняты на вооружение на несколько лет позже, чем Р-27.
+</p><p>Небольшая дальность советских ракет обусловила необходимость боевого патрулирования советских <a href="/wiki/%D0%A0%D0%B0%D0%BA%D0%B5%D1%82%D0%BD%D1%8B%D0%B9_%D0%BF%D0%BE%D0%B4%D0%B2%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80_%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%B5%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BD%D0%B0%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D1%8F" title="Ракетный подводный крейсер стратегического назначения">ПЛАРБ</a> в зонах действия мощных сил <a href="/wiki/%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BE%D0%BB%D0%BE%D0%B4%D0%BE%D1%87%D0%BD%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BE%D1%80%D0%BE%D0%BD%D0%B0" title="Противолодочная оборона">противолодочной обороны</a> <a class="mw-redirect" href="/wiki/%D0%92%D0%9C%D0%A1_%D0%A1%D0%A8%D0%90" title="ВМС США">ВМС США</a> и <a href="/wiki/%D0%9D%D0%90%D0%A2%D0%9E" title="НАТО">НАТО</a>, что снижало <a href="/wiki/%D0%91%D0%BE%D0%B5%D0%B2%D0%B0%D1%8F_%D1%83%D1%81%D1%82%D0%BE%D0%B9%D1%87%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D1%8C" title="Боевая устойчивость">боевую устойчивость</a> советских ракетоносцев<sup class="reference" id="cite_ref-Ведерников_35-1"><a href="#cite_note-Ведерников-35">[35]</a></sup>. Несмотря на ряд недостатков, СССР удалось создать достаточно эффективный стратегический ракетный комплекс. На ракете Р-27 был опробован ряд новых технических решений. Использование этих наработок на ракетных комплексах с ракетами <a href="/wiki/%D0%A0-29" title="Р-29">Р-29</a> и <a href="/wiki/%D0%A0-29%D0%A0" title="Р-29Р">Р-29Р</a> в дальнейшем позволило ликвидировать отставание от США.
+</p>
+<table class="wikitable" style="text-align:center">
+<tbody><tr>
+<th style="width:auto"><span class="ts-comment-commentedText" title="Тактико-технические характеристики">ТТХ</span>
+</th>
+<th style="width:8%"><a href="/wiki/%D0%9F%D0%BE%D0%BB%D0%B0%D1%80%D0%B8%D1%81" title="Поларис">Поларис</a> A1
+</th>
+<th style="width:8%">Поларис A2
+</th>
+<th style="width:8%">Поларис A3
+</th>
+<th style="width:8%"><a class="mw-selflink selflink">Р-27</a>
+</th>
+<th colspan="2" style="width:auto"><a class="mw-redirect" href="/wiki/%D0%A0-27%D0%A3" title="Р-27У">Р-27У</a>
+</th>
+<th style="width:8%"><a href="/wiki/%D0%9F%D0%BE%D1%81%D0%B5%D0%B9%D0%B4%D0%BE%D0%BD_(%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0)" title="Посейдон (ракета)">Посейдон</a> C3
+</th>
+<th style="width:8%"><a href="/wiki/%D0%A0-29" title="Р-29">Р-29</a>
+</th>
+<th style="width:8%"><a href="/wiki/M1_(%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0)" title="M1 (ракета)">M1</a>
+</th>
+<th style="width:8%"><a href="/wiki/M20_(%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0)" title="M20 (ракета)">M20</a>
+</th></tr>
+<tr>
+<th align="right">Страна
+</th>
+<td colspan="3"><span class="flagicon"><span class="mw-image-border noresize noviewer" typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_the_United_States.svg" title="Соединённые Штаты Америки"><img alt="Соединённые Штаты Америки" class="mw-file-element" data-file-height="650" data-file-width="1235" decoding="async" height="12" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/22px-Flag_of_the_United_States.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/33px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/44px-Flag_of_the_United_States.svg.png 2x" width="22"/></a></span></span></td>
+<td colspan="3"><span class="flagicon"><span class="mw-image-border noresize noviewer" typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_the_Soviet_Union.svg" title="Союз Советских Социалистических Республик"><img alt="Союз Советских Социалистических Республик" class="mw-file-element" data-file-height="600" data-file-width="1200" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/22px-Flag_of_the_Soviet_Union.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/33px-Flag_of_the_Soviet_Union.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/44px-Flag_of_the_Soviet_Union.svg.png 2x" width="22"/></a></span></span></td>
+<td><span class="flagicon"><span class="mw-image-border noresize noviewer" typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_the_United_States.svg" title="Соединённые Штаты Америки"><img alt="Соединённые Штаты Америки" class="mw-file-element" data-file-height="650" data-file-width="1235" decoding="async" height="12" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/22px-Flag_of_the_United_States.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/33px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/44px-Flag_of_the_United_States.svg.png 2x" width="22"/></a></span></span></td>
+<td><span class="flagicon"><span class="mw-image-border noresize noviewer" typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_the_Soviet_Union.svg" title="Союз Советских Социалистических Республик"><img alt="Союз Советских Социалистических Республик" class="mw-file-element" data-file-height="600" data-file-width="1200" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/22px-Flag_of_the_Soviet_Union.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/33px-Flag_of_the_Soviet_Union.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/44px-Flag_of_the_Soviet_Union.svg.png 2x" width="22"/></a></span></span></td>
+<td colspan="2"><span class="flagicon"><span class="mw-image-border noresize noviewer" typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_France_(1794%E2%80%931815,_1830%E2%80%931974).svg" title="Франция"><img alt="Франция" class="mw-file-element" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%29.svg/22px-Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%29.svg/33px-Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%29.svg/44px-Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%29.svg.png 2x" width="22"/></a></span></span>
+</td></tr>
+<tr>
+<th align="right">Год принятия на вооружение
+</th>
+<td>1960</td>
+<td>1962</td>
+<td>1964</td>
+<td>1968</td>
+<td colspan="2">1974</td>
+<td>1970</td>
+<td>1974</td>
+<td>1972</td>
+<td>1976
+</td></tr>
+<tr>
+<th align="right">Максимальная дальность, км
+</th>
+<td>2200</td>
+<td>2800</td>
+<td>4600</td>
+<td>2500</td>
+<td>3000</td>
+<td>2500</td>
+<td>4600</td>
+<td>7800</td>
+<td>3000</td>
+<td>3200
+</td></tr>
+<tr>
+<th align="right">Забрасываемый вес, кг
+</th>
+<td>500</td>
+<td>500</td>
+<td>760</td>
+<td>650</td>
+<td style="width:7%">650</td>
+<td style="width:7%">&gt;650</td>
+<td>2000</td>
+<td>1100</td>
+<td>1360</td>
+<td>1000
+</td></tr>
+<tr>
+<th align="right">Тип головной части
+</th>
+<td colspan="2"><a class="mw-redirect" href="/wiki/%D0%9C%D0%BE%D0%BD%D0%BE%D0%B1%D0%BB%D0%BE%D1%87%D0%BD%D0%B0%D1%8F_%D0%93%D0%A7" title="Моноблочная ГЧ">моноблочная</a></td>
+<td><a class="mw-redirect" href="/wiki/%D0%A0%D0%93%D0%A7_%D0%A0%D0%A2" title="РГЧ РТ">РГЧ РТ</a></td>
+<td colspan="2">моноблочная</td>
+<td><a class="mw-redirect" href="/wiki/%D0%A0%D0%93%D0%A7_%D0%A0%D0%A2" title="РГЧ РТ">РГЧ РТ</a></td>
+<td><a class="mw-redirect" href="/wiki/%D0%A0%D0%93%D0%A7_%D0%98%D0%9D" title="РГЧ ИН">РГЧ ИН</a></td>
+<td colspan="3">моноблочная
+</td></tr>
+<tr>
+<th align="right">Мощность, кт
+</th>
+<td>600</td>
+<td>800</td>
+<td>3×200</td>
+<td>1000</td>
+<td>1000</td>
+<td>3×200</td>
+<td>10×50</td>
+<td>1000</td>
+<td>500</td>
+<td>1200
+</td></tr>
+<tr>
+<th align="right"><a href="/wiki/%D0%9A%D1%80%D1%83%D0%B3%D0%BE%D0%B2%D0%BE%D0%B5_%D0%B2%D0%B5%D1%80%D0%BE%D1%8F%D1%82%D0%BD%D0%BE%D0%B5_%D0%BE%D1%82%D0%BA%D0%BB%D0%BE%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5" title="Круговое вероятное отклонение">КВО</a>, м
+</th>
+<td>1800</td>
+<td></td>
+<td>1000</td>
+<td>1900</td>
+<td colspan="2">1300—1800</td>
+<td>800</td>
+<td>1500</td>
+<td></td>
+<td>1000
+</td></tr>
+<tr>
+<th align="right">Стартовая масса, т
+</th>
+<td>12,7</td>
+<td>13,6</td>
+<td>16,2</td>
+<td colspan="3">14,2</td>
+<td>29,5</td>
+<td>33,3</td>
+<td colspan="3">20
+</td></tr>
+<tr>
+<th align="right">Длина, м
+</th>
+<td>8,53</td>
+<td>9,45</td>
+<td>9,86</td>
+<td colspan="3">9,65</td>
+<td>10,36</td>
+<td>13</td>
+<td colspan="2">10,67
+</td></tr>
+<tr>
+<th align="right">Диаметр, м
+</th>
+<td colspan="3">1,37</td>
+<td colspan="3">1,5</td>
+<td>1,88</td>
+<td>1,8</td>
+<td colspan="2">1,49
+</td></tr>
+<tr>
+<th align="right">Количество ступеней
+</th>
+<td colspan="3">2</td>
+<td colspan="3">1</td>
+<td>2</td>
+<td>2</td>
+<td colspan="2">2
+</td></tr>
+<tr>
+<th align="right">Тип двигателя
+</th>
+<td colspan="3"><a href="/wiki/%D0%A2%D0%B2%D0%B5%D1%80%D0%B4%D0%BE%D1%82%D0%BE%D0%BF%D0%BB%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%BD%D1%8B%D0%B9_%D0%B4%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%B5%D0%BB%D1%8C" title="Твердотопливный ракетный двигатель">РДТТ</a></td>
+<td colspan="3"><a href="/wiki/%D0%96%D0%B8%D0%B4%D0%BA%D0%BE%D1%81%D1%82%D0%BD%D1%8B%D0%B9_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%BD%D1%8B%D0%B9_%D0%B4%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%B5%D0%BB%D1%8C" title="Жидкостный ракетный двигатель">ЖРД</a></td>
+<td>РДТТ</td>
+<td>ЖРД</td>
+<td colspan="2">РДТТ
+</td></tr>
+<tr>
+<th align="right">Тип старта
+</th>
+<td colspan="3">сухой</td>
+<td colspan="3">мокрый</td>
+<td>сухой</td>
+<td>мокрый</td>
+<td colspan="3">сухой
+</td></tr></tbody></table>
+<h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Примечания">Примечания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A0-27_(%D0%B1%D0%B0%D0%BB%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0)&amp;veaction=edit&amp;section=13" title="Редактировать раздел «Примечания»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A0-27_(%D0%B1%D0%B0%D0%BB%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0)&amp;action=edit&amp;section=13" title="Редактировать код раздела «Примечания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343">СКБ-385. Указ. соч. — С. 88.</span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343">СКБ-385. Указ. соч. — С. 88—89.</span></span>
+</li>
+<li id="cite_note-ГРЦ_87-3"><span class="mw-cite-backlink">↑ <a href="#cite_ref-ГРЦ_87_3-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-ГРЦ_87_3-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-ГРЦ_87_3-2"><sup><i><b>3</b></i></sup></a> <a href="#cite_ref-ГРЦ_87_3-3"><sup><i><b>4</b></i></sup></a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343">СКБ-385. Указ. соч. — С. 87.</span></span>
+</li>
+<li id="cite_note-_9d705181b238dea9-4"><span class="mw-cite-backlink">↑ <a href="#cite_ref-_9d705181b238dea9_4-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-_9d705181b238dea9_4-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFШирокорад2003">Широкорад, 2003</a>, с. 515.</span>
+</li>
+<li id="cite_note-_9d705181b238deaa-5"><span class="mw-cite-backlink">↑ <a href="#cite_ref-_9d705181b238deaa_5-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-_9d705181b238deaa_5-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-_9d705181b238deaa_5-2"><sup><i><b>3</b></i></sup></a> <a href="#cite_ref-_9d705181b238deaa_5-3"><sup><i><b>4</b></i></sup></a> <a href="#cite_ref-_9d705181b238deaa_5-4"><sup><i><b>5</b></i></sup></a> <a href="#cite_ref-_9d705181b238deaa_5-5"><sup><i><b>6</b></i></sup></a> <a href="#cite_ref-_9d705181b238deaa_5-6"><sup><i><b>7</b></i></sup></a> <a href="#cite_ref-_9d705181b238deaa_5-7"><sup><i><b>8</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFШирокорад2003">Широкорад, 2003</a>, с. 516.</span>
+</li>
+<li id="cite_note-Подвига_276-6"><span class="mw-cite-backlink">↑ <a href="#cite_ref-Подвига_276_6-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-Подвига_276_6-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-Подвига_276_6-2"><sup><i><b>3</b></i></sup></a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343">Стратегическое ядерное вооружение России. Указ. соч. — С. 276.</span></span>
+</li>
+<li id="cite_note-Коршунов-Кутовой-7"><span class="mw-cite-backlink">↑ <a href="#cite_ref-Коршунов-Кутовой_7-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-Коршунов-Кутовой_7-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>Ю. Л. Коршунов, Е. М. Кутовой.</i> Баллистические ракеты отечественного флота. — <abbr title="Санкт-Петербург">СПб.</abbr>: Гангут, 2002. — С. 19—20. — 41 с. — (Библиотека «Гангут»). — <span class="nowrap">1200 экз.</span> — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/5858750435">ISBN 5-85875-043-5</a>.</span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><span class="citation"><i>Н. И. Леонтьев, П. М. Митин.</i> <span lang="und"><a class="external text" href="http://makeyev.msk.ru/pub/msys/1994/DU.html" rel="nofollow">Совершенствование энергомассовых характеристик двигательных установок и жидкостных ракетных двигателей для баллистических ракет подводных лодок</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 22 ноября 2009. <a class="external text" href="https://web.archive.org/web/20120121005903/http://makeyev.msk.ru/pub/msys/1994/DU.html" rel="nofollow">Архивировано</a> 21 января 2012 года.</span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://engine.aviaport.ru/issues/47/page48.html" rel="nofollow">«Двигатель» № 5 (47) 2006 г. СОЗДАНИЕ РУЛЕВЫХ ПРИВОДОВ БРПЛ В СКБ-385</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 11 мая 2016. <a class="external text" href="https://web.archive.org/web/20170821015837/http://engine.aviaport.ru/issues/47/page48.html" rel="nofollow">Архивировано</a> 21 августа 2017 года.</span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343">СКБ-385. Указ. соч. — С. 86.</span></span>
+</li>
+<li id="cite_note-ГРЦ_89-11"><span class="mw-cite-backlink">↑ <a href="#cite_ref-ГРЦ_89_11-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-ГРЦ_89_11-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343">СКБ-385. Указ. соч. — С. 89.</span></span>
+</li>
+<li id="cite_note-Подвига_277-12"><span class="mw-cite-backlink">↑ <a href="#cite_ref-Подвига_277_12-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-Подвига_277_12-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-Подвига_277_12-2"><sup><i><b>3</b></i></sup></a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343">Стратегическое ядерное вооружение России. Указ. соч. — С. 277.</span></span>
+</li>
+<li id="cite_note-R-27_FAS-13"><span class="mw-cite-backlink">↑ <a href="#cite_ref-R-27_FAS_13-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-R-27_FAS_13-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-R-27_FAS_13-2"><sup><i><b>3</b></i></sup></a> <a href="#cite_ref-R-27_FAS_13-3"><sup><i><b>4</b></i></sup></a> <a href="#cite_ref-R-27_FAS_13-4"><sup><i><b>5</b></i></sup></a> <a href="#cite_ref-R-27_FAS_13-5"><sup><i><b>6</b></i></sup></a> <a href="#cite_ref-R-27_FAS_13-6"><sup><i><b>7</b></i></sup></a> <a href="#cite_ref-R-27_FAS_13-7"><sup><i><b>8</b></i></sup></a> <a href="#cite_ref-R-27_FAS_13-8"><sup><i><b>9</b></i></sup></a> <a href="#cite_ref-R-27_FAS_13-9"><sup><i><b>10</b></i></sup></a></span> <span class="reference-text"><span class="citation"><span lang="en"><a class="external text" href="http://www.fas.org/nuke/guide/russia/slbm/r-27.htm" rel="nofollow">R-27 / SS-N-6 SERB</a></span> <span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>. Federation of American Scientists (FAS). Дата обращения: 12 января 2010. <a class="external text" href="https://www.webcitation.org/652am2t9w?url=http://www.fas.org/nuke/guide/russia/slbm/r-27.htm" rel="nofollow">Архивировано</a> 29 января 2012 года.</span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text"><span class="citation"><i>Канбиков М. Ш., Лякишев Б. М., Телицын Ю. С., Шихов В. Б.</i> <span lang="und"><a class="external text" href="http://makeyev.msk.ru/pub/msys/1997/osobennosti.html" rel="nofollow">Некоторые конструктивные особенности баллистических ракет подводных лодок</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. — К 50-летию Государственного ракетного центра «КБ им. академика В. П. Макеева». Дата обращения: 6 декабря 2009. <a class="external text" href="https://web.archive.org/web/20140504225107/http://makeyev.msk.ru/pub/msys/1997/osobennosti.html" rel="nofollow">Архивировано</a> 4 мая 2014 года.</span></span>
+</li>
+<li id="cite_note-Подвига_278-15"><span class="mw-cite-backlink">↑ <a href="#cite_ref-Подвига_278_15-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-Подвига_278_15-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-Подвига_278_15-2"><sup><i><b>3</b></i></sup></a> <a href="#cite_ref-Подвига_278_15-3"><sup><i><b>4</b></i></sup></a> <a href="#cite_ref-Подвига_278_15-4"><sup><i><b>5</b></i></sup></a> <a href="#cite_ref-Подвига_278_15-5"><sup><i><b>6</b></i></sup></a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343">Стратегическое ядерное вооружение России. Указ. соч. — С. 278.</span></span>
+</li>
+<li id="cite_note-_9f52913b51cf6e27-16"><span class="mw-cite-backlink"><a href="#cite_ref-_9f52913b51cf6e27_16-0">↑</a></span> <span class="reference-text"><a href="#CITEREFШирокорад2003">Широкорад, 2003</a>, с. 516-518.</span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><a href="#cite_ref-17">↑</a></span> <span class="reference-text">Разночтение. Согласно справочнику «Стратегическое ядерное вооружение России», стр. 278, было выполнено 6 пусков с плавстенда.</span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><a href="#cite_ref-18">↑</a></span> <span class="reference-text"><span class="citation"><i>Александр Тихонов.</i> <span lang="und"><a class="external text" href="http://www.redstar.ru/2009/01/14_01/2_02.html" rel="nofollow">Полигон у Волги</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. <a href="/wiki/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%B0%D1%8F_%D0%B7%D0%B2%D0%B5%D0%B7%D0%B4%D0%B0_(%D0%B3%D0%B0%D0%B7%D0%B5%D1%82%D0%B0)" title="Красная звезда (газета)">Красная звезда</a> (14 января 2009). Дата обращения: 6 декабря 2009.</span></span>
+</li>
+<li id="cite_note-_9d705181b238dea4-19"><span class="mw-cite-backlink">↑ <a href="#cite_ref-_9d705181b238dea4_19-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-_9d705181b238dea4_19-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFШирокорад2003">Широкорад, 2003</a>, с. 518.</span>
+</li>
+<li id="cite_note-militaryparitet-20"><span class="mw-cite-backlink">↑ <a href="#cite_ref-militaryparitet_20-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-militaryparitet_20-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="citation"><i>Андриан Николаев.</i> <span lang="und"><a class="external text" href="http://www.militaryparitet.com/nomen/russia/rocket/balrock/data/ic_nomenrussiarocketbalrock/12/" rel="nofollow">Ракетные комплексы баллистических ракет подводных лодок (БРПЛ)</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Военный паритет. Дата обращения: 6 декабря 2009. <a class="external text" href="https://web.archive.org/web/20120404113827/http://www.militaryparitet.com/nomen/russia/rocket/balrock/data/ic_nomenrussiarocketbalrock/12/" rel="nofollow">Архивировано</a> 4 апреля 2012 года.</span></span>
+</li>
+<li id="cite_note-Широкорад_517-21"><span class="mw-cite-backlink">↑ <a href="#cite_ref-Широкорад_517_21-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-Широкорад_517_21-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-Широкорад_517_21-2"><sup><i><b>3</b></i></sup></a> <a href="#cite_ref-Широкорад_517_21-3"><sup><i><b>4</b></i></sup></a> <a href="#cite_ref-Широкорад_517_21-4"><sup><i><b>5</b></i></sup></a> <a href="#cite_ref-Широкорад_517_21-5"><sup><i><b>6</b></i></sup></a> <a href="#cite_ref-Широкорад_517_21-6"><sup><i><b>7</b></i></sup></a> <a href="#cite_ref-Широкорад_517_21-7"><sup><i><b>8</b></i></sup></a> <a href="#cite_ref-Широкорад_517_21-8"><sup><i><b>9</b></i></sup></a> <a href="#cite_ref-Широкорад_517_21-9"><sup><i><b>10</b></i></sup></a> <a href="#cite_ref-Широкорад_517_21-10"><sup><i><b>11</b></i></sup></a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>А. Б. Широкорад.</i> Энциклопедия отечественного ракетного оружия. Указ. соч. — С. 517.</span></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><a href="#cite_ref-22">↑</a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343">СКБ-385. Указ. соч. — С. 101.</span></span>
+</li>
+<li id="cite_note-ГРЦ_102-23"><span class="mw-cite-backlink">↑ <a href="#cite_ref-ГРЦ_102_23-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-ГРЦ_102_23-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-ГРЦ_102_23-2"><sup><i><b>3</b></i></sup></a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343">СКБ-385. Указ. соч. — С. 102.</span></span>
+</li>
+<li id="cite_note-astronautix-24"><span class="mw-cite-backlink">↑ <a href="#cite_ref-astronautix_24-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-astronautix_24-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-astronautix_24-2"><sup><i><b>3</b></i></sup></a></span> <span class="reference-text"><span class="citation"><span lang="en"><a class="external text" href="http://www.astronautix.com/lvs/r27.htm" rel="nofollow">R-27</a></span> <span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>. Encyclopedia Astronautica. — Описание ракеты Р-27. Дата обращения: 6 декабря 2009. <a class="external text" href="https://www.webcitation.org/652aodbwr?url=http://www.astronautix.com/lvs/r27.htm" rel="nofollow">Архивировано</a> 29 января 2012 года.</span></span>
+</li>
+<li id="cite_note-ГРЦ_346-25"><span class="mw-cite-backlink">↑ <a href="#cite_ref-ГРЦ_346_25-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-ГРЦ_346_25-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343">СКБ-385. Указ. соч. — С. 346.</span></span>
+</li>
+<li id="cite_note-Musudan_missilethreat-26"><span class="mw-cite-backlink">↑ <a href="#cite_ref-Musudan_missilethreat_26-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-Musudan_missilethreat_26-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="citation"><span lang="en"><a class="external text" href="https://missilethreat.csis.org/missile/musudan/" rel="nofollow">Musudan (BM-25)</a></span> <span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>. missilethreat.csis.org. Дата обращения: 19 октября 2019. <a class="external text" href="https://web.archive.org/web/20191013060208/https://missilethreat.csis.org/missile/musudan/" rel="nofollow">Архивировано</a> 13 октября 2019 года.</span></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><a href="#cite_ref-27">↑</a></span> <span class="reference-text"><span class="citation"><span lang="ru"><a class="external text" href="https://tass.ru/armiya-i-opk/3209054" rel="nofollow">Мощь Востока: каков военный потенциал Ирана</a></span><span class="hidden-ref" style="display:none;">  <span class="ref-info" style="cursor:help;" title="на русском языке">(рус.)</span></span>. <a href="/wiki/%D0%A2%D0%90%D0%A1%D0%A1" title="ТАСС">ТАСС</a>. Дата обращения: 10 октября 2019. <a class="external text" href="https://web.archive.org/web/20191010100602/https://tass.ru/armiya-i-opk/3209054" rel="nofollow">Архивировано</a> 10 октября 2019 года.</span></span>
+</li>
+<li id="cite_note-Shahab_missilethreat-28"><span class="mw-cite-backlink"><a href="#cite_ref-Shahab_missilethreat_28-0">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a class="external text" href="https://missilethreat.csis.org/missile/shahab-3/" rel="nofollow">Shahab-3</a></span> <span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>. missilethreat.csis.org. Дата обращения: 19 октября 2019. <a class="external text" href="https://web.archive.org/web/20190916113406/https://missilethreat.csis.org/missile/shahab-3/" rel="nofollow">Архивировано</a> 16 сентября 2019 года.</span></span>
+</li>
+<li id="cite_note-Эксплуатация_РСМ25-29"><span class="mw-cite-backlink">↑ <a href="#cite_ref-Эксплуатация_РСМ25_29-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-Эксплуатация_РСМ25_29-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-Эксплуатация_РСМ25_29-2"><sup><i><b>3</b></i></sup></a> <a href="#cite_ref-Эксплуатация_РСМ25_29-3"><sup><i><b>4</b></i></sup></a></span> <span class="reference-text"><span class="citation"><i>Л. Н. Ролин, Ю. Г. Руденко.</i> <span lang="und"><a class="external text" href="http://makeyev.msk.ru/pub/msys/1994/RSM-25.html" rel="nofollow">Опыт эксплуатации морского ракетного комплекса с ракетой РСМ-25</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 6 декабря 2009. <a class="external text" href="https://web.archive.org/web/20111208134325/http://makeyev.msk.ru/pub/msys/1994/RSM-25.html" rel="nofollow">Архивировано</a> 8 декабря 2011 года.</span></span>
+</li>
+<li id="cite_note-ACA_lisb-agr-30"><span class="mw-cite-backlink"><a href="#cite_ref-ACA_lisb-agr_30-0">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://www.webcitation.org/652apoNmI?url=http://www.armscontrol.ru/start/Rus/docs/start1/lisb-agr.txt" rel="nofollow">Протокол к Договору о сокращении и ограничении стратегических наступательных вооружений</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. The Arms Control Association (ACA). Дата обращения: 12 января 2010. Архивировано из <a class="external text" href="http://www.armscontrol.ru/start/Rus/docs/start1/lisb-agr.txt" rel="nofollow">оригинала</a> 29 января 2012 года.</span></span>
+</li>
+<li id="cite_note-ACA_strateg_forces1-31"><span class="mw-cite-backlink"><a href="#cite_ref-ACA_strateg_forces1_31-0">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a class="external text" href="http://www.armscontrol.org/act/1997_10/factoct" rel="nofollow">U.S. and Soviet/Russian Strategic Forces</a></span> <span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>. The Arms Control Association (ACA). Дата обращения: 12 января 2010. <a class="external text" href="https://www.webcitation.org/652aqbGiR?url=http://www.armscontrol.org/act/1997_10/factoct" rel="nofollow">Архивировано</a> 29 января 2012 года.</span></span>
+</li>
+<li id="cite_note-ACA_strateg_forces2-32"><span class="mw-cite-backlink"><a href="#cite_ref-ACA_strateg_forces2_32-0">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a class="external text" href="http://www.armscontrol.org/events/20080512_START_Anew" rel="nofollow">START Anew: The Future of the Strategic Arms Reduction Treaty</a></span> <span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>. The Arms Control Association (ACA). Дата обращения: 12 января 2010. <a class="external text" href="https://www.webcitation.org/652arFrOn?url=http://www.armscontrol.org/events/20080512_START_Anew" rel="nofollow">Архивировано</a> 29 января 2012 года.</span></span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><a href="#cite_ref-33">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://web.archive.org/web/20110822095342/http://wsyachina.narod.ru/history/nuclear_museum.html#26" rel="nofollow">Боевой блок для первой разделяющейся головной части баллистической ракеты морского базирования</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. <i>Музей РФЯЦ–ВНИИТФ г. Снежинск.</i>. Дата обращения: 16 августа 2011. Архивировано из <a class="external text" href="http://wsyachina.narod.ru/history/nuclear_museum.html#26" rel="nofollow">оригинала</a> 22 августа 2011 года.</span></span>
+</li>
+<li id="cite_note-west_source-34"><span class="mw-cite-backlink">↑ <a href="#cite_ref-west_source_34-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-west_source_34-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-west_source_34-2"><sup><i><b>3</b></i></sup></a> <a href="#cite_ref-west_source_34-3"><sup><i><b>4</b></i></sup></a> <a href="#cite_ref-west_source_34-4"><sup><i><b>5</b></i></sup></a> <a href="#cite_ref-west_source_34-5"><sup><i><b>6</b></i></sup></a> <a href="#cite_ref-west_source_34-6"><sup><i><b>7</b></i></sup></a></span> <span class="reference-text">По данным западных источников.</span>
+</li>
+<li id="cite_note-Ведерников-35"><span class="mw-cite-backlink">↑ <a href="#cite_ref-Ведерников_35-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-Ведерников_35-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>Ю. В. Ведерников.</i> <span data-wikidata-qualifier-id="P248">Глава 2. Сравнительный анализ создания и развития Морских стратегических ядерных сил СССР и США</span> // <a class="external text" href="http://flot.com/publications/books/shelf/vedernikov/ussr-usa/4.htm" rel="nofollow">Сравнительный анализ создания и развития морских стратегических ядерных сил СССР и США</a>.</span></span>
+</li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><a href="#cite_ref-36">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://web.archive.org/web/20110719071630/http://npc.sarov.ru/issues/coretaming/section3p4.html#2.2," rel="nofollow">2.2. Основные этапы развития морских стратегических комплексов</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. 2003 г., «Красный Октябрь», г. Саранск. Дата обращения: 19 декабря 2009. Архивировано из <a class="external text" href="http://npc.sarov.ru/issues/coretaming/section3p4.html#2.2," rel="nofollow">оригинала</a> 19 июля 2011 года.</span></span>
+</li>
+</ol></div></div>
+<h2><span id=".D0.9B.D0.B8.D1.82.D0.B5.D1.80.D0.B0.D1.82.D1.83.D1.80.D0.B0"></span><span class="mw-headline" id="Литература">Литература</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A0-27_(%D0%B1%D0%B0%D0%BB%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0)&amp;veaction=edit&amp;section=14" title="Редактировать раздел «Литература»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A0-27_(%D0%B1%D0%B0%D0%BB%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0)&amp;action=edit&amp;section=14" title="Редактировать код раздела «Литература»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="citation no-wikidata" data-wikidata-property-id="P1343">СКБ-385, КБ машиностроения, ГРЦ «КБ им. Академика В. П. Макеева» / Сост. Канин Р. Н., Тихонов Н. Н.; под общ. ред. В. Г. Дегтяря. — <abbr title="Москва">М.</abbr>: Государственный ракетный центр «КБ им. Академика В. П. Макеева»; Военный парад, 2007. — 408 с. — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/5902975107">ISBN 5-902975-10-7</a>.</span></li>
+<li><span class="citation no-wikidata" data-wikidata-property-id="P1343">Стратегическое ядерное вооружение России / Под ред. П. Л. Подвига. — <abbr title="Москва">М.</abbr>: ИздАТ, 1998. — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/5866560798">ISBN 5866560798</a>.</span></li>
+<li><span class="citation no-wikidata" data-wikidata-property-id="P1343" id="CITEREFШирокорад2003"><i><a class="mw-redirect" href="/wiki/%D0%A8%D0%B8%D1%80%D0%BE%D0%BA%D0%BE%D1%80%D0%B0%D0%B4_%D0%90._%D0%91." title="Широкорад А. Б.">Широкорад А. Б.</a></i> Энциклопедия отечественного ракетного оружия 1918—2002 / Под общей ред. <a class="mw-redirect" href="/wiki/%D0%90._%D0%95._%D0%A2%D0%B0%D1%80%D0%B0%D1%81" title="А. Е. Тарас">А. Е. Тараса</a>. — <abbr title="Москва">М.</abbr>: <a href="/wiki/%D0%A5%D0%B0%D1%80%D0%B2%D0%B5%D1%81%D1%82" title="Харвест">Харвест</a>, 2003. — 544 с. — (Библиотека военной истории). — <span class="nowrap">5100 экз.</span> — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9851309494">ISBN 985-13-0949-4</a>.</span></li></ul>
+<h2><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span><span class="mw-headline" id="Ссылки">Ссылки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A0-27_(%D0%B1%D0%B0%D0%BB%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0)&amp;veaction=edit&amp;section=15" title="Редактировать раздел «Ссылки»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A0-27_(%D0%B1%D0%B0%D0%BB%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0)&amp;action=edit&amp;section=15" title="Редактировать код раздела «Ссылки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="citation"><span lang="und"><a class="external text" href="https://www.webcitation.org/652asF7Yz?url=http://makeyev.ru/roccomp/2nd/r27" rel="nofollow">Баллистические ракеты Р-27, Р-27У</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Государственный ракетный центр имени академика В. П. Макеева. Дата обращения: 6 декабря 2009. Архивировано из <a class="external text" href="http://makeyev.ru/roccomp/2nd/r27" rel="nofollow">оригинала</a> 29 января 2012 года.</span></li>
+<li><span class="citation"><span lang="und"><a class="external text" href="https://web.archive.org/web/20070927201845/http://www.arms.ru/nuclear/R27.htm" rel="nofollow">Баллистическая ракета подводных лодок Р-27</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. <i>Энциклопедия вооружений</i>. Дата обращения: 6 декабря 2009. Архивировано из <a class="external text" href="http://www.arms.ru/nuclear/R27.htm" rel="nofollow">оригинала</a> 27 сентября 2007 года.</span></li></ul>
+<div aria-labelledby="Советские_и_российские_баллистические_ракеты" class="navbox" data-name="Советские и российские баллистические ракеты" role="navigation"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B5_%D0%B8_%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B5_%D0%B1%D0%B0%D0%BB%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D1%8B" title="Перейти к шаблону «Советские и российские баллистические ракеты»"><img alt="Перейти к шаблону «Советские и российские баллистические ракеты»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span></span><div id="Советские_и_российские_баллистические_ракеты" style="font-size:114%;margin:0 5em">Советские и российские <a href="/wiki/%D0%91%D0%B0%D0%BB%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0" title="Баллистическая ракета">баллистические ракеты</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D1%87%D0%B0%D1%81%D1%82%D0%B8%D1%87%D0%BD%D0%BE-%D0%BE%D1%80%D0%B1%D0%B8%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B1%D0%BE%D0%BC%D0%B1%D0%BE%D0%BC%D0%B5%D1%82%D0%B0%D0%BD%D0%B8%D1%8F" title="Система частично-орбитального бомбометания">Орбитальные</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/%D0%93%D0%A0-1" title="ГР-1">ГР-1</a></i></li>
+<li><i><a href="/wiki/%D0%A3%D0%A0-200" title="УР-200">УР-200А</a></i></li>
+<li><a href="/wiki/%D0%A0-36%D0%BE%D1%80%D0%B1" title="Р-36орб">Р-36орб</a></li>
+<li>15П771 «<a href="/wiki/%D0%90%D0%B2%D0%B0%D0%BD%D0%B3%D0%B0%D1%80%D0%B4_(%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81)" title="Авангард (ракетный комплекс)">Авангард</a>»</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%BA%D0%BE%D0%BD%D1%82%D0%B8%D0%BD%D0%B5%D0%BD%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B0%D0%BB%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0" title="Межконтинентальная баллистическая ракета">МБР</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%A0-7" title="Р-7">Р-7</a></li>
+<li><a href="/wiki/%D0%A0-7%D0%90" title="Р-7А">Р-7А</a></li>
+<li><a href="/wiki/%D0%A0-16" title="Р-16">Р-16</a></li>
+<li><a href="/wiki/%D0%A0-9%D0%90" title="Р-9А">Р-9А</a></li>
+<li><a href="/wiki/%D0%A3%D0%A0-100" title="УР-100">УР-100</a></li>
+<li><a href="/wiki/%D0%A0-36" title="Р-36">Р-36</a></li>
+<li><a href="/wiki/%D0%A0%D0%A2-2" title="РТ-2">РТ-2</a></li>
+<li><i><a href="/wiki/%D0%A0%D0%A2-20" title="РТ-20">РТ-20</a></i></li>
+<li><a href="/wiki/%D0%A2%D0%B5%D0%BC%D0%BF-2%D0%A1" title="Темп-2С">Темп-2С</a></li>
+<li><a href="/wiki/%D0%A3%D0%A0-100%D0%9A" title="УР-100К">УР-100К</a></li>
+<li><a href="/wiki/%D0%A0-36%D0%9C" title="Р-36М">Р-36М</a></li>
+<li><a href="/wiki/%D0%A3%D0%A0-100%D0%9D" title="УР-100Н">УР-100Н</a></li>
+<li><a href="/wiki/%D0%9C%D0%A0_%D0%A3%D0%A0-100" title="МР УР-100">МР УР-100</a></li>
+<li><a href="/wiki/%D0%A0-36%D0%9C#Р-36М_УТТХ" title="Р-36М">Р-36М УТТХ</a></li>
+<li><a href="/wiki/%D0%A2%D0%BE%D0%BF%D0%BE%D0%BB%D1%8C_(%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81)" title="Тополь (ракетный комплекс)">РТ-2ПМ «Тополь»</a></li>
+<li><a href="/wiki/%D0%A0-36%D0%9C#Р-36М2" title="Р-36М">Р-36М2</a> «Воевода»</li>
+<li><a href="/wiki/%D0%A0%D0%A2-23" title="РТ-23">РТ-23</a></li>
+<li><a href="/wiki/%D0%A0%D0%A2-23_%D0%A3%D0%A2%D0%A2%D0%A5" title="РТ-23 УТТХ">РТ-23 УТТХ</a> «Молодец»</li>
+<li><i><a href="/wiki/%D0%9A%D0%BE%D0%BF%D1%8C%D1%91-%D0%A0_(%D0%9F%D0%93%D0%A0%D0%9A)" title="Копьё-Р (ПГРК)">Копьё-Р</a></i></li>
+<li><i><a href="/wiki/%D0%9A%D1%83%D1%80%D1%8C%D0%B5%D1%80_(%D0%9F%D0%93%D0%A0%D0%9A)" title="Курьер (ПГРК)">Курьер</a></i></li>
+<li><a href="/wiki/%D0%A2%D0%BE%D0%BF%D0%BE%D0%BB%D1%8C-%D0%9C" title="Тополь-М">РТ-2ПМ2 «Тополь-М»</a></li>
+<li><a href="/wiki/%D0%AF%D1%80%D1%81" title="Ярс">РС-24 «Ярс»</a></li>
+<li><i><a href="/wiki/%D0%A0%D0%A1-26_%C2%AB%D0%A0%D1%83%D0%B1%D0%B5%D0%B6%C2%BB" title="РС-26 «Рубеж»">РС-26 «Рубеж»</a></i></li>
+<li><a href="/wiki/%D0%A1%D0%B0%D1%80%D0%BC%D0%B0%D1%82_(%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81)" title="Сармат (ракетный комплекс)">РС-28 «Сармат»</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/%D0%91%D0%B0%D0%BB%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0_%D1%81%D1%80%D0%B5%D0%B4%D0%BD%D0%B5%D0%B9_%D0%B4%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8" title="Баллистическая ракета средней дальности">БРСД</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><small><a href="/wiki/%D0%A0-3" title="Р-3">Р-3</a></small></li>
+<li><a href="/wiki/%D0%A0-5" title="Р-5">Р-5</a></li>
+<li><a href="/wiki/%D0%A0-12" title="Р-12">Р-12</a></li>
+<li><a href="/wiki/%D0%A0-14" title="Р-14">Р-14</a></li>
+<li><i><a href="/wiki/%D0%A0%D0%A2-1" title="РТ-1">РТ-1</a></i></li>
+<li><i><a href="/wiki/%D0%A0%D0%A2-15" title="РТ-15">РТ-15</a></i></li>
+<li><a href="/wiki/%D0%A0%D0%A1%D0%94-10" title="РСД-10">РСД-10</a></li>
+<li><i><a href="/wiki/%D0%A1%D0%BA%D0%BE%D1%80%D0%BE%D1%81%D1%82%D1%8C_(%D0%9F%D0%93%D0%A0%D0%9A)" title="Скорость (ПГРК)">Скорость</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/%D0%A2%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0" title="Тактическая ракета">ТР</a> и <a href="/wiki/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%BE-%D1%82%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81" title="Оперативно-тактический ракетный комплекс">ОТРК</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%A0-1_(%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0)" title="Р-1 (ракета)">Р-1</a></li>
+<li><a href="/wiki/%D0%A0-2" title="Р-2">Р-2</a></li>
+<li><a href="/wiki/%D0%A0-11" title="Р-11">Р-11</a></li>
+<li><a href="/wiki/%D0%A0-17" title="Р-17">Р-17</a></li>
+<li><i><a class="new" href="/w/index.php?title=%D0%A0-18&amp;action=edit&amp;redlink=1" title="Р-18 (страница отсутствует)">Р-18</a></i></li>
+<li><i>9К71 «<a class="new" href="/w/index.php?title=%D0%A2%D0%B5%D0%BC%D0%BF_(%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0)&amp;action=edit&amp;redlink=1" title="Темп (ракета) (страница отсутствует)">Темп</a>»</i></li>
+<li>9К76 «<a href="/wiki/%D0%A2%D0%B5%D0%BC%D0%BF-%D0%A1" title="Темп-С">Темп-С</a>»</li>
+<li>9К79 «<a href="/wiki/%D0%A2%D0%BE%D1%87%D0%BA%D0%B0_(%D1%82%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81)" title="Точка (тактический ракетный комплекс)">Точка</a>»</li>
+<li>9К714 «<a class="mw-redirect" href="/wiki/%D0%9E%D0%BA%D0%B0_(%D0%9E%D0%A2%D0%A0%D0%9A)" title="Ока (ОТРК)">Ока</a>»</li>
+<li>9К720 «<a href="/wiki/%D0%98%D1%81%D0%BA%D0%B0%D0%BD%D0%B4%D0%B5%D1%80_(%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81)" title="Искандер (ракетный комплекс)">Искандер</a>»</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Неуправляемые ТР</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-redirect" href="/wiki/2%D0%9A1_%D0%9C%D0%B0%D1%80%D1%81" title="2К1 Марс">2К1 «Марс»</a></li>
+<li><a class="mw-redirect" href="/wiki/2%D0%9A4_%D0%A4%D0%B8%D0%BB%D0%B8%D0%BD" title="2К4 Филин">2К4 «Филин»</a></li>
+<li><a class="mw-redirect" href="/wiki/2%D0%9A5_%D0%9A%D0%BE%D1%80%D1%88%D1%83%D0%BD" title="2К5 Коршун">2К5 «Коршун»</a></li>
+<li><a class="mw-redirect" href="/wiki/2%D0%9A6_%D0%9B%D1%83%D0%BD%D0%B0" title="2К6 Луна">2К6 «Луна»</a></li>
+<li>9К52 «<a href="/wiki/%D0%9B%D1%83%D0%BD%D0%B0-%D0%9C_(%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81)" title="Луна-М (ракетный комплекс)">Луна-М</a>»</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/%D0%91%D0%B0%D0%BB%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D1%8B_%D0%BF%D0%BE%D0%B4%D0%B2%D0%BE%D0%B4%D0%BD%D1%8B%D1%85_%D0%BB%D0%BE%D0%B4%D0%BE%D0%BA" title="Баллистические ракеты подводных лодок">БРПЛ</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%A0-11%D0%A4%D0%9C" title="Р-11ФМ">Р-11ФМ</a></li>
+<li><a href="/wiki/%D0%A0-13" title="Р-13">Р-13</a></li>
+<li><i><a class="new" href="/w/index.php?title=%D0%A0-15&amp;action=edit&amp;redlink=1" title="Р-15 (страница отсутствует)">Р-15</a></i></li>
+<li><a href="/wiki/%D0%A0-21" title="Р-21">Р-21</a></li>
+<li><a class="mw-selflink selflink">Р-27</a></li>
+<li><a href="/wiki/%D0%A0-29" title="Р-29">Р-29</a></li>
+<li><a href="/wiki/%D0%A0-29%D0%A0" title="Р-29Р">Р-29Р</a></li>
+<li><i><a href="/wiki/%D0%A0-31" title="Р-31">Р-31</a></i></li>
+<li><a href="/wiki/%D0%A0-39" title="Р-39">Р-39</a></li>
+<li><i>Р-39УТТХ «<a href="/wiki/%D0%91%D0%B0%D1%80%D0%BA_(%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0)" title="Барк (ракета)">Барк</a>»</i></li>
+<li><a href="/wiki/%D0%A0-29%D0%A0%D0%9C" title="Р-29РМ">Р-29РМ</a></li>
+<li><a href="/wiki/%D0%A0-29%D0%A0%D0%9C%D0%A32" title="Р-29РМУ2">Р-29РМУ2</a> «Синева»</li>
+<li><a href="/wiki/%D0%A0-29%D0%A0%D0%9C%D0%A32.1" title="Р-29РМУ2.1">Р-29РМУ2.1</a> «Лайнер»</li>
+<li>Р-30 «<a href="/wiki/%D0%91%D1%83%D0%BB%D0%B0%D0%B2%D0%B0_(%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0)" title="Булава (ракета)">Булава</a>»</li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>Порядок сортировки — по времени разработки. <i>Курсивом</i> выделены экспериментальные или не принятые на вооружение образцы.</div></td></tr></tbody></table></div>
+<div aria-labelledby="Государственный_ракетный_центр" class="navbox" data-name="Государственный ракетный центр" role="navigation"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="3" scope="colgroup"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%BD%D1%8B%D0%B9_%D1%86%D0%B5%D0%BD%D1%82%D1%80" title="Перейти к шаблону «Государственный ракетный центр»"><img alt="Перейти к шаблону «Государственный ракетный центр»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span></span><div id="Государственный_ракетный_центр" style="font-size:114%;margin:0 5em"><a href="/wiki/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%BD%D1%8B%D0%B9_%D1%86%D0%B5%D0%BD%D1%82%D1%80" title="Государственный ракетный центр">Государственный ракетный центр</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1px">Генеральные конструкторы,<br/>сотрудники</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%9C%D0%B0%D0%BA%D0%B5%D0%B5%D0%B2,_%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80_%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Макеев, Виктор Петрович">В. П. Макеев</a></li>
+<li><a href="/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D1%87%D0%BA%D0%BE,_%D0%98%D0%B3%D0%BE%D1%80%D1%8C_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87" title="Величко, Игорь Иванович">И. И. Величко</a></li>
+<li><a href="/wiki/%D0%94%D0%B5%D0%B3%D1%82%D1%8F%D1%80%D1%8C,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87" title="Дегтярь, Владимир Григорьевич">В. Г. Дегтярь</a></li></ul>
+<ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%BE%D1%82%D1%80%D1%83%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%BD%D0%BE%D0%B3%D0%BE_%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%B0" title="Категория:Сотрудники Государственного ракетного центра">Сотрудники ГРЦ</a></li></ul>
+</div></td><td class="navbox-image" rowspan="5" style="width:1px;padding:0px 0px 0px 7px"><div><figure class="mw-halign-right" typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%BD%D1%8B%D0%B9_%D1%86%D0%B5%D0%BD%D1%82%D1%80._%D0%AF%D0%BD%D0%B2%D0%B0%D1%80%D1%8C_2019.jpg"><img class="mw-file-element" data-file-height="2736" data-file-width="3648" decoding="async" height="135" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%BD%D1%8B%D0%B9_%D1%86%D0%B5%D0%BD%D1%82%D1%80._%D0%AF%D0%BD%D0%B2%D0%B0%D1%80%D1%8C_2019.jpg/180px-%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%BD%D1%8B%D0%B9_%D1%86%D0%B5%D0%BD%D1%82%D1%80._%D0%AF%D0%BD%D0%B2%D0%B0%D1%80%D1%8C_2019.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%BD%D1%8B%D0%B9_%D1%86%D0%B5%D0%BD%D1%82%D1%80._%D0%AF%D0%BD%D0%B2%D0%B0%D1%80%D1%8C_2019.jpg/270px-%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%BD%D1%8B%D0%B9_%D1%86%D0%B5%D0%BD%D1%82%D1%80._%D0%AF%D0%BD%D0%B2%D0%B0%D1%80%D1%8C_2019.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/74/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%BD%D1%8B%D0%B9_%D1%86%D0%B5%D0%BD%D1%82%D1%80._%D0%AF%D0%BD%D0%B2%D0%B0%D1%80%D1%8C_2019.jpg/360px-%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%BD%D1%8B%D0%B9_%D1%86%D0%B5%D0%BD%D1%82%D1%80._%D0%AF%D0%BD%D0%B2%D0%B0%D1%80%D1%8C_2019.jpg 2x" width="180"/></a><figcaption></figcaption></figure></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Изделия</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%A0-11" title="Р-11">Р-11</a></li>
+<li><a href="/wiki/%D0%A0-13" title="Р-13">Р-13</a></li>
+<li><a href="/wiki/%D0%A0-17" title="Р-17">Р-17</a></li>
+<li><a href="/wiki/%D0%A0-21" title="Р-21">Р-21</a></li>
+<li><a class="mw-selflink selflink">Р-27</a></li>
+<li><a href="/wiki/%D0%A0-29" title="Р-29">Р-29</a></li>
+<li><a href="/wiki/%D0%A0-29%D0%A0" title="Р-29Р">Р-29Р</a></li>
+<li><a href="/wiki/%D0%A0-29%D0%A0%D0%9C" title="Р-29РМ">Р-29РМ</a></li>
+<li><a href="/wiki/%D0%A0-29%D0%A0%D0%9C%D0%A32.1" title="Р-29РМУ2.1">Р-29РМУ2.1</a></li>
+<li><a href="/wiki/%D0%A0-39" title="Р-39">Р-39</a></li>
+<li>Р-39УТТХ «<a href="/wiki/%D0%91%D0%B0%D1%80%D0%BA_(%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0)" title="Барк (ракета)">Барк</a>»</li>
+<li><a href="/wiki/%D0%A0-29%D0%A0%D0%9C" title="Р-29РМ">Р-29РМ</a></li>
+<li><a href="/wiki/%D0%A0-29%D0%A0%D0%9C%D0%A32" title="Р-29РМУ2">Р-29РМУ2</a> «Синева»</li>
+<li><a href="/wiki/%D0%A0-29%D0%A0%D0%9C%D0%A32.1" title="Р-29РМУ2.1">Р-29РМУ2.1</a> «Лайнер»</li>
+<li><a href="/wiki/%D0%A1%D0%BA%D0%B8%D1%84_(%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0)" title="Скиф (ракета)">Скиф</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Награды</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D1%8F_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%92._%D0%9F._%D0%9C%D0%B0%D0%BA%D0%B5%D0%B5%D0%B2%D0%B0" title="Премия имени В. П. Макеева">Премия имени В. П. Макеева</a></li>
+<li><a href="/wiki/%D0%9C%D0%B5%D0%B4%D0%B0%D0%BB%D1%8C_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D0%BA%D0%B0_%D0%92._%D0%9F._%D0%9C%D0%B0%D0%BA%D0%B5%D0%B5%D0%B2%D0%B0_%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8_%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D0%B8%D0%BA%D0%B8_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Медаль имени академика В. П. Макеева Федерации космонавтики России">Медаль имени академика В. П. Макеева</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Культура</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-redirect" href="/wiki/%D0%A4%D0%BE%D1%82%D0%BE%D0%BA%D0%BB%D1%83%D0%B1_%C2%AB%D0%98%D0%BC%D0%BF%D1%83%D0%BB%D1%8C%D1%81%C2%BB_(%D0%9C%D0%B8%D0%B0%D1%81%D1%81)" title="Фотоклуб «Импульс» (Миасс)">Фотоклуб «Импульс»</a></li>
+<li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A7%D0%BB%D0%B5%D0%BD%D1%8B_%D1%84%D0%BE%D1%82%D0%BE%D0%BA%D0%BB%D1%83%D0%B1%D0%B0_%C2%AB%D0%98%D0%BC%D0%BF%D1%83%D0%BB%D1%8C%D1%81%C2%BB" title="Категория:Члены фотоклуба «Импульс»">Члены фотоклуба «Импульс»</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">См. также</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%91%D0%B5%D0%B3%D0%B5%D0%BC%D0%BE%D1%82_(%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F)" title="Бегемот (операция)">Бегемот (операция)</a></li>
+<li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8_%D0%91%D0%B5%D0%B3%D0%B5%D0%BC%D0%BE%D1%82-2" title="Категория:Участники операции Бегемот-2">Участники операции Бегемот-2</a></li></ul>
+</div></td></tr></tbody></table></div>
+<table class="mbox-Хорошая_статья plainlinks metadata ambox ambox-good" id="ga-message" role="presentation" style="margin-top:1em"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D1%85_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9" title="Википедия:Список хороших статей"><img alt="✰" class="mw-file-element" data-file-height="24" data-file-width="24" decoding="async" height="24" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Blue_star_boxed.svg/24px-Blue_star_boxed.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Blue_star_boxed.svg/36px-Blue_star_boxed.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Blue_star_boxed.svg/48px-Blue_star_boxed.svg.png 2x" width="24"/></a></span></div></td><td class="mbox-text"><div class="mbox-text-div">Эта статья входит в число <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Википедия:Хорошие статьи">хороших статей</a> русскоязычного раздела Википедии.</div><div class="mbox-textsmall-div hide-when-compact" style="font-size:85%"></div></td></tr></tbody></table></div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> -->
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Р-27_(баллистическая_ракета)&amp;oldid=128832166">https://ru.wikipedia.org/w/index.php?title=Р-27_(баллистическая_ракета)&amp;oldid=128832166</a></div></div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9E%D1%80%D1%83%D0%B6%D0%B8%D0%B5_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Оружие по алфавиту">Оружие по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%91%D0%B0%D0%BB%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D1%8B" title="Категория:Баллистические ракеты">Баллистические ракеты</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%B0%D0%BA%D0%B5%D1%82%D0%BD%D0%BE-%D1%8F%D0%B4%D0%B5%D1%80%D0%BD%D0%BE%D0%B5_%D0%BE%D1%80%D1%83%D0%B6%D0%B8%D0%B5_%D0%A1%D0%A1%D0%A1%D0%A0" title="Категория:Ракетно-ядерное оружие СССР">Ракетно-ядерное оружие СССР</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%B0%D0%BA%D0%B5%D1%82%D1%8B_%D0%BF%D0%BE%D0%B4%D0%B2%D0%BE%D0%B4%D0%BD%D1%8B%D1%85_%D0%BB%D0%BE%D0%B4%D0%BE%D0%BA" title="Категория:Ракеты подводных лодок">Ракеты подводных лодок</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%BE%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%86%D0%B8%D1%8F_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%BD%D0%BE%D0%B3%D0%BE_%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%B0" title="Категория:Военная продукция Государственного ракетного центра">Военная продукция Государственного ракетного центра</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%BE%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%86%D0%B8%D1%8F_%D0%97%D0%BB%D0%B0%D1%82%D0%BE%D1%83%D1%81%D1%82%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D0%B0" title="Категория:Военная продукция Златоустовского машиностроительного завода">Военная продукция Златоустовского машиностроительного завода</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%BE%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%86%D0%B8%D1%8F_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D1%8F%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D0%B0" title="Категория:Военная продукция Красноярского машиностроительного завода">Военная продукция Красноярского машиностроительного завода</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D0%B8%D1%82%D1%8C_webcitation-%D0%B0%D1%80%D1%85%D0%B8%D0%B2:_deadlink_no)" title="Категория:Википедия:Cite web (заменить webcitation-архив: deadlink no)">Википедия:Cite web (заменить webcitation-архив: deadlink no)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D0%B8%D1%82%D1%8C_webcitation-%D0%B0%D1%80%D1%85%D0%B8%D0%B2:_deadlink_yes)" title="Категория:Википедия:Cite web (заменить webcitation-архив: deadlink yes)">Википедия:Cite web (заменить webcitation-архив: deadlink yes)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B,_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D0%B2%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_ISBN" title="Категория:Страницы, использующие волшебные ссылки ISBN">Страницы, использующие волшебные ссылки ISBN</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Википедия:Хорошие статьи по алфавиту">Википедия:Хорошие статьи по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%BE_%D0%B2%D0%BE%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B5" title="Категория:Википедия:Хорошие статьи о военной технике">Википедия:Хорошие статьи о военной технике</a></li></ul></div></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Навигация</h2>
+<div id="mw-head">
+<nav aria-labelledby="p-personal-label" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" id="p-personal" role="navigation">
+<h3 class="vector-menu-heading" id="p-personal-label">
+<span class="vector-menu-heading-label">Персональные инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="pt-anonuserpage"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li class="mw-list-item" id="pt-anontalk"><a accesskey="n" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]"><span>Обсуждение</span></a></li><li class="mw-list-item" id="pt-anoncontribs"><a accesskey="y" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]"><span>Вклад</span></a></li><li class="mw-list-item" id="pt-createaccount"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%A0-27+%28%D0%B1%D0%B0%D0%BB%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F+%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0%29" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li class="mw-list-item" id="pt-login"><a accesskey="o" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%A0-27+%28%D0%B1%D0%B0%D0%BB%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F+%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0%29" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]"><span>Войти</span></a></li>
+</ul>
+</div>
+</nav>
+<div id="left-navigation">
+<nav aria-labelledby="p-namespaces-label" class="mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-namespaces" role="navigation">
+<h3 class="vector-menu-heading" id="p-namespaces-label">
+<span class="vector-menu-heading-label">Пространства имён</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-nstab-main"><a accesskey="c" href="/wiki/%D0%A0-27_(%D0%B1%D0%B0%D0%BB%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0)" title="Просмотреть контентную страницу [c]"><span>Статья</span></a></li><li class="mw-list-item" id="ca-talk"><a accesskey="t" href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%A0-27_(%D0%B1%D0%B0%D0%BB%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0)" rel="discussion" title="Обсуждение основной страницы [t]"><span>Обсуждение</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-variants-label" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" id="p-variants" role="navigation">
+<input aria-haspopup="true" aria-labelledby="p-variants-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-variants" id="p-variants-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-variants-label">
+<span class="vector-menu-heading-label">русский</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+</div>
+<div id="right-navigation">
+<nav aria-labelledby="p-views-label" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-views" role="navigation">
+<h3 class="vector-menu-heading" id="p-views-label">
+<span class="vector-menu-heading-label">Просмотры</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-view"><a href="/w/index.php?title=%D0%A0-27_(%D0%B1%D0%B0%D0%BB%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0)&amp;stable=1"><span>Читать</span></a></li><li class="collapsible mw-list-item" id="ca-current"><a accesskey="v" href="/w/index.php?title=%D0%A0-27_(%D0%B1%D0%B0%D0%BB%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0)&amp;stable=0&amp;redirect=no" title="Показать текущую версию этой страницы [v]"><span>Текущая версия</span></a></li><li class="mw-list-item" id="ca-ve-edit"><a accesskey="v" href="/w/index.php?title=%D0%A0-27_(%D0%B1%D0%B0%D0%BB%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0)&amp;oldid=128832166&amp;veaction=edit" title="Редактировать данную страницу [v]"><span>Править</span></a></li><li class="collapsible mw-list-item" id="ca-edit"><a accesskey="e" href="//ru.wikipedia.org/w/index.php?title=%D0%A0-27_(%D0%B1%D0%B0%D0%BB%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0)&amp;action=edit" title="Править исходный текст этой страницы [e]"><span>Править код</span></a></li><li class="mw-list-item" id="ca-history"><a accesskey="h" href="/w/index.php?title=%D0%A0-27_(%D0%B1%D0%B0%D0%BB%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0)&amp;action=history" title="Журнал изменений страницы [h]"><span>История</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-cactions-label" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" id="p-cactions" role="navigation" title="Больше возможностей">
+<input aria-haspopup="true" aria-labelledby="p-cactions-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-cactions" id="p-cactions-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-cactions-label">
+<span class="vector-menu-heading-label">Ещё</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+<div class="vector-search-box-vue vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box" id="p-search" role="search">
+<h3>Поиск</h3>
+<form action="/w/index.php" class="vector-search-box-form" id="searchform">
+<div class="vector-search-box-inner" data-search-loc="header-navigation" id="simpleSearch">
+<input accesskey="f" aria-label="Искать в Википедии" autocapitalize="sentences" class="vector-search-box-input" id="searchInput" name="search" placeholder="Искать в Википедии" title="Искать в Википедии [f]" type="search"/>
+<input name="title" type="hidden" value="Служебная:Поиск"/>
+<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Найти страницы, содержащие указанный текст" type="submit" value="Найти"/>
+<input class="searchButton" id="searchButton" name="go" title="Перейти к странице, имеющей в точности такое название" type="submit" value="Перейти"/>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="vector-legacy-sidebar" id="mw-panel">
+<div id="p-logo" role="banner">
+<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу"></a>
+</div>
+<nav aria-labelledby="p-navigation-label" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" id="p-navigation" role="navigation">
+<h3 class="vector-menu-heading" id="p-navigation-label">
+<span class="vector-menu-heading-label">Навигация</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-mainpage-description"><a accesskey="z" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]"><span>Заглавная страница</span></a></li><li class="mw-list-item" id="n-content"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li class="mw-list-item" id="n-featured"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li class="mw-list-item" id="n-randompage"><a accesskey="x" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]"><span>Случайная статья</span></a></li><li class="mw-list-item" id="n-currentevents"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li class="mw-list-item" id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-participation-label" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" id="p-participation" role="navigation">
+<h3 class="vector-menu-heading" id="p-participation-label">
+<span class="vector-menu-heading-label">Участие</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-bug_in_article"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li class="mw-list-item" id="n-introduction"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li class="mw-list-item" id="n-portal"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li class="mw-list-item" id="n-forum"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li class="mw-list-item" id="n-recentchanges"><a accesskey="r" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]"><span>Свежие правки</span></a></li><li class="mw-list-item" id="n-newpages"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li class="mw-list-item" id="n-help"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-tb-label" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" id="p-tb" role="navigation">
+<h3 class="vector-menu-heading" id="p-tb-label">
+<span class="vector-menu-heading-label">Инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="t-whatlinkshere"><a accesskey="j" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%A0-27_(%D0%B1%D0%B0%D0%BB%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0)" title="Список всех страниц, ссылающихся на данную [j]"><span>Ссылки сюда</span></a></li><li class="mw-list-item" id="t-recentchangeslinked"><a accesskey="k" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%A0-27_(%D0%B1%D0%B0%D0%BB%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0)" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]"><span>Связанные правки</span></a></li><li class="mw-list-item" id="t-specialpages"><a accesskey="q" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]"><span>Служебные страницы</span></a></li><li class="mw-list-item" id="t-permalink"><a href="/w/index.php?title=%D0%A0-27_(%D0%B1%D0%B0%D0%BB%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0)&amp;oldid=128832166" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li class="mw-list-item" id="t-info"><a href="/w/index.php?title=%D0%A0-27_(%D0%B1%D0%B0%D0%BB%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0)&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li class="mw-list-item" id="t-cite"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%A0-27_%28%D0%B1%D0%B0%D0%BB%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0%29&amp;id=128832166&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li class="mw-list-item" id="t-urlshortener"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%25A0-27_%28%25D0%25B1%25D0%25B0%25D0%25BB%25D0%25BB%25D0%25B8%25D1%2581%25D1%2582%25D0%25B8%25D1%2587%25D0%25B5%25D1%2581%25D0%25BA%25D0%25B0%25D1%258F_%25D1%2580%25D0%25B0%25D0%25BA%25D0%25B5%25D1%2582%25D0%25B0%29"><span>Получить короткий URL</span></a></li><li class="mw-list-item" id="t-urlshortener-qrcode"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%25A0-27_%28%25D0%25B1%25D0%25B0%25D0%25BB%25D0%25BB%25D0%25B8%25D1%2581%25D1%2582%25D0%25B8%25D1%2587%25D0%25B5%25D1%2581%25D0%25BA%25D0%25B0%25D1%258F_%25D1%2580%25D0%25B0%25D0%25BA%25D0%25B5%25D1%2582%25D0%25B0%29"><span>Скачать QR-код</span></a></li><li class="mw-list-item" id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q498695" title="Ссылка на связанный элемент репозитория данных [g]"><span>Элемент Викиданных</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-coll-print_export-label" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" id="p-coll-print_export" role="navigation">
+<h3 class="vector-menu-heading" id="p-coll-print_export-label">
+<span class="vector-menu-heading-label">Печать/экспорт</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="coll-download-as-rl"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B3&amp;bookcmd=render_article&amp;arttitle=%D0%A0-27+%28%D0%B1%D0%B0%D0%BB%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F+%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0%29&amp;returnto=%D0%A0-27+%28%D0%B1%D0%B0%D0%BB%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F+%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0%29&amp;oldid=133872749&amp;writer=rl" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li class="mw-list-item" id="t-print"><a accesskey="p" href="/w/index.php?title=%D0%A0-27_(%D0%B1%D0%B0%D0%BB%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0)&amp;printable=yes" title="Версия этой страницы для печати [p]"><span>Версия для печати</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-electronpdfservice-sidebar-portlet-heading-label" class="mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading emptyPortlet vector-menu-portal portal vector-menu" id="p-electronpdfservice-sidebar-portlet-heading" role="navigation">
+<h3 class="vector-menu-heading" id="p-electronpdfservice-sidebar-portlet-heading-label">
+<span class="vector-menu-heading-label">Печать/экспорт</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-wikibase-otherprojects-label" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal vector-menu" id="p-wikibase-otherprojects" role="navigation">
+<h3 class="vector-menu-heading" id="p-wikibase-otherprojects-label">
+<span class="vector-menu-heading-label">В других проектах</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:SS-N-6_Serb" hreflang="en"><span>Викисклад</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-lang-label" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" id="p-lang" role="navigation">
+<h3 class="vector-menu-heading" id="p-lang-label">
+<span class="vector-menu-heading-label">На других языках</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="interlanguage-link interwiki-de mw-list-item"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/R-27_(Rakete)" hreflang="de" lang="de" title="R-27 (Rakete) — немецкий"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a class="interlanguage-link-target" href="https://en.wikipedia.org/wiki/R-27_Zyb" hreflang="en" lang="en" title="R-27 Zyb — английский"><span>English</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/R-27_Zyb" hreflang="es" lang="es" title="R-27 Zyb — испанский"><span>Español</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/R-27" hreflang="fi" lang="fi" title="R-27 — финский"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/R-27_Zyb" hreflang="fr" lang="fr" title="R-27 Zyb — французский"><span>Français</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/R-27_Zyb" hreflang="id" lang="id" title="R-27 Zyb — индонезийский"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/R-27_(SLBM)" hreflang="it" lang="it" title="R-27 (SLBM) — итальянский"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/R-27_(%E5%BC%BE%E9%81%93%E3%83%9F%E3%82%B5%E3%82%A4%E3%83%AB)" hreflang="ja" lang="ja" title="R-27 (弾道ミサイル) — японский"><span>日本語</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/R-27_(%ED%83%84%EB%8F%84_%EB%AF%B8%EC%82%AC%EC%9D%BC)" hreflang="ko" lang="ko" title="R-27 (탄도 미사일) — корейский"><span>한국어</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/R-27_(pocisk_balistyczny)" hreflang="pl" lang="pl" title="R-27 (pocisk balistyczny) — польский"><span>Polski</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%A0-27_(%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0)" hreflang="sr" lang="sr" title="Р-27 (ракета) — сербский"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A0-27_(%D0%B1%D0%B0%D0%BB%D1%96%D1%81%D1%82%D0%B8%D1%87%D0%BD%D0%B0_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0)" hreflang="uk" lang="uk" title="Р-27 (балістична ракета) — украинский"><span>Українська</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/R-27_Zyb" hreflang="vi" lang="vi" title="R-27 Zyb — вьетнамский"><span>Tiếng Việt</span></a></li>
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q498695#sitelinks-wikipedia" title="Править ссылки на другие языки">Править ссылки</a></span></div>
+</div>
+</nav>
+</div>
+</div>
+<footer class="mw-footer" id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 1 марта 2023 в 03:58.</li>
+<li id="footer-info-copyright">Текст доступен по <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru" rel="license">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a><a href="//creativecommons.org/licenses/by-sa/4.0/" rel="license" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br/>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org/ru/">Фонд Викимедиа (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//ru.m.wikipedia.org/w/index.php?title=%D0%A0-27_(%D0%B1%D0%B0%D0%BB%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0)&amp;mobileaction=toggle_view_mobile">Мобильная версия</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" loading="lazy" src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88"/></a></li>
+<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" loading="lazy" src="/static/images/footer/poweredby_mediawiki_88x31.png" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88"/></a></li>
+</ul>
+</footer>
+
+
+</body>
+</html>

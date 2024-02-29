@@ -1,0 +1,642 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="ru">
+<head>
+<meta charset="utf-8"/>
+<title>Saikano — Википедия</title>
+
+
+
+
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+
+
+<meta content="MediaWiki 1.42.0-wmf.19" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="max-image-preview:standard" name="robots"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/c/ce/Saishu_Heiki_Kanojo.png" property="og:image"/>
+<meta content="1200" property="og:image:width"/>
+<meta content="522" property="og:image:height"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/c/ce/Saishu_Heiki_Kanojo.png" property="og:image"/>
+<meta content="800" property="og:image:width"/>
+<meta content="348" property="og:image:height"/>
+<meta content="640" property="og:image:width"/>
+<meta content="278" property="og:image:height"/>
+<meta content="width=1000" name="viewport"/>
+<meta content="Saikano — Википедия" property="og:title"/>
+<meta content="website" property="og:type"/>
+
+
+
+
+
+
+
+
+
+
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Saikano rootpage-Saikano skin-vector action-view"><div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators">
+</div>
+<h1 class="firstHeading mw-first-heading" id="firstHeading"><i>Saikano</i></h1>
+<div class="vector-body" id="bodyContent">
+<div class="noprint" id="siteSub">Материал из Википедии — свободной энциклопедии</div>
+<div id="contentSub"><div id="mw-content-subtitle"><div class="plainlinks flaggedrevs_preview" id="mw-fr-reviewnotice">Текущая версия страницы пока <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9/%D0%9F%D0%BE%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BB%D1%8F_%D1%87%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9" title="Википедия:Проверка статей/Пояснение для читателей">не проверялась</a> опытными участниками и может значительно отличаться от <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=Saikano&amp;stable=1">версии</a>, проверенной 18 мая 2022 года; проверки требует <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=Saikano&amp;oldid=122393330&amp;diff=cur&amp;diffonly=0">1 правка</a>.</div><div class="flaggedrevs_short flaggedrevs_draft_notsynced plainlinks noprint" id="mw-fr-revisiontag"><div class="flaggedrevs_short_basic"><span class="flaggedrevs-icon oo-ui-widget oo-ui-widget-enabled oo-ui-iconElement-icon oo-ui-icon-block oo-ui-iconElement oo-ui-labelElement-invisible oo-ui-iconWidget" title="Текущая версия"></span><span class="fr-toggle-arrow oo-ui-widget oo-ui-widget-enabled oo-ui-indicatorElement-indicator oo-ui-indicator-down oo-ui-indicatorElement oo-ui-labelElement-invisible oo-ui-indicatorWidget" id="mw-fr-revisiontoggle" title="показать/скрыть подробности"></span></div>
+<div id="mw-fr-revisiondetails-wrapper" style="position:relative;"><div class="flaggedrevs_short_details" id="mw-fr-revisiondetails" style="display:none">Текущая версия страницы пока <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9/%D0%9F%D0%BE%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BB%D1%8F_%D1%87%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9" title="Википедия:Проверка статей/Пояснение для читателей">не проверялась</a> опытными участниками и может значительно отличаться от <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=Saikano&amp;stable=1">версии</a>, проверенной 18 мая 2022 года; проверки требует <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=Saikano&amp;oldid=122393330&amp;diff=cur&amp;diffonly=0">1 правка</a>.</div>
+</div>
+</div>
+</div></div>
+<div id="contentSub2"></div>
+<div id="jump-to-nav"></div>
+<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+<div class="mw-body-content" id="mw-content-text"><div class="mw-content-ltr mw-parser-output" dir="ltr" lang="ru"><table class="infobox" data-name="Карточка аниманга">
+<tbody><tr>
+<th class="infobox-above" colspan="2" scope="colgroup"><i>SaiKano (Saishū Heiki Kanojo)</i>
+</th></tr><tr><td class="infobox-image" colspan="2"><span class="no-wikidata" data-wikidata-property-id="P18"><span class="mw-default-size" typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Saishu_Heiki_Kanojo.png"><img class="mw-file-element" data-file-height="120" data-file-width="276" decoding="async" height="120" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Saishu_Heiki_Kanojo.png" width="276"/></a></span></span></td></tr><tr><td colspan="2" style="background: #dcebff; text-align: center;">最終兵器彼女 <i>(яп.)</i><br/>Saishū Heiki Kanojo <i>(ромадзи)</i><br/>She, The Ultimate Weapon <i>(англ.)</i><br/>Его девушка — абсолютное оружие <i>(неоф. рус.)</i><br/>Моя девушка — совершенное оружие <i>(неоф. рус.)</i><br/></td></tr><tr><th scope="row">Жанр / тематика</th><td><a href="/wiki/%D0%91%D0%BE%D0%B5%D0%B2%D0%B8%D0%BA_(%D0%BA%D0%B8%D0%BD%D0%BE%D0%B6%D0%B0%D0%BD%D1%80)" title="Боевик (киножанр)">боевик</a>, <a class="mw-disambig" href="/wiki/%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B4%D1%80%D0%B0%D0%BC%D0%B0" title="Романтическая драма">романтическая драма</a>, <a href="/wiki/%D0%9D%D0%B0%D1%83%D1%87%D0%BD%D0%B0%D1%8F_%D1%84%D0%B0%D0%BD%D1%82%D0%B0%D1%81%D1%82%D0%B8%D0%BA%D0%B0" title="Научная фантастика">научная фантастика</a>, <a class="mw-redirect" href="/wiki/%D0%90%D0%BF%D0%BE%D0%BA%D0%B0%D0%BB%D0%B8%D0%BF%D1%82%D0%B8%D0%BA%D0%B0" title="Апокалиптика">апокалиптика</a>, <a href="/wiki/%D0%A1%D1%83%D0%BF%D0%B5%D1%80%D0%B3%D0%B5%D1%80%D0%BE%D0%B9" title="Супергерой">супергерои</a></td></tr>
+<tr>
+<th class="infobox-header" colspan="2" scope="colgroup" style=""><a href="/wiki/%D0%9C%D0%B0%D0%BD%D0%B3%D0%B0" title="Манга">Манга</a></th>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Автор</th>
+<td class="plainlist">
+<a href="/wiki/%D0%A2%D0%B0%D0%BA%D0%B0%D1%85%D0%B0%D1%81%D0%B8,_%D0%A1%D0%B8%D0%BD" title="Такахаси, Син">Син Такахаси</a></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Издатель</th>
+<td class="plainlist">
+<a href="/wiki/Shogakukan" title="Shogakukan">Shogakukan</a> (Япония)</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Публикуется в</th>
+<td class="plainlist">
+<a class="new" href="/w/index.php?title=Big_Comic_Spirits&amp;action=edit&amp;redlink=1" title="Big Comic Spirits (страница отсутствует)">Big Comic Spirits</a></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Аудитория</th>
+<td class="plainlist">
+<a href="/wiki/%D0%A1%D1%8D%D0%B9%D0%BD%D1%8D%D0%BD" title="Сэйнэн">сэйнэн</a></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Публикация</th>
+<td class="plainlist">
+декабрь 1999 года — октябрь 2001 года</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row"><a href="/wiki/%D0%A2%D0%B0%D0%BD%D0%BA%D0%BE%D0%B1%D0%BE%D0%BD" title="Танкобон">Томов</a></th>
+<td class="plainlist">
+7</td>
+</tr>
+<tr>
+<th class="infobox-header" colspan="2" scope="colgroup" style=""><a href="/wiki/%D0%90%D0%BD%D0%B8%D0%BC%D0%B5" title="Аниме">Аниме</a>-сериал</th>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Режиссёр</th>
+<td class="plainlist">
+<a class="new" href="/w/index.php?title=%D0%9A%D0%B0%D1%81%D1%8D,_%D0%9C%D0%B8%D1%86%D1%83%D0%BA%D0%BE&amp;action=edit&amp;redlink=1" title="Касэ, Мицуко (страница отсутствует)">Мицуко Касэ</a></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Студия</th>
+<td class="plainlist">
+<a href="/wiki/Gonzo" title="Gonzo">Gonzo</a></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Телесеть</th>
+<td class="plainlist">
+<a class="new" href="/w/index.php?title=Family_Gekijou&amp;action=edit&amp;redlink=1" title="Family Gekijou (страница отсутствует)">Family Gekijou</a></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Премьерный показ</th>
+<td class="plainlist">
+<span class="nowrap"><a href="/wiki/2_%D0%B8%D1%8E%D0%BB%D1%8F" title="2 июля">2 июля</a> <a href="/wiki/2002_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE" title="2002 год в кино">2002 года</a></span> — <span class="nowrap"><a href="/wiki/24_%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8F" title="24 сентября">24 сентября</a> <a href="/wiki/2002_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE" title="2002 год в кино">2002 года</a></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Длительность</th>
+<td class="plainlist">
+23 мин.</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Серий</th>
+<td class="plainlist">
+13 эп.</td>
+</tr>
+<tr>
+<th class="infobox-header" colspan="2" scope="colgroup" style=""><a href="/wiki/OVA" title="OVA">OVA</a> <span style="font-weight: normal;">«Saishu Heiki Kanojo: Another Love Song»</span></th>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Режиссёр</th>
+<td class="plainlist">
+<a class="new" href="/w/index.php?title=%D0%9A%D0%B0%D1%81%D1%8D,_%D0%9C%D0%B8%D1%86%D1%83%D0%BA%D0%BE&amp;action=edit&amp;redlink=1" title="Касэ, Мицуко (страница отсутствует)">Мицуко Касэ</a></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Студия</th>
+<td class="plainlist">
+<a href="/wiki/Gonzo" title="Gonzo">Gonzo</a></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Дата выпуска</th>
+<td class="plainlist">
+август — сентябрь <a class="mw-redirect" href="/wiki/2005" title="2005">2005</a></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Серий</th>
+<td class="plainlist">
+2</td>
+</tr></tbody></table>
+<p><b>Saikano</b>, в <a href="/wiki/%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D1%8F" title="Япония">Японии</a> известная как <b>Saishuu Heiki Kanojo</b> (<a href="/wiki/%D0%AF%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Японский язык">яп.</a> <span lang="ja" style="font-size: 110%; font-style: normal;">最終 兵器 彼女</span> <i><b>сай</b>сю: хэйки <b>кано</b>дзё</i>) — фантастическая <a href="/wiki/%D0%9C%D0%B0%D0%BD%D0%B3%D0%B0" title="Манга">манга</a> за авторством <a href="/wiki/%D0%A2%D0%B0%D0%BA%D0%B0%D1%85%D0%B0%D1%81%D0%B8,_%D0%A1%D0%B8%D0%BD" title="Такахаси, Син">Сина Такахаси</a>.
+</p><p><a href="/wiki/%D0%9C%D0%B0%D0%BD%D0%B3%D0%B0" title="Манга">Манга</a> задумывалась как короткая школьная история о любви главных героев во время некой мировой войны в недалёком будущем, изложенная в нескольких томах. Однако история растянулась, и манга выпускалась в течение двух лет, достигнув объёма в семь томов. Манга стала очень популярной, её общий <a href="/wiki/%D0%A2%D0%B8%D1%80%D0%B0%D0%B6" title="Тираж">тираж</a> составил 2 000 000 экземпляров<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup>.
+</p><p>Позже манга была адаптирована в 13-серийный <a href="/wiki/%D0%90%D0%BD%D0%B8%D0%BC%D0%B5" title="Аниме">аниме</a>-сериал. <a href="/wiki/%D0%A0%D0%B5%D1%84%D1%80%D0%B5%D0%BD" title="Рефрен">Рефрен</a> сериала — «The Last Love Song on This Little Planet» («Последняя песнь любви на этой маленькой планете»). Сюжет начинается с того, что главный герой Сюдзи перечитывает дневник, вспоминая всю свою историю от своего лица. Так как <a href="/wiki/%D0%9C%D0%B0%D0%BD%D0%B3%D0%B0%D0%BA%D0%B0" title="Мангака">мангака</a> был мужчиной, то для придания <a href="/wiki/%D0%90%D0%BD%D0%B8%D0%BC%D0%B5" title="Аниме">аниме</a> большей глубины <a href="/wiki/%D0%A0%D0%B5%D0%B6%D0%B8%D1%81%D1%81%D1%91%D1%80" title="Режиссёр">режиссёром</a> была выбрана женщина.
+</p><p>В <a href="/wiki/2005_%D0%B3%D0%BE%D0%B4" title="2005 год">2005 году</a> вышел двухсерийный <a href="/wiki/OVA" title="OVA">OVA</a> <i>Saishu Heiki Kanojo: Another Love Song</i> («Другая песнь любви»), представляющий другую точку зрения на события сериала<sup class="reference" id="cite_ref-annova_2-0"><a href="#cite_note-annova-2">[2]</a></sup>. <a href="/wiki/28_%D1%8F%D0%BD%D0%B2%D0%B0%D1%80%D1%8F" title="28 января">28 января</a> <a href="/wiki/2006_%D0%B3%D0%BE%D0%B4" title="2006 год">2006 года</a> в Японии была выпущена адаптация в виде художественного фильма, с <a href="/wiki/%D0%9C%D0%B0%D1%8D%D0%B4%D0%B0,_%D0%90%D0%BA%D0%B8" title="Маэда, Аки">Аки Маэдой</a> в роли Тисэ<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup>.
+</p><p>Действие разворачивается в месте, где вырос <a href="/wiki/%D0%9C%D0%B0%D0%BD%D0%B3%D0%B0%D0%BA%D0%B0" title="Мангака">мангака</a>, в городе <a href="/wiki/%D0%9E%D1%82%D0%B0%D1%80%D1%83" title="Отару">Отару</a> на острове <a href="/wiki/%D0%A5%D0%BE%D0%BA%D0%BA%D0%B0%D0%B9%D0%B4%D0%BE" title="Хоккайдо">Хоккайдо</a>, находящемся в часе езды в западном направлении от <a href="/wiki/%D0%A1%D0%B0%D0%BF%D0%BF%D0%BE%D1%80%D0%BE" title="Саппоро">Саппоро</a>. Упомянутые железнодорожная станция «Адская гора» и школа тоже существуют в том городе<sup class="reference" id="cite_ref-trivia_4-0"><a href="#cite_note-trivia-4">[4]</a></sup>. Все персонажи говорят на <a href="/wiki/%D0%94%D0%B8%D0%B0%D0%BB%D0%B5%D0%BA%D1%82" title="Диалект">диалекте</a> <a href="/wiki/%D0%A5%D0%BE%D0%BA%D0%BA%D0%B0%D0%B9%D0%B4%D0%BE" title="Хоккайдо">Хоккайдо</a>, для чего <a href="/wiki/%D0%A1%D1%8D%D0%B9%D1%8E" title="Сэйю">сэйю</a> специально посетили это место, а правильность озвучивания проверял лично сам <a href="/wiki/%D0%9C%D0%B0%D0%BD%D0%B3%D0%B0%D0%BA%D0%B0" title="Мангака">мангака</a>. Кроме того, мангака специально не дал своим главным персонажам фамилии, чтобы сделать общение между ними менее официальным.
+</p>
+<div aria-labelledby="mw-toc-heading" class="toc" id="toc" role="navigation"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="ru"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Сюжет"><span class="tocnumber">1</span> <span class="toctext">Сюжет</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Война"><span class="tocnumber">1.1</span> <span class="toctext">Война</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Различия_между_мангой_и_аниме"><span class="tocnumber">1.2</span> <span class="toctext">Различия между мангой и аниме</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Список_персонажей"><span class="tocnumber">2</span> <span class="toctext">Список персонажей</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Тисэ"><span class="tocnumber">2.1</span> <span class="toctext">Тисэ</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Сюдзи"><span class="tocnumber">2.2</span> <span class="toctext">Сюдзи</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Остальные_персонажи"><span class="tocnumber">2.3</span> <span class="toctext">Остальные персонажи</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Телесериал"><span class="tocnumber">3</span> <span class="toctext">Телесериал</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Музыка"><span class="tocnumber">3.1</span> <span class="toctext">Музыка</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Список_серий_сериала"><span class="tocnumber">3.2</span> <span class="toctext">Список серий сериала</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Список_томов_манги"><span class="tocnumber">4</span> <span class="toctext">Список томов манги</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#OVA"><span class="tocnumber">5</span> <span class="toctext">OVA</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Отзывы_и_критика"><span class="tocnumber">6</span> <span class="toctext">Отзывы и критика</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Примечания"><span class="tocnumber">7</span> <span class="toctext">Примечания</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Ссылки"><span class="tocnumber">8</span> <span class="toctext">Ссылки</span></a></li>
+</ul>
+</div>
+<h2><span id=".D0.A1.D1.8E.D0.B6.D0.B5.D1.82"></span><span class="mw-headline" id="Сюжет">Сюжет</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Saikano&amp;veaction=edit&amp;section=1" title="Редактировать раздел «Сюжет»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Saikano&amp;action=edit&amp;section=1" title="Редактировать код раздела «Сюжет»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Действие в аниме и манге разворачивается на острове <a href="/wiki/%D0%A5%D0%BE%D0%BA%D0%BA%D0%B0%D0%B9%D0%B4%D0%BE" title="Хоккайдо">Хоккайдо</a>, готовящемся к отражению атаки международной военной коалиции. Время действия — недалёкое <a href="/wiki/%D0%91%D1%83%D0%B4%D1%83%D1%89%D0%B5%D0%B5" title="Будущее">будущее</a>. Несмотря на то, что крупные города, такие как <a href="/wiki/%D0%A2%D0%BE%D0%BA%D0%B8%D0%BE" title="Токио">Токио</a> и <a href="/wiki/%D0%9E%D1%81%D0%B0%D0%BA%D0%B0" title="Осака">Осака</a>, были мгновенно уничтожены, население Японии спокойно. В это неспокойное время, ещё не подозревая, ученик старшей школы Сюдзи и его одноклассница Тисэ нехотя решили встречаться. Спустя несколько дней их взаимоотношения улучшились, и они решают вести совместный дневник. События манги и телесериала являются своеобразным изложением этого дневника, который перечитывает Сюдзи.
+</p><p>Во время поездки в <a href="/wiki/%D0%A1%D0%B0%D0%BF%D0%BF%D0%BE%D1%80%D0%BE" title="Саппоро">Саппоро</a>, Сюдзи и его одноклассники попали под бомбовый удар вражеской авиации. Один из одноклассников, Такэ, погибает, а сам Сюдзи становится свидетелем того, как в небе появляется небольшая светящаяся точка и вступает в воздушный бой с самолётами противника, сбив несколько из них. Очнувшись после удара взрывной волны, Сюдзи увидел свою девушку, Тисэ. Из порванного платья на спине торчали металлические крылья, а вместо правой руки — угрожающего вида многоствольное орудие.
+</p>
+<h3><span id=".D0.92.D0.BE.D0.B9.D0.BD.D0.B0"></span><span class="mw-headline" id="Война">Война</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Saikano&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Война»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Saikano&amp;action=edit&amp;section=2" title="Редактировать код раздела «Война»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%A2%D0%B8%D1%81%D1%8D-%D0%BE%D1%80%D1%83%D0%B6%D0%B8%D0%B5.png"><img class="mw-file-element" data-file-height="239" data-file-width="400" decoding="async" height="149" src="//upload.wikimedia.org/wikipedia/ru/thumb/0/07/%D0%A2%D0%B8%D1%81%D1%8D-%D0%BE%D1%80%D1%83%D0%B6%D0%B8%D0%B5.png/250px-%D0%A2%D0%B8%D1%81%D1%8D-%D0%BE%D1%80%D1%83%D0%B6%D0%B8%D0%B5.png" srcset="//upload.wikimedia.org/wikipedia/ru/thumb/0/07/%D0%A2%D0%B8%D1%81%D1%8D-%D0%BE%D1%80%D1%83%D0%B6%D0%B8%D0%B5.png/375px-%D0%A2%D0%B8%D1%81%D1%8D-%D0%BE%D1%80%D1%83%D0%B6%D0%B8%D0%B5.png 1.5x, //upload.wikimedia.org/wikipedia/ru/0/07/%D0%A2%D0%B8%D1%81%D1%8D-%D0%BE%D1%80%D1%83%D0%B6%D0%B8%D0%B5.png 2x" width="250"/></a><figcaption>Тисэ-оружие и Сюдзи</figcaption></figure>
+<p>Показаны военные действия и линия фронта, но причины войны и дипломатия не упоминаются<sup class="reference" id="cite_ref-them_5-0"><a href="#cite_note-them-5">[5]</a></sup>. Неизвестно, против каких именно стран воюют японские силы самообороны. Известно, что некоторые из вражеских солдат говорят на английском и французском, поэтому, возможно, на Японию напала международная коалиция или <a class="mw-redirect" href="/wiki/%D0%A1%D0%A8%D0%90" title="США">США</a><sup class="reference" id="cite_ref-mangalife_6-0"><a href="#cite_note-mangalife-6">[6]</a></sup>. Правительство Японии, понимая, что страна обречена, решается на рискованный шаг — пытается создать «чудо-оружие», способное остановить многократно превосходящие силы союзников. Единственным применяемым оружием массового поражения в аниме и манге была Тисэ, способная уничтожать целые города без особых затруднений. Об устройстве этого самого оружия ничего не сообщается даже в оригинальной манге.
+</p>
+<h3><span id=".D0.A0.D0.B0.D0.B7.D0.BB.D0.B8.D1.87.D0.B8.D1.8F_.D0.BC.D0.B5.D0.B6.D0.B4.D1.83_.D0.BC.D0.B0.D0.BD.D0.B3.D0.BE.D0.B9_.D0.B8_.D0.B0.D0.BD.D0.B8.D0.BC.D0.B5"></span><span class="mw-headline" id="Различия_между_мангой_и_аниме">Различия между мангой и аниме</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Saikano&amp;veaction=edit&amp;section=3" title="Редактировать раздел «Различия между мангой и аниме»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Saikano&amp;action=edit&amp;section=3" title="Редактировать код раздела «Различия между мангой и аниме»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>В манге много сцен фансервиса и комедийных ситуаций, сопровождающихся едкими замечаниями персонажей. Аниме было адаптировано по манге практически без изменений, за исключением концовки, принявшей драматичный поворот, но став более трагичной и мрачной.
+</p><p>В манге Тисэ, практически полностью ставшая машиной, решает освободить остатки человечества от страданий существования на уничтоженной Земле. В аниме Тисэ пытается спасти выжившее население Японии от атаки иностранных оккупантов, но терпит поражение. В обоих случаях Сюдзи остаётся единственным выжившим человеком на Земле. На этом сюжет в аниме прерывается, не показывая, как Тисэ активно атакует и уничтожает города по всему свету.
+</p>
+<h2><span id=".D0.A1.D0.BF.D0.B8.D1.81.D0.BE.D0.BA_.D0.BF.D0.B5.D1.80.D1.81.D0.BE.D0.BD.D0.B0.D0.B6.D0.B5.D0.B9"></span><span class="mw-headline" id="Список_персонажей">Список персонажей</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Saikano&amp;veaction=edit&amp;section=4" title="Редактировать раздел «Список персонажей»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Saikano&amp;action=edit&amp;section=4" title="Редактировать код раздела «Список персонажей»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id=".D0.A2.D0.B8.D1.81.D1.8D"></span><span class="mw-headline" id="Тисэ">Тисэ</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Saikano&amp;veaction=edit&amp;section=5" title="Редактировать раздел «Тисэ»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Saikano&amp;action=edit&amp;section=5" title="Редактировать код раздела «Тисэ»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><b>Тисэ</b> <span style="font-weight: normal;">(<a href="/wiki/%D0%AF%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Японский язык">яп.</a> <span lang="ja" style="font-size: 110%; font-style: normal;">ちせ</span>)</span>. Основой <a href="/wiki/%D0%A1%D1%8E%D0%B6%D0%B5%D1%82" title="Сюжет">сюжета</a> является сложная <a class="mw-disambig" href="/wiki/%D0%9C%D0%B5%D1%82%D0%B0%D0%BC%D0%BE%D1%80%D1%84%D0%BE%D0%B7%D0%B0" title="Метаморфоза">метаморфоза</a> этого <a href="/wiki/%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%B6" title="Персонаж">персонажа</a>.
+</p><p><b>Тисэ-одноклассница</b> — одноклассница Сюдзи. Милая 17-летняя девушка маленького роста, робкая, неловкая и стеснительная. Получает хорошие оценки только по истории, не сильна ни в учёбе, ни в <a href="/wiki/%D0%A1%D0%BF%D0%BE%D1%80%D1%82" title="Спорт">спорте</a>. Постоянно говорит «Прости меня». В начальной школе много месяцев провела в больнице, поэтому Акэми пообещала ей, что всегда будет заботиться о ней. Её озвучивает <a href="/wiki/%D0%9E%D1%80%D0%B8%D0%BA%D0%B0%D1%81%D0%B0,_%D0%A4%D1%83%D0%BC%D0%B8%D0%BA%D0%BE" title="Орикаса, Фумико">Фумико Орикаса</a><sup class="ts-fix-template noprint">[<i><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D0%BD%D0%B0_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8" title="Википедия:Ссылки на источники"><span title="нет источника (27 августа 2021)">источник не указан 915 дней</span></a></i>]</sup>.
+</p><p><b>Тисэ-подружка</b>. Тисэ давно нравился Сюдзи, но она долго не решалась сказать Сюдзи о своих чувствах. Их общая подруга, Акэми, заставила Тисэ признаться Сюдзи, чтобы Тисэ перестала быть стеснительной в общении с людьми. В начале Тисэ лишь следует <a class="mw-redirect mw-disambig" href="/wiki/%D0%9D%D0%B0%D0%BA%D0%B0%D0%B7_(%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D1%8F)" title="Наказ (значения)">наказам</a> Акэми, делая то, что, по её мнению, должны делать все девушки. О любви она знает лишь из прочитанной манги, боясь, что Сюдзи сразу заставит её заниматься с ним любовью. Но позже, став оружием, она влюбилась в Сюдзи, но уже стесняясь своего тела. Тисэ хочет защитить Сюдзи и всех людей, поэтому она сознательно подавляет свои эмоции. Постоянно грустит и не хочет, чтобы Сюдзи видел её такой. У Тисэ-девушки на теле большая <a href="/wiki/%D0%AF%D0%B7%D0%B2%D0%B0" title="Язва">язва</a>, но она смиряется со своим новым телом.
+</p><p><b>Тисэ-командующий</b>. Образ Тисэ с гигантским оружием на руке и торчащими крыльями из тела был сразу задуман мангакой, и он ни разу не изменялся. Сражаясь, Тисэ набирается опыта и усложняется технологически. Вначале, во время боя Тисэ выходила из себя, не контролируя свою ярость и действия. Позже она учится оставаться в сознании, с трудом вынося происходящее. Не ведёт себя как «командующий северным фронтом и всеми спецподразделениями», проста в обращении с солдатами. Тисэ считает лейтенанта Тэцу, своего подчинённого, похожим на Сюдзи. Тисэ уже никогда не сможет стать обычной девушкой, во время боя она получает всё больше повреждений, становясь опасной для окружающих из-за неисправностей своего оружия. Она способна получать информацию и отчёты при помощи <a class="mw-redirect" href="/wiki/%D0%98%D0%A1%D0%97" title="ИСЗ">спутников</a>, зная всё о врагах и <a class="mw-redirect mw-disambig" href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7%D0%BD%D0%B8%D0%BA" title="Союзник">союзниках</a>. Тисэ окружает уважение и любовь её подчинённых, хотя люди из городов, которые она уничтожила, ненавидят её. Тисэ стремится убивать всех своих врагов мгновенно, не причиняя им боли, чем она гордится.
+</p><p><b>Тисэ-любовница</b>. Тисэ после измены Сюдзи покинула родной город, встретив капитана Тэцу, мужа Фуюми, с которым она начинает ходить на свидания. Тисэ целуется с ним и ей нравится находиться с ним вместе, так как она уверена, что через два дня он умрёт, поэтому «всё нормально». Для Тисэ «любить и быть любимой» — это доказательство того, что она ещё жива. Не сопротивляясь, хочет отдаться Тэцу, но для него она лишь глупая девушка, боящаяся боли. Увидев умирающего Тэцу, Тисэ хочет отдаться ему, не желая тем самым выполнить просьбу Тэцу о мгновенной смерти и избавить, таким образом, его от боли. Тэцу умирает в её объятиях, забыв о Тисэ и зовя при ней свою жену Фуюми. Тисэ, после смерти капитана Тэцу, незаметно доставляет его бумаги и личные вещи жене.
+</p><p><b>Тисэ-жена</b>. Тисэ начинает считать себя девушкой Сюдзи, с которым бы она хотела бы спать. Увидев спутниковую съёмку измены Сюдзи, Тисэ обиделась на него и решила с ним расстаться. На следующий день она старалась убедить себя, что они лишь одноклассники, но не может забыть его. Это отразилось на её самооценке, поэтому она отказывается любить кого-либо, желая только скорее участвовать в битвах. Когда Тисэ и Сюдзи сбежали из своего родного города, чтобы начать новую жизнь, они стали считать себя мужем и женой, исполняя супружеский долг. У Тисэ осталось слишком мало лекарств, поэтому скоро она стала неисправной, представляя опасность для окружающих. Тисэ скрывала от Сюдзи, что хочет от него ребёнка, не мешая ему убить её.
+</p><p><b>Тисэ-оружие</b> — неорганическая часть тела Тисэ, пугающая весь мир. Устройство оружия неизвестно, это некая сущность, скрывающаяся внутри её тела и связанная с её <a href="/wiki/%D0%9C%D0%BE%D0%B7%D0%B3" title="Мозг">мозгом</a>. Оно обладает собственной волей и способно воздействовать на <a href="/wiki/%D0%9F%D0%BE%D0%B4%D1%81%D0%BE%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B5" title="Подсознание">подсознание</a> людей. Желает убить всех, особенно Сюдзи. Не имеет собственной личности и идентичности. Для неё Тисэ — лишь её органическая часть, над которой она не властна. Имитируя Тисэ, встречается с Сюдзи, проецируя ему скрытые чувства Тисэ.
+</p>
+<h3><span id=".D0.A1.D1.8E.D0.B4.D0.B7.D0.B8"></span><span class="mw-headline" id="Сюдзи">Сюдзи</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Saikano&amp;veaction=edit&amp;section=6" title="Редактировать раздел «Сюдзи»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Saikano&amp;action=edit&amp;section=6" title="Редактировать код раздела «Сюдзи»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%A1%D1%8E%D0%B4%D0%B7%D0%B8.png"><img class="mw-file-element" data-file-height="150" data-file-width="121" decoding="async" height="150" src="//upload.wikimedia.org/wikipedia/ru/f/f9/%D0%A1%D1%8E%D0%B4%D0%B7%D0%B8.png" width="121"/></a><figcaption>Сюдзи</figcaption></figure>
+<p><b>Сюдзи</b> <span style="font-weight: normal;">(<a href="/wiki/%D0%AF%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Японский язык">яп.</a> <span lang="ja" style="font-size: 110%; font-style: normal;">シュウジ</span> <i>Сю:дзи</i>)</span> — ученик старшей школы в небольшом городке на побережье <a href="/wiki/%D0%A5%D0%BE%D0%BA%D0%BA%D0%B0%D0%B9%D0%B4%D0%BE" title="Хоккайдо">Хоккайдо</a>, который неплохо учится. Высокий, неразговорчивый 17-летний парень, являющийся твёрдым и мужественным человеком, желающим держать всё под контролем. Много лет посещал легкоатлетический клуб, где он и познакомился с Фуюми, учась в средней школе. Сюдзи озвучивает <a class="new" href="/w/index.php?title=%D0%98%D1%81%D0%B8%D0%BC%D0%BE%D0%B4%D0%B0,_%D0%A1%D0%B8%D1%80%D1%83&amp;action=edit&amp;redlink=1" title="Исимода, Сиру (страница отсутствует)">Сиру Исимода</a><sup class="ts-fix-template noprint">[<i><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D0%BD%D0%B0_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8" title="Википедия:Ссылки на источники"><span title="нет источника (27 августа 2021)">источник не указан 915 дней</span></a></i>]</sup>.
+</p><p><b>Отношения с Тисэ-девушкой</b>. В начале Сюдзи начал встречаться с Тисэ, потому что не смог отказать ей, когда она ему призналась. Когда вскоре Сюдзи захотел расстаться с Тисэ, то узнал, что Тисэ тоже не любила его, сделав это из-за настойчивости Акэми. После того, как Сюдзи узнал, что Тисэ стала совершенным оружием, к возникшему чувству любви к Тисэ добавились страх за Тисэ и страх перед тем, чем она стала. Сюдзи боится того, что не может защитить Тисэ и лишь причиняет ей боль своей жестокостью. Сюдзи хочет спать с Тисэ, но его отпугивает язва на её груди, поэтому он занимается любовью с Фуюми. Признавшись в своих намерениях Тисэ, расстался с ней. После землетрясения Сюдзи и Тисэ покинули родной город, переехав в другое место, где Сюдзи работал рыбаком. Там он жил вместе с Тисэ, как муж и жена, на зависть окружающих. В обмен на порции еды попросил отремонтировать ему мотоцикл, но было уже поздно. Сюдзи не смог убить Тисэ, отдав её правительственным службам.
+</p><p><b>Отношения с Акэми</b>. В начале Сюдзи недолюбливает Акэми, боясь её вспыльчивого характера. Её попытки заигрывать с ним он не замечает, думая о своём. Детскую дружбу с Акэми, которой она очень дорожила, он не помнит, думая только о Тисэ и Фуюми. Сюдзи был груб с Акэми, ударив во время эвакуации. Вняв просьбе Сатоми, Сюдзи пришёл домой к Акэми, услышав её признание, сделанное перед смертью. Сюдзи решает увидеть умирающую Акэми обнажённой, считая её прекрасной.
+</p><p><b>Отношения с Фуюми</b>. Фуюми была первой девушкой Сюдзи, с которой он занимался любовью и о ком он не может забыть. Случайно встретив Фуюми вновь, переживая о последствиях действий Тисэ-оружия, Сюдзи продолжил с ней встречаться. Фуюми, узнав о смерти мужа, нашла Сюдзи на культурном фестивале, решив отдаться ему прямо в классе. В этот момент Сюдзи подумал про Акэми, ругающей его из того света. После этого Сюдзи расстался с Фуюми и вскоре уехал вместе с Тисэ в другой город.
+</p><p><b>Отношения с Тисэ-оружием</b>. В конце, встретившись с Тисэ-оружием, не отвергает её, а относится к ней как к живой Тисэ. Он молча выслушивает её исповедь и собирается заняться с ней любовью, чтобы доказать, что половые органы бесполезны для оружия, но необходимы людям. В аниме Сюдзи значительно меняет мировоззрение совершенного оружия, влюбившегося в него.
+</p>
+<h3><span id=".D0.9E.D1.81.D1.82.D0.B0.D0.BB.D1.8C.D0.BD.D1.8B.D0.B5_.D0.BF.D0.B5.D1.80.D1.81.D0.BE.D0.BD.D0.B0.D0.B6.D0.B8"></span><span class="mw-headline" id="Остальные_персонажи">Остальные персонажи</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Saikano&amp;veaction=edit&amp;section=7" title="Редактировать раздел «Остальные персонажи»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Saikano&amp;action=edit&amp;section=7" title="Редактировать код раздела «Остальные персонажи»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Akemi.png"><img class="mw-file-element" data-file-height="144" data-file-width="150" decoding="async" height="144" src="//upload.wikimedia.org/wikipedia/ru/d/d2/Akemi.png" width="150"/></a><figcaption>Акэми</figcaption></figure>
+<p><b>Акэми</b> <span style="font-weight: normal;">(<a href="/wiki/%D0%AF%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Японский язык">яп.</a> <span lang="ja" style="font-size: 110%; font-style: normal;">アケミ</span>)</span> — одноклассница Сюдзи и Тисэ, с самого детства дружащая с ними. У неё есть младшая сестра Сатоми, дружащая с Сюдзи и посещающая тот же легкоатлетический клуб, что и он. В аниме Акэми играет более важную роль, чем в манге, являясь соперницей Тисэ. Акэми тайно влюблена в Сюдзи, пытаясь постоянно быть на его глазах. Она всю жизнь помнила те качели, на которых она качалась вместе с Сюдзи. На качелях были написаны имена Акэми и Сюдзи, поэтому Акэми всегда запрещала Тисэ качаться на них. Познакомившись с Тисэ, Акэми стала её лучшей подругой, постоянно её опекая. Когда Тисэ рассказала Акэми о своих чувствах к Сюдзи, та настояла на том, чтобы Тисэ призналась ему. Акэми не простила грубого поведения Сюдзи, толкнувшего её и давшего ей пощёчину, но всё-таки была недовольна временным разрывом отношений Тисэ и Сюдзи, пытаясь помочь им помириться. Уверена, что парни просто не в состоянии понять чувств девушек, поэтому не верит доводам Сюдзи, из-за которых он расстался с Тисэ. Акэми погибла во время землетрясения, скорее всего вызванного военными действиями, и перед смертью открыла Сюдзи, пришедшему к ней по просьбе отчаявшейся Сатоми, свою тайну.  Акэми перед смертью призналась Сюдзи, что во время падения сбитого самолёта около их города она отдалась Ацуси, так как она не могла быть с Сюдзи. Узнав тайну Акэми, Сюдзи снял с неё всю одежду, чтобы увидеть и полюбить её как девушку.
+</p>
+<dl><dd><a href="/wiki/%D0%A1%D1%8D%D0%B9%D1%8E" title="Сэйю">Сэйю</a>: <a class="new" href="/w/index.php?title=%D0%A1%D1%83%D0%B3%D0%B8%D0%BC%D0%BE%D1%82%D0%BE,_%D0%AE&amp;action=edit&amp;redlink=1" title="Сугимото, Ю (страница отсутствует)">Ю Сугимото</a></dd></dl>
+<figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%90%D1%86%D1%83%D1%81%D0%B8.png"><img class="mw-file-element" data-file-height="150" data-file-width="138" decoding="async" height="150" src="//upload.wikimedia.org/wikipedia/ru/2/2a/%D0%90%D1%86%D1%83%D1%81%D0%B8.png" width="138"/></a><figcaption>Ацуси</figcaption></figure>
+<p><b>Ацуси</b> <span style="font-weight: normal;">(<a href="/wiki/%D0%AF%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Японский язык">яп.</a> <span lang="ja" style="font-size: 110%; font-style: normal;">アツシ</span>)</span> — одноклассник и друг Сюдзи, влюблённый в Акэми. Невысокого роста, способен принимать важные решения, но ему не хватает отваги. Бросил школу, записавшись добровольцем в армию, надеясь таким образом защитить Акэми, несмотря на то, что его отговаривали и Сюдзи, и Акэми. В военной службе ценит возможность достойно умереть и армейский рацион, так как солдат хорошо кормят. Став солдатом, много слышит о Тисэ, которую он принимает за название нового оружия, но ни разу не видел. Во время боя испугался и не захотел умирать, хотя другие солдаты не осуждали его за это, понимая, что его ждёт любимая. Случайно погиб, когда Тисэ уничтожила город.
+</p>
+<dl><dd>Сэйю: <a class="new" href="/w/index.php?title=%D0%A1%D0%B8%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B8,_%D0%A2%D1%8D%D1%86%D1%83&amp;action=edit&amp;redlink=1" title="Сиратори, Тэцу (страница отсутствует)">Тэцу Сиратори</a></dd></dl>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%A2%D1%8D%D1%86%D1%83.png"><img class="mw-file-element" data-file-height="150" data-file-width="129" decoding="async" height="150" src="//upload.wikimedia.org/wikipedia/ru/5/5f/%D0%A2%D1%8D%D1%86%D1%83.png" width="129"/></a><figcaption>Тэцу</figcaption></figure>
+<p><b>Тэцу</b> <span style="font-weight: normal;">(<a href="/wiki/%D0%AF%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Японский язык">яп.</a> <span lang="ja" style="font-size: 110%; font-style: normal;">テツ</span>)</span> — офицер Сил Самообороны, муж Фуюми. Тисэ познакомилась с ним во время передышки в бою. В то время он был в звании лейтенанта, командуя солдатами, с которыми случайно познакомилась Тисэ. Тогда он относился к Тисэ как к командующей, поэтому требует соблюдения устава при общении с ней. Но после провального поражения японских войск в бою, он оказался одним из немногих выживших. После этого Тэцу был повышен в звании до капитана. Отказывается знакомиться с новобранцами, с такими, как с Ацуси, веря, что всё равно они все умрут. Со временем Тэцу сумел разглядеть в Тисэ обычную девушку, которой не нравится воевать, и тоскующей по дому и своему парню. Поэтому он заботится о плачущей Тисэ, отнеся её в своё убежище. Они начинают встречаться и ходить на свидания. Тэцу нравится целовать Тисэ, с которой он готов заняться любовью, думая о последних днях своей жизни, но, узнав о проблемах Тисэ и Сюдзе, останавливается. Тэцу был тяжело ранен, попав в засаду, устроенную в его же убежище. Увидев перед смертью Тисэ, он лишь просит быстрее убить его и зовёт свою жену.
+</p>
+<dl><dd>Сэйю: <a href="/wiki/%D0%9C%D0%B8%D0%BA%D0%B8,_%D0%A1%D0%B8%D0%BD%D1%8A%D0%B8%D1%82%D0%B8%D1%80%D0%BE" title="Мики, Синъитиро">Синъитиро Мики</a></dd></dl>
+<figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%A4%D1%83%D1%8E%D0%BC%D0%B8.png"><img class="mw-file-element" data-file-height="150" data-file-width="128" decoding="async" height="150" src="//upload.wikimedia.org/wikipedia/ru/f/f9/%D0%A4%D1%83%D1%8E%D0%BC%D0%B8.png" width="128"/></a><figcaption>Фуюми</figcaption></figure>
+<p><b>Фуюми</b> <span style="font-weight: normal;">(<a href="/wiki/%D0%AF%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Японский язык">яп.</a> <span lang="ja" style="font-size: 110%; font-style: normal;">ふゆみ</span>)</span> — жена Тэцу. Открытая и честная женщина, на несколько лет старше Сюдзи. Фуюми училась в одной школе с Сюдзи, смотря на Сюдзе, когда тот был на стадионе. В то время Фуюми была без своего парня, похожего на Сюдзе. Занявшись любовью с Сюдзи, Фуюми решила сделать для него то, что многие девушки побоялись бы. Фуюми и Сюдзе любили друг друга и позже продолжили свои отношения. Фуюми подолгу не видит своего мужа, считая это виной Тэцу, поэтому она готова изменить ему с Сюдзи, даже зная, что у него уже есть Тисэ. Получив от Тисэ известие о смерти мужа, Фуюми нашла Сюдзи во время культурного фестиваля, решив отдаться ему. Но стал действовать слишком грубо, из-за чего он вспомнил об умершей Акэми, после чего они расстались.
+</p>
+<dl><dd>Сэйю: <a href="/wiki/%D0%98%D1%82%D0%BE,_%D0%9C%D0%B8%D0%BA%D0%B8" title="Ито, Мики">Мики Ито</a></dd></dl>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Kawahara.png"><img class="mw-file-element" data-file-height="150" data-file-width="142" decoding="async" height="150" src="//upload.wikimedia.org/wikipedia/ru/7/7c/Kawahara.png" width="142"/></a><figcaption>Кавахара</figcaption></figure>
+<p><b>Кавахара</b> <span style="font-weight: normal;">(<a href="/wiki/%D0%AF%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Японский язык">яп.</a> <span lang="ja" style="font-size: 110%; font-style: normal;">カワハラ</span>)</span> — гражданский служащий японских сил самообороны, зрелый плотный мужчина, который постоянно вытирает пот платком. Научный работник, ответственный за создание из Тисэ сверхоружия. Возможно, Кавахара лучше всех понимал, что такое Тисэ. Семья Кавахары погибла во время налёта на Саппоро, поэтому возможно он воспринимал Тисэ как свою погибшую дочь. Упросил Сюдзи взять медикаменты для Тисэ, когда она сбежала, советуя участвовать Тисэ в боях. Когда Кавахара понял, что Тисэ окончательно перестаёт быть человеком, он покончил с собой.
+</p>
+<dl><dd>Сэйю: <a class="new" href="/w/index.php?title=%D0%98%D0%B8,_%D0%90%D1%86%D1%83%D1%81%D0%B8&amp;action=edit&amp;redlink=1" title="Ии, Ацуси (страница отсутствует)">Ацуси Ии</a></dd></dl>
+<figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Yukari.png"><img class="mw-file-element" data-file-height="149" data-file-width="148" decoding="async" height="149" src="//upload.wikimedia.org/wikipedia/ru/2/2b/Yukari.png" width="148"/></a><figcaption>Юкари (перед смертью)</figcaption></figure>
+<p><b>Юкари</b> <span style="font-weight: normal;">(<a href="/wiki/%D0%AF%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Японский язык">яп.</a> <span lang="ja" style="font-size: 110%; font-style: normal;">ゆかり</span>)</span> — девушка Такэ, одноклассника Сюдзи. После того, как Юкари и Такэ поссорились, Такэ купил ей украшение, чтобы помириться с ней, но погиб во время бомбардировки Саппоро, не успев отдать его Юкари. Юкари бросила школу после его смерти, храня как память это украшение, но вскоре она уже начала встречаться с другим парнем. Позже, встретившись с Сюдзи, Юкари сказала, что Такэ всё равно умер, и что надо жить, не оглядываясь на прошлое. Однако память о прошлой любви оказалась жива — Юкари погибла в перестрелке с пилотом сбитого Тисэ вражеского самолёта. Пилот пытался сдаться в плен, но Юкари отказалась принять сдачу, не простив врагам убийство Такэ, и они застрелили друг друга.
+</p>
+<dl><dd>Сэйю: <a class="new" href="/w/index.php?title=%D0%9A%D0%BE%D0%B4%D0%B7%D0%B8%D0%BC%D0%B0,_%D0%A1%D0%B0%D1%82%D0%B8%D0%BA%D0%BE&amp;action=edit&amp;redlink=1" title="Кодзима, Сатико (страница отсутствует)">Сатико Кодзима</a></dd></dl>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Satomi.png"><img class="mw-file-element" data-file-height="150" data-file-width="148" decoding="async" height="150" src="//upload.wikimedia.org/wikipedia/ru/3/39/Satomi.png" width="148"/></a><figcaption>Сатоми</figcaption></figure>
+<p><b>Сатоми</b> <span style="font-weight: normal;">(<a href="/wiki/%D0%AF%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Японский язык">яп.</a> <span lang="ja" style="font-size: 110%; font-style: normal;">さとみ</span>)</span> — младшая сестра Акэми, дружит с Сюдзи. Невысокого роста, обладает противоположным характером относительно своей старшей сестры. Это тихая, спокойная девушка, посещает тот же легкоатлетический клуб, что и Сюдзи. У неё никогда не было парня, а Сюдзи считал её ещё маленькой. Сатоми была уверена, что если бы она влюбилась бы в кого-нибудь, то вытерпела бы всё ради любви. Во время землетрясения Сатоми нашла Сюдзи и попросила его повидать Акэми, пытаясь скрыть от него правду и свои чувства, но не выдержала и расплакалась.
+</p>
+<dl><dd>Сэйю: <a class="new" href="/w/index.php?title=%D0%9A%D0%B0%D0%BA%D0%B0%D0%B4%D0%B7%D1%83,_%D0%AE%D0%BC%D0%B8&amp;action=edit&amp;redlink=1" title="Какадзу, Юми (страница отсутствует)">Юми Какадзу</a></dd></dl>
+<h2><span id=".D0.A2.D0.B5.D0.BB.D0.B5.D1.81.D0.B5.D1.80.D0.B8.D0.B0.D0.BB"></span><span class="mw-headline" id="Телесериал">Телесериал</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Saikano&amp;veaction=edit&amp;section=8" title="Редактировать раздел «Телесериал»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Saikano&amp;action=edit&amp;section=8" title="Редактировать код раздела «Телесериал»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b>Студия:</b> <a href="/wiki/Gonzo" title="Gonzo">Gonzo</a></li>
+<li><b>Режиссёр:</b> <a class="new" href="/w/index.php?title=%D0%9A%D0%B0%D1%81%D1%8D,_%D0%9C%D0%B8%D1%86%D1%83%D0%BA%D0%BE&amp;action=edit&amp;redlink=1" title="Касэ, Мицуко (страница отсутствует)">Мицуко Касэ</a></li>
+<li><b>Оригинальный сюжет:</b> <a href="/wiki/%D0%A2%D0%B0%D0%BA%D0%B0%D1%85%D0%B0%D1%81%D0%B8,_%D0%A1%D0%B8%D0%BD" title="Такахаси, Син">Син Такахаси</a></li>
+<li><b>Сценарий:</b> <a class="new" href="/w/index.php?title=%D0%AD%D1%80%D0%B0,_%D0%98%D1%82%D0%B0%D1%80%D1%83&amp;action=edit&amp;redlink=1" title="Эра, Итару (страница отсутствует)">Итару Эра</a></li>
+<li><b>Композитор:</b> <a class="new" href="/w/index.php?title=%D0%9C%D0%B8%D1%80%D0%B0%D1%86%D1%83,_%D0%A2%D0%B0%D0%BA%D1%8D%D0%BE&amp;action=edit&amp;redlink=1" title="Мирацу, Такэо (страница отсутствует)">Такэо Мирацу</a></li>
+<li><b>Дизайн персонажей:</b> <a class="new" href="/w/index.php?title=%D0%9A%D0%B0%D0%B3%D0%B0%D0%B2%D0%B0,_%D0%A5%D0%B8%D1%81%D0%B0%D1%81%D0%B8&amp;action=edit&amp;redlink=1" title="Кагава, Хисаси (страница отсутствует)">Хисаси Кагава</a></li>
+<li><b>Дизайн техники:</b> <a class="new" href="/w/index.php?title=%D0%9A%D0%B0%D0%BD%D0%B1%D1%8D,_%D0%A5%D0%B8%D1%80%D0%BE%D1%8E%D0%BA%D0%B8&amp;action=edit&amp;redlink=1" title="Канбэ, Хироюки (страница отсутствует)">Хироюки Канбэ</a></li>
+<li><b>3D анимация:</b> <a class="new" href="/w/index.php?title=%D0%A2%D0%B0%D0%BD%D0%B0%D0%BA%D0%B0,_%D0%9A%D0%B0%D0%B4%D0%B7%D1%83%D1%85%D0%B8%D1%80%D0%B0&amp;action=edit&amp;redlink=1" title="Танака, Кадзухира (страница отсутствует)">Кадзухира Танака</a></li></ul>
+<h3><span id=".D0.9C.D1.83.D0.B7.D1.8B.D0.BA.D0.B0"></span><span class="mw-headline" id="Музыка">Музыка</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Saikano&amp;veaction=edit&amp;section=9" title="Редактировать раздел «Музыка»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Saikano&amp;action=edit&amp;section=9" title="Редактировать код раздела «Музыка»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Японская певица <a class="new" href="/w/index.php?title=%D0%AF%D1%82%D0%BE,_%D0%AE%D1%80%D0%B8%D0%B0&amp;action=edit&amp;redlink=1" title="Ято, Юриа (страница отсутствует)">Юриа Ято</a>, большая поклонница этой манги, сама написала и исполнила открывающую («Койсуру Кимоти») и закрывающую («Саёнара») тему сериала. Синглы были в продаже <a href="/wiki/10_%D0%B8%D1%8E%D0%BB%D1%8F" title="10 июля">10 июля</a> и <a href="/wiki/7_%D0%B0%D0%B2%D0%B3%D1%83%D1%81%D1%82%D0%B0" title="7 августа">7 августа</a> <a href="/wiki/2002_%D0%B3%D0%BE%D0%B4" title="2002 год">2002 года</a>. Фоновая музыка сериала была отмечена положительными рецензиями.<sup class="reference" id="cite_ref-mania4_7-0"><a href="#cite_note-mania4-7">[7]</a></sup><sup class="reference" id="cite_ref-maniaultimate_8-0"><a href="#cite_note-maniaultimate-8">[8]</a></sup>
+</p><p><b><a href="/wiki/%D0%A1%D0%B0%D1%83%D0%BD%D0%B4%D1%82%D1%80%D0%B5%D0%BA" title="Саундтрек">OST</a>:</b>
+</p>
+<ol><li>Кой Суру Кимоти (TV Version), <a class="new" href="/w/index.php?title=%D0%AF%D1%82%D0%BE,_%D0%AE%D1%80%D0%B8%D0%B0&amp;action=edit&amp;redlink=1" title="Ято, Юриа (страница отсутствует)">Юриа Ято</a></li>
+<li>Хикари Но Таба, Кумо Но уми</li>
+<li>Футари Но Сора</li>
+<li>Канасими Но Нукумори</li>
+<li>Татакай Но Гэнэй</li>
+<li>Саёнара (Instrumental Version)</li>
+<li>Токи Но Хадзама</li>
+<li>Тайдо</li>
+<li>Тэнкэй — Ти Но Икари</li>
+<li>Юмэмиру Тамэ Ни</li>
+<li>Кокоро Но Кагэ</li>
+<li>Хидамари Но Футари</li>
+<li>Тодокану Омой</li>
+<li>Рэсэй На Кёки</li>
+<li>Саёнара (Acoustic Version)</li>
+<li>Кой Суру Кимоти (Instrumental Version)</li>
+<li>Хоси Но Хатэ, <a href="/wiki/%D0%9E%D1%80%D0%B8%D0%BA%D0%B0%D1%81%D0%B0,_%D0%A4%D1%83%D0%BC%D0%B8%D0%BA%D0%BE" title="Орикаса, Фумико">Фумико Орикаса</a></li>
+<li>Саёнара (Music Box Version)</li>
+<li>Саёнара (TV Version), <a class="new" href="/w/index.php?title=%D0%AF%D1%82%D0%BE,_%D0%AE%D1%80%D0%B8%D0%B0&amp;action=edit&amp;redlink=1" title="Ято, Юриа (страница отсутствует)">Юриа Ято</a></li></ol>
+<h3><span id=".D0.A1.D0.BF.D0.B8.D1.81.D0.BE.D0.BA_.D1.81.D0.B5.D1.80.D0.B8.D0.B9_.D1.81.D0.B5.D1.80.D0.B8.D0.B0.D0.BB.D0.B0"></span><span class="mw-headline" id="Список_серий_сериала">Список серий сериала</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Saikano&amp;veaction=edit&amp;section=10" title="Редактировать раздел «Список серий сериала»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Saikano&amp;action=edit&amp;section=10" title="Редактировать код раздела «Список серий сериала»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable" width="100%">
+<tbody><tr style="border-bottom:2px solid #CCCCFF">
+<th style="width: 5%;">№ <br/>серии
+</th>
+<th>Название
+</th>
+<th style="width: 15%;">Трансляция <br/>в Японии
+</th></tr>
+<tr style="text-align: center; background:#F2F2F2"><td id="ep1" rowspan="">1</td><td style="text-align: left;"><b>Мы влюбились</b><br/><i>«Боку тати ва, кой ситэ ику»</i> <span class="t_nihongo_kanji" lang="ja">(ぼくたちは、恋していく。)</span> </td><td rowspan="">02.07.2002</td></tr><tr>
+<td colspan="5" style="border-bottom:3px solid #">
+Сюдзи и Тисэ начали встречаться. </td>
+</tr>
+<tr style="text-align: center; background:#F2F2F2"><td id="ep2" rowspan="">2</td><td style="text-align: left;"><b>Я расту</b><br/><i>«Ватаси, сэйтё ситэру...»</i> <span class="t_nihongo_kanji" lang="ja">(私、成長してる・・)</span> </td><td rowspan="">09.07.2002</td></tr><tr>
+<td colspan="5" style="border-bottom:3px solid #">
+Тисэ стала оружием и Сюдзи хочет убежать с ней. </td>
+</tr>
+<tr style="text-align: center; background:#F2F2F2"><td id="ep3" rowspan="">3</td><td style="text-align: left;"><b>Мы вдвоём</b><br/><i>«Футари дэ...»</i> <span class="t_nihongo_kanji" lang="ja">(ふたりで・・)</span> </td><td rowspan="">16.07.2002</td></tr><tr>
+<td colspan="5" style="border-bottom:3px solid #">
+Сюдзи случайно встречает свою первую любовь - Фуюми. </td>
+</tr>
+<tr style="text-align: center; background:#F2F2F2"><td id="ep4" rowspan="">4</td><td style="text-align: left;"><b>Фуюми</b><br/><i>«Фуюми сэмпай»</i> <span class="t_nihongo_kanji" lang="ja">(ふゆみ先輩)</span> </td><td rowspan="">23.07.2002</td></tr><tr>
+<td colspan="5" style="border-bottom:3px solid #">
+Сюдзи изменяет Тисэ, о чём ей сообщают военные. </td>
+</tr>
+<tr style="text-align: center; background:#F2F2F2"><td id="ep5" rowspan="">5</td><td style="text-align: left;"><b>Обманщик...</b><br/><i>«Усоцуки...»</i> <span class="t_nihongo_kanji" lang="ja">(うそつき・・・)</span> </td><td rowspan="">30.07.2002</td></tr><tr>
+<td colspan="5" style="border-bottom:3px solid #">
+Тисэ считает себя оружием, но не хочет умирать. </td>
+</tr>
+<tr style="text-align: center; background:#F2F2F2"><td id="ep6" rowspan="">6</td><td style="text-align: left;"><b>Одноклассник</b><br/><i>«Классмэйт»</i> <span class="t_nihongo_kanji" lang="ja">(クラスメイト)</span> </td><td rowspan="">06.08.2002</td></tr><tr>
+<td colspan="5" style="border-bottom:3px solid #">
+Сюдзи и Тисэ расстаются, оставшись только одноклассниками. </td>
+</tr>
+<tr style="text-align: center; background:#F2F2F2"><td id="ep7" rowspan="">7</td><td style="text-align: left;"><b>Тот, кого я хочу защитить</b><br/><i>«Маморитай моно»</i> <span class="t_nihongo_kanji" lang="ja">(守りたいもの)</span> </td><td rowspan="">13.08.2002</td></tr><tr>
+<td colspan="5" style="border-bottom:3px solid #">
+Чтобы не думать о Сюдзи, Тисэ добивается новых битв. </td>
+</tr>
+<tr style="text-align: center; background:#F2F2F2"><td id="ep8" rowspan="">8</td><td style="text-align: left;"><b>Все изменились</b><br/><i>«Минна каваттэ ику»</i> <span class="t_nihongo_kanji" lang="ja">(みんな変わっていく)</span> </td><td rowspan="">20.08.2002</td></tr><tr>
+<td colspan="5" style="border-bottom:3px solid #">
+Юкари хочет застрелить сдавшегося пилота, но умирает сама. </td>
+</tr>
+<tr style="text-align: center; background:#F2F2F2"><td id="ep9" rowspan="">9</td><td style="text-align: left;"><b>Акэми</b><br/><i>«Акэми»</i> <span class="t_nihongo_kanji" lang="ja">(アケミ)</span> </td><td rowspan="">27.08.2002</td></tr><tr>
+<td colspan="5" style="border-bottom:3px solid #">
+Во время землетрясения пострадала Акэми. Перед смертью она признаётся Сюдзи в своих чувствах. </td>
+</tr>
+<tr style="text-align: center; background:#F2F2F2"><td id="ep10" rowspan="">10</td><td style="text-align: left;"><b>И тогда...</b><br/><i>«...соситэ»</i> <span class="t_nihongo_kanji" lang="ja">(・・・そして)</span> </td><td rowspan="">03.09.2002</td></tr><tr>
+<td colspan="5" style="border-bottom:3px solid #">
+Сюдзи упрашивает военных провести культурный фестиваль. </td>
+</tr>
+<tr style="text-align: center; background:#F2F2F2"><td id="ep11" rowspan="">11</td><td style="text-align: left;"><b>Когда мы были вместе</b><br/><i>«Футари дакэ но токи»</i> <span class="t_nihongo_kanji" lang="ja">(２人だけの刻)</span> </td><td rowspan="">10.09.2002</td></tr><tr>
+<td colspan="5" style="border-bottom:3px solid #">
+Сюдзи и Тисэ снова вместе. Они живут в другом городе обычной жизнью. </td>
+</tr>
+<tr style="text-align: center; background:#F2F2F2"><td id="ep12" rowspan="">12</td><td style="text-align: left;"><b>Песня любви</b><br/><i>«Лав Сон»</i> <span class="t_nihongo_kanji" lang="ja">(ラブ・ソング)</span> </td><td rowspan="">17.09.2002</td></tr><tr>
+<td colspan="5" style="border-bottom:3px solid #">
+У Тисэ заканчиваются лекарства и Сюдзи собирается её убить, но не может. </td>
+</tr>
+<tr style="text-align: center; background:#F2F2F2"><td id="ep13" rowspan="">13</td><td style="text-align: left;"><b>И так мы вдвоём влюбились</b><br/><i>«Соситэ, бокутати ва кой ситэ ику»</i> <span class="t_nihongo_kanji" lang="ja">(そして、ぼくたちは恋していく)</span> </td><td rowspan="">24.09.2002</td></tr><tr>
+<td colspan="5" style="border-bottom:3px solid #">
+Наступил конец света, на котором в живых остались только Тисэ и Сюдзи. </td>
+</tr>
+</tbody></table>
+<h2><span id=".D0.A1.D0.BF.D0.B8.D1.81.D0.BE.D0.BA_.D1.82.D0.BE.D0.BC.D0.BE.D0.B2_.D0.BC.D0.B0.D0.BD.D0.B3.D0.B8"></span><span class="mw-headline" id="Список_томов_манги">Список томов манги</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Saikano&amp;veaction=edit&amp;section=11" title="Редактировать раздел «Список томов манги»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Saikano&amp;action=edit&amp;section=11" title="Редактировать код раздела «Список томов манги»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/%D0%9C%D0%B0%D0%BD%D0%B3%D0%B0" title="Манга">Манга</a>, изданная в Японии <a href="/wiki/%D0%98%D0%B7%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE" title="Издательство">издательством</a> <a href="/wiki/Shogakukan" title="Shogakukan">Shogakukan</a>:
+</p>
+<ol><li>30 мая 2000 года, <a class="new" href="/w/index.php?title=ISBN_1-59116-339-0&amp;action=edit&amp;redlink=1" title="ISBN 1-59116-339-0 (страница отсутствует)">ISBN 1-59116-339-0</a></li>
+<li>29 июля 2000 года, <a class="new" href="/w/index.php?title=ISBN_1-59116-474-5&amp;action=edit&amp;redlink=1" title="ISBN 1-59116-474-5 (страница отсутствует)">ISBN 1-59116-474-5</a></li>
+<li>30 ноября 2000 года, <a class="new" href="/w/index.php?title=ISBN_1-59116-475-3&amp;action=edit&amp;redlink=1" title="ISBN 1-59116-475-3 (страница отсутствует)">ISBN 1-59116-475-3</a></li>
+<li>30 марта 2001 года, <a class="new" href="/w/index.php?title=ISBN_1-59116-476-1&amp;action=edit&amp;redlink=1" title="ISBN 1-59116-476-1 (страница отсутствует)">ISBN 1-59116-476-1</a></li>
+<li>30 июня 2001 года, <a class="new" href="/w/index.php?title=ISBN_1-59116-477-X&amp;action=edit&amp;redlink=1" title="ISBN 1-59116-477-X (страница отсутствует)">ISBN 1-59116-477-X</a></li>
+<li>30 ноября 2001 года, <a class="new" href="/w/index.php?title=ISBN_1-59116-478-8&amp;action=edit&amp;redlink=1" title="ISBN 1-59116-478-8 (страница отсутствует)">ISBN 1-59116-478-8</a></li>
+<li>25 декабря 2001 года, <a class="new" href="/w/index.php?title=ISBN_1-59116-479-6&amp;action=edit&amp;redlink=1" title="ISBN 1-59116-479-6 (страница отсутствует)">ISBN 1-59116-479-6</a></li></ol>
+<h2><span class="mw-headline" id="OVA">OVA</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Saikano&amp;veaction=edit&amp;section=12" title="Редактировать раздел «OVA»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Saikano&amp;action=edit&amp;section=12" title="Редактировать код раздела «OVA»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/OVA" title="OVA">OVA</a> «Saikano: Another Love Song» <span style="font-weight: normal;">(<a href="/wiki/%D0%AF%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Японский язык">яп.</a> <span lang="ja" style="font-size: 110%; font-style: normal;">最終兵器彼女 Another Love Song</span> <i>Saishu Heiki Kanojo: Another Love Song</i>, <a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">«Другая Песнь Любви»</span>)</span> было выпущено студией Gonzo <a href="/wiki/5_%D0%B0%D0%B2%D0%B3%D1%83%D1%81%D1%82%D0%B0" title="5 августа">5 августа</a> <a href="/wiki/2005_%D0%B3%D0%BE%D0%B4" title="2005 год">2005 года</a>.<sup class="reference" id="cite_ref-annova_2-1"><a href="#cite_note-annova-2">[2]</a></sup> История Тисэ рассказывается с точки зрения лейтенанта Мидзуки, которая была прототипом для «совершенного оружия». У OVA тот же режиссёр, сценарист и дизайнер персонажей, что и у основного сериала. Хотя OVA является сюжетным ответвлением, она имеет тесную связь с основным сериалом<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup>.
+</p><p>Лейтенант Мидзуки (её озвучивает <a href="/wiki/%D0%9E%D1%80%D0%B8%D0%BA%D0%B0%D1%81%D0%B0,_%D0%90%D0%B9" title="Орикаса, Ай">Ай Орикаса</a><sup class="reference" id="cite_ref-annova_2-2"><a href="#cite_note-annova-2">[2]</a></sup>), всегда мечтавшая защищать свою страну, вызывалась добровольцем для экспериментальной программы по созданию оружия. Когда стало ясно, что возможности Мидзуки достигли своего максимума, выбрали Тисэ. Она обладала большим потенциалом, хоть и была психически неустойчива.<sup class="reference" id="cite_ref-annovareview_10-0"><a href="#cite_note-annovareview-10">[10]</a></sup> На протяжении OVA Мидзуки может слышать мысли Тисэ, что позволяет лучше понять чувства героини на протяжении всей истории.<sup class="reference" id="cite_ref-annovareview_10-1"><a href="#cite_note-annovareview-10">[10]</a></sup>
+</p>
+<h2><span id=".D0.9E.D1.82.D0.B7.D1.8B.D0.B2.D1.8B_.D0.B8_.D0.BA.D1.80.D0.B8.D1.82.D0.B8.D0.BA.D0.B0"></span><span class="mw-headline" id="Отзывы_и_критика">Отзывы и критика</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Saikano&amp;veaction=edit&amp;section=13" title="Редактировать раздел «Отзывы и критика»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Saikano&amp;action=edit&amp;section=13" title="Редактировать код раздела «Отзывы и критика»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Аниме и манга были встречены в целом положительно, при этом отмечалась схожесть с «<a href="/wiki/%D0%9C%D0%BE%D0%B3%D0%B8%D0%BB%D0%B0_%D1%81%D0%B2%D0%B5%D1%82%D0%BB%D1%8F%D1%87%D0%BA%D0%BE%D0%B2" title="Могила светлячков">Могилой светлячков</a>», «<a href="/wiki/%D0%95%D0%B2%D0%B0%D0%BD%D0%B3%D0%B5%D0%BB%D0%B8%D0%BE%D0%BD" title="Евангелион">Евангелионом</a>» и «<a href="/wiki/%D0%AD%D0%BA%D1%81%D0%BF%D0%B5%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D1%82%D1%8B_%D0%9B%D1%8D%D0%B9%D0%BD" title="Эксперименты Лэйн">Экспериментами Лэйн</a>».<sup class="reference" id="cite_ref-animaganime_11-0"><a href="#cite_note-animaganime-11">[11]</a></sup><sup class="reference" id="cite_ref-dvdtalk_12-0"><a href="#cite_note-dvdtalk-12">[12]</a></sup> Mania.com называет эту работу мощной и глубокой,<sup class="reference" id="cite_ref-mania4_7-1"><a href="#cite_note-mania4-7">[7]</a></sup> другой рецензент с того же сайта пишет, что хотя это произведение не является величайшим в своём жанре, оно производит сильное впечатление.<sup class="reference" id="cite_ref-mania1_13-0"><a href="#cite_note-mania1-13">[13]</a></sup> Особых комплиментов удостаиваются проработанные характеры второстепенных персонажей<sup class="reference" id="cite_ref-maniaultimate_8-1"><a href="#cite_note-maniaultimate-8">[8]</a></sup> и то, как правдиво показаны чувства главных героев<sup class="reference" id="cite_ref-mania1_13-1"><a href="#cite_note-mania1-13">[13]</a></sup>. MangaLife.com считает, что первые два тома манги очень хороши, но в дальнейшем история становится менее интересной,<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup> и что Saikano в первую очередь подходит зрителям, которые предпочитают грустные и трагические любовные истории.<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup> «АниМаг» критикует мангу за неоригинальность сюжетных ходов,<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup> а аниме — за «заштампованность» и банальность персонажей.<sup class="reference" id="cite_ref-animaganime_11-1"><a href="#cite_note-animaganime-11">[11]</a></sup> <a href="/wiki/Anime_News_Network" title="Anime News Network">Anime News Network</a> называет Saikano самым ожидаемым аниме <a href="/wiki/2004_%D0%B3%D0%BE%D0%B4" title="2004 год">2004 года</a>, хвалит великолепный сюжет и образы персонажей, но критикует неудачную игру <a href="/wiki/%D0%A1%D1%8D%D0%B9%D1%8E" title="Сэйю">актёров озвучивания</a>.<sup class="reference" id="cite_ref-saikanoreview_17-0"><a href="#cite_note-saikanoreview-17">[17]</a></sup>
+</p>
+<h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Примечания">Примечания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Saikano&amp;veaction=edit&amp;section=14" title="Редактировать раздел «Примечания»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Saikano&amp;action=edit&amp;section=14" title="Редактировать код раздела «Примечания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a class="external text" href="http://www.animenewsnetwork.com/press-release/2003-10-30/viz-acquires-saikano-anime-and-manga" rel="nofollow">Viz Acquires Saikano Anime and Manga</a></span> <span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>. <a href="/wiki/Anime_News_Network" title="Anime News Network">Anime News Network</a> (<a href="/wiki/30_%D0%BE%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8F" title="30 октября">30 октября</a> <a class="mw-redirect" href="/wiki/2003" title="2003">2003</a> год). Дата обращения: 12 ноября 2008. <a class="external text" href="https://web.archive.org/web/20070124152855/http://www.animenewsnetwork.com/press-release/2003-10-30/viz-acquires-saikano-anime-and-manga" rel="nofollow">Архивировано</a> 24 января 2007 года.</span></span>
+</li>
+<li id="cite_note-annova-2"><span class="mw-cite-backlink">↑ <a href="#cite_ref-annova_2-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-annova_2-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-annova_2-2"><sup><i><b>3</b></i></sup></a></span> <span class="reference-text"><span class="citation"><span lang="en"><a class="external text" href="http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4775" rel="nofollow">SaiKano: Another Love Song (OAV)</a></span> <span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>. <a href="/wiki/Anime_News_Network" title="Anime News Network">Anime News Network</a>. Дата обращения: 12 ноября 2008. <a class="external text" href="https://web.archive.org/web/20080914034932/http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4775" rel="nofollow">Архивировано</a> 14 сентября 2008 года.</span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><span class="citation"><span lang="ja"><a class="external text" href="https://web.archive.org/web/20110902075932/http://www.saikano-movie.com/" rel="nofollow">Официальный сайт фильма SaiKano</a></span> <span class="ref-info" style="cursor:help;" title="на японском языке">(яп.)</span>. Дата обращения: 12 февраля 2007. Архивировано из <a class="external text" href="http://www.saikano-movie.com/" rel="nofollow">оригинала</a> 2 сентября 2011 года.</span></span>
+</li>
+<li id="cite_note-trivia-4"><span class="mw-cite-backlink"><a href="#cite_ref-trivia_4-0">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a class="external text" href="http://www.animenewsnetwork.com/encyclopedia/anime.php?id=914&amp;page=22" rel="nofollow">SaiKano (TV): Trivia</a></span> <span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>. <a href="/wiki/Anime_News_Network" title="Anime News Network">Anime News Network</a>. Дата обращения: 12 ноября 2008. <a class="external text" href="https://web.archive.org/web/20080518221100/http://www.animenewsnetwork.com/encyclopedia/anime.php?id=914&amp;page=22" rel="nofollow">Архивировано</a> 18 мая 2008 года.</span></span>
+</li>
+<li id="cite_note-them-5"><span class="mw-cite-backlink"><a href="#cite_ref-them_5-0">↑</a></span> <span class="reference-text"><span class="citation"><i>Jeremy A Beard.</i> <span lang="en"><a class="external text" href="http://www.themanime.org/viewreview.php?id=517" rel="nofollow">SaiKano</a></span> <span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>. THEM Anime Reviews. Дата обращения: 12 ноября 2008. <a class="external text" href="https://www.webcitation.org/61CwGTGvy?url=http://www.themanime.org/viewreview.php?id=517" rel="nofollow">Архивировано</a> 25 августа 2011 года.</span></span>
+</li>
+<li id="cite_note-mangalife-6"><span class="mw-cite-backlink"><a href="#cite_ref-mangalife_6-0">↑</a></span> <span class="reference-text"><span class="citation"><i>Michael Aronson.</i> <span lang="en"><a class="external text" href="http://www.mangalife.com/reviews/SaikanoOVAAnotherLoveSongD.htm" rel="nofollow">Saikano OVA: Another Love Song (DVD)</a></span> <span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>. Manga Life. Дата обращения: 12 ноября 2008. <a class="external text" href="https://www.webcitation.org/64vpMSvSi?url=http://ww35.mangalife.com/reviews/SaikanoOVAAnotherLoveSongD.htm" rel="nofollow">Архивировано</a> 24 января 2012 года.</span></span>
+</li>
+<li id="cite_note-mania4-7"><span class="mw-cite-backlink">↑ <a href="#cite_ref-mania4_7-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-mania4_7-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="citation"><i>Luis Cruz.</i> <span lang="en"><a class="external text" href="https://www.webcitation.org/61CwHlnRf?url=http://www.mania.com/saikano-vol-4_article_76376.html" rel="nofollow">Saikano Vol. #4</a></span> <span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>. Mania.com (<a href="/wiki/17_%D0%BD%D0%BE%D1%8F%D0%B1%D1%80%D1%8F" title="17 ноября">17 ноября</a> <a class="mw-redirect" href="/wiki/2004" title="2004">2004</a> год). Дата обращения: 12 ноября 2008. Архивировано из <a class="external text" href="http://www.mania.com/saikano-vol-4_article_76376.html" rel="nofollow">оригинала</a> 25 августа 2011 года.</span></span>
+</li>
+<li id="cite_note-maniaultimate-8"><span class="mw-cite-backlink">↑ <a href="#cite_ref-maniaultimate_8-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-maniaultimate_8-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="citation"><i>Bryan Morton.</i> <span lang="en"><a class="external text" href="https://www.webcitation.org/61CwJ3TDP?url=http://www.mania.com/she-ultimate-weapon-vol-1_article_78302.html" rel="nofollow">She, The Ultimate Weapon Vol. #1</a></span> <span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>. Mania.com (<a href="/wiki/11_%D0%BC%D0%B0%D1%8F" title="11 мая">11 мая</a> <a class="mw-redirect" href="/wiki/2006" title="2006">2006</a> год). Дата обращения: 12 ноября 2008. Архивировано из <a class="external text" href="http://www.mania.com/she-ultimate-weapon-vol-1_article_78302.html" rel="nofollow">оригинала</a> 25 августа 2011 года.</span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>Clements, Jonathan, McCarthy, Helen.</i> The Anime Encyclopedia: A Guide to Japanese Animation Since 1917. — 2-е изд. — Stone Bridge Press, 2006. — С. 552. — 867 с. — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9781933330105">ISBN 978-1-93-333010-5</a>.</span></span>
+</li>
+<li id="cite_note-annovareview-10"><span class="mw-cite-backlink">↑ <a href="#cite_ref-annovareview_10-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-annovareview_10-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="citation"><i>Theron Martin.</i> <span lang="en"><a class="external text" href="http://www.animenewsnetwork.com/review/saikano-another-love-song/dvd" rel="nofollow">SaiKano: Another Love Song DVD - Review</a></span> <span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>. <a href="/wiki/Anime_News_Network" title="Anime News Network">Anime News Network</a> (<a href="/wiki/24_%D0%BC%D0%B0%D1%8F" title="24 мая">24 мая</a> <a class="mw-redirect" href="/wiki/2008" title="2008">2008</a> года). Дата обращения: 12 ноября 2008. <a class="external text" href="https://web.archive.org/web/20081006071810/http://www.animenewsnetwork.com/review/saikano-another-love-song/dvd" rel="nofollow">Архивировано</a> 6 октября 2008 года.</span></span>
+</li>
+<li id="cite_note-animaganime-11"><span class="mw-cite-backlink">↑ <a href="#cite_ref-animaganime_11-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-animaganime_11-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://web.archive.org/web/20120617110607/http://animemagazine.ru/19.03/review/index_04.html" rel="nofollow">Она - совершенное оружие</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. АниМаг (<a class="mw-redirect" href="/wiki/2004" title="2004">2004</a> год). Дата обращения: 12 ноября 2008. Архивировано из <a class="external text" href="http://www.animemagazine.ru/19.03/review/index_04.html" rel="nofollow">оригинала</a> 17 июня 2012 года.</span></span>
+</li>
+<li id="cite_note-dvdtalk-12"><span class="mw-cite-backlink"><a href="#cite_ref-dvdtalk_12-0">↑</a></span> <span class="reference-text"><span class="citation"><i>Todd Douglass Jr.</i> <span lang="en"><a class="external text" href="http://www.dvdtalk.com/reviews/20847/saikano-the-complete-box-set/" rel="nofollow">Saikano: The Complete Box Set</a></span> <span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>. DVD Talk (<a href="/wiki/15_%D0%BD%D0%BE%D1%8F%D0%B1%D1%80%D1%8F" title="15 ноября">15 ноября</a> <a class="mw-redirect" href="/wiki/2005" title="2005">2005</a> года). Дата обращения: 12 ноября 2008. <a class="external text" href="https://www.webcitation.org/61CwKmhsv?url=http://www.dvdtalk.com/reviews/20847/saikano-the-complete-box-set/" rel="nofollow">Архивировано</a> 25 августа 2011 года.</span></span>
+</li>
+<li id="cite_note-mania1-13"><span class="mw-cite-backlink">↑ <a href="#cite_ref-mania1_13-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-mania1_13-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="citation"><i>Luis Cruz.</i> <span lang="en"><a class="external text" href="https://www.webcitation.org/61CwLWKoW?url=http://www.mania.com/saikano-vol-1_article_75885.html" rel="nofollow">Saikano Vol. #1</a></span> <span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>. Mania.com (<a href="/wiki/28_%D0%B0%D0%BF%D1%80%D0%B5%D0%BB%D1%8F" title="28 апреля">28 апреля</a> <a class="mw-redirect" href="/wiki/2004" title="2004">2004</a> года). Дата обращения: 12 ноября 2008. Архивировано из <a class="external text" href="http://www.mania.com/saikano-vol-1_article_75885.html" rel="nofollow">оригинала</a> 25 августа 2011 года.</span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text"><span class="citation"><i>Michael Aronson.</i> <span lang="en"><a class="external text" href="http://www.mangalife.com/reviews/Saikanov7.htm" rel="nofollow">Saikano v7</a></span> <span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>. Manga Life. Дата обращения: 12 ноября 2008. <a class="external text" href="https://www.webcitation.org/64vpMwmBr?url=http://ww35.mangalife.com/reviews/Saikanov7.htm" rel="nofollow">Архивировано</a> 24 января 2012 года.</span></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text"><span class="citation"><i>Kat Collyns.</i> <span lang="en"><a class="external text" href="http://www.mangalife.com/reviews/Saikanov1Girlfriend.htm" rel="nofollow">Saikano v1: Girlfriend</a></span> <span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>. Manga Life. Дата обращения: 12 ноября 2008. <a class="external text" href="https://www.webcitation.org/64vpNMo4B?url=http://ww35.mangalife.com/reviews/Saikanov1Girlfriend.htm" rel="nofollow">Архивировано</a> 24 января 2012 года.</span></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text"><span class="citation"><i>Евгений Кан.</i> <span lang="und"><a class="external text" href="https://web.archive.org/web/20141225141745/http://www.animemagazine.ru/47.05/manga_01.php" rel="nofollow">Манга Обзор: Saikano</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. АниМаг (<a class="mw-redirect" href="/wiki/2007" title="2007">2007</a> год). Дата обращения: 12 ноября 2008. Архивировано из <a class="external text" href="http://www.animemagazine.ru/47.05/manga_01.php" rel="nofollow">оригинала</a> 25 декабря 2014 года.</span></span>
+</li>
+<li id="cite_note-saikanoreview-17"><span class="mw-cite-backlink"><a href="#cite_ref-saikanoreview_17-0">↑</a></span> <span class="reference-text"><span class="citation"><i>Christopher Macdonald.</i> <span lang="en"><a class="external text" href="http://www.animenewsnetwork.com/review/saikano" rel="nofollow">SaiKano - English Dub Preview</a></span> <span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>. <a href="/wiki/Anime_News_Network" title="Anime News Network">Anime News Network</a> (<a href="/wiki/14_%D0%B0%D0%BF%D1%80%D0%B5%D0%BB%D1%8F" title="14 апреля">14 апреля</a> <a class="mw-redirect" href="/wiki/2004" title="2004">2004</a> года). Дата обращения: 12 ноября 2008. <a class="external text" href="https://web.archive.org/web/20081024145432/http://www.animenewsnetwork.com/review/saikano" rel="nofollow">Архивировано</a> 24 октября 2008 года.</span></span>
+</li>
+</ol></div></div>
+<h2><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span><span class="mw-headline" id="Ссылки">Ссылки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Saikano&amp;veaction=edit&amp;section=15" title="Редактировать раздел «Ссылки»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Saikano&amp;action=edit&amp;section=15" title="Редактировать код раздела «Ссылки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="http://www.saikano.net/" rel="nofollow">Официальный сайт «Сайкано»</a> <small class="ref-info" style="cursor:help;" title="на японском языке">(яп.)</small></li>
+<li><a class="external text" href="http://www.saikano-usa.com/" rel="nofollow">Официальный сайт «Сайкано» в США</a> <a class="external text" href="https://web.archive.org/web/20070629110823/http://www.saikano-usa.com/" rel="nofollow">Архивная копия</a> от 29 июня 2007 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li></ul>
+<ul><li><a class="external text" href="https://www.animenewsnetwork.cc/encyclopedia/manga.php?id=2405" rel="nofollow">Манга «She, The Ultimate Weapon»</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small> в энциклопедии сайта <a href="/wiki/Anime_News_Network" title="Anime News Network">Anime News Network</a></li></ul>
+<ul><li><a class="external text" href="https://www.animenewsnetwork.cc/encyclopedia/anime.php?id=914" rel="nofollow">Аниме «Saikano»</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small> в энциклопедии сайта <a href="/wiki/Anime_News_Network" title="Anime News Network">Anime News Network</a></li>
+<li><a class="external text" href="https://anidb.net/perl-bin/animedb.pl?show=anime&amp;aid=113" rel="nofollow">Аниме «Saikano»</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small> в базе данных AniDB</li>
+<li class="mw-empty-elt"></li>
+<li><a class="external text" href="http://curlie.org/Arts/Animation/Anime/Titles/S/She,_The_Ultimate_Weapon/" rel="nofollow">She, The Ultimate Weapon</a> в каталоге ссылок <a href="/wiki/Open_Directory_Project" title="Open Directory Project">Curlie</a> (dmoz)</li></ul>
+<div aria-labelledby="Работы_аниме-студии_Gonzo" class="navbox" data-name="GONZO" role="navigation"><table class="nowraplinks hlist hlist-items-nowrap collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup" style="background:#bbc4e4"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:GONZO" title="Перейти к шаблону «GONZO»"><img alt="Перейти к шаблону «GONZO»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wikipedia_interwiki_section_gear_icon_white.svg/14px-Wikipedia_interwiki_section_gear_icon_white.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wikipedia_interwiki_section_gear_icon_white.svg/21px-Wikipedia_interwiki_section_gear_icon_white.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wikipedia_interwiki_section_gear_icon_white.svg/28px-Wikipedia_interwiki_section_gear_icon_white.svg.png 2x" width="14"/></a></span></span><div id="Работы_аниме-студии_Gonzo" style="font-size:114%;margin:0 5em">Работы <a href="/wiki/%D0%90%D0%BD%D0%B8%D0%BC%D0%B5" title="Аниме">аниме</a>-студии <a href="/wiki/Gonzo" title="Gonzo">Gonzo</a></div></th></tr><tr><td class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Black_Cat_(%D0%BC%D0%B0%D0%BD%D0%B3%D0%B0)" title="Black Cat (манга)">Black Cat</a></li>
+<li><a href="/wiki/Gravion" title="Gravion">Gravion</a></li>
+<li><a class="new" href="/w/index.php?title=Digigirl_Pop!_STRAWBERRY%26POP_MIX_FLAVOR&amp;action=edit&amp;redlink=1" title="Digigirl Pop! STRAWBERRY&amp;POP MIX FLAVOR (страница отсутствует)">Digigirl Pop! STRAWBERRY&amp;POP MIX FLAVOR</a></li>
+<li><a class="new" href="/w/index.php?title=Gadguard&amp;action=edit&amp;redlink=1" title="Gadguard (страница отсутствует)">Gadguard</a></li>
+<li><a href="/wiki/Gantz" title="Gantz">Gantz</a></li>
+<li><a class="new" href="/w/index.php?title=Garasu_no_Kantai&amp;action=edit&amp;redlink=1" title="Garasu no Kantai (страница отсутствует)">Garasu no Kantai</a></li>
+<li><a href="/wiki/Gate_Keepers" title="Gate Keepers">Gate Keepers</a></li>
+<li><a class="new" href="/w/index.php?title=Gatekeepers_21&amp;action=edit&amp;redlink=1" title="Gatekeepers 21 (страница отсутствует)">Gatekeepers 21</a></li>
+<li><a class="new" href="/w/index.php?title=GI_Joe:_Sigma_Six.&amp;action=edit&amp;redlink=1" title="GI Joe: Sigma Six. (страница отсутствует)">GI Joe: Sigma Six.</a></li>
+<li><a href="/wiki/Kaleido_Star" title="Kaleido Star">Kaleido Star</a></li>
+<li><a href="/wiki/Kiddy_Grade" title="Kiddy Grade">Kiddy Grade</a></li>
+<li><a href="/wiki/Welcome_to_the_N.H.K." title="Welcome to the N.H.K.">Welcome to the N.H.K.</a></li>
+<li><a class="new" href="/w/index.php?title=Peacemaker_Kurogane&amp;action=edit&amp;redlink=1" title="Peacemaker Kurogane (страница отсутствует)">Peacemaker Kurogane</a></li>
+<li><a href="/wiki/Real_Bout_High_School" title="Real Bout High School">Real Bout High School</a></li>
+<li><a class="mw-selflink selflink">Saikano</a></li>
+<li><a href="/wiki/SoltyRei" title="SoltyRei">SoltyRei</a></li>
+<li><a href="/wiki/Strike_Witches" title="Strike Witches">Strike Witches</a></li>
+<li><a href="/wiki/Transformers:_Cybertron" title="Transformers: Cybertron">Transformers: Cybertron</a></li>
+<li><a class="new" href="/w/index.php?title=Vandread,_the_Second_stage&amp;action=edit&amp;redlink=1" title="Vandread, the Second stage (страница отсутствует)">Vandread, the Second stage</a></li>
+<li><a href="/wiki/7_%D1%81%D0%B0%D0%BC%D1%83%D1%80%D0%B0%D0%B5%D0%B2" title="7 самураев">7 самураев</a></li>
+<li><a href="/wiki/%D0%90%D0%BD%D0%B3%D0%B5%D0%BB%D1%8B_%D1%81%D0%BC%D0%B5%D1%80%D1%82%D0%B8_(%D0%B0%D0%BD%D0%B8%D0%BC%D0%B5)" title="Ангелы смерти (аниме)">Ангелы смерти</a></li>
+<li><a href="/wiki/%D0%90%D1%84%D1%80%D0%BE%D1%81%D0%B0%D0%BC%D1%83%D1%80%D0%B0%D0%B9" title="Афросамурай">Афросамурай</a></li>
+<li><a href="/wiki/%D0%92%D0%B0%D0%BD%D0%B4%D1%80%D0%B5%D0%B4" title="Вандред">Вандред</a></li>
+<li><a href="/wiki/%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D1%81%D0%BA_(%D0%BC%D0%B0%D0%BD%D0%B3%D0%B0)" title="Василиск (манга)">Василиск</a></li>
+<li><a href="/wiki/%D0%93%D1%80%D0%B0%D1%84_%D0%9C%D0%BE%D0%BD%D1%82%D0%B5-%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%BE_(%D0%B0%D0%BD%D0%B8%D0%BC%D0%B5)" title="Граф Монте-Кристо (аниме)">Граф Монте-Кристо</a></li>
+<li><a href="/wiki/%D0%98%D0%B7%D0%B3%D0%BD%D0%B0%D0%BD%D0%BD%D0%B8%D0%BA_(%D0%B0%D0%BD%D0%B8%D0%BC%D0%B5)" title="Изгнанник (аниме)">Изгнанник</a></li>
+<li><a href="/wiki/%D0%9A%D0%BB%D0%B8%D0%BD%D0%BE%D0%BA_%D0%B2%D0%B5%D0%B4%D1%8C%D0%BC_(%D0%B0%D0%BD%D0%B8%D0%BC%D0%B5_%D0%B8_%D0%BC%D0%B0%D0%BD%D0%B3%D0%B0)" title="Клинок ведьм (аниме и манга)">Клинок ведьм</a></li>
+<li><a href="/wiki/%D0%9A%D1%80%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B9_%D0%BF%D0%BE%D1%85%D0%BE%D0%B4_%D0%A5%D1%80%D0%BE%D0%BD%D0%BE" title="Крестовый поход Хроно">Крестовый поход Хроно</a></li>
+<li><a href="/wiki/%D0%9A%D1%80%D0%BE%D0%B2%D1%8C_%D0%A2%D1%80%D0%B8%D0%B5%D0%B4%D0%B8%D0%BD%D1%81%D1%82%D0%B2%D0%B0" title="Кровь Триединства">Кровь Триединства</a></li>
+<li><a href="/wiki/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D1%8F%D1%8F_%D1%84%D0%B0%D0%BD%D1%82%D0%B0%D0%B7%D0%B8%D1%8F:_%D0%92%D1%81%D0%B5%D0%BC%D0%BE%D0%B3%D1%83%D1%89%D0%B8%D0%B9" title="Последняя фантазия: Всемогущий">Последняя фантазия: Всемогущий</a></li>
+<li><a href="/wiki/%D0%9F%D1%83%D1%81%D1%82%D1%8B%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BA%D1%80%D1%8B%D1%81%D0%B0" title="Пустынная крыса">Пустынная крыса</a></li>
+<li><a class="mw-redirect" href="/wiki/%D0%A1%D0%BE%D0%BB%D0%B4%D0%B0%D1%82%D1%8B_%D0%B1%D1%83%D0%B4%D1%83%D1%89%D0%B5%D0%B3%D0%BE" title="Солдаты будущего">Солдаты будущего</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D0%B4%D0%B3%D1%80%D0%B0%D1%84%D0%B5%D1%80" title="Спидграфер">Спидграфер</a></li>
+<li><a href="/wiki/%D0%A1%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%82%D1%80%D0%B5%D0%B2%D0%BE%D0%B3%D0%B0" title="Стальная тревога">Стальная тревога</a></li>
+<li><a href="/wiki/%D0%A5%D0%B5%D0%BB%D0%BB%D1%81%D0%B8%D0%BD%D0%B3" title="Хеллсинг">Хеллсинг</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐99c6548c6‐5dcbk
+Cached time: 20240228190243
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.371 seconds
+Real time usage: 0.481 seconds
+Preprocessor visited node count: 11124/1000000
+Post‐expand include size: 82790/2097152 bytes
+Template argument size: 20112/2097152 bytes
+Highest expansion depth: 21/100
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 19423/5000000 bytes
+Lua time usage: 0.096/10.000 seconds
+Lua memory usage: 4544134/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  400.306      1 -total
+ 24.47%   97.941      1 Шаблон:Infobox_animanga/Header
+ 24.10%   96.489      1 Шаблон:Примечания
+ 14.99%   59.998      2 Шаблон:Нет_АИ
+ 13.06%   52.273     16 Шаблон:Cite_web
+ 11.48%   45.951     13 Шаблон:Список_серий_аниме
+ 10.22%   40.909      1 Шаблон:Курсив_или_нет
+  8.01%   32.045      2 Шаблон:Сортировка:_статьи_без_источников
+  7.82%   31.285      6 Шаблон:Жанр
+  7.78%   31.130      3 Шаблон:Карточка/блок
+-->
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:81045-0!canonical and timestamp 20240228190243 and revision id 130456712. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> -->
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Saikano&amp;oldid=130456712">https://ru.wikipedia.org/w/index.php?title=Saikano&amp;oldid=130456712</a></div></div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%BD%D0%B8%D0%BC%D0%B5_%D0%B8_%D0%BC%D0%B0%D0%BD%D0%B3%D0%B0-%D0%B1%D0%BE%D0%B5%D0%B2%D0%B8%D0%BA%D0%B8" title="Категория:Аниме и манга-боевики">Аниме и манга-боевики</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%BD%D0%B8%D0%BC%D0%B5_%D0%B8_%D0%BC%D0%B0%D0%BD%D0%B3%D0%B0_%D0%B2_%D0%B6%D0%B0%D0%BD%D1%80%D0%B5_%D1%80%D0%BE%D0%BC%D0%B0%D0%BD%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B4%D1%80%D0%B0%D0%BC%D0%B0" title="Категория:Аниме и манга в жанре романтическая драма">Аниме и манга в жанре романтическая драма</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9D%D0%B0%D1%83%D1%87%D0%BD%D0%BE-%D1%84%D0%B0%D0%BD%D1%82%D0%B0%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%B0%D0%BD%D0%B8%D0%BC%D0%B5_%D0%B8_%D0%BC%D0%B0%D0%BD%D0%B3%D0%B0" title="Категория:Научно-фантастические аниме и манга">Научно-фантастические аниме и манга</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%BF%D0%BE%D0%BA%D0%B0%D0%BB%D0%B8%D0%BF%D1%82%D0%B8%D0%BA%D0%B0" title="Категория:Апокалиптика">Апокалиптика</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%BD%D0%B8%D0%BC%D0%B5_%D0%B8_%D0%BC%D0%B0%D0%BD%D0%B3%D0%B0_%D0%BE_%D1%81%D1%83%D0%BF%D0%B5%D1%80%D0%B3%D0%B5%D1%80%D0%BE%D1%8F%D1%85" title="Категория:Аниме и манга о супергероях">Аниме и манга о супергероях</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%BD%D0%B8%D0%BC%D0%B5_%D0%B8_%D0%BC%D0%B0%D0%BD%D0%B3%D0%B0_%D0%B4%D0%BB%D1%8F_%D0%BC%D1%83%D0%B6%D1%87%D0%B8%D0%BD" title="Категория:Аниме и манга для мужчин">Аниме и манга для мужчин</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9C%D0%B0%D0%BD%D0%B3%D0%B8" title="Категория:Манги">Манги</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%BD%D0%B8%D0%BC%D0%B5_2002_%D0%B3%D0%BE%D0%B4%D0%B0" title="Категория:Аниме 2002 года">Аниме 2002 года</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%BD%D0%B8%D0%BC%D0%B5-%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B" title="Категория:Аниме-сериалы">Аниме-сериалы</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9C%D1%83%D0%BB%D1%8C%D1%82%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Мультсериалы по алфавиту">Мультсериалы по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:OVA" title="Категория:OVA">OVA</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9C%D1%83%D0%BB%D1%8C%D1%82%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Мультфильмы по алфавиту">Мультфильмы по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:Gonzo" title="Категория:Gonzo">Gonzo</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9C%D0%B0%D0%BD%D0%B3%D0%B0_1999_%D0%B3%D0%BE%D0%B4%D0%B0" title="Категория:Манга 1999 года">Манга 1999 года</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%BD%D0%B8%D0%BC%D0%B5_2005_%D0%B3%D0%BE%D0%B4%D0%B0" title="Категория:Аниме 2005 года">Аниме 2005 года</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D0%B8%D1%82%D1%8C_webcitation-%D0%B0%D1%80%D1%85%D0%B8%D0%B2:_deadlink_no)" title="Категория:Википедия:Cite web (заменить webcitation-архив: deadlink no)">Википедия:Cite web (заменить webcitation-архив: deadlink no)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D0%B8%D1%82%D1%8C_webcitation-%D0%B0%D1%80%D1%85%D0%B8%D0%B2:_deadlink_yes)" title="Категория:Википедия:Cite web (заменить webcitation-архив: deadlink yes)">Википедия:Cite web (заменить webcitation-архив: deadlink yes)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%BD%D0%B5_%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD_%D1%8F%D0%B7%D1%8B%D0%BA)" title="Категория:Википедия:Cite web (не указан язык)">Википедия:Cite web (не указан язык)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B,_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D0%B2%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_ISBN" title="Категория:Страницы, использующие волшебные ссылки ISBN">Страницы, использующие волшебные ссылки ISBN</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D0%B2%D0%B8%D0%BA%D0%B8-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%BE%D0%B9_%D0%B2_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%BA%D0%B0%D1%80%D1%82%D0%BE%D1%87%D0%BA%D0%B8" title="Категория:Википедия:Статьи с вики-разметкой в изображении карточки">Википедия:Статьи с вики-разметкой в изображении карточки</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%A0%D0%9E:%D0%90%D0%98%D0%9C:%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D1%8F%D1%8F_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:_%D0%B2_%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%BE%D0%BC_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:ПРО:АИМ:Последняя правка: в прошлом году">ПРО:АИМ:Последняя правка: в прошлом году</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%B1%D0%B5%D0%B7_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_(%D0%BD%D0%B5_%D1%80%D0%B0%D1%81%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D0%BE_%D1%82%D0%B8%D0%BF%D0%B0%D0%BC)" title="Категория:Википедия:Статьи без источников (не распределённые по типам)">Википедия:Статьи без источников (не распределённые по типам)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9D%D0%B5%D1%82_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D1%81_%D0%B0%D0%B2%D0%B3%D1%83%D1%81%D1%82%D0%B0_2021" title="Категория:Википедия:Нет источников с августа 2021">Википедия:Нет источников с августа 2021</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D1%83%D1%82%D0%B2%D0%B5%D1%80%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%D0%BC%D0%B8_%D0%B1%D0%B5%D0%B7_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%B1%D0%BE%D0%BB%D0%B5%D0%B5_14_%D0%B4%D0%BD%D0%B5%D0%B9" title="Категория:Википедия:Статьи с утверждениями без источников более 14 дней">Википедия:Статьи с утверждениями без источников более 14 дней</a></li></ul></div></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Навигация</h2>
+<div id="mw-head">
+<nav aria-labelledby="p-personal-label" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" id="p-personal" role="navigation">
+<h3 class="vector-menu-heading" id="p-personal-label">
+<span class="vector-menu-heading-label">Персональные инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="pt-anonuserpage"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li class="mw-list-item" id="pt-anontalk"><a accesskey="n" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]"><span>Обсуждение</span></a></li><li class="mw-list-item" id="pt-anoncontribs"><a accesskey="y" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]"><span>Вклад</span></a></li><li class="mw-list-item" id="pt-createaccount"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=Saikano" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li class="mw-list-item" id="pt-login"><a accesskey="o" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=Saikano" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]"><span>Войти</span></a></li>
+</ul>
+</div>
+</nav>
+<div id="left-navigation">
+<nav aria-labelledby="p-namespaces-label" class="mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-namespaces" role="navigation">
+<h3 class="vector-menu-heading" id="p-namespaces-label">
+<span class="vector-menu-heading-label">Пространства имён</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-nstab-main"><a accesskey="c" href="/wiki/Saikano" title="Просмотреть контентную страницу [c]"><span>Статья</span></a></li><li class="mw-list-item" id="ca-talk"><a accesskey="t" href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:Saikano" rel="discussion" title="Обсуждение основной страницы [t]"><span>Обсуждение</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-variants-label" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" id="p-variants" role="navigation">
+<input aria-haspopup="true" aria-labelledby="p-variants-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-variants" id="p-variants-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-variants-label">
+<span class="vector-menu-heading-label">русский</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+</div>
+<div id="right-navigation">
+<nav aria-labelledby="p-views-label" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-views" role="navigation">
+<h3 class="vector-menu-heading" id="p-views-label">
+<span class="vector-menu-heading-label">Просмотры</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="ca-view"><a href="/w/index.php?title=Saikano&amp;stable=1"><span>Читать</span></a></li><li class="collapsible selected mw-list-item" id="ca-current"><a accesskey="v" href="/w/index.php?title=Saikano&amp;stable=0&amp;redirect=no" title="Показать текущую версию этой страницы [v]"><span>Текущая версия</span></a></li><li class="mw-list-item" id="ca-ve-edit"><a accesskey="v" href="/w/index.php?title=Saikano&amp;veaction=edit" title="Редактировать данную страницу [v]"><span>Править</span></a></li><li class="collapsible mw-list-item" id="ca-edit"><a accesskey="e" href="/w/index.php?title=Saikano&amp;action=edit" title="Править исходный текст этой страницы [e]"><span>Править код</span></a></li><li class="mw-list-item" id="ca-history"><a accesskey="h" href="/w/index.php?title=Saikano&amp;action=history" title="Журнал изменений страницы [h]"><span>История</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-cactions-label" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" id="p-cactions" role="navigation" title="Больше возможностей">
+<input aria-haspopup="true" aria-labelledby="p-cactions-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-cactions" id="p-cactions-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-cactions-label">
+<span class="vector-menu-heading-label">Ещё</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+<div class="vector-search-box-vue vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box" id="p-search" role="search">
+<h3>Поиск</h3>
+<form action="/w/index.php" class="vector-search-box-form" id="searchform">
+<div class="vector-search-box-inner" data-search-loc="header-navigation" id="simpleSearch">
+<input accesskey="f" aria-label="Искать в Википедии" autocapitalize="sentences" class="vector-search-box-input" id="searchInput" name="search" placeholder="Искать в Википедии" title="Искать в Википедии [f]" type="search"/>
+<input name="title" type="hidden" value="Служебная:Поиск"/>
+<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Найти страницы, содержащие указанный текст" type="submit" value="Найти"/>
+<input class="searchButton" id="searchButton" name="go" title="Перейти к странице, имеющей в точности такое название" type="submit" value="Перейти"/>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="vector-legacy-sidebar" id="mw-panel">
+<div id="p-logo" role="banner">
+<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу"></a>
+</div>
+<nav aria-labelledby="p-navigation-label" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" id="p-navigation" role="navigation">
+<h3 class="vector-menu-heading" id="p-navigation-label">
+<span class="vector-menu-heading-label">Навигация</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-mainpage-description"><a accesskey="z" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]"><span>Заглавная страница</span></a></li><li class="mw-list-item" id="n-content"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li class="mw-list-item" id="n-featured"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li class="mw-list-item" id="n-randompage"><a accesskey="x" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]"><span>Случайная статья</span></a></li><li class="mw-list-item" id="n-currentevents"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li class="mw-list-item" id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-participation-label" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" id="p-participation" role="navigation">
+<h3 class="vector-menu-heading" id="p-participation-label">
+<span class="vector-menu-heading-label">Участие</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-bug_in_article"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li class="mw-list-item" id="n-introduction"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li class="mw-list-item" id="n-portal"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li class="mw-list-item" id="n-forum"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li class="mw-list-item" id="n-recentchanges"><a accesskey="r" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]"><span>Свежие правки</span></a></li><li class="mw-list-item" id="n-newpages"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li class="mw-list-item" id="n-help"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-tb-label" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" id="p-tb" role="navigation">
+<h3 class="vector-menu-heading" id="p-tb-label">
+<span class="vector-menu-heading-label">Инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="t-whatlinkshere"><a accesskey="j" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/Saikano" title="Список всех страниц, ссылающихся на данную [j]"><span>Ссылки сюда</span></a></li><li class="mw-list-item" id="t-recentchangeslinked"><a accesskey="k" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/Saikano" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]"><span>Связанные правки</span></a></li><li class="mw-list-item" id="t-specialpages"><a accesskey="q" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]"><span>Служебные страницы</span></a></li><li class="mw-list-item" id="t-permalink"><a href="/w/index.php?title=Saikano&amp;oldid=130456712" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li class="mw-list-item" id="t-info"><a href="/w/index.php?title=Saikano&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li class="mw-list-item" id="t-cite"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=Saikano&amp;id=130456712&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li class="mw-list-item" id="t-urlshortener"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2FSaikano"><span>Получить короткий URL</span></a></li><li class="mw-list-item" id="t-urlshortener-qrcode"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2FSaikano"><span>Скачать QR-код</span></a></li><li class="mw-list-item" id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q95035" title="Ссылка на связанный элемент репозитория данных [g]"><span>Элемент Викиданных</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-coll-print_export-label" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" id="p-coll-print_export" role="navigation">
+<h3 class="vector-menu-heading" id="p-coll-print_export-label">
+<span class="vector-menu-heading-label">Печать/экспорт</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="coll-download-as-rl"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=Saikano&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li class="mw-list-item" id="t-print"><a accesskey="p" href="/w/index.php?title=Saikano&amp;printable=yes" title="Версия этой страницы для печати [p]"><span>Версия для печати</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-wikibase-otherprojects-label" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal vector-menu" id="p-wikibase-otherprojects" role="navigation">
+<h3 class="vector-menu-heading" id="p-wikibase-otherprojects-label">
+<span class="vector-menu-heading-label">В других проектах</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Saikano" hreflang="en"><span>Викисклад</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-lang-label" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" id="p-lang" role="navigation">
+<h3 class="vector-menu-heading" id="p-lang-label">
+<span class="vector-menu-heading-label">На других языках</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="interlanguage-link interwiki-bat-smg mw-list-item"><a class="interlanguage-link-target" href="https://bat-smg.wikipedia.org/wiki/Saikano" hreflang="sgs" lang="sgs" title="Saikano — Samogitian"><span>Žemaitėška</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/She,_The_Ultimate_Weapon" hreflang="de" lang="de" title="She, The Ultimate Weapon — немецкий"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a class="interlanguage-link-target" href="https://en.wikipedia.org/wiki/Saikano" hreflang="en" lang="en" title="Saikano — английский"><span>English</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Saikano" hreflang="es" lang="es" title="Saikano — испанский"><span>Español</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Larme_ultime" hreflang="fr" lang="fr" title="Larme ultime — французский"><span>Français</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Lei,_l%27arma_finale" hreflang="it" lang="it" title="Lei, l'arma finale — итальянский"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E6%9C%80%E7%B5%82%E5%85%B5%E5%99%A8%E5%BD%BC%E5%A5%B3" hreflang="ja" lang="ja" title="最終兵器彼女 — японский"><span>日本語</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%B5%9C%EC%A2%85%EB%B3%91%EA%B8%B0_%EA%B7%B8%EB%85%80" hreflang="ko" lang="ko" title="최종병기 그녀 — корейский"><span>한국어</span></a></li><li class="interlanguage-link interwiki-lt mw-list-item"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Saikano" hreflang="lt" lang="lt" title="Saikano — литовский"><span>Lietuvių</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Saish%C5%AB_heiki_kanojo" hreflang="pl" lang="pl" title="Saishū heiki kanojo — польский"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Saikano" hreflang="pt" lang="pt" title="Saikano — португальский"><span>Português</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Saikano" hreflang="sv" lang="sv" title="Saikano — шведский"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-th mw-list-item"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/Saikano_%E0%B8%AD%E0%B8%B2%E0%B8%A7%E0%B8%B8%E0%B8%98%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B9%80%E0%B8%98%E0%B8%AD" hreflang="th" lang="th" title="Saikano อาวุธสุดท้ายคือเธอ — тайский"><span>ไทย</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E6%9C%80%E7%BB%88%E5%85%B5%E5%99%A8%E5%B0%91%E5%A5%B3" hreflang="zh" lang="zh" title="最终兵器少女 — китайский"><span>中文</span></a></li>
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q95035#sitelinks-wikipedia" title="Править ссылки на другие языки">Править ссылки</a></span></div>
+</div>
+</nav>
+</div>
+</div>
+<footer class="mw-footer" id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 15 мая 2023 в 18:30.</li>
+<li id="footer-info-copyright">Текст доступен по <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru" rel="license">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a><a href="//creativecommons.org/licenses/by-sa/4.0/" rel="license" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br/>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org/ru/">Фонд Викимедиа (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//ru.m.wikipedia.org/w/index.php?title=Saikano&amp;mobileaction=toggle_view_mobile">Мобильная версия</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" loading="lazy" src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88"/></a></li>
+<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" loading="lazy" src="/static/images/footer/poweredby_mediawiki_88x31.png" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88"/></a></li>
+</ul>
+</footer>
+
+
+</body>
+</html>

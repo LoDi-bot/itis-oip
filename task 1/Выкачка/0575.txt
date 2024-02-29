@@ -1,0 +1,499 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="ru">
+<head>
+<meta charset="utf-8"/>
+<title>Статистика запросов — Википедия</title>
+
+
+
+
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+
+
+<meta content="MediaWiki 1.42.0-wmf.19" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="max-image-preview:standard" name="robots"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="width=1000" name="viewport"/>
+<meta content="Статистика запросов — Википедия" property="og:title"/>
+<meta content="website" property="og:type"/>
+
+
+
+
+
+
+
+
+
+
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Статистика_запросов rootpage-Статистика_запросов skin-vector action-view"><div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators">
+</div>
+<h1 class="firstHeading mw-first-heading" id="firstHeading"><span class="mw-page-title-main">Статистика запросов</span></h1>
+<div class="vector-body" id="bodyContent">
+<div class="noprint" id="siteSub">Материал из Википедии — свободной энциклопедии</div>
+<div id="contentSub"><div id="mw-content-subtitle"><div class="plainlinks flaggedrevs_preview" id="mw-fr-reviewnotice">Текущая версия страницы пока <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9/%D0%9F%D0%BE%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BB%D1%8F_%D1%87%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9" title="Википедия:Проверка статей/Пояснение для читателей">не проверялась</a> опытными участниками и может значительно отличаться от <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0_%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2&amp;stable=1">версии</a>, проверенной 9 февраля 2017 года; проверки требуют <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0_%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2&amp;oldid=83576820&amp;diff=cur&amp;diffonly=0">15 правок</a>.</div><div class="flaggedrevs_short flaggedrevs_draft_notsynced plainlinks noprint" id="mw-fr-revisiontag"><div class="flaggedrevs_short_basic"><span class="flaggedrevs-icon oo-ui-widget oo-ui-widget-enabled oo-ui-iconElement-icon oo-ui-icon-block oo-ui-iconElement oo-ui-labelElement-invisible oo-ui-iconWidget" title="Текущая версия"></span><span class="fr-toggle-arrow oo-ui-widget oo-ui-widget-enabled oo-ui-indicatorElement-indicator oo-ui-indicator-down oo-ui-indicatorElement oo-ui-labelElement-invisible oo-ui-indicatorWidget" id="mw-fr-revisiontoggle" title="показать/скрыть подробности"></span></div>
+<div id="mw-fr-revisiondetails-wrapper" style="position:relative;"><div class="flaggedrevs_short_details" id="mw-fr-revisiondetails" style="display:none">Текущая версия страницы пока <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9/%D0%9F%D0%BE%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BB%D1%8F_%D1%87%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9" title="Википедия:Проверка статей/Пояснение для читателей">не проверялась</a> опытными участниками и может значительно отличаться от <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0_%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2&amp;stable=1">версии</a>, проверенной 9 февраля 2017 года; проверки требуют <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0_%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2&amp;oldid=83576820&amp;diff=cur&amp;diffonly=0">15 правок</a>.</div>
+</div>
+</div>
+</div></div>
+<div id="contentSub2"></div>
+<div id="jump-to-nav"></div>
+<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+<div class="mw-body-content" id="mw-content-text"><div class="mw-content-ltr mw-parser-output" dir="ltr" lang="ru"><table style="float:right;border:1px solid #E0E0E0;background:#FCFCFC;font-size:smaller;margin:0em 0em 0.5em 1em;">
+<tbody><tr>
+<td colspan="2">Что ещё искали со словом <b>«Википедия»</b> — 45926 показов в месяц.
+</td></tr>
+<tr style="background:#EEEEEE;">
+<td><a href="##">Википедия</a></td>
+<td>45296
+</td></tr>
+<tr>
+<td><a href="##">сайт Википедия</a></td>
+<td>28
+</td></tr>
+<tr style="background:#EEEEEE;">
+<td><a href="##">энциклопедия Википедия</a></td>
+<td>248
+</td></tr>
+<tr>
+<td><a href="##">языки Википедия</a></td>
+<td>75
+</td></tr>
+<tr style="background:#EEEEEE;">
+<td><a href="##">Россия Википедия</a></td>
+<td>69
+</td></tr>
+<tr>
+<td><a href="##">Википедия история</a></td>
+<td>62
+</td></tr>
+<tr style="background:#EEEEEE;">
+<td><a href="##">русская Википедия</a></td>
+<td>62
+</td></tr>
+<tr>
+<td colspan="2">Пример отчёта <a href="/wiki/%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81" title="Яндекс">Яндекса</a> по статистике запросов
+</td></tr></tbody></table>
+<table class="mbox-Обновить plainlinks metadata ambox ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><span><img alt="" class="mw-file-element" data-file-height="620" data-file-width="620" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ambox_outdated_serious.svg/40px-Ambox_outdated_serious.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ambox_outdated_serious.svg/60px-Ambox_outdated_serious.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ambox_outdated_serious.svg/80px-Ambox_outdated_serious.svg.png 2x" width="40"/></span></span></div></td><td class="mbox-text"><div class="mbox-text-div">Информация в этой статье или некоторых её разделах <b>устарела</b>.</div><div class="mbox-textsmall-div hide-when-compact" style="font-size:85%"><span class="hide-when-compact"> Вы можете помочь проекту, <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0_%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2&amp;action=edit">обновив её</a> и убрав после этого данный шаблон.</span></div></td></tr></tbody></table>
+<p><b>Статистика запросов</b> — информация об обращениях <a href="/wiki/%D0%9F%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C" title="Пользователь">пользователей</a> к <a href="/wiki/%D0%9F%D0%BE%D0%B8%D1%81%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0" title="Поисковая система">поисковой системе</a> по «ключевым словам». В большинстве случаев при работе с <a href="/wiki/%D0%92%D0%B5%D0%B1-%D1%81%D0%BB%D1%83%D0%B6%D0%B1%D0%B0" title="Веб-служба">сервисом</a> <a href="/wiki/%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0" title="Статистика">статистики</a> имеется возможность отсеивать результаты по географии или даже по отдельно взятому языку, а иногда и по месяцам. При этом, обычно, сервис показывает не только данные об искомом запросе, но также и о словосочетаниях, <a href="/wiki/%D0%A1%D0%B8%D0%BD%D0%BE%D0%BD%D0%B8%D0%BC%D1%8B" title="Синонимы">синонимах</a> и близких темах («ищут также»).
+</p>
+<div aria-labelledby="mw-toc-heading" class="toc" id="toc" role="navigation"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="ru"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Область_применения"><span class="tocnumber">1</span> <span class="toctext">Область применения</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Особенности"><span class="tocnumber">2</span> <span class="toctext">Особенности</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Рунет"><span class="tocnumber">3</span> <span class="toctext">Рунет</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Яндекс"><span class="tocnumber">3.1</span> <span class="toctext">Яндекс</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Rambler"><span class="tocnumber">3.2</span> <span class="toctext">Rambler</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Другие"><span class="tocnumber">3.3</span> <span class="toctext">Другие</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Мировой_интернет"><span class="tocnumber">4</span> <span class="toctext">Мировой интернет</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Google_poop,Fire_FOX_TOP"><span class="tocnumber">4.1</span> <span class="toctext">Google poop,Fire FOX TOP</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Yahoo"><span class="tocnumber">4.2</span> <span class="toctext">Yahoo</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Другие_2"><span class="tocnumber">4.3</span> <span class="toctext">Другие</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#См._также"><span class="tocnumber">5</span> <span class="toctext">См. также</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Примечания"><span class="tocnumber">6</span> <span class="toctext">Примечания</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Литература"><span class="tocnumber">7</span> <span class="toctext">Литература</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Ссылки"><span class="tocnumber">8</span> <span class="toctext">Ссылки</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Википедия_не_является_каталогом_ссылок"><span class="tocnumber">9</span> <span class="toctext">Википедия не является каталогом ссылок</span></a></li>
+</ul>
+</div>
+<h2><span id=".D0.9E.D0.B1.D0.BB.D0.B0.D1.81.D1.82.D1.8C_.D0.BF.D1.80.D0.B8.D0.BC.D0.B5.D0.BD.D0.B5.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Область_применения">Область применения</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0_%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2&amp;veaction=edit&amp;section=1" title="Редактировать раздел «Область применения»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0_%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2&amp;action=edit&amp;section=1" title="Редактировать код раздела «Область применения»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Статистика <a href="/wiki/%D0%9F%D0%BE%D0%B8%D1%81%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0" title="Поисковая система">поисковых систем</a> — предмет профессионального интереса самых разных групп пользователей, но, прежде всего, она может быть полезна для рекламодателей, создателей интернет-ресурсов и лингвистов<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup>.
+</p>
+<table style="float:right;border:1px solid #E0E0E0;background:#FCFCFC;font-size:smaller;margin:0em 0em 0.5em 1em;">
+<tbody><tr>
+<td colspan="2">Что ещё искали люди, искавшие <b>«любовь»</b>:
+</td></tr>
+<tr style="background:#EEEEEE;">
+<td><a href="##">*оригинальные признания в любви</a></td>
+<td>309
+</td></tr>
+<tr>
+<td><a href="##">*признания в любви</a></td>
+<td>27295
+</td></tr>
+<tr style="background:#EEEEEE;">
+<td><a href="##">*вечную и искреннюю любовь</a></td>
+<td>1
+</td></tr>
+<tr>
+<td><a href="##">валентинки</a></td>
+<td>10468
+</td></tr>
+<tr style="background:#EEEEEE;">
+<td><a href="##">сердечки</a></td>
+<td>75
+</td></tr>
+<tr>
+<td><a href="##">k jdm</a></td>
+<td>1210
+</td></tr>
+<tr style="background:#EEEEEE;">
+<td><a href="##">кчанбэ</a></td>
+<td>12853
+</td></tr>
+<tr>
+<td><a href="##">выкуп невесты</a></td>
+<td>10004
+</td></tr>
+<tr style="background:#EEEEEE;">
+<td colspan="2">Что ещё искали люди, искавшие «любовь», по версии Яндекса
+</td></tr></tbody></table>
+<p>Потенциальному рекламодателю она позволяет подобрать наиболее заинтересованных клиентов путём выбора наиболее релевантных продаваемому товару или услуге поисковых запросов. Благодаря этому, <a href="/wiki/%D0%9A%D0%BE%D0%BD%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%BD%D0%B0%D1%8F_%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D0%B0" title="Контекстная реклама">контекстная реклама</a> в поисковых системах на сегодня является одним из самых дешёвых и эффективных видов <a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5" title="Продвижение">продвижения товаров</a> и услуг, поскольку не приходится переплачивать за нетематического читателя, как это зачастую происходит при рекламе в традиционных СМИ (телевидении и газетах), где аудитория, как правило, достаточно широка и разнообразна, и не представляется возможным сфокусироваться лишь на нужном её сегменте<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup>.
+</p><p>Статистика поисковых систем также входит в обязательный набор инструментов, используемых профессиональными <a href="/wiki/%D0%92%D0%B5%D0%B1-%D0%BC%D0%B0%D1%81%D1%82%D0%B5%D1%80" title="Веб-мастер">вебмастерами</a> и редакторами сайтов, и является неотъемлемым элементом т. н. «<a href="/wiki/%D0%91%D0%B5%D0%BB%D0%B0%D1%8F_%D0%BE%D0%BF%D1%82%D0%B8%D0%BC%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F" title="Белая оптимизация">белой оптимизации</a>», которая, в отличие от «<a class="mw-redirect" href="/wiki/%D0%A7%D1%91%D1%80%D0%BD%D0%B0%D1%8F_%D0%BE%D0%BF%D1%82%D0%B8%D0%BC%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F" title="Чёрная оптимизация">чёрной оптимизации</a>», не старается использовать несовершенство поисковиков, а ставит своей целью увеличить посещаемость интернет-ресурса за счёт приближения к реальным потребностям среднего пользователя или отдельной группы потребителей информации, товаров или услуг.
+</p><p>Для <a class="mw-redirect" href="/wiki/%D0%AF%D0%B7%D1%8B%D0%BA%D0%BE%D0%B2%D0%B5%D0%B4" title="Языковед">языковедов</a> статистика запросов фактически представляет собой <a href="/wiki/%D0%9A%D0%BE%D1%80%D0%BF%D1%83%D1%81%D0%BD%D0%B0%D1%8F_%D0%BB%D0%B8%D0%BD%D0%B3%D0%B2%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0" title="Корпусная лингвистика">корпус языка</a>, зачастую позволяющий проводить исследования, которые невозможно провести никаким другим способом. Так, к примеру, подобного рода статистика является наиболее доступным источником современного языка, в отличие от анализа поисковых результатов, результаты которого могут лишь приблизительно говорить о текущем словоупотреблении, в силу того, что в интернете сосуществуют тексты самой различной степени древности, в том числе и прошлого, и позапрошлого веков. Кроме того, корпус запросов к поисковой системе считается одним из наиболее репрезентативных источников <a href="/wiki/%D0%96%D0%B8%D0%B2%D0%BE%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Живой язык">живого языка</a><sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup><sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup>.
+</p><p>Кроме того, немалый интерес представляет статистика запросов для <a class="mw-redirect" href="/wiki/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D1%8B" title="Государственные органы">государственных органов</a>. Так, например, власти США в судебном порядке, обязали поисковые системы <a href="/wiki/AOL" title="AOL">America Online</a>, <a href="/wiki/MSN" title="MSN">MSN</a>, <a href="/wiki/Yahoo!" title="Yahoo!">Yahoo</a> и <a href="/wiki/Google_(%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0)" title="Google (поисковая система)">Google</a> предоставлять им доступ к подробной статистике (причём последний отказался это делать)<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup>. Как заявили представители власти, информация о поисковых запросах необходима им лишь с целью контроля за <a href="/wiki/%D0%9F%D0%BE%D1%80%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F" title="Порнография">распространением порнографии</a> в интернете, а совсем не для того, чтобы установить тотальную слежку за своими гражданами.
+</p>
+<h2><span id=".D0.9E.D1.81.D0.BE.D0.B1.D0.B5.D0.BD.D0.BD.D0.BE.D1.81.D1.82.D0.B8"></span><span class="mw-headline" id="Особенности">Особенности</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0_%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Особенности»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0_%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2&amp;action=edit&amp;section=2" title="Редактировать код раздела «Особенности»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>В большинстве случаев поисковики предоставляют статистику в несколько упрощенной форме. Например, сервис <a href="/wiki/%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81" title="Яндекс">Яндекса</a> обобщает все <a href="/wiki/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%B0" title="Словоформа">словоформы</a> (мн. и ед. число, падежи), опускает <a href="/wiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B3" title="Предлог">предлоги</a> (за, на, под и т. д.) и вопросительные формы (что, когда, как и т. п.). То есть при помощи Яндекса нельзя будет узнать, к примеру, что ищут чаще: ед. число «Дом» или мн. «Дома», а только общее количество запросов по всем словоформам конкретного единичного слова<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup><sup class="ts-fix-template">[<i><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D1%8F%D0%B5%D0%BC%D0%BE%D1%81%D1%82%D1%8C#Бремя_доказательства" title="Википедия:Проверяемость"><span title="информация нуждается в подтверждении авторитетными источниками">уточнить</span></a></i>]</sup>.
+</p><p><a href="/wiki/%D0%A0%D0%B0%D0%BC%D0%B1%D0%BB%D0%B5%D1%80" title="Рамблер">Рамблер</a> в этом плане более точен, и его отчёты, по умолчанию, выдают сочетания запросов, в том виде, в котором их ввел в строку поиска пользователь. Для выдачи отчёта, подобного отчету Яндекса, в Рамблере предусмотрен язык запросов. Например, для получения всех словоформ от слова «Дерево» необходимо будет ввести «Дерев*»<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup>.
+</p><p>Интересной особенностью, по сравнению с другими сервисами статистики, обладает статистика <a href="/wiki/Google_(%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0)" title="Google (поисковая система)">Google</a>. Помимо стандартного набора отчетов, у него существует также отчет о «средней цене запроса» (Estimated Avg. CPC)<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup>. <a href="/wiki/%D0%9F%D0%BE%D0%B8%D1%81%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0" title="Поисковая система">Поисковая система</a> выдает информацию о стоимости, которую должен будет заплатить рекламодатель за каждый клик по его рекламе, в рамках выбранного «ключевого слова». Так, к примеру, стоимость единичного клика по запросу <a class="mw-redirect" href="/wiki/Britney_Spears" title="Britney Spears">Britney Spears</a> на начало <a class="mw-redirect" href="/wiki/2007" title="2007">2007</a> — 35 центов. Но в то же время большинство дорогих запросов (от 5 <a href="/wiki/%D0%94%D0%BE%D0%BB%D0%BB%D0%B0%D1%80_%D0%A1%D0%A8%D0%90" title="Доллар США">долларов</a> и выше — за клик) не являются массовыми и популярными.
+</p><p>Следует отметить, что поисковые системы (по их собственным заверениям) не продают места в результатах поиска<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup>: речь идет лишь о <a href="/wiki/%D0%9A%D0%BE%D0%BD%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%BD%D0%B0%D1%8F_%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D0%B0" title="Контекстная реклама">контекстной рекламе</a>, которая размещена отдельно от самих результатов (обычно справа) или на сайтах партнёрской сети.
+</p>
+<h2><span id=".D0.A0.D1.83.D0.BD.D0.B5.D1.82"></span><span class="mw-headline" id="Рунет">Рунет</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0_%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2&amp;veaction=edit&amp;section=3" title="Редактировать раздел «Рунет»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0_%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2&amp;action=edit&amp;section=3" title="Редактировать код раздела «Рунет»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id=".D0.AF.D0.BD.D0.B4.D0.B5.D0.BA.D1.81"></span><span class="mw-headline" id="Яндекс">Яндекс</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0_%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2&amp;veaction=edit&amp;section=4" title="Редактировать раздел «Яндекс»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0_%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2&amp;action=edit&amp;section=4" title="Редактировать код раздела «Яндекс»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="mbox-Обновить plainlinks metadata ambox ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><span><img alt="" class="mw-file-element" data-file-height="620" data-file-width="620" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ambox_outdated_serious.svg/40px-Ambox_outdated_serious.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ambox_outdated_serious.svg/60px-Ambox_outdated_serious.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ambox_outdated_serious.svg/80px-Ambox_outdated_serious.svg.png 2x" width="40"/></span></span></div></td><td class="mbox-text"><div class="mbox-text-div">Информация в этом разделе <b>устарела</b>.</div><div class="mbox-textsmall-div hide-when-compact" style="font-size:85%"><span class="hide-when-compact"> Вы можете помочь проекту, <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0_%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2&amp;action=edit">обновив её</a> и убрав после этого данный шаблон.</span></div></td></tr></tbody></table>
+<p>Поисковая система <a href="/wiki/%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81" title="Яндекс">Яндекс</a> начала исследовать русский интернет ещё в <a href="/wiki/1998_%D0%B3%D0%BE%D0%B4" title="1998 год">1998 году</a> с публикации небольших отчётов по месяцам в рамках проекта «НИНИ-индекс»<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup>. В <a href="/wiki/2004_%D0%B3%D0%BE%D0%B4" title="2004 год">2004 году</a>, закрывая пилотный проект, компания заявила:
+
+</p>
+<blockquote class="ts-Начало_цитаты-quote">
+<p>
+Сегодня, в декабре 2004 года, в России около 20 миллионов пользователей интернета. Интернет стал частью нашей жизни. Он прошёл нормальный путь технологической новинки, подобной радио, телевидению и мобильным телефонам: сначала был сложен, то есть доступен только избранным специалистам, потом стал прост, но дорог, то есть ограничен уровнем достатка пользователей, и, наконец, стал простым, дешёвым и, главное, нужным — то есть массовым. Теперь слово «интернет» употребляют все и пишут с маленькой буквы. Объект наблюдения — аудитория интернета — пропал, то есть просто слился со всем населением нашей страны. Поэтому мы и закрываем проект.
+</p>
+</blockquote>
+<p>Сегодня Яндекс предоставляет доступ к <a class="external text" href="http://direct.yandex.ru/stat/wordsstat.pl?rpt=ppc&amp;shw=1" rel="nofollow">своей статистике</a> всем желающим в рамках системы по продаже рекламы <a class="mw-redirect" href="/wiki/%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81.%D0%94%D0%B8%D1%80%D0%B5%D0%BA%D1%82" title="Яндекс.Директ">Яндекс.Директ</a>. Кроме стандартной информации о количестве запросов в месяц, а также словосочетаниях и близких темах, поисковик предоставляет возможность отсеивать результаты по регионам, городам, а также по месяцам.
+</p><p>Учитывая тот факт, что Яндекс является самой популярной в <a href="/wiki/%D0%A0%D1%83%D0%BD%D0%B5%D1%82" title="Рунет">Рунете</a> поисковой системой<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup>, подобная статистика является наиболее репрезентативной при оценке положения дел в Рунете.
+</p>
+<h3><span class="mw-headline" id="Rambler">Rambler</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0_%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2&amp;veaction=edit&amp;section=5" title="Редактировать раздел «Rambler»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0_%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2&amp;action=edit&amp;section=5" title="Редактировать код раздела «Rambler»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Система статистики имеется и у <a href="/wiki/%D0%A0%D0%B0%D0%BC%D0%B1%D0%BB%D0%B5%D1%80" title="Рамблер">Рамблера</a><sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup>. Она менее репрезентативна (в силу меньшей популярности поисковой системы), чем статистика Яндекса, но её плюсом является более подробная информация. К примеру, сервис выдает информацию о количестве запросов не только с заглавной страницы, но также и со всех остальных. Кроме того, статистика Рамблера позволяет использовать несложный <a href="/wiki/%D0%AF%D0%B7%D1%8B%D0%BA_%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2" title="Язык запросов">язык запросов</a> для уточнения или, наоборот, расширения результата<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup>. Для получения некоторых расширенных отчётов (например, по географии), необходимо пройти регистрацию.
+</p>
+<h3><span id=".D0.94.D1.80.D1.83.D0.B3.D0.B8.D0.B5"></span><span class="mw-headline" id="Другие">Другие</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0_%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2&amp;veaction=edit&amp;section=6" title="Редактировать раздел «Другие»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0_%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2&amp;action=edit&amp;section=6" title="Редактировать код раздела «Другие»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Статистику переходов на сайты по запросам с разных поисковых систем можно увидеть в поисковике <a class="external text" href="http://www.liveinternet.ru/" rel="nofollow">LiveInternet</a> — после задания запроса справа показывается количество переходов (с 2008 года в процентах) с каждой поисковой системы на сайты, имеющие счетчик LiveInternet.
+</p><p>На Mail.Ru в кабинете вебмастера доступна статистика поисковых запросов к сервису "Поиск Mail.Ru" за прошлый календарный месяц, как общая по количеству запросов и уникальных пользователей, так и в разрезе возраста и пола. Регистрация не требуется.
+</p>
+<h2><span id=".D0.9C.D0.B8.D1.80.D0.BE.D0.B2.D0.BE.D0.B9_.D0.B8.D0.BD.D1.82.D0.B5.D1.80.D0.BD.D0.B5.D1.82"></span><span class="mw-headline" id="Мировой_интернет">Мировой интернет</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0_%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2&amp;veaction=edit&amp;section=7" title="Редактировать раздел «Мировой интернет»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0_%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2&amp;action=edit&amp;section=7" title="Редактировать код раздела «Мировой интернет»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="Google_poop.2CFire_FOX_TOP"></span><span class="mw-headline" id="Google_poop,Fire_FOX_TOP">Google poop,Fire FOX TOP</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0_%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2&amp;veaction=edit&amp;section=8" title="Редактировать раздел «Google poop,Fire FOX TOP»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0_%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2&amp;action=edit&amp;section=8" title="Редактировать код раздела «Google poop,Fire FOX TOP»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Крупнейшая в мире поисковая система <a href="/wiki/Google_(%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0)" title="Google (поисковая система)">Google</a> также предоставляет открытый доступ к своей <a class="external text" href="http://www.google.com/insights/search" rel="nofollow">статистике запросов</a>. В отличие от двух предыдущих, количественная статистика доступна в формате csv, визуально статистика представляется лишь относительно — в виде <a href="/wiki/%D0%93%D1%80%D0%B0%D1%84%D0%B8%D0%BA_%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8" title="График функции">графика</a>. Отчёты выделяются особой подробностью: например, кроме обычной <a href="/wiki/%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0" title="Статистика">статистики</a> запросов <a href="/wiki/%D0%9F%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C" title="Пользователь">пользователей</a>, можно посмотреть степень конкуренции рекламодателей за конкретный поисковый запрос, просмотреть историю трафика для выбранных ключевых слов; предоставляется <a href="/wiki/%D0%9F%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B7%D0%BA%D0%B0" title="Подсказка">подсказка</a> возможно полезных минус-слов. Также особенностью этого сервиса является то, что можно ознакомиться с реальной стоимостью тех или иных запросов, на которую должен будет рассчитывать рекламодатель для участия в партнёрской программе медиагиганта.
+</p><p>В особом виде статистику отображают графики <a class="external text" href="http://www.google.com/trends" rel="nofollow">Google Trends</a>. Сервис позволяет вводить до 5 разных запросов, изучать и сравнивать изменение интереса к ним в мире в виде графика за прошедшие 2-3 года.
+</p>
+<h3><span class="mw-headline" id="Yahoo">Yahoo</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0_%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2&amp;veaction=edit&amp;section=9" title="Редактировать раздел «Yahoo»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0_%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2&amp;action=edit&amp;section=9" title="Редактировать код раздела «Yahoo»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Поисковик <a class="mw-redirect" href="/wiki/Yahoo" title="Yahoo">Yahoo</a> тоже предоставляет свою <a class="external text" href="https://web.archive.org/web/20080723210047/http://www.inventory.overture.com/" rel="nofollow">статистику</a>. Данные отчёты не отличаются подробностью: единственное, что показывает сервис Overture — это количество запросов по отдельным словам, а также по словосочетаниям. Но, несмотря на меньшую результативность, он имеет следующее преимущество по сравнению с сервисом от Гугла: выдает информацию в цифровой форме, а не в виде графика.
+</p>
+<h3><span id=".D0.94.D1.80.D1.83.D0.B3.D0.B8.D0.B5_2"></span><span class="mw-headline" id="Другие_2">Другие</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0_%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2&amp;veaction=edit&amp;section=10" title="Редактировать раздел «Другие»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0_%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2&amp;action=edit&amp;section=10" title="Редактировать код раздела «Другие»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Среди других крупных поисковых сайтов — <a class="external text" href="https://web.archive.org/web/20070616123922/http://freekeywords.wordtracker.com/" rel="nofollow">Wordtracker</a>, который собирает информацию об обращениях к <a href="/wiki/%D0%9F%D0%BE%D0%B8%D1%81%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0" title="Поисковая система">поисковым системам</a> Dogpile.com и <a class="external text" href="http://Metacrawler.com" rel="nofollow">Metacrawler.com</a>. Компания <a href="/wiki/Microsoft" title="Microsoft">Microsoft</a> также предоставляет подобный <a href="/wiki/Google_Trends" title="Google Trends">Google Trends</a> бесплатный сервис под маркой <a class="external text" href="https://web.archive.org/web/20070616072956/http://adlab.msn.com/ForecastV2/KeywordTrendsWeb.aspx" rel="nofollow">Keyword Forecast</a>, где можно сравнивать сразу несколько ключевых слов и изменение интереса к ним на <a class="mw-disambig" href="/wiki/%D0%93%D1%80%D0%B0%D1%84%D0%B8%D0%BA" title="График">графике</a> за год.
+</p>
+<h2><span id=".D0.A1.D0.BC._.D1.82.D0.B0.D0.BA.D0.B6.D0.B5"></span><span class="mw-headline" id="См._также">См. также</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0_%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2&amp;veaction=edit&amp;section=11" title="Редактировать раздел «См. также»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0_%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2&amp;action=edit&amp;section=11" title="Редактировать код раздела «См. также»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/%D0%A1%D1%87%D1%91%D1%82%D1%87%D0%B8%D0%BA_%D0%BF%D0%BE%D1%81%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B9" title="Счётчик посещений">Счётчик посещений</a></li>
+<li><a href="/wiki/%D0%AD%D1%84%D1%84%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D1%8C_%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82-%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D1%8B" title="Эффективность интернет-рекламы">Эффективность интернет-рекламы</a></li>
+<li><a href="/wiki/%D0%9F%D0%BE%D0%B8%D1%81%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D0%B0" title="Поисковая реклама">Поисковая реклама</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D1%80%D0%BF%D1%83%D1%81%D0%BD%D0%B0%D1%8F_%D0%BB%D0%B8%D0%BD%D0%B3%D0%B2%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0" title="Корпусная лингвистика">Корпусная лингвистика</a></li></ul>
+<h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Примечания">Примечания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0_%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2&amp;veaction=edit&amp;section=12" title="Редактировать раздел «Примечания»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0_%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2&amp;action=edit&amp;section=12" title="Редактировать код раздела «Примечания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://download.yandex.ru/class/zakharov/CL_L12.ppt" rel="nofollow">В. П. Захаров. <i>Поисковые системы сети Интернет как корпусные менеджеры</i></a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 15 июня 2007. <a class="external text" href="https://web.archive.org/web/20080229064043/http://download.yandex.ru/class/zakharov/CL_L12.ppt" rel="nofollow">Архивировано</a> 29 февраля 2008 года.</span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://web.archive.org/web/20070826202842/http://company.yandex.ru/press/2007/05-25.xml" rel="nofollow">Алексей Амилющенко: <i>Настанет время, когда и пианино будут продавать через Интернет</i></a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 15 июня 2007. Архивировано из <a class="external text" href="http://company.yandex.ru/press/2007/05-25.xml" rel="nofollow">оригинала</a> 26 августа 2007 года.</span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://web.archive.org/web/20071208062050/http://company.yandex.ru/press/1998/14-07_00.xml" rel="nofollow">Статистика Яndex (врезка к статье Михаила Генина «Источник возбуждения»)</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 15 июня 2007. Архивировано из <a class="external text" href="http://company.yandex.ru/press/1998/14-07_00.xml" rel="nofollow">оригинала</a> 8 декабря 2007 года.</span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a class="mw-redirect" href="/wiki/%D0%98%D0%BB%D1%8C%D1%8F_%D0%A1%D0%B5%D0%B3%D0%B0%D0%BB%D0%BE%D0%B2%D0%B8%D1%87" title="Илья Сегалович">Илья Сегалович</a>: <a class="external text" href="http://www.optimization.ru/subscribe/148.html" rel="nofollow"><i>Проблемы в использовании поисковых систем интернета как лингвистического ресурса</i></a> <a class="external text" href="https://web.archive.org/web/20070819013940/http://www.optimization.ru/subscribe/148.html" rel="nofollow">Архивная копия</a> от 19 августа 2007 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://web.archive.org/web/20070926214809/http://net.compulenta.ru/257309/" rel="nofollow">Власти США просят суд обязать Google раскрыть поисковую статистику</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 16 июня 2007. Архивировано из <a class="external text" href="http://net.compulenta.ru/257309/" rel="nofollow">оригинала</a> 26 сентября 2007 года.</span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><a class="external text" href="http://direct.yandex.ru/stat/wordsstat.pl?rpt=ppc&amp;key=6aaf0491308421730cfb26ebafc11fe9&amp;shw=1&amp;tm=1169407164&amp;checkboxes=0&amp;text=дома&amp;text_geo=Все&amp;geo=" rel="nofollow">статистика ключевых слов Яндекс</a></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://web.archive.org/web/20070704102732/https://ad.rambler.ru/swrds/wrds.pl" rel="nofollow">?date=0611&amp;words=%C4%E5%F0%E5%E2*&amp;morph=0 Статистика по поисковым запросам Рамблер</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 21 января 2007. Архивировано из <a class="external text" href="https://ad.rambler.ru/swrds/wrds.pl" rel="nofollow">оригинала</a> 4 июля 2007 года.</span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text">[www.google.com/adwords/learningcenter/text/18943.html Google AdWords: Learning Center]</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://web.archive.org/web/20070613074920/http://company.yandex.ru/news/2003/0911.xml" rel="nofollow">Яндекс предупреждает: место в результатах поиска не продается</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 15 июня 2007. Архивировано из <a class="external text" href="http://company.yandex.ru/news/2003/0911.xml" rel="nofollow">оригинала</a> 13 июня 2007 года.</span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://web.archive.org/web/20061231074514/http://www.yandex.ru/nini/1998/nini1998.html" rel="nofollow">НИНИ-индекс</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 25 января 2007. Архивировано из <a class="external text" href="http://www.yandex.ru/nini/1998/nini1998.html" rel="nofollow">оригинала</a> 31 декабря 2006 года.</span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text">По данным <a class="external text" href="http://www.liveinternet.ru/stat/ru/searches.html?period=month" rel="nofollow">Liveinternet</a> <a class="external text" href="https://web.archive.org/web/20130820234506/http://www.liveinternet.ru/stat/ru/searches.html?period=month" rel="nofollow">Архивная копия</a> от 20 августа 2013 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> Яндекс в июне 2007 года обрабатывал 48 % поисковых запросов Рунета</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><a class="external text" href="http://wordstat.rambler.ru/wrds/" rel="nofollow">Статистика по поисковым запросам</a> <a class="external text" href="https://web.archive.org/web/20150427012921/http://wordstat.rambler.ru/wrds/" rel="nofollow">Архивная копия</a> от 27 апреля 2015 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> <a href="/wiki/%D0%A0%D0%B0%D0%BC%D0%B1%D0%BB%D0%B5%D1%80" title="Рамблер">Рамблер</a></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://help.rambler.ru/article.html?s=2282&amp;id=2284" rel="nofollow">Рамблер: Использование статистики поисковых запросов</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 21 января 2007. <a class="external text" href="https://web.archive.org/web/20070210003321/http://help.rambler.ru/article.html?s=2282&amp;id=2284" rel="nofollow">Архивировано</a> 10 февраля 2007 года.</span></span>
+</li>
+</ol></div></div>
+<h2><span id=".D0.9B.D0.B8.D1.82.D0.B5.D1.80.D0.B0.D1.82.D1.83.D1.80.D0.B0"></span><span class="mw-headline" id="Литература">Литература</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0_%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2&amp;veaction=edit&amp;section=13" title="Редактировать раздел «Литература»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0_%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2&amp;action=edit&amp;section=13" title="Редактировать код раздела «Литература»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>Гусев Владимир Сергеевич.</i> Аналитика Web-сайтов. Использование аналитических инструментов для продвижения в Интернет. — <abbr title="Москва">М.</abbr>: <a class="new" href="/w/index.php?title=%D0%94%D0%B8%D0%B0%D0%BB%D0%B5%D0%BA%D1%82%D0%B8%D0%BA%D0%B0_(%D0%B8%D0%B7%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE)&amp;action=edit&amp;redlink=1" title="Диалектика (издательство) (страница отсутствует)">«Диалектика»</a>, 2007. — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9785845912923">ISBN 978-5-8459-1292-3</a>.</span></li></ul>
+<h2><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span><span class="mw-headline" id="Ссылки">Ссылки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0_%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2&amp;veaction=edit&amp;section=14" title="Редактировать раздел «Ссылки»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0_%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2&amp;action=edit&amp;section=14" title="Редактировать код раздела «Ссылки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="http://wordstat.yandex.ru/?cmd=words" rel="nofollow">Статистика поиска Яндекс</a></li>
+<li><a class="external text" href="http://www.google.com/trends" rel="nofollow">Google Trends</a></li>
+<li><a class="external text" href="https://adwords.google.com/KeywordPlanner" rel="nofollow">Статистика поиска Google</a> (adwords)</li>
+<li><a class="external text" href="https://web.archive.org/web/20150427012921/http://wordstat.rambler.ru/wrds/" rel="nofollow">Статистика поиска Rambler</a> (ссылка не работает)</li>
+<li><a class="external text" href="http://webmaster.mail.ru/querystat" rel="nofollow">Статистика поиска Mail.ru</a></li>
+<li><a class="external text" href="https://www.bing.com/toolbox/keywords" rel="nofollow">Статистика поиска Bing</a></li></ul>
+<div aria-labelledby="Поисковая_оптимизация" class="navbox" data-name="Поисковая оптимизация" role="navigation"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BE%D0%BF%D1%82%D0%B8%D0%BC%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F" title="Перейти к шаблону «Поисковая оптимизация»"><img alt="Перейти к шаблону «Поисковая оптимизация»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span></span><div id="Поисковая_оптимизация" style="font-size:114%;margin:0 5em"><a href="/wiki/%D0%9F%D0%BE%D0%B8%D1%81%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BE%D0%BF%D1%82%D0%B8%D0%BC%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F" title="Поисковая оптимизация">Поисковая оптимизация</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1px">Исключения</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%A1%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82_%D0%B8%D1%81%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B9_%D0%B4%D0%BB%D1%8F_%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%BE%D0%B2" title="Стандарт исключений для роботов">robots.txt</a></li>
+<li><a href="/wiki/%D0%9C%D0%B5%D1%82%D0%B0%D1%82%D0%B5%D0%B3%D0%B8" title="Метатеги">Метатеги</a></li>
+<li><a href="/wiki/Nofollow" title="Nofollow">nofollow</a></li>
+<li><a href="/wiki/Noindex" title="Noindex">noindex</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Маркетинг</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82-%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82%D0%B8%D0%BD%D0%B3" title="Интернет-маркетинг">Интернет-маркетинг</a></li>
+<li><a href="/wiki/%D0%9F%D0%B0%D1%80%D1%82%D0%BD%D1%91%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0" title="Партнёрская программа">Партнёрская программа</a></li>
+<li><a href="/wiki/%D0%A0%D0%B0%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0_%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D0%BE%D0%B9_%D0%BF%D0%BE%D1%87%D1%82%D1%8B" title="Рассылка электронной почты">Маркетинг по электронной почте</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%A0%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D0%B0_%D0%BD%D0%B0_%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B5&amp;action=edit&amp;redlink=1" title="Реклама на экране (страница отсутствует)">Реклама на экране</a></li>
+<li><a href="/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82-%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0" title="Интернет-статистика">Интернет-статистика</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Поисковый<br/>маркетинг</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%9F%D0%BE%D0%B8%D1%81%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82%D0%B8%D0%BD%D0%B3" title="Поисковый маркетинг">Поисковый маркетинг</a></li>
+<li><a href="/wiki/%D0%9E%D0%BF%D1%82%D0%B8%D0%BC%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F_%D1%81%D0%B0%D0%B9%D1%82%D0%B0_%D0%BF%D0%BE%D0%B4_%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D1%81%D0%B5%D1%82%D0%B8" title="Оптимизация сайта под социальные сети">Оптимизация сайта под социальные сети</a> (SMO)</li>
+<li><a href="/wiki/%D0%9C%D0%B0%D1%80%D0%BA%D0%B5%D1%82%D0%B8%D0%BD%D0%B3_%D0%B2_%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D1%85_%D1%81%D0%B5%D1%82%D1%8F%D1%85" title="Маркетинг в социальных сетях">Маркетинг в социальных сетях</a> (SMM)</li>
+<li><a class="new" href="/w/index.php?title=%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BF%D1%80%D0%B8%D1%81%D1%83%D1%82%D1%81%D1%82%D0%B2%D0%B8%D0%B5%D0%BC_%D0%BB%D0%B8%D1%87%D0%BD%D0%BE%D0%B9_%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%B8_%D0%B2_%D1%81%D0%B5%D1%82%D0%B8&amp;action=edit&amp;redlink=1" title="Управление присутствием личной информации в сети (страница отсутствует)">Управление присутствием личной информации в сети</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%9F%D0%BB%D0%B0%D1%82%D0%BD%D0%BE%D0%B5_%D0%B2%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B2_%D0%B8%D0%BD%D0%B4%D0%B5%D0%BA%D1%81&amp;action=edit&amp;redlink=1" title="Платное включение в индекс (страница отсутствует)">Платное включение в индекс</a></li>
+<li><a href="/wiki/Pay_per_click" title="Pay per click">Оплата за клик</a></li>
+<li><a href="/wiki/%D0%9F%D0%BE%D0%B8%D1%81%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B1%D0%BE%D0%BC%D0%B1%D0%B0" title="Поисковая бомба">Поисковая бомба</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Спам</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%9F%D0%BE%D0%B8%D1%81%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_%D1%81%D0%BF%D0%B0%D0%BC" title="Поисковый спам">Поисковый спам</a></li>
+<li><a href="/wiki/%D0%9F%D0%B5%D1%81%D1%81%D0%B8%D0%BC%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F" title="Пессимизация">Пессимизация</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%B1%D0%BE%D1%80_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85&amp;action=edit&amp;redlink=1" title="Автоматический сбор данных (страница отсутствует)">Автоматический сбор данных</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%A1%D0%B0%D0%B9%D1%82%D1%8B_%D1%81_%D0%BD%D0%B5%D0%BE%D1%80%D0%B8%D0%B3%D0%B8%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%BC_%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D1%82%D0%BE%D0%BC&amp;action=edit&amp;redlink=1" title="Сайты с неоригинальным контентом (страница отсутствует)">Сайты с неоригинальным контентом</a></li>
+<li><a href="/wiki/%D0%9B%D0%B8%D0%BD%D0%BA%D0%BE%D1%84%D0%B5%D1%80%D0%BC%D0%B0" title="Линкоферма">Линкоферма</a></li>
+<li><a href="/wiki/%D0%94%D0%BE%D1%80%D0%B2%D0%B5%D0%B9" title="Дорвей">Дорвеи</a></li>
+<li><a href="/wiki/%D0%9A%D0%BB%D0%BE%D0%B0%D0%BA%D0%B8%D0%BD%D0%B3" title="Клоакинг">Клоакинг</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Ссылки</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="new" href="/w/index.php?title=%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D1%84%D0%B0%D0%BA%D1%82%D0%BE%D1%80%D1%8B_%D0%B2_%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%D0%BE%D0%B2%D0%BE%D0%B9_%D0%BE%D0%BF%D1%82%D0%B8%D0%BC%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" title="Внешние факторы в поисковой оптимизации (страница отсутствует)">Внешние факторы в поисковой оптимизации</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%9F%D0%BE%D0%BF%D1%83%D0%BB%D1%8F%D1%80%D0%BD%D0%BE%D1%81%D1%82%D1%8C_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8&amp;action=edit&amp;redlink=1" title="Популярность ссылки (страница отсутствует)">Популярность ссылки</a></li>
+<li><a href="/wiki/%D0%9E%D0%B1%D0%BC%D0%B5%D0%BD_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8" title="Обмен ссылками">Обмен ссылками</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%92%D0%B7%D0%B0%D0%B8%D0%BC%D0%BD%D1%8B%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8&amp;action=edit&amp;redlink=1" title="Взаимные ссылки (страница отсутствует)">Взаимные ссылки</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%9C%D0%BD%D0%BE%D0%B3%D0%BE%D0%BB%D0%B8%D0%BD%D0%BA%D0%B8&amp;action=edit&amp;redlink=1" title="Многолинки (страница отсутствует)">Многолинки</a></li>
+<li><a href="/wiki/%D0%91%D0%B8%D1%80%D0%B6%D0%B0_%D1%81%D1%81%D1%8B%D0%BB%D0%BE%D0%BA" title="Биржа ссылок">Биржа ссылок</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%91%D1%8D%D0%BA%D0%BB%D0%B8%D0%BD%D0%BA&amp;action=edit&amp;redlink=1" title="Бэклинк (страница отсутствует)">Бэклинки</a> (ссылки на сайт)</li>
+<li><a href="/wiki/%D0%9F%D0%BE%D0%B8%D1%81%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_%D0%B8%D0%BD%D0%B4%D0%B5%D0%BA%D1%81" title="Поисковый индекс">Поисковый индекс</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Прочее</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%A6%D0%B5%D0%BB%D0%B5%D0%B2%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Целевая страница">Страница приземления</a></li>
+<li><a href="/wiki/%D0%93%D0%B5%D0%BE%D1%82%D0%B0%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D0%BD%D0%B3" title="Геотаргетинг">Геотаргетинг</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%9F%D0%BE%D0%B8%D1%81%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D1%81_%D1%80%D1%83%D1%87%D0%BD%D1%8B%D0%BC_%D0%BE%D1%82%D0%B1%D0%BE%D1%80%D0%BE%D0%BC_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%BE%D0%B2&amp;action=edit&amp;redlink=1" title="Поисковая система с ручным отбором результатов (страница отсутствует)">Поисковая система с ручным отбором результатов</a></li>
+<li><a class="mw-selflink selflink">Статистика запросов</a></li>
+<li><a href="/wiki/%D0%A8%D1%83%D0%BC%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D0%BB%D0%BE%D0%B2%D0%B0" title="Шумовые слова">Стоп-слова</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%9F%D0%BE%D0%B4%D0%BE%D0%B7%D1%80%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D1%81%D0%BB%D0%BE%D0%B2%D0%B0_(%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BE%D0%BF%D1%82%D0%B8%D0%BC%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F)&amp;action=edit&amp;redlink=1" title="Подозрительные слова (поисковая оптимизация) (страница отсутствует)">Подозрительные слова</a></li>
+<li><a href="/wiki/%D0%90%D1%80%D0%B1%D0%B8%D1%82%D1%80%D0%B0%D0%B6_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82-%D1%82%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%B0" title="Арбитраж Интернет-трафика">Арбитраж Интернет-трафика</a></li></ul>
+</div></td></tr></tbody></table></div>
+<table class="mbox-Спам-ссылки plainlinks metadata ambox ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Emblem-important.svg"><img alt="" class="mw-file-element" data-file-height="48" data-file-width="48" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Emblem-important.svg/40px-Emblem-important.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Emblem-important.svg/60px-Emblem-important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Emblem-important.svg/80px-Emblem-important.svg.png 2x" width="40"/></a></span></div></td><td class="mbox-text"><div class="mbox-text-div">Некоторые <b>внешние ссылки</b> в этой статье <b>ведут на сайты, занесённые в <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D1%81%D0%BF%D0%B0%D0%BC-%D0%BB%D0%B8%D1%81%D1%82%D0%B0" title="Википедия:Изменение спам-листа">спам-лист</a></b></div><div class="mbox-textsmall-div hide-when-compact" style="font-size:85%"><span class="hide-when-compact"> Эти сайты могут нарушать авторские права, быть признаны <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D1%82%D0%BD%D1%8B%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8" title="Википедия:Авторитетные источники">неавторитетными источниками</a> или по другим причинам быть запрещены в Википедии. Редакторам следует заменить такие ссылки <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8" title="Википедия:Внешние ссылки">ссылками на соответствующие правилам сайты</a> или библиографическими ссылками на печатные источники либо удалить их (возможно, вместе с подтверждаемым ими содержимым).
+  <div class="mw-collapsible mw-collapsed has-collapsible-header ts-Скрытый_блок ts-Скрытый_блок-transparent ts-Скрытый_блок-rightHideLink" style="font-size:100%;"><div class="ts-Скрытый_блок-title collapsible-header" style="">Список проблемных ссылок</div><div class="mw-collapsible-content" style="">
+<p class="mw-empty-elt">
+</p>
+<ul><li><a class="external free" href="http://www.google.com/adwords/learningcenter/text/18943.html" rel="nofollow">http://www.google.com/adwords/learningcenter/text/18943.html</a></li></ul>
+</div></div></span></div></td></tr></tbody></table>
+<p><br/>
+</p>
+<h2><span id=".D0.92.D0.B8.D0.BA.D0.B8.D0.BF.D0.B5.D0.B4.D0.B8.D1.8F_.D0.BD.D0.B5_.D1.8F.D0.B2.D0.BB.D1.8F.D0.B5.D1.82.D1.81.D1.8F_.D0.BA.D0.B0.D1.82.D0.B0.D0.BB.D0.BE.D0.B3.D0.BE.D0.BC_.D1.81.D1.81.D1.8B.D0.BB.D0.BE.D0.BA"></span><span class="mw-headline" id="Википедия_не_является_каталогом_ссылок">Википедия не является каталогом ссылок</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0_%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2&amp;veaction=edit&amp;section=15" title="Редактировать раздел «Википедия не является каталогом ссылок»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0_%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2&amp;action=edit&amp;section=15" title="Редактировать код раздела «Википедия не является каталогом ссылок»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Пожалуйста, не добавляйте в Википедию ссылки на коммерческие или свои собственные сайты с целью их рекламы, раскрутки или повышения индекса цитируемости. Учтите, что все внешние ссылки в Википедии автоматически получают атрибут <a href="/wiki/Nofollow" title="Nofollow">nofollow</a>, предотвращающий их индексирование поисковыми системами.
+</p><p><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A7%D0%B5%D0%BC_%D0%BD%D0%B5_%D1%8F%D0%B2%D0%BB%D1%8F%D0%B5%D1%82%D1%81%D1%8F_%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F" title="Википедия:Чем не является Википедия">Википедия не является площадкой для размещения рекламы или коллекцией ссылок</a>. Ссылки, добавленные с этой целью и не использовавшиеся для подготовки материалов статей, будут удалены.
+</p><p>Тем не менее, мы рады приветствовать вас в нашем проекте, где вы можете внести свой вклад в создание энциклопедии. Возможно, вам будет полезно познакомиться с основными правилами работы в Википедии:
+</p>
+<ul><li><a class="mw-redirect" href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0_%D0%B8_%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D1%8F" title="Википедия:Правила и указания">Википедия:Правила и указания</a></li>
+<li><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%B0%D0%BA_%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D1%8C_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Википедия:Как править статьи">Википедия:Как править статьи</a></li>
+<li><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8" title="Википедия:Внешние ссылки">Википедия:Внешние ссылки</a></li></ul>
+<p>Спасибо за понимание.
+</p>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐99c6548c6‐5bjpz
+Cached time: 20240228164238
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.254 seconds
+Real time usage: 0.320 seconds
+Preprocessor visited node count: 2242/1000000
+Post‐expand include size: 52580/2097152 bytes
+Template argument size: 2679/2097152 bytes
+Highest expansion depth: 13/100
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 16632/5000000 bytes
+Lua time usage: 0.074/10.000 seconds
+Lua memory usage: 3655852/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  249.705      1 -total
+ 22.01%   54.948      2 Шаблон:Обновить
+ 21.44%   53.548      1 Шаблон:Примечания
+ 20.06%   50.086      1 Шаблон:Спам-ссылки
+ 18.97%   47.380      1 Шаблон:Ambox
+ 17.56%   43.846      1 Шаблон:Скрытый_блок
+ 15.96%   39.849      8 Шаблон:Cite_web
+ 15.75%   39.341      1 Шаблон:Начало_скрытого_блока
+ 15.73%   39.276      2 Шаблон:Mbox
+ 14.83%   37.027      1 Шаблон:Книга
+-->
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:448373-0!canonical and timestamp 20240228164238 and revision id 135891300. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> -->
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Статистика_запросов&amp;oldid=135891300">https://ru.wikipedia.org/w/index.php?title=Статистика_запросов&amp;oldid=135891300</a></div></div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B" title="Категория:Поисковые системы">Поисковые системы</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9E%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%B8_%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F_%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B8" title="Категория:Области применения статистики">Области применения статистики</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BE%D0%BF%D1%82%D0%B8%D0%BC%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F" title="Категория:Поисковая оптимизация">Поисковая оптимизация</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%BD%D0%B5_%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD_%D1%8F%D0%B7%D1%8B%D0%BA)" title="Категория:Википедия:Cite web (не указан язык)">Википедия:Cite web (не указан язык)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%B4%D0%BB%D1%8F_%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F" title="Категория:Википедия:Статьи для обновления">Википедия:Статьи для обновления</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B0%D0%BC%D0%B8_%D0%BD%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D1%82%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Википедия:Статьи с шаблонами недостатков по алфавиту">Википедия:Статьи с шаблонами недостатков по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8,_%D1%82%D1%80%D0%B5%D0%B1%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D1%83%D1%82%D0%BE%D1%87%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2" title="Категория:Википедия:Статьи, требующие уточнения источников">Википедия:Статьи, требующие уточнения источников</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81%D0%BE_%D1%81%D0%BF%D0%B0%D0%BC-%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8" title="Категория:Википедия:Статьи со спам-ссылками">Википедия:Статьи со спам-ссылками</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B,_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D0%B2%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_ISBN" title="Категория:Страницы, использующие волшебные ссылки ISBN">Страницы, использующие волшебные ссылки ISBN</a></li></ul></div></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Навигация</h2>
+<div id="mw-head">
+<nav aria-labelledby="p-personal-label" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" id="p-personal" role="navigation">
+<h3 class="vector-menu-heading" id="p-personal-label">
+<span class="vector-menu-heading-label">Персональные инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="pt-anonuserpage"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li class="mw-list-item" id="pt-anontalk"><a accesskey="n" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]"><span>Обсуждение</span></a></li><li class="mw-list-item" id="pt-anoncontribs"><a accesskey="y" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]"><span>Вклад</span></a></li><li class="mw-list-item" id="pt-createaccount"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0+%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li class="mw-list-item" id="pt-login"><a accesskey="o" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0+%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]"><span>Войти</span></a></li>
+</ul>
+</div>
+</nav>
+<div id="left-navigation">
+<nav aria-labelledby="p-namespaces-label" class="mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-namespaces" role="navigation">
+<h3 class="vector-menu-heading" id="p-namespaces-label">
+<span class="vector-menu-heading-label">Пространства имён</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-nstab-main"><a accesskey="c" href="/wiki/%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0_%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2" title="Просмотреть контентную страницу [c]"><span>Статья</span></a></li><li class="mw-list-item" id="ca-talk"><a accesskey="t" href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0_%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2" rel="discussion" title="Обсуждение основной страницы [t]"><span>Обсуждение</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-variants-label" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" id="p-variants" role="navigation">
+<input aria-haspopup="true" aria-labelledby="p-variants-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-variants" id="p-variants-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-variants-label">
+<span class="vector-menu-heading-label">русский</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+</div>
+<div id="right-navigation">
+<nav aria-labelledby="p-views-label" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-views" role="navigation">
+<h3 class="vector-menu-heading" id="p-views-label">
+<span class="vector-menu-heading-label">Просмотры</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="ca-view"><a href="/w/index.php?title=%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0_%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2&amp;stable=1"><span>Читать</span></a></li><li class="collapsible selected mw-list-item" id="ca-current"><a accesskey="v" href="/w/index.php?title=%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0_%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2&amp;stable=0&amp;redirect=no" title="Показать текущую версию этой страницы [v]"><span>Текущая версия</span></a></li><li class="mw-list-item" id="ca-ve-edit"><a accesskey="v" href="/w/index.php?title=%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0_%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2&amp;veaction=edit" title="Редактировать данную страницу [v]"><span>Править</span></a></li><li class="collapsible mw-list-item" id="ca-edit"><a accesskey="e" href="/w/index.php?title=%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0_%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2&amp;action=edit" title="Править исходный текст этой страницы [e]"><span>Править код</span></a></li><li class="mw-list-item" id="ca-history"><a accesskey="h" href="/w/index.php?title=%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0_%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2&amp;action=history" title="Журнал изменений страницы [h]"><span>История</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-cactions-label" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" id="p-cactions" role="navigation" title="Больше возможностей">
+<input aria-haspopup="true" aria-labelledby="p-cactions-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-cactions" id="p-cactions-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-cactions-label">
+<span class="vector-menu-heading-label">Ещё</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+<div class="vector-search-box-vue vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box" id="p-search" role="search">
+<h3>Поиск</h3>
+<form action="/w/index.php" class="vector-search-box-form" id="searchform">
+<div class="vector-search-box-inner" data-search-loc="header-navigation" id="simpleSearch">
+<input accesskey="f" aria-label="Искать в Википедии" autocapitalize="sentences" class="vector-search-box-input" id="searchInput" name="search" placeholder="Искать в Википедии" title="Искать в Википедии [f]" type="search"/>
+<input name="title" type="hidden" value="Служебная:Поиск"/>
+<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Найти страницы, содержащие указанный текст" type="submit" value="Найти"/>
+<input class="searchButton" id="searchButton" name="go" title="Перейти к странице, имеющей в точности такое название" type="submit" value="Перейти"/>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="vector-legacy-sidebar" id="mw-panel">
+<div id="p-logo" role="banner">
+<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу"></a>
+</div>
+<nav aria-labelledby="p-navigation-label" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" id="p-navigation" role="navigation">
+<h3 class="vector-menu-heading" id="p-navigation-label">
+<span class="vector-menu-heading-label">Навигация</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-mainpage-description"><a accesskey="z" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]"><span>Заглавная страница</span></a></li><li class="mw-list-item" id="n-content"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li class="mw-list-item" id="n-featured"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li class="mw-list-item" id="n-randompage"><a accesskey="x" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]"><span>Случайная статья</span></a></li><li class="mw-list-item" id="n-currentevents"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li class="mw-list-item" id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-participation-label" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" id="p-participation" role="navigation">
+<h3 class="vector-menu-heading" id="p-participation-label">
+<span class="vector-menu-heading-label">Участие</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-bug_in_article"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li class="mw-list-item" id="n-introduction"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li class="mw-list-item" id="n-portal"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li class="mw-list-item" id="n-forum"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li class="mw-list-item" id="n-recentchanges"><a accesskey="r" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]"><span>Свежие правки</span></a></li><li class="mw-list-item" id="n-newpages"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li class="mw-list-item" id="n-help"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-tb-label" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" id="p-tb" role="navigation">
+<h3 class="vector-menu-heading" id="p-tb-label">
+<span class="vector-menu-heading-label">Инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="t-whatlinkshere"><a accesskey="j" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0_%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2" title="Список всех страниц, ссылающихся на данную [j]"><span>Ссылки сюда</span></a></li><li class="mw-list-item" id="t-recentchangeslinked"><a accesskey="k" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0_%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]"><span>Связанные правки</span></a></li><li class="mw-list-item" id="t-specialpages"><a accesskey="q" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]"><span>Служебные страницы</span></a></li><li class="mw-list-item" id="t-permalink"><a href="/w/index.php?title=%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0_%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2&amp;oldid=135891300" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li class="mw-list-item" id="t-info"><a href="/w/index.php?title=%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0_%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li class="mw-list-item" id="t-cite"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0_%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2&amp;id=135891300&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li class="mw-list-item" id="t-urlshortener"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%25A1%25D1%2582%25D0%25B0%25D1%2582%25D0%25B8%25D1%2581%25D1%2582%25D0%25B8%25D0%25BA%25D0%25B0_%25D0%25B7%25D0%25B0%25D0%25BF%25D1%2580%25D0%25BE%25D1%2581%25D0%25BE%25D0%25B2"><span>Получить короткий URL</span></a></li><li class="mw-list-item" id="t-urlshortener-qrcode"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%25A1%25D1%2582%25D0%25B0%25D1%2582%25D0%25B8%25D1%2581%25D1%2582%25D0%25B8%25D0%25BA%25D0%25B0_%25D0%25B7%25D0%25B0%25D0%25BF%25D1%2580%25D0%25BE%25D1%2581%25D0%25BE%25D0%25B2"><span>Скачать QR-код</span></a></li><li class="mw-list-item" id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q4441263" title="Ссылка на связанный элемент репозитория данных [g]"><span>Элемент Викиданных</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-coll-print_export-label" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" id="p-coll-print_export" role="navigation">
+<h3 class="vector-menu-heading" id="p-coll-print_export-label">
+<span class="vector-menu-heading-label">Печать/экспорт</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="coll-download-as-rl"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0_%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li class="mw-list-item" id="t-print"><a accesskey="p" href="/w/index.php?title=%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0_%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2&amp;printable=yes" title="Версия этой страницы для печати [p]"><span>Версия для печати</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-lang-label" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" id="p-lang" role="navigation">
+<h3 class="vector-menu-heading" id="p-lang-label">
+<span class="vector-menu-heading-label">На других языках</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="interlanguage-link interwiki-uk mw-list-item"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0_%D0%B7%D0%B0%D0%BF%D0%B8%D1%82%D1%96%D0%B2" hreflang="uk" lang="uk" title="Статистика запитів — украинский"><span>Українська</span></a></li>
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q4441263#sitelinks-wikipedia" title="Править ссылки на другие языки">Править ссылки</a></span></div>
+</div>
+</nav>
+</div>
+</div>
+<footer class="mw-footer" id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 31 января 2024 в 05:30.</li>
+<li id="footer-info-copyright">Текст доступен по <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru" rel="license">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a><a href="//creativecommons.org/licenses/by-sa/4.0/" rel="license" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br/>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org/ru/">Фонд Викимедиа (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//ru.m.wikipedia.org/w/index.php?title=%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0_%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2&amp;mobileaction=toggle_view_mobile">Мобильная версия</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" loading="lazy" src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88"/></a></li>
+<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" loading="lazy" src="/static/images/footer/poweredby_mediawiki_88x31.png" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88"/></a></li>
+</ul>
+</footer>
+
+
+</body>
+</html>

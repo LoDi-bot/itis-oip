@@ -1,0 +1,1092 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="ru">
+<head>
+<meta charset="utf-8"/>
+<title>Оптический пинцет — Википедия</title>
+
+
+
+
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+
+
+<meta content="MediaWiki 1.42.0-wmf.19" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="max-image-preview:standard" name="robots"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/7/77/Optical_tweezers_and_RNA-polymerase_ru.png" property="og:image"/>
+<meta content="1200" property="og:image:width"/>
+<meta content="626" property="og:image:height"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/7/77/Optical_tweezers_and_RNA-polymerase_ru.png" property="og:image"/>
+<meta content="800" property="og:image:width"/>
+<meta content="417" property="og:image:height"/>
+<meta content="640" property="og:image:width"/>
+<meta content="334" property="og:image:height"/>
+<meta content="width=1000" name="viewport"/>
+<meta content="Оптический пинцет — Википедия" property="og:title"/>
+<meta content="website" property="og:type"/>
+
+
+
+
+
+
+
+
+
+
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Оптический_пинцет rootpage-Оптический_пинцет skin-vector action-view"><div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators">
+<div class="mw-indicator" id="mw-indicator-ga"><div class="mw-parser-output"><span typeof="mw:File"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Эта статья входит в число хороших статей"><img alt="Эта статья входит в число хороших статей" class="mw-file-element" data-file-height="13" data-file-width="13" decoding="async" height="13" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Blue_star_unboxed.svg/13px-Blue_star_unboxed.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Blue_star_unboxed.svg/20px-Blue_star_unboxed.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Blue_star_unboxed.svg/26px-Blue_star_unboxed.svg.png 2x" width="13"/></a></span></div></div>
+</div>
+<h1 class="firstHeading mw-first-heading" id="firstHeading"><span class="mw-page-title-main">Оптический пинцет</span></h1>
+<div class="vector-body" id="bodyContent">
+<div class="noprint" id="siteSub">Материал из Википедии — свободной энциклопедии</div>
+<div id="contentSub"><div id="mw-content-subtitle"><div class="flaggedrevs_short flaggedrevs_stable_synced plainlinks noprint" id="mw-fr-revisiontag"><div class="flaggedrevs_short_basic"><span class="flaggedrevs-icon oo-ui-widget oo-ui-widget-enabled oo-ui-iconElement-icon oo-ui-icon-articleSearch oo-ui-iconElement oo-ui-labelElement-invisible oo-ui-iconWidget" title="Правки этой страницы требуют проверки."></span><span class="flaggedrevs-icon oo-ui-widget oo-ui-widget-enabled oo-ui-iconElement-icon oo-ui-icon-eye oo-ui-iconElement oo-ui-labelElement-invisible oo-ui-iconWidget" title="Это отпатрулированная версия страницы"></span><span class="fr-toggle-arrow oo-ui-widget oo-ui-widget-enabled oo-ui-indicatorElement-indicator oo-ui-indicator-down oo-ui-indicatorElement oo-ui-labelElement-invisible oo-ui-indicatorWidget" id="mw-fr-revisiontoggle" title="показать/скрыть подробности"></span></div>
+<div id="mw-fr-revisiondetails-wrapper" style="position:relative;"><div class="flaggedrevs_short_details" id="mw-fr-revisiondetails" style="display:none">Это <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%B0%D1%82%D1%80%D1%83%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" title="Википедия:Патрулирование">стабильная версия</a>, <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB%D1%8B&amp;type=review&amp;page=%D0%9E%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B8%D0%BD%D1%86%D0%B5%D1%82">отпатрулированная</a> <i>22 октября 2023</i>.</div>
+</div>
+</div>
+</div></div>
+<div id="contentSub2"></div>
+<div id="jump-to-nav"></div>
+<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+<div class="mw-body-content" id="mw-content-text"><div class="mw-content-ltr mw-parser-output" dir="ltr" lang="ru"><figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Optical_tweezers_and_RNA-polymerase_ru.png"><img class="mw-file-element" data-file-height="280" data-file-width="537" decoding="async" height="156" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Optical_tweezers_and_RNA-polymerase_ru.png/300px-Optical_tweezers_and_RNA-polymerase_ru.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Optical_tweezers_and_RNA-polymerase_ru.png/450px-Optical_tweezers_and_RNA-polymerase_ru.png 1.5x, //upload.wikimedia.org/wikipedia/commons/7/77/Optical_tweezers_and_RNA-polymerase_ru.png 2x" width="300"/></a><figcaption>Схема использования оптического пинцета в изучении <a href="/wiki/%D0%A0%D0%9D%D0%9A-%D0%BF%D0%BE%D0%BB%D0%B8%D0%BC%D0%B5%D1%80%D0%B0%D0%B7%D0%B0" title="РНК-полимераза">РНК-полимеразы</a></figcaption></figure>
+<p><b><a href="/wiki/%D0%9E%D0%BF%D1%82%D0%B8%D0%BA%D0%B0" title="Оптика">Опти́ческий</a> <a href="/wiki/%D0%9F%D0%B8%D0%BD%D1%86%D0%B5%D1%82" title="Пинцет">пинце́т</a></b> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">optical tweezers</span>), иногда «лазерный пинцет» или «оптическая <a href="/wiki/%D0%9B%D0%BE%D0%B2%D1%83%D1%88%D0%BA%D0%B0" title="Ловушка">ловушка</a>» — оптический инструмент, который позволяет <a href="/wiki/%D0%9C%D0%B0%D0%BD%D0%B8%D0%BF%D1%83%D0%BB%D1%8F%D1%86%D0%B8%D1%8F_%D0%B0%D1%82%D0%BE%D0%BC%D0%B0%D0%BC%D0%B8" title="Манипуляция атомами">манипулировать</a> <a class="new" href="/w/index.php?title=%D0%9C%D0%B8%D0%BA%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82&amp;action=edit&amp;redlink=1" title="Микроскопический объект (страница отсутствует)">микроскопическими объектами</a> с помощью <a href="/wiki/%D0%9B%D0%B0%D0%B7%D0%B5%D1%80" title="Лазер">лазерного</a> света (обычно испускаемого <a href="/wiki/%D0%9B%D0%B0%D0%B7%D0%B5%D1%80%D0%BD%D1%8B%D0%B9_%D0%B4%D0%B8%D0%BE%D0%B4" title="Лазерный диод">лазерным диодом</a>). Он позволяет прикладывать к <a class="mw-redirect" href="/wiki/%D0%94%D0%B8%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D0%BA%D0%B8" title="Диэлектрики">диэлектрическим</a> объектам силы от <a href="/wiki/%D0%9D%D1%8C%D1%8E%D1%82%D0%BE%D0%BD_(%D0%B5%D0%B4%D0%B8%D0%BD%D0%B8%D1%86%D0%B0_%D0%B8%D0%B7%D0%BC%D0%B5%D1%80%D0%B5%D0%BD%D0%B8%D1%8F)" title="Ньютон (единица измерения)">фемтоньютонов</a> до <a href="/wiki/%D0%9D%D1%8C%D1%8E%D1%82%D0%BE%D0%BD_(%D0%B5%D0%B4%D0%B8%D0%BD%D0%B8%D1%86%D0%B0_%D0%B8%D0%B7%D0%BC%D0%B5%D1%80%D0%B5%D0%BD%D0%B8%D1%8F)" title="Ньютон (единица измерения)">наноньютонов</a> и измерять <a href="/wiki/%D0%A0%D0%B0%D1%81%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B5" title="Расстояние">расстояния</a> от нескольких <a href="/wiki/%D0%9D%D0%B0%D0%BD%D0%BE%D0%BC%D0%B5%D1%82%D1%80" title="Нанометр">нанометров</a> до <a class="mw-redirect mw-disambig" href="/wiki/%D0%9C%D0%B8%D0%BA%D1%80%D0%BE%D0%BD" title="Микрон">микронов</a>. В последние годы оптические пинцеты начали использовать в <a href="/wiki/%D0%91%D0%B8%D0%BE%D1%84%D0%B8%D0%B7%D0%B8%D0%BA%D0%B0" title="Биофизика">биофизике</a> для изучения структуры и принципа работы <a class="mw-redirect" href="/wiki/%D0%91%D0%B5%D0%BB%D0%BE%D0%BA" title="Белок">белков</a><sup class="reference" id="cite_ref-NKJ201812_1-0"><a href="#cite_note-NKJ201812-1">[1]</a></sup><sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup>.
+</p><p>В 2018 году нобелевская премия по физике «за изобретение оптического пинцета и его применение в биологических системах» была присуждена создателю оптического пинцета <a href="/wiki/%D0%AD%D1%88%D0%BA%D0%B8%D0%BD,_%D0%90%D1%80%D1%82%D1%83%D1%80" title="Эшкин, Артур">Артуру Эшкину</a><sup class="reference" id="cite_ref-Physics2018_3-0"><a href="#cite_note-Physics2018-3">[3]</a></sup>.
+</p>
+<div aria-labelledby="mw-toc-heading" class="toc" id="toc" role="navigation"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="ru"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#История"><span class="tocnumber">1</span> <span class="toctext">История</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Физические_принципы"><span class="tocnumber">2</span> <span class="toctext">Физические принципы</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Физическая_оптика"><span class="tocnumber">2.1</span> <span class="toctext">Физическая оптика</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Приближение_электрического_диполя"><span class="tocnumber">2.2</span> <span class="toctext">Приближение электрического диполя</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Лазерный_пинцет,_основанный_на_альтернативных_режимах_работы_лазера"><span class="tocnumber">3</span> <span class="toctext">Лазерный пинцет, основанный на альтернативных режимах работы лазера</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Мультиплексные_лазерные_пинцеты"><span class="tocnumber">4</span> <span class="toctext">Мультиплексные лазерные пинцеты</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Лазерные_пинцеты,_основанные_на_оптических_волокнах"><span class="tocnumber">5</span> <span class="toctext">Лазерные пинцеты, основанные на оптических волокнах</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Оптические_пинцеты_в_сортировке_клеток"><span class="tocnumber">6</span> <span class="toctext">Оптические пинцеты в сортировке клеток</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Лазерные_пинцеты,_основанные_на_затухающих_полях"><span class="tocnumber">6.1</span> <span class="toctext">Лазерные пинцеты, основанные на затухающих полях</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Непрямой_подход_к_оптическим_пинцетам"><span class="tocnumber">7</span> <span class="toctext">Непрямой подход к оптическим пинцетам</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#Оптическое_связывание"><span class="tocnumber">7.1</span> <span class="toctext">Оптическое связывание</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Измерение_оптических_сил"><span class="tocnumber">8</span> <span class="toctext">Измерение оптических сил</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Примечания"><span class="tocnumber">9</span> <span class="toctext">Примечания</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Коммерческие_системы_оптических_пинцетов"><span class="tocnumber">10</span> <span class="toctext">Коммерческие системы оптических пинцетов</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Ссылки"><span class="tocnumber">11</span> <span class="toctext">Ссылки</span></a></li>
+</ul>
+</div>
+<h2><span id=".D0.98.D1.81.D1.82.D0.BE.D1.80.D0.B8.D1.8F"></span><span class="mw-headline" id="История">История</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9E%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B8%D0%BD%D1%86%D0%B5%D1%82&amp;veaction=edit&amp;section=1" title="Редактировать раздел «История»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9E%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B8%D0%BD%D1%86%D0%B5%D1%82&amp;action=edit&amp;section=1" title="Редактировать код раздела «История»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Ещё в <a href="/wiki/XVII_%D0%B2%D0%B5%D0%BA" title="XVII век">XVII веке</a> <a href="/wiki/%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F" title="Германия">немецкий</a> <a class="mw-redirect" href="/wiki/%D0%90%D1%81%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC%D1%8B" title="Астрономы">астроном</a> <a href="/wiki/%D0%9A%D0%B5%D0%BF%D0%BB%D0%B5%D1%80,_%D0%98%D0%BE%D0%B3%D0%B0%D0%BD%D0%BD" title="Кеплер, Иоганн">Иоганн Кеплер</a>, исходя из наблюдений за хвостами <a href="/wiki/%D0%9A%D0%BE%D0%BC%D0%B5%D1%82%D0%B0" title="Комета">комет</a> при приближении к <a href="/wiki/%D0%A1%D0%BE%D0%BB%D0%BD%D1%86%D0%B5" title="Солнце">Солнцу</a>, предположил, что свет может оказывать давление на вещество. Хотя позже оказалось, что это не единственный механизм этого отклонения, идея Кеплера оказалась плодотворной для развития астрономии. Например, было показано, что световое (<a class="mw-redirect" href="/wiki/%D0%94%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D1%81%D0%B2%D0%B5%D1%82%D0%B0" title="Давление света">радиационное давление</a>) — один из самых главных механизмов, которые отвечают за динамику частиц в межзвёздном пространстве.
+</p><p>Через два столетия после исследований Кеплера <a href="/wiki/%D0%9C%D0%B0%D0%BA%D1%81%D0%B2%D0%B5%D0%BB%D0%BB,_%D0%94%D0%B6%D0%B5%D0%B9%D0%BC%D1%81_%D0%9A%D0%BB%D0%B5%D1%80%D0%BA" title="Максвелл, Джеймс Клерк">Джеймс Максвелл</a> рассчитал значение светового давления с помощью своей <a href="/wiki/%D0%A3%D1%80%D0%B0%D0%B2%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F_%D0%9C%D0%B0%D0%BA%D1%81%D0%B2%D0%B5%D0%BB%D0%BB%D0%B0" title="Уравнения Максвелла">теории электромагнитных явлений</a>. Этот эффект был экспериментально измерен в 1910 году российским физиком <a href="/wiki/%D0%9B%D0%B5%D0%B1%D0%B5%D0%B4%D0%B5%D0%B2,_%D0%9F%D1%91%D1%82%D1%80_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87" title="Лебедев, Пётр Николаевич">Петром Лебедевым</a>, который продемонстрировал, что свет оказывает давление на тела.
+</p><p>В 1970 году описание действия сил, связанных с рассеиванием и градиентами интенсивности света на частицы микронных размеров, было опубликовано в научной литературе <a class="mw-redirect" href="/wiki/%D0%90%D1%88%D0%BA%D0%B8%D0%BD,_%D0%90%D1%80%D1%82%D1%83%D1%80" title="Ашкин, Артур">Артуром Ашкином</a> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">Arthur Ashkin</span>), сотрудником <a class="mw-redirect" href="/wiki/Bell_Labs" title="Bell Labs">Bell Labs</a><sup class="reference" id="cite_ref-ashkin_PRB_1970_4-0"><a href="#cite_note-ashkin_PRB_1970-4">[4]</a></sup>.
+</p><p>Много позже Ашкин и коллеги сообщили о первом наблюдении того, что в настоящий момент называется оптической ловушкой, то есть сфокусированного пучка света, способного к удержанию микроскопических частиц (10 <a class="mw-redirect" href="/wiki/%D0%9D%D0%BC" title="Нм">нм</a> — 10 <a class="mw-redirect" href="/wiki/%D0%9C%D0%BA%D0%BC" title="Мкм">мкм</a>) неподвижно в трёх измерениях<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup>.
+</p><p>Подобный принцип используется и для <a href="/wiki/%D0%9B%D0%B0%D0%B7%D0%B5%D1%80%D0%BD%D0%BE%D0%B5_%D0%BE%D1%85%D0%BB%D0%B0%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Лазерное охлаждение">лазерного охлаждения</a> — метода, который позволил довести <a href="/wiki/%D0%A2%D0%B5%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0" title="Температура">температуру</a> атомов в оптической ловушке до наименьших значений, недосягаемых другими средствами. Метод был предложен советским физиком <a href="/wiki/%D0%9B%D0%B5%D1%82%D0%BE%D1%85%D0%BE%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BB%D0%B5%D0%BD_%D0%A1%D1%82%D0%B5%D0%BF%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87" title="Летохов, Владилен Степанович">Летоховым</a> в 1968 году<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup> и реализован той же группой Ашкина в 1978 году<sup class="reference" id="cite_ref-ashkin_PRL_1978_7-0"><a href="#cite_note-ashkin_PRL_1978-7">[7]</a></sup>. Исследовательскую работу продолжил <a class="mw-redirect" href="/wiki/%D0%A1%D1%82%D0%B8%D0%B2%D0%B5%D0%BD_%D0%A7%D1%83" title="Стивен Чу">Стивен Чу</a> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">Steven Chu</span>) (в прошлом сотрудник Ашкина), который за эту работу получил <a href="/wiki/%D0%9D%D0%BE%D0%B1%D0%B5%D0%BB%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%8F" title="Нобелевская премия">Нобелевскую премию</a> в 1997 году.
+</p><p>В 1980-х годах <a class="new" href="/w/index.php?title=%D0%A1%D1%82%D0%B8%D0%B2%D0%B5%D0%BD_%D0%91%D0%BB%D0%BE%D0%BA&amp;action=edit&amp;redlink=1" title="Стивен Блок (страница отсутствует)">Стивен Блок</a> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">Steven Block</span>) и <a class="new" href="/w/index.php?title=%D0%93%D0%BE%D0%B2%D0%B0%D1%80%D0%B4_%D0%91%D0%B5%D1%80%D0%B3&amp;action=edit&amp;redlink=1" title="Говард Берг (страница отсутствует)">Говард Берг</a> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">Howard Berg</span>) впервые применили технологию оптического пинцета в <a href="/wiki/%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Биология">биологии</a>, используя её, чтобы удержать <a class="mw-redirect" href="/wiki/%D0%91%D0%B0%D0%BA%D1%82%D0%B5%D1%80%D0%B8%D1%8F" title="Бактерия">бактерию</a> с целью изучения бактериальных <a href="/wiki/%D0%96%D0%B3%D1%83%D1%82%D0%B8%D0%BA" title="Жгутик">жгутиков</a>. Уже в 1990-х годах исследователи, такие как <a class="new" href="/w/index.php?title=%D0%9A%D0%B0%D1%80%D0%BB%D0%BE%D1%81_%D0%91%D1%83%D1%81%D1%82%D0%B0%D0%BC%D0%B0%D0%BD%D1%82%D0%B5&amp;action=edit&amp;redlink=1" title="Карлос Бустаманте (страница отсутствует)">Карлос Бустаманте</a> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">Carlos Bustamante</span>), <a class="new" href="/w/index.php?title=%D0%94%D0%B6%D0%B5%D0%B9%D0%BC%D1%81_%D0%A1%D0%BF%D1%83%D0%B4%D0%B8%D1%87&amp;action=edit&amp;redlink=1" title="Джеймс Спудич (страница отсутствует)">Джеймс Спудич</a> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">James Spudich</span>) и Стивен Блок применили принцип оптической <a href="/wiki/%D0%A1%D0%B8%D0%BB%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F" title="Силовая спектроскопия">силовой спектроскопии</a>, чтобы характеризовать <a class="new" href="/w/index.php?title=%D0%9C%D0%BE%D0%BB%D0%B5%D0%BA%D1%83%D0%BB%D1%8F%D1%80%D0%BD%D1%8B%D0%B9_%D0%BC%D0%BE%D1%82%D0%BE%D1%80&amp;action=edit&amp;redlink=1" title="Молекулярный мотор (страница отсутствует)">биологические двигатели молекулярного масштаба</a>. Эти молекулярные моторы встречаются повсеместно в биологии, и отвечают за <a class="new" href="/w/index.php?title=%D0%9F%D0%B5%D1%80%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BA%D0%BB%D0%B5%D1%82%D0%BE%D0%BA&amp;action=edit&amp;redlink=1" title="Передвижение клеток (страница отсутствует)">передвижение клеток</a>, изменение их формы и за <a class="new" href="/w/index.php?title=%D0%9A%D0%BB%D0%B5%D1%82%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82&amp;action=edit&amp;redlink=1" title="Клеточный транспорт (страница отсутствует)">транспорт</a> в пределах <a href="/wiki/%D0%9A%D0%BB%D0%B5%D1%82%D0%BA%D0%B0" title="Клетка">клетки</a>. Оптические ловушки позволили этим<sup class="ts-fix-template">[<i><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D1%8F%D0%B5%D0%BC%D0%BE%D1%81%D1%82%D1%8C#Бремя_доказательства" title="Википедия:Проверяемость"><span title="информация нуждается в подтверждении авторитетными источниками">уточнить</span></a></i>]</sup> <a href="/wiki/%D0%91%D0%B8%D0%BE%D1%84%D0%B8%D0%B7%D0%B8%D0%BA%D0%B0" title="Биофизика">биофизикам</a> наблюдать силы и динамику молекулярных моторов на примере одной молекулы. Оптическая силовая спектроскопия позволила лучше понять стохастическую (случайную) природу этих преобразующих энергию молекул.<sup class="ts-fix-template">[<i><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D1%8F%D0%B5%D0%BC%D0%BE%D1%81%D1%82%D1%8C#Бремя_доказательства" title="Википедия:Проверяемость"><span title="информация нуждается в подтверждении авторитетными источниками">уточнить</span></a></i>]</sup>
+</p><p>Оптический пинцет оказался полезными также и в других областях <a href="/wiki/%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Биология">биологии</a>. Например, в 2003 году метод оптического удержания был использован для <a class="new" href="/w/index.php?title=%D0%A1%D0%BE%D1%80%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0_%D0%BA%D0%BB%D0%B5%D1%82%D0%BE%D0%BA&amp;action=edit&amp;redlink=1" title="Сортировка клеток (страница отсутствует)">сортировки клеток</a>. Создавая большую оптическую интенсивность над образцом, клетки можно сортировать по их собственным оптическим характеристикам<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup><sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup>. Оптический пинцет также используется для исследования белков, формирующих <a href="/wiki/%D0%A6%D0%B8%D1%82%D0%BE%D1%81%D0%BA%D0%B5%D0%BB%D0%B5%D1%82" title="Цитоскелет">цитоскелет</a><sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup>, измерения вязкости и упругости <a href="/wiki/%D0%91%D0%B8%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D0%BC%D0%B5%D1%80%D1%8B" title="Биополимеры">биополимеров</a> и изучения движения клеток.
+</p>
+<h2><span id=".D0.A4.D0.B8.D0.B7.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D0.BF.D1.80.D0.B8.D0.BD.D1.86.D0.B8.D0.BF.D1.8B"></span><span class="mw-headline" id="Физические_принципы">Физические принципы</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9E%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B8%D0%BD%D1%86%D0%B5%D1%82&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Физические принципы»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9E%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B8%D0%BD%D1%86%D0%B5%D1%82&amp;action=edit&amp;section=2" title="Редактировать код раздела «Физические принципы»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Объекты, представляемые в виде маленьких <a class="mw-redirect" href="/wiki/%D0%94%D0%B8%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D0%BA%D0%B8" title="Диэлектрики">диэлектрических</a> сфер взаимодействуют с <a href="/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%BF%D0%BE%D0%BB%D0%B5" title="Электрическое поле">электрическим полем</a>, созданным <a href="/wiki/%D0%A1%D0%B2%D0%B5%D1%82" title="Свет">световой</a> волной, за счёт индуцированного на сфере <a class="mw-redirect" href="/wiki/%D0%94%D0%B8%D0%BF%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BC%D0%BE%D0%BC%D0%B5%D0%BD%D1%82" title="Дипольный момент">дипольного момента</a>. В результате взаимодействия этого диполя с электрическим полем электромагнитной волны объект перемещается вдоль <a href="/wiki/%D0%93%D1%80%D0%B0%D0%B4%D0%B8%D0%B5%D0%BD%D1%82" title="Градиент">градиента</a> электрического поля. Кроме <i>градиентной силы</i>, на объект также действует сила, вызванная давлением (<a href="/wiki/%D0%9E%D1%82%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_(%D1%84%D0%B8%D0%B7%D0%B8%D0%BA%D0%B0)" title="Отражение (физика)">отражением</a>) света от его поверхности. Эта сила толкает сферу по направлению пучка света. Однако, если луч света сильно сфокусирован, величина градиента интенсивности может быть больше величины давления света<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup>.
+</p><p>Более детальный анализ основан на двух механизмах, предложенных Ашкином, в зависимости от размера частицы. Из <a href="/wiki/%D0%A0%D0%B0%D1%81%D1%81%D0%B5%D1%8F%D0%BD%D0%B8%D0%B5_%D1%81%D0%B2%D0%B5%D1%82%D0%B0" title="Рассеяние света">теории рассеяния света</a> известно, что механизм рассеяния света частицей зависит от соотношения размеров частицы и длины световой волны. Если размер рассеивающих частиц намного меньше, чем <a href="/wiki/%D0%94%D0%BB%D0%B8%D0%BD%D0%B0_%D0%B2%D0%BE%D0%BB%D0%BD%D1%8B" title="Длина волны">длина волны</a> света, то имеет место <a href="/wiki/%D0%A0%D1%8D%D0%BB%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B5_%D1%80%D0%B0%D1%81%D1%81%D0%B5%D1%8F%D0%BD%D0%B8%D0%B5" title="Рэлеевское рассеяние">рэлеевское рассеяние</a>. Когда свет рассеивается на частицах (пыль, дым, водные капельки), которые имеют размер больше, чем длина волны, это <a href="/wiki/%D0%A0%D0%B0%D1%81%D1%81%D0%B5%D1%8F%D0%BD%D0%B8%D0%B5_%D0%9C%D0%B8" title="Рассеяние Ми">рассеяние Ми</a> (по имени <a href="/wiki/%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F" title="Германия">немецкого</a> физика <a class="mw-redirect" href="/wiki/%D0%93%D1%83%D1%81%D1%82%D0%B0%D0%B2_%D0%9C%D0%B8" title="Густав Ми">Густава Ми</a>). Рассеяние Ми отвечает за белый и серый цвет <a class="mw-redirect" href="/wiki/%D0%9E%D0%B1%D0%BB%D0%B0%D0%BA%D0%BE" title="Облако">облаков</a>.
+</p><p>Придерживаясь той же идеи, Ашкин предложил, что для математического анализа оптического микроманипулирования можно использовать два разных метода, а именно: подходом <a class="mw-redirect" href="/wiki/%D0%A4%D0%B8%D0%B7%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%B0" title="Физическая оптика">физической оптики</a> для миевских частиц (когда диаметр частицы больше <a href="/wiki/%D0%94%D0%BB%D0%B8%D0%BD%D0%B0_%D0%B2%D0%BE%D0%BB%D0%BD%D1%8B" title="Длина волны">длины волны</a> света <i>d</i> &gt; λ) и в приближении <a class="mw-redirect" href="/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B8%D0%BF%D0%BE%D0%BB%D1%8C" title="Электрический диполь">электрического диполя</a> для релеевских частиц (<i>d</i> &lt; λ).
+</p>
+<h3><span id=".D0.A4.D0.B8.D0.B7.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B0.D1.8F_.D0.BE.D0.BF.D1.82.D0.B8.D0.BA.D0.B0"></span><span class="mw-headline" id="Физическая_оптика">Физическая оптика</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9E%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B8%D0%BD%D1%86%D0%B5%D1%82&amp;veaction=edit&amp;section=3" title="Редактировать раздел «Физическая оптика»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9E%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B8%D0%BD%D1%86%D0%B5%D1%82&amp;action=edit&amp;section=3" title="Редактировать код раздела «Физическая оптика»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Optical_Trap_Ray_Optics_Explanation.jpg"><img class="mw-file-element" data-file-height="748" data-file-width="1136" decoding="async" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Optical_Trap_Ray_Optics_Explanation.jpg/250px-Optical_Trap_Ray_Optics_Explanation.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Optical_Trap_Ray_Optics_Explanation.jpg/375px-Optical_Trap_Ray_Optics_Explanation.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Optical_Trap_Ray_Optics_Explanation.jpg/500px-Optical_Trap_Ray_Optics_Explanation.jpg 2x" width="250"/></a><figcaption><b>Объяснение на основе физической оптики.</b> Когда шар смещается от центра пучка, как на рисунке (a), наибольшее изменение импульса лучей с большей интенсивностью вызывает появление силы, направленной к центру ловушки. Когда шар расположен в центре пучка, как показано на рисунке (b), сила указывает в сторону сужения</figcaption></figure>
+<p>При анализе с использованием физической оптики рассмотрение процессов преломления и отражения света от микросферы достаточно, чтобы проанализировать втягивание в оптическую ловушку (см. рисунок справа).
+</p><p>Самый простой расчёт действующих сил в пределах подхода физической оптики основывается на <a href="/wiki/%D0%93%D0%B5%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%B0" title="Геометрическая оптика">геометрической оптике</a>. Рассмотрение луча указывает на изменение <a href="/wiki/%D0%98%D0%BC%D0%BF%D1%83%D0%BB%D1%8C%D1%81" title="Импульс">импульса</a> света при отражении и преломлении. Таким образом, это изменение импульса (<a href="/wiki/%D0%A4%D0%BE%D1%82%D0%BE%D0%BD" title="Фотон">фотона</a> как частицы), согласно второму <a href="/wiki/%D0%97%D0%B0%D0%BA%D0%BE%D0%BD%D1%8B_%D0%9D%D1%8C%D1%8E%D1%82%D0%BE%D0%BD%D0%B0" title="Законы Ньютона">закону Ньютона</a>, будет приводить к возникновению силы.
+</p><p>Используя простую диаграмму лучей и вектора силы, можно показать, что на микросферу действуют две разные оптические силы благодаря <a href="/wiki/%D0%98%D0%BD%D0%B5%D1%80%D1%86%D0%B8%D1%8F" title="Инерция">инерции</a> падающего и <a href="/wiki/%D0%9F%D1%80%D0%B5%D0%BB%D0%BE%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5" title="Преломление">преломлённого</a> света. Как это видно из диаграммы, результирующая сила толкает сферу в направлении области наивысшей интенсивности луча. Такая сила называется <i>градиентной силой</i>.
+</p><p>Ашкин в своём первом эксперименте<sup class="reference" id="cite_ref-ashkin_PRB_1970_4-1"><a href="#cite_note-ashkin_PRB_1970-4">[4]</a></sup> использовал милливаттный <a href="/wiki/%D0%93%D0%B0%D1%83%D1%81%D1%81%D0%BE%D0%B2_%D0%BF%D1%83%D1%87%D0%BE%D0%BA" title="Гауссов пучок">гауссов пучок</a> одномодового (TEM<sub>00</sub>) <a href="/wiki/%D0%90%D1%80%D0%B3%D0%BE%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9_%D0%BB%D0%B0%D0%B7%D0%B5%D1%80" title="Аргоновый лазер">аргонового лазера</a> с длиной волны 514,5 нм, сфокусированного в пятно диаметром <i>w</i><sub>0</sub> = 6,2 мкм. Он двигал с помощью этого пучка <a href="/wiki/%D0%9B%D0%B0%D1%82%D0%B5%D0%BA%D1%81" title="Латекс">латексные</a> сферы диаметром 0,51; 1,31 и 2,68 мкм в воде и воздухе. Для сфер радиуса <i>r</i> = 1,31 мкм, помещённых в воду, и мощности лазера <i>P</i> = 19 мВт скорость сфер достигала 26 мкм/с. А из оценки по формуле
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle v={\frac {2qPr}{3\pi cw_{0}^{2}\eta }},}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>v</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mn>2</mn>
+<mi>q</mi>
+<mi>P</mi>
+<mi>r</mi>
+</mrow>
+<mrow>
+<mn>3</mn>
+<mi>π<!-- π --></mi>
+<mi>c</mi>
+<msubsup>
+<mi>w</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msubsup>
+<mi>η<!-- η --></mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle v={\frac {2qPr}{3\pi cw_{0}^{2}\eta }},}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle v={\frac {2qPr}{3\pi cw_{0}^{2}\eta }},}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ade1b74cec09f7073df3d5d45ac3a3d159e1260e" style="vertical-align: -3.005ex; width:13.098ex; height:6.509ex;"/></span></dd></dl>
+<p>где <i>q</i> — доля света, эффективно отражённого от сферы (0,062), <i>c</i> — скорость света, η — <a class="mw-redirect" href="/wiki/%D0%94%D0%B8%D0%BD%D0%B0%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B2%D1%8F%D0%B7%D0%BA%D0%BE%D1%81%D1%82%D1%8C" title="Динамическая вязкость">динамическая вязкость</a> жидкости (1 мПа·с для воды) получилось 29 мкм/с. А соответствующая сила, действующая на частицу, получается из <a href="/wiki/%D0%97%D0%B0%D0%BA%D0%BE%D0%BD_%D0%A1%D1%82%D0%BE%D0%BA%D1%81%D0%B0" title="Закон Стокса">закона Стокса</a>
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle F=6\pi r\eta v}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>F</mi>
+<mo>=</mo>
+<mn>6</mn>
+<mi>π<!-- π --></mi>
+<mi>r</mi>
+<mi>η<!-- η --></mi>
+<mi>v</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle F=6\pi r\eta v}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle F=6\pi r\eta v}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/84a9ca1c67dfe46c15a4cc86eceee0d1c1116cde" style="vertical-align: -0.838ex; width:10.679ex; height:2.676ex;"/></span></dd></dl>
+<p>и составляет 730 фН.
+</p><p>В воздухе максимальная скорость для капель воды диаметром 5 мкм при мощности лазера 50 мВт составила 0,25 см/c<sup class="reference" id="cite_ref-ashkin_PRB_1970_4-2"><a href="#cite_note-ashkin_PRB_1970-4">[4]</a></sup>.
+</p><p>Чтобы исследуемый объект был неподвижен, необходимо скомпенсировать силу, вызванную давлением света. Это можно сделать за счёт двух встречных пучков света, которые толкают сферу в противоположных направлениях, или с помощью сильно сфокусированного <a href="/wiki/%D0%93%D0%B0%D1%83%D1%81%D1%81%D0%BE%D0%B2_%D0%BF%D1%83%D1%87%D0%BE%D0%BA" title="Гауссов пучок">гауссового пучка</a> (с высокой <a class="mw-redirect" href="/wiki/%D0%A7%D0%B8%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B0%D0%BF%D0%B5%D1%80%D1%82%D1%83%D1%80%D0%B0" title="Числовая апертура">числовой апертурой</a>, NA &gt; 1,0), чтобы компенсировать давление света высокой <i>градиентной силой</i>.
+</p><p>С другой стороны, в релеевском режиме частицы не ограничены по форме. Вообще, для наименьших частиц нужна наименьшая сила притягивания. В большинстве случаев для объяснения рабочего механизма лазерного пинцета для любой формы частиц используют модель приведённого диполя. Электромагнитное излучение будет индуцировать дипольный момент, или <a class="mw-redirect" href="/wiki/%D0%9F%D0%BE%D0%BB%D1%8F%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F_%D0%B4%D0%B8%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D0%BA%D0%B0" title="Поляризация диэлектрика">поляризацию</a>, в диэлектрической частице. Сила взаимодействия этого диполя со светом приводит к <i>градиентной силе</i> притягивания.
+</p><p>Подробная информация о приборе оптической ловушки лаборатории Стивена Блока размещена на сайте Стэнфордского университета<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup>.
+</p>
+<h3><span id=".D0.9F.D1.80.D0.B8.D0.B1.D0.BB.D0.B8.D0.B6.D0.B5.D0.BD.D0.B8.D0.B5_.D1.8D.D0.BB.D0.B5.D0.BA.D1.82.D1.80.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.BE.D0.B3.D0.BE_.D0.B4.D0.B8.D0.BF.D0.BE.D0.BB.D1.8F"></span><span class="mw-headline" id="Приближение_электрического_диполя">Приближение электрического диполя</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9E%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B8%D0%BD%D1%86%D0%B5%D1%82&amp;veaction=edit&amp;section=4" title="Редактировать раздел «Приближение электрического диполя»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9E%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B8%D0%BD%D1%86%D0%B5%D1%82&amp;action=edit&amp;section=4" title="Редактировать код раздела «Приближение электрического диполя»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>В случаях, когда диаметр пойманной в ловушку частицы значительно меньше, чем длина волны света, условия удовлетворяют <a class="mw-redirect" href="/wiki/%D0%A0%D0%B0%D1%81%D1%81%D0%B5%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%A0%D1%8D%D0%BB%D0%B5%D1%8F" title="Рассеивание Рэлея">условию рассеивания Рэлея</a>, и частицу можно рассмотреть как точечный <a href="/wiki/%D0%94%D0%B8%D0%BF%D0%BE%D0%BB%D1%8C_(%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0%D0%BC%D0%B8%D0%BA%D0%B0)" title="Диполь (электродинамика)">диполь</a> в неоднородном <a href="/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BC%D0%B0%D0%B3%D0%BD%D0%B8%D1%82%D0%BD%D0%BE%D0%B5_%D0%BF%D0%BE%D0%BB%D0%B5" title="Электромагнитное поле">электромагнитном поле</a>. Сила, действующая на заряжённую частицу в электромагнитной области, известна как <a href="/wiki/%D0%A1%D0%B8%D0%BB%D0%B0_%D0%9B%D0%BE%D1%80%D0%B5%D0%BD%D1%86%D0%B0" title="Сила Лоренца">сила Лоренца</a>:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {F} _{1}=q\left(\mathbf {E} _{1}+{\frac {d\mathbf {x} _{1}}{dt}}\times \mathbf {B} \right).}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">F</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>=</mo>
+<mi>q</mi>
+<mrow>
+<mo>(</mo>
+<mrow>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">E</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>d</mi>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">x</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mi>d</mi>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>×<!-- × --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">B</mi>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {F} _{1}=q\left(\mathbf {E} _{1}+{\frac {d\mathbf {x} _{1}}{dt}}\times \mathbf {B} \right).}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbf {F} _{1}=q\left(\mathbf {E} _{1}+{\frac {d\mathbf {x} _{1}}{dt}}\times \mathbf {B} \right).}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a056d9fdfaa5319c2f6736228c2b4079c0a0839f" style="vertical-align: -2.505ex; width:26.658ex; height:6.176ex;"/></span></dd></dl>
+<p>Сила действующая на диполь вычисляется по сумме сил, действующих на отдельные заряды: <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {F} =\mathbf {F} _{1}+\mathbf {F} _{2}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">F</mi>
+</mrow>
+<mo>=</mo>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">F</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>+</mo>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">F</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {F} =\mathbf {F} _{1}+\mathbf {F} _{2}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbf {F} =\mathbf {F} _{1}+\mathbf {F} _{2}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a8066ad67cc7a20c9b1a1993cf3b4777052d5936" style="vertical-align: -0.671ex; width:13.095ex; height:2.509ex;"/></span>,
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {F} =q\left(\mathbf {E} _{1}(x,y,z)-\mathbf {E} _{2}(x,y,z)+{\frac {d(\mathbf {x} _{1}-\mathbf {x} _{2})}{dt}}\times \mathbf {B} \right).}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">F</mi>
+</mrow>
+<mo>=</mo>
+<mi>q</mi>
+<mrow>
+<mo>(</mo>
+<mrow>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">E</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo>,</mo>
+<mi>y</mi>
+<mo>,</mo>
+<mi>z</mi>
+<mo stretchy="false">)</mo>
+<mo>−<!-- − --></mo>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">E</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo>,</mo>
+<mi>y</mi>
+<mo>,</mo>
+<mi>z</mi>
+<mo stretchy="false">)</mo>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>d</mi>
+<mo stretchy="false">(</mo>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">x</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">x</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+</mrow>
+<mrow>
+<mi>d</mi>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>×<!-- × --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">B</mi>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {F} =q\left(\mathbf {E} _{1}(x,y,z)-\mathbf {E} _{2}(x,y,z)+{\frac {d(\mathbf {x} _{1}-\mathbf {x} _{2})}{dt}}\times \mathbf {B} \right).}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbf {F} =q\left(\mathbf {E} _{1}(x,y,z)-\mathbf {E} _{2}(x,y,z)+{\frac {d(\mathbf {x} _{1}-\mathbf {x} _{2})}{dt}}\times \mathbf {B} \right).}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e6fa2357dcaaa2978aac08f6c8ba71dfe0bb28ae" style="vertical-align: -2.505ex; width:53.271ex; height:6.343ex;"/></span></dd></dl>
+<p>Из-за малости расстояния <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {d} =\mathbf {x} _{1}-\mathbf {x} _{2}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">d</mi>
+</mrow>
+<mo>=</mo>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">x</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">x</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {d} =\mathbf {x} _{1}-\mathbf {x} _{2}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbf {d} =\mathbf {x} _{1}-\mathbf {x} _{2}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fe4506a63b996cd28e1e70df15db2d401d193764" style="vertical-align: -0.671ex; width:12.355ex; height:2.509ex;"/></span> между зарядами в диполе можно разложить электрическое поле вблизи первого заряда:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {F} =q\left(\mathbf {E} _{1}(x,y,z)+(\mathbf {d} \cdot \nabla )\mathbf {E} -\mathbf {E} _{1}(x,y,z)+{\frac {d\mathbf {d} }{dt}}\times \mathbf {B} \right).}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">F</mi>
+</mrow>
+<mo>=</mo>
+<mi>q</mi>
+<mrow>
+<mo>(</mo>
+<mrow>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">E</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo>,</mo>
+<mi>y</mi>
+<mo>,</mo>
+<mi>z</mi>
+<mo stretchy="false">)</mo>
+<mo>+</mo>
+<mo stretchy="false">(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">d</mi>
+</mrow>
+<mo>⋅<!-- ⋅ --></mo>
+<mi mathvariant="normal">∇<!-- ∇ --></mi>
+<mo stretchy="false">)</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">E</mi>
+</mrow>
+<mo>−<!-- − --></mo>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">E</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo>,</mo>
+<mi>y</mi>
+<mo>,</mo>
+<mi>z</mi>
+<mo stretchy="false">)</mo>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>d</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">d</mi>
+</mrow>
+</mrow>
+<mrow>
+<mi>d</mi>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>×<!-- × --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">B</mi>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {F} =q\left(\mathbf {E} _{1}(x,y,z)+(\mathbf {d} \cdot \nabla )\mathbf {E} -\mathbf {E} _{1}(x,y,z)+{\frac {d\mathbf {d} }{dt}}\times \mathbf {B} \right).}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbf {F} =q\left(\mathbf {E} _{1}(x,y,z)+(\mathbf {d} \cdot \nabla )\mathbf {E} -\mathbf {E} _{1}(x,y,z)+{\frac {d\mathbf {d} }{dt}}\times \mathbf {B} \right).}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/735806a4ebdab79d2fa1e60ab6275c46b550be79" style="vertical-align: -2.505ex; width:56.683ex; height:6.176ex;"/></span></dd></dl>
+<p>Заметьте, что <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {E} _{1}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">E</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {E} _{1}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbf {E} _{1}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/96dda96911121bf5e457b6c1921c52705ae0f156" style="vertical-align: -0.671ex; width:2.811ex; height:2.509ex;"/></span> сокращается. Раскрывая скобки и заменяя произведение заряда <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle q}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>q</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle q}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle q}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/06809d64fa7c817ffc7e323f85997f783dbdf71d" style="vertical-align: -0.671ex; width:1.07ex; height:2.009ex;"/></span> на расстояние <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {d} }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">d</mi>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {d} }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbf {d} }" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8ec3b626fc045b6ff579316e29978fccfed884c2" style="vertical-align: -0.338ex; width:1.485ex; height:2.176ex;"/></span> <a href="/wiki/%D0%9F%D0%BE%D0%BB%D1%8F%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F_%D0%B2%D0%BE%D0%BB%D0%BD" title="Поляризация волн">поляризацией</a> диполя <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {p} =q\mathbf {d} }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">p</mi>
+</mrow>
+<mo>=</mo>
+<mi>q</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">d</mi>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {p} =q\mathbf {d} }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbf {p} =q\mathbf {d} }" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/26a18e6de42eefeae4e1dfdf364395e4304bdb04" style="vertical-align: -0.671ex; width:7.139ex; height:2.509ex;"/></span>, получим
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {F} =(\mathbf {p} \cdot \nabla )\mathbf {E} +{\frac {d\mathbf {p} }{dt}}\times \mathbf {B} =\alpha \left[(\mathbf {E} \cdot \nabla )\mathbf {E} +{\frac {d\mathbf {E} }{dt}}\times \mathbf {B} \right],}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">F</mi>
+</mrow>
+<mo>=</mo>
+<mo stretchy="false">(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">p</mi>
+</mrow>
+<mo>⋅<!-- ⋅ --></mo>
+<mi mathvariant="normal">∇<!-- ∇ --></mi>
+<mo stretchy="false">)</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">E</mi>
+</mrow>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>d</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">p</mi>
+</mrow>
+</mrow>
+<mrow>
+<mi>d</mi>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>×<!-- × --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">B</mi>
+</mrow>
+<mo>=</mo>
+<mi>α<!-- α --></mi>
+<mrow>
+<mo>[</mo>
+<mrow>
+<mo stretchy="false">(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">E</mi>
+</mrow>
+<mo>⋅<!-- ⋅ --></mo>
+<mi mathvariant="normal">∇<!-- ∇ --></mi>
+<mo stretchy="false">)</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">E</mi>
+</mrow>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>d</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">E</mi>
+</mrow>
+</mrow>
+<mrow>
+<mi>d</mi>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>×<!-- × --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">B</mi>
+</mrow>
+</mrow>
+<mo>]</mo>
+</mrow>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {F} =(\mathbf {p} \cdot \nabla )\mathbf {E} +{\frac {d\mathbf {p} }{dt}}\times \mathbf {B} =\alpha \left[(\mathbf {E} \cdot \nabla )\mathbf {E} +{\frac {d\mathbf {E} }{dt}}\times \mathbf {B} \right],}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbf {F} =(\mathbf {p} \cdot \nabla )\mathbf {E} +{\frac {d\mathbf {p} }{dt}}\times \mathbf {B} =\alpha \left[(\mathbf {E} \cdot \nabla )\mathbf {E} +{\frac {d\mathbf {E} }{dt}}\times \mathbf {B} \right],}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fe34f6de2721f0f36a11eae3735cfb5cab3b16ad" style="vertical-align: -2.505ex; width:53.358ex; height:6.176ex;"/></span></dd></dl>
+<p>где во втором равенстве предположено, что поляризация частицы является линейной функцией электрического поля (то есть <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {p} =\alpha \mathbf {E} }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">p</mi>
+</mrow>
+<mo>=</mo>
+<mi>α<!-- α --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">E</mi>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {p} =\alpha \mathbf {E} }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbf {p} =\alpha \mathbf {E} }" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f81aa00ba62057b18f8d2250e1311164cb34ccfe" style="vertical-align: -0.671ex; width:7.828ex; height:2.509ex;"/></span>).
+</p><p>Если теперь использовать <a href="/wiki/%D0%92%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%BD%D1%8B%D0%B9_%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7" title="Векторный анализ">уравнение из векторного анализа</a>
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle (\mathbf {E} \cdot \nabla )\mathbf {E} =\nabla \left({\frac {1}{2}}E^{2}\right)-\mathbf {E} \times (\nabla \times \mathbf {E} )}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo stretchy="false">(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">E</mi>
+</mrow>
+<mo>⋅<!-- ⋅ --></mo>
+<mi mathvariant="normal">∇<!-- ∇ --></mi>
+<mo stretchy="false">)</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">E</mi>
+</mrow>
+<mo>=</mo>
+<mi mathvariant="normal">∇<!-- ∇ --></mi>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</mrow>
+<msup>
+<mi>E</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">E</mi>
+</mrow>
+<mo>×<!-- × --></mo>
+<mo stretchy="false">(</mo>
+<mi mathvariant="normal">∇<!-- ∇ --></mi>
+<mo>×<!-- × --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">E</mi>
+</mrow>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle (\mathbf {E} \cdot \nabla )\mathbf {E} =\nabla \left({\frac {1}{2}}E^{2}\right)-\mathbf {E} \times (\nabla \times \mathbf {E} )}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle (\mathbf {E} \cdot \nabla )\mathbf {E} =\nabla \left({\frac {1}{2}}E^{2}\right)-\mathbf {E} \times (\nabla \times \mathbf {E} )}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c0c5beffcd650eff91bccccc89a7406dcaece3ac" style="vertical-align: -2.505ex; width:38.408ex; height:6.176ex;"/></span></dd></dl>
+<p>и <a href="/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BC%D0%B0%D0%B3%D0%BD%D0%B8%D1%82%D0%BD%D0%B0%D1%8F_%D0%B8%D0%BD%D0%B4%D1%83%D0%BA%D1%86%D0%B8%D1%8F" title="Электромагнитная индукция">одно из уравнений Максвелла</a>,
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \nabla \times \mathbf {E} =-{\frac {\partial \mathbf {B} }{\partial t}},}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">∇<!-- ∇ --></mi>
+<mo>×<!-- × --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">E</mi>
+</mrow>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">B</mi>
+</mrow>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \nabla \times \mathbf {E} =-{\frac {\partial \mathbf {B} }{\partial t}},}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \nabla \times \mathbf {E} =-{\frac {\partial \mathbf {B} }{\partial t}},}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5eda6fde073e190c60d87aebb315fe532b1498f7" style="vertical-align: -2.005ex; width:16.142ex; height:5.509ex;"/></span></dd></dl>
+<p>то получим
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {F} =\alpha \left[{\frac {1}{2}}\nabla E^{2}+{\frac {d}{dt}}(\mathbf {E} \times \mathbf {B} )\right].}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">F</mi>
+</mrow>
+<mo>=</mo>
+<mi>α<!-- α --></mi>
+<mrow>
+<mo>[</mo>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</mrow>
+<mi mathvariant="normal">∇<!-- ∇ --></mi>
+<msup>
+<mi>E</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>d</mi>
+<mrow>
+<mi>d</mi>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo stretchy="false">(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">E</mi>
+</mrow>
+<mo>×<!-- × --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">B</mi>
+</mrow>
+<mo stretchy="false">)</mo>
+</mrow>
+<mo>]</mo>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {F} =\alpha \left[{\frac {1}{2}}\nabla E^{2}+{\frac {d}{dt}}(\mathbf {E} \times \mathbf {B} )\right].}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbf {F} =\alpha \left[{\frac {1}{2}}\nabla E^{2}+{\frac {d}{dt}}(\mathbf {E} \times \mathbf {B} )\right].}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0748c32db6c969d0d682ffba03c912f79bafcfb2" style="vertical-align: -2.505ex; width:30.967ex; height:6.176ex;"/></span></dd></dl>
+<p>Второе слагаемое в последнем равенстве — производная по времени величины, которая связана через постоянный множитель с <a class="mw-redirect" href="/wiki/%D0%92%D0%B5%D0%BA%D1%82%D0%BE%D1%80_%D0%9F%D0%BE%D0%B9%D0%BD%D1%82%D0%B8%D0%BD%D0%B3%D0%B0" title="Вектор Пойнтинга">вектором Пойнтинга</a>, который описывает мощность излучения проходящего через единичную площадку. Предполагая, что мощность лазера не зависит от времени, производная этого слагаемого — ноль, и сила запишется в виде<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup>
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {F} ={\frac {1}{2}}\alpha \nabla E^{2}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">F</mi>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</mrow>
+<mi>α<!-- α --></mi>
+<mi mathvariant="normal">∇<!-- ∇ --></mi>
+<msup>
+<mi>E</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {F} ={\frac {1}{2}}\alpha \nabla E^{2}.}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbf {F} ={\frac {1}{2}}\alpha \nabla E^{2}.}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b9e420b8793d99b83963e0dd77b125d0f03244ca" style="vertical-align: -1.838ex; width:13.698ex; height:5.176ex;"/></span></dd></dl>
+<p>Квадрат величины электрического поля равен интенсивности луча как функция координат. Поэтому результат указывает, что сила, действующая на диэлектрическую частицу, в приближении точечного диполя является пропорциональной градиенту интенсивности пучка. Другими словами, описанная здесь сила приводит к притяжению частицы в область с самой высокой интенсивностью. В действительности сила, возникающая при рассеянии света зависит линейно от интенсивности луча, поперечного сечения частицы и <a class="mw-redirect" href="/wiki/%D0%9A%D0%BE%D1%8D%D1%84%D1%84%D0%B8%D1%86%D0%B8%D0%B5%D0%BD%D1%82_%D0%BF%D1%80%D0%B5%D0%BB%D0%BE%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F" title="Коэффициент преломления">показателя преломления</a> среды, в которой находится ловушка (например, вода), работает против <i>градиентной силы</i> в осевом направлении ловушки, приводя к тому, что равновесное положение смещается немного вниз от положения максимума интенсивности.
+</p>
+<h2><span id=".D0.9B.D0.B0.D0.B7.D0.B5.D1.80.D0.BD.D1.8B.D0.B9_.D0.BF.D0.B8.D0.BD.D1.86.D0.B5.D1.82.2C_.D0.BE.D1.81.D0.BD.D0.BE.D0.B2.D0.B0.D0.BD.D0.BD.D1.8B.D0.B9_.D0.BD.D0.B0_.D0.B0.D0.BB.D1.8C.D1.82.D0.B5.D1.80.D0.BD.D0.B0.D1.82.D0.B8.D0.B2.D0.BD.D1.8B.D1.85_.D1.80.D0.B5.D0.B6.D0.B8.D0.BC.D0.B0.D1.85_.D1.80.D0.B0.D0.B1.D0.BE.D1.82.D1.8B_.D0.BB.D0.B0.D0.B7.D0.B5.D1.80.D0.B0"></span><span class="mw-headline" id="Лазерный_пинцет,_основанный_на_альтернативных_режимах_работы_лазера">Лазерный пинцет, основанный на альтернативных режимах работы лазера</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9E%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B8%D0%BD%D1%86%D0%B5%D1%82&amp;veaction=edit&amp;section=5" title="Редактировать раздел «Лазерный пинцет, основанный на альтернативных режимах работы лазера»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9E%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B8%D0%BD%D1%86%D0%B5%D1%82&amp;action=edit&amp;section=5" title="Редактировать код раздела «Лазерный пинцет, основанный на альтернативных режимах работы лазера»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Со времени изобретения первого лазерного пинцета, основанного на одном гауссовом пучке (фундаментальная лазерная мода TEM<sub>00</sub>) А. Ашкином в 1986 году<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup> концепция одномодовых лазерных пучков развилась за счёт использования <a class="new" href="/w/index.php?title=%D0%9B%D0%B0%D0%B7%D0%B5%D1%80%D0%BD%D1%8B%D0%B5_%D0%BC%D0%BE%D0%B4%D1%8B&amp;action=edit&amp;redlink=1" title="Лазерные моды (страница отсутствует)">лазерных мод</a> высокого порядка, то есть эрмит-гауссовых пучков (TEM<sub>nm</sub>), лагерр-гауссовых пучков (LG, TEM<sub>pl</sub>) и <a href="/wiki/%D0%9B%D1%83%D1%87_%D0%91%D0%B5%D1%81%D1%81%D0%B5%D0%BB%D1%8F" title="Луч Бесселя">бесселевых пучков</a> (<i>J<sub>n</sub></i>).
+</p><p>Лагерр-гауссовы пучки обладают уникальным свойством втягивать в оптическую ловушку оптически отражающие и поглощающие частицы. Пучки с круговой <a href="/wiki/%D0%9F%D0%BE%D0%BB%D1%8F%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F_%D0%B2%D0%BE%D0%BB%D0%BD" title="Поляризация волн">поляризацией</a> имеют <a href="/wiki/%D0%A1%D0%BF%D0%B8%D0%BD" title="Спин">спиновый орбитальный момент</a> и могут вращать частицы. У лагерр-гауссовых пучков также есть собственный <a class="mw-redirect" href="/wiki/%D0%A3%D0%B3%D0%BB%D0%BE%D0%B2%D0%BE%D0%B9_%D0%BC%D0%BE%D0%BC%D0%B5%D0%BD%D1%82" title="Угловой момент">угловой момент</a>, который может вращать частицы вокруг центра пучка<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup><sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup>. Этот эффект наблюдается без внешней механической или электрической регуляции луча.
+</p><p>Кроме лагерр-гауссовых пучков, <a href="/wiki/%D0%9B%D1%83%D1%87_%D0%91%D0%B5%D1%81%D1%81%D0%B5%D0%BB%D1%8F" title="Луч Бесселя">бесселевы пучки</a> как нулевого, так и высших порядков имеют орбитальный момент, а также уникальное свойство одновременно удерживать много частиц на некотором расстоянии<sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup>.
+</p>
+<h2><span id=".D0.9C.D1.83.D0.BB.D1.8C.D1.82.D0.B8.D0.BF.D0.BB.D0.B5.D0.BA.D1.81.D0.BD.D1.8B.D0.B5_.D0.BB.D0.B0.D0.B7.D0.B5.D1.80.D0.BD.D1.8B.D0.B5_.D0.BF.D0.B8.D0.BD.D1.86.D0.B5.D1.82.D1.8B"></span><span class="mw-headline" id="Мультиплексные_лазерные_пинцеты">Мультиплексные лазерные пинцеты</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9E%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B8%D0%BD%D1%86%D0%B5%D1%82&amp;veaction=edit&amp;section=6" title="Редактировать раздел «Мультиплексные лазерные пинцеты»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9E%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B8%D0%BD%D1%86%D0%B5%D1%82&amp;action=edit&amp;section=6" title="Редактировать код раздела «Мультиплексные лазерные пинцеты»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Типичная установка имеет только один или два лазерных луча. Более сложные эксперименты требуют много ловушек, работающих одновременно. Этого можно достичь, используя единственный лазер, свет которого проходит через <a class="new" href="/w/index.php?title=%D0%90%D0%BA%D1%83%D1%81%D1%82%D0%BE-%D0%BE%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80&amp;action=edit&amp;redlink=1" title="Акусто-оптический модулятор (страница отсутствует)">акусто-оптический модулятор</a> или через управляемые электроникой зеркала. С помощью этих устройств лазерное излучение можно разделить во времени на несколько лучей, а с помощью <a href="/wiki/%D0%94%D0%B8%D1%84%D1%80%D0%B0%D0%BA%D1%86%D0%B8%D1%8F" title="Дифракция">дифракционных</a> оптических элементов — разбить на несколько лучей в пространстве<sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup><sup class="reference" id="cite_ref-19"><a href="#cite_note-19">[19]</a></sup><sup class="reference" id="cite_ref-20"><a href="#cite_note-20">[20]</a></sup><sup class="reference" id="cite_ref-21"><a href="#cite_note-21">[21]</a></sup>.
+</p>
+<h2><span id=".D0.9B.D0.B0.D0.B7.D0.B5.D1.80.D0.BD.D1.8B.D0.B5_.D0.BF.D0.B8.D0.BD.D1.86.D0.B5.D1.82.D1.8B.2C_.D0.BE.D1.81.D0.BD.D0.BE.D0.B2.D0.B0.D0.BD.D0.BD.D1.8B.D0.B5_.D0.BD.D0.B0_.D0.BE.D0.BF.D1.82.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D1.85_.D0.B2.D0.BE.D0.BB.D0.BE.D0.BA.D0.BD.D0.B0.D1.85"></span><span class="mw-headline" id="Лазерные_пинцеты,_основанные_на_оптических_волокнах">Лазерные пинцеты, основанные на оптических волокнах</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9E%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B8%D0%BD%D1%86%D0%B5%D1%82&amp;veaction=edit&amp;section=7" title="Редактировать раздел «Лазерные пинцеты, основанные на оптических волокнах»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9E%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B8%D0%BD%D1%86%D0%B5%D1%82&amp;action=edit&amp;section=7" title="Редактировать код раздела «Лазерные пинцеты, основанные на оптических волокнах»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>В этом типе устройств лазерное излучение подаётся через <a href="/wiki/%D0%9E%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%B2%D0%BE%D0%BB%D0%BE%D0%BA%D0%BD%D0%BE" title="Оптическое волокно">оптическое волокно</a>. Если один конец оптического волокна формирует поверхность, похожую по свойствам на линзу, это позволит сфокусировать свет в оптической ловушке с большой числовой апертурой<sup class="reference" id="cite_ref-22"><a href="#cite_note-22">[22]</a></sup>.
+</p><p>Если же концы волокна не выпуклы, лазерный свет будет отклоняться, и потому стабильная оптическая ловушка может быть создана только с помощью двух концов волокон по обе стороны от оптической ловушки, и балансирующих <i>градиентных сил</i> и давлений света. <i>Градиентные силы</i> удерживают частицы в поперечном направлении, тогда как осевая оптическая сила возникает от давления двух встречных пучков света, которые выходят и распространяются из двух оптических волокон. Равновесное положение сферы вдоль оси <i>z</i> в такой ловушке — положение, где давления света равняются друг другу. Такие лазерные пинцеты были впервые созданы А. Констеблем<sup class="reference" id="cite_ref-23"><a href="#cite_note-23">[23]</a></sup> и Дж. Гюком<sup class="reference" id="cite_ref-24"><a href="#cite_note-24">[24]</a></sup>, которые использовали эту методику для растяжения микрочастиц. Манипулируя входной мощностью из обоих концов оптоволокна, возможно регулировать растягивающую силу. Такую систему можно использовать, чтобы измерять вязкость и эластичность клеток с чувствительностью, достаточной, чтобы различить разные <a href="/wiki/%D0%A6%D0%B8%D1%82%D0%BE%D1%81%D0%BA%D0%B5%D0%BB%D0%B5%D1%82" title="Цитоскелет">цитоскелеты</a>, например, <a class="mw-redirect" href="/wiki/%D0%AD%D1%80%D0%B8%D1%82%D1%80%D0%BE%D1%86%D0%B8%D1%82" title="Эритроцит">эритроцитов</a> человека и <a href="/wiki/%D0%A4%D0%B8%D0%B1%D1%80%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82" title="Фибробласт">фибробластов</a> мышей. Недавние исследования достигли большого успеха в дифференциации <a class="mw-redirect" href="/wiki/%D0%A0%D0%B0%D0%BA_(%D0%B1%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D1%8C)" title="Рак (болезнь)">раковых</a> клеток от нормальных<sup class="reference" id="cite_ref-25"><a href="#cite_note-25">[25]</a></sup>.
+</p>
+<h2><span id=".D0.9E.D0.BF.D1.82.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D0.BF.D0.B8.D0.BD.D1.86.D0.B5.D1.82.D1.8B_.D0.B2_.D1.81.D0.BE.D1.80.D1.82.D0.B8.D1.80.D0.BE.D0.B2.D0.BA.D0.B5_.D0.BA.D0.BB.D0.B5.D1.82.D0.BE.D0.BA"></span><span class="mw-headline" id="Оптические_пинцеты_в_сортировке_клеток">Оптические пинцеты в сортировке клеток</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9E%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B8%D0%BD%D1%86%D0%B5%D1%82&amp;veaction=edit&amp;section=8" title="Редактировать раздел «Оптические пинцеты в сортировке клеток»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9E%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B8%D0%BD%D1%86%D0%B5%D1%82&amp;action=edit&amp;section=8" title="Редактировать код раздела «Оптические пинцеты в сортировке клеток»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Generic_Optical_Tweezers_Diagram-ru.svg"><img class="mw-file-element" data-file-height="673" data-file-width="741" decoding="async" height="272" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Generic_Optical_Tweezers_Diagram-ru.svg/300px-Generic_Optical_Tweezers_Diagram-ru.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Generic_Optical_Tweezers_Diagram-ru.svg/450px-Generic_Optical_Tweezers_Diagram-ru.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/36/Generic_Optical_Tweezers_Diagram-ru.svg/600px-Generic_Optical_Tweezers_Diagram-ru.svg.png 2x" width="300"/></a><figcaption>Общая схема оптического пинцета с основными элементами</figcaption></figure>
+<p>Одна из наиболее распространённых систем сортировки <a href="/wiki/%D0%9A%D0%BB%D0%B5%D1%82%D0%BA%D0%B0" title="Клетка">клеток</a> использует метод <a href="/wiki/%D0%A4%D0%BB%D1%83%D0%BE%D1%80%D0%B5%D1%81%D1%86%D0%B5%D0%BD%D1%86%D0%B8%D1%8F" title="Флуоресценция">флуоресцентной</a> <a href="/wiki/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D1%87%D0%BD%D0%B0%D1%8F_%D1%86%D0%B8%D1%82%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%8F" title="Проточная цитометрия">проточной цитометрии</a>. В этом методе <a href="/wiki/%D0%A1%D1%83%D1%81%D0%BF%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F" title="Суспензия">суспензия</a> биологических клеток сортируется в несколько контейнеров согласно флюоресцентным характеристиках каждой клетки в потоке. Процесс сортировки контролируется электростатической системой отклонения, которая направляет клетку к определённому контейнеру изменением напряжения приложенного электрического поля.
+</p><p>В оптически управляемой системе сортировки клетки пропускают через двух- или трёхмерные оптические решётки. Без индуцируемого электрического напряжения клетки сортируются по их свойствам преломления света. Группа исследователей под руководством Кишана Долакиа разработала методику использования дифракционной оптики и других оптических элементов для создания таких оптических решёток<sup class="reference" id="cite_ref-26"><a href="#cite_note-26">[26]</a></sup>. С другой стороны, группа учёных из <a class="mw-redirect" href="/wiki/%D0%A2%D0%BE%D1%80%D0%BE%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82" title="Торонтский университет">университета города Торонто</a> построила автоматическую сортировальную систему, используя пространственный модулятор света<sup class="reference" id="cite_ref-27"><a href="#cite_note-27">[27]</a></sup>.
+</p><p>Главный механизм сортировки — расположение узлов оптической решётки. Когда поток клеток проходит через оптические решётки, силы трения частиц непосредственно конкурируют с оптической <i>градиентной силой</i> от соседнего узла оптической решётки. Изменяя расположение узлов, возможно создать оптическую дорожку, по который будут двигаться клетки. Но такая дорожка будет эффективной только для клеток с определённым коэффициентом преломления, которые и будут эффективно отклоняться. Регулируя скорость потока клеток и мощность света, возможно получить хорошую оптическую сортировку клеток.
+</p><p>Соревнование сил в системе сортировки нуждается в точной юстировке, чтобы достичь высокой эффективности оптической сортировки. В настоящий момент в <a href="/wiki/%D0%A1%D0%B5%D0%BD%D1%82-%D0%AD%D0%BD%D0%B4%D1%80%D1%8E%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82" title="Сент-Эндрюсский университет">Сент-Эндрюсском университете</a> создана большая исследовательская группа для работы над этой проблемой. В случае успеха эта технология сможет заменить традиционную флюоресцентную сортировку клеток<sup class="reference" id="cite_ref-28"><a href="#cite_note-28">[28]</a></sup>.
+</p>
+<h3><span id=".D0.9B.D0.B0.D0.B7.D0.B5.D1.80.D0.BD.D1.8B.D0.B5_.D0.BF.D0.B8.D0.BD.D1.86.D0.B5.D1.82.D1.8B.2C_.D0.BE.D1.81.D0.BD.D0.BE.D0.B2.D0.B0.D0.BD.D0.BD.D1.8B.D0.B5_.D0.BD.D0.B0_.D0.B7.D0.B0.D1.82.D1.83.D1.85.D0.B0.D1.8E.D1.89.D0.B8.D1.85_.D0.BF.D0.BE.D0.BB.D1.8F.D1.85"></span><span class="mw-headline" id="Лазерные_пинцеты,_основанные_на_затухающих_полях">Лазерные пинцеты, основанные на затухающих полях</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9E%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B8%D0%BD%D1%86%D0%B5%D1%82&amp;veaction=edit&amp;section=9" title="Редактировать раздел «Лазерные пинцеты, основанные на затухающих полях»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9E%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B8%D0%BD%D1%86%D0%B5%D1%82&amp;action=edit&amp;section=9" title="Редактировать код раздела «Лазерные пинцеты, основанные на затухающих полях»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a class="new" href="/w/index.php?title=%D0%97%D0%B0%D1%82%D1%83%D1%85%D0%B0%D1%8E%D1%89%D0%B5%D0%B5_%D0%BF%D0%BE%D0%BB%D0%B5&amp;action=edit&amp;redlink=1" title="Затухающее поле (страница отсутствует)">Затухающее поле</a> — <a href="/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BC%D0%B0%D0%B3%D0%BD%D0%B8%D1%82%D0%BD%D0%BE%D0%B5_%D0%BF%D0%BE%D0%BB%D0%B5" title="Электромагнитное поле">электромагнитное поле</a>, которое проникает вглубь вещества, например при <a class="mw-redirect" href="/wiki/%D0%9F%D0%BE%D0%BB%D0%BD%D0%BE%D0%B5_%D0%B2%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5_%D0%BE%D1%82%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5" title="Полное внутреннее отражение">полном внутреннем отражении</a><sup class="reference" id="cite_ref-29"><a href="#cite_note-29">[29]</a></sup><sup class="reference" id="cite_ref-30"><a href="#cite_note-30">[30]</a></sup>. Электрическое поле в световой волне затухает по <a href="/wiki/%D0%AD%D0%BA%D1%81%D0%BF%D0%BE%D0%BD%D0%B5%D0%BD%D1%82%D0%B0" title="Экспонента">экспоненте</a>. Затухающее поле нашло целый ряд применений в оптической микроскопии нанометровых объектов, оптическая микроманипуляция (лазерные пинцеты) становятся ещё одним его приложением.
+</p><p>В лазерных пинцетах непрерывное затухающее поле может быть создано, когда свет распространяется через оптический <a href="/wiki/%D0%92%D0%BE%D0%BB%D0%BD%D0%BE%D0%B2%D0%BE%D0%B4" title="Волновод">волновод</a> (многократное полное внутреннее отражение). Результирующее затухающее поле имеет направленный импульс и может двигать микрочастицы вдоль направления своего распространения. Этот эффект был открыт учёными С. Каватой и Т. Сугиурой в 1992 году<sup class="reference" id="cite_ref-31"><a href="#cite_note-31">[31]</a></sup><sup class="reference" id="cite_ref-32"><a href="#cite_note-32">[32]</a></sup>. Они показали, что поле может связывать частицы, находящиеся на расстоянии около <span class="nowrap">100 нм</span>. Это прямое связывание поля рассматривается как <a href="/wiki/%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%8D%D1%84%D1%84%D0%B5%D0%BA%D1%82" title="Туннельный эффект">туннелирование</a> фотонов через промежуток между <a href="/wiki/%D0%9F%D1%80%D0%B8%D0%B7%D0%BC%D0%B0_(%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%B0)" title="Призма (оптика)">призмой</a> и микрочастицами. В результате возникает направленная оптическая сила.
+</p><p>Недавняя версия лазерных пинцетов основанных на затухающем поле использует большую поверхность с оптической решёткой, что позволяет одновременно связывать много частиц и направлять их в желаемом направлении без использования волновода. Эта методика названа «безлинзовая оптическая ловушка» (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">lensless optical trapping</span>, LOT)<sup class="reference" id="cite_ref-33"><a href="#cite_note-33">[33]</a></sup>. Точно направленному движению частиц помогает <a class="new" href="/w/index.php?title=%D0%A0%D0%B5%D1%88%D1%91%D1%82%D0%BA%D0%B0_%D0%A0%D0%BE%D0%BD%D1%87%D0%B8&amp;action=edit&amp;redlink=1" title="Решётка Рончи (страница отсутствует)">решётка Рончи</a> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">Ronchi ruling</span>) или создание чётких оптических <a href="/wiki/%D0%9F%D0%BE%D1%82%D0%B5%D0%BD%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%8F%D0%BC%D0%B0" title="Потенциальная яма">потенциальных ям</a> в стеклянной пластинке. В настоящий момент учёные также работают над фокусировкой затухающих полей.
+</p>
+<h2><span id=".D0.9D.D0.B5.D0.BF.D1.80.D1.8F.D0.BC.D0.BE.D0.B9_.D0.BF.D0.BE.D0.B4.D1.85.D0.BE.D0.B4_.D0.BA_.D0.BE.D0.BF.D1.82.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.BC_.D0.BF.D0.B8.D0.BD.D1.86.D0.B5.D1.82.D0.B0.D0.BC"></span><span class="mw-headline" id="Непрямой_подход_к_оптическим_пинцетам">Непрямой подход к оптическим пинцетам</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9E%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B8%D0%BD%D1%86%D0%B5%D1%82&amp;veaction=edit&amp;section=10" title="Редактировать раздел «Непрямой подход к оптическим пинцетам»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9E%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B8%D0%BD%D1%86%D0%B5%D1%82&amp;action=edit&amp;section=10" title="Редактировать код раздела «Непрямой подход к оптическим пинцетам»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Ещё один вариант манипулирования микрочастицами с помощью света был разработан Минг Ву (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">Ming Wu</span>), профессором факультета Радиотехники и информатики в <a href="/wiki/%D0%9A%D0%B0%D0%BB%D0%B8%D1%84%D0%BE%D1%80%D0%BD%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82_%D0%B2_%D0%91%D0%B5%D1%80%D0%BA%D0%BB%D0%B8" title="Калифорнийский университет в Беркли">Калифорнийском университете</a>. Его система не использует световой импульс непосредственно. В отличие от этого, в построенной им системе, частицы, которыми нужно манипулировать, расположены неподалёку от стеклянной пластинки, покрытой фотопроводящим веществом. На эту пластинку подается небольшое напряжение с целью создания электростатического заряда на частицах. Фотопроводящая пластинка освещается светодиодами, мощность которых может модулироваться, проецируя на поверхность любое динамическое изображение. Под действием света фотопроводящая поверхность заряжается, начиная притягивать или отталкивать частицы. Процесс манипуляции выполняется посредством изменения электрического поля и включается с помощью спроектированного изображения<sup class="reference" id="cite_ref-34"><a href="#cite_note-34">[34]</a></sup>.
+</p><p>Одно из применений этого метода — сортировка живых и мёртвых клеток. Сортировка основывается на том, что живые клетки наполнены <a href="/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BB%D0%B8%D1%82" title="Электролит">электролитом</a>, а мёртвые — нет, и их можно легко разделить. Эта система позволяет манипулировать 10000 клеток или частиц одновременно<sup class="reference" id="cite_ref-35"><a href="#cite_note-35">[35]</a></sup>.
+</p>
+<h3><span id=".D0.9E.D0.BF.D1.82.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.BE.D0.B5_.D1.81.D0.B2.D1.8F.D0.B7.D1.8B.D0.B2.D0.B0.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Оптическое_связывание">Оптическое связывание</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9E%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B8%D0%BD%D1%86%D0%B5%D1%82&amp;veaction=edit&amp;section=11" title="Редактировать раздел «Оптическое связывание»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9E%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B8%D0%BD%D1%86%D0%B5%D1%82&amp;action=edit&amp;section=11" title="Редактировать код раздела «Оптическое связывание»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Когда множество микрочастиц поддерживается монохроматическим лазерным пучком, расположение микрочастиц в пределах оптической ловушки зависит от перераспределения оптических сил между частицами. Можно сказать, что кластер микрочастиц <i>связывается</i> вместе светом. Первые эксперименты по оптическому связыванию были поставлены в лаборатории <a href="/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE,_%D0%94%D0%B6%D0%B8%D0%BD_%D0%AD%D0%BD%D0%B4%D1%80%D1%8E" title="Головченко, Джин Эндрю">Евгения Головченко</a> в <a href="/wiki/%D0%93%D0%B0%D1%80%D0%B2%D0%B0%D1%80%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82" title="Гарвардский университет">Гарвардском университете</a><sup class="reference" id="cite_ref-36"><a href="#cite_note-36">[36]</a></sup>.
+</p>
+<h2><span id=".D0.98.D0.B7.D0.BC.D0.B5.D1.80.D0.B5.D0.BD.D0.B8.D0.B5_.D0.BE.D0.BF.D1.82.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D1.85_.D1.81.D0.B8.D0.BB"></span><span class="mw-headline" id="Измерение_оптических_сил">Измерение оптических сил</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9E%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B8%D0%BD%D1%86%D0%B5%D1%82&amp;veaction=edit&amp;section=12" title="Редактировать раздел «Измерение оптических сил»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9E%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B8%D0%BD%D1%86%D0%B5%D1%82&amp;action=edit&amp;section=12" title="Редактировать код раздела «Измерение оптических сил»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>В настоящее время сила притягивания может быть измерена как на одно-, так и на двухпучковых лазерных пинцетах (<a class="new" href="/w/index.php?title=%D0%A4%D0%BE%D1%82%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9_%D1%81%D0%B8%D0%BB%D0%BE%D0%B2%D0%BE%D0%B9_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF&amp;action=edit&amp;redlink=1" title="Фотонный силовой микроскоп (страница отсутствует)">фотонный силовой микроскоп</a>)<sup class="reference" id="cite_ref-37"><a href="#cite_note-37">[37]</a></sup><sup class="reference" id="cite_ref-38"><a href="#cite_note-38">[38]</a></sup>. Недавно начались работы по измерению оптических сил в <a href="/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F" title="Голография">голографических</a> лазерных пинцетах, чтобы достичь высокой точности позиционирования ловушек для отдельных атомов<sup class="reference" id="cite_ref-39"><a href="#cite_note-39">[39]</a></sup><sup class="reference" id="cite_ref-40"><a href="#cite_note-40">[40]</a></sup><sup class="reference" id="cite_ref-41"><a href="#cite_note-41">[41]</a></sup>.
+</p><p>Основной принцип измерения оптической силы лазерных пинцетов — передача <a href="/wiki/%D0%98%D0%BC%D0%BF%D1%83%D0%BB%D1%8C%D1%81" title="Импульс">импульса</a> света, связанная с <a href="/wiki/%D0%9F%D1%80%D0%B5%D0%BB%D0%BE%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5" title="Преломление">преломлением света</a> на частицах. Изменение направления распространения света как в поперечном, так и в продольному направлении обеспечивает силу, которая действует на объект. Поэтому наименьшая поперечная сила может быть измерена по отклонению пучка, который прошёл сквозь частицу. Такое отклонение может быть легко измерено с помощью детектора осевого положения, самый простой из которых — <a class="new" href="/w/index.php?title=%D0%9A%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D0%BD%D1%82%D0%BD%D1%8B%D0%B9_%D1%84%D0%BE%D1%82%D0%BE%D0%B4%D0%B8%D0%BE%D0%B4&amp;action=edit&amp;redlink=1" title="Квадрантный фотодиод (страница отсутствует)">квадрантный фотодиод</a>: пластинка, разделённая на четыре сектора, с пучком света сфокусированным в её центре. При частице в центре на секторы падает свет равной мощности, но если на частицу действует сила, мощности уже не будут равны, и их разница пропорциональна этой силе.
+</p><p>Такой принцип может применяться с любыми лазерными пинцетами. Наибольшей проблемой при таких измерениях будет <a href="/wiki/%D0%91%D1%80%D0%BE%D1%83%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B5_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5" title="Броуновское движение">броуновское движение</a> (шум). Тем не менее силы порядка пиконьютона и сдвиг порядка нанометров обычно можно измерить<sup class="reference" id="cite_ref-42"><a href="#cite_note-42">[42]</a></sup>.
+</p>
+<h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Примечания">Примечания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9E%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B8%D0%BD%D1%86%D0%B5%D1%82&amp;veaction=edit&amp;section=13" title="Редактировать раздел «Примечания»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9E%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B8%D0%BD%D1%86%D0%B5%D1%82&amp;action=edit&amp;section=13" title="Редактировать код раздела «Примечания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-NKJ201812-1"><span class="mw-cite-backlink"><a href="#cite_ref-NKJ201812_1-0">↑</a></span> <span class="reference-text"><span class="citation"><i>Алексей Понятов.</i> <a class="external text" href="https://www.nkj.ru/archive/articles/35002/" rel="nofollow">Манипулируя светом</a> // <a href="/wiki/%D0%9D%D0%B0%D1%83%D0%BA%D0%B0_%D0%B8_%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C" title="Наука и жизнь">Наука и жизнь</a>. — 2018. — <span class="nowrap">№ 12</span>. — <span class="nowrap">С. 2—9</span>. <small><a class="external text" href="https://web.archive.org/web/20181224023750/https://www.nkj.ru/archive/articles/35002/" rel="nofollow">Архивировано</a> 24 декабря 2018 года.</small></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">A. C. De Luca, G. Volpe, M. Drets, M I. Geli, G. Pesce, G. Rusciano, A. Sasso, D. Petrov. Real-time actin-cytoskeleton depolymerization detection in a single cell using optical tweezers. Optic express  15 (13), 7922-7932 (2007) <a class="external free" href="https://doi.org/10.1364/OE.15.007922" rel="nofollow">https://doi.org/10.1364/OE.15.007922</a></span>
+</li>
+<li id="cite_note-Physics2018-3"><span class="mw-cite-backlink"><a href="#cite_ref-Physics2018_3-0">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a class="external text" href="https://www.nobelprize.org/prizes/physics/2018/summary/" rel="nofollow">The Nobel Prize in Physics 2018</a></span> <span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>. <a class="mw-redirect" href="/wiki/%D0%9D%D0%BE%D0%B1%D0%B5%D0%BB%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%84%D0%BE%D0%BD%D0%B4" title="Нобелевский фонд">Нобелевский фонд</a>. Дата обращения: 2 октября 2018. <a class="external text" href="https://web.archive.org/web/20200522204842/https://www.nobelprize.org/prizes/physics/2018/summary/" rel="nofollow">Архивировано</a> 22 мая 2020 года.</span></span>
+</li>
+<li id="cite_note-ashkin_PRB_1970-4"><span class="mw-cite-backlink">↑ <a href="#cite_ref-ashkin_PRB_1970_4-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-ashkin_PRB_1970_4-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-ashkin_PRB_1970_4-2"><sup><i><b>3</b></i></sup></a></span> <span class="reference-text">Ashkin A., «Acceleration and Trapping of Particles by Radiation Pressure», Phys. Rev. Lett. <b>24</b>, 156 (1970). <a class="mw-redirect" href="/wiki/Doi" title="Doi">doi</a>:<a class="external text" href="https://dx.doi.org/10.1103%2FPhysRevLett.24.156" rel="nofollow">10.1103/PhysRevLett.24.156</a>.</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">Ashkin A., Dziedzic J. M., Yamane T., «Optical trapping and manipulation of single cells using infrared laser beams», Nature <b>330</b>, 769 (1987). <a class="mw-redirect" href="/wiki/Doi" title="Doi">doi</a>:<a class="external text" href="https://dx.doi.org/10.1038%2F330769a0" rel="nofollow">10.1038/330769a0</a>.</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">Letokhov V. S., <i>et. al.</i> Cooling and trapping of atoms and molecules by a resonant laser field. Opt. Commun. <b>19</b>, 72 (1976) <a class="mw-redirect" href="/wiki/Doi" title="Doi">doi</a>:<a class="external text" href="https://dx.doi.org/10.1016%2F0030-4018%2876%2990388-6" rel="nofollow">10.1016/0030-4018(76)90388-6</a>.</span>
+</li>
+<li id="cite_note-ashkin_PRL_1978-7"><span class="mw-cite-backlink"><a href="#cite_ref-ashkin_PRL_1978_7-0">↑</a></span> <span class="reference-text">Ashkin A. Trapping of Atoms by Resonance Radiation Pressure Phys. Rev. Lett. <b>40</b>, 729 (1978) <a class="mw-redirect" href="/wiki/Doi" title="Doi">doi</a>:<a class="external text" href="https://dx.doi.org/10.1103%2FPhysRevLett.40.729" rel="nofollow">10.1103/PhysRevLett.40.729</a>.</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text">Macdonald M. P., Spalding G. C., Dholakia K., «Microfluidic sorting in an optical lattice», Nature <b>426</b>, 421 (2003). <a class="mw-redirect" href="/wiki/Doi" title="Doi">doi</a>:<a class="external text" href="https://dx.doi.org/10.1038%2Fnature02144" rel="nofollow">10.1038/nature02144</a>.</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><a class="external text" href="http://physics.nyu.edu/grierlab/peristalsis2b/" rel="nofollow">Optical Peristalsis</a> <a class="external text" href="https://web.archive.org/web/20060902040438/http://physics.nyu.edu/grierlab/peristalsis2b/" rel="nofollow">Архивная копия</a> от 2 сентября 2006 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> by Brian A. Koss and David G. Grier. The University of Chicago.</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text">A. C. de Luca, G. Volpe, M. Drets, M I. Geli, G. Pesce, G. Rusciano, A. Sasso , D. Petrov. Real-time actin-cytoskeleton depolymerization detection in a single cell using optical tweezers. Optics Express 15(13), 7922—7932 (2007)</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.st-andrews.ac.uk/~eutrap/tweezer.htm" rel="nofollow">Advanced techniques for optical manipulation</a> <a class="external text" href="https://web.archive.org/web/20070927185816/http://www.st-andrews.ac.uk/~eutrap/tweezer.htm" rel="nofollow">Архивная копия</a> от 27 сентября 2007 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.stanford.edu/group/blocklab/cshl-chap.html" rel="nofollow">Construction of optical tweezers</a> <a class="external text" href="https://web.archive.org/web/20060320044844/http://www.stanford.edu/group/blocklab/cshl-chap.html" rel="nofollow">Архивная копия</a> от 20 марта 2006 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> by Steven M. Block, Princeton University.</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text">Gordon J. P. Radiation forces and Momenta in Dielectric Media Phys. Rev. A <b>8</b>, 14 (1973) <a class="mw-redirect" href="/wiki/Doi" title="Doi">doi</a>:<a class="external text" href="https://dx.doi.org/10.1103%2FPhysRevA.8.14" rel="nofollow">10.1103/PhysRevA.8.14</a>.</span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text">Ashkin A. <a class="external text" href="http://www.sci.ccny.cuny.edu/~gunner/Pages-422/PDF/motor/pnas97.ashkin.pdf" rel="nofollow">«Optical trapping and manipulation of neutral particles using lasers»</a> <a class="external text" href="https://web.archive.org/web/20150924095237/http://www.sci.ccny.cuny.edu/~gunner/Pages-422/PDF/motor/pnas97.ashkin.pdf" rel="nofollow">Архивная копия</a> от 24 сентября 2015 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>, PNAS <b>94</b>, 4853 (1997).</span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text"><a class="external text" href="http://physics.nyu.edu/grierlab/vortex5b/" rel="nofollow">Structure of Optical Vortices</a> <a class="external text" href="https://web.archive.org/web/20060902040538/http://physics.nyu.edu/grierlab/vortex5b/" rel="nofollow">Архивная копия</a> от 2 сентября 2006 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> by J. E. Curtis and D. G. Grier, The University of Chicago.</span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.physics.gla.ac.uk/Optics/projects/opticalSpanner/" rel="nofollow">Optical Spanners</a>. <small><a class="external text" href="https://web.archive.org/web/20040322053818/http://www.physics.gla.ac.uk/Optics/projects/opticalSpanner/" rel="nofollow">Архивировано</a> 22 марта 2004 года.</small> by M. Padgett, University of Glasgow.</span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><a href="#cite_ref-17">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.st-andrews.ac.uk/~atomtrap/Research/Beams/Bessel%20Beams/BesselBeams.htm" rel="nofollow">Bessel Beams</a>. <small><a class="external text" href="https://web.archive.org/web/20040119110323/http://www.st-andrews.ac.uk/~atomtrap/Research/Beams/Bessel%20Beams/BesselBeams.htm" rel="nofollow">Архивировано</a> 19 января 2004 года.</small></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><a href="#cite_ref-18">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.eng.yale.edu/softmatter/" rel="nofollow">Soft matter Lab</a> <a class="external text" href="https://web.archive.org/web/20060715092345/http://www.eng.yale.edu/softmatter/" rel="nofollow">Архивная копия</a> от 15 июля 2006 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> by Prof. E. Dufresne, Yele University.</span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><a href="#cite_ref-19">↑</a></span> <span class="reference-text"><a class="external text" href="http://physics.nyu.edu/grierlab/hot.html" rel="nofollow">D. Grier's Home Page</a> <a class="external text" href="https://web.archive.org/web/20070814023519/http://physics.nyu.edu/grierlab/hot.html" rel="nofollow">Архивная копия</a> от 14 августа 2007 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><a href="#cite_ref-20">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.ppo.dk/" rel="nofollow">Programmable Phase Optics Group</a> <a class="external text" href="https://web.archive.org/web/20060525133518/http://www.ppo.dk/" rel="nofollow">Архивная копия</a> от 25 мая 2006 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>, Risø National Laboratory.</span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><a href="#cite_ref-21">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.physics.gla.ac.uk/Optics/projects/tweezers/" rel="nofollow">Optical tweezers</a> <a class="external text" href="https://web.archive.org/web/20130514093210/http://www.physics.gla.ac.uk/Optics/projects/tweezers/" rel="nofollow">Архивная копия</a> от 14 мая 2013 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>, Glasgow University.</span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><a href="#cite_ref-22">↑</a></span> <span class="reference-text">Hu Z., Wang J., Liang J., <a class="external text" href="http://www.opticsexpress.org/abstract.cfm?URI=OPEX-12-17-4123" rel="nofollow">«Manipulation and arrangement of biological and dielectric particles by a lensed fiber probe»</a> <a class="external text" href="https://web.archive.org/web/20050819150359/http://www.opticsexpress.org/abstract.cfm?URI=OPEX-12-17-4123" rel="nofollow">Архивная копия</a> от 19 августа 2005 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>, Optics Express, <b>12</b>, 4123 (2004).</span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><a href="#cite_ref-23">↑</a></span> <span class="reference-text">A. Constable et al., <a class="external text" href="http://ol.osa.org/abstract.cfm?id=12016" rel="nofollow">«Demonstration of a fiber-optical light-force trap»</a>. Opt. Lett. <b>18</b>, 1867 (1993).</span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><a href="#cite_ref-24">↑</a></span> <span class="reference-text">Guck J. et al., «Optical Deformability of Soft Biological Dielectrics» Phys. Rev. Lett. <b>84</b>, 5451 (2000). <a class="mw-redirect" href="/wiki/Doi" title="Doi">doi</a>:<a class="external text" href="https://dx.doi.org/10.1103%2FPhysRevLett.84.5451" rel="nofollow">10.1103/PhysRevLett.84.5451</a>.</span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><a href="#cite_ref-25">↑</a></span> <span class="reference-text">Jochen Guck, Stefan Schinkinger, Bryan Lincoln, Falk Wottawah, Susanne Ebert, Maren Romeyke, Dominik Lenz, Harold M. Erickson, Revathi Ananthakrishnan, Daniel Mitchell, Josef Käs, Sydney Ulvick and Curt Bilby, <a class="external text" href="http://www.biophysj.org/cgi/content/full/88/5/3689" rel="nofollow">«Optical Deformability as an Inherent Cell Marker for Testing Malignant Transformation and Metastatic Competence»</a>. <small><a class="external text" href="https://web.archive.org/web/20071109004942/http://www.biophysj.org/cgi/content/full/88/5/3689" rel="nofollow">Архивировано</a> 9 ноября 2007 года.</small>, <i>Biophys. J.</i>, 88:3689–3698 (2005).</span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><a href="#cite_ref-26">↑</a></span> <span class="reference-text"><i>Macdonald M. P., Spalding G. C., Dholakia K.</i> «Microfluidic sorting in an optical lattice», Nature <b>421</b>, 421 (2003). <a class="mw-redirect" href="/wiki/Doi" title="Doi">doi</a>:<a class="external text" href="https://dx.doi.org/10.1038%2Fnature02144" rel="nofollow">10.1038/nature02144</a>.</span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><a href="#cite_ref-27">↑</a></span> <span class="reference-text"><i>Grover S. C.</i> <a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11178576&amp;query_hl=1&amp;itool=pubmed_docsum" rel="nofollow">«Automated single-cell sorting system based on optical trapping»</a>, J. Biomed. Opt. <b>6</b>, 14 (2001). </span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><a href="#cite_ref-28">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.ircscotland.net/technology_trade/techalert_item.cfm?uuidTechAlert=00389015-9C68-39BA-D56C02105AD9A419" rel="nofollow">IRC Scotland</a>. <small><a class="external text" href="https://web.archive.org/web/20070928193958/http://www.ircscotland.net/technology_trade/techalert_item.cfm?uuidTechAlert=00389015-9C68-39BA-D56C02105AD9A419" rel="nofollow">Архивировано</a> 28 сентября 2007 года.</small></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><a href="#cite_ref-29">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.olympusmicro.com/primer/java/tirf/evaintensity/" rel="nofollow">Evanescent Field Polarization and Intensity Profiles</a> <a class="external text" href="https://web.archive.org/web/20060721181357/http://www.olympusmicro.com/primer/java/tirf/evaintensity/" rel="nofollow">Архивная копия</a> от 21 июля 2006 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> by D. Axelrod <i>et al</i>.</span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><a href="#cite_ref-30">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.physics.harvard.edu/~tomhunt/pubs/evanescent.pdf" rel="nofollow">What Everyone Needs to Know About Evanescent Fields</a> <a class="external text" href="https://web.archive.org/web/20060905034302/http://www.physics.harvard.edu/~tomhunt/pubs/evanescent.pdf" rel="nofollow">Архивная копия</a> от 5 сентября 2006 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> by T. Hunt, Harvard University.</span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><a href="#cite_ref-31">↑</a></span> <span class="reference-text"><i>Kawata S. and Sugiura T.</i> «Movement of micrometer-sized particles in the evanescent field of a laser beam» Opt. Lett. <b>17</b>, 772 (1992).</span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><a href="#cite_ref-32">↑</a></span> <span class="reference-text"><i>Okamoto K. &amp; Kawata S.</i> «Radiation Force Exerted on Subwavelength Particles near a Nanoaperture» Phys. Rev. Lett. <b>83</b>, 4534 (1999). <a class="mw-redirect" href="/wiki/Doi" title="Doi">doi</a>:<a class="external text" href="https://dx.doi.org/10.1103%2FPhysRevLett.83.4534" rel="nofollow">10.1103/PhysRevLett.83.4534</a>.</span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><a href="#cite_ref-33">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.st-andrews.ac.uk/~atomtrap/Research/Beams/Near_Field/evanescent.htm" rel="nofollow">Near-field optical manipulation by using evanescent waves</a> <a class="external text" href="https://web.archive.org/web/20070927183455/http://www.st-andrews.ac.uk/~atomtrap/Research/Beams/Near_Field/evanescent.htm" rel="nofollow">Архивная копия</a> от 27 сентября 2007 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><a href="#cite_ref-34">↑</a></span> <span class="reference-text"><span class="citation"><i>Pei Yu Chiou, Aaron T. Ohta &amp; Ming C. Wu.</i> <a class="external text" href="https://www.nature.com/articles/nmat1436" rel="nofollow">Massively parallel manipulation of single cells and microparticles using optical images</a> // Nature. — 2005. — <span class="nowrap">Т. 436</span>. — <span class="nowrap">С. 370—372</span>. — <a class="mw-redirect" href="/wiki/Doi" title="Doi">doi</a>:<a class="external text" href="https://dx.doi.org/10.1038%2Fnature03831" rel="nofollow">10.1038/nature03831</a>. <small><a class="external text" href="https://web.archive.org/web/20220307150826/https://www.nature.com/articles/nmat1436" rel="nofollow">Архивировано</a> 7 марта 2022 года.</small></span></span>
+</li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><a href="#cite_ref-35">↑</a></span> <span class="reference-text"><span class="citation"><i>Kishan Dholakia.</i> <a class="external text" href="https://www.nature.com/articles/nmat1436" rel="nofollow">Оптоэлектронный пинцет</a> = Optoelectronic tweezers // Nature Mater.. — 2005. — <span class="nowrap">Т. 4</span>. — <span class="nowrap">С. 579—580</span>. — <a class="mw-redirect" href="/wiki/Doi" title="Doi">doi</a>:<a class="external text" href="https://dx.doi.org/10.1038%2Fnmat1436" rel="nofollow">10.1038/nmat1436</a>. <small><a class="external text" href="https://web.archive.org/web/20220307150826/https://www.nature.com/articles/nmat1436" rel="nofollow">Архивировано</a> 7 марта 2022 года.</small></span></span>
+</li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><a href="#cite_ref-36">↑</a></span> <span class="reference-text">Burns M. M., Fournier J.-M., Golovchenko J. A., «Optical binding», Phys. Rev. Lett. <b>63</b>, 1233 (1989). <a class="mw-redirect" href="/wiki/Doi" title="Doi">doi</a>:<a class="external text" href="https://dx.doi.org/10.1103%2FPhysRevLett.63.1233" rel="nofollow">10.1103/PhysRevLett.63.1233 </a>.</span>
+</li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><a href="#cite_ref-37">↑</a></span> <span class="reference-text">Pralle A. <i>et al.</i>, <a class="external text" href="http://www.embl-heidelberg.de/CellBiophys/LocalProbes/3dpaper.pdf" rel="nofollow">«Three-Dimensional High-Resolution Particle Tracking for Optical Tweezers by Forward Scattered Light»</a> <a class="external text" href="https://web.archive.org/web/20070418082640/http://www.embl-heidelberg.de/CellBiophys/LocalProbes/3dpaper.pdf" rel="nofollow">Архивная копия</a> от 18 апреля 2007 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. Microscopy research and technique <b>44</b>, 378 (1999).</span>
+</li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><a href="#cite_ref-38">↑</a></span> <span class="reference-text">R. M. Simmons, J. T. Finer, S. Chu, J. A. Spudich, «Quantitative measurements of force and displacement using an optical trap». Biophysical Journal <b>70</b>, 1813 (1996). <a class="mw-redirect" href="/wiki/Doi" title="Doi">doi</a>:<a class="external text" href="https://dx.doi.org/10.1016%2FS0006-3495%2896%2979746-1" rel="nofollow">10.1016/S0006-3495(96)79746-1</a></span>
+</li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><a href="#cite_ref-39">↑</a></span> <span class="reference-text">Schmitz C., Spatz J., Curtis J., <a class="external text" href="http://www.opticsexpress.org/abstract.cfm?URI=OPEX-13-21-8678" rel="nofollow">«High-precision steering of multiple holographic optical traps»</a> <a class="external text" href="https://web.archive.org/web/20051222080805/http://www.opticsexpress.org/abstract.cfm?URI=OPEX-13-21-8678" rel="nofollow">Архивная копия</a> от 22 декабря 2005 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. Optics Express, <b>13</b>, 8678 (2005).</span>
+</li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><a href="#cite_ref-40">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.physics.nyu.edu/grierlab/aberration5b/aberration5b.html" rel="nofollow">Performance of optical traps with geometric aberrations</a> <a class="external text" href="https://web.archive.org/web/20060906071205/http://www.physics.nyu.edu/grierlab/aberration5b/aberration5b.html" rel="nofollow">Архивная копия</a> от 6 сентября 2006 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> by Y. Roichman <i>et al</i>., New York University.</span>
+</li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><a href="#cite_ref-41">↑</a></span> <span class="reference-text">Polin M. <i>et al</i>. <a class="external text" href="http://www.opticsexpress.org/abstract.cfm?URI=OPEX-13-15-5831" rel="nofollow">Optimized holographic optical traps</a> <small class="ref-info">(недоступная ссылка)</small>, Optics Express, <b>13</b>, 5831 (2005).</span>
+</li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><a href="#cite_ref-42">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.stanford.edu/group/blocklab/Optical%20Tweezers%20Introduction.htm" rel="nofollow">Optical Tweezers</a> <a class="external text" href="https://web.archive.org/web/20060427074348/http://www.stanford.edu/group/blocklab/Optical%20Tweezers%20Introduction.htm" rel="nofollow">Архивная копия</a> от 27 апреля 2006 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span>
+</li>
+</ol></div></div>
+<h2><span id=".D0.9A.D0.BE.D0.BC.D0.BC.D0.B5.D1.80.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D1.81.D0.B8.D1.81.D1.82.D0.B5.D0.BC.D1.8B_.D0.BE.D0.BF.D1.82.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D1.85_.D0.BF.D0.B8.D0.BD.D1.86.D0.B5.D1.82.D0.BE.D0.B2"></span><span class="mw-headline" id="Коммерческие_системы_оптических_пинцетов">Коммерческие системы оптических пинцетов</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9E%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B8%D0%BD%D1%86%D0%B5%D1%82&amp;veaction=edit&amp;section=14" title="Редактировать раздел «Коммерческие системы оптических пинцетов»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9E%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B8%D0%BD%D1%86%D0%B5%D1%82&amp;action=edit&amp;section=14" title="Редактировать код раздела «Коммерческие системы оптических пинцетов»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="http://www.arryx.com/" rel="nofollow">Arryx</a> <a class="external text" href="https://web.archive.org/web/20051206014558/http://www.arryx.com/" rel="nofollow">Архивная копия</a> от 6 декабря 2005 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></li>
+<li><a class="external text" href="http://www.cellrobotics.com/" rel="nofollow">Cell Robotics</a> <a class="external text" href="https://web.archive.org/web/20070711225115/http://www.cellrobotics.com/" rel="nofollow">Архивная копия</a> от 11 июля 2007 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></li>
+<li><a class="external text" href="http://www.elliotscientific.com/" rel="nofollow">Elliot Scientific</a> <a class="external text" href="https://web.archive.org/web/20070705212717/http://www.elliotscientific.com/" rel="nofollow">Архивная копия</a> от 5 июля 2007 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></li>
+<li><a class="external text" href="http://www.molecular-machines.com/" rel="nofollow">MMI Molecular Machines &amp; Industries</a> <a class="external text" href="https://web.archive.org/web/20070711213337/http://www.molecular-machines.com/" rel="nofollow">Архивная копия</a> от 11 июля 2007 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></li>
+<li><a class="external text" href="https://web.archive.org/web/20030123024902/http://www.palm-mikrolaser.com/products_microtweezers.html" rel="nofollow">PALM</a></li>
+<li><a class="external text" href="https://www.jpk.com/" rel="nofollow">JPK</a> <a class="external text" href="https://web.archive.org/web/20180418230648/https://www.jpk.com/" rel="nofollow">Архивная копия</a> от 18 апреля 2018 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></li></ul>
+<h2><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span><span class="mw-headline" id="Ссылки">Ссылки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9E%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B8%D0%BD%D1%86%D0%B5%D1%82&amp;veaction=edit&amp;section=15" title="Редактировать раздел «Ссылки»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9E%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B8%D0%BD%D1%86%D0%B5%D1%82&amp;action=edit&amp;section=15" title="Редактировать код раздела «Ссылки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="https://web.archive.org/web/20080503111140/http://www.nanometer.ru/2008/02/23/opticheskij_pincet_6114.html" rel="nofollow">Как работает оптический нанопинцет</a> Богданов К. Ю., 2008, www.nanometer.ru</li>
+<li><a class="external text" href="http://psj.nsu.ru/lector/maltsev/" rel="nofollow">Оптика биологических систем</a> <a class="external text" href="https://web.archive.org/web/20080123125408/http://psj.nsu.ru/lector/maltsev/" rel="nofollow">Архивная копия</a> от 23 января 2008 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></li></ul>
+<table class="mbox-Хорошая_статья plainlinks metadata ambox ambox-good" id="ga-message" role="presentation" style="margin-top:1em"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D1%85_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9" title="Википедия:Список хороших статей"><img alt="✰" class="mw-file-element" data-file-height="24" data-file-width="24" decoding="async" height="24" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Blue_star_boxed.svg/24px-Blue_star_boxed.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Blue_star_boxed.svg/36px-Blue_star_boxed.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Blue_star_boxed.svg/48px-Blue_star_boxed.svg.png 2x" width="24"/></a></span></div></td><td class="mbox-text"><div class="mbox-text-div">Эта статья входит в число <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Википедия:Хорошие статьи">хороших статей</a> русскоязычного раздела Википедии.</div><div class="mbox-textsmall-div hide-when-compact" style="font-size:85%"></div></td></tr></tbody></table></div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> -->
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Оптический_пинцет&amp;oldid=133586780">https://ru.wikipedia.org/w/index.php?title=Оптический_пинцет&amp;oldid=133586780</a></div></div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9E%D0%BF%D1%82%D0%B8%D0%BA%D0%B0" title="Категория:Оптика">Оптика</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%91%D0%B8%D0%BE%D1%84%D0%B8%D0%B7%D0%B8%D0%BA%D0%B0" title="Категория:Биофизика">Биофизика</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D0%BD%D0%B5%D1%80%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%BC%D0%B8_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8" title="Категория:Википедия:Статьи с нерабочими ссылками">Википедия:Статьи с нерабочими ссылками</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8,_%D1%82%D1%80%D0%B5%D0%B1%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D1%83%D1%82%D0%BE%D1%87%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2" title="Категория:Википедия:Статьи, требующие уточнения источников">Википедия:Статьи, требующие уточнения источников</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B0%D0%BC%D0%B8_%D0%BD%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D1%82%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Википедия:Статьи с шаблонами недостатков по алфавиту">Википедия:Статьи с шаблонами недостатков по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Википедия:Хорошие статьи по алфавиту">Википедия:Хорошие статьи по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%BE_%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B5" title="Категория:Википедия:Хорошие статьи о технике">Википедия:Хорошие статьи о технике</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%BF%D0%BE_%D1%84%D0%B8%D0%B7%D0%B8%D0%BA%D0%B5" title="Категория:Википедия:Хорошие статьи по физике">Википедия:Хорошие статьи по физике</a></li></ul></div></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Навигация</h2>
+<div id="mw-head">
+<nav aria-labelledby="p-personal-label" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" id="p-personal" role="navigation">
+<h3 class="vector-menu-heading" id="p-personal-label">
+<span class="vector-menu-heading-label">Персональные инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="pt-anonuserpage"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li class="mw-list-item" id="pt-anontalk"><a accesskey="n" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]"><span>Обсуждение</span></a></li><li class="mw-list-item" id="pt-anoncontribs"><a accesskey="y" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]"><span>Вклад</span></a></li><li class="mw-list-item" id="pt-createaccount"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%9E%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%D0%BF%D0%B8%D0%BD%D1%86%D0%B5%D1%82" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li class="mw-list-item" id="pt-login"><a accesskey="o" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%9E%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%D0%BF%D0%B8%D0%BD%D1%86%D0%B5%D1%82" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]"><span>Войти</span></a></li>
+</ul>
+</div>
+</nav>
+<div id="left-navigation">
+<nav aria-labelledby="p-namespaces-label" class="mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-namespaces" role="navigation">
+<h3 class="vector-menu-heading" id="p-namespaces-label">
+<span class="vector-menu-heading-label">Пространства имён</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-nstab-main"><a accesskey="c" href="/wiki/%D0%9E%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B8%D0%BD%D1%86%D0%B5%D1%82" title="Просмотреть контентную страницу [c]"><span>Статья</span></a></li><li class="mw-list-item" id="ca-talk"><a accesskey="t" href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%9E%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B8%D0%BD%D1%86%D0%B5%D1%82" rel="discussion" title="Обсуждение основной страницы [t]"><span>Обсуждение</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-variants-label" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" id="p-variants" role="navigation">
+<input aria-haspopup="true" aria-labelledby="p-variants-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-variants" id="p-variants-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-variants-label">
+<span class="vector-menu-heading-label">русский</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+</div>
+<div id="right-navigation">
+<nav aria-labelledby="p-views-label" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-views" role="navigation">
+<h3 class="vector-menu-heading" id="p-views-label">
+<span class="vector-menu-heading-label">Просмотры</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-view"><a href="/wiki/%D0%9E%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B8%D0%BD%D1%86%D0%B5%D1%82"><span>Читать</span></a></li><li class="mw-list-item" id="ca-ve-edit"><a accesskey="v" href="/w/index.php?title=%D0%9E%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B8%D0%BD%D1%86%D0%B5%D1%82&amp;veaction=edit" title="Редактировать данную страницу [v]"><span>Править</span></a></li><li class="collapsible mw-list-item" id="ca-edit"><a accesskey="e" href="/w/index.php?title=%D0%9E%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B8%D0%BD%D1%86%D0%B5%D1%82&amp;action=edit" title="Править исходный текст этой страницы [e]"><span>Править код</span></a></li><li class="mw-list-item" id="ca-history"><a accesskey="h" href="/w/index.php?title=%D0%9E%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B8%D0%BD%D1%86%D0%B5%D1%82&amp;action=history" title="Журнал изменений страницы [h]"><span>История</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-cactions-label" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" id="p-cactions" role="navigation" title="Больше возможностей">
+<input aria-haspopup="true" aria-labelledby="p-cactions-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-cactions" id="p-cactions-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-cactions-label">
+<span class="vector-menu-heading-label">Ещё</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+<div class="vector-search-box-vue vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box" id="p-search" role="search">
+<h3>Поиск</h3>
+<form action="/w/index.php" class="vector-search-box-form" id="searchform">
+<div class="vector-search-box-inner" data-search-loc="header-navigation" id="simpleSearch">
+<input accesskey="f" aria-label="Искать в Википедии" autocapitalize="sentences" class="vector-search-box-input" id="searchInput" name="search" placeholder="Искать в Википедии" title="Искать в Википедии [f]" type="search"/>
+<input name="title" type="hidden" value="Служебная:Поиск"/>
+<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Найти страницы, содержащие указанный текст" type="submit" value="Найти"/>
+<input class="searchButton" id="searchButton" name="go" title="Перейти к странице, имеющей в точности такое название" type="submit" value="Перейти"/>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="vector-legacy-sidebar" id="mw-panel">
+<div id="p-logo" role="banner">
+<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу"></a>
+</div>
+<nav aria-labelledby="p-navigation-label" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" id="p-navigation" role="navigation">
+<h3 class="vector-menu-heading" id="p-navigation-label">
+<span class="vector-menu-heading-label">Навигация</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-mainpage-description"><a accesskey="z" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]"><span>Заглавная страница</span></a></li><li class="mw-list-item" id="n-content"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li class="mw-list-item" id="n-featured"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li class="mw-list-item" id="n-randompage"><a accesskey="x" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]"><span>Случайная статья</span></a></li><li class="mw-list-item" id="n-currentevents"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li class="mw-list-item" id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-participation-label" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" id="p-participation" role="navigation">
+<h3 class="vector-menu-heading" id="p-participation-label">
+<span class="vector-menu-heading-label">Участие</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-bug_in_article"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li class="mw-list-item" id="n-introduction"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li class="mw-list-item" id="n-portal"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li class="mw-list-item" id="n-forum"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li class="mw-list-item" id="n-recentchanges"><a accesskey="r" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]"><span>Свежие правки</span></a></li><li class="mw-list-item" id="n-newpages"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li class="mw-list-item" id="n-help"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-tb-label" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" id="p-tb" role="navigation">
+<h3 class="vector-menu-heading" id="p-tb-label">
+<span class="vector-menu-heading-label">Инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="t-whatlinkshere"><a accesskey="j" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%9E%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B8%D0%BD%D1%86%D0%B5%D1%82" title="Список всех страниц, ссылающихся на данную [j]"><span>Ссылки сюда</span></a></li><li class="mw-list-item" id="t-recentchangeslinked"><a accesskey="k" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%9E%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B8%D0%BD%D1%86%D0%B5%D1%82" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]"><span>Связанные правки</span></a></li><li class="mw-list-item" id="t-specialpages"><a accesskey="q" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]"><span>Служебные страницы</span></a></li><li class="mw-list-item" id="t-permalink"><a href="/w/index.php?title=%D0%9E%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B8%D0%BD%D1%86%D0%B5%D1%82&amp;oldid=133586780" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li class="mw-list-item" id="t-info"><a href="/w/index.php?title=%D0%9E%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B8%D0%BD%D1%86%D0%B5%D1%82&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li class="mw-list-item" id="t-cite"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%9E%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B8%D0%BD%D1%86%D0%B5%D1%82&amp;id=133586780&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li class="mw-list-item" id="t-urlshortener"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%259E%25D0%25BF%25D1%2582%25D0%25B8%25D1%2587%25D0%25B5%25D1%2581%25D0%25BA%25D0%25B8%25D0%25B9_%25D0%25BF%25D0%25B8%25D0%25BD%25D1%2586%25D0%25B5%25D1%2582"><span>Получить короткий URL</span></a></li><li class="mw-list-item" id="t-urlshortener-qrcode"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%259E%25D0%25BF%25D1%2582%25D0%25B8%25D1%2587%25D0%25B5%25D1%2581%25D0%25BA%25D0%25B8%25D0%25B9_%25D0%25BF%25D0%25B8%25D0%25BD%25D1%2586%25D0%25B5%25D1%2582"><span>Скачать QR-код</span></a></li><li class="mw-list-item" id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1066633" title="Ссылка на связанный элемент репозитория данных [g]"><span>Элемент Викиданных</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-coll-print_export-label" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" id="p-coll-print_export" role="navigation">
+<h3 class="vector-menu-heading" id="p-coll-print_export-label">
+<span class="vector-menu-heading-label">Печать/экспорт</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="coll-download-as-rl"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%9E%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B8%D0%BD%D1%86%D0%B5%D1%82&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li class="mw-list-item" id="t-print"><a accesskey="p" href="/w/index.php?title=%D0%9E%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B8%D0%BD%D1%86%D0%B5%D1%82&amp;printable=yes" title="Версия этой страницы для печати [p]"><span>Версия для печати</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-wikibase-otherprojects-label" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal vector-menu" id="p-wikibase-otherprojects" role="navigation">
+<h3 class="vector-menu-heading" id="p-wikibase-otherprojects-label">
+<span class="vector-menu-heading-label">В других проектах</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Optical_tweezers" hreflang="en"><span>Викисклад</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-lang-label" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" id="p-lang" role="navigation">
+<h3 class="vector-menu-heading" id="p-lang-label">
+<span class="vector-menu-heading-label">На других языках</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="interlanguage-link interwiki-be badge-Q17437798 badge-goodarticle mw-list-item" title="хорошая статья"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%90%D0%BF%D1%82%D1%8B%D1%87%D0%BD%D1%8B_%D0%BF%D1%96%D0%BD%D1%86%D1%8D%D1%82" hreflang="be" lang="be" title="Аптычны пінцэт — белорусский"><span>Беларуская</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Pinces_%C3%B2ptiques" hreflang="ca" lang="ca" title="Pinces òptiques — каталанский"><span>Català</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Optische_Pinzette" hreflang="de" lang="de" title="Optische Pinzette — немецкий"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a class="interlanguage-link-target" href="https://en.wikipedia.org/wiki/Optical_tweezers" hreflang="en" lang="en" title="Optical tweezers — английский"><span>English</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Pinza_%C3%B3ptica" hreflang="es" lang="es" title="Pinza óptica — испанский"><span>Español</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%A7%D9%86%D8%A8%D8%B1%DA%A9_%D9%86%D9%88%D8%B1%DB%8C" hreflang="fa" lang="fa" title="انبرک نوری — персидский"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Pince_optique" hreflang="fr" lang="fr" title="Pince optique — французский"><span>Français</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%9E%D7%9C%D7%A7%D7%97%D7%99%D7%99%D7%9D_%D7%90%D7%95%D7%A4%D7%98%D7%99%D7%99%D7%9D" hreflang="he" lang="he" title="מלקחיים אופטיים — иврит"><span>עברית</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Opti%C4%8Dka_pinceta" hreflang="hr" lang="hr" title="Optička pinceta — хорватский"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Optikai_csipesz_(l%C3%A9zercsipesz)" hreflang="hu" lang="hu" title="Optikai csipesz (lézercsipesz) — венгерский"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Pinzetta_ottica" hreflang="it" lang="it" title="Pinzetta ottica — итальянский"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E5%85%89%E3%83%94%E3%83%B3%E3%82%BB%E3%83%83%E3%83%88" hreflang="ja" lang="ja" title="光ピンセット — японский"><span>日本語</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EA%B4%91_%ED%95%80%EC%85%8B" hreflang="ko" lang="ko" title="광 핀셋 — корейский"><span>한국어</span></a></li><li class="interlanguage-link interwiki-la mw-list-item"><a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/Volsella_optica" hreflang="la" lang="la" title="Volsella optica — латинский"><span>Latina</span></a></li><li class="interlanguage-link interwiki-lt mw-list-item"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Optinis_pincetas" hreflang="lt" lang="lt" title="Optinis pincetas — литовский"><span>Lietuvių</span></a></li><li class="interlanguage-link interwiki-ml mw-list-item"><a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%93%E0%B4%AA%E0%B5%8D%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B4%BF%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%BD_%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B5%8D%E0%B4%B5%E0%B5%80%E0%B4%B8%E0%B5%BC" hreflang="ml" lang="ml" title="ഓപ്റ്റിക്കൽ റ്റ്വീസർ — малаялам"><span>മലയാളം</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Optisch_pincet" hreflang="nl" lang="nl" title="Optisch pincet — нидерландский"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Szczypce_optyczne" hreflang="pl" lang="pl" title="Szczypce optyczne — польский"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Pin%C3%A7a_%C3%B3ptica" hreflang="pt" lang="pt" title="Pinça óptica — португальский"><span>Português</span></a></li><li class="interlanguage-link interwiki-sl mw-list-item"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Opti%C4%8Dna_pinceta" hreflang="sl" lang="sl" title="Optična pinceta — словенский"><span>Slovenščina</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Optik_c%C4%B1mb%C4%B1z" hreflang="tr" lang="tr" title="Optik cımbız — турецкий"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk badge-Q17437796 badge-featuredarticle mw-list-item" title="избранная статья"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9E%D0%BF%D1%82%D0%B8%D1%87%D0%BD%D0%B8%D0%B9_%D0%BF%D1%96%D0%BD%D1%86%D0%B5%D1%82" hreflang="uk" lang="uk" title="Оптичний пінцет — украинский"><span>Українська</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%85%89%E9%91%B7" hreflang="zh" lang="zh" title="光鑷 — китайский"><span>中文</span></a></li>
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1066633#sitelinks-wikipedia" title="Править ссылки на другие языки">Править ссылки</a></span></div>
+</div>
+</nav>
+</div>
+</div>
+<footer class="mw-footer" id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 14 октября 2023 в 06:43.</li>
+<li id="footer-info-copyright">Текст доступен по <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru" rel="license">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a><a href="//creativecommons.org/licenses/by-sa/4.0/" rel="license" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br/>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org/ru/">Фонд Викимедиа (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//ru.m.wikipedia.org/w/index.php?title=%D0%9E%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B8%D0%BD%D1%86%D0%B5%D1%82&amp;mobileaction=toggle_view_mobile">Мобильная версия</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" loading="lazy" src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88"/></a></li>
+<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" loading="lazy" src="/static/images/footer/poweredby_mediawiki_88x31.png" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88"/></a></li>
+</ul>
+</footer>
+
+
+</body>
+</html>

@@ -1,0 +1,925 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="ru">
+<head>
+<meta charset="utf-8"/>
+<title>Final Fantasy (игра) — Википедия</title>
+
+
+
+
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+
+
+<meta content="MediaWiki 1.42.0-wmf.19" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="max-image-preview:standard" name="robots"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="https://upload.wikimedia.org/wikipedia/ru/f/f2/Ff1j_front.jpg" property="og:image"/>
+<meta content="1200" property="og:image:width"/>
+<meta content="876" property="og:image:height"/>
+<meta content="https://upload.wikimedia.org/wikipedia/ru/f/f2/Ff1j_front.jpg" property="og:image"/>
+<meta content="800" property="og:image:width"/>
+<meta content="584" property="og:image:height"/>
+<meta content="640" property="og:image:width"/>
+<meta content="467" property="og:image:height"/>
+<meta content="width=1000" name="viewport"/>
+<meta content="Final Fantasy (игра) — Википедия" property="og:title"/>
+<meta content="website" property="og:type"/>
+
+
+
+
+
+
+
+
+
+
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Final_Fantasy_игра rootpage-Final_Fantasy_игра skin-vector action-view"><div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators">
+</div>
+<h1 class="firstHeading mw-first-heading" id="firstHeading"><i>Final Fantasy</i> (игра)</h1>
+<div class="vector-body" id="bodyContent">
+<div class="noprint" id="siteSub">Материал из Википедии — свободной энциклопедии</div>
+<div id="contentSub"><div id="mw-content-subtitle"><span class="mw-redirectedfrom">(перенаправлено с «<a class="mw-redirect" href="/w/index.php?title=Final_Fantasy_I&amp;redirect=no" title="Final Fantasy I">Final Fantasy I</a>»)</span></div></div>
+<div id="contentSub2"></div>
+<div id="jump-to-nav"></div>
+<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+<div class="mw-body-content" id="mw-content-text"><div class="mw-content-ltr mw-parser-output" dir="ltr" lang="ru"><table class="infobox infobox-ab3fbab968d025e5" data-name="Компьютерная игра" style=""><tbody><tr><th class="infobox-above" colspan="2" scope="colgroup" style=""><i>Final Fantasy</i></th></tr><tr><td class="infobox-image" colspan="2" style=""> <span class="no-wikidata" data-wikidata-property-id="P18"><span typeof="mw:File/Frameless"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Ff1j_front.jpg" title="Обложка японской версии для Famicom"><img alt="Обложка японской версии для Famicom" class="mw-file-element" data-file-height="467" data-file-width="640" decoding="async" height="200" src="//upload.wikimedia.org/wikipedia/ru/thumb/f/f2/Ff1j_front.jpg/274px-Ff1j_front.jpg" srcset="//upload.wikimedia.org/wikipedia/ru/thumb/f/f2/Ff1j_front.jpg/411px-Ff1j_front.jpg 1.5x, //upload.wikimedia.org/wikipedia/ru/thumb/f/f2/Ff1j_front.jpg/548px-Ff1j_front.jpg 2x" width="274"/></a></span><br/><span class="media-caption" data-wikidata-qualifier-id="P2096" style="display:block">Обложка японской версии для Famicom</span></span> </td></tr>
+<tr>
+<th class="plainlist" scope="row">Разработчик</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P178"><a class="mw-redirect" href="/wiki/Square_Co.,_Ltd." title="Square Co., Ltd.">Square Co., Ltd.</a></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Издатели</th>
+<td class="plainlist">
+<div class="no-wikidata" data-wikidata-property-id="P123">
+<ul><li><a class="mw-redirect" href="/wiki/Square_Co.,_Ltd." title="Square Co., Ltd.">Square Co., Ltd.</a> (Япония)</li>
+<li><a href="/wiki/Nintendo" title="Nintendo">Nintendo of America</a> (США)</li></ul></div></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Часть серии</th>
+<td class="plainlist">
+<i><span class="no-wikidata" data-wikidata-property-id="P179"><a href="/wiki/Final_Fantasy" title="Final Fantasy">Final Fantasy</a></span></i></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Даты выпуска</th>
+<td class="plainlist">
+<div class="no-wikidata" data-wikidata-property-id="P577">
+<dl><dt>NES</dt>
+<dd>18 декабря <a href="/wiki/1987_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D1%8B%D1%85_%D0%B8%D0%B3%D1%80%D0%B0%D1%85" title="1987 год в компьютерных играх">1987</a> (Япония)</dd>
+<dd>12 июля 1990 (США)</dd>
+<dt>Virtual Console</dt>
+<dd>26 мая 2009 (Япония)</dd>
+<dd>5 октября 2009 (США)</dd>
+<dd>7 мая 2010 (Европа)</dd></dl></div></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row"><a href="/wiki/%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F_%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D1%8B%D1%85_%D0%B8%D0%B3%D1%80" title="Классификация компьютерных игр"> Жанр 
+</a></th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P136"><a href="/wiki/%D0%AF%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%BE%D0%BB%D0%B5%D0%B2%D0%B0%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0" title="Японская ролевая игра">Ролевая игра</a></span></td>
+</tr>
+<tr>
+<th class="infobox-header" colspan="2" scope="colgroup" style=""><a href="/wiki/%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0_%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D1%8B%D1%85_%D0%B8%D0%B3%D1%80" title="Разработка компьютерных игр">Создатели</a></th>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Руководитель</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P57"><a href="/wiki/%D0%A1%D0%B0%D0%BA%D0%B0%D0%B3%D1%83%D1%82%D0%B8,_%D0%A5%D0%B8%D1%80%D0%BE%D0%BD%D0%BE%D0%B1%D1%83" title="Сакагути, Хиронобу">Хиронобу Сакагути</a></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Продюсер</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P162"><a class="new" href="/w/index.php?title=%D0%9C%D0%B8%D1%8F%D0%BC%D0%BE%D1%82%D0%BE,_%D0%9C%D0%B0%D1%81%D0%B0%D1%84%D1%83%D0%BC%D0%B8&amp;action=edit&amp;redlink=1" title="Миямото, Масафуми (страница отсутствует)">Масафуми Миямото</a></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row"><a href="/wiki/%D0%93%D0%B5%D0%B9%D0%BC%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD%D0%B5%D1%80" title="Геймдизайнер"> Геймдизайнер 
+</a></th>
+<td class="plainlist">
+<span class="wikidata-claim" data-wikidata-claim-id="Q1415970$F5907873-5A09-450D-85AA-68D265228C22" data-wikidata-property-id="P287"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%A1%D0%B0%D0%BA%D0%B0%D0%B3%D1%83%D1%82%D0%B8,_%D0%A5%D0%B8%D1%80%D0%BE%D0%BD%D0%BE%D0%B1%D1%83" title="Сакагути, Хиронобу">Хиронобу Сакагути</a></span></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Сценарист</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P58"><a class="new" href="/w/index.php?title=%D0%A2%D1%8D%D1%80%D0%B0%D0%B4%D0%B0,_%D0%9A%D1%8D%D0%BD%D0%B4%D0%B7%D0%B8&amp;action=edit&amp;redlink=1" title="Тэрада, Кэндзи (страница отсутствует)">Кэндзи Тэрада</a></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Программист</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P943"><a href="/wiki/%D0%94%D0%B6%D0%B5%D0%B1%D0%B5%D0%BB%D0%BB%D0%B8,_%D0%9D%D0%B0%D1%81%D0%B8%D1%80" title="Джебелли, Насир">Насир Джебелли</a></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Художник</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P3080"><a href="/wiki/%D0%90%D0%BC%D0%B0%D0%BD%D0%BE,_%D0%81%D1%81%D0%B8%D1%82%D0%B0%D0%BA%D0%B0" title="Амано, Ёситака">Ёситака Амано</a></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row"><a href="/wiki/%D0%9C%D1%83%D0%B7%D1%8B%D0%BA%D0%B0_%D0%B2_%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D1%8B%D1%85_%D0%B8%D0%B3%D1%80%D0%B0%D1%85" title="Музыка в компьютерных играх"> Композитор 
+</a></th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P86"><a href="/wiki/%D0%A3%D1%8D%D0%BC%D0%B0%D1%86%D1%83,_%D0%9D%D0%BE%D0%B1%D1%83%D0%BE" title="Уэмацу, Нобуо">Нобуо Уэмацу</a></span></td>
+</tr>
+<tr>
+<th class="infobox-header" colspan="2" scope="colgroup" style="">Технические данные</th>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Платформы</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P400"><a href="/wiki/Nintendo_Entertainment_System" title="Nintendo Entertainment System">Nintendo Entertainment System</a>, <a class="mw-redirect" href="/wiki/MSX2" title="MSX2">MSX2</a>, <a href="/wiki/WonderSwan_Color" title="WonderSwan Color">WonderSwan Color</a>, <a href="/wiki/PlayStation" title="PlayStation">PlayStation</a>, <a class="mw-redirect" href="/wiki/%D0%9C%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%82%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD" title="Мобильный телефон">Мобильные телефоны</a>, <a href="/wiki/Game_Boy_Advance" title="Game Boy Advance">Game Boy Advance</a>, <a href="/wiki/PlayStation_Portable" title="PlayStation Portable">PlayStation Portable</a>, <a href="/wiki/Android" title="Android">Android</a>, <a href="/wiki/IOS" title="IOS">iOS</a>, <a href="/wiki/Windows" title="Windows">Windows</a>, <a href="/wiki/PlayStation_4" title="PlayStation 4">PlayStation 4</a>, <a href="/wiki/Nintendo_Switch" title="Nintendo Switch">Nintendo Switch</a></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Режим игры</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P404"><a href="/wiki/%D0%9E%D0%B4%D0%BD%D0%BE%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0" title="Однопользовательская игра">однопользовательский</a></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Носители</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P437">2-х <a href="/wiki/%D0%91%D0%B8%D1%82" title="Бит">мегабитный</a> <a href="/wiki/%D0%98%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%B9_%D0%BA%D0%B0%D1%80%D1%82%D1%80%D0%B8%D0%B4%D0%B6" title="Игровой картридж">картридж</a>, <a class="mw-redirect" href="/wiki/CD" title="CD">CD</a>, <a class="mw-redirect" href="/wiki/UMD" title="UMD">UMD</a></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row"><a href="/wiki/%D0%A3%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE_%D0%B2%D0%B2%D0%BE%D0%B4%D0%B0" title="Устройство ввода">Управление</a></th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P479"><a href="/wiki/%D0%93%D0%B5%D0%B9%D0%BC%D0%BF%D0%B0%D0%B4" title="Геймпад">геймпад</a></span></td>
+</tr><tr><td class="infobox-below" colspan="2" style=";"><span class="wikidata-claim" data-wikidata-claim-id="Q1415970$D02C4D0C-3134-4D3E-B1A7-CE57BA5A5A16" data-wikidata-property-id="P856"><span class="wikidata-snak wikidata-main-snak"><a class="external text" href="https://www.jp.square-enix.com/game/detail/ff/" rel="nofollow"><b>Официальный сайт</b></a></span></span></td></tr>
+</tbody></table>
+<p><i><b>Final Fantasy</b></i> <span style="font-weight: normal;">(<a href="/wiki/%D0%AF%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Японский язык">яп.</a> <span lang="ja" style="font-size: 110%; font-style: normal;">ファイナルファンタジー</span> <i>фаинару фантадзи:</i>)</span> — <a href="/wiki/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE%D0%B8%D0%B3%D1%80%D0%B0" title="Видеоигра">видеоигра</a> в жанре <a class="mw-redirect" href="/wiki/JRPG" title="JRPG">JRPG</a>. Была выпущена в <a href="/wiki/%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D1%8F" title="Япония">Японии</a> компанией <a class="mw-redirect" href="/wiki/Square_Co.,_Ltd." title="Square Co., Ltd.">Square Co., Ltd.</a> (ныне <a href="/wiki/Square_Enix" title="Square Enix">Square Enix</a>) для <a href="/wiki/Nintendo_Entertainment_System" title="Nintendo Entertainment System">Nintendo Entertainment System</a> в <a href="/wiki/1987_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D1%8B%D1%85_%D0%B8%D0%B3%D1%80%D0%B0%D1%85" title="1987 год в компьютерных играх">1987 году</a> и положила начало ведущему бренду Square — серии <i><a href="/wiki/Final_Fantasy" title="Final Fantasy">Final Fantasy</a></i>.
+</p><p><i>Final Fantasy I</i> была не раз <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D1%8F" title="Портирование программного обеспечения">портирована</a> для ряда домашних и карманных <a class="mw-redirect" href="/wiki/%D0%98%D0%B3%D1%80%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BA%D0%BE%D0%BD%D1%81%D0%BE%D0%BB%D1%8C" title="Игровая консоль">консолей</a> и зачастую поставлялась в наборе, в комплект которого также входила следующая часть серии — <i><a href="/wiki/Final_Fantasy_II" title="Final Fantasy II">Final Fantasy II</a></i>; одними из таких наборов являются <i>Final Fantasy Origins</i> (<a href="/wiki/PlayStation" title="PlayStation">PS One</a>) и <i>Final Fantasy I &amp; II: Dawn of Souls</i> (<a href="/wiki/Game_Boy_Advance" title="Game Boy Advance">Game Boy Advance</a>).
+</p><p><i>Final Fantasy</i> стала одной из наиболее влиятельных ранних <a href="/wiki/%D0%AF%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%BE%D0%BB%D0%B5%D0%B2%D0%B0%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0" title="Японская ролевая игра">японских ролевых игр</a> и сыграла одну из ведущих ролей в формировании и популяризации жанра.
+</p>
+<div aria-labelledby="mw-toc-heading" class="toc" id="toc" role="navigation"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="ru"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Игровой_процесс"><span class="tocnumber">1</span> <span class="toctext">Игровой процесс</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Классы"><span class="tocnumber">1.1</span> <span class="toctext">Классы</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Бой"><span class="tocnumber">1.2</span> <span class="toctext">Бой</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Экипировка_и_вещи"><span class="tocnumber">1.3</span> <span class="toctext">Экипировка и вещи</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Сюжет_и_мир"><span class="tocnumber">2</span> <span class="toctext">Сюжет и мир</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Мир"><span class="tocnumber">2.1</span> <span class="toctext">Мир</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Сюжет"><span class="tocnumber">2.2</span> <span class="toctext">Сюжет</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Разработка"><span class="tocnumber">3</span> <span class="toctext">Разработка</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Музыкальное_сопровождение"><span class="tocnumber">3.1</span> <span class="toctext">Музыкальное сопровождение</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Баги"><span class="tocnumber">3.2</span> <span class="toctext">Баги</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Команда_разработчиков"><span class="tocnumber">3.3</span> <span class="toctext">Команда разработчиков</span></a>
+<ul>
+<li class="toclevel-3 tocsection-12"><a href="#Оригинальная_версия_для_Famicom"><span class="tocnumber">3.3.1</span> <span class="toctext">Оригинальная версия для Famicom</span></a></li>
+<li class="toclevel-3 tocsection-13"><a href="#Ремейк_для_PlayStation"><span class="tocnumber">3.3.2</span> <span class="toctext">Ремейк для PlayStation</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#Локализация_и_ремейки"><span class="tocnumber">4</span> <span class="toctext">Локализация и ремейки</span></a>
+<ul>
+<li class="toclevel-2 tocsection-15"><a href="#MSX_2"><span class="tocnumber">4.1</span> <span class="toctext">MSX 2</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#WonderSwan_Color"><span class="tocnumber">4.2</span> <span class="toctext">WonderSwan Color</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#PlayStation"><span class="tocnumber">4.3</span> <span class="toctext">PlayStation</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#GameBoy_Advance"><span class="tocnumber">4.4</span> <span class="toctext">GameBoy Advance</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Мобильные_телефоны"><span class="tocnumber">4.5</span> <span class="toctext">Мобильные телефоны</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#PlayStation_Portable"><span class="tocnumber">4.6</span> <span class="toctext">PlayStation Portable</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-21"><a href="#Влияние_и_значимость"><span class="tocnumber">5</span> <span class="toctext">Влияние и значимость</span></a></li>
+<li class="toclevel-1 tocsection-22"><a href="#Примечания"><span class="tocnumber">6</span> <span class="toctext">Примечания</span></a></li>
+<li class="toclevel-1 tocsection-23"><a href="#Ссылки"><span class="tocnumber">7</span> <span class="toctext">Ссылки</span></a></li>
+</ul>
+</div>
+<h2><span id=".D0.98.D0.B3.D1.80.D0.BE.D0.B2.D0.BE.D0.B9_.D0.BF.D1.80.D0.BE.D1.86.D0.B5.D1.81.D1.81"></span><span class="mw-headline" id="Игровой_процесс">Игровой процесс</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Final_Fantasy_(%D0%B8%D0%B3%D1%80%D0%B0)&amp;veaction=edit&amp;section=1" title="Редактировать раздел «Игровой процесс»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Final_Fantasy_(%D0%B8%D0%B3%D1%80%D0%B0)&amp;action=edit&amp;section=1" title="Редактировать код раздела «Игровой процесс»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/%D0%93%D0%B5%D0%B9%D0%BC%D0%BF%D0%BB%D0%B5%D0%B9" title="Геймплей">Геймплей</a> в <i>Final Fantasy I</i> не сильно отличался от большинства других игр жанра JRPG тех времён — игрок перед началом игры должен сам создать себе команду из четырёх героев, которых в игре называют «<i>Светлыми Воинами</i>» (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">«<i>Light Warriors</i></span>") или «<i>Воинами Света</i>» (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">«<i>Warriors of Light</i>»</span>) в последующих ремейках, посредством выбора класса и введения имени (изначально можно было ввести лишь 4 символа, но в последующих ремейках количество символов увеличилось до 6) для каждого из персонажей. Выбор классов для персонажей никак не повлияет на сюжет игры, однако внесёт разницу (порой весьма значительную) в то, как будут проходить бои в игре.
+</p>
+<figure class="mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Final_Fantasy_Gameplay.png"><img class="mw-file-element" data-file-height="480" data-file-width="512" decoding="async" height="173" src="//upload.wikimedia.org/wikipedia/ru/thumb/9/9b/Final_Fantasy_Gameplay.png/185px-Final_Fantasy_Gameplay.png" srcset="//upload.wikimedia.org/wikipedia/ru/thumb/9/9b/Final_Fantasy_Gameplay.png/278px-Final_Fantasy_Gameplay.png 1.5x, //upload.wikimedia.org/wikipedia/ru/thumb/9/9b/Final_Fantasy_Gameplay.png/370px-Final_Fantasy_Gameplay.png 2x" width="185"/></a><figcaption>Игровой процесс</figcaption></figure>
+<p>В основном, цель игры заключается в уничтожении четырёх «<i>Стихийных Врагов</i>» (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">«<i>Elemental Fiends</i>»</span>), которых также называют «<i>Стражами Хаоса</i>» (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">«<i>Fiends of Chaos</i>»</span>). На своём пути игрок периодически посещает различные города, в которых он может закупить новую экипировку, продать старую, приобрести разного рода расходные материалы, получить вспомогательную информацию, ну и, конечно же, отдохнуть после насыщенных приключений. Вне городов на героев могут напасть разного рода монстры, которых нужно либо истребить, либо избежать посредством побега с поля боя. Победа над монстрами даёт героям <a class="mw-redirect" href="/wiki/%D0%9E%D0%BF%D1%8B%D1%82_(%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D1%8B%D0%B5_%D0%B8%D0%B3%D1%80%D1%8B)" title="Опыт (компьютерные игры)">очки опыта</a> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;"><i>EXP</i>, <i>Experience Points</i></span>), набор определённого количества которых повышает уровень развития героев, а также золото (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;"><i>Gold</i>, или <i>Gil</i></span> в ремейках, на манер последующих частей серии), местную валюту в мире <i>Final Fantasy I</i>.
+</p><p>С повышением уровня растут характеристики, увеличивается запас <a class="mw-redirect" href="/wiki/%D0%9E%D1%87%D0%BA%D0%B8_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8" title="Очки жизни">очков жизней</a> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;"><i>HP</i>, <i>Hit/Health Points</i></span>) и заклинаний. Ранние версии игры выделяются отсутствием <a class="mw-redirect" href="/wiki/%D0%9C%D0%B0%D0%BD%D0%B0_(%D0%B8%D0%B3%D1%80%D1%8B)" title="Мана (игры)">маны</a>, вместо неё у героев имелось некоторое количество восстанавливаемых во время отдыха зарядов для каждого уровня заклинаний, количество которых напрямую зависело от уровня персонажа. В более поздних версиях игры, начиная с <i>Final Fantasy I &amp; II: Dawn of Souls</i> для <a href="/wiki/Game_Boy_Advance" title="Game Boy Advance">Game Boy Advance</a>, в игру была введена система потребления <a class="mw-redirect" href="/wiki/%D0%9C%D0%B0%D0%BD%D0%B0_(%D0%B8%D0%B3%D1%80%D1%8B)" title="Мана (игры)">очков магии</a> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;"><i>MP</i>, <i>Magic/Mana Points</i></span>), свойственная для большинства следующих частей серии <i>Final Fantasy</i>. Таким образом, у каждого персонажа (преимущественно у магов) появился свой собственный запас <i>MP</i>, который является общим для всех разученных заклинаний. Более мощные заклинания требуют больших затрат <i>MP</i>. Количество <i>MP</i> растёт точно так же, как и количество <i>HP</i> — вместе с повышением уровня развития персонажа.
+</p><p>Путешествия между городами и локациями, в которых и разворачивается основное действие, происходят на глобальной карте. В <i>Final Fantasy I</i> есть несколько видов транспорта. Изначально у игрока нет ни одного транспорта, из-за чего ему открыта лишь малая часть наибольшего континента, но по ходу сюжета персонажи получают корабль (для передвижения по морям и океанам) и каноэ (для перемещения вдоль узких рек), которые помогут исследовать весь основной континент и, в конечном итоге, получить летающий корабль, который даёт возможность отправиться исследовать два внешних континента и продвинуться дальше по сюжету. Также, по мере прохождения игры герои смогут использовать подводную лодку для погружения на дно океана, но управлять самой лодкой возможности не предоставляется, она сама доставляет героев на требуемое место.
+</p>
+<h3><span id=".D0.9A.D0.BB.D0.B0.D1.81.D1.81.D1.8B"></span><span class="mw-headline" id="Классы">Классы</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Final_Fantasy_(%D0%B8%D0%B3%D1%80%D0%B0)&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Классы»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Final_Fantasy_(%D0%B8%D0%B3%D1%80%D0%B0)&amp;action=edit&amp;section=2" title="Редактировать код раздела «Классы»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Классы для персонажей выбираются игроком в начале игры и не могут быть изменены в дальнейшем. На поздних этапах игры каждый класс может быть улучшен посредством выполнения необязательного квеста. Три класса ориентированы на физический бой и три — на магию.
+</p>
+<ul><li><b>Воин</b> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">Fighter</span>, в более поздних версиях — <a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">Warrior</span>) владеет любым оружием и бронёй, имеет сильную атаку и защиту, после становления <i>Рыцарем</i> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">Knight</span>), помимо прибавки к силе и защите, получает способность разучивать и использовать белую магию низких уровней.</li>
+<li><b>Чёрный Пояс</b> или <b>Монах</b> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">Black Belt</span> или <a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">Monk</span>) — не признает броню и оружие, доверяет лишь своим кулакам. В большинстве случаев любая броня или оружие лишь ухудшает его защиту и атаку. Повышение до <i>Мастера</i> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">Master</span>) ещё больше усиливает его атаку кулаками и защиту без брони.</li>
+<li><b>Вор</b> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">Thief</span>) — быстрый и ловкий; особо полезен тогда, когда лучше разумно отступить, чем позорно проиграть. После становления <i>Ниндзя</i> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">Ninja</span>) получает ещё бо́льшую прибавку к ловкости, а также приобретает возможность разучивать и использовать чёрную магию низких уровней.</li>
+<li><b>Красный Маг</b> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">Red Mage</span>) — может использовать большинство заклинаний чёрной и белой магии (кроме самых продвинутых) и эффективно сражаться с помощью холодного оружия. После повышения до <i>Красного Колдуна</i> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">Red Wizard</span>) получает разрешение на разучивание и использование более мощных заклинаний, а также может одеться в более солидную экипировку.</li>
+<li><b>Белый Маг</b> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">White Mage</span>) — специалист по белой магии (в основном лечебные и защитные заклинания), слабый в ближнем бою и не особо блещет защитой. После повышения по должности до <i>Белого Колдуна</i> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">White Wizard</span>) получает доступ к разучиванию и использованию самых мощных заклинаний из школы белой магии.</li>
+<li><b>Чёрный Маг</b> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">Black Mage</span>) — мастер чёрной магии (в основном атакующие заклинания). По сути похож на <i>Белого Мага</i>, но имеет более сильную атаку в ближнем бою и меньшее количество <i>HP</i>. На манер того же <i>Белого Мага</i> — после повышения до <i>Чёрного Колдуна</i> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">Black Wizard</span>) получает возможность изучить наисильнейшие заклинания из школы чёрной магии.</li></ul>
+<h3><span id=".D0.91.D0.BE.D0.B9"></span><span class="mw-headline" id="Бой">Бой</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Final_Fantasy_(%D0%B8%D0%B3%D1%80%D0%B0)&amp;veaction=edit&amp;section=3" title="Редактировать раздел «Бой»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Final_Fantasy_(%D0%B8%D0%B3%D1%80%D0%B0)&amp;action=edit&amp;section=3" title="Редактировать код раздела «Бой»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Ff1_battle.PNG"><img class="mw-file-element" data-file-height="240" data-file-width="256" decoding="async" height="240" src="//upload.wikimedia.org/wikipedia/ru/0/04/Ff1_battle.PNG" width="256"/></a><figcaption>Бой в оригинальной версии</figcaption></figure>
+<p>Битвы в игре реализованы пошагово. В начале каждого хода игрок выбирает действие для каждого из своих персонажей, это может быть простая атака, применение магии, использование вещи или снадобья, или же команда на отступление. Далее начинается поочерёдное выполнение этих команд и действий монстров, порядок зависит от скорости (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">agility</span>) — самые быстрые выполняют свои команды первыми, если же скорость совпадает, то первенство определяется случайным образом.
+</p><p>В версии игры для NES также есть следующая особенность: если персонаж выбрал для атаки какого-либо монстра в качестве цели, но когда наступила его очередь, монстр уже убит — атака пропадает и персонаж просто пропускает ход. В более поздних версиях игры, когда атака попадает на уже мёртвого монстра, новая цель выбирается случайно, и удар наносится по ней. Все это относится как к простым атакам, так и к магии, и к применению вещей.
+</p><p>Битва продолжается, пока одна из сторон не будет повержена или не сбежит. Если игрок побеждает, то персонажи получают опыт и деньги, если сбегает, то не получает ничего и оказывается на основной карте, там где был до боя. В случае когда игрок проигрывает партию — игра заканчивается.
+</p>
+<h3><span id=".D0.AD.D0.BA.D0.B8.D0.BF.D0.B8.D1.80.D0.BE.D0.B2.D0.BA.D0.B0_.D0.B8_.D0.B2.D0.B5.D1.89.D0.B8"></span><span class="mw-headline" id="Экипировка_и_вещи">Экипировка и вещи</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Final_Fantasy_(%D0%B8%D0%B3%D1%80%D0%B0)&amp;veaction=edit&amp;section=4" title="Редактировать раздел «Экипировка и вещи»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Final_Fantasy_(%D0%B8%D0%B3%D1%80%D0%B0)&amp;action=edit&amp;section=4" title="Редактировать код раздела «Экипировка и вещи»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><i>Final Fantasy</i> содержит ряд оружия и брони; новая экипировка может сделать <i>Светлых Воинов</i> сильнее в бою. Каждый из <i>Светлых Воинов</i> имеет восемь слотов инвентаря: четыре для оружия и четыре для брони. У каждого персонажа есть свои ограничения на использование оружия и брони. Также, некоторые виды оружия и брони обладают магической силой и, при использовании во время боя, накладывают атакующие заклинания или обеспечивают защиту от заклинаний противника.
+</p><p>Всего в игре есть шесть типов оружия: <i>мечи</i>, <i>кинжалы</i>, <i>топоры</i>, <i>молоты</i>, <i>посохи</i> и <i>нунчаки</i>. Воины могут также сражаться голыми руками; однако, только <i>Чёрный Пояс/Мастер</i> может делать это эффективно. Тип оружия главным образом определяет связанное с ним изображение, а также то, какие классы могут его использовать. Например, <i>Чёрный Пояс</i> может использовать нунчаки, но не может экипировать топоры. Каждое оружие имеет три показателя: атака, точность и шанс критического удара. Определённое оружие также эффективно против монстров определённого типа или уязвимых для конкретного элемента. В оригинальной версии для NES эти свойства и шанс критического удара не были использованы из-за ошибки, которые были исправлены в следующих изданиях. Экипировать можно четыре оружия, но одновременно использовать можно только одно.
+</p><p>В дополнение к оружию присутствует четыре вида брони: доспехи (робы, кольчуги, браслеты), шлемы, перчатки, и щиты. В отличие от оружия, тип брони очень важен. Персонаж может надеть до четырёх различных частей брони сразу, но только по одной каждого типа. Каждая броня имеет два показателя: защита и уклонение. Определённые виды брони также обеспечивают защиту от определённого типа магии.
+</p><p>В магазинах Светлые Воины могут купить вещи для восстановления сил во время путешествий. Одновременно можно взять до 99 вещей каждого вида. Сюда относятся <i>Порошок</i> и предметы, которые лечат персонажей или устраняют различные статусы, такие как <i>отравление</i> или <i>окаменение</i>; <i>Палатка</i> и <i>Спальный мешок</i>, которые могут быть использованы на карте мира для лечения и дополнительного сохранения игры; и <i>Коттедж</i>, который, кроме того, восстанавливает <i>MP</i> после сохранения. Дополнительно специальные вещи могут быть получены на протяжении или после завершения квестов.
+</p><p>Много классов персонажей способны использовать магию, которая делится на защитную «белую» магию и атакующую «чёрную». Заклинания распределены по уровням от 1 до 8, при этом заклинания более высокого уровня, как правило, являются более мощными. Имеется по четыре заклинания для каждого уровня, из которых персонажи могут выучить только по три, приобретая их в магазинах в городах. Белые волшебники могут выучить все заклинания белой магии, а Чёрные — чёрной. Остальные классы могут выучить намного меньше заклинаний. В оригинальной версии для NES, выученные заклинания нельзя забыть. Это было изменено в некоторых последующих изданиях.
+</p><p>Оригинальная версия для NES позволяла каждому магу «заряжать» уровни заклинаний; и заклинания определённого уровня могли быть использованы столько раз, сколько зарядов присутствует у мага. По мере роста уровня персонажа увеличивалось и число зарядов. Эта система имеет тесное сходство с системой магии Dungeons &amp; Dragons. В некоторых более поздних выпусках игры она была заменена на MP-систему (<i><a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">Magic Points</span></i>).
+</p>
+<h2><span id=".D0.A1.D1.8E.D0.B6.D0.B5.D1.82_.D0.B8_.D0.BC.D0.B8.D1.80"></span><span class="mw-headline" id="Сюжет_и_мир">Сюжет и мир</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Final_Fantasy_(%D0%B8%D0%B3%D1%80%D0%B0)&amp;veaction=edit&amp;section=5" title="Редактировать раздел «Сюжет и мир»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Final_Fantasy_(%D0%B8%D0%B3%D1%80%D0%B0)&amp;action=edit&amp;section=5" title="Редактировать код раздела «Сюжет и мир»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id=".D0.9C.D0.B8.D1.80"></span><span class="mw-headline" id="Мир">Мир</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Final_Fantasy_(%D0%B8%D0%B3%D1%80%D0%B0)&amp;veaction=edit&amp;section=6" title="Редактировать раздел «Мир»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Final_Fantasy_(%D0%B8%D0%B3%D1%80%D0%B0)&amp;action=edit&amp;section=6" title="Редактировать код раздела «Мир»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Действие происходит в <a href="/wiki/%D0%A4%D1%8D%D0%BD%D1%82%D0%B5%D0%B7%D0%B8" title="Фэнтези">фэнтезийном</a> мире, состоящем из трёх больших континентов. В отличие от последующих частей серии <i>Final Fantasy</i>, мир и континенты первой части не имеют названий. Силы стихий в этом мире определены состоянием четырёх светящихся кристаллов («orbs» в оригинальной североамериканской локализации), каждый из которых управляет соответствующим элементом: землёй, огнём, водой или ветром.
+</p><p>Мир <i>Final Fantasy</i> населён разными расами.
+</p>
+<ul><li><i>Эльфы</i> (<i>Elves</i>) живут в <i>Эльвхейме</i> (<i>Elfland</i>, <i>Elfheim</i>). Они выделяются главным образом своими заострёнными ушами. <a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B9%D1%82_(%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%8F_%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%B0)" title="Спрайт (компьютерная графика)">Спрайт</a> для класса Вор также имеет заострённые уши, что привело к предположению, что персонаж, возможно, эльф<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup>.</li>
+<li>Эльфы находятся в состоянии войны с <i>Тёмными Эльфами</i> (<i>Dark Elves</i>), во главе которых стоит <i>Астос</i> (<i>Astos</i>).</li>
+<li><i>Русалки</i> (<i>Mermaids</i>) живут на верхнем этаже <i>Святыни Солнца</i> (<i>Sea Shrine</i>, <i>Sunken Shrine</i>). По определённым причинам, они не помогают <i>Светлым Воинам</i>.</li>
+<li><i>Драконы</i> (<i>Dragons</i>) живут на <i>островах Кардия</i> (<i>Cardia islands</i>). Король драконов <i>Багамут</i> (<i>Bahamut</i>) может повысить классы <i>Воинов</i>, если они принесут доказательство смелости из <i>Цитадели Испытаний</i> (<i>Castle of Ordeal</i>, <i>Citadel of Trials</i>).</li>
+<li><i>Роботы</i> главным образом находятся в <i>Небесном Замке</i> (<i>Floating Castle</i>, <i>Sky Castle</i>). Они, вместе с замком и дирижаблями, были созданы древней цивилизацией <i>Луфениан</i> (<i>Lefeinish</i>).</li>
+<li><i>Луфениане</i> (<i>Lufenians</i>) — о них мало чего известно, кроме того, что они — потомки представителей древней цивилизации. Луфенианином являлся <i><a href="/wiki/%D0%A1%D0%B8%D0%B4_(Final_Fantasy)#Сид_—_Final_Fantasy" title="Сид (Final Fantasy)">Сид</a></i>, живший за несколько сотен лет до начала игры.</li></ul>
+<h3><span id=".D0.A1.D1.8E.D0.B6.D0.B5.D1.82"></span><span class="mw-headline" id="Сюжет">Сюжет</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Final_Fantasy_(%D0%B8%D0%B3%D1%80%D0%B0)&amp;veaction=edit&amp;section=7" title="Редактировать раздел «Сюжет»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Final_Fantasy_(%D0%B8%D0%B3%D1%80%D0%B0)&amp;action=edit&amp;section=7" title="Редактировать код раздела «Сюжет»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="ts-Цитата"><blockquote><p>На мир обрушились несчастья. Все четыре управляющие стихиями сферы погасли одна за другой, что вылилось в великие бедствия — море наполнили ужасные штормы, земля постепенно перестаёт плодоносить, опустошающие пожары сжигают города и леса. Единственная надежда — пророчество, говорящее, что когда наступят тёмные времена, придут четыре Воина света и спасут мир.</p></blockquote></div>
+<p>Игра начинается с появления четырёх юных <i>Воинов Света</i> (<i>Warriors of light</i>), главных героев истории. Каждый из них имеет один погасший <i>Кристалл</i> (<i>Orbs</i>, <i>Crystals</i>). Они прибывают в <i>Корнелию</i> (<i>Coneria</i>, <i>Cornelia</i>), мощное королевство, где недавно рыцарь-злодей <i>Гарланд</i> (<i>Garland</i>) похитил принцессу <i>Сару</i> (<i>Sara</i>). Воины Света идут к руинам <i>Храма злодеев</i> (<i>Temple of Fiends</i>) в углу от Корнелии, побеждают Гарланда, и возвращают Принцессу Сару домой. Благодарный Король (<i>King of Coneria</i>) строит мост, который позволяет Воины Света пройти на восток к <i>Правоке</i> (<i>Pravoka</i>).
+</p><p>В Правоке Воины Света освобождают город от <i>Бикка</i> (<i>Bikke</i>) и его банды пиратов и получают в своё распоряжение пиратское судно. Получив возможность путешествовать по водным просторам, Воины Света остаются заперты в пределах <i>моря Алди</i> (<i>Aldi Sea</i>, <i>Aldean Sea</i>), в центре южного континента. На южном берегу моря находится королевство эльфов <i>Эльвхейм</i> (<i>Elfheim</i>), принц которого был погружён Астосом в проклятый сон. На западе — разрушенный замок, где король сообщает вам, что <i>Астос</i> (<i>Astos</i>) украл его корону и спрятал её в <i>Пещере Топи</i> (<i>Marsh Cave</i>) на юге, а когда Воины Света возвращают корону, то узнают, что это и есть Астос. Он также украл у ведьмы <i>Матойи</i> (<i>Matoya</i>, <i>Matouya</i>) <i>Кристальный глаз</i> (<i>Crystal</i>). Когда вы вернете его — она приготовит зелье, способное пробудить <i>Принца Эльфов</i> (<i>Elf Prince</i>), который даст Воины Света ключ способный открыть любую дверь. Ключ открывает комнату в <i>Замке Корнелии</i> (<i>Coneria Castle</i>) где хранится <i>Нитропорошок</i> (<i>TNT</i>, <i>Nitro Powder</i>). <i>Неррик</i> (<i>Nerrick</i>), один из гномов живущих в <i>горе Дуергар</i> (<i>Mount Deurgar</i>), с его помощью разрушает небольшой перешеек, соединяющий море с внешним миром.
+</p><p>После посещения полуразрушенного города <i>Мелмонд</i> (<i>Melmond</i>), Светлые Воины отправляются в Пещеру Земли (<i>Earth Cave</i>, <i>Cavern of Earth</i>) чтобы победить вампира и получить <i>Рубиновую Звезду</i> (<i>Ruby</i>), которая нужна, чтобы пройти далее в Пещеру Мудреца (<i>Sage Sarda’s</i>, <i>Sadda</i>). С помощью <i>Палки Земли</i> (<i>Sarda’s Rod</i>), Воины пробираются глубже в Пещеру Земли и уничтожают демона земли <i>Лича</i> (<i>Lich</i>), который виноват в разрушении земли. Воины Света затем получают <a href="/wiki/%D0%9A%D0%B0%D0%BD%D0%BE%D1%8D" title="Каноэ">каноэ</a>, с помощью которого добираются до <i>Горы Галг</i> (<i>Gurgu Volcano</i>, <i>Mt. Gulg</i>) и поражают демона огня <i>Марилит</i> (<i>Kary</i>, <i>Marilith</i>). Они извлекают <i>Левистоун</i> (<i>Floater</i>, <i>Levistone</i>) из <i>Пещеры льда</i> (<i>Ice Cave</i>), и с его помощью получают дирижабль, позволяющий путешествовать по воздуху и добраться до других континентов. После того, как они докажут свою смелость, принеся <i>Хвост крысы</i> (<i>Rat’s Tail</i>) из <i>Цитадели испытаний</i> (<i>Castle of Ordeal</i>, <i>Citadel of Trials</i>), король драконов <i>Багамут</i> (<i>Bahamut</i>) повышает класс персонажей.
+</p><p>Используя <i>Оксиал</i> (<i>Oxyale</i>), Воины отправляются в <i>Затонувшую Святыню</i> (<i>Sunken Shrine</i>) чтобы победить демона воды <i>Кракена</i> (<i>Kraken</i>). Они также находят <i>Камень Розетты</i> с фрагментами Луфенианского языка. Лингвист по имени <i>доктор Унн</i> (<i>Dr. Unne</i>) используя камень обучает Воинов <i>Луфенианскому языку</i> (<i>Lefeinish</i>). После этого Воины Света отправляются в небольшой отдаленный город — последний оставшийся форпост Луфенианской цивилизации. Жители города дают Воинам Света доступ в <i>Башню Миражей</i> а откуда можно попасть в <i>Небесный замок</i> (<i>Floating Castle</i>, <i>Sky Castle</i>) которую захватил демон воздуха <i>Тиамат</i> (<i>Tiamat</i>). После победы над четырьмя <i>Врагами</i> (<i>Fiends</i>) Кристаллы восстанавливаются, но Воины Света узнают, что это ещё не конец: настоящий враг ожидает их две тысячи лет назад. Путешествуя в прошлое Воины обнаруживают, что четыре Врага отправили Гарланда (теперь это <i>Хаос</i> (<i>archdemon Chaos</i>)) в прошлое, а он отправил Врагов в будущее, чтобы создать временной цикл, в котором он бы смог жить вечно<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup>. Светлые Воины побеждают <i>Хаоса</i> (<i>Chaos</i>), таким образом прерывая временной парадокс и меняя будущее, и теперь никто и не подозревает о произошедшем тяжёлом испытании.
+</p>
+<h2><span id=".D0.A0.D0.B0.D0.B7.D1.80.D0.B0.D0.B1.D0.BE.D1.82.D0.BA.D0.B0"></span><span class="mw-headline" id="Разработка">Разработка</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Final_Fantasy_(%D0%B8%D0%B3%D1%80%D0%B0)&amp;veaction=edit&amp;section=8" title="Редактировать раздел «Разработка»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Final_Fantasy_(%D0%B8%D0%B3%D1%80%D0%B0)&amp;action=edit&amp;section=8" title="Редактировать код раздела «Разработка»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Разработка <i>Final Fantasy</i> началась в 1987 году, дизайнер компании Square <a href="/wiki/%D0%A1%D0%B0%D0%BA%D0%B0%D0%B3%D1%83%D1%82%D0%B8,_%D0%A5%D0%B8%D1%80%D0%BE%D0%BD%D0%BE%D0%B1%D1%83" title="Сакагути, Хиронобу">Хиронобу Сакагути</a> приступил к работе над новым и, вероятнее всего, последним проектом. Сакагути планировал покинуть Square после завершения проекта и назвал его <i>Final Fantasy</i> (<i>Последняя фантазия</i>), так как это была, как ему казалось, его последняя работа и, скорее всего, последняя работа Square<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup>. Сама компания Square на тот момент находилась на грани банкротства<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup>. Основную команду на много лет вперёд составили Хиронобу Сакагути — главный дизайнер и разработчик, <a href="/wiki/%D0%90%D0%BC%D0%B0%D0%BD%D0%BE,_%D0%81%D1%81%D0%B8%D1%82%D0%B0%D0%BA%D0%B0" title="Амано, Ёситака">Ёситака Амано</a> — художественный оформитель и дизайнер персонажей, и <a href="/wiki/%D0%A3%D1%8D%D0%BC%D0%B0%D1%86%D1%83,_%D0%9D%D0%BE%D0%B1%D1%83%D0%BE" title="Уэмацу, Нобуо">Нобуо Уэмацу</a> — композитор серии. Персонажи и логотип названия были разработаны Ёситакой Амано. Сценарий написали <a class="mw-redirect" href="/wiki/%D0%90%D0%BA%D0%B8%D1%82%D0%BE%D1%81%D0%B8_%D0%9A%D0%B0%D0%B2%D0%B0%D0%B4%D0%B7%D1%83" title="Акитоси Кавадзу">Акитоси Кавадзу</a> и <a class="new" href="/w/index.php?title=%D0%9A%D1%8D%D0%BD%D0%B4%D0%B7%D0%B8_%D0%A2%D1%8D%D1%80%D0%B0%D0%B4%D0%B0&amp;action=edit&amp;redlink=1" title="Кэндзи Тэрада (страница отсутствует)">Кэндзи Тэрада</a><sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup>. Программистом был ирано-американец Насер Джебелли, живший в то время в Японии.
+</p><p>Игра делалась в стиле популярной в то время JRPG <i><a href="/wiki/Dragon_Quest" title="Dragon Quest">Dragon Quest</a></i> (<i>Dragon Warrior</i> в США), однако преимуществом <i>Final Fantasy</i> стала более тщательная проработка мира игры, диалогов, музыкального оформления и более серьёзный графический стиль. Как итог, игра хорошо продавалась (хотя и хуже чем <i>Dragon Quest</i>) и позволила компании продолжить разработку серии.
+</p>
+<h3><span id=".D0.9C.D1.83.D0.B7.D1.8B.D0.BA.D0.B0.D0.BB.D1.8C.D0.BD.D0.BE.D0.B5_.D1.81.D0.BE.D0.BF.D1.80.D0.BE.D0.B2.D0.BE.D0.B6.D0.B4.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Музыкальное_сопровождение">Музыкальное сопровождение</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Final_Fantasy_(%D0%B8%D0%B3%D1%80%D0%B0)&amp;veaction=edit&amp;section=9" title="Редактировать раздел «Музыкальное сопровождение»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Final_Fantasy_(%D0%B8%D0%B3%D1%80%D0%B0)&amp;action=edit&amp;section=9" title="Редактировать код раздела «Музыкальное сопровождение»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><i>Final Fantasy</i> была шестнадцатой видеоигрой с музыкальным сопровождением Нобуо Уэмацу. Эта музыка была выпущена на CD вместе с музыкой из <i>Final Fantasy II</i>. Несколько треков из игры стали основными для серии <i>Final Fantasy</i>: Вступление (<i>Prelude</i>) — <a href="/wiki/%D0%90%D1%80%D0%BF%D0%B5%D0%B4%D0%B6%D0%B8%D0%BE" title="Арпеджио">арпеджио</a>, играющее при появлении экрана приветствия; Открывающая тема (<i>Opening Theme</i>), играющая, когда персонажи впервые пересекают мост возле Корнелии в начале игры, и позже названная темой <i>Final Fantasy</i>; и Победные фанфары (<i>Victory Fanfare</i>), играющие после каждого удачного боя. Открывающий мотив Боевой темы (<i>Battle theme</i>) также был использован множество раз в серии, а также в <a href="/wiki/Chrono_Trigger" title="Chrono Trigger">Chrono Trigger</a> — игре для <a class="mw-redirect" href="/wiki/SNES" title="SNES">SNES</a> также разработанной Square.
+</p>
+<h3><span id=".D0.91.D0.B0.D0.B3.D0.B8"></span><span class="mw-headline" id="Баги">Баги</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Final_Fantasy_(%D0%B8%D0%B3%D1%80%D0%B0)&amp;veaction=edit&amp;section=10" title="Редактировать раздел «Баги»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Final_Fantasy_(%D0%B8%D0%B3%D1%80%D0%B0)&amp;action=edit&amp;section=10" title="Редактировать код раздела «Баги»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>В игре присутствуют некоторые весьма заметные ошибки и недоработки. Эти ошибки впервые появились в оригинальной японской версии игры и позже перекочевали в американскую локализацию и порт для MSX2, но были исправлены в последующих ремейках (начиная с WonderSwan Color). Вот некоторые из них (для NES/Famicom)<sup class="reference" id="cite_ref-gamefaqs-ff1_6-0"><a href="#cite_note-gamefaqs-ff1-6">[6]</a></sup>:
+</p>
+<ul><li>Все мечи, которые являются магическими и должны наносить дополнительный урон существам определённого класса — не работают; то есть, это просто обычные мечи и они не дают никаких преимуществ.</li>
+<li>Заклинания <i>Tmpr</i>, <i>Sabr</i>, <i>Xfer</i>, <i>Lock</i> — не работают, а <i>Lok2</i> и <i>Hel2</i> работают неправильно.</li>
+<li>Предмет <i>House</i> работает в следующем порядке: восстанавливает очки жизни, сохраняет игру, восстанавливает магические заряды. Если игрок после его использования выключил игру, то восстановленные магические заряды не будут сохранены, так как они восстанавливаются <i>после</i> сохранения.</li>
+<li>Параметр INT (интеллект) вообще ни на что не влияет или влияет очень слабо.</li></ul>
+<h3><span id=".D0.9A.D0.BE.D0.BC.D0.B0.D0.BD.D0.B4.D0.B0_.D1.80.D0.B0.D0.B7.D1.80.D0.B0.D0.B1.D0.BE.D1.82.D1.87.D0.B8.D0.BA.D0.BE.D0.B2"></span><span class="mw-headline" id="Команда_разработчиков">Команда разработчиков</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Final_Fantasy_(%D0%B8%D0%B3%D1%80%D0%B0)&amp;veaction=edit&amp;section=11" title="Редактировать раздел «Команда разработчиков»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Final_Fantasy_(%D0%B8%D0%B3%D1%80%D0%B0)&amp;action=edit&amp;section=11" title="Редактировать код раздела «Команда разработчиков»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span id=".D0.9E.D1.80.D0.B8.D0.B3.D0.B8.D0.BD.D0.B0.D0.BB.D1.8C.D0.BD.D0.B0.D1.8F_.D0.B2.D0.B5.D1.80.D1.81.D0.B8.D1.8F_.D0.B4.D0.BB.D1.8F_Famicom"></span><span class="mw-headline" id="Оригинальная_версия_для_Famicom">Оригинальная версия для Famicom</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Final_Fantasy_(%D0%B8%D0%B3%D1%80%D0%B0)&amp;veaction=edit&amp;section=12" title="Редактировать раздел «Оригинальная версия для Famicom»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Final_Fantasy_(%D0%B8%D0%B3%D1%80%D0%B0)&amp;action=edit&amp;section=12" title="Редактировать код раздела «Оригинальная версия для Famicom»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li><b>Автор идеи</b> — Хиронобу Сакагути</li>
+<li><b>Дизайн персонажей</b> — Ёситака Амано</li>
+<li><b>Программирование</b> — Насер Джебелли</li>
+<li><b>Сценарий</b> — Кэндзи Тэрада</li>
+<li><b>Музыка</b> — Нобуо Уэмацу</li></ul>
+<h4><span id=".D0.A0.D0.B5.D0.BC.D0.B5.D0.B9.D0.BA_.D0.B4.D0.BB.D1.8F_PlayStation"></span><span class="mw-headline" id="Ремейк_для_PlayStation">Ремейк для PlayStation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Final_Fantasy_(%D0%B8%D0%B3%D1%80%D0%B0)&amp;veaction=edit&amp;section=13" title="Редактировать раздел «Ремейк для PlayStation»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Final_Fantasy_(%D0%B8%D0%B3%D1%80%D0%B0)&amp;action=edit&amp;section=13" title="Редактировать код раздела «Ремейк для PlayStation»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li><b>Исполнительный продюсер</b> — Ёити Вада</li>
+<li><b>Продюсер</b> — Ю́сукэ Хирата</li>
+<li><b>Менеджер по продажам</b> — Киёми Таникава</li>
+<li><b>Directors</b> — Хидэси Кёнэн, Кацуёси Кавахара и Кадзухико Ёсиока</li>
+<li><b>Movie Director</b> — Кодзи Вакасоно</li>
+<li><b>Movie Designers</b> — Мицухира Ямадо, Сатоси Сумида, Масата Мотоки, Ютака Маэкава, Ватару Икэда, Син Адзума и Румико Савада</li>
+<li><b>Movie Programmer</b> — Наото Уэнака</li>
+<li><b>Музыкальное сопровождение</b> — Нубуо Уэмацу</li>
+<li><b>Графика</b> — Ёсисукэ Накахара, Миэко Хосино, Томохико Танабэ, Хидэки Омори и Эйдзи Ямасита</li>
+<li><b>Бета-тесты</b> — Рэйко Кондо</li>
+<li><b>Localization Manager</b> — Акира Касиваги</li>
+<li><b>Localization Directors</b> — Томоко Сэкии и Кадзуёси Тасиро</li>
+<li><b>Localization Programmer</b> — Ёсинори Уэниси</li>
+<li><b>Localization Specialist</b> — Аманда Дж. Кацурада</li>
+<li><b>Localization Assistant</b> — Сатоко Кондо</li></ul>
+<h2><span id=".D0.9B.D0.BE.D0.BA.D0.B0.D0.BB.D0.B8.D0.B7.D0.B0.D1.86.D0.B8.D1.8F_.D0.B8_.D1.80.D0.B5.D0.BC.D0.B5.D0.B9.D0.BA.D0.B8"></span><span class="mw-headline" id="Локализация_и_ремейки">Локализация и ремейки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Final_Fantasy_(%D0%B8%D0%B3%D1%80%D0%B0)&amp;veaction=edit&amp;section=14" title="Редактировать раздел «Локализация и ремейки»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Final_Fantasy_(%D0%B8%D0%B3%D1%80%D0%B0)&amp;action=edit&amp;section=14" title="Редактировать код раздела «Локализация и ремейки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>В США игра была издана уже в 1990 году. Помимо перевода, в ней было изменено большинство названий предметов, заклинаний и монстров. Часть изменений в названиях была вызвана <a href="/wiki/%D0%A6%D0%B5%D0%BD%D0%B7%D1%83%D1%80%D0%B0" title="Цензура">цензурой</a> издателя игры — <a class="mw-redirect" href="/wiki/Nintendo_of_America" title="Nintendo of America">Nintendo of America</a> <i>(Holy → FADE)</i>, часть — отсутствием соответствующих лицензий <i>(<a class="mw-redirect" href="/wiki/%D0%91%D0%B5%D1%85%D0%BE%D0%BB%D0%B4%D0%B5%D1%80" title="Бехолдер">Beholder</a> → EYE)</i>, часть — нехваткой места на буквы, но многие остаются и без логического объяснения <i>(Lizard → IGUANA)</i>. Кристаллы героев в оригинальной версии стали сферами <i>(Orb)</i>, а золото — гилями <i>(Gil)</i>. Из игры были убраны все упоминания религии и соответствующая символика: церкви превратились в клиники, а знак креста на них заменили на рисунок сердца. Кресты в подземельях стали свечами, а пентаграммы в логове Тиамат <i>(Tiamat)</i> — треугольниками. Незначительно изменилась графика: боевые позы большинства персонажей немного отличались от японской версии, несколько монстров были значительно перерисованы. Также, последний этаж <i>Temple of Fiends</i> в американской версии был совершенно пуст, в то время как в японской там было множество монстров<sup class="reference" id="cite_ref-differences_7-0"><a href="#cite_note-differences-7">[7]</a></sup>.
+</p><p>Позже был издан целый ряд <a href="/wiki/%D0%A0%D0%B5%D0%BC%D0%B5%D0%B9%D0%BA" title="Ремейк">ремейков</a> для других платформ: <a class="mw-redirect" href="/wiki/MSX_2" title="MSX 2">MSX 2</a> (1989), <a href="/wiki/WonderSwan_Color" title="WonderSwan Color">WonderSwan Color</a> (2000), <a href="/wiki/PlayStation" title="PlayStation">PlayStation</a> (2002), <a href="/wiki/Game_Boy_Advance" title="Game Boy Advance">Game Boy Advance</a> (2004), <a class="mw-redirect" href="/wiki/%D0%9C%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%82%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD" title="Мобильный телефон">мобильных телефонов</a> (2004) и <a href="/wiki/PlayStation_Portable" title="PlayStation Portable">PlayStation Portable</a> (2007). Примерно треть ремейков издавались только на территории Японии, остальные, в основном, в США. Следует заметить, что до Европы и Австралии игра дошла только в 2003 в виде релиза <i>Final Fantasy Origins</i><sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup>.
+</p>
+<table align="center" class="standard">
+<tbody><tr>
+<th>Название
+</th>
+<th>Платформа
+</th>
+<th>Дата
+</th>
+<th>Регион
+</th>
+<th>Издатель
+</th>
+<th>Носитель
+</th></tr>
+<tr>
+<td align="center" bgcolor="#CCCCFF" colspan="6"><i><b>Оригинал</b></i>
+</td></tr>
+<tr>
+<td>Final Fantasy
+</td>
+<td><a class="mw-redirect" href="/wiki/Famicom" title="Famicom">Famicom</a>
+</td>
+<td>18.12.1987
+</td>
+<td>Япония
+</td>
+<td><a class="mw-redirect" href="/wiki/Square_Co.,_Ltd." title="Square Co., Ltd.">Square Co., Ltd.</a>
+</td>
+<td><a href="/wiki/%D0%98%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%B9_%D0%BA%D0%B0%D1%80%D1%82%D1%80%D0%B8%D0%B4%D0%B6" title="Игровой картридж">2-mb картридж</a>
+</td></tr>
+<tr>
+<td align="center" bgcolor="#CCCCFF" colspan="6"><i><b>Порты</b></i>
+</td></tr>
+<tr>
+<td>Final Fantasy
+</td>
+<td><a class="mw-redirect" href="/wiki/MSX2" title="MSX2">MSX2</a>
+</td>
+<td align="right">12.1989
+</td>
+<td>Япония
+</td>
+<td><a class="new" href="/w/index.php?title=Microcabin&amp;action=edit&amp;redlink=1" title="Microcabin (страница отсутствует)">Microcabin</a>
+</td>
+<td><a href="/wiki/%D0%94%D0%B8%D1%81%D0%BA_3,5_%D0%B4%D1%8E%D0%B9%D0%BC%D0%B0" title="Диск 3,5 дюйма">3,5″ дискета</a>
+</td></tr>
+<tr>
+<td>Final Fantasy
+</td>
+<td><a class="mw-redirect" href="/wiki/NES" title="NES">NES</a>
+</td>
+<td>12.07.1990
+</td>
+<td>США
+</td>
+<td><a href="/wiki/Nintendo" title="Nintendo">Nintendo</a>
+</td>
+<td><a href="/wiki/%D0%98%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%B9_%D0%BA%D0%B0%D1%80%D1%82%D1%80%D0%B8%D0%B4%D0%B6" title="Игровой картридж">2-mb картридж</a>
+</td></tr>
+<tr>
+<td align="center" bgcolor="#CCCCFF" colspan="6"><i><b>Ремейки</b></i>
+</td></tr>
+<tr>
+<td>Final Fantasy
+</td>
+<td><a href="/wiki/WonderSwan_Color" title="WonderSwan Color">WonderSwan Color</a>
+</td>
+<td>09.12.2000
+</td>
+<td>Япония
+</td>
+<td><a class="mw-redirect" href="/wiki/Square_Co.,_Ltd." title="Square Co., Ltd.">Square Co., Ltd.</a>
+</td>
+<td><a href="/wiki/%D0%98%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%B9_%D0%BA%D0%B0%D1%80%D1%82%D1%80%D0%B8%D0%B4%D0%B6" title="Игровой картридж">картридж</a>
+</td></tr>
+<tr>
+<td>Final Fantasy I+II Premium Collection
+</td>
+<td>PlayStation
+</td>
+<td>31.10.2002
+</td>
+<td>Япония
+</td>
+<td>Square Co., Ltd.
+</td>
+<td><a href="/wiki/CD-ROM" title="CD-ROM">CD-ROM</a>
+</td></tr>
+<tr>
+<td>Final Fantasy Origins
+</td>
+<td>PlayStation
+</td>
+<td>14.03.2003
+</td>
+<td>Европа
+</td>
+<td><a class="mw-redirect" href="/wiki/Infogrames" title="Infogrames">Infogrames</a>
+</td>
+<td>CD-ROM
+</td></tr>
+<tr>
+<td>Final Fantasy Origins
+</td>
+<td>PlayStation
+</td>
+<td>08.04.2003
+</td>
+<td>США
+</td>
+<td><a href="/wiki/Square_Enix" title="Square Enix">Square Enix</a>
+</td>
+<td>CD-ROM
+</td></tr>
+<tr>
+<td>Final Fantasy i
+</td>
+<td>NTT DoCoMo 900i
+</td>
+<td>29.02.2004
+</td>
+<td>Япония
+</td>
+<td>Square Enix
+</td>
+<td>платная закачка
+</td></tr>
+<tr>
+<td>Final Fantasy Advance
+</td>
+<td><a href="/wiki/Game_Boy_Advance" title="Game Boy Advance">Game Boy Advance</a>
+</td>
+<td>29.07.2004
+</td>
+<td>Япония
+</td>
+<td>Nintendo
+</td>
+<td><a href="/wiki/%D0%98%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%B9_%D0%BA%D0%B0%D1%80%D1%82%D1%80%D0%B8%D0%B4%D0%B6" title="Игровой картридж">128-mb картридж</a>
+</td></tr>
+<tr>
+<td>Final Fantasy EZ
+</td>
+<td>CDMA 1X WIN W21x
+</td>
+<td>19.08.2004
+</td>
+<td>Япония
+</td>
+<td>Square Enix
+</td>
+<td>платная закачка
+</td></tr>
+<tr>
+<td>Final Fantasy I &amp; II: Dawn of Souls
+</td>
+<td>Game Boy Advance
+</td>
+<td>29.11.2004
+</td>
+<td>США
+</td>
+<td>Nintendo
+</td>
+<td><a href="/wiki/%D0%98%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%B9_%D0%BA%D0%B0%D1%80%D1%82%D1%80%D0%B8%D0%B4%D0%B6" title="Игровой картридж">128-mb картридж</a>
+</td></tr>
+<tr>
+<td>Final Fantasy I &amp; II: Dawn of Souls
+</td>
+<td>Game Boy Advance
+</td>
+<td>03.12.2004
+</td>
+<td>Европа
+</td>
+<td>Nintendo
+</td>
+<td><a href="/wiki/%D0%98%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%B9_%D0%BA%D0%B0%D1%80%D1%82%D1%80%D0%B8%D0%B4%D0%B6" title="Игровой картридж">128-mb картридж</a>
+</td></tr>
+<tr>
+<td>Final Fantasy
+</td>
+<td>Yahoo! Keitai
+</td>
+<td>03.07.2006
+</td>
+<td>Япония
+</td>
+<td><a href="/wiki/Square_Enix" title="Square Enix">Square Enix</a>
+</td>
+<td>платная закачка
+</td></tr>
+<tr>
+<td>Final Fantasy Anniversary Edition
+</td>
+<td><a href="/wiki/PlayStation_Portable" title="PlayStation Portable">PlayStation Portable</a>
+</td>
+<td>19.04.2007
+</td>
+<td>Япония
+</td>
+<td>Square Enix
+</td>
+<td><a class="mw-redirect" href="/wiki/UMD" title="UMD">UMD</a>
+</td></tr>
+<tr>
+<td>Final Fantasy Anniversary Edition
+</td>
+<td>PlayStation Portable
+</td>
+<td>26.06.2007
+</td>
+<td>США
+</td>
+<td>Square Enix
+</td>
+<td>UMD
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="MSX_2">MSX 2</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Final_Fantasy_(%D0%B8%D0%B3%D1%80%D0%B0)&amp;veaction=edit&amp;section=15" title="Редактировать раздел «MSX 2»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Final_Fantasy_(%D0%B8%D0%B3%D1%80%D0%B0)&amp;action=edit&amp;section=15" title="Редактировать код раздела «MSX 2»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Технологически <a class="mw-redirect" href="/wiki/MSX_2" title="MSX 2">MSX 2</a> достаточно близок к <a class="mw-redirect" href="/wiki/NES" title="NES">NES</a>, поэтому версия игры для него весьма сходна с оригиналом (включая большинство <a class="mw-redirect" href="/wiki/%D0%91%D0%B0%D0%B3" title="Баг">багов</a>). Игра была выпущена в 1989 году, спустя два года после оригинала и издавалась компанией <a class="new" href="/w/index.php?title=Microcabin&amp;action=edit&amp;redlink=1" title="Microcabin (страница отсутствует)">Microcabin</a>; за пределы Японии эта версия так и не вышла. Несмотря на копирование оригинала вплоть до ошибок, в игру внесён ряд изменений, причиной которым были как некоторые преимущества так и недостатки новой платформы:
+</p>
+<ul><li>В качестве носителя использовались дискеты, имеющие почти втрое больший объём, чем картидж для NES (720 Кб против 256), однако, такой формат был и более медленным, что увеличило время загрузок.</li>
+<li>Из-за другого носителя система сохранения игры тоже была изменена: запись производилась на дискету, причём непосредственно на дискету с игрой сохраниться было нельзя, и даже на чистую помещался только один слот для сохранения. Таким образом, единственным выходом для сохранения игры на разные слоты было использование нескольких чистых дискет.</li>
+<li>Графика претерпела изменения и стала красочнее за счёт того, что палитра MSX 2 шире, чем палитра NES (256 цветов против 48+5).</li>
+<li>Поскольку MSX2 имела больше звуковых каналов чем NES, звук и музыка также претерпели значительные изменения, многие эффекты были улучшены или заменены, кроме того, фоновая музыка некоторых подземелий была перемещена в другие<sup class="reference" id="cite_ref-differences_7-1"><a href="#cite_note-differences-7">[7]</a></sup>.</li>
+<li>Карта мира была немного сдвинута вверх и влево, это вызвало изменения в зонах со случайными монстрами<sup class="reference" id="cite_ref-differences_7-2"><a href="#cite_note-differences-7">[7]</a></sup>.</li>
+<li>Из-за отсутствия технологии плавного скроллинга перемещение выглядело дёрганым.</li>
+<li>Ряд изменений претерпел игровой процесс: была урезана сила класса <i>Чёрный Пояс</i> — теперь их атака и защита при отсутствии оружия и брони не зависели от уровня, что вынудило игроков экипировать им <a href="/wiki/%D0%9D%D1%83%D0%BD%D1%87%D0%B0%D0%BA%D0%B8" title="Нунчаки">нунчаки</a>. Изменились цены на некоторые вещи<sup class="reference" id="cite_ref-differences_7-3"><a href="#cite_note-differences-7">[7]</a></sup>.</li></ul>
+<h3><span class="mw-headline" id="WonderSwan_Color">WonderSwan Color</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Final_Fantasy_(%D0%B8%D0%B3%D1%80%D0%B0)&amp;veaction=edit&amp;section=16" title="Редактировать раздел «WonderSwan Color»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Final_Fantasy_(%D0%B8%D0%B3%D1%80%D0%B0)&amp;action=edit&amp;section=16" title="Редактировать код раздела «WonderSwan Color»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Игра вышла более чем через 10 лет после оригинала на более современной платформе, что, естественно, повлекло за собой значительные изменения. Эта версия издавалась только в Японии, как и сама WonderSwan Color.
+</p>
+<ul><li>Полностью перерисована графика, хотя разрешение экрана в этой версии меньше, чем в какой-либо другой, 16-битная палитра полностью преображает игру. Изображения монстров напоминают своих прототипов из NES-версии, но прорисованы значительно более детально, персонажи также подверглись редизайну. В целом, визуальное оформление игры напоминает о версиях <i>Final Fantasy</i> на <a class="mw-redirect" href="/wiki/SNES" title="SNES">SNES</a>.</li>
+<li>В игру было внесено несколько новых мелодий — новая прелюдия в начале, несколько тем для боссов и некоторые другие. Их качество было подтянуто до возможностей платформы.</li>
+<li>Был обновлён дизайн боевого меню, оно стало располагаться внизу, как в более поздних сериях игры. Были добавлены помещения в магазины (ранее меню покупки выдавалось сразу при входе в здание), текстовая информация в бою была заменена графической — статусы и урон показывались в виде пиктограм и чисел соответственно. Персонажей и их противников больше не разделяла рамка.</li>
+<li>Особенность с неперенаправляемыми ударами стала опциональной, можно было отключить её, и тогда, если удар персонажа приходился по уже убитому монстру, он автоматически перенаправлялся на другого. Добавлена возможность бегать, перемещаясь в два раза быстрее; магическая система в целом осталась прежней, но заклинания стало можно «забывать», чтобы разучивать новые.</li>
+<li>Полностью переработана система вещей: в оригинальной версии они хранились у каждого персонажа по отдельности, в этой версии инвентарь — общий. Кроме того предметы <i>LIFE</i> и <i>SOFT</i> стало можно использовать в бою, статус молчания <i>(Mute)</i> перестал запрещать использовать вещи в битве.</li>
+<li>В игру вошло множество дополнительных сценок, вроде постройки моста в Корнелии <i>(Cornelia)</i>, диалоги <a href="/wiki/%D0%9D%D0%B5%D0%B8%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%B9_%D0%BF%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%B6" title="Неигровой персонаж">NPC</a> были расширены за счёт возможности WonderSwan Color выводить несколько экранов текста в отличие от NES.</li>
+<li>Большинство багов было исправлено, неправильно работающие заклинания и магические предметы стали работать нормально, портал <i>(Warp)</i> стал работать по другому, перенося партию на предыдущий посещённый этаж, а не на более близкий к выходу.</li>
+<li>Возросло до восьми число слотов для сохранения, в то время как в оригинале был доступен только один. Также было добавлено обычное для мобильных консолей быстрое сохранение, воспользоваться им можно было в любое время за исключением битвы, но после первой загрузки оно стиралось.</li>
+<li>Изменения в организации вещей и исправленные заклинания сделали игру легче, поэтому у ряда монстров и боссов было увеличено число HP, в отдельных случаях в два раза.</li></ul>
+<h3><span class="mw-headline" id="PlayStation">PlayStation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Final_Fantasy_(%D0%B8%D0%B3%D1%80%D0%B0)&amp;veaction=edit&amp;section=17" title="Редактировать раздел «PlayStation»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Final_Fantasy_(%D0%B8%D0%B3%D1%80%D0%B0)&amp;action=edit&amp;section=17" title="Редактировать код раздела «PlayStation»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Версия для PlayStation, в целом, базируется на ремейке для WonderSwan Color, и большая часть изменений осталась, но, в том числе, и за счёт технологического превосходства PlayStation, в игру внесли и другие улучшения, в основном это касается графического и звукового оформления. За пределами Японии игра издавалась вместе с ремейком <i>Final Fantasy II</i> под названием <i>Final Fantasy Origins</i> — это первая версия оригинальной игры, которая официально продавалась в Европе и Австралии.
+</p>
+<ul><li>Графика, по сравнению с версией для WonderSwan Color, улучшилась, хотя и не слишком значительно. Общий вид остался таким же, но увеличилось количество цветов и разрешение, в эффекты заклинаний добавилась прозрачность, для перехода к битве была нарисована специальная анимация, а при полёте на воздушном корабле карта показывалась в перспективе. В игру были вставлены <a class="mw-redirect" href="/wiki/Full_motion_video" title="Full motion video">FMV</a>-видеоролики, нарисованные специально для этой версии.</li>
+<li>Под возможности новой платформы подведено и звуковое оформление — качество мелодий было улучшено и добавилась пара новых треков<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup>. Отдельная тема для меню персонажей ушла в прошлое, теперь там звучала та же музыка, что и на локации, только тише.</li>
+<li>В английской версии все диалоги были заново переведены, названия монстров и заклинаний больше соответствовали оригиналу, а имена персонажей могли включать до 6-и символов. В японской версии в диалогах появились <a href="/wiki/%D0%9A%D0%B0%D0%BD%D0%B4%D0%B7%D0%B8" title="Кандзи">кандзи</a><sup class="reference" id="cite_ref-differences_7-4"><a href="#cite_note-differences-7">[7]</a></sup>.</li>
+<li>Смена формата с картриджа на CD-ROM добавила небольшие паузы для загрузки локаций. Сохранение игры занимало один слот, соответственно, на карте памяти вмещалось до пятнадцати сохранений. На замену быстрого сохранения была добавлена функция <i>memo save</i>, позволяющая сохранять игру во внутреннюю память консоли где угодно (кроме битв), но это сохранение исчезает при выключении PlayStation.</li>
+<li>Также было внесено множество мелких добавлений и изменений: поддержка вибрации, «мягкая» перезагрузка <i>(L1+R1+L2+R2+Start+Select)</i> и прочее. Раздел бонусов (галерея с рисунками и бестиарий) пополнялся по мере прохождения, для сбора всех нужно было пройти игру два раза<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup>. Появился лёгкий режим, в котором быстрее растут опыт и характеристики, а также снижены цены в магазинах<sup class="reference" id="cite_ref-differences_7-5"><a href="#cite_note-differences-7">[7]</a></sup>.</li>
+<li>Европейская версия была медленнее прочих на 16,7 %, а изображение сжато сверху и снизу из-за особенностей формата <a href="/wiki/PAL" title="PAL">PAL</a>.</li></ul>
+<h3><span class="mw-headline" id="GameBoy_Advance">GameBoy Advance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Final_Fantasy_(%D0%B8%D0%B3%D1%80%D0%B0)&amp;veaction=edit&amp;section=18" title="Редактировать раздел «GameBoy Advance»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Final_Fantasy_(%D0%B8%D0%B3%D1%80%D0%B0)&amp;action=edit&amp;section=18" title="Редактировать код раздела «GameBoy Advance»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Довольно много изменений содержит и релиз для GameBoy Advance, который является частью <i>Final Fantasy I &amp; II: Dawn of Souls</i>.
+</p>
+<ul><li>Уровень сложности стал схож с «лёгким режимом» («Easy Mode») в <i>Final Fantasy Origins</i>. Но в отличие от неё, в версии для GBA нет возможности выбрать более сложный режим. Перенаправление «неэффективных» ударов, которое было опционально в WSC, стало обязательным.</li>
+<li>Графика более-менее идентична версии на WSC, однако экран GBA имеет большее разрешение, и некоторые моменты (например полёт на дирижабле) выглядят лучше.</li>
+<li>Поуровневая система магии была заменена на используемую в более поздних частях серии MP-систему<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup>.</li>
+<li>Появилось много новых предметов. Лечащие предметы теперь более доступны и стоят дешевле. Партия начинает игру с 500 gil вместо 400 gil, как в предшествующих версиях.</li>
+<li>Нет галереи с рисунками и коллекции предметов из версии для PlayStation, но бестиарий остался. Определённые классы модифицированы: <i>Вор</i> и <i>Монах</i> стали более мощными, а <i>Красный Маг</i> — слабее. Рост характеристик изменён, и Интеллект теперь влияет на урон, наносимый магическим оружием.</li>
+<li>Игру можно сохранить в любое время и в любом месте (за исключением боя)<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup>. Доступно три слота сохранения; старые записи можно удалить, лишь перезаписав их.</li>
+<li>Поскольку введённые изменения облегчают бой, увеличились НР у многих монстров и боссов. Добавлены четыре новых подземелья по количеству «Стражей Хаоса» («Fiends of Chaos»), которые становятся доступными лишь после победы над соответствующим Стражем. Эти подземелья довольно трудные и в них находятся вещи и монстры, которых нельзя встретить в другом месте. В конце каждого подземелья, присутствуют <a href="/wiki/%D0%91%D0%BE%D1%81%D1%81_(%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D1%8B%D0%B5_%D0%B8%D0%B3%D1%80%D1%8B)" title="Босс (компьютерные игры)">боссы</a> из последующих игр серии: от <i><a href="/wiki/Final_Fantasy_III" title="Final Fantasy III">Final Fantasy III</a></i> до <i><a href="/wiki/Final_Fantasy_VI" title="Final Fantasy VI">Final Fantasy VI</a></i>.</li>
+<li>Наконец, при создании персонажа, можно позволить игре присвоить ему произвольное имя, используя имена персонажей из других игр серии.</li></ul>
+<h3><span id=".D0.9C.D0.BE.D0.B1.D0.B8.D0.BB.D1.8C.D0.BD.D1.8B.D0.B5_.D1.82.D0.B5.D0.BB.D0.B5.D1.84.D0.BE.D0.BD.D1.8B"></span><span class="mw-headline" id="Мобильные_телефоны">Мобильные телефоны</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Final_Fantasy_(%D0%B8%D0%B3%D1%80%D0%B0)&amp;veaction=edit&amp;section=19" title="Редактировать раздел «Мобильные телефоны»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Final_Fantasy_(%D0%B8%D0%B3%D1%80%D0%B0)&amp;action=edit&amp;section=19" title="Редактировать код раздела «Мобильные телефоны»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>В 2004 году, Square Enix выпустила версию <i>Final Fantasy</i> для двух японских мобильных сетей. Версия для серии телефонов <a class="mw-redirect" href="/wiki/NTT_DoCoMo" title="NTT DoCoMo">NTT DoCoMo</a> <a href="/wiki/FOMA" title="FOMA">FOMA</a> 900i выпущенная 1 марта 2004 года под названием <i>Final Fantasy i</i><sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup>.
+Следующая версия для <a class="new" href="/w/index.php?title=CDMA_1X_WIN&amp;action=edit&amp;redlink=1" title="CDMA 1X WIN (страница отсутствует)">CDMA 1X WIN</a>-совместимой W21x серии была выпущена 19 августа 2004 года под названием <i>Final Fantasy EZ</i>. Другая версия, просто названная <i>Final Fantasy</i>, была также выпущена для телефонов <a href="/wiki/Yahoo!" title="Yahoo!">Yahoo! Keitai</a> компании <a href="/wiki/SoftBank" title="SoftBank">SoftBank</a> 3 июля 2006 года<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup>. По графике игры превосходят оригинальную 8-битовую версию, но не настолько, как последние порты для обычных и карманных консолей. Из нововведений лишь возможность использования восьми символов для имени персонажа. Square Enix планировала выпустить эту версию для североамериканских мобильных телефонов в 2006 году<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup>.
+В 2010 году Square Enix совместно с Namco выпустили ремейк первой части для мобильных телефонов с поддержкой J2ME. Цветовая палитра и нововведения больше напоминают версию игры для WonderSwan Colour, нежели версию для NES.
+</p>
+<h3><span class="mw-headline" id="PlayStation_Portable">PlayStation Portable</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Final_Fantasy_(%D0%B8%D0%B3%D1%80%D0%B0)&amp;veaction=edit&amp;section=20" title="Редактировать раздел «PlayStation Portable»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Final_Fantasy_(%D0%B8%D0%B3%D1%80%D0%B0)&amp;action=edit&amp;section=20" title="Редактировать код раздела «PlayStation Portable»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>К двадцатилетию серии <i>Final Fantasy</i>, Square Enix выпустила версию <i>Final Fantasy</i> для PSP одновременно с <i><a href="/wiki/Final_Fantasy_II" title="Final Fantasy II">Final Fantasy II</a></i>. 19 апреля 2007 года игра вышла в Японии<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup>, 26 июня — в Северной Америке<sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup>, а европейская версия вышла 8 февраля 2008 года<sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup>.
+</p>
+<ul><li>Благодаря более высокому разрешению PSP эта версия имеет улучшенную 2D графику и сюжет. Появились аэро-эффекты в городах и на локациях. <a class="mw-redirect" href="/wiki/Mode_7" title="Mode 7">Mode 7</a> использован как во время передвижения пешком, так и во время полётов на дирижабле.</li>
+<li>Присутствуют FMV-ролики из <i>Origins</i> и дополнительные подземелья из <i>Dawn of Souls</i>. Она также позаимствовала саундтрек из <i>Origins</i>, (хотя во время битв с боссами в дополнительных подземельях играет музыка из игры, в которой они были первоначально), и геймплей из <i>Dawn of Souls</i>. Также присутствуют совершенно новое подземелье и галерея рисунков Амано к игре. В галерее используется высокое разрешение экрана PSP для отображения высококачественных рисунков от Ёситаки Амано; новые изображения становятся доступными по мере прохождения игры.</li>
+<li>Добавлена новая локация, названная <i>Labyrinth of Time</i> <span style="font-weight: normal;">(<a href="/wiki/%D0%AF%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Японский язык">яп.</a> <span lang="ja" style="font-size: 110%; font-style: normal;">時の迷宮</span> <i>Toki no Meikyū</i>)</span>, это подземелье с лимитом времени, в котором HP персонажей со временем уменьшается. Игрок может использовать заклинания Белой Магии и зелья, чтобы увеличить лимит и спуститься глубже в подземелье<sup class="reference" id="cite_ref-19"><a href="#cite_note-19">[19]</a></sup>.</li></ul>
+<h2><span id=".D0.92.D0.BB.D0.B8.D1.8F.D0.BD.D0.B8.D0.B5_.D0.B8_.D0.B7.D0.BD.D0.B0.D1.87.D0.B8.D0.BC.D0.BE.D1.81.D1.82.D1.8C"></span><span class="mw-headline" id="Влияние_и_значимость">Влияние и значимость</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Final_Fantasy_(%D0%B8%D0%B3%D1%80%D0%B0)&amp;veaction=edit&amp;section=21" title="Редактировать раздел «Влияние и значимость»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Final_Fantasy_(%D0%B8%D0%B3%D1%80%D0%B0)&amp;action=edit&amp;section=21" title="Редактировать код раздела «Влияние и значимость»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i>Final Fantasy</i> была одной из наиболее влиятельных ранних консольных RPG, и сыграла важную роль в становлении и популяризации жанра. Согласно одному рецензенту, сюжет <i>Final Fantasy</i>, наполненный проработанными рассказами и путешествиями во времени, является более глубоким и интересным, чем в <i>Dragon Quest</i><sup class="reference" id="cite_ref-20"><a href="#cite_note-20">[20]</a></sup>. Сегодня многие критики отмечают, что игра слабо соответствует современным стандартам, и игрок тратит больше времени бродя в поиске случайных боев, чтобы увеличить опыт и количество денег, чем изучая и выполняя задания, тогда как другие обозреватели находят прокачку персонажа и исследование окрестностей самыми увлекательными составляющими игры<sup class="reference" id="cite_ref-21"><a href="#cite_note-21">[21]</a></sup>.
+</p><p>В марте 2006 года <i>Final Fantasy</i> появилась в Top 100 games журнала <i><a href="/wiki/Famitsu" title="Famitsu">Famitsu</a></i>, где по итогам голосования читателей стала 63-й в списке лучших игр всех времен<sup class="reference" id="cite_ref-22"><a href="#cite_note-22">[22]</a></sup>. В 2005 году, пользователи <a href="/wiki/GameFAQs" title="GameFAQs">GameFAQs</a> сделали аналогичный список, в котором <i>Final Fantasy</i> заняла 76 место<sup class="reference" id="cite_ref-23"><a href="#cite_note-23">[23]</a></sup>. Она также заняла 49 место в списке лучших игр для Nintendo System в Top 200 Games журнала <a href="/wiki/Nintendo_Power" title="Nintendo Power">Nintendo Power</a><sup class="reference" id="cite_ref-NP_Top_200_24-0"><a href="#cite_note-NP_Top_200-24">[24]</a></sup>. <a href="/wiki/IGN" title="IGN">IGN</a> оценил версию для <a class="mw-redirect" href="/wiki/Wonderswan_Color" title="Wonderswan Color">Wonderswan Color</a> в 8.6 из 10 и отметил её графические улучшения, особенно по части боя. <i>Final Fantasy Origins</i> была хорошо принята, но все же в ней не достает многих новшеств, присутствующих, например, в <i>Final Fantasy IV</i><sup class="reference" id="cite_ref-25"><a href="#cite_note-25">[25]</a></sup>, и также было отмечено, что дополнительный контент не смог значительно улучшить игру<sup class="reference" id="cite_ref-26"><a href="#cite_note-26">[26]</a></sup>. Версия для портативной консоли <a href="/wiki/PlayStation_Portable" title="PlayStation Portable">PlayStation Portable</a> получила 6,9 баллов (игра была названа «Проходной»), в связи с тем, что «ранее уже появлялись более качественные и дешёвые издания игры». Хотя усовершенствованная графика была названа «достаточно приятной»<sup class="reference" id="cite_ref-27"><a href="#cite_note-27">[27]</a></sup>.
+</p><p>Музыкальная тема, играющая, когда персонажи впервые пересекают мост возле Корнелии в начале игры, стала музыкальной темой всей серии и присутствует во всех <i>Final Fantasy</i> кроме <i>Final Fantasy II</i>. <i>Final Fantasy</i> также послужила основой для эпизода анимационного сериала <i><a class="mw-redirect" href="/wiki/Captain_N:_The_Game_Master" title="Captain N: The Game Master">Captain N: The Game Master</a></i>, который назывался <i>The Fractured Fantasy of Captain N</i><sup class="reference" id="cite_ref-28"><a href="#cite_note-28">[28]</a></sup>. Спрайтовый <a href="/wiki/%D0%92%D0%B5%D0%B1-%D0%BA%D0%BE%D0%BC%D0%B8%D0%BA%D1%81" title="Веб-комикс">Веб-комикс</a> <a class="new" href="/w/index.php?title=8-Bit_Theater&amp;action=edit&amp;redlink=1" title="8-Bit Theater (страница отсутствует)">8-Bit Theater</a>, пародирующий игру является популярным в игровом сообществе.
+</p>
+<h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Примечания">Примечания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Final_Fantasy_(%D0%B8%D0%B3%D1%80%D0%B0)&amp;veaction=edit&amp;section=22" title="Редактировать раздел «Примечания»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Final_Fantasy_(%D0%B8%D0%B3%D1%80%D0%B0)&amp;action=edit&amp;section=22" title="Редактировать код раздела «Примечания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Например: <span class="citation"><span lang="und"><a class="external text" href="http://www.nuklearpower.com/daily.php?date=021228" rel="nofollow">Episode 230: "The Cycle of Senseless Violence"</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. <i>8-Bit Theater</i>. <a class="external text" href="https://web.archive.org/web/20060327093020/http://www.nuklearpower.com/daily.php?date=021228" rel="nofollow">Архивировано</a> 27 марта 2006 года.</span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><i>Square Co, Final Fantasy.</i> Изд. <i>Nintendo of America.</i> Nintendo Entertainment System (12 июля 1990). <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small> <b>Garland:</b> Remember me, Garland? Your puny lot thought it had defeated me. But, the Four FIENDS sent me back 2000 years into the past. / From here I sent the Four FIENDS to the future. The FIENDS will send me back to here, and the Time-Loop will go on. / After 2000 years, I will be forgotten, and the Time-Loop will close. I will live forever, and you shall meet doom!!</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a class="external text" href="http://features.teamxbox.com/xbox/1554/An-Introduction-to-SquareEnix/p2/" rel="nofollow">An Introduction to Square Enix</a> <a class="external text" href="https://web.archive.org/web/20110716200245/http://features.teamxbox.com/xbox/1554/An-Introduction-to-SquareEnix/p2/" rel="nofollow">Архивная копия</a> от 16 июля 2011 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>, TeamXbox</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><span class="citation"><span lang="ru"><a class="external text" href="http://www.mirf.ru/Articles/art828.htm" rel="nofollow">Миры. Final Fantasy</a></span><span class="hidden-ref" style="display:none;">  <span class="ref-info" style="cursor:help;" title="на русском языке">(рус.)</span></span>. «<a href="/wiki/%D0%9C%D0%B8%D1%80_%D1%84%D0%B0%D0%BD%D1%82%D0%B0%D1%81%D1%82%D0%B8%D0%BA%D0%B8" title="Мир фантастики">Мир фантастики</a>». Дата обращения: 22 июля 2015. <a class="external text" href="https://web.archive.org/web/20150722175253/http://www.mirf.ru/Articles/art828.htm" rel="nofollow">Архивировано</a> 22 июля 2015 года.</span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://web.archive.org/web/20120207111520/http://ffx.sakura.ne.jp/ff1.htm" rel="nofollow">ファイナル ファンタジーI FINAL FANTASY</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. ffx.sakura.ne.jp. Дата обращения: 2 февраля 2007. Архивировано из <a class="external text" href="http://ffx.sakura.ne.jp/ff1.htm" rel="nofollow">оригинала</a> 7 февраля 2012 года.</span></span>
+</li>
+<li id="cite_note-gamefaqs-ff1-6"><span class="mw-cite-backlink"><a href="#cite_ref-gamefaqs-ff1_6-0">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.gamefaqs.com/search/index.html?game=final+fantasy+I&amp;platform=0" rel="nofollow">Game Search — GameFAQs</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 2 октября 2007. <a class="external text" href="https://web.archive.org/web/20150924143711/http://www.gamefaqs.com/search/index.html?game=final+fantasy+I&amp;platform=0" rel="nofollow">Архивировано</a> 24 сентября 2015 года.</span></span>
+</li>
+<li id="cite_note-differences-7"><span class="mw-cite-backlink">↑ <a href="#cite_ref-differences_7-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-differences_7-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-differences_7-2"><sup><i><b>3</b></i></sup></a> <a href="#cite_ref-differences_7-3"><sup><i><b>4</b></i></sup></a> <a href="#cite_ref-differences_7-4"><sup><i><b>5</b></i></sup></a> <a href="#cite_ref-differences_7-5"><sup><i><b>6</b></i></sup></a></span> <span class="reference-text"><span class="citation"><i>The Collector.</i> <span lang="und"><a class="external text" href="http://collector.5gigs.com/series/ff1ver.txt" rel="nofollow">Final Fantasy 1 Version Differences FAQ v3.01</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. fforigins.com. Дата обращения: 26 марта 2007. <a class="external text" href="https://web.archive.org/web/20060327150957/http://collector.5gigs.com/series/ff1ver.txt" rel="nofollow">Архивировано</a> 27 марта 2006 года.</span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://www.webcitation.org/64zOnlIgD?url=http://www.gamershell.com/playstation/final_fantasy_origins/review.html" rel="nofollow">Final Fantasy Origins Review</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 25 марта 2007. Архивировано из <a class="external text" href="http://www.gamershell.com/playstation/final_fantasy_origins/review.html" rel="nofollow">оригинала</a> 26 января 2012 года.</span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><span class="citation"><i>Triche, Stephen.</i> <span lang="und"><a class="external text" href="https://www.webcitation.org/64zOok7np?url=http://www.psillustrated.com/psillustrated/soft_rev.php/1283/final-fantasy-origins-playstation.html" rel="nofollow">Final Fantasy Origins</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. gamevortex.com. Дата обращения: 8 марта 2006. Архивировано из <a class="external text" href="http://www.gamevortex.com/gamevortex/soft_rev.php/1283" rel="nofollow">оригинала</a> 26 января 2012 года.</span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><span class="citation"><i>Unicorn Lynx.</i> <span lang="und"><a class="external text" href="https://www.webcitation.org/64zOpLFDH?url=http://www.ugo.com/games" rel="nofollow">Game Trivia for Final Fantasy Origins</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. mobygames.com (11 июля 2003). Дата обращения: 8 марта 2006. Архивировано из <a class="external text" href="http://www.ugo.com/channels/games/features/finalfantasyiandii/review.asp" rel="nofollow">оригинала</a> 26 января 2012 года.</span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><span class="citation"><i>Unicorn Lynx.</i> <span lang="und"><a class="external text" href="https://www.webcitation.org/64zOqc7aA?url=http://www.nintendoworldreport.com/review/4299" rel="nofollow">Nintendo World Report Review:Final Fantasy I and II: Dawn of Souls</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. NintendoWorldReport.com (November 29, 2004). Дата обращения: 8 марта 2006. Архивировано из <a class="external text" href="http://www.NintendoWorldReport.com/reviewArt.cfm?artid=4299" rel="nofollow">оригинала</a> 26 января 2012 года.</span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><span class="citation"><i>Comer, Daniel.</i> <span lang="und"><a class="external text" href="https://www.webcitation.org/64zOpLFDH?url=http://www.ugo.com/games" rel="nofollow">Final Fantasy I and II:Dawn of Souls</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. ugo.com (2002). Дата обращения: 8 марта 2006. Архивировано из <a class="external text" href="http://www.ugo.com/channels/games/features/finalfantasyiandii/review.asp" rel="nofollow">оригинала</a> 26 января 2012 года.</span></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><cite class="citation news cs1" id="CITEREFAki_Tsukioka2004">Aki Tsukioka (2004-02-24). <a class="external text" href="http://www.japancorp.net/Article.Asp?Art_ID=6612" rel="nofollow">"SQUARE ENIX to Launch DoCoMo Sites for World-Famous Game Titles"</a>. <a class="new" href="/w/index.php?title=Japan_Corporate_News_Network&amp;action=edit&amp;redlink=1" title="Japan Corporate News Network (страница отсутствует)">JCN</a>. <a class="external text" href="https://www.webcitation.org/6F0AZjTD3?url=http://www.japancorp.net/Article.Asp?Art_ID=6612" rel="nofollow">Архивировано</a> из оригинала <span class="date">10 марта 2013</span><span class="reference-accessdate">. Дата обращения: <span class="date">2 февраля 2008</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=SQUARE+ENIX+to+Launch+DoCoMo+Sites+for+World-Famous+Game+Titles&amp;rft.date=2004-02-24&amp;rft.au=Aki+Tsukioka&amp;rft_id=http%3A%2F%2Fwww.japancorp.net%2FArticle.Asp%3FArt_ID%3D6612&amp;rfr_id=info%3Asid%2Fru.wikipedia.org%3AFinal+Fantasy+%28%D0%B8%D0%B3%D1%80%D0%B0%29"></span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://web.archive.org/web/20121020203051/http://www.square-enix.co.jp/mobile/ff/" rel="nofollow">ファイナルファンタジー for MOBILE</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. <i>Square-Enix.com</i>. Дата обращения: 9 января 2007. Архивировано из <a class="external text" href="http://www.square-enix.co.jp/mobile/ff/" rel="nofollow">оригинала</a> 20 октября 2012 года.</span></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://www.webcitation.org/64zOt4etn?url=http://www.square-enix.com/na/company/press/2006/0424/" rel="nofollow">SQUARE ENIX TO SHOWCASE ALL ENCOMPASSING LINE-UP AT E3 2006</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. <i>Square-Enix.com</i>. Дата обращения: 24 апреля 2006. Архивировано из <a class="external text" href="http://www.square-enix.com/na/company/press/2006/0424/" rel="nofollow">оригинала</a> 26 января 2012 года.</span></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://www.webcitation.org/64zOuALcb?url=http://kotaku.com/253133/final-fantasy-i--ii-grind-on-psps-this-summer?tag=gamingpsp" rel="nofollow">Final Fantasy I &amp; II Grind On PSPs This Summer</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Kotaku (17 апреля 2007). Дата обращения: 17 апреля 2007. Архивировано из <a class="external text" href="https://kotaku.com/gaming/psp/final-fantasy-i--ii-grind-on-psps-this-summer-253133.php" rel="nofollow">оригинала</a> 26 января 2012 года.</span></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><a href="#cite_ref-17">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://www.webcitation.org/64zOv5BUh?url=http://www.square-enix.com/na/company/press/2007/0626/" rel="nofollow">Square Enix ships remastered edition of Final Fantasy to retail</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Square Enix (26 июня 2007). Дата обращения: 27 июня 2007. Архивировано из <a class="external text" href="http://www.square-enix.com/na/company/press/2007/0626/" rel="nofollow">оригинала</a> 26 января 2012 года.</span></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><a href="#cite_ref-18">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://www.webcitation.org/64zOvcRCT?url=http://www.mcvuk.com/news/read/final-fantasy-ports-to-hit-psp" rel="nofollow">Final Fantasy port to hit PSP</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. MCV (19 декабря 2007). Дата обращения: 19 декабря 2007. Архивировано из <a class="external text" href="http://www.mcvuk.com/news/29187/Final-Fantasy-ports-to-hit-PSP" rel="nofollow">оригинала</a> 26 января 2012 года.</span></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><a href="#cite_ref-19">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://www.webcitation.org/64zOwsT3R?url=http://uk.psp.ign.com/articles/755/755976p1.html" rel="nofollow">Square-Enix to remake FF I and II for anniversary</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. IGN.com. Дата обращения: 18 января 2007. Архивировано из <a class="external text" href="http://uk.psp.ign.com/articles/755/755976p1.html" rel="nofollow">оригинала</a> 26 января 2012 года.</span></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><a href="#cite_ref-20">↑</a></span> <span class="reference-text"><span class="citation"><i><a class="new" href="/w/index.php?title=Matt_Casamassina&amp;action=edit&amp;redlink=1" title="Matt Casamassina (страница отсутствует)">Casamassina, Matt</a></i> <span lang="und"><a class="external text" href="https://www.webcitation.org/5w3rmjyoz?url=http://cube.ign.com/articles/634/634965p1.html" rel="nofollow">State of the RPG: GameCube</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. ign.com (19 июля 2005). Дата обращения: 3 сентября 2006. Архивировано из <a class="external text" href="http://cube.ign.com/articles/634/634965p1.html" rel="nofollow">оригинала</a> 28 января 2011 года.</span></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><a href="#cite_ref-21">↑</a></span> <span class="reference-text"><span class="citation"><i><a class="new" href="/w/index.php?title=Jeremy_Dunham&amp;action=edit&amp;redlink=1" title="Jeremy Dunham (страница отсутствует)">Dunham, Jeremy.</a></i> <span lang="und"><a class="external text" href="https://www.webcitation.org/64zP1wkM1?url=http://psx.ign.com/articles/400/400156p1.html" rel="nofollow">Final Fantasy Origins</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. ign.com (15 апреля 2003). Дата обращения: 8 марта 2006. Архивировано из <a class="external text" href="http://psx.ign.com/articles/400/400156p1.html" rel="nofollow">оригинала</a> 26 января 2012 года.</span></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><a href="#cite_ref-22">↑</a></span> <span class="reference-text"><span class="citation"><i>Campbell, Bolin.</i> <span lang="und"><a class="external text" href="https://web.archive.org/web/20080508185349/http://www.next-gen.biz/index.php?option=com_content&amp;task=view&amp;id=2401&amp;Itemid=2" rel="nofollow">Japan Votes on All Time Top 100</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Next Generation (3 марта 2006). Дата обращения: 7 августа 2006. Архивировано из <a class="external text" href="http://www.next-gen.biz/index.php?option=com_content&amp;task=view&amp;id=2401&amp;Itemid=2" rel="nofollow">оригинала</a> 8 мая 2008 года.</span></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><a href="#cite_ref-23">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://www.webcitation.org/5w3x34BZr?url=http://www.gamefaqs.com/features/contest/top10" rel="nofollow">Fall 2005: 10-Year Anniversary Contest — The 10 Best Games Ever</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. <i><a class="external text" href="http://www.gamefaqs.com/" rel="nofollow">GameFAQs</a></i>. Дата обращения: 1 июля 2006. Архивировано из <a class="external text" href="http://www.gamefaqs.com/features/contest/top10" rel="nofollow">оригинала</a> 28 января 2011 года.</span></span>
+</li>
+<li id="cite_note-NP_Top_200-24"><span class="mw-cite-backlink"><a href="#cite_ref-NP_Top_200_24-0">↑</a></span> <span class="reference-text"><cite class="citation cs2">"NP Top 200", <i>Nintendo Power</i>, vol. 200, pp. 58—66, February 2006</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nintendo+Power&amp;rft.atitle=NP+Top+200&amp;rft.volume=200&amp;rft.pages=58%E2%80%9466&amp;rft.date=2006-02&amp;rfr_id=info%3Asid%2Fru.wikipedia.org%3AFinal+Fantasy+%28%D0%B8%D0%B3%D1%80%D0%B0%29"></span></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><a href="#cite_ref-25">↑</a></span> <span class="reference-text"><span class="citation"><i>Stella, Shiva; Grube, Tim.</i> <span lang="und"><a class="external text" href="https://web.archive.org/web/20060202001010/http://news.gaminghorizon.com/media/1042257669.html" rel="nofollow">Final Fantasy Origins: Beginning of an Era</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. gamehorizon.com (2003). Дата обращения: 8 марта 2006. Архивировано из <a class="external text" href="http://news.gaminghorizon.com/media/1042257669.html" rel="nofollow">оригинала</a> 2 февраля 2006 года.</span></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><a href="#cite_ref-26">↑</a></span> <span class="reference-text"><span class="citation"><i>Fox, Fennec; Grube, Tim.</i> <span lang="und"><a class="external text" href="https://www.webcitation.org/64zP74dVX?url=http://www.pcworld.com/products/software/games.html" rel="nofollow">Final Fantasy Origins Review</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. gamepro.com (8 апреля 2003). Дата обращения: 8 марта 2006. Архивировано из <a class="external text" href="http://www.gamepro.com/sony/psx/games/reviews/28844.shtml" rel="nofollow">оригинала</a> 26 января 2012 года.</span></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><a href="#cite_ref-27">↑</a></span> <span class="reference-text"><span class="citation"><i>Jeremy Dunham.</i> <span lang="und"><a class="external text" href="https://www.webcitation.org/64zP8SMB2?url=http://psp.ign.com/articles/799/799831p1.html" rel="nofollow">Final Fantasy Review</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. <a href="/wiki/IGN" title="IGN">IGN</a> (27 июня 2007). Дата обращения: 10 февраля 2008. Архивировано из <a class="external text" href="http://psp.ign.com/articles/799/799831p1.html" rel="nofollow">оригинала</a> 26 января 2012 года.</span></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><a href="#cite_ref-28">↑</a></span> <span class="reference-text"><a class="extiw" href="https://www.imdb.com/title/tt0817328/" title="imdbtitle:0817328"><i>"Captain N and the New Super Mario World": The Fractured Fantasy of Captain N</i></a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small> на сайте <a href="/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></span>
+</li>
+</ol></div></div>
+<h2><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span><span class="mw-headline" id="Ссылки">Ссылки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Final_Fantasy_(%D0%B8%D0%B3%D1%80%D0%B0)&amp;veaction=edit&amp;section=23" title="Редактировать раздел «Ссылки»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Final_Fantasy_(%D0%B8%D0%B3%D1%80%D0%B0)&amp;action=edit&amp;section=23" title="Редактировать код раздела «Ссылки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="http://es.finalfantasy.wikia.com/wiki/Categoría:Final_Fantasy_I" rel="nofollow">Категория <i>Final Fantasy I</i> на Final Fantasy Вики по-испански</a> <small class="ref-info" style="cursor:help;" title="на испанском языке">(исп.)</small></li>
+<li><a class="external text" href="http://ffforever.info/index.cgi?section=ff;p=history" rel="nofollow">История <i>Final Fantasy I</i> на Final Fantasy Forever</a></li>
+<li><a class="external text" href="http://consolgames.ru/plugins/content/content.php?content.6" rel="nofollow">Неофициальный любительский перевод на русский язык NES-версии игры</a></li></ul>
+<div aria-labelledby="Ссылки_на_внешние_ресурсы" class="navbox" data-name="External links" role="navigation" style="padding-top:1px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup" style="display:none"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:External_links" title="Перейти к шаблону «External links»"><img alt="Перейти к шаблону «External links»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span></span><div id="Ссылки_на_внешние_ресурсы" style="font-size:114%;margin:0 5em">Ссылки на внешние ресурсы</div></th></tr><tr><th class="navbox-group" scope="row" style="width:1px"><div style="padding: 0 35px 0 0; width: 100%;"><div style="float: left;"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8" title="Перейти к шаблону «Внешние ссылки»"><img alt="Перейти к шаблону «Внешние ссылки»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span>  <span typeof="mw:File"><a href="https://www.wikidata.org/wiki/Q1415970#identifiers" title="Перейти к элементу Викиданных"><img alt="Перейти к элементу Викиданных" class="mw-file-element" data-file-height="20" data-file-width="20" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/14px-OOjs_UI_icon_edit-ltr-progressive.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/21px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/28px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" width="14"/></a></span></div>  Тематические сайты</div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="external text" href="https://www.imdb.com/title/tt0207484" rel="nofollow">Internet Movie Database</a></li>
+<li><a class="external text" href="https://musicbrainz.org/work/4aac3751-4be2-4a50-9c4a-af80ffa01695" rel="nofollow">MusicBrainz</a></li>
+<li><a class="external text" href="https://gamefaqs.gamespot.com/-/114536-" rel="nofollow">GameFAQs</a> <span class="ref-info">(3DS)</span></li>
+<li><a class="external text" href="https://gamefaqs.gamespot.com/-/522595-" rel="nofollow">GameFAQs</a> <span class="ref-info">(NES)</span></li>
+<li><a class="external text" href="https://www.gamespot.com/games/final-fantasy/" rel="nofollow">GameSpot</a></li>
+<li><a class="external text" href="https://www.arcade-history.com/?page=detail&amp;id=55138" rel="nofollow">Gaming-History</a> <span class="ref-info">(NES)</span></li>
+<li><a class="external text" href="https://www.giantbomb.com/wd/3030-8403/" rel="nofollow">Giant Bomb</a></li>
+<li><a class="external text" href="https://www.igdb.com/games/final-fantasy" rel="nofollow">IGDB</a></li>
+<li><a class="external text" href="https://www.ign.com/games/final-fantasy" rel="nofollow">IGN</a></li>
+<li><a class="external text" href="https://www.mobygames.com/game/7313/" rel="nofollow">MobyGames</a></li>
+<li><a class="external text" href="https://www.mobygames.com/game/37334/" rel="nofollow">MobyGames</a></li>
+<li><a class="external text" href="http://redump.org/disc/53/" rel="nofollow">Redump</a> <span class="ref-info">(PS1)</span></li>
+<li><a class="external text" href="http://redump.org/disc/54/" rel="nofollow">Redump</a> <span class="ref-info">(PS1)</span></li>
+<li><a class="external text" href="https://www.speedrun.com/ff1" rel="nofollow">Speedrun.com</a></li>
+<li><a class="external text" href="https://stopgame.ru/game/final_fantasy" rel="nofollow">StopGame</a></li>
+<li><a class="external text" href="https://vgmdb.net/product/163" rel="nofollow">VGMdb</a></li>
+<li><a class="external text" href="https://www.igromania.ru/game/6527/-" rel="nofollow">Игромания</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Словари и энциклопедии</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="external text" href="https://www.britannica.com/topic/Final-Fantasy" rel="nofollow">Britannica (онлайн)</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Final_Fantasy" class="navbox" data-name="Final Fantasy" role="navigation"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:Final_Fantasy" title="Перейти к шаблону «Final Fantasy»"><img alt="Перейти к шаблону «Final Fantasy»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span></span><div id="Final_Fantasy" style="font-size:114%;margin:0 5em"><i><a href="/wiki/Final_Fantasy" title="Final Fantasy">Final Fantasy</a></i></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1px"><i><a class="mw-selflink selflink">Final Fantasy</a></i><br/><i><a href="/wiki/Final_Fantasy_II" title="Final Fantasy II">Final Fantasy II</a></i></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="new" href="/w/index.php?title=Final_Fantasy_I_%D0%B8_II_(%D0%BA%D0%BE%D0%BC%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F)&amp;action=edit&amp;redlink=1" title="Final Fantasy I и II (компиляция) (страница отсутствует)">Компиляции</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%9C%D1%83%D0%B7%D1%8B%D0%BA%D0%B0_Final_Fantasy_I_%D0%B8_II&amp;action=edit&amp;redlink=1" title="Музыка Final Fantasy I и II (страница отсутствует)">Музыка</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Основные игры</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a class="mw-selflink selflink">Final Fantasy</a></i>
+<ul><li><i><a href="/wiki/Stranger_of_Paradise:_Final_Fantasy_Origin" title="Stranger of Paradise: Final Fantasy Origin">Stranger of Paradise</a></i></li></ul></li>
+<li><i><a href="/wiki/Final_Fantasy_II" title="Final Fantasy II">II</a></i></li>
+<li><i><a href="/wiki/Final_Fantasy_III" title="Final Fantasy III">III</a></i></li>
+<li><i><a href="/wiki/Final_Fantasy_IV" title="Final Fantasy IV">IV</a></i>
+<ul><li><i><a class="new" href="/w/index.php?title=Final_Fantasy_IV:_The_After_Years&amp;action=edit&amp;redlink=1" title="Final Fantasy IV: The After Years (страница отсутствует)">The After Years</a></i></li></ul></li>
+<li><i><a href="/wiki/Final_Fantasy_V" title="Final Fantasy V"><span style="padding:0 0.5em; position:relative; margin:-0.5em;">V</span></a></i></li>
+<li><i><a href="/wiki/Final_Fantasy_VI" title="Final Fantasy VI">VI</a></i></li>
+<li><i><a href="/wiki/Final_Fantasy_VII" title="Final Fantasy VII">VII</a></i>
+<ul><li><i><a href="/wiki/Final_Fantasy_VII_Remake" title="Final Fantasy VII Remake">Remake</a></i></li></ul></li>
+<li><i><a href="/wiki/Final_Fantasy_VIII" title="Final Fantasy VIII">VIII</a></i></li>
+<li><i><a href="/wiki/Final_Fantasy_IX" title="Final Fantasy IX">IX</a></i></li>
+<li><i><a href="/wiki/Final_Fantasy_X" title="Final Fantasy X"><span style="padding:0 0.5em; position:relative; margin:-0.5em;">X</span></a></i>
+<ul><li><i><a href="/wiki/Final_Fantasy_X-2" title="Final Fantasy X-2"><span style="padding:0 0.5em; position:relative; margin:-0.5em;">2</span></a></i></li></ul></li>
+<li><i><a href="/wiki/Final_Fantasy_XI" title="Final Fantasy XI">XI</a></i></li>
+<li><i><a href="/wiki/Final_Fantasy_XII" title="Final Fantasy XII">XII</a></i>
+<ul><li><i><a href="/wiki/Final_Fantasy_XII:_Revenant_Wings" title="Final Fantasy XII: Revenant Wings">Revenant Wings</a></i></li></ul></li>
+<li><i><a href="/wiki/Final_Fantasy_XIII" title="Final Fantasy XIII">XIII</a></i>
+<ul><li><i><a href="/wiki/Final_Fantasy_XIII-2" title="Final Fantasy XIII-2"><span style="padding:0 0.5em; position:relative; margin:-0.5em;">2</span></a></i></li>
+<li><i><a href="/wiki/Lightning_Returns:_Final_Fantasy_XIII" title="Lightning Returns: Final Fantasy XIII">Lightning Returns</a></i></li></ul></li>
+<li><i><a href="/wiki/Final_Fantasy_XIV" title="Final Fantasy XIV">XIV</a></i>
+<ul><li><i><a href="/wiki/Final_Fantasy_XIV_(2010)" title="Final Fantasy XIV (2010)">2010</a></i></li></ul></li>
+<li><i><a href="/wiki/Final_Fantasy_XV" title="Final Fantasy XV">XV</a></i></li>
+<li><i><a href="/wiki/Final_Fantasy_XVI" title="Final Fantasy XVI">XVI</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Спин-оффы</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Final_Fantasy_Adventure" title="Final Fantasy Adventure">Adventure</a></i></li>
+<li><i><a class="new" href="/w/index.php?title=Final_Fantasy_Airborne_Brigade&amp;action=edit&amp;redlink=1" title="Final Fantasy Airborne Brigade (страница отсутствует)">Airborne Brigade</a></i></li>
+<li><i><a class="new" href="/w/index.php?title=Final_Fantasy:_All_the_Bravest&amp;action=edit&amp;redlink=1" title="Final Fantasy: All the Bravest (страница отсутствует)">All the Bravest</a></i></li>
+<li><i><a class="new" href="/w/index.php?title=Final_Fantasy_Artniks&amp;action=edit&amp;redlink=1" title="Final Fantasy Artniks (страница отсутствует)">Artniks</a></i></li>
+<li><i><a class="new" href="/w/index.php?title=Final_Fantasy:_Brave_Exvius&amp;action=edit&amp;redlink=1" title="Final Fantasy: Brave Exvius (страница отсутствует)">Brave Exvius</a></i></li>
+<li><i><a href="/wiki/Final_Fantasy_Dimensions" title="Final Fantasy Dimensions">Dimensions</a></i>
+<ul><li><i><a class="new" href="/w/index.php?title=Final_Fantasy_Dimensions_II&amp;action=edit&amp;redlink=1" title="Final Fantasy Dimensions II (страница отсутствует)">II</a></i></li></ul></li>
+<li><i><a class="new" href="/w/index.php?title=Final_Fantasy_Explorers&amp;action=edit&amp;redlink=1" title="Final Fantasy Explorers (страница отсутствует)">Explorers</a></i></li>
+<li><i><a class="new" href="/w/index.php?title=Mobius_Final_Fantasy&amp;action=edit&amp;redlink=1" title="Mobius Final Fantasy (страница отсутствует)">Mobius</a></i></li>
+<li><i><a href="/wiki/Final_Fantasy_Mystic_Quest" title="Final Fantasy Mystic Quest">Mystic Quest</a></i></li>
+<li><i><a href="/wiki/Final_Fantasy:_The_4_Heroes_of_Light" title="Final Fantasy: The 4 Heroes of Light">The 4 Heroes of Light</a></i></li>
+<li><i><a href="/wiki/Theatrhythm_Final_Fantasy" title="Theatrhythm Final Fantasy">Theatrhythm</a></i>
+<ul><li><i><a class="new" href="/w/index.php?title=Theatrhythm_Final_Fantasy:_Curtain_Call&amp;action=edit&amp;redlink=1" title="Theatrhythm Final Fantasy: Curtain Call (страница отсутствует)">Curtain Call</a></i></li>
+<li><i><a class="new" href="/w/index.php?title=Theatrhythm_Dragon_Quest&amp;action=edit&amp;redlink=1" title="Theatrhythm Dragon Quest (страница отсутствует)">Dragon Quest</a></i></li></ul></li>
+<li><i><a href="/wiki/World_of_Final_Fantasy" title="World of Final Fantasy">World</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Компиляции</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F_Final_Fantasy_VII" title="Компиляция Final Fantasy VII">Компиляция <i>Final Fantasy VII</i></a></li>
+<li><i><a href="/wiki/Final_Fantasy_Crystal_Chronicles_(%D1%81%D0%B5%D1%80%D0%B8%D1%8F_%D0%B8%D0%B3%D1%80)" title="Final Fantasy Crystal Chronicles (серия игр)">Crystal Chronicles</a></i></li>
+<li><i><a href="/wiki/Dissidia_Final_Fantasy" title="Dissidia Final Fantasy">Dissidia</a></i></li>
+<li><i><a href="/wiki/Fabula_Nova_Crystallis_Final_Fantasy" title="Fabula Nova Crystallis Final Fantasy">Fabula Nova Crystallis</a></i></li>
+<li><i><a href="/wiki/%D0%98%D0%B2%D0%B0%D0%BB%D0%B8%D1%81" title="Ивалис">Ivalice</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Связанные игры</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a class="new" href="/w/index.php?title=Bravely_Default&amp;action=edit&amp;redlink=1" title="Bravely Default (страница отсутствует)">Bravely Default</a></i>
+<ul><li><i><a class="new" href="/w/index.php?title=Bravely_Second:_End_Layer&amp;action=edit&amp;redlink=1" title="Bravely Second: End Layer (страница отсутствует)">Second: End Layer</a></i></li></ul></li>
+<li><i><a href="/wiki/Ehrgeiz" title="Ehrgeiz">Ehrgeiz</a></i></li>
+<li><a href="/wiki/Super_Smash_Bros._for_Nintendo_3DS_%D0%B8_Wii_U" title="Super Smash Bros. for Nintendo 3DS и Wii U"><i>Super Smash Bros. for Nintendo 3DS</i> и <i>Wii U</i></a></li>
+<li><i><a href="/wiki/Super_Smash_Bros._Ultimate" title="Super Smash Bros. Ultimate">Super Smash Bros. Ultimate</a></i></li>
+<li><i><a href="/wiki/Tekken_7" title="Tekken 7">Tekken 7</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Родственные серии</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a class="mw-redirect" href="/wiki/Chocobo_(%D1%81%D0%B5%D1%80%D0%B8%D1%8F_%D0%B8%D0%B3%D1%80)" title="Chocobo (серия игр)">Chocobo</a></i></li>
+<li><i><a class="new" href="/w/index.php?title=Fortune_Street&amp;action=edit&amp;redlink=1" title="Fortune Street (страница отсутствует)">Fortune Street</a></i></li>
+<li><i><a href="/wiki/Kingdom_Hearts" title="Kingdom Hearts">Kingdom Hearts</a></i></li>
+<li><i><a href="/wiki/Mana_(%D1%81%D0%B5%D1%80%D0%B8%D1%8F_%D0%B8%D0%B3%D1%80)" title="Mana (серия игр)">Mana</a></i></li>
+<li><i><a href="/wiki/SaGa" title="SaGa">SaGa</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Фильмы и анимация</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D1%8F%D1%8F_%D1%84%D0%B0%D0%BD%D1%82%D0%B0%D0%B7%D0%B8%D1%8F:_%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D0%B0_%D0%BA%D1%80%D0%B8%D1%81%D1%82%D0%B0%D0%BB%D0%BB%D0%BE%D0%B2" title="Последняя фантазия: Легенда кристаллов">Легенда кристаллов</a></li>
+<li><a href="/wiki/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D1%8F%D1%8F_%D1%84%D0%B0%D0%BD%D1%82%D0%B0%D0%B7%D0%B8%D1%8F:_%D0%94%D1%83%D1%85%D0%B8_%D0%B2%D0%BD%D1%83%D1%82%D1%80%D0%B8" title="Последняя фантазия: Духи внутри">Духи внутри</a></li>
+<li><a href="/wiki/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D1%8F%D1%8F_%D1%84%D0%B0%D0%BD%D1%82%D0%B0%D0%B7%D0%B8%D1%8F:_%D0%92%D1%81%D0%B5%D0%BC%D0%BE%D0%B3%D1%83%D1%89%D0%B8%D0%B9" title="Последняя фантазия: Всемогущий">Всемогущий</a></li>
+<li><a href="/wiki/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D1%8F%D1%8F_%D1%84%D0%B0%D0%BD%D1%82%D0%B0%D0%B7%D0%B8%D1%8F_VII:_%D0%94%D0%B5%D1%82%D0%B8_%D0%BF%D1%80%D0%B8%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D1%8F" title="Последняя фантазия VII: Дети пришествия">Дети пришествия</a></li>
+<li><a href="/wiki/Last_Order:_Final_Fantasy_VII" title="Last Order: Final Fantasy VII">Последний приказ</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D1%8F%D1%8F_%D1%84%D0%B0%D0%BD%D1%82%D0%B0%D0%B7%D0%B8%D1%8F_XV:_%D0%91%D1%80%D0%B0%D1%82%D1%81%D1%82%D0%B2%D0%BE&amp;action=edit&amp;redlink=1" title="Последняя фантазия XV: Братство (страница отсутствует)">Братство</a></li>
+<li><a href="/wiki/%D0%9A%D0%B8%D0%BD%D0%B3%D1%81%D0%B3%D0%BB%D0%B5%D0%B9%D0%B2:_%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D1%8F%D1%8F_%D1%84%D0%B0%D0%BD%D1%82%D0%B0%D0%B7%D0%B8%D1%8F_XV" title="Кингсглейв: Последняя фантазия XV">Меч короля</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B8%D0%B3%D1%80_%D1%81%D0%B5%D1%80%D0%B8%D0%B8_Final_Fantasy" title="Список игр серии Final Fantasy">Список игр серии <i>Final Fantasy</i></a></li>
+<li><a href="/wiki/%D0%9C%D1%83%D0%B7%D1%8B%D0%BA%D0%B0_%D1%81%D0%B5%D1%80%D0%B8%D0%B8_Final_Fantasy" title="Музыка серии Final Fantasy">Музыка</a></li>
+<li><a href="/wiki/%D0%9F%D0%BE%D0%B2%D1%82%D0%BE%D1%80%D1%8F%D1%8E%D1%89%D0%B8%D0%B5%D1%81%D1%8F_%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D1%8B_%D1%81%D0%B5%D1%80%D0%B8%D0%B8_Final_Fantasy" title="Повторяющиеся элементы серии Final Fantasy">Повторяющиеся элементы</a>
+<ul><li><a href="/wiki/%D0%9A%D0%B0%D0%BA%D1%82%D1%83%D0%B0%D1%80" title="Кактуар">Кактуар</a></li>
+<li><a href="/wiki/%D0%A7%D0%BE%D0%BA%D0%BE%D0%B1%D0%BE" title="Чокобо">Чокобо</a></li>
+<li><a href="/wiki/%D0%A1%D0%B8%D0%B4_(Final_Fantasy)" title="Сид (Final Fantasy)">Сид</a></li>
+<li><a href="/wiki/%D0%9C%D1%83%D0%B3%D0%BB" title="Мугл">Мугл</a></li></ul></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1364
+Cached time: 20240226121735
+Cache expiry: 301347
+Reduced expiry: true
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.839 seconds
+Real time usage: 1.066 seconds
+Preprocessor visited node count: 6889/1000000
+Post‐expand include size: 120928/2097152 bytes
+Template argument size: 19519/2097152 bytes
+Highest expansion depth: 26/100
+Expensive parser function count: 20/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 31271/5000000 bytes
+Lua time usage: 0.565/10.000 seconds
+Lua memory usage: 11786782/52428800 bytes
+Number of Wikibase entities loaded: 21/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  956.470      1 -total
+ 53.96%  516.080      1 Шаблон:Компьютерная_игра
+ 52.41%  501.305      1 Шаблон:Карточка
+ 27.40%  262.056      1 Шаблон:Примечания
+ 16.71%  159.779     11 Шаблон:Wikidata
+ 13.45%  128.669      1 Шаблон:Cite_news
+ 12.22%  116.897      1 Шаблон:Внешние_ссылки
+ 10.30%   98.543     17 Шаблон:Wikidata_plural_switch
+  8.46%   80.941     23 Шаблон:Cite_web
+  5.94%   56.801      2 Шаблон:Курсив_или_нет
+-->
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:255729-0!canonical and timestamp 20240226121735 and revision id 135533802. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> -->
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Final_Fantasy_(игра)&amp;oldid=135533802">https://ru.wikipedia.org/w/index.php?title=Final_Fantasy_(игра)&amp;oldid=135533802</a></div></div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D1%8B%D0%B5_%D0%B8%D0%B3%D1%80%D1%8B_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Компьютерные игры по алфавиту">Компьютерные игры по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:Final_Fantasy" title="Категория:Final Fantasy">Final Fantasy</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D1%8B%D0%B5_%D0%B8%D0%B3%D1%80%D1%8B_1987_%D0%B3%D0%BE%D0%B4%D0%B0" title="Категория:Компьютерные игры 1987 года">Компьютерные игры 1987 года</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%B3%D1%80%D1%8B_%D0%B4%D0%BB%D1%8F_NES" title="Категория:Игры для NES">Игры для NES</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%B3%D1%80%D1%8B_%D0%B4%D0%BB%D1%8F_MSX" title="Категория:Игры для MSX">Игры для MSX</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%B3%D1%80%D1%8B_%D0%B4%D0%BB%D1%8F_PlayStation" title="Категория:Игры для PlayStation">Игры для PlayStation</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%B3%D1%80%D1%8B_%D0%B4%D0%BB%D1%8F_PlayStation_Portable" title="Категория:Игры для PlayStation Portable">Игры для PlayStation Portable</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%B3%D1%80%D1%8B_%D0%B4%D0%BB%D1%8F_WonderSwan_Color" title="Категория:Игры для WonderSwan Color">Игры для WonderSwan Color</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%B3%D1%80%D1%8B_%D0%B4%D0%BB%D1%8F_Game_Boy_Advance" title="Категория:Игры для Game Boy Advance">Игры для Game Boy Advance</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%B3%D1%80%D1%8B_%D0%B4%D0%BB%D1%8F_J2ME" title="Категория:Игры для J2ME">Игры для J2ME</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%B3%D1%80%D1%8B_%D0%B4%D0%BB%D1%8F_iOS" title="Категория:Игры для iOS">Игры для iOS</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D1%8B%D0%B5_%D0%B8%D0%B3%D1%80%D1%8B,_%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_Tose" title="Категория:Компьютерные игры, разработанные Tose">Компьютерные игры, разработанные Tose</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D1%8B%D0%B5_%D0%B8%D0%B3%D1%80%D1%8B,_%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_Square" title="Категория:Компьютерные игры, разработанные Square">Компьютерные игры, разработанные Square</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D1%8B%D0%B5_%D0%B8%D0%B3%D1%80%D1%8B,_%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%B2_%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D0%B8" title="Категория:Компьютерные игры, разработанные в Японии">Компьютерные игры, разработанные в Японии</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%B3%D1%80%D1%8B_%D0%B4%D0%BB%D1%8F_Android" title="Категория:Игры для Android">Игры для Android</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D1%8B%D0%B5_%D0%B8%D0%B3%D1%80%D1%8B_%D0%BE_%D0%BF%D1%83%D1%82%D0%B5%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D1%8F%D1%85_%D0%B2%D0%BE_%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8" title="Категория:Компьютерные игры о путешествиях во времени">Компьютерные игры о путешествиях во времени</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%BD%D0%B5_%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD_%D1%8F%D0%B7%D1%8B%D0%BA)" title="Категория:Википедия:Cite web (не указан язык)">Википедия:Cite web (не указан язык)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D0%B8%D1%82%D1%8C_webcitation-%D0%B0%D1%80%D1%85%D0%B8%D0%B2:_deadlink_yes)" title="Категория:Википедия:Cite web (заменить webcitation-архив: deadlink yes)">Википедия:Cite web (заменить webcitation-архив: deadlink yes)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D1%8B%D0%B5_%D0%B8%D0%B3%D1%80%D1%8B:%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D1%8F%D1%8F_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:_%D0%B2_%D1%82%D0%B5%D0%BA%D1%83%D1%89%D0%B5%D0%BC_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:Проект:Компьютерные игры:Последняя правка: в текущем году">Проект:Компьютерные игры:Последняя правка: в текущем году</a></li></ul></div></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Навигация</h2>
+<div id="mw-head">
+<nav aria-labelledby="p-personal-label" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" id="p-personal" role="navigation">
+<h3 class="vector-menu-heading" id="p-personal-label">
+<span class="vector-menu-heading-label">Персональные инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="pt-anonuserpage"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li class="mw-list-item" id="pt-anontalk"><a accesskey="n" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]"><span>Обсуждение</span></a></li><li class="mw-list-item" id="pt-anoncontribs"><a accesskey="y" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]"><span>Вклад</span></a></li><li class="mw-list-item" id="pt-createaccount"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=Final+Fantasy+%28%D0%B8%D0%B3%D1%80%D0%B0%29" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li class="mw-list-item" id="pt-login"><a accesskey="o" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=Final+Fantasy+%28%D0%B8%D0%B3%D1%80%D0%B0%29" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]"><span>Войти</span></a></li>
+</ul>
+</div>
+</nav>
+<div id="left-navigation">
+<nav aria-labelledby="p-namespaces-label" class="mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-namespaces" role="navigation">
+<h3 class="vector-menu-heading" id="p-namespaces-label">
+<span class="vector-menu-heading-label">Пространства имён</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-nstab-main"><a accesskey="c" href="/wiki/Final_Fantasy_(%D0%B8%D0%B3%D1%80%D0%B0)" title="Просмотреть контентную страницу [c]"><span>Статья</span></a></li><li class="mw-list-item" id="ca-talk"><a accesskey="t" href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:Final_Fantasy_(%D0%B8%D0%B3%D1%80%D0%B0)" rel="discussion" title="Обсуждение основной страницы [t]"><span>Обсуждение</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-variants-label" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" id="p-variants" role="navigation">
+<input aria-haspopup="true" aria-labelledby="p-variants-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-variants" id="p-variants-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-variants-label">
+<span class="vector-menu-heading-label">русский</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+</div>
+<div id="right-navigation">
+<nav aria-labelledby="p-views-label" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-views" role="navigation">
+<h3 class="vector-menu-heading" id="p-views-label">
+<span class="vector-menu-heading-label">Просмотры</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-view"><a href="/wiki/Final_Fantasy_(%D0%B8%D0%B3%D1%80%D0%B0)"><span>Читать</span></a></li><li class="mw-list-item" id="ca-ve-edit"><a accesskey="v" href="/w/index.php?title=Final_Fantasy_(%D0%B8%D0%B3%D1%80%D0%B0)&amp;veaction=edit" title="Редактировать данную страницу [v]"><span>Править</span></a></li><li class="collapsible mw-list-item" id="ca-edit"><a accesskey="e" href="/w/index.php?title=Final_Fantasy_(%D0%B8%D0%B3%D1%80%D0%B0)&amp;action=edit" title="Править исходный текст этой страницы [e]"><span>Править код</span></a></li><li class="mw-list-item" id="ca-history"><a accesskey="h" href="/w/index.php?title=Final_Fantasy_(%D0%B8%D0%B3%D1%80%D0%B0)&amp;action=history" title="Журнал изменений страницы [h]"><span>История</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-cactions-label" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" id="p-cactions" role="navigation" title="Больше возможностей">
+<input aria-haspopup="true" aria-labelledby="p-cactions-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-cactions" id="p-cactions-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-cactions-label">
+<span class="vector-menu-heading-label">Ещё</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+<div class="vector-search-box-vue vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box" id="p-search" role="search">
+<h3>Поиск</h3>
+<form action="/w/index.php" class="vector-search-box-form" id="searchform">
+<div class="vector-search-box-inner" data-search-loc="header-navigation" id="simpleSearch">
+<input accesskey="f" aria-label="Искать в Википедии" autocapitalize="sentences" class="vector-search-box-input" id="searchInput" name="search" placeholder="Искать в Википедии" title="Искать в Википедии [f]" type="search"/>
+<input name="title" type="hidden" value="Служебная:Поиск"/>
+<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Найти страницы, содержащие указанный текст" type="submit" value="Найти"/>
+<input class="searchButton" id="searchButton" name="go" title="Перейти к странице, имеющей в точности такое название" type="submit" value="Перейти"/>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="vector-legacy-sidebar" id="mw-panel">
+<div id="p-logo" role="banner">
+<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу"></a>
+</div>
+<nav aria-labelledby="p-navigation-label" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" id="p-navigation" role="navigation">
+<h3 class="vector-menu-heading" id="p-navigation-label">
+<span class="vector-menu-heading-label">Навигация</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-mainpage-description"><a accesskey="z" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]"><span>Заглавная страница</span></a></li><li class="mw-list-item" id="n-content"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li class="mw-list-item" id="n-featured"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li class="mw-list-item" id="n-randompage"><a accesskey="x" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]"><span>Случайная статья</span></a></li><li class="mw-list-item" id="n-currentevents"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li class="mw-list-item" id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-participation-label" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" id="p-participation" role="navigation">
+<h3 class="vector-menu-heading" id="p-participation-label">
+<span class="vector-menu-heading-label">Участие</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-bug_in_article"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li class="mw-list-item" id="n-introduction"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li class="mw-list-item" id="n-portal"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li class="mw-list-item" id="n-forum"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li class="mw-list-item" id="n-recentchanges"><a accesskey="r" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]"><span>Свежие правки</span></a></li><li class="mw-list-item" id="n-newpages"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li class="mw-list-item" id="n-help"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-tb-label" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" id="p-tb" role="navigation">
+<h3 class="vector-menu-heading" id="p-tb-label">
+<span class="vector-menu-heading-label">Инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="t-whatlinkshere"><a accesskey="j" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/Final_Fantasy_(%D0%B8%D0%B3%D1%80%D0%B0)" title="Список всех страниц, ссылающихся на данную [j]"><span>Ссылки сюда</span></a></li><li class="mw-list-item" id="t-recentchangeslinked"><a accesskey="k" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/Final_Fantasy_(%D0%B8%D0%B3%D1%80%D0%B0)" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]"><span>Связанные правки</span></a></li><li class="mw-list-item" id="t-specialpages"><a accesskey="q" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]"><span>Служебные страницы</span></a></li><li class="mw-list-item" id="t-permalink"><a href="/w/index.php?title=Final_Fantasy_(%D0%B8%D0%B3%D1%80%D0%B0)&amp;oldid=135533802" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li class="mw-list-item" id="t-info"><a href="/w/index.php?title=Final_Fantasy_(%D0%B8%D0%B3%D1%80%D0%B0)&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li class="mw-list-item" id="t-cite"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=Final_Fantasy_%28%D0%B8%D0%B3%D1%80%D0%B0%29&amp;id=135533802&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li class="mw-list-item" id="t-urlshortener"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2FFinal_Fantasy_%28%25D0%25B8%25D0%25B3%25D1%2580%25D0%25B0%29"><span>Получить короткий URL</span></a></li><li class="mw-list-item" id="t-urlshortener-qrcode"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2FFinal_Fantasy_%28%25D0%25B8%25D0%25B3%25D1%2580%25D0%25B0%29"><span>Скачать QR-код</span></a></li><li class="mw-list-item" id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1415970" title="Ссылка на связанный элемент репозитория данных [g]"><span>Элемент Викиданных</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-coll-print_export-label" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" id="p-coll-print_export" role="navigation">
+<h3 class="vector-menu-heading" id="p-coll-print_export-label">
+<span class="vector-menu-heading-label">Печать/экспорт</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="coll-download-as-rl"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=Final_Fantasy_%28%D0%B8%D0%B3%D1%80%D0%B0%29&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li class="mw-list-item" id="t-print"><a accesskey="p" href="/w/index.php?title=Final_Fantasy_(%D0%B8%D0%B3%D1%80%D0%B0)&amp;printable=yes" title="Версия этой страницы для печати [p]"><span>Версия для печати</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-lang-label" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" id="p-lang" role="navigation">
+<h3 class="vector-menu-heading" id="p-lang-label">
+<span class="vector-menu-heading-label">На других языках</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="interlanguage-link interwiki-ar mw-list-item"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%81%D8%A7%D9%8A%D9%86%D9%84_%D9%81%D8%A7%D9%86%D8%AA%D8%B3%D9%8A_(%D9%84%D8%B9%D8%A8%D8%A9_%D9%81%D9%8A%D8%AF%D9%8A%D9%88)" hreflang="ar" lang="ar" title="فاينل فانتسي (لعبة فيديو) — арабский"><span>العربية</span></a></li><li class="interlanguage-link interwiki-arz mw-list-item"><a class="interlanguage-link-target" href="https://arz.wikipedia.org/wiki/%D9%81%D8%A7%D9%8A%D9%86%D9%84_%D9%81%D8%A7%D9%86%D8%AA%D8%B3%D9%89" hreflang="arz" lang="arz" title="فاينل فانتسى — Egyptian Arabic"><span>مصرى</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Final_Fantasy_I" hreflang="ca" lang="ca" title="Final Fantasy I — каталанский"><span>Català</span></a></li><li class="interlanguage-link interwiki-ckb mw-list-item"><a class="interlanguage-link-target" href="https://ckb.wikipedia.org/wiki/%D9%81%D8%A7%DB%8C%D9%86%DB%95%DA%B5_%D9%81%D8%A7%D9%86%D8%AA%D8%A7%D8%B2%DB%8C_(%DA%A9%D8%A7%DB%8C%DB%95%DB%8C_%DA%A4%DB%8C%D8%AF%DB%8C%DB%86%DB%8C%DB%8C)" hreflang="ckb" lang="ckb" title="فاینەڵ فانتازی (کایەی ڤیدیۆیی) — центральнокурдский"><span>کوردی</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Final_Fantasy_(videohra)" hreflang="cs" lang="cs" title="Final Fantasy (videohra) — чешский"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Final_Fantasy_(Computerspiel)" hreflang="de" lang="de" title="Final Fantasy (Computerspiel) — немецкий"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-en badge-Q17437798 badge-goodarticle mw-list-item" title="хорошая статья"><a class="interlanguage-link-target" href="https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)" hreflang="en" lang="en" title="Final Fantasy (video game) — английский"><span>English</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Final_Fantasy_(videojuego)" hreflang="es" lang="es" title="Final Fantasy (videojuego) — испанский"><span>Español</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Final_Fantasy_I" hreflang="et" lang="et" title="Final Fantasy I — эстонский"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%81%D8%A7%DB%8C%D9%86%D8%A7%D9%84_%D9%81%D8%A7%D9%86%D8%AA%D8%B2%DB%8C_(%D8%A8%D8%A7%D8%B2%DB%8C_%D9%88%DB%8C%D8%AF%D8%A6%D9%88%DB%8C%DB%8C)" hreflang="fa" lang="fa" title="فاینال فانتزی (بازی ویدئویی) — персидский"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Final_Fantasy_(videopeli)" hreflang="fi" lang="fi" title="Final Fantasy (videopeli) — финский"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Final_Fantasy_(jeu_vid%C3%A9o)" hreflang="fr" lang="fr" title="Final Fantasy (jeu vidéo) — французский"><span>Français</span></a></li><li class="interlanguage-link interwiki-gl mw-list-item"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Final_Fantasy_I" hreflang="gl" lang="gl" title="Final Fantasy I — галисийский"><span>Galego</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Final_Fantasy_(permainan_video)" hreflang="id" lang="id" title="Final Fantasy (permainan video) — индонезийский"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Final_Fantasy_(videogioco)" hreflang="it" lang="it" title="Final Fantasy (videogioco) — итальянский"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC" hreflang="ja" lang="ja" title="ファイナルファンタジー — японский"><span>日本語</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%ED%8C%8C%EC%9D%B4%EB%84%90_%ED%8C%90%ED%83%80%EC%A7%80_(%EB%B9%84%EB%94%94%EC%98%A4_%EA%B2%8C%EC%9E%84)" hreflang="ko" lang="ko" title="파이널 판타지 (비디오 게임) — корейский"><span>한국어</span></a></li><li class="interlanguage-link interwiki-la mw-list-item"><a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/Final_Fantasy_(ludus_televisificus)" hreflang="la" lang="la" title="Final Fantasy (ludus televisificus) — латинский"><span>Latina</span></a></li><li class="interlanguage-link interwiki-lld mw-list-item"><a class="interlanguage-link-target" href="https://lld.wikipedia.org/wiki/Final_Fantasy" hreflang="lld" lang="lld" title="Final Fantasy — Ladin"><span>Ladin</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Final_Fantasy_(permainan_video)" hreflang="ms" lang="ms" title="Final Fantasy (permainan video) — малайский"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Final_Fantasy_(computerspel)" hreflang="nl" lang="nl" title="Final Fantasy (computerspel) — нидерландский"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-no badge-Q17437798 badge-goodarticle mw-list-item" title="хорошая статья"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Final_Fantasy_(videospill)" hreflang="nb" lang="nb" title="Final Fantasy (videospill) — норвежский букмол"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Final_Fantasy_(gra_komputerowa)" hreflang="pl" lang="pl" title="Final Fantasy (gra komputerowa) — польский"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Final_Fantasy_(jogo_eletr%C3%B4nico)" hreflang="pt" lang="pt" title="Final Fantasy (jogo eletrônico) — португальский"><span>Português</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Final_Fantasy_(joc_video)" hreflang="ro" lang="ro" title="Final Fantasy (joc video) — румынский"><span>Română</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Final_Fantasy_(video_game)" hreflang="en-simple" lang="en-simple" title="Final Fantasy (video game) — Simple English"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sq mw-list-item"><a class="interlanguage-link-target" href="https://sq.wikipedia.org/wiki/Final_Fantasy_I" hreflang="sq" lang="sq" title="Final Fantasy I — албанский"><span>Shqip</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Final_Fantasy_(datorspel)" hreflang="sv" lang="sv" title="Final Fantasy (datorspel) — шведский"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-th mw-list-item"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B9%84%E0%B8%9F%E0%B8%99%E0%B8%AD%E0%B8%A5%E0%B9%81%E0%B8%9F%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%8B%E0%B8%B5_(%E0%B8%A7%E0%B8%B4%E0%B8%94%E0%B8%B5%E0%B9%82%E0%B8%AD%E0%B9%80%E0%B8%81%E0%B8%A1)" hreflang="th" lang="th" title="ไฟนอลแฟนตาซี (วิดีโอเกม) — тайский"><span>ไทย</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Final_Fantasy_(video_oyunu)" hreflang="tr" lang="tr" title="Final Fantasy (video oyunu) — турецкий"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk badge-Q17437798 badge-goodarticle mw-list-item" title="хорошая статья"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/Final_Fantasy_I" hreflang="uk" lang="uk" title="Final Fantasy I — украинский"><span>Українська</span></a></li><li class="interlanguage-link interwiki-vi badge-Q17437798 badge-goodarticle mw-list-item" title="хорошая статья"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Final_Fantasy_I" hreflang="vi" lang="vi" title="Final Fantasy I — вьетнамский"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-wuu mw-list-item"><a class="interlanguage-link-target" href="https://wuu.wikipedia.org/wiki/%E6%9C%80%E7%BB%88%E5%B9%BB%E6%83%B3%EF%BC%88%E6%B8%B8%E6%88%8F%EF%BC%89" hreflang="wuu" lang="wuu" title="最终幻想（游戏） — у"><span>吴语</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E6%9C%80%E7%BB%88%E5%B9%BB%E6%83%B3_(%E6%B8%B8%E6%88%8F)" hreflang="zh" lang="zh" title="最终幻想 (游戏) — китайский"><span>中文</span></a></li><li class="interlanguage-link interwiki-zh-yue mw-list-item"><a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E6%9C%80%E7%B5%82%E5%B9%BB%E6%83%B3_(%E9%81%8A%E6%88%B2)" hreflang="yue" lang="yue" title="最終幻想 (遊戲) — кантонский"><span>粵語</span></a></li>
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1415970#sitelinks-wikipedia" title="Править ссылки на другие языки">Править ссылки</a></span></div>
+</div>
+</nav>
+</div>
+</div>
+<footer class="mw-footer" id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 13 января 2024 в 04:59.</li>
+<li id="footer-info-copyright">Текст доступен по <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru" rel="license">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a><a href="//creativecommons.org/licenses/by-sa/4.0/" rel="license" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br/>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org/ru/">Фонд Викимедиа (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//ru.m.wikipedia.org/w/index.php?title=Final_Fantasy_(%D0%B8%D0%B3%D1%80%D0%B0)&amp;mobileaction=toggle_view_mobile">Мобильная версия</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" loading="lazy" src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88"/></a></li>
+<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" loading="lazy" src="/static/images/footer/poweredby_mediawiki_88x31.png" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88"/></a></li>
+</ul>
+</footer>
+
+
+</body>
+</html>

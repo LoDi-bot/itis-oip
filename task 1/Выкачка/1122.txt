@@ -1,0 +1,994 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="ru">
+<head>
+<meta charset="utf-8"/>
+<title>Всероссийская олимпиада школьников по русскому языку — Википедия</title>
+
+
+
+
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+
+
+<meta content="MediaWiki 1.42.0-wmf.19" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="max-image-preview:standard" name="robots"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/3/3b/%D0%AD%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D1%8F%D0%B7%D1%8B%D0%BA%D1%83_2008_%D0%B3%D0%BE%D0%B4%D0%B0.JPG" property="og:image"/>
+<meta content="1200" property="og:image:width"/>
+<meta content="891" property="og:image:height"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/3/3b/%D0%AD%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D1%8F%D0%B7%D1%8B%D0%BA%D1%83_2008_%D0%B3%D0%BE%D0%B4%D0%B0.JPG" property="og:image"/>
+<meta content="800" property="og:image:width"/>
+<meta content="594" property="og:image:height"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/%D0%AD%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D1%8F%D0%B7%D1%8B%D0%BA%D1%83_2008_%D0%B3%D0%BE%D0%B4%D0%B0.JPG/640px-%D0%AD%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D1%8F%D0%B7%D1%8B%D0%BA%D1%83_2008_%D0%B3%D0%BE%D0%B4%D0%B0.JPG" property="og:image"/>
+<meta content="640" property="og:image:width"/>
+<meta content="475" property="og:image:height"/>
+<meta content="width=1000" name="viewport"/>
+<meta content="Всероссийская олимпиада школьников по русскому языку — Википедия" property="og:title"/>
+<meta content="website" property="og:type"/>
+
+
+
+
+
+
+
+
+
+
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Всероссийская_олимпиада_школьников_по_русскому_языку rootpage-Всероссийская_олимпиада_школьников_по_русскому_языку skin-vector action-view"><div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators">
+<div class="mw-indicator" id="mw-indicator-ga"><div class="mw-parser-output"><span typeof="mw:File"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Эта статья входит в число хороших статей"><img alt="Эта статья входит в число хороших статей" class="mw-file-element" data-file-height="13" data-file-width="13" decoding="async" height="13" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Blue_star_unboxed.svg/13px-Blue_star_unboxed.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Blue_star_unboxed.svg/20px-Blue_star_unboxed.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Blue_star_unboxed.svg/26px-Blue_star_unboxed.svg.png 2x" width="13"/></a></span></div></div>
+</div>
+<h1 class="firstHeading mw-first-heading" id="firstHeading"><span class="mw-page-title-main">Всероссийская олимпиада школьников по русскому языку</span></h1>
+<div class="vector-body" id="bodyContent">
+<div class="noprint" id="siteSub">Материал из Википедии — свободной энциклопедии</div>
+<div id="contentSub"><div id="mw-content-subtitle"><div class="flaggedrevs_short flaggedrevs_stable_synced plainlinks noprint" id="mw-fr-revisiontag"><div class="flaggedrevs_short_basic"><span class="flaggedrevs-icon oo-ui-widget oo-ui-widget-enabled oo-ui-iconElement-icon oo-ui-icon-articleSearch oo-ui-iconElement oo-ui-labelElement-invisible oo-ui-iconWidget" title="Правки этой страницы требуют проверки."></span><span class="flaggedrevs-icon oo-ui-widget oo-ui-widget-enabled oo-ui-iconElement-icon oo-ui-icon-eye oo-ui-iconElement oo-ui-labelElement-invisible oo-ui-iconWidget" title="Это отпатрулированная версия страницы"></span><span class="fr-toggle-arrow oo-ui-widget oo-ui-widget-enabled oo-ui-indicatorElement-indicator oo-ui-indicator-down oo-ui-indicatorElement oo-ui-labelElement-invisible oo-ui-indicatorWidget" id="mw-fr-revisiontoggle" title="показать/скрыть подробности"></span></div>
+<div id="mw-fr-revisiondetails-wrapper" style="position:relative;"><div class="flaggedrevs_short_details" id="mw-fr-revisiondetails" style="display:none">Это <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%B0%D1%82%D1%80%D1%83%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" title="Википедия:Патрулирование">стабильная версия</a>, <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB%D1%8B&amp;type=review&amp;page=%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D1%8F%D0%B7%D1%8B%D0%BA%D1%83">отпатрулированная</a> <i>2 февраля 2024</i>.</div>
+</div>
+</div>
+</div></div>
+<div id="contentSub2"></div>
+<div id="jump-to-nav"></div>
+<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+<div class="mw-body-content" id="mw-content-text"><div class="mw-content-ltr mw-parser-output" dir="ltr" lang="ru"><table class="infobox infobox-8515fda07e77ed0b" data-name="Предметная олимпиада" style=""><tbody><tr><th class="infobox-above" colspan="2" scope="colgroup" style="">Всероссийская олимпиада школьников по русскому языку</th></tr><tr><td class="infobox-image" colspan="2" style=""> <span class="no-wikidata" data-wikidata-property-id="P18"><span typeof="mw:File/Frameless"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%AD%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D1%8F%D0%B7%D1%8B%D0%BA%D1%83_2008_%D0%B3%D0%BE%D0%B4%D0%B0.JPG" title="Эмблема XIII Всероссийской олимпиады школьников по русскому языку на церемонии открытия Заключительного этапа олимпиады 7 апреля 2008 года (Кисловодск)"><img alt="Эмблема XIII Всероссийской олимпиады школьников по русскому языку на церемонии открытия Заключительного этапа олимпиады 7 апреля 2008 года (Кисловодск)" class="mw-file-element" data-file-height="547" data-file-width="737" decoding="async" height="203" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/%D0%AD%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D1%8F%D0%B7%D1%8B%D0%BA%D1%83_2008_%D0%B3%D0%BE%D0%B4%D0%B0.JPG/274px-%D0%AD%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D1%8F%D0%B7%D1%8B%D0%BA%D1%83_2008_%D0%B3%D0%BE%D0%B4%D0%B0.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/%D0%AD%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D1%8F%D0%B7%D1%8B%D0%BA%D1%83_2008_%D0%B3%D0%BE%D0%B4%D0%B0.JPG/411px-%D0%AD%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D1%8F%D0%B7%D1%8B%D0%BA%D1%83_2008_%D0%B3%D0%BE%D0%B4%D0%B0.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3b/%D0%AD%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D1%8F%D0%B7%D1%8B%D0%BA%D1%83_2008_%D0%B3%D0%BE%D0%B4%D0%B0.JPG/548px-%D0%AD%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D1%8F%D0%B7%D1%8B%D0%BA%D1%83_2008_%D0%B3%D0%BE%D0%B4%D0%B0.JPG 2x" width="274"/></a></span><br/><span class="media-caption" data-wikidata-qualifier-id="P2096" style="display:block">Эмблема XIII Всероссийской олимпиады школьников по русскому языку на церемонии открытия Заключительного этапа олимпиады 7 апреля 2008 года (Кисловодск)</span></span> </td></tr>
+<tr>
+<th class="infobox-header" colspan="2" scope="colgroup" style="">Основные сведения</th>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Предмет</th>
+<td class="plainlist">
+<a href="/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Русский язык">русский язык</a></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Зона охвата</th>
+<td class="plainlist">
+<a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F" title="Россия">Россия</a></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Участвуют</th>
+<td class="plainlist">
+школьники 9—11 классов (заключительный этап)</td>
+</tr>
+<tr>
+<th class="infobox-header" colspan="2" scope="colgroup" style="">Первая олимпиада</th>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Год</th>
+<td class="plainlist">
+1996</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Место</th>
+<td class="plainlist">
+<a href="/wiki/%D0%9A%D1%83%D1%80%D1%81%D0%BA" title="Курск">Курск</a></td>
+</tr>
+<tr>
+<th class="infobox-header" colspan="2" scope="colgroup" style="">Последняя олимпиада</th>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Год</th>
+<td class="plainlist">
+2023</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Место</th>
+<td class="plainlist">
+<a href="/wiki/%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B1%D1%83%D1%80%D0%B3" title="Екатеринбург">Екатеринбург</a></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Участники</th>
+<td class="plainlist">
+311</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Награды</th>
+<td class="plainlist">
+152</td>
+</tr>
+</tbody></table>
+<p><b>Всеросси́йская олимпиа́да шко́льников по ру́сскому языку́</b> — ежегодная <a href="/wiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D0%BD%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0" title="Предметная олимпиада">предметная олимпиада</a>, заключительный этап которой предполагает участие учащихся 9—11 классов. Является частью системы <a href="/wiki/%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2" title="Всероссийская олимпиада школьников">всероссийских олимпиад школьников</a><sup class="reference" id="cite_ref-Перечень_1-0"><a href="#cite_note-Перечень-1">[1]</a></sup>.
+</p><p>Заключительный этап состязания проводится с <a href="/wiki/1996_%D0%B3%D0%BE%D0%B4" title="1996 год">1996 года</a> и зачастую проходит в старинных русских городах<sup class="reference" id="cite_ref-rosolymp_2-0"><a href="#cite_note-rosolymp-2">[2]</a></sup>. Победители и призёры этого этапа получают возможность поступить в профильные <a class="mw-redirect" href="/wiki/%D0%92%D1%83%D0%B7" title="Вуз">вузы</a> без вступительных испытаний.
+</p>
+<div aria-labelledby="mw-toc-heading" class="toc" id="toc" role="navigation"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="ru"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Задачи_олимпиады"><span class="tocnumber">1</span> <span class="toctext">Задачи олимпиады</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#История_олимпиады"><span class="tocnumber">2</span> <span class="toctext">История олимпиады</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Этапы_олимпиады"><span class="tocnumber">3</span> <span class="toctext">Этапы олимпиады</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Заключительный_этап"><span class="tocnumber">3.1</span> <span class="toctext">Заключительный этап</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Задания"><span class="tocnumber">4</span> <span class="toctext">Задания</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Школьный_этап"><span class="tocnumber">4.1</span> <span class="toctext">Школьный этап</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Муниципальный_этап"><span class="tocnumber">4.2</span> <span class="toctext">Муниципальный этап</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Региональный_этап"><span class="tocnumber">4.3</span> <span class="toctext">Региональный этап</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Заключительный_этап_2"><span class="tocnumber">4.4</span> <span class="toctext">Заключительный этап</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Влияние_олимпиады"><span class="tocnumber">5</span> <span class="toctext">Влияние олимпиады</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Персоналии"><span class="tocnumber">6</span> <span class="toctext">Персоналии</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Примечания"><span class="tocnumber">7</span> <span class="toctext">Примечания</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Источники"><span class="tocnumber">8</span> <span class="toctext">Источники</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Литература"><span class="tocnumber">9</span> <span class="toctext">Литература</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Ссылки"><span class="tocnumber">10</span> <span class="toctext">Ссылки</span></a></li>
+</ul>
+</div>
+<h2><span id=".D0.97.D0.B0.D0.B4.D0.B0.D1.87.D0.B8_.D0.BE.D0.BB.D0.B8.D0.BC.D0.BF.D0.B8.D0.B0.D0.B4.D1.8B"></span><span class="mw-headline" id="Задачи_олимпиады">Задачи олимпиады</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D1%8F%D0%B7%D1%8B%D0%BA%D1%83&amp;veaction=edit&amp;section=1" title="Редактировать раздел «Задачи олимпиады»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D1%8F%D0%B7%D1%8B%D0%BA%D1%83&amp;action=edit&amp;section=1" title="Редактировать код раздела «Задачи олимпиады»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>В процессе работы над концепцией заключительного этапа олимпиады у авторов выработалось представление о целях её проведения, позже сформулированное Л. И. Скворцовым следующим образом<sup class="reference" id="cite_ref-Скворцов_3-0"><a href="#cite_note-Скворцов-3">[3]</a></sup>:
+
+</p>
+<blockquote class="ts-Начало_цитаты-quote">
+<p>
+…Это не должна быть «большая контрольная работа» по русскому языку. &lt;…&gt; Ведь после… предварительных отборов к нам приедут по-настоящему грамотные, начитанные и талантливые, творческие ребята. Вот тут и будем искать «гвоздь» и смысл нашего финального этапа. Суть не в знании школьной программы по русскому языку «от и до», не в зазубренных механически «правилах и исключениях», а в лингвистической одарённости подростка, в его свободном владении родным словом, в умении выразить свою любовь к его смысловым и художественным богатствам. Короче, будем искать и поддерживать новых <a href="/wiki/%D0%A8%D0%B0%D1%85%D0%BC%D0%B0%D1%82%D0%BE%D0%B2,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Шахматов, Алексей Александрович">Шахматовых</a>, <a href="/wiki/%D0%91%D1%83%D1%81%D0%BB%D0%B0%D0%B5%D0%B2,_%D0%A4%D1%91%D0%B4%D0%BE%D1%80_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87" title="Буслаев, Фёдор Иванович">Буслаевых</a>, <a href="/wiki/%D0%92%D0%B8%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D0%BE%D0%B2,_%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Виноградов, Виктор Владимирович">Виноградовых</a>, <a href="/wiki/%D0%94%D0%B0%D1%88%D0%BA%D0%BE%D0%B2%D0%B0,_%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0_%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD%D0%BE%D0%B2%D0%BD%D0%B0" title="Дашкова, Екатерина Романовна">Дашковых</a> и <a href="/wiki/%D0%90%D1%85%D0%BC%D0%B0%D1%82%D0%BE%D0%B2%D0%B0,_%D0%90%D0%BD%D0%BD%D0%B0_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%BD%D0%B0" title="Ахматова, Анна Андреевна">Ахматовых</a>.
+</p>
+</blockquote>
+<p>На церемонии открытия заключительного этапа X олимпиады в Орле Л. И. Скворцов кратко описал задачи соревнования<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup>:
+
+</p>
+<blockquote class="ts-Начало_цитаты-quote">
+<p>
+Задача олимпиады — пробудить и поддержать творческую инициативу детей. Они по-настоящему приобщаются к богатствам русского языка, к пониманию того, что это является душой народа, стержнем нации.
+</p>
+</blockquote>
+<p>Регламент проведения заключительного этапа всероссийской олимпиады школьников по русскому языку в 2009 году закрепляет в качестве целей и задач олимпиады воспитание у учащихся любви к русскому языку, пробуждение интереса к его исследованию, выявление лингвистически одарённых школьников<sup class="reference" id="cite_ref-Регламент_5-0"><a href="#cite_note-Регламент-5">[5]</a></sup>.
+</p>
+<h2><span id=".D0.98.D1.81.D1.82.D0.BE.D1.80.D0.B8.D1.8F_.D0.BE.D0.BB.D0.B8.D0.BC.D0.BF.D0.B8.D0.B0.D0.B4.D1.8B"></span><span class="mw-headline" id="История_олимпиады">История олимпиады</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D1%8F%D0%B7%D1%8B%D0%BA%D1%83&amp;veaction=edit&amp;section=2" title="Редактировать раздел «История олимпиады»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D1%8F%D0%B7%D1%8B%D0%BA%D1%83&amp;action=edit&amp;section=2" title="Редактировать код раздела «История олимпиады»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Олимпиада проводится с <a href="/wiki/1996_%D0%B3%D0%BE%D0%B4" title="1996 год">1996 года</a>. С тех пор состоялись следующие олимпиады:
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>№</th>
+<th>Дата</th>
+<th>Место</th>
+<th>Примечания
+</th></tr>
+<tr>
+<td>I</td>
+<td><a class="mw-redirect" href="/wiki/1996" title="1996">1996</a><sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[пр. 1]</a></sup></td>
+<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Coat_of_Arms_of_Kursk.png"><img class="mw-file-element" data-file-height="217" data-file-width="175" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Coat_of_Arms_of_Kursk.png/20px-Coat_of_Arms_of_Kursk.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Coat_of_Arms_of_Kursk.png/30px-Coat_of_Arms_of_Kursk.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/44/Coat_of_Arms_of_Kursk.png/40px-Coat_of_Arms_of_Kursk.png 2x" width="20"/></a></span> <a href="/wiki/%D0%9A%D1%83%D1%80%D1%81%D0%BA" title="Курск">Курск</a></td>
+<td>
+</td></tr>
+<tr>
+<td>II</td>
+<td><a class="mw-redirect" href="/wiki/1997" title="1997">1997</a></td>
+<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Coat_of_arms_of_Oryol.svg"><img class="mw-file-element" data-file-height="937" data-file-width="760" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Coat_of_arms_of_Oryol.svg/20px-Coat_of_arms_of_Oryol.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Coat_of_arms_of_Oryol.svg/30px-Coat_of_arms_of_Oryol.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Coat_of_arms_of_Oryol.svg/40px-Coat_of_arms_of_Oryol.svg.png 2x" width="20"/></a></span> <a href="/wiki/%D0%9E%D1%80%D1%91%D0%BB_(%D0%B3%D0%BE%D1%80%D0%BE%D0%B4)" title="Орёл (город)">Орёл</a></td>
+<td>
+</td></tr>
+<tr>
+<td>III</td>
+<td><a class="mw-redirect" href="/wiki/1998" title="1998">1998</a></td>
+<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Coat_of_Arms_of_Tula.png"><img class="mw-file-element" data-file-height="238" data-file-width="200" decoding="async" height="24" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Coat_of_Arms_of_Tula.png/20px-Coat_of_Arms_of_Tula.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Coat_of_Arms_of_Tula.png/30px-Coat_of_Arms_of_Tula.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Coat_of_Arms_of_Tula.png/40px-Coat_of_Arms_of_Tula.png 2x" width="20"/></a></span> <a href="/wiki/%D0%A2%D1%83%D0%BB%D0%B0" title="Тула">Тула</a></td>
+<td>
+</td></tr>
+<tr>
+<td>IV</td>
+<td><a class="mw-redirect" href="/wiki/1999" title="1999">1999</a></td>
+<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Coat_of_Arms_of_Pskov.png"><img class="mw-file-element" data-file-height="251" data-file-width="200" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Coat_of_Arms_of_Pskov.png/20px-Coat_of_Arms_of_Pskov.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Coat_of_Arms_of_Pskov.png/30px-Coat_of_Arms_of_Pskov.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Coat_of_Arms_of_Pskov.png/40px-Coat_of_Arms_of_Pskov.png 2x" width="20"/></a></span> <a href="/wiki/%D0%9F%D1%81%D0%BA%D0%BE%D0%B2" title="Псков">Псков</a></td>
+<td>Была посвящена 200-летию со дня рождения <a href="/wiki/%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%B8%D1%87" title="Пушкин, Александр Сергеевич">А. С. Пушкина</a><sup class="reference" id="cite_ref-rosolymp_2-1"><a href="#cite_note-rosolymp-2">[2]</a></sup>.
+</td></tr>
+<tr>
+<td>V</td>
+<td><a class="mw-redirect" href="/wiki/2000" title="2000">2000</a></td>
+<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Smolensk_COA_(Smolensk_Governorate)_(1780).png"><img class="mw-file-element" data-file-height="209" data-file-width="174" decoding="async" height="24" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Smolensk_COA_%28Smolensk_Governorate%29_%281780%29.png/20px-Smolensk_COA_%28Smolensk_Governorate%29_%281780%29.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Smolensk_COA_%28Smolensk_Governorate%29_%281780%29.png/30px-Smolensk_COA_%28Smolensk_Governorate%29_%281780%29.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Smolensk_COA_%28Smolensk_Governorate%29_%281780%29.png/40px-Smolensk_COA_%28Smolensk_Governorate%29_%281780%29.png 2x" width="20"/></a></span> <a href="/wiki/%D0%A1%D0%BC%D0%BE%D0%BB%D0%B5%D0%BD%D1%81%D0%BA" title="Смоленск">Смоленск</a></td>
+<td>
+</td></tr>
+<tr>
+<td>VI</td>
+<td><a href="/wiki/16_%D0%B0%D0%BF%D1%80%D0%B5%D0%BB%D1%8F" title="16 апреля">16</a>—<a href="/wiki/22_%D0%B0%D0%BF%D1%80%D0%B5%D0%BB%D1%8F" title="22 апреля">22 апреля</a> <a class="mw-redirect" href="/wiki/2001" title="2001">2001</a></td>
+<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Ryazan_COA_(Ryazan_Governorate)_(1779).png"><img class="mw-file-element" data-file-height="245" data-file-width="200" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Ryazan_COA_%28Ryazan_Governorate%29_%281779%29.png/20px-Ryazan_COA_%28Ryazan_Governorate%29_%281779%29.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Ryazan_COA_%28Ryazan_Governorate%29_%281779%29.png/30px-Ryazan_COA_%28Ryazan_Governorate%29_%281779%29.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Ryazan_COA_%28Ryazan_Governorate%29_%281779%29.png/40px-Ryazan_COA_%28Ryazan_Governorate%29_%281779%29.png 2x" width="20"/></a></span> <a href="/wiki/%D0%A0%D1%8F%D0%B7%D0%B0%D0%BD%D1%8C" title="Рязань">Рязань</a></td>
+<td>Участие в соревновании приняли 178 учащихся из 64 регионов России<sup class="reference" id="cite_ref-VI_7-0"><a href="#cite_note-VI-7">[6]</a></sup>. В честь 200-летия со дня рождения <a href="/wiki/%D0%94%D0%B0%D0%BB%D1%8C,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87" title="Даль, Владимир Иванович">В. И. Даля</a> многие задания олимпиады были связаны с трудами филолога<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[7]</a></sup>, а участники, продемонстрировавшие наилучшие познания в его биографии и деятельности, награждались специальными грамотами<sup class="reference" id="cite_ref-Олимп_9-0"><a href="#cite_note-Олимп-9">[8]</a></sup>.
+</td></tr>
+<tr>
+<td>VII</td>
+<td><a href="/wiki/14_%D0%B0%D0%BF%D1%80%D0%B5%D0%BB%D1%8F" title="14 апреля">14</a>—<a href="/wiki/19_%D0%B0%D0%BF%D1%80%D0%B5%D0%BB%D1%8F" title="19 апреля">19 апреля</a> <a class="mw-redirect" href="/wiki/2002" title="2002">2002</a></td>
+<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Coat_of_Arms_of_Pskov.png"><img class="mw-file-element" data-file-height="251" data-file-width="200" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Coat_of_Arms_of_Pskov.png/20px-Coat_of_Arms_of_Pskov.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Coat_of_Arms_of_Pskov.png/30px-Coat_of_Arms_of_Pskov.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Coat_of_Arms_of_Pskov.png/40px-Coat_of_Arms_of_Pskov.png 2x" width="20"/></a></span> <a href="/wiki/%D0%9F%D1%81%D0%BA%D0%BE%D0%B2" title="Псков">Псков</a></td>
+<td>Впервые был проведён конкурс знатоков русского языка. В олимпиаде участвовали 175 старшеклассников из 57 регионов России, а также с <a href="/wiki/%D0%91%D0%B0%D0%B9%D0%BA%D0%BE%D0%BD%D1%83%D1%80_(%D0%B3%D0%BE%D1%80%D0%BE%D0%B4)" title="Байконур (город)">Байконура</a><sup class="reference" id="cite_ref-VII_10-0"><a href="#cite_note-VII-10">[9]</a></sup>.
+</td></tr>
+<tr>
+<td>VIII</td>
+<td><a href="/wiki/13_%D0%B0%D0%BF%D1%80%D0%B5%D0%BB%D1%8F" title="13 апреля">13</a>—19 апреля <a class="mw-redirect" href="/wiki/2003" title="2003">2003</a></td>
+<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Coat_of_Arms_of_Vologda_(Vologda_oblast)_(1780).png"><img class="mw-file-element" data-file-height="712" data-file-width="549" decoding="async" height="26" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Coat_of_Arms_of_Vologda_%28Vologda_oblast%29_%281780%29.png/20px-Coat_of_Arms_of_Vologda_%28Vologda_oblast%29_%281780%29.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Coat_of_Arms_of_Vologda_%28Vologda_oblast%29_%281780%29.png/30px-Coat_of_Arms_of_Vologda_%28Vologda_oblast%29_%281780%29.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Coat_of_Arms_of_Vologda_%28Vologda_oblast%29_%281780%29.png/40px-Coat_of_Arms_of_Vologda_%28Vologda_oblast%29_%281780%29.png 2x" width="20"/></a></span> <a href="/wiki/%D0%92%D0%BE%D0%BB%D0%BE%D0%B3%D0%B4%D0%B0" title="Вологда">Вологда</a></td>
+<td>В Вологде состязались 250 участников из 69 регионов<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[10]</a></sup>. Оба тура олимпиады состоялись в вологодской средней школе № 8<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[11]</a></sup>.
+</td></tr>
+<tr>
+<td>IX</td>
+<td nowrap=""><a href="/wiki/18_%D0%B0%D0%BF%D1%80%D0%B5%D0%BB%D1%8F" title="18 апреля">18</a>—<a href="/wiki/24_%D0%B0%D0%BF%D1%80%D0%B5%D0%BB%D1%8F" title="24 апреля">24 апреля</a> <a class="mw-redirect" href="/wiki/2004" title="2004">2004</a></td>
+<td nowrap=""><span typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Coat_of_Arms_of_Nizhny_Novgorod.svg"><img class="mw-file-element" data-file-height="670" data-file-width="512" decoding="async" height="26" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Coat_of_Arms_of_Nizhny_Novgorod.svg/20px-Coat_of_Arms_of_Nizhny_Novgorod.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Coat_of_Arms_of_Nizhny_Novgorod.svg/30px-Coat_of_Arms_of_Nizhny_Novgorod.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/63/Coat_of_Arms_of_Nizhny_Novgorod.svg/40px-Coat_of_Arms_of_Nizhny_Novgorod.svg.png 2x" width="20"/></a></span> <a href="/wiki/%D0%9D%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9_%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4" title="Нижний Новгород">Нижний Новгород</a></td>
+<td>Проходила на базе <a class="mw-redirect" href="/wiki/%D0%9D%D0%B8%D0%B6%D0%B5%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82_%D0%B8%D0%BC._%D0%9D._%D0%98._%D0%9B%D0%BE%D0%B1%D0%B0%D1%87%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE" title="Нижегородский государственный университет им. Н. И. Лобачевского">Нижегородского государственного университета имени Н. И. Лобачевского</a><sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[12]</a></sup>. Участие в соревновании приняли 207 школьников из 63 <a class="mw-redirect" href="/wiki/%D0%A1%D1%83%D0%B1%D1%8A%D0%B5%D0%BA%D1%82_%D1%84%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8" title="Субъект федерации">субъектов федерации</a><sup class="reference" id="cite_ref-IX_14-0"><a href="#cite_note-IX-14">[13]</a></sup>.
+</td></tr>
+<tr>
+<td>X</td>
+<td><a href="/wiki/17_%D0%B0%D0%BF%D1%80%D0%B5%D0%BB%D1%8F" title="17 апреля">17</a>—22 апреля <a class="mw-redirect" href="/wiki/2005" title="2005">2005</a></td>
+<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Coat_of_arms_of_Oryol.svg"><img class="mw-file-element" data-file-height="937" data-file-width="760" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Coat_of_arms_of_Oryol.svg/20px-Coat_of_arms_of_Oryol.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Coat_of_arms_of_Oryol.svg/30px-Coat_of_arms_of_Oryol.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Coat_of_arms_of_Oryol.svg/40px-Coat_of_arms_of_Oryol.svg.png 2x" width="20"/></a></span> <a href="/wiki/%D0%9E%D1%80%D1%91%D0%BB_(%D0%B3%D0%BE%D1%80%D0%BE%D0%B4)" title="Орёл (город)">Орёл</a></td>
+<td>
+</td></tr>
+<tr>
+<td>XI</td>
+<td nowrap=""><a href="/wiki/9_%D0%B0%D0%BF%D1%80%D0%B5%D0%BB%D1%8F" title="9 апреля">9</a>—<a href="/wiki/15_%D0%B0%D0%BF%D1%80%D0%B5%D0%BB%D1%8F" title="15 апреля">15 апреля</a> <a class="mw-redirect" href="/wiki/2006" title="2006">2006</a><sup class="reference" id="cite_ref-rosolymp_2-2"><a href="#cite_note-rosolymp-2">[2]</a></sup></td>
+<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Coat_of_arms_of_Voronezh_1881.svg"><img class="mw-file-element" data-file-height="609" data-file-width="595" decoding="async" height="20" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Coat_of_arms_of_Voronezh_1881.svg/20px-Coat_of_arms_of_Voronezh_1881.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Coat_of_arms_of_Voronezh_1881.svg/30px-Coat_of_arms_of_Voronezh_1881.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Coat_of_arms_of_Voronezh_1881.svg/40px-Coat_of_arms_of_Voronezh_1881.svg.png 2x" width="20"/></a></span> <a href="/wiki/%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6" title="Воронеж">Воронеж</a></td>
+<td>Проходила на базе <a href="/wiki/%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B5%D0%B4%D0%B0%D0%B3%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82" title="Воронежский государственный педагогический университет">Воронежского государственного педагогического университета</a><sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[14]</a></sup>. В соревновании участвовали 245 школьников из 67 регионов России<sup class="reference" id="cite_ref-МИОО_16-0"><a href="#cite_note-МИОО-16">[15]</a></sup>.
+</td></tr>
+<tr>
+<td>XII</td>
+<td>15—<a href="/wiki/21_%D0%B0%D0%BF%D1%80%D0%B5%D0%BB%D1%8F" title="21 апреля">21 апреля</a> <a class="mw-redirect" href="/wiki/2007" title="2007">2007</a></td>
+<td nowrap=""><span typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Coat_of_Arms_of_Veliky_Novgorod.png"><img class="mw-file-element" data-file-height="973" data-file-width="800" decoding="async" height="24" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Coat_of_Arms_of_Veliky_Novgorod.png/20px-Coat_of_Arms_of_Veliky_Novgorod.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Coat_of_Arms_of_Veliky_Novgorod.png/30px-Coat_of_Arms_of_Veliky_Novgorod.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Coat_of_Arms_of_Veliky_Novgorod.png/40px-Coat_of_Arms_of_Veliky_Novgorod.png 2x" width="20"/></a></span> <a href="/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D0%B9_%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4" title="Великий Новгород">Великий Новгород</a></td>
+<td>Олимпиада заняла место среди мероприятий Года русского языка в Великом Новгороде наряду с добровольным общегородским диктантом<sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[16]</a></sup>. Проходила на базе <a class="mw-redirect" href="/wiki/%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%B0_%D0%9C%D1%83%D0%B4%D1%80%D0%BE%D0%B3%D0%BE" title="Новгородский государственный университет имени Ярослава Мудрого">Новгородского государственного университета имени Ярослава Мудрого</a><sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[17]</a></sup> и приняла 289 школьников из 78 субъектов федерации<sup class="reference" id="cite_ref-МИОО_16-1"><a href="#cite_note-МИОО-16">[15]</a></sup>. Все туры соревнования принимала <a href="/wiki/%D0%A8%D0%BA%D0%BE%D0%BB%D0%B0_%E2%84%96_13_(%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D0%B9_%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4)" title="Школа № 13 (Великий Новгород)">средняя общеобразовательная школа № 13 с углубленным изучением литературы и информатики</a><sup class="reference" id="cite_ref-19"><a href="#cite_note-19">[18]</a></sup>.
+</td></tr>
+<tr>
+<td>XIII</td>
+<td><a href="/wiki/7_%D0%B0%D0%BF%D1%80%D0%B5%D0%BB%D1%8F" title="7 апреля">7</a>—14 апреля <a class="mw-redirect" href="/wiki/2008" title="2008">2008</a></td>
+<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Coat_of_Arms_of_Kislovodsk_(Stavropol_kray).png"><img class="mw-file-element" data-file-height="262" data-file-width="200" decoding="async" height="26" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Coat_of_Arms_of_Kislovodsk_%28Stavropol_kray%29.png/20px-Coat_of_Arms_of_Kislovodsk_%28Stavropol_kray%29.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Coat_of_Arms_of_Kislovodsk_%28Stavropol_kray%29.png/30px-Coat_of_Arms_of_Kislovodsk_%28Stavropol_kray%29.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Coat_of_Arms_of_Kislovodsk_%28Stavropol_kray%29.png/40px-Coat_of_Arms_of_Kislovodsk_%28Stavropol_kray%29.png 2x" width="20"/></a></span> <a href="/wiki/%D0%9A%D0%B8%D1%81%D0%BB%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D0%BA" title="Кисловодск">Кисловодск</a></td>
+<td>Проходила на базе ГОУ ВПО «<a href="/wiki/%D0%A1%D1%82%D0%B0%D0%B2%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82" title="Ставропольский государственный университет">Ставропольский государственный университет</a>»<sup class="reference" id="cite_ref-XIII_20-0"><a href="#cite_note-XIII-20">[19]</a></sup>. В олимпиаде приняли участие 297 школьников из 75 регионов России<sup class="reference" id="cite_ref-21"><a href="#cite_note-21">[20]</a></sup>.
+</td></tr>
+<tr>
+<td>XIV</td>
+<td><a href="/wiki/20_%D0%B0%D0%BF%D1%80%D0%B5%D0%BB%D1%8F" title="20 апреля">20</a>—<a href="/wiki/25_%D0%B0%D0%BF%D1%80%D0%B5%D0%BB%D1%8F" title="25 апреля">25 апреля</a> <a class="mw-redirect" href="/wiki/2009" title="2009">2009</a></td>
+<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Coat_of_arms_of_Bryansk_(Bryansk_Oblast).svg"><img class="mw-file-element" data-file-height="600" data-file-width="474" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Coat_of_arms_of_Bryansk_%28Bryansk_Oblast%29.svg/20px-Coat_of_arms_of_Bryansk_%28Bryansk_Oblast%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Coat_of_arms_of_Bryansk_%28Bryansk_Oblast%29.svg/30px-Coat_of_arms_of_Bryansk_%28Bryansk_Oblast%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Coat_of_arms_of_Bryansk_%28Bryansk_Oblast%29.svg/40px-Coat_of_arms_of_Bryansk_%28Bryansk_Oblast%29.svg.png 2x" width="20"/></a></span> <a href="/wiki/%D0%91%D1%80%D1%8F%D0%BD%D1%81%D0%BA" title="Брянск">Брянск</a></td>
+<td>Олимпиада проходила на базе <a class="mw-redirect" href="/wiki/%D0%91%D1%80%D1%8F%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D0%BA%D0%B0_%D0%98._%D0%93._%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE" title="Брянский государственный университет имени академика И. Г. Петровского">Брянского государственного университета имени академика И. Г. Петровского</a><sup class="reference" id="cite_ref-rosolymp_2-3"><a href="#cite_note-rosolymp-2">[2]</a></sup>.
+</td></tr>
+<tr>
+<td>XV</td>
+<td><a href="/wiki/11_%D0%B0%D0%BF%D1%80%D0%B5%D0%BB%D1%8F" title="11 апреля">11</a>—<a href="/wiki/17_%D0%B0%D0%BF%D1%80%D0%B5%D0%BB%D1%8F" title="17 апреля">17 апреля</a> <a class="mw-redirect" href="/wiki/2010" title="2010">2010</a></td>
+<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Coat_of_arms_of_Oryol.svg"><img class="mw-file-element" data-file-height="937" data-file-width="760" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Coat_of_arms_of_Oryol.svg/20px-Coat_of_arms_of_Oryol.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Coat_of_arms_of_Oryol.svg/30px-Coat_of_arms_of_Oryol.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Coat_of_arms_of_Oryol.svg/40px-Coat_of_arms_of_Oryol.svg.png 2x" width="20"/></a></span> <a href="/wiki/%D0%9E%D1%80%D1%91%D0%BB_(%D0%B3%D0%BE%D1%80%D0%BE%D0%B4)" title="Орёл (город)">Орёл</a></td>
+<td>Проведение олимпиады обеспечил <a href="/wiki/%D0%9E%D1%80%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82" title="Орловский государственный университет">Орловский государственный университет</a><sup class="reference" id="cite_ref-22"><a href="#cite_note-22">[21]</a></sup>. Участие в соревновании приняли более 170 школьников<sup class="reference" id="cite_ref-XV_23-0"><a href="#cite_note-XV-23">[22]</a></sup>.
+</td></tr>
+<tr>
+<td>XVI</td>
+<td>15—21 апреля <a href="/wiki/2011_%D0%B3%D0%BE%D0%B4" title="2011 год">2011</a></td>
+<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Coat_of_arms_of_Ulyanovsk.png"><img class="mw-file-element" data-file-height="1512" data-file-width="1212" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Coat_of_arms_of_Ulyanovsk.png/20px-Coat_of_arms_of_Ulyanovsk.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Coat_of_arms_of_Ulyanovsk.png/30px-Coat_of_arms_of_Ulyanovsk.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Coat_of_arms_of_Ulyanovsk.png/40px-Coat_of_arms_of_Ulyanovsk.png 2x" width="20"/></a></span> <a href="/wiki/%D0%A3%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D1%81%D0%BA" title="Ульяновск">Ульяновск</a><sup class="reference" id="cite_ref-24"><a href="#cite_note-24">[23]</a></sup></td>
+<td>Олимпиада проходила на базе <a href="/wiki/%D0%A3%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82" title="Ульяновский государственный университет">Ульяновского государственного университета</a><sup class="reference" id="cite_ref-25"><a href="#cite_note-25">[24]</a></sup>.
+</td></tr>
+<tr>
+<td>XVII</td>
+<td>16—22 апреля <a href="/wiki/2012_%D0%B3%D0%BE%D0%B4" title="2012 год">2012</a></td>
+<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Coat_of_arms_of_Bryansk_(Bryansk_Oblast).svg"><img class="mw-file-element" data-file-height="600" data-file-width="474" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Coat_of_arms_of_Bryansk_%28Bryansk_Oblast%29.svg/20px-Coat_of_arms_of_Bryansk_%28Bryansk_Oblast%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Coat_of_arms_of_Bryansk_%28Bryansk_Oblast%29.svg/30px-Coat_of_arms_of_Bryansk_%28Bryansk_Oblast%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Coat_of_arms_of_Bryansk_%28Bryansk_Oblast%29.svg/40px-Coat_of_arms_of_Bryansk_%28Bryansk_Oblast%29.svg.png 2x" width="20"/></a></span> <a href="/wiki/%D0%91%D1%80%D1%8F%D0%BD%D1%81%D0%BA" title="Брянск">Брянск</a></td>
+<td>Олимпиада проходила на базе <a class="mw-redirect" href="/wiki/%D0%91%D1%80%D1%8F%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D0%BA%D0%B0_%D0%98._%D0%93._%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE" title="Брянский государственный университет имени академика И. Г. Петровского">БГУ имени И. Г. Петровского</a><sup class="reference" id="cite_ref-26"><a href="#cite_note-26">[25]</a></sup>.
+</td></tr>
+<tr>
+<td>XVIII</td>
+<td>15—21 апреля <a href="/wiki/2013_%D0%B3%D0%BE%D0%B4" title="2013 год">2013</a></td>
+<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Coat_of_Arms_of_Saint_Petersburg_(2003).svg"><img class="mw-file-element" data-file-height="599" data-file-width="559" decoding="async" height="21" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Coat_of_Arms_of_Saint_Petersburg_%282003%29.svg/20px-Coat_of_Arms_of_Saint_Petersburg_%282003%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Coat_of_Arms_of_Saint_Petersburg_%282003%29.svg/30px-Coat_of_Arms_of_Saint_Petersburg_%282003%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/07/Coat_of_Arms_of_Saint_Petersburg_%282003%29.svg/40px-Coat_of_Arms_of_Saint_Petersburg_%282003%29.svg.png 2x" width="20"/></a></span> <a href="/wiki/%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3" title="Санкт-Петербург">Санкт-Петербург</a></td>
+<td>Олимпиада проходила на базе <a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B5%D0%B4%D0%B0%D0%B3%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%90._%D0%98._%D0%93%D0%B5%D1%80%D1%86%D0%B5%D0%BD%D0%B0" title="Российский государственный педагогический университет имени А. И. Герцена">РГПУ имени А. И. Герцена</a><sup class="reference" id="cite_ref-27"><a href="#cite_note-27">[26]</a></sup>.
+</td></tr>
+<tr>
+<td>XIX</td>
+<td>6—12 апреля <a href="/wiki/2014_%D0%B3%D0%BE%D0%B4" title="2014 год">2014</a></td>
+<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Coat_of_Arms_of_Kislovodsk_(Stavropol_kray).png"><img class="mw-file-element" data-file-height="262" data-file-width="200" decoding="async" height="26" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Coat_of_Arms_of_Kislovodsk_%28Stavropol_kray%29.png/20px-Coat_of_Arms_of_Kislovodsk_%28Stavropol_kray%29.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Coat_of_Arms_of_Kislovodsk_%28Stavropol_kray%29.png/30px-Coat_of_Arms_of_Kislovodsk_%28Stavropol_kray%29.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Coat_of_Arms_of_Kislovodsk_%28Stavropol_kray%29.png/40px-Coat_of_Arms_of_Kislovodsk_%28Stavropol_kray%29.png 2x" width="20"/></a></span> <a href="/wiki/%D0%9A%D0%B8%D1%81%D0%BB%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D0%BA" title="Кисловодск">Кисловодск</a></td>
+<td>Олимпиада проходила на базе <a href="/wiki/%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BE-%D0%9A%D0%B0%D0%B2%D0%BA%D0%B0%D0%B7%D1%81%D0%BA%D0%B8%D0%B9_%D1%84%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82" title="Северо-Кавказский федеральный университет">Северо-Кавказского федерального университета</a><sup class="reference" id="cite_ref-28"><a href="#cite_note-28">[27]</a></sup>.
+</td></tr>
+<tr>
+<td>XX
+</td>
+<td>17—23 апреля <a href="/wiki/2015_%D0%B3%D0%BE%D0%B4" title="2015 год">2015</a></td>
+<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Coat_of_Arms_of_Sochi_(Krasnodar_krai).svg"><img class="mw-file-element" data-file-height="650" data-file-width="550" decoding="async" height="24" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Coat_of_Arms_of_Sochi_%28Krasnodar_krai%29.svg/20px-Coat_of_Arms_of_Sochi_%28Krasnodar_krai%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Coat_of_Arms_of_Sochi_%28Krasnodar_krai%29.svg/30px-Coat_of_Arms_of_Sochi_%28Krasnodar_krai%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/19/Coat_of_Arms_of_Sochi_%28Krasnodar_krai%29.svg/40px-Coat_of_Arms_of_Sochi_%28Krasnodar_krai%29.svg.png 2x" width="20"/></a></span> <a href="/wiki/%D0%A1%D0%BE%D1%87%D0%B8" title="Сочи">Сочи</a></td>
+<td>Олимпиада проходила на базе <a href="/wiki/%D0%9A%D1%83%D0%B1%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82" title="Кубанский государственный университет">Кубанского государственного университета</a>.
+</td></tr>
+<tr>
+<td>XXI
+</td>
+<td>16—22 апреля <a href="/wiki/2016_%D0%B3%D0%BE%D0%B4" title="2016 год">2016</a></td>
+<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Coat_of_Arms_of_Kursk.png"><img class="mw-file-element" data-file-height="217" data-file-width="175" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Coat_of_Arms_of_Kursk.png/20px-Coat_of_Arms_of_Kursk.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Coat_of_Arms_of_Kursk.png/30px-Coat_of_Arms_of_Kursk.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/44/Coat_of_Arms_of_Kursk.png/40px-Coat_of_Arms_of_Kursk.png 2x" width="20"/></a></span> <a href="/wiki/%D0%9A%D1%83%D1%80%D1%81%D0%BA" title="Курск">Курск</a></td>
+<td>Олимпиада проходила на базе <a href="/wiki/%D0%9A%D1%83%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82" title="Курский государственный университет">Курского государственного университета</a><sup class="reference" id="cite_ref-29"><a href="#cite_note-29">[28]</a></sup>.
+</td></tr>
+<tr>
+<td>XXII
+</td>
+<td>17—23 апреля <a href="/wiki/2017_%D0%B3%D0%BE%D0%B4" title="2017 год">2017</a></td>
+<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Smolensk_COA_(Smolensk_Governorate)_(1780).png"><img class="mw-file-element" data-file-height="209" data-file-width="174" decoding="async" height="24" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Smolensk_COA_%28Smolensk_Governorate%29_%281780%29.png/20px-Smolensk_COA_%28Smolensk_Governorate%29_%281780%29.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Smolensk_COA_%28Smolensk_Governorate%29_%281780%29.png/30px-Smolensk_COA_%28Smolensk_Governorate%29_%281780%29.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Smolensk_COA_%28Smolensk_Governorate%29_%281780%29.png/40px-Smolensk_COA_%28Smolensk_Governorate%29_%281780%29.png 2x" width="20"/></a></span> <a href="/wiki/%D0%A1%D0%BC%D0%BE%D0%BB%D0%B5%D0%BD%D1%81%D0%BA" title="Смоленск">Смоленск</a></td>
+<td>Олимпиада проходила на базе <a href="/wiki/%D0%A1%D0%BC%D0%BE%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82" title="Смоленский государственный университет">Смоленского государственного университета</a><sup class="reference" id="cite_ref-30"><a href="#cite_note-30">[29]</a></sup>.
+</td></tr>
+<tr>
+<td>XXIII
+</td>
+<td>9—14 апреля <a href="/wiki/2018_%D0%B3%D0%BE%D0%B4" title="2018 год">2018</a></td>
+<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Coat_of_Arms_of_Veliky_Novgorod.svg"><img class="mw-file-element" data-file-height="898" data-file-width="738" decoding="async" height="24" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Coat_of_Arms_of_Veliky_Novgorod.svg/20px-Coat_of_Arms_of_Veliky_Novgorod.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Coat_of_Arms_of_Veliky_Novgorod.svg/30px-Coat_of_Arms_of_Veliky_Novgorod.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/34/Coat_of_Arms_of_Veliky_Novgorod.svg/40px-Coat_of_Arms_of_Veliky_Novgorod.svg.png 2x" width="20"/></a></span> <a href="/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D0%B9_%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4" title="Великий Новгород">Великий Новгород</a></td>
+<td>Олимпиада проходила на базе <a class="mw-redirect" href="/wiki/%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%B0_%D0%9C%D1%83%D0%B4%D1%80%D0%BE%D0%B3%D0%BE" title="Новгородский государственный университет имени Ярослава Мудрого">Новгородского государственного университета имени Ярослава Мудрого</a><sup class="reference" id="cite_ref-31"><a href="#cite_note-31">[30]</a></sup>.
+</td></tr>
+<tr>
+<td>XXIV
+</td>
+<td>1—6 апреля <a href="/wiki/2019_%D0%B3%D0%BE%D0%B4" title="2019 год">2019</a></td>
+<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Coat_of_arms_of_Moscow.svg"><img class="mw-file-element" data-file-height="663" data-file-width="558" decoding="async" height="24" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Coat_of_arms_of_Moscow.svg/20px-Coat_of_arms_of_Moscow.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Coat_of_arms_of_Moscow.svg/30px-Coat_of_arms_of_Moscow.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/17/Coat_of_arms_of_Moscow.svg/40px-Coat_of_arms_of_Moscow.svg.png 2x" width="20"/></a></span> <a href="/wiki/%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0" title="Москва">Москва</a></td>
+<td>Олимпиада проходила на базе <a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82_%D0%B4%D1%80%D1%83%D0%B6%D0%B1%D1%8B_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BE%D0%B2" title="Российский университет дружбы народов">РУДН</a><sup class="reference" id="cite_ref-32"><a href="#cite_note-32">[31]</a></sup>.
+</td></tr>
+<tr>
+<td>XXV
+</td>
+<td>7—14 апреля <a href="/wiki/2021_%D0%B3%D0%BE%D0%B4" title="2021 год">2021</a>
+</td>
+<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Coat_of_arms_of_Ufa.svg"><img class="mw-file-element" data-file-height="568" data-file-width="455" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Coat_of_arms_of_Ufa.svg/20px-Coat_of_arms_of_Ufa.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Coat_of_arms_of_Ufa.svg/30px-Coat_of_arms_of_Ufa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/46/Coat_of_arms_of_Ufa.svg/40px-Coat_of_arms_of_Ufa.svg.png 2x" width="20"/></a></span> <a href="/wiki/%D0%A3%D1%84%D0%B0" title="Уфа">Уфа</a>
+</td>
+<td>Олимпиада проходила на базе <a href="/wiki/%D0%91%D0%B0%D1%88%D0%BA%D0%B8%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B5%D0%B4%D0%B0%D0%B3%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%9C._%D0%90%D0%BA%D0%BC%D1%83%D0%BB%D0%BB%D1%8B" title="Башкирский государственный педагогический университет имени М. Акмуллы">БГПУ имени М. Акмуллы</a><sup class="reference" id="cite_ref-33"><a href="#cite_note-33">[32]</a></sup>.
+</td></tr>
+<tr>
+<td>XXVI
+</td>
+<td>10—17 апреля <a href="/wiki/2022_%D0%B3%D0%BE%D0%B4" title="2022 год">2022</a>
+</td>
+<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Coat_of_arms_of_Volgograd_city.svg"><img class="mw-file-element" data-file-height="598" data-file-width="512" decoding="async" height="23" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Coat_of_arms_of_Volgograd_city.svg/20px-Coat_of_arms_of_Volgograd_city.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Coat_of_arms_of_Volgograd_city.svg/30px-Coat_of_arms_of_Volgograd_city.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Coat_of_arms_of_Volgograd_city.svg/40px-Coat_of_arms_of_Volgograd_city.svg.png 2x" width="20"/></a></span> <a href="/wiki/%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%B4" title="Волгоград">Волгоград</a>
+</td>
+<td>Олимпиада проходила на базе <a href="/wiki/%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE-%D0%BF%D0%B5%D0%B4%D0%B0%D0%B3%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82" title="Волгоградский государственный социально-педагогический университет">Волгоградского государственного социально-педагогического университета</a><sup class="reference" id="cite_ref-34"><a href="#cite_note-34">[33]</a></sup>.
+</td></tr>
+<tr>
+<td>XXVII
+</td>
+<td>17—23 апреля <a href="/wiki/2023_%D0%B3%D0%BE%D0%B4" title="2023 год">2023</a>
+</td>
+<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Coat_of_Arms_of_Yekaterinburg_(Sverdlovsk_oblast).svg"><img class="mw-file-element" data-file-height="800" data-file-width="894" decoding="async" height="18" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Coat_of_Arms_of_Yekaterinburg_%28Sverdlovsk_oblast%29.svg/20px-Coat_of_Arms_of_Yekaterinburg_%28Sverdlovsk_oblast%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Coat_of_Arms_of_Yekaterinburg_%28Sverdlovsk_oblast%29.svg/30px-Coat_of_Arms_of_Yekaterinburg_%28Sverdlovsk_oblast%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Coat_of_Arms_of_Yekaterinburg_%28Sverdlovsk_oblast%29.svg/40px-Coat_of_Arms_of_Yekaterinburg_%28Sverdlovsk_oblast%29.svg.png 2x" width="20"/></a></span> <a href="/wiki/%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B1%D1%83%D1%80%D0%B3" title="Екатеринбург">Екатеринбург</a>
+</td>
+<td>Олимпиада проходила на базе МБОУ СОШ №1 г. Екатеринбург<sup class="reference" id="cite_ref-35"><a href="#cite_note-35">[34]</a></sup>.
+</td></tr></tbody></table>
+<p>В 2020 году финальный этап не был проведён<sup class="reference" id="cite_ref-36"><a href="#cite_note-36">[35]</a></sup>.
+</p><p>Поначалу в число внеконкурсных заданий, выполняемых участниками, входило устное монологическое выступление (II олимпиада) или аргументированный спор (III олимпиада). Позже, к примеру в рамках VI олимпиады<sup class="reference" id="cite_ref-VI_7-1"><a href="#cite_note-VI-7">[6]</a></sup>, проводился конкурс <i>«Юный златоуст»</i><sup class="reference" id="cite_ref-rosolymp_2-4"><a href="#cite_note-rosolymp-2">[2]</a></sup>, в ходе которого участники готовили устные выступления, в том числе о судьбах языка<sup class="reference" id="cite_ref-Олимп_9-1"><a href="#cite_note-Олимп-9">[8]</a></sup>. Иногда проходили конкурсы рефератов<sup class="reference" id="cite_ref-Скворцов_3-1"><a href="#cite_note-Скворцов-3">[3]</a></sup> (в частности, на VII олимпиаде конкурс был посвящён лингвистическому краеведению — биографиям языковедов и <a href="/wiki/%D0%94%D0%B8%D0%B0%D0%BB%D0%B5%D0%BA%D1%82" title="Диалект">местным особенностям</a> языка<sup class="reference" id="cite_ref-Боряева_37-0"><a href="#cite_note-Боряева-37">[36]</a></sup>). Внеконкурсные задания отличались разнообразием: так, на VII олимпиаде были проведены конкурсы по выбору гимна и герба соревнования<sup class="reference" id="cite_ref-Боряева_37-1"><a href="#cite_note-Боряева-37">[36]</a></sup>. С десятой по тринадцатую олимпиады проводился устный тур.
+</p>
+<table class="wikitable collapsible center collapsed">
+<tbody><tr>
+<th colspan="6">Статистика заключительных этапов олимпиад
+</th></tr>
+<tr>
+<th>Олимпиада</th>
+<th>Класс</th>
+<th>Число участников</th>
+<th>Дипломы I степени</th>
+<th>Дипломы II степени</th>
+<th>Дипломы III степени
+</th></tr>
+<tr bgcolor="#FFF8DC">
+<th rowspan="3"><b>VI</b><sup class="reference" id="cite_ref-VI_7-2"><a href="#cite_note-VI-7">[6]</a></sup>
+</th>
+<td>9</td>
+<td>58</td>
+<td>0</td>
+<td>2</td>
+<td>3
+</td></tr>
+<tr bgcolor="#E0FFFF">
+<td>10</td>
+<td>61</td>
+<td>1</td>
+<td>2</td>
+<td>3
+</td></tr>
+<tr>
+<td>11</td>
+<td>59</td>
+<td>2</td>
+<td>2</td>
+<td>3
+</td></tr>
+<tr bgcolor="#FFF8DC">
+<th rowspan="3"><b>VII</b><sup class="reference" id="cite_ref-VII_10-1"><a href="#cite_note-VII-10">[9]</a></sup>
+</th>
+<td>9</td>
+<td></td>
+<td>1</td>
+<td>2</td>
+<td>2
+</td></tr>
+<tr bgcolor="#E0FFFF">
+<td>10</td>
+<td></td>
+<td>1</td>
+<td>0</td>
+<td>3
+</td></tr>
+<tr>
+<td>11</td>
+<td></td>
+<td>2</td>
+<td>2</td>
+<td>3
+</td></tr>
+<tr bgcolor="#FFF8DC">
+<th rowspan="3"><b>IX</b><sup class="reference" id="cite_ref-IX_14-1"><a href="#cite_note-IX-14">[13]</a></sup>
+</th>
+<td>9</td>
+<td></td>
+<td>2</td>
+<td>2</td>
+<td>2
+</td></tr>
+<tr bgcolor="#E0FFFF">
+<td>10</td>
+<td></td>
+<td>2</td>
+<td>2</td>
+<td>3
+</td></tr>
+<tr>
+<td>11</td>
+<td></td>
+<td>3</td>
+<td>3</td>
+<td>3
+</td></tr>
+<tr bgcolor="#FFF8DC">
+<th rowspan="3"><b>X</b><sup class="reference" id="cite_ref-38"><a href="#cite_note-38">[37]</a></sup>
+</th>
+<td>9</td>
+<td></td>
+<td>3</td>
+<td>3</td>
+<td>4
+</td></tr>
+<tr bgcolor="#E0FFFF">
+<td>10</td>
+<td></td>
+<td>3</td>
+<td>3</td>
+<td>5
+</td></tr>
+<tr>
+<td>11</td>
+<td></td>
+<td>4</td>
+<td>3</td>
+<td>3
+</td></tr>
+<tr bgcolor="#FFF8DC">
+<th rowspan="3"><b>XI</b><sup class="reference" id="cite_ref-39"><a href="#cite_note-39">[38]</a></sup>
+</th>
+<td>9</td>
+<td></td>
+<td>4</td>
+<td>6</td>
+<td>10
+</td></tr>
+<tr bgcolor="#E0FFFF">
+<td>10</td>
+<td></td>
+<td>6</td>
+<td>13</td>
+<td>20
+</td></tr>
+<tr>
+<td>11</td>
+<td></td>
+<td>8</td>
+<td>18</td>
+<td>25
+</td></tr>
+<tr bgcolor="#FFF8DC">
+<th rowspan="3"><b>XII</b><sup class="reference" id="cite_ref-40"><a href="#cite_note-40">[39]</a></sup>
+</th>
+<td>9</td>
+<td></td>
+<td>4</td>
+<td>8</td>
+<td>8
+</td></tr>
+<tr bgcolor="#E0FFFF">
+<td>10</td>
+<td>100</td>
+<td>4</td>
+<td>6</td>
+<td>10
+</td></tr>
+<tr>
+<td>11</td>
+<td></td>
+<td>5</td>
+<td>13</td>
+<td>20
+</td></tr>
+<tr bgcolor="#FFF8DC">
+<th rowspan="3"><b>XIII</b><sup class="reference" id="cite_ref-XIII_20-1"><a href="#cite_note-XIII-20">[19]</a></sup>
+</th>
+<td>9</td>
+<td>83</td>
+<td>5</td>
+<td>10</td>
+<td>15
+</td></tr>
+<tr bgcolor="#E0FFFF">
+<td>10</td>
+<td>104</td>
+<td>4</td>
+<td>6</td>
+<td>11
+</td></tr>
+<tr>
+<td>11</td>
+<td>110</td>
+<td>5</td>
+<td>10</td>
+<td>15
+</td></tr>
+<tr bgcolor="#FFF8DC">
+<th rowspan="2"><b>XIV</b><sup class="reference" id="cite_ref-41"><a href="#cite_note-41">[40]</a></sup>
+</th>
+<td>9</td>
+<td></td>
+<td>4</td>
+<td colspan="2">10<sup class="reference" id="cite_ref-42"><a href="#cite_note-42">[пр. 2]</a></sup>
+</td></tr>
+<tr bgcolor="#E0FFFF">
+<td>10—11<sup class="reference" id="cite_ref-43"><a href="#cite_note-43">[пр. 3]</a></sup></td>
+<td></td>
+<td>10</td>
+<td colspan="2">37
+</td></tr>
+<tr bgcolor="#FFF8DC">
+<th rowspan="3"><b>XV</b><sup class="reference" id="cite_ref-XV_23-1"><a href="#cite_note-XV-23">[22]</a></sup><sup class="reference" id="cite_ref-XVа_44-0"><a href="#cite_note-XVа-44">[41]</a></sup>
+</th>
+<td>9</td>
+<td>54</td>
+<td>3</td>
+<td colspan="2">14
+</td></tr>
+<tr bgcolor="#E0FFFF">
+<td>10</td>
+<td>70</td>
+<td>4</td>
+<td colspan="2">19
+</td></tr>
+<tr>
+<td>11</td>
+<td>63</td>
+<td>9</td>
+<td colspan="2">24
+</td></tr>
+<tr bgcolor="#FFF8DC">
+<th rowspan="3"><b>XVI</b>
+</th>
+<td>9<sup class="reference" id="cite_ref-45"><a href="#cite_note-45">[42]</a></sup></td>
+<td>46</td>
+<td>2</td>
+<td colspan="2">14
+</td></tr>
+<tr bgcolor="#E0FFFF">
+<td>10<sup class="reference" id="cite_ref-46"><a href="#cite_note-46">[43]</a></sup></td>
+<td>70</td>
+<td>7</td>
+<td colspan="2">21
+</td></tr>
+<tr>
+<td>11<sup class="reference" id="cite_ref-47"><a href="#cite_note-47">[44]</a></sup></td>
+<td>95</td>
+<td>7</td>
+<td colspan="2">22
+</td></tr>
+<tr bgcolor="#FFF8DC">
+<th rowspan="3"><b>XIX</b><sup class="reference" id="cite_ref-48"><a href="#cite_note-48">[45]</a></sup>
+</th>
+<td>9</td>
+<td>65</td>
+<td>4</td>
+<td colspan="2">15
+</td></tr>
+<tr bgcolor="#E0FFFF">
+<td>10</td>
+<td>84</td>
+<td>8</td>
+<td colspan="2">14
+</td></tr>
+<tr>
+<td>11</td>
+<td>72</td>
+<td>5</td>
+<td colspan="2">20
+</td></tr></tbody></table>
+<h2><span id=".D0.AD.D1.82.D0.B0.D0.BF.D1.8B_.D0.BE.D0.BB.D0.B8.D0.BC.D0.BF.D0.B8.D0.B0.D0.B4.D1.8B"></span><span class="mw-headline" id="Этапы_олимпиады">Этапы олимпиады</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D1%8F%D0%B7%D1%8B%D0%BA%D1%83&amp;veaction=edit&amp;section=3" title="Редактировать раздел «Этапы олимпиады»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D1%8F%D0%B7%D1%8B%D0%BA%D1%83&amp;action=edit&amp;section=3" title="Редактировать код раздела «Этапы олимпиады»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable dabhide">См. также: <a href="/wiki/%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2#Этапы_проведения_олимпиады" title="Всероссийская олимпиада школьников">Всероссийская олимпиада школьников § Этапы проведения олимпиады</a></div>
+<p>Согласно Положению о Всероссийской олимпиаде школьников<sup class="reference" id="cite_ref-Положение_49-0"><a href="#cite_note-Положение-49">[46]</a></sup>, выделяются следующие <b>этапы олимпиады</b>:
+</p>
+<ul><li>школьный — организуется образовательными учреждениями; проводится в октябре; участие в нём могут принимать желающие учащиеся 5—11 классов образовательных учреждений;</li>
+<li>муниципальный — организуется органами <a href="/wiki/%D0%9C%D0%B5%D1%81%D1%82%D0%BD%D0%BE%D0%B5_%D1%81%D0%B0%D0%BC%D0%BE%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5" title="Местное самоуправление">местного самоуправления</a> в сфере образования; проводится в ноябре — декабре; участие в нём могут принимать учащиеся 7—11 классов образовательных учреждений, ставшие победителями и призёрами предыдущего этапа;</li>
+<li>региональный — организуется органами государственной власти субъектов Российской Федерации в сфере образования; проводится в январе — феврале; участие в нём могут принимать учащиеся 9—11 классов образовательных учреждений, ставшие победителями и призёрами предыдущего этапа;</li>
+<li>заключительный — организуется Федеральным агентством по образованию; проводится в апреле; помимо победителей и призёров предыдущего этапа олимпиады, в заключительном этапе принимают участие победители и призёры заключительного этапа прошлого года, если они по-прежнему обучаются в образовательных учреждениях.</li></ul>
+<h3><span id=".D0.97.D0.B0.D0.BA.D0.BB.D1.8E.D1.87.D0.B8.D1.82.D0.B5.D0.BB.D1.8C.D0.BD.D1.8B.D0.B9_.D1.8D.D1.82.D0.B0.D0.BF"></span><span class="mw-headline" id="Заключительный_этап">Заключительный этап</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D1%8F%D0%B7%D1%8B%D0%BA%D1%83&amp;veaction=edit&amp;section=4" title="Редактировать раздел «Заключительный этап»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D1%8F%D0%B7%D1%8B%D0%BA%D1%83&amp;action=edit&amp;section=4" title="Редактировать код раздела «Заключительный этап»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81%D0%B0_%D0%B7%D0%BD%D0%B0%D1%82%D0%BE%D0%BA%D0%BE%D0%B2-2007.jpg"><img class="mw-file-element" data-file-height="601" data-file-width="900" decoding="async" height="184" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81%D0%B0_%D0%B7%D0%BD%D0%B0%D1%82%D0%BE%D0%BA%D0%BE%D0%B2-2007.jpg/275px-%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81%D0%B0_%D0%B7%D0%BD%D0%B0%D1%82%D0%BE%D0%BA%D0%BE%D0%B2-2007.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81%D0%B0_%D0%B7%D0%BD%D0%B0%D1%82%D0%BE%D0%BA%D0%BE%D0%B2-2007.jpg/413px-%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81%D0%B0_%D0%B7%D0%BD%D0%B0%D1%82%D0%BE%D0%BA%D0%BE%D0%B2-2007.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a0/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81%D0%B0_%D0%B7%D0%BD%D0%B0%D1%82%D0%BE%D0%BA%D0%BE%D0%B2-2007.jpg/550px-%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81%D0%B0_%D0%B7%D0%BD%D0%B0%D1%82%D0%BE%D0%BA%D0%BE%D0%B2-2007.jpg 2x" width="275"/></a><figcaption>Участники финального тура конкурса знатоков русского языка XII Всероссийской олимпиады школьников по русскому языку. Справа от участников — члены Центральной методической комиссии олимпиады: <i>Андрей Владимирович Григорьев</i><sup class="reference" id="cite_ref-50"><a href="#cite_note-50">[47]</a></sup> (у микрофона) и <i><a class="new" href="/w/index.php?title=%D0%94%D0%B5%D0%BC%D0%B8%D0%B4%D0%BE%D0%B2,_%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87&amp;action=edit&amp;redlink=1" title="Демидов, Дмитрий Григорьевич (страница отсутствует)">Дмитрий Григорьевич Демидов</a></i>. Великий Новгород, <a href="/wiki/20_%D0%B0%D0%BF%D1%80%D0%B5%D0%BB%D1%8F" title="20 апреля">20 апреля</a> 2007 года</figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%9A%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81_%D0%B7%D0%BD%D0%B0%D1%82%D0%BE%D0%BA%D0%BE%D0%B2.JPG"><img class="mw-file-element" data-file-height="768" data-file-width="1024" decoding="async" height="206" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/%D0%9A%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81_%D0%B7%D0%BD%D0%B0%D1%82%D0%BE%D0%BA%D0%BE%D0%B2.JPG/275px-%D0%9A%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81_%D0%B7%D0%BD%D0%B0%D1%82%D0%BE%D0%BA%D0%BE%D0%B2.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/%D0%9A%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81_%D0%B7%D0%BD%D0%B0%D1%82%D0%BE%D0%BA%D0%BE%D0%B2.JPG/413px-%D0%9A%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81_%D0%B7%D0%BD%D0%B0%D1%82%D0%BE%D0%BA%D0%BE%D0%B2.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/%D0%9A%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81_%D0%B7%D0%BD%D0%B0%D1%82%D0%BE%D0%BA%D0%BE%D0%B2.JPG/550px-%D0%9A%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81_%D0%B7%D0%BD%D0%B0%D1%82%D0%BE%D0%BA%D0%BE%D0%B2.JPG 2x" width="275"/></a><figcaption>Финальный тур конкурса знатоков русского языка XIII Всероссийской олимпиады школьников по русскому языку. Кисловодск, <a href="/wiki/12_%D0%B0%D0%BF%D1%80%D0%B5%D0%BB%D1%8F" title="12 апреля">12 апреля</a> 2008 года</figcaption></figure>
+<p>До 2008 года заключительный этап олимпиады состоял из двух туров:
+</p>
+<ul><li><b>первый тур</b> — письменный. Предполагал выполнение заданий, связанных с пониманием конкретных фактов языка и проявлением творческих способностей, включал в себя блок заданий по истории и современному состоянию языка, а также перевод <a href="/wiki/%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B5%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Древнерусский язык">древнерусского</a> текста и написание эссе;</li>
+<li><b>второй тур</b> — устный. Проверял «умение создавать устное аргументированное высказывание на предложенную тему»<sup class="reference" id="cite_ref-rosolymp_2-5"><a href="#cite_note-rosolymp-2">[2]</a></sup>. Победители и призёры олимпиады определялись раздельно среди участников — учащихся 9, 10, 11 классов.</li></ul>
+<p>В 2009 году структура заключительного этапа изменилась. Все задания требовали исключительно письменного выполнения, первый тур олимпиады проводился в течение одного дня<sup class="reference" id="cite_ref-51"><a href="#cite_note-51">[48]</a></sup>, а не двух, как ранее. Среди участников из 10 и 11 классов проводился общий конкурс. В регламент олимпиады была введена процедура <i>апелляции</i> по результатам проверки заданий, сформирована апелляционная комиссия. Тем не менее, было сохранено существовавшее ранее  положение о том, что участники не «отсеиваются» по результатам I тура<sup class="reference" id="cite_ref-Регламент_5-1"><a href="#cite_note-Регламент-5">[5]</a></sup>.
+</p><p>Существуют и дополнительные конкурсы, не связанные с основным состязанием — <i>конкурс знатоков русского языка</i>, включающий в себя нестандартные лингвистические задания и проводимый в два тура, и <i>конкурс поэтов</i> (в 2009 году проведён не был, однако состоялся <i>конкурс чтецов</i><sup class="reference" id="cite_ref-rosolymp_2-6"><a href="#cite_note-rosolymp-2">[2]</a></sup>). Участие в них не является обязательным. Отмечается, что в 2013 году интерес участников к обоим конкурсам охладел<sup class="reference" id="cite_ref-52"><a href="#cite_note-52">[49]</a></sup>. В 2014 году конкурс поэтов не проводился, а «Конкурс знатоков русского языка» прошёл в новом формате (в один тур, при этом очерёдность вопросов, которые были поделены на 2 группы по степени сложности, выбирали сами школьники) и вновь вызвал повышенный интерес у участников<sup class="reference" id="cite_ref-53"><a href="#cite_note-53">[50]</a></sup>.
+</p><p>На олимпиадах последних лет проводится ставший уже традиционным конкурс «Скобовтык». Скобовтык — это русский аналог слова «<a href="/wiki/%D0%A1%D1%82%D0%B5%D0%BF%D0%BB%D0%B5%D1%80" title="Степлер">степлер</a>». Собственно, суть конкурса и состоит в составлении русских аналогов предложенным словам. К примеру, на XX, юбилейной, олимпиаде в Сочи участникам предлагалось заменить русскими аналогами слова «<a href="/wiki/%D0%A5%D0%B8%D0%BF%D1%81%D1%82%D0%B5%D1%80%D1%8B" title="Хипстеры">хипстер</a>» и «<a href="/wiki/%D0%A4%D0%BB%D0%B5%D1%88%D0%BC%D0%BE%D0%B1" title="Флешмоб">флешмоб</a>». Из многочисленных остроумных вариантов были выбраны лучшие. Николай Филиппов (Москва) предложил аналог «хипстеру» — «брадынебрей», а Алина Дабаева из Северной Осетии для слова «флешмоб» предложила варианты: «вместепрыг», «хоромтоп», «разомдвиг».
+</p><p>Отборочный тур конкурса знатоков русского языка проводится в письменной форме. Участие в нём могут принять 1—2 представителя от каждого региона<sup class="reference" id="cite_ref-Регламент_5-2"><a href="#cite_note-Регламент-5">[5]</a></sup>. На финальный тур приглашаются участники письменного, проявившие себя лучше других (15—20 школьников). Прочие участники конкурса, а также другие представители команд регионов и сопровождающие могут наблюдать за проведением финального тура из зрительного зала.
+</p><p>Помимо участия в названных конкурсах, для школьников традиционно организуется экскурсионная программа, для сопровождающих проводятся круглые столы. Также производится разбор заданий олимпиады с разъяснением критериев оценки и представлением верных вариантов выполнения заданий<sup class="reference" id="cite_ref-Регламент_5-3"><a href="#cite_note-Регламент-5">[5]</a></sup>.
+</p>
+<h2><span id=".D0.97.D0.B0.D0.B4.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Задания">Задания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D1%8F%D0%B7%D1%8B%D0%BA%D1%83&amp;veaction=edit&amp;section=5" title="Редактировать раздел «Задания»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D1%8F%D0%B7%D1%8B%D0%BA%D1%83&amp;action=edit&amp;section=5" title="Редактировать код раздела «Задания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id=".D0.A8.D0.BA.D0.BE.D0.BB.D1.8C.D0.BD.D1.8B.D0.B9_.D1.8D.D1.82.D0.B0.D0.BF"></span><span class="mw-headline" id="Школьный_этап">Школьный этап</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D1%8F%D0%B7%D1%8B%D0%BA%D1%83&amp;veaction=edit&amp;section=6" title="Редактировать раздел «Школьный этап»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D1%8F%D0%B7%D1%8B%D0%BA%D1%83&amp;action=edit&amp;section=6" title="Редактировать код раздела «Школьный этап»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Задания школьного этапа олимпиады разрабатываются предметно-методическими комиссиями муниципального этапа с учётом методических рекомендаций Центральной методической комиссии<sup class="reference" id="cite_ref-Положение_49-1"><a href="#cite_note-Положение-49">[46]</a></sup>.
+</p>
+<h3><span id=".D0.9C.D1.83.D0.BD.D0.B8.D1.86.D0.B8.D0.BF.D0.B0.D0.BB.D1.8C.D0.BD.D1.8B.D0.B9_.D1.8D.D1.82.D0.B0.D0.BF"></span><span class="mw-headline" id="Муниципальный_этап">Муниципальный этап</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D1%8F%D0%B7%D1%8B%D0%BA%D1%83&amp;veaction=edit&amp;section=7" title="Редактировать раздел «Муниципальный этап»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D1%8F%D0%B7%D1%8B%D0%BA%D1%83&amp;action=edit&amp;section=7" title="Редактировать код раздела «Муниципальный этап»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Задания муниципального этапа разрабатываются предметно-методическими комиссиями регионального этапа с учётом методических рекомендаций Центральной методической комиссии<sup class="reference" id="cite_ref-Положение_49-2"><a href="#cite_note-Положение-49">[46]</a></sup>. Данные рекомендации гласят, что в процессе выполнения заданий школьного этапа учащиеся должны продемонстрировать знания в области <a href="/wiki/%D0%9E%D1%80%D1%84%D0%BE%D1%8D%D0%BF%D0%B8%D1%8F" title="Орфоэпия">орфоэпии</a> и <a href="/wiki/%D0%9E%D1%80%D1%84%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F" title="Орфография">орфографии</a>, <a href="/wiki/%D0%A1%D0%B5%D0%BC%D0%B0%D0%BD%D1%82%D0%B8%D0%BA%D0%B0" title="Семантика">семантики</a>, <a href="/wiki/%D0%A4%D1%80%D0%B0%D0%B7%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Фразеология">фразеологии</a>, <a href="/wiki/%D0%9C%D0%BE%D1%80%D1%84%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F_(%D0%BB%D0%B8%D0%BD%D0%B3%D0%B2%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0)" title="Морфология (лингвистика)">морфологии</a> и <a href="/wiki/%D0%A1%D0%B8%D0%BD%D1%82%D0%B0%D0%BA%D1%81%D0%B8%D1%81" title="Синтаксис">синтаксиса</a> русского языка, истории русского <a class="mw-redirect" href="/wiki/%D0%AF%D0%B7%D1%8B%D0%BA%D0%BE%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B5" title="Языкознание">языкознания</a>, а также творческие способности. В число заданий могут включаться тесты, <a href="/wiki/%D0%9B%D0%B8%D0%BD%D0%B3%D0%B2%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0" title="Лингвистическая задача">лингвистические задачи</a>, анализ текста. По уровню сложности задания «опираются на школьную программу»<sup class="reference" id="cite_ref-54"><a href="#cite_note-54">[51]</a></sup>.
+</p><p>Методическими рекомендациями по разработке требований к проведению школьного и муниципального этапов всероссийской олимпиады школьников по русскому языку в 2010/2011 учебном году допускалось проведение в рамках школьного и муниципального этапов олимпиады дополнительных соревнований, таких как конкурсы ораторов, турниры поэтов, защита рефератов, не влияющих на результаты олимпиады<sup class="reference" id="cite_ref-55"><a href="#cite_note-55">[52]</a></sup>.
+</p>
+<h3><span id=".D0.A0.D0.B5.D0.B3.D0.B8.D0.BE.D0.BD.D0.B0.D0.BB.D1.8C.D0.BD.D1.8B.D0.B9_.D1.8D.D1.82.D0.B0.D0.BF"></span><span class="mw-headline" id="Региональный_этап">Региональный этап</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D1%8F%D0%B7%D1%8B%D0%BA%D1%83&amp;veaction=edit&amp;section=8" title="Редактировать раздел «Региональный этап»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D1%8F%D0%B7%D1%8B%D0%BA%D1%83&amp;action=edit&amp;section=8" title="Редактировать код раздела «Региональный этап»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Задания регионального этапа разрабатываются непосредственно Центральной методической комиссией по русскому языку Всероссийской олимпиады школьников<sup class="reference" id="cite_ref-Положение_49-3"><a href="#cite_note-Положение-49">[46]</a></sup>.
+</p><p>В 2008/2009 <a href="/wiki/%D0%A3%D1%87%D0%B5%D0%B1%D0%BD%D1%8B%D0%B9_%D0%B3%D0%BE%D0%B4" title="Учебный год">учебном году</a> инструкция по проведению регионального этапа предписывала провести соревнование в один тур продолжительностью в четыре <a href="/wiki/%D0%90%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%87%D0%B0%D1%81" title="Академический час">академических часа</a> по 11 заданиям. Задания были ориентированы на проверку знания материала школьной программы, а также выявление лингвистической эрудиции, языковой интуиции, навыков логического рассуждения. Проверка работ должна была осуществляться группами по 2 члена жюри на каждое задание, в спорных случаях обращающимися к председателю жюри<sup class="reference" id="cite_ref-56"><a href="#cite_note-56">[53]</a></sup>.
+</p>
+<h3><span id=".D0.97.D0.B0.D0.BA.D0.BB.D1.8E.D1.87.D0.B8.D1.82.D0.B5.D0.BB.D1.8C.D0.BD.D1.8B.D0.B9_.D1.8D.D1.82.D0.B0.D0.BF_2"></span><span class="mw-headline" id="Заключительный_этап_2">Заключительный этап</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D1%8F%D0%B7%D1%8B%D0%BA%D1%83&amp;veaction=edit&amp;section=9" title="Редактировать раздел «Заключительный этап»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D1%8F%D0%B7%D1%8B%D0%BA%D1%83&amp;action=edit&amp;section=9" title="Редактировать код раздела «Заключительный этап»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Задания заключительного этапа разрабатываются Центральной методической комиссией по русскому языку<sup class="reference" id="cite_ref-Положение_49-4"><a href="#cite_note-Положение-49">[46]</a></sup>.
+</p><p>В 2009 году заключительный этап состоял из 2 туров продолжительностью по 4 академических часа. Первый тур для учащихся 9-х классов состоял из 11 заданий, для учащихся 10—11 классов — из 12 заданий. Второй тур включал в себя перевод текста из произведений <a href="/wiki/%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B5%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0" title="Древнерусская литература">древнерусской литературы</a> и написание эссе. Процедура проверки была аналогична описанной выше для регионального этапа, при этом для оценки каждого задания использовалась заранее разработанная шкала. Результаты туров суммировались<sup class="reference" id="cite_ref-Регламент_5-4"><a href="#cite_note-Регламент-5">[5]</a></sup>.
+</p>
+<h2><span id=".D0.92.D0.BB.D0.B8.D1.8F.D0.BD.D0.B8.D0.B5_.D0.BE.D0.BB.D0.B8.D0.BC.D0.BF.D0.B8.D0.B0.D0.B4.D1.8B"></span><span class="mw-headline" id="Влияние_олимпиады">Влияние олимпиады</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D1%8F%D0%B7%D1%8B%D0%BA%D1%83&amp;veaction=edit&amp;section=10" title="Редактировать раздел «Влияние олимпиады»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D1%8F%D0%B7%D1%8B%D0%BA%D1%83&amp;action=edit&amp;section=10" title="Редактировать код раздела «Влияние олимпиады»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable dabhide">См. также: <a href="/wiki/%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2#Влияние" title="Всероссийская олимпиада школьников">Всероссийская олимпиада школьников § Влияние</a></div>
+<p>Поскольку русский язык включён в перечень предметов, по которым проводятся всероссийские олимпиады школьников<sup class="reference" id="cite_ref-Перечень_1-1"><a href="#cite_note-Перечень-1">[1]</a></sup>, победители и призёры заключительного этапа олимпиады <i>без вступительных испытаний</i> принимаются в государственные и муниципальные образовательные учреждения среднего и высшего профессионального образования в соответствии с профилем олимпиады<sup class="reference" id="cite_ref-Положение_49-5"><a href="#cite_note-Положение-49">[46]</a></sup>, а также награждаются премиями для поддержки талантливой молодёжи в рамках <a href="/wiki/%D0%9F%D1%80%D0%B8%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D1%82%D0%BD%D1%8B%D0%B5_%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B" title="Приоритетные национальные проекты">приоритетного национального проекта</a> «Образование»<sup class="reference" id="cite_ref-57"><a href="#cite_note-57">[54]</a></sup>. Один из авторов концепции заключительного этапа олимпиады Л. И. Скворцов отмечает<sup class="reference" id="cite_ref-Скворцов_3-2"><a href="#cite_note-Скворцов-3">[3]</a></sup>, что многие старшеклассники, удостоенные дипломов олимпиады, продолжают обучение по <a href="/wiki/%D0%A4%D0%B8%D0%BB%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Филология">филологическим</a> специальностям, а некоторые из них участвуют в проведении олимпиад уже в качестве руководителей делегаций регионов.
+</p>
+<h2><span id=".D0.9F.D0.B5.D1.80.D1.81.D0.BE.D0.BD.D0.B0.D0.BB.D0.B8.D0.B8"></span><span class="mw-headline" id="Персоналии">Персоналии</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D1%8F%D0%B7%D1%8B%D0%BA%D1%83&amp;veaction=edit&amp;section=11" title="Редактировать раздел «Персоналии»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D1%8F%D0%B7%D1%8B%D0%BA%D1%83&amp;action=edit&amp;section=11" title="Редактировать код раздела «Персоналии»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%90._%D0%9C._%D0%9A%D0%B0%D0%BC%D1%87%D0%B0%D1%82%D0%BD%D0%BE%D0%B2.jpg"><img class="mw-file-element" data-file-height="600" data-file-width="800" decoding="async" height="206" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/%D0%90._%D0%9C._%D0%9A%D0%B0%D0%BC%D1%87%D0%B0%D1%82%D0%BD%D0%BE%D0%B2.jpg/275px-%D0%90._%D0%9C._%D0%9A%D0%B0%D0%BC%D1%87%D0%B0%D1%82%D0%BD%D0%BE%D0%B2.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/%D0%90._%D0%9C._%D0%9A%D0%B0%D0%BC%D1%87%D0%B0%D1%82%D0%BD%D0%BE%D0%B2.jpg/413px-%D0%90._%D0%9C._%D0%9A%D0%B0%D0%BC%D1%87%D0%B0%D1%82%D0%BD%D0%BE%D0%B2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4d/%D0%90._%D0%9C._%D0%9A%D0%B0%D0%BC%D1%87%D0%B0%D1%82%D0%BD%D0%BE%D0%B2.jpg/550px-%D0%90._%D0%9C._%D0%9A%D0%B0%D0%BC%D1%87%D0%B0%D1%82%D0%BD%D0%BE%D0%B2.jpg 2x" width="275"/></a><figcaption><i>А. М. Камчатнов (слева)</i> осуществляет разбор одного из заданий XIII Всероссийской олимпиады школьников по русскому языку. Кисловодск, <a href="/wiki/13_%D0%B0%D0%BF%D1%80%D0%B5%D0%BB%D1%8F" title="13 апреля">13 апреля</a> 2008 года</figcaption></figure>
+<ul><li><i><a href="/wiki/%D0%A8%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%D0%BE%D0%B2%D0%B8%D1%87" title="Шанский, Николай Максимович">Николай Максимович Шанский</a></i> (1922—2005) — <a href="/wiki/%D0%94%D0%BE%D0%BA%D1%82%D0%BE%D1%80_%D0%BD%D0%B0%D1%83%D0%BA" title="Доктор наук">доктор филологических наук</a>, действительный член <a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%8F_%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F" title="Российская академия образования">РАО</a>, главный редактор журнала «<a class="mw-redirect" href="/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA_%D0%B2_%D1%88%D0%BA%D0%BE%D0%BB%D0%B5_(%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB)" title="Русский язык в школе (журнал)">Русский язык в школе</a>», один из инициаторов проведения олимпиады.</li>
+<li><i><a href="/wiki/%D0%A1%D0%BA%D0%B2%D0%BE%D1%80%D1%86%D0%BE%D0%B2,_%D0%9B%D0%B5%D0%B2_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87" title="Скворцов, Лев Иванович">Лев Иванович Скворцов</a></i> (1934—2014) — доктор филологических наук, профессор московского <a class="mw-redirect" href="/wiki/%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%BD%D1%8B%D0%B9_%D0%B8%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82_%D0%B8%D0%BC._%D0%90._%D0%9C._%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE" title="Литературный институт им. А. М. Горького">Литературного института имени А. М. Горького</a>, писатель<sup class="reference" id="cite_ref-58"><a href="#cite_note-58">[55]</a></sup>, председатель жюри I—X олимпиад<sup class="reference" id="cite_ref-Скворцов_3-3"><a href="#cite_note-Скворцов-3">[3]</a></sup>.</li>
+<li><i><a href="/wiki/%D0%9A%D0%B0%D0%BC%D1%87%D0%B0%D1%82%D0%BD%D0%BE%D0%B2,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B8%D1%87" title="Камчатнов, Александр Михайлович">Александр Михайлович Камчатнов</a></i> — заведующий кафедрой русского языка и стилистики ФГБОУ ВПО «Литературный институт имени А. М. Горького», доктор филологических наук, профессор<sup class="reference" id="cite_ref-autogenerated1_59-0"><a href="#cite_note-autogenerated1-59">[56]</a></sup>, председатель Центральной методической комиссии по русскому языку Всероссийской олимпиады школьников (2006—2010), председатель жюри Заключительного этапа Всероссийской олимпиады школьников по русскому языку (2006—2010). Является также редактором сборника материалов олимпиад 2003—2010 годов.</li>
+<li><i><a href="/wiki/%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2,_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B9_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Григорьев, Андрей Владимирович">Андрей Владимирович Григорьев</a></i> — профессор кафедры общего языкознания ФГБОУ ВПО «Московский педагогический государственный университет», доктор филологических наук<sup class="reference" id="cite_ref-autogenerated1_59-1"><a href="#cite_note-autogenerated1-59">[56]</a></sup>, председатель Центральной методической комиссии по русскому языку Всероссийской олимпиады школьников (с 2011 по настоящее время), председатель жюри Заключительного этапа Всероссийской олимпиады школьников по русскому языку (с 2011 по настоящее время). Является также редактором сборника материалов олимпиад с 2011 г.<sup class="reference" id="cite_ref-60"><a href="#cite_note-60">[57]</a></sup></li>
+<li><i>Лидия Макаровна Рыбченкова</i> — <a class="mw-redirect" href="/wiki/%D0%97%D0%B0%D1%81%D0%BB%D1%83%D0%B6%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%83%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Заслуженный учитель России">заслуженный учитель России</a>, заведующая редакцией русского языка издательства <a href="/wiki/%D0%9F%D1%80%D0%BE%D1%81%D0%B2%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_(%D0%B8%D0%B7%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE)" title="Просвещение (издательство)">«Просвещение»</a>, один из авторов учебника по русскому языку для 10—11 классов общеобразовательных школ, сборника экзаменационных материалов для 9-х классов<sup class="reference" id="cite_ref-61"><a href="#cite_note-61">[58]</a></sup>, член Центральной методической комиссии по русскому языку Всероссийской олимпиады школьников.</li></ul>
+<h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Примечания">Примечания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D1%8F%D0%B7%D1%8B%D0%BA%D1%83&amp;veaction=edit&amp;section=12" title="Редактировать раздел «Примечания»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D1%8F%D0%B7%D1%8B%D0%BA%D1%83&amp;action=edit&amp;section=12" title="Редактировать код раздела «Примечания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small" style="overflow:auto; padding:3px">
+<ol class="references">
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">Год, когда состоялся заключительный этап олимпиады.</span>
+</li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><a href="#cite_ref-42">↑</a></span> <span class="reference-text">Среди призёров не выделялись награждённые дипломами II и III степени.</span>
+</li>
+<li id="cite_note-43"><span class="mw-cite-backlink"><a href="#cite_ref-43">↑</a></span> <span class="reference-text">Среди участников из 10 и 11 классов проводился общий конкурс.</span>
+</li>
+</ol>
+</div>
+<h2><span id=".D0.98.D1.81.D1.82.D0.BE.D1.87.D0.BD.D0.B8.D0.BA.D0.B8"></span><span class="mw-headline" id="Источники">Источники</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D1%8F%D0%B7%D1%8B%D0%BA%D1%83&amp;veaction=edit&amp;section=13" title="Редактировать раздел «Источники»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D1%8F%D0%B7%D1%8B%D0%BA%D1%83&amp;action=edit&amp;section=13" title="Редактировать код раздела «Источники»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-Перечень-1"><span class="mw-cite-backlink">↑ <a href="#cite_ref-Перечень_1-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-Перечень_1-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><a class="external text" href="http://old.rosolymp.ru/file.asp?17316" rel="nofollow">Перечень общеобразовательных предметов, по которым проводится всероссийская олимпиада школьников</a> <small class="ref-info">(недоступная ссылка)</small>  <small class="ref-info" style="cursor:help;" title="Дата последней проверки этой ссылки">(Дата обращения: 27 мая 2010)</small></span>
+</li>
+<li id="cite_note-rosolymp-2"><span class="mw-cite-backlink">↑ <a href="#cite_ref-rosolymp_2-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-rosolymp_2-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-rosolymp_2-2"><sup><i><b>3</b></i></sup></a> <a href="#cite_ref-rosolymp_2-3"><sup><i><b>4</b></i></sup></a> <a href="#cite_ref-rosolymp_2-4"><sup><i><b>5</b></i></sup></a> <a href="#cite_ref-rosolymp_2-5"><sup><i><b>6</b></i></sup></a> <a href="#cite_ref-rosolymp_2-6"><sup><i><b>7</b></i></sup></a></span> <span class="reference-text"><a class="external text" href="http://old.rus.rosolymp.ru" rel="nofollow">Сайт Всероссийской олимпиады школьников по русскому языку</a> <a class="external text" href="https://web.archive.org/web/20101024204830/http://old.rus.rosolymp.ru/" rel="nofollow">Архивная копия</a> от 24 октября 2010 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>  <small class="ref-info" style="cursor:help;" title="Дата последней проверки этой ссылки">(Дата обращения: 27 мая 2010)</small></span>
+</li>
+<li id="cite_note-Скворцов-3"><span class="mw-cite-backlink">↑ <a href="#cite_ref-Скворцов_3-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-Скворцов_3-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-Скворцов_3-2"><sup><i><b>3</b></i></sup></a> <a href="#cite_ref-Скворцов_3-3"><sup><i><b>4</b></i></sup></a></span> <span class="reference-text"><i>Скворцов Л. И.</i> <a class="external text" href="http://old.rus.rosolymp.ru/default.asp?trID=527&amp;artID=10323&amp;x=5&amp;y=8" rel="nofollow">Как это начиналось. У истоков Всероссийской олимпиады школьников по русскому языку</a> <a class="external text" href="https://web.archive.org/web/20131005010430/http://old.rus.rosolymp.ru/default.asp?trID=527&amp;artID=10323&amp;x=5&amp;y=8" rel="nofollow">Архивная копия</a> от 5 октября 2013 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>  <small class="ref-info" style="cursor:help;" title="Дата последней проверки этой ссылки">(Дата обращения: 11 августа 2009)</small></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><i>Мосягина А.</i> <a class="external text" href="http://www.oryol.ru/material.php?id=6648" rel="nofollow">Всероссийская олимпиада школьников по русскому языку открылась в Орле</a>  <small class="ref-info" style="cursor:help;" title="Дата последней проверки этой ссылки">(Дата обращения: 16 сентября 2009)</small></span>
+</li>
+<li id="cite_note-Регламент-5"><span class="mw-cite-backlink">↑ <a href="#cite_ref-Регламент_5-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-Регламент_5-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-Регламент_5-2"><sup><i><b>3</b></i></sup></a> <a href="#cite_ref-Регламент_5-3"><sup><i><b>4</b></i></sup></a> <a href="#cite_ref-Регламент_5-4"><sup><i><b>5</b></i></sup></a></span> <span class="reference-text"><a class="external text" href="http://old.rus.rosolymp.ru/images/rus/Reglament_Russian_4stage_2009.zip" rel="nofollow">Регламент проведения заключительного этапа Всероссийской олимпиады школьников по русскому языку в 2009 году</a> <small class="ref-info">(недоступная ссылка)</small>  <small class="ref-info" style="cursor:help;" title="Дата последней проверки этой ссылки">(Дата обращения: 11 августа 2009)</small></span>
+</li>
+<li id="cite_note-VI-7"><span class="mw-cite-backlink">↑ <a href="#cite_ref-VI_7-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-VI_7-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-VI_7-2"><sup><i><b>3</b></i></sup></a></span> <span class="reference-text"><a class="external text" href="http://rus.1september.ru/2001/27/1.htm" rel="nofollow">О шестой олимпиаде</a> <a class="external text" href="https://web.archive.org/web/20091026115551/http://rus.1september.ru/2001/27/1.htm" rel="nofollow">Архивная копия</a> от 26 октября 2009 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>  <small class="ref-info" style="cursor:help;" title="Дата последней проверки этой ссылки">(Дата обращения: 11 августа 2009)</small></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><a class="external text" href="http://rus.1september.ru/2001/27/2_4.htm" rel="nofollow">Задания шестой олимпиады</a> <a class="external text" href="https://web.archive.org/web/20090310102639/http://rus.1september.ru/2001/27/2_4.htm" rel="nofollow">Архивная копия</a> от 10 марта 2009 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>  <small class="ref-info" style="cursor:help;" title="Дата последней проверки этой ссылки">(Дата обращения: 13 августа 2009)</small></span>
+</li>
+<li id="cite_note-Олимп-9"><span class="mw-cite-backlink">↑ <a href="#cite_ref-Олимп_9-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-Олимп_9-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><i>Банникова Т.</i> <a class="external text" href="http://rv.ryazan.ru/old/cgi-bin/main-n=1080&amp;m=10.htm" rel="nofollow">Филологический олимп</a> <a class="external text" href="https://web.archive.org/web/20090903133407/http://rv.ryazan.ru/old/cgi-bin/main-n%3D1080%26m%3D10.htm" rel="nofollow">Архивная копия</a> от 3 сентября 2009 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>  <small class="ref-info" style="cursor:help;" title="Дата последней проверки этой ссылки">(Дата обращения: 11 августа 2009)</small></span>
+</li>
+<li id="cite_note-VII-10"><span class="mw-cite-backlink">↑ <a href="#cite_ref-VII_10-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-VII_10-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><a class="external text" href="http://rus.1september.ru/2002/22/1.htm" rel="nofollow">О седьмой олимпиаде</a> <a class="external text" href="https://web.archive.org/web/20091026144146/http://rus.1september.ru/2002/22/1.htm" rel="nofollow">Архивная копия</a> от 26 октября 2009 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>  <small class="ref-info" style="cursor:help;" title="Дата последней проверки этой ссылки">(Дата обращения: 11 августа 2009)</small></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.vesti.ru/doc.html?id=24393" rel="nofollow">О восьмой олимпиаде</a> <a class="external text" href="https://web.archive.org/web/20140803051748/http://www.vesti.ru/doc.html?id=24393" rel="nofollow">Архивная копия</a> от 3 августа 2014 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. <a href="/wiki/%D0%92%D0%B5%D1%81%D1%82%D0%B8.%D1%80%D1%83" title="Вести.ру">Вести.ру</a>  <small class="ref-info" style="cursor:help;" title="Дата последней проверки этой ссылки">(Дата обращения: 26 августа 2009)</small></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><a class="external text" href="http://newsvo.ru/news/2003/04/11/15:36:33.html?partition=archive" rel="nofollow">Всероссийская олимпиада школьников по русскому языку впервые пройдет в Вологде</a> <small class="ref-info">(недоступная ссылка)</small>. Сообщение ИА «Новости Вологодской области»  <small class="ref-info" style="cursor:help;" title="Дата последней проверки этой ссылки">(Дата обращения: 16 сентября 2009)</small></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.government.nnov.ru/?id=6912" rel="nofollow">Официальный сайт Правительства Нижегородской области</a> <small class="ref-info">(недоступная ссылка)</small>  <small class="ref-info" style="cursor:help;" title="Дата последней проверки этой ссылки">(Дата обращения: 11 августа 2009)</small></span>
+</li>
+<li id="cite_note-IX-14"><span class="mw-cite-backlink">↑ <a href="#cite_ref-IX_14-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-IX_14-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><i>Рыбченкова Л. М., Скворцов Л. И.</i> <a class="external text" href="http://rus.1september.ru/2004/24/1.htm" rel="nofollow">IX Всероссийская олимпиада по русскому языку</a> <a class="external text" href="https://web.archive.org/web/20091026115556/http://rus.1september.ru/2004/24/1.htm" rel="nofollow">Архивная копия</a> от 26 октября 2009 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>  <small class="ref-info" style="cursor:help;" title="Дата последней проверки этой ссылки">(Дата обращения: 11 августа 2009)</small></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.vspu.ac.ru/news/detail/34" rel="nofollow">Об одиннадцатой олимпиаде</a> <a class="external text" href="https://web.archive.org/web/20091026140546/http://www.vspu.ac.ru/news/detail/34" rel="nofollow">Архивная копия</a> от 26 октября 2009 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> (сайт ВГПУ)  <small class="ref-info" style="cursor:help;" title="Дата последней проверки этой ссылки">(Дата обращения: 11 августа 2009)</small></span>
+</li>
+<li id="cite_note-МИОО-16"><span class="mw-cite-backlink">↑ <a href="#cite_ref-МИОО_16-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-МИОО_16-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><a class="external text" href="http://www.mioo.ru/podrazdinfpage.php?id=5&amp;prjid=251&amp;taskid=44&amp;ctree=cccccccccccccccccccccccccccccccocccccccccccccccccccccccccccccccoc&amp;list=tasks&amp;onewnd=ecenter&amp;list=projects&amp;" rel="nofollow">Лаборатория русского языка и литературы</a> <a class="external text" href="https://web.archive.org/web/20080625052955/http://www.mioo.ru/podrazdinfpage.php?id=5&amp;prjid=251&amp;taskid=44&amp;ctree=cccccccccccccccccccccccccccccccocccccccccccccccccccccccccccccccoc&amp;list=tasks&amp;onewnd=ecenter&amp;list=projects&amp;" rel="nofollow">Архивная копия</a> от 25 июня 2008 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> <a href="/wiki/%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%B8%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82_%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%BE%D0%B3%D0%BE_%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F" title="Московский институт открытого образования">Московского института открытого образования</a>  <small class="ref-info" style="cursor:help;" title="Дата последней проверки этой ссылки">(Дата обращения: 11 августа 2009)</small></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><a href="#cite_ref-17">↑</a></span> <span class="reference-text"><a class="external text" href="http://culture.natm.ru/tree4.html?id=6405" rel="nofollow">Год русского языка в Великом Новгороде</a> <small class="ref-info">(недоступная ссылка)</small>  <small class="ref-info" style="cursor:help;" title="Дата последней проверки этой ссылки">(Дата обращения: 11 августа 2009)</small></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><a href="#cite_ref-18">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.spbustavsud.ru/printdoc?tid=&amp;nd=902027541&amp;prevDoc=901884116" rel="nofollow">Приказ № 108</a> <a class="external text" href="https://web.archive.org/web/20160306185410/http://www.spbustavsud.ru/printdoc?tid=&amp;nd=902027541&amp;prevDoc=901884116" rel="nofollow">Архивная копия</a> от 6 марта 2016 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> <a href="/wiki/%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%B0%D0%B3%D0%B5%D0%BD%D1%82%D1%81%D1%82%D0%B2%D0%BE_%D0%BF%D0%BE_%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E" title="Федеральное агентство по образованию">Федерального агентства по образованию</a> РФ «О проведении V заключительного этапа Всероссийской олимпиады школьников в 2007 году»  <small class="ref-info" style="cursor:help;" title="Дата последней проверки этой ссылки">(Дата обращения: 11 августа 2009)</small></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><a href="#cite_ref-19">↑</a></span> <span class="reference-text"><a class="external text" href="http://region.adm.nov.ru/news/press/7921/" rel="nofollow">Сообщение пресс-центра администрации Новгородской области</a> <small class="ref-info">(недоступная ссылка)</small> о XII олимпиаде <small class="ref-info" style="cursor:help;" title="Дата последней проверки этой ссылки">(Дата обращения: 16 сентября 2009)</small></span>
+</li>
+<li id="cite_note-XIII-20"><span class="mw-cite-backlink">↑ <a href="#cite_ref-XIII_20-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-XIII_20-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><a class="external text" href="http://rosolymp.stavsu.ru" rel="nofollow">Сайт тринадцатой олимпиады</a> <small class="ref-info">(недоступная ссылка)</small>  <small class="ref-info" style="cursor:help;" title="Дата последней проверки этой ссылки">(Дата обращения: 11 августа 2009)</small></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><a href="#cite_ref-21">↑</a></span> <span class="reference-text"><i>Прайзман Л.</i> <a class="external text" href="http://www.stapravda.ru/20080415/Vserossijskaya_olimpiada_shkolnikov_po_russkomu_yazyku_zavershil_30190.html" rel="nofollow">Друзья русского языка</a> <a class="external text" href="https://web.archive.org/web/20081221154905/http://www.stapravda.ru/20080415/Vserossijskaya_olimpiada_shkolnikov_po_russkomu_yazyku_zavershil_30190.html" rel="nofollow">Архивная копия</a> от 21 декабря 2008 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>  <small class="ref-info" style="cursor:help;" title="Дата последней проверки этой ссылки">(Дата обращения: 11 августа 2009)</small></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><a href="#cite_ref-22">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.univ-orel.ru/disert/olimp2010/ol_ruslang.doc" rel="nofollow">Письмо Орловского государственного университета «О проведении заключительного этапа Всероссийской олимпиады школьников по русскому языку в 2010 году в городе Орле»</a> <a class="external text" href="https://web.archive.org/web/20100524233315/http://www.univ-orel.ru/disert/olimp2010/ol_ruslang.doc" rel="nofollow">Архивная копия</a> от 24 мая 2010 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> с программой олимпиады  <small class="ref-info" style="cursor:help;" title="Дата последней проверки этой ссылки">(Дата обращения: 15 апреля 2010)</small></span>
+</li>
+<li id="cite_note-XV-23"><span class="mw-cite-backlink">↑ <a href="#cite_ref-XV_23-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-XV_23-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><a class="external text" href="http://rosolymp.ru/attachments/9304_rus_20100418.zip" rel="nofollow">Подведены итоги Всероссийской олимпиады школьников по русскому языку</a> <a class="external text" href="https://web.archive.org/web/20160305012412/http://rosolymp.ru/attachments/9304_rus_20100418.zip" rel="nofollow">Архивная копия</a> от 5 марта 2016 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>  <small class="ref-info" style="cursor:help;" title="Дата последней проверки этой ссылки">(Дата обращения: 27 мая 2010)</small></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><a href="#cite_ref-24">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://rosolymp.ru/attachments/9556_Инф.%20письмо%20ол.%20рус.яз.-11.doc" rel="nofollow">Информационное письмо о проведении заключительного этапа по русскому языку</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span> (22 марта 2011). Дата обращения: 10 мая 2011. <a class="external text" href="https://www.webcitation.org/655loYp0H?url=http://rosolymp.ru/attachments/9556_%D0%98%D0%BD%D1%84.%20%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%BE%20%D0%BE%D0%BB.%20%D1%80%D1%83%D1%81.%D1%8F%D0%B7.-11.doc" rel="nofollow">Архивировано</a> 31 января 2012 года.</span></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><a href="#cite_ref-25">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://minobr.ulgov.ru/news/26/1316.html" rel="nofollow">Всероссийская олимпиада школьников по русскому языку проводится в Ульяновске впервые</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Правительство Ульяновской области. Министерство образования. Дата обращения: 10 мая 2011. <a class="external text" href="https://www.webcitation.org/655lpEIuR?url=http://minobr.ulgov.ru/news/26/1316.html" rel="nofollow">Архивировано</a> 31 января 2012 года.</span></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><a href="#cite_ref-26">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://priem.brgu.ru/bank/olimpiada_2012/inf_pismo.pdf" rel="nofollow">Информационное письмо «О проведении заключительного этапа всероссийской олимпиады школьников по русскому языку в 2012 году»</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. БГУ им. академика И. Г. Петровского. Дата обращения: 23 апреля 2012. <a class="external text" href="https://www.webcitation.org/67GCKqOxF?url=http://priem.brgu.ru/bank/olimpiada_2012/inf_pismo.pdf" rel="nofollow">Архивировано</a> 28 апреля 2012 года.</span></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><a href="#cite_ref-27">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://web.archive.org/web/20130414233815/http://okrug.herzen.spb.ru/russia-2013" rel="nofollow">Заключительный этап Всероссийской олимпиады школьников по русскому языку</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. РГПУ имени А. И. Герцена. Дата обращения: 19 апреля 2013. Архивировано из <a class="external text" href="http://okrug.herzen.spb.ru/russia-2013/" rel="nofollow">оригинала</a> 14 апреля 2013 года.</span></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><a href="#cite_ref-28">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://web.archive.org/web/20140420043455/http://www.ncfu.ru/index.php?newsid=4822" rel="nofollow">Названы победители Всероссийской олимпиады по русскому языку среди школьников</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Северо-Кавказский федеральный университет (12 апреля 2014). Дата обращения: 19 апреля 2014. Архивировано из <a class="external text" href="http://www.ncfu.ru/index.php?newsid=4822" rel="nofollow">оригинала</a> 20 апреля 2014 года.</span></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><a href="#cite_ref-29">↑</a></span> <span class="reference-text"><i><a class="new" href="/w/index.php?title=%D0%9F%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F,_%D0%95%D0%BB%D0%B5%D0%BD%D0%B0_%D0%9D%D0%B0%D1%83%D0%BC%D0%BE%D0%B2%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="Пенская, Елена Наумовна (страница отсутствует)">Пенская Е. Н.</a>, <a class="mw-redirect" href="/wiki/%D0%9F%D0%B8%D0%BF%D0%B5%D1%80%D1%81%D0%BA%D0%B8_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%A7%D0%B5%D0%B4%D0%BE%D0%B2%D0%B8%D1%87" title="Пиперски Александр Чедович">Пиперски А. Ч.</a></i> <a class="external text" href="https://philology.hse.ru/news/181811556.html" rel="nofollow">Всероссийские олимпиады школьников по литературе и русскому языку-2016. Без мельдония</a> <a class="external text" href="https://web.archive.org/web/20160805202249/https://philology.hse.ru/news/181811556.html" rel="nofollow">Архивная копия</a> от 5 августа 2016 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><a href="#cite_ref-30">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://smolgu.ru/olimp_russian/" rel="nofollow">Заключительный этап Всероссийской олимпиады школьников по русскому языку</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 24 июля 2017. <a class="external text" href="https://web.archive.org/web/20170727133052/http://www.smolgu.ru/olimp_russian/" rel="nofollow">Архивировано</a> 27 июля 2017 года.</span></span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><a href="#cite_ref-31">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://ling.hse.ru/news/218549397.html" rel="nofollow">«Они знают самые диковинные лингвистические факты»</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 28 мая 2018. <a class="external text" href="https://web.archive.org/web/20180529054244/https://ling.hse.ru/news/218549397.html" rel="nofollow">Архивировано</a> 29 мая 2018 года.</span></span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><a href="#cite_ref-32">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.rudn.ru/media/news/admission/v-olimpiade-po-russkomu-yazyku-pobedili-18-shkolnikov-iz-7-regionov-rf" rel="nofollow">В Олимпиаде по русскому языку победили 18 школьников из 7 регионов</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 5 мая 2019. <a class="external text" href="https://web.archive.org/web/20190505231014/http://www.rudn.ru/media/news/admission/v-olimpiade-po-russkomu-yazyku-pobedili-18-shkolnikov-iz-7-regionov-rf" rel="nofollow">Архивировано</a> 5 мая 2019 года.</span></span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><a href="#cite_ref-33">↑</a></span> <span class="reference-text"><span class="citation"><span lang="ru"><a class="external text" href="https://bspu.ru/page/vsosh_ru_lang_2021" rel="nofollow">Официальный сайт БГПУ им. М.Акмуллы</a></span><span class="hidden-ref" style="display:none;">  <span class="ref-info" style="cursor:help;" title="на русском языке">(рус.)</span></span>. <i>bspu.ru</i>. Дата обращения: 22 июля 2023. <a class="external text" href="https://web.archive.org/web/20230722101544/https://bspu.ru/page/vsosh_ru_lang_2021" rel="nofollow">Архивировано</a> 22 июля 2023 года.</span></span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><a href="#cite_ref-34">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://web.archive.org/web/20220710030116/https://vsosh-rus-2022.vspu.ru/node/36" rel="nofollow">В Волгограде состоялось открытие заключительного этапа всероссийской олимпиады школьников по русскому языку | ВсОШ. Русский язык. Заключительный этап. Волгоград, 10-17 апреля 2022 г.</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span> <i>web.archive.org</i> (10 июля 2022). Дата обращения: 22 июля 2023. Архивировано 10 июля 2022 года.</span></span>
+</li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><a href="#cite_ref-35">↑</a></span> <span class="reference-text"><span class="citation"><span lang="ru-RU"><a class="external text" href="https://zsfond.ru/vsosh/zaklyuchitelnyj-etap/russkij-yazyk-zaklyuchitelnyj-etap/" rel="nofollow">Заключительный этап по русскому языку - Золотое Сечение</a></span> <small class="ref-info" style="cursor:help;" title="на русском языке">(рус.)</small>. <i>zsfond.ru</i> (9 марта 2023). Дата обращения: 22 июля 2023. <a class="external text" href="https://web.archive.org/web/20230722101544/https://zsfond.ru/vsosh/zaklyuchitelnyj-etap/russkij-yazyk-zaklyuchitelnyj-etap/" rel="nofollow">Архивировано</a> 22 июля 2023 года.</span></span>
+</li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><a href="#cite_ref-36">↑</a></span> <span class="reference-text"><a class="external text" href="http://government.ru/dep_news/39516/" rel="nofollow">Брифинг Министра просвещения Сергея Кравцова</a> <a class="external text" href="https://web.archive.org/web/20200419073508/http://government.ru/dep_news/39516/" rel="nofollow">Архивная копия</a> от 19 апреля 2020 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> // официальный сайт Правительства России</span>
+</li>
+<li id="cite_note-Боряева-37"><span class="mw-cite-backlink">↑ <a href="#cite_ref-Боряева_37-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-Боряева_37-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><i>Боряева Л.</i> <a class="external text" href="http://rus.1september.ru/2002/23/1.htm" rel="nofollow">VII Всероссийская олимпиада школьников по русскому языку. Впечатлениями делится победитель</a> <a class="external text" href="https://web.archive.org/web/20081026121946/http://rus.1september.ru/2002/23/1.htm" rel="nofollow">Архивная копия</a> от 26 октября 2008 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>  <small class="ref-info" style="cursor:help;" title="Дата последней проверки этой ссылки">(Дата обращения: 27 августа 2009)</small></span>
+</li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><a href="#cite_ref-38">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.edu.ru/db-mo/mo/Data/d_05/a557.html" rel="nofollow">Приказ № 557</a> <small class="ref-info">(недоступная ссылка)</small> Федерального агентства по образованию РФ «Об итогах заключительного этапа Всероссийской олимпиады школьников в 2005 году». <a class="external text" href="http://www.edu.ru/db-mo/mo/Data/d_05/pra557-1.doc" rel="nofollow">Приложение</a> <small class="ref-info">(недоступная ссылка)</small>  <small class="ref-info" style="cursor:help;" title="Дата последней проверки этой ссылки">(Дата обращения: 11 августа 2009)</small></span>
+</li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><a href="#cite_ref-39">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.ed.gov.ru/ob-edu/noc/merop/voschul" rel="nofollow">Результаты олимпиад 2006 года</a> <a class="external text" href="https://web.archive.org/web/20090424060118/http://www.ed.gov.ru/ob-edu/noc/merop/voschul" rel="nofollow">Архивная копия</a> от 24 апреля 2009 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>  <small class="ref-info" style="cursor:help;" title="Дата последней проверки этой ссылки">(Дата обращения: 11 августа 2009)</small></span>
+</li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><a href="#cite_ref-40">↑</a></span> <span class="reference-text"><a class="external text" href="http://old.rus.rosolymp.ru/default.asp?trID=3485" rel="nofollow">Результаты XII олимпиады</a> <small class="ref-info">(недоступная ссылка)</small>  <small class="ref-info" style="cursor:help;" title="Дата последней проверки этой ссылки">(Дата обращения: 11 августа 2009)</small></span>
+</li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><a href="#cite_ref-41">↑</a></span> <span class="reference-text"><a class="external text" href="http://old.rus.rosolymp.ru/default.asp?trID=6272" rel="nofollow">Победители и призёры заключительного этапа Всероссийской олимпиады школьников по русскому языку в 2009 году</a> <small class="ref-info">(недоступная ссылка)</small>  <small class="ref-info" style="cursor:help;" title="Дата последней проверки этой ссылки">(Дата обращения: 27 мая 2010)</small></span>
+</li>
+<li id="cite_note-XVа-44"><span class="mw-cite-backlink"><a href="#cite_ref-XVа_44-0">↑</a></span> <span class="reference-text"><a class="external text" href="http://rosolymp.ru/index.php?option=com_content&amp;view=article&amp;id=9318&amp;Itemid=6470" rel="nofollow">Итоги заключительного этапа Всероссийской олимпиады школьников по русскому языку в 2010 году</a>  <small class="ref-info" style="cursor:help;" title="Дата последней проверки этой ссылки">(Дата обращения: 27 мая 2010)</small></span>
+</li>
+<li id="cite_note-45"><span class="mw-cite-backlink"><a href="#cite_ref-45">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://priem.brgu.ru/bank/olimpiada_2012/9.xls" rel="nofollow">Рейтинг: 9 класс</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 23 апреля 2012. <a class="external text" href="https://www.webcitation.org/67GCLi0NS?url=http://priem.brgu.ru/bank/olimpiada_2012/9.xls" rel="nofollow">Архивировано</a> 28 апреля 2012 года.</span></span>
+</li>
+<li id="cite_note-46"><span class="mw-cite-backlink"><a href="#cite_ref-46">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://priem.brgu.ru/bank/olimpiada_2012/10.xls" rel="nofollow">Рейтинг: 10 класс</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 23 апреля 2012. <a class="external text" href="https://www.webcitation.org/67GCMA1cB?url=http://priem.brgu.ru/bank/olimpiada_2012/10.xls" rel="nofollow">Архивировано</a> 28 апреля 2012 года.</span></span>
+</li>
+<li id="cite_note-47"><span class="mw-cite-backlink"><a href="#cite_ref-47">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://priem.brgu.ru/bank/olimpiada_2012/11.xls" rel="nofollow">11 класс</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 23 апреля 2012. <a class="external text" href="https://web.archive.org/web/20130412033717/http://priem.brgu.ru/bank/olimpiada_2012/11.xls" rel="nofollow">Архивировано</a> 12 апреля 2013 года.</span></span>
+</li>
+<li id="cite_note-48"><span class="mw-cite-backlink"><a href="#cite_ref-48">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://web.archive.org/web/20140420043246/http://www.ncfu.ru/rezult_olump_ryaz.html" rel="nofollow">Результаты Всероссийской олимпиады по русскому языку среди школьников</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Северо-Кавказский федеральный университет. Дата обращения: 19 апреля 2014. Архивировано из <a class="external text" href="http://www.ncfu.ru/rezult_olump_ryaz.html" rel="nofollow">оригинала</a> 20 апреля 2014 года.</span></span>
+</li>
+<li id="cite_note-Положение-49"><span class="mw-cite-backlink">↑ <a href="#cite_ref-Положение_49-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-Положение_49-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-Положение_49-2"><sup><i><b>3</b></i></sup></a> <a href="#cite_ref-Положение_49-3"><sup><i><b>4</b></i></sup></a> <a href="#cite_ref-Положение_49-4"><sup><i><b>5</b></i></sup></a> <a href="#cite_ref-Положение_49-5"><sup><i><b>6</b></i></sup></a></span> <span class="reference-text"><a class="external text" href="http://www.edu.ru/db-mon/mo/Data/d_07/prm286-1.htm" rel="nofollow">Положение о Всероссийской олимпиаде школьников</a> <a class="external text" href="https://web.archive.org/web/20090607220311/http://www.edu.ru/db-mon/mo/Data/d_07/prm286-1.htm" rel="nofollow">Архивная копия</a> от 7 июня 2009 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>   <small class="ref-info" style="cursor:help;" title="Дата последней проверки этой ссылки">(Дата обращения: 11 августа 2009)</small></span>
+</li>
+<li id="cite_note-50"><span class="mw-cite-backlink"><a href="#cite_ref-50">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.mgpu.ru/persons.php?person=1813" rel="nofollow">Сайт</a> <a class="external text" href="https://web.archive.org/web/20110921031645/http://www.mgpu.ru/persons.php?person=1813" rel="nofollow">Архивная копия</a> от 21 сентября 2011 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> ГОУ ВПО «<a href="/wiki/%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%BE%D0%B9_%D0%BF%D0%B5%D0%B4%D0%B0%D0%B3%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82" title="Московский городской педагогический университет">Московский городской педагогический университет</a>»  <small class="ref-info" style="cursor:help;" title="Дата последней проверки этой ссылки">(Дата обращения: 27 августа 2009)</small></span>
+</li>
+<li id="cite_note-51"><span class="mw-cite-backlink"><a href="#cite_ref-51">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.brgu.ru/index.php?openpage=readnews.php&amp;id=206&amp;page=1" rel="nofollow">Программа XIV олимпиады</a>; также на сайте есть «дневник олимпиады» в фотографиях  <small class="ref-info" style="cursor:help;" title="Дата последней проверки этой ссылки">(Дата обращения: 11 августа 2009)</small></span>
+</li>
+<li id="cite_note-52"><span class="mw-cite-backlink"><a href="#cite_ref-52">↑</a></span> <span class="reference-text"><span class="citation"><i>Павловец М.</i> <span lang="und"><a class="external text" href="http://www.polit.ru/article/2013/05/13/school_tournaments/" rel="nofollow">Олимпийский кризис</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. <a href="/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D1%82.%D1%80%D1%83" title="Полит.ру">Полит.ру</a>. Дата обращения: 14 мая 2013. <a class="external text" href="https://www.webcitation.org/6GdKAkEjj?url=http://www.polit.ru/article/2013/05/13/school_tournaments/" rel="nofollow">Архивировано</a> 15 мая 2013 года.</span></span>
+</li>
+<li id="cite_note-53"><span class="mw-cite-backlink"><a href="#cite_ref-53">↑</a></span> <span class="reference-text"><span class="citation"><i>Григорьев А. В., Беркутова Г. А.</i> Об итогах Всероссийской олимпиады школьников в 2014 году // <a class="mw-redirect" href="/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA_%D0%B2_%D1%88%D0%BA%D0%BE%D0%BB%D0%B5_(%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB)" title="Русский язык в школе (журнал)">Русский язык в школе</a> : журнал. — 2015. — <span class="nowrap">№ 1</span>. — <span class="nowrap">С. 30</span>.</span></span>
+</li>
+<li id="cite_note-54"><span class="mw-cite-backlink"><a href="#cite_ref-54">↑</a></span> <span class="reference-text"><a class="external text" href="http://old.rus.rosolymp.ru/Texts/Method/русский%20язык_2009.zip" rel="nofollow">Методические рекомендации по разработке заданий для школьного и муниципального этапов Всероссийской олимпиады школьников по русскому языку в 2009/2010 учебном году</a> <small class="ref-info">(недоступная ссылка)</small>  <small class="ref-info" style="cursor:help;" title="Дата последней проверки этой ссылки">(Дата обращения: 25 апреля 2009)</small></span>
+</li>
+<li id="cite_note-55"><span class="mw-cite-backlink"><a href="#cite_ref-55">↑</a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>Камчатнов А. М. и др.</i> <a class="external text" href="http://www.filobraz.ru/olimp/2010_11/metrus_poloj.pdf" rel="nofollow">Методическими рекомендациями по разработке требований к проведению школьного и муниципального этапов всероссийской олимпиады школьников по русскому языку в 2010/2011 учебном году</a>. — <abbr title="Москва">М.</abbr>, 2010. <small><a class="external text" href="https://web.archive.org/web/20140718170320/http://www.filobraz.ru/olimp/2010_11/metrus_poloj.pdf" rel="nofollow">Архивировано</a> 18 июля 2014 года.</small></span> <span class="citation"><span lang="und"><a class="external text" href="https://web.archive.org/web/20140718170320/http://www.filobraz.ru/olimp/2010_11/metrus_poloj.pdf" rel="nofollow">Архивированная копия</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 5 февраля 2011. Архивировано 18 июля 2014 года.</span></span>
+</li>
+<li id="cite_note-56"><span class="mw-cite-backlink"><a href="#cite_ref-56">↑</a></span> <span class="reference-text"><i>Камчатнов А. М.</i> <a class="external text" href="http://old.rus.rosolymp.ru/file.asp?20231" rel="nofollow">Инструкция по проведению Регионального этапа Всероссийской олимпиады школьников по русскому языку в 2008/2009 учебном году</a> <small class="ref-info">(недоступная ссылка)</small>  <small class="ref-info" style="cursor:help;" title="Дата последней проверки этой ссылки">(Дата обращения: 25 апреля 2009)</small></span>
+</li>
+<li id="cite_note-57"><span class="mw-cite-backlink"><a href="#cite_ref-57">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.rost.ru/projects/education/ed4/aed4.shtml" rel="nofollow">Поддержка талантливой молодёжи.</a> <a class="external text" href="https://web.archive.org/web/20110208121500/http://www.rost.ru/projects/education/ed4/aed4.shtml" rel="nofollow">Архивная копия</a> от 8 февраля 2011 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> Приоритетный национальный проект «Образование»  <small class="ref-info" style="cursor:help;" title="Дата последней проверки этой ссылки">(Дата обращения: 27 августа 2009)</small></span>
+</li>
+<li id="cite_note-58"><span class="mw-cite-backlink"><a href="#cite_ref-58">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.litinstitut.ru/index.php?p=cheats&amp;action=displaycheat&amp;system=5&amp;area=1&amp;cheatid=72" rel="nofollow">Сайт Литературного института имени Горького</a> <a class="external text" href="https://web.archive.org/web/20160305035228/http://www.litinstitut.ru/index.php?p=cheats&amp;action=displaycheat&amp;system=5&amp;area=1&amp;cheatid=72" rel="nofollow">Архивная копия</a> от 5 марта 2016 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>  <small class="ref-info" style="cursor:help;" title="Дата последней проверки этой ссылки">(Дата обращения: 11 августа 2009)</small></span>
+</li>
+<li id="cite_note-autogenerated1-59"><span class="mw-cite-backlink">↑ <a href="#cite_ref-autogenerated1_59-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-autogenerated1_59-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><a class="external text" href="http://www.rosolymp.ru/attachments/10233_Приказ%20о%20составе%20ЦПМК.pdf" rel="nofollow">Состав Центральной методической комиссии по русскому языку Всероссийской олимпиады школьников</a> <a class="external text" href="https://web.archive.org/web/20180404050715/http://www.rosolymp.ru/attachments/10233_%D0%9F%D1%80%D0%B8%D0%BA%D0%B0%D0%B7%20%D0%BE%20%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%B5%20%D0%A6%D0%9F%D0%9C%D0%9A.pdf" rel="nofollow">Архивная копия</a> от 4 апреля 2018 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>  <small class="ref-info" style="cursor:help;" title="Дата последней проверки этой ссылки">(Дата обращения: 21 января 2014)</small></span>
+</li>
+<li id="cite_note-60"><span class="mw-cite-backlink"><a href="#cite_ref-60">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://web.archive.org/web/20140202235411/http://www.prosv.ru/book.aspx?ob_no=209&amp;d_no=34319&amp;ltype=21833&amp;subject=20695" rel="nofollow">Издание: Русский язык. Всероссийские олимпиады. Выпуск 4</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Издательство «Просвещение». Дата обращения: 19 апреля 2014. Архивировано из <a class="external text" href="http://www.prosv.ru/book.aspx?ob_no=209&amp;d_no=34319&amp;ltype=21833&amp;subject=20695" rel="nofollow">оригинала</a> 2 февраля 2014 года.</span></span>
+</li>
+<li id="cite_note-61"><span class="mw-cite-backlink"><a href="#cite_ref-61">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.prosv.ru/about.aspx?ob_no=4143" rel="nofollow">Редакция русского языка издательства «Просвещение»</a> <a class="external text" href="https://web.archive.org/web/20110703144604/http://www.prosv.ru/about.aspx?ob_no=4143" rel="nofollow">Архивная копия</a> от 3 июля 2011 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>  <small class="ref-info" style="cursor:help;" title="Дата последней проверки этой ссылки">(Дата обращения: 11 августа 2009)</small></span>
+</li>
+</ol></div></div>
+<h2><span id=".D0.9B.D0.B8.D1.82.D0.B5.D1.80.D0.B0.D1.82.D1.83.D1.80.D0.B0"></span><span class="mw-headline" id="Литература">Литература</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D1%8F%D0%B7%D1%8B%D0%BA%D1%83&amp;veaction=edit&amp;section=14" title="Редактировать раздел «Литература»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D1%8F%D0%B7%D1%8B%D0%BA%D1%83&amp;action=edit&amp;section=14" title="Редактировать код раздела «Литература»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="citation no-wikidata" data-wikidata-property-id="P1343">Русский язык. Всероссийские олимпиады / Камчатнов, А. М. (ред.). — <abbr title="Москва">М.</abbr>: <a href="/wiki/%D0%9F%D1%80%D0%BE%D1%81%D0%B2%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_(%D0%B8%D0%B7%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE)" title="Просвещение (издательство)">Просвещение</a>, 2008. — 206 с. — (Пять колец). — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9785090171311">ISBN 978-5-09-017131-1</a>.</span></li>
+<li><span class="citation no-wikidata" data-wikidata-property-id="P1343">Русский язык. Всероссийские олимпиады. Выпуск 2 / Камчатнов, А. М. (ред.). — <abbr title="Москва">М.</abbr>: Просвещение, 2009. — 112 с. — (Пять колец). — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9785090184021">ISBN 978-5-09-018402-1</a>.</span></li>
+<li><span class="citation no-wikidata" data-wikidata-property-id="P1343">Русский язык. Всероссийские олимпиады. Выпуск 3 / под ред. А. М. Камчатнова и др.. — <abbr title="Москва">М.</abbr>: Просвещение, 2011. — 158 с. — (Пять колец). — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9785090205412">ISBN 978-5-09-020541-2</a>.</span></li>
+<li><span class="citation no-wikidata" data-wikidata-property-id="P1343">Русский язык. Всероссийские олимпиады. Выпуск 4 / под ред. А. В. Григорьева. — <abbr title="Москва">М.</abbr>: Просвещение, 2012. — 128 с. — (Пять колец). — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9785090232661">ISBN 978-5-09-023266-1</a>.</span></li></ul>
+<h2><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span><span class="mw-headline" id="Ссылки">Ссылки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D1%8F%D0%B7%D1%8B%D0%BA%D1%83&amp;veaction=edit&amp;section=15" title="Редактировать раздел «Ссылки»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D1%8F%D0%B7%D1%8B%D0%BA%D1%83&amp;action=edit&amp;section=15" title="Редактировать код раздела «Ссылки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="http://www.rosolymp.ru/" rel="nofollow">Сайт Всероссийской олимпиады школьников</a>  <small class="ref-info" style="cursor:help;" title="Дата последней проверки этой ссылки">(Дата обращения: 5 февраля 2011)</small></li>
+<li><a class="external text" href="http://www.gramota.ru/lenta/news/8_1429" rel="nofollow">О восьмой Всероссийской олимпиаде школьников по русскому языку</a>  <small class="ref-info" style="cursor:help;" title="Дата последней проверки этой ссылки">(Дата обращения: 5 февраля 2011)</small></li>
+<li><a class="external text" href="http://www.vremyan.ru/news/78165A27_30F7_E5DD_50D9_B03E9A8B9B7E" rel="nofollow">О девятой олимпиаде</a>  <small class="ref-info" style="cursor:help;" title="Дата последней проверки этой ссылки">(Дата обращения: 5 февраля 2011)</small></li>
+<li><a class="external text" href="http://novgorod.rfn.ru/archive/rnews.html?id=12737&amp;date=18-04-2007" rel="nofollow">О двенадцатой олимпиаде</a>  <small class="ref-info" style="cursor:help;" title="Дата последней проверки этой ссылки">(Дата обращения: 5 февраля 2011)</small></li>
+<li><a class="external text" href="http://www.stapravda.ru/20080415/Vserossijskaya_olimpiada_shkolnikov_po_russkomu_yazyku_zavershil_30190.html" rel="nofollow">О тринадцатой олимпиаде</a>  <small class="ref-info" style="cursor:help;" title="Дата последней проверки этой ссылки">(Дата обращения: 5 февраля 2011)</small></li>
+<li><a class="external text" href="http://www.infoorel.ru/news/news.php?news_id=13611" rel="nofollow">О пятнадцатой олимпиаде</a>  <small class="ref-info" style="cursor:help;" title="Дата последней проверки этой ссылки">(Дата обращения: 5 февраля 2011)</small></li>
+<li><a class="external text" href="http://www.ulsu.ru/news/14240" rel="nofollow">О шестнадцатой олимпиаде</a>  <small class="ref-info" style="cursor:help;" title="Дата последней проверки этой ссылки">(Дата обращения: 10 мая 2011)</small></li>
+<li><a class="external text" href="http://rus.1september.ru/article.php?ID=200002501" rel="nofollow">Задания пятой олимпиады</a>  <small class="ref-info" style="cursor:help;" title="Дата последней проверки этой ссылки">(Дата обращения: 5 февраля 2011)</small></li>
+<li><a class="external text" href="http://www.gramota.ru/lenta/news/8_1445" rel="nofollow">Фотографии с восьмой олимпиады</a>  <small class="ref-info" style="cursor:help;" title="Дата последней проверки этой ссылки">(Дата обращения: 5 февраля 2011)</small></li>
+<li><a class="external text" href="http://www.univ-orel.ru/index.php?option=com_content&amp;view=article&amp;id=567&amp;Itemid=333" rel="nofollow">Дневник XV олимпиады</a>  <small class="ref-info" style="cursor:help;" title="Дата последней проверки этой ссылки">(Дата обращения: 5 февраля 2011)</small></li></ul>
+<div aria-labelledby="Предметные_олимпиады_в_России" class="navbox" data-name="Предметные олимпиады в России" role="navigation"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D0%BD%D1%8B%D0%B5_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D1%8B_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Перейти к шаблону «Предметные олимпиады в России»"><img alt="Перейти к шаблону «Предметные олимпиады в России»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span></span><div id="Предметные_олимпиады_в_России" style="font-size:114%;margin:0 5em"><a href="/wiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D0%BD%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0" title="Предметная олимпиада">Предметные олимпиады</a> в России</div></th></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2" title="Всероссийская олимпиада школьников">Всероссийская<br/>олимпиада<br/>школьников</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="new" href="/w/index.php?title=%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D1%8F%D0%B7%D1%8B%D0%BA%D1%83&amp;action=edit&amp;redlink=1" title="Всероссийская олимпиада школьников по английскому языку (страница отсутствует)">Английский язык</a></li>
+<li><a href="/wiki/%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%B8" title="Всероссийская олимпиада школьников по астрономии">Астрономия</a></li>
+<li><a href="/wiki/%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8" title="Всероссийская олимпиада школьников по биологии">Биология</a></li>
+<li><span class="mw-valign-baseline" typeof="mw:File"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Хорошая статья"><img alt="Хорошая статья" class="mw-file-element" data-file-height="13" data-file-width="13" decoding="async" height="13" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Blue_star_unboxed.svg/13px-Blue_star_unboxed.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Blue_star_unboxed.svg/20px-Blue_star_unboxed.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Blue_star_unboxed.svg/26px-Blue_star_unboxed.svg.png 2x" width="13"/></a></span> <a href="/wiki/%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D0%B3%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%B8" title="Всероссийская олимпиада школьников по географии">География</a></li>
+<li><a href="/wiki/%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B5" title="Всероссийская олимпиада школьников по информатике">Информатика</a></li>
+<li><a href="/wiki/%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8" title="Всероссийская олимпиада школьников по истории">История</a></li>
+<li><a href="/wiki/%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B5" title="Всероссийская олимпиада школьников по литературе">Литература</a></li>
+<li><a href="/wiki/%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B5" title="Всероссийская олимпиада школьников по математике">Математика</a> (<a href="/wiki/%D0%92%D1%81%D0%B5%D1%81%D0%BE%D1%8E%D0%B7%D0%BD%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B5" title="Всесоюзная олимпиада школьников по математике">Всесоюзная</a>)</li>
+<li><a class="new" href="/w/index.php?title=%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%BE%D0%B9_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B5&amp;action=edit&amp;redlink=1" title="Всероссийская олимпиада школьников по мировой художественной культуре (страница отсутствует)">Мировая художественная культура</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D0%BD%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%BE%D0%BC%D1%83_%D1%8F%D0%B7%D1%8B%D0%BA%D1%83&amp;action=edit&amp;redlink=1" title="Всероссийская олимпиада школьников по немецкому языку (страница отсутствует)">Немецкий язык</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%B0%D0%BC_%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B5%D0%B4%D0%B5%D1%8F%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8&amp;action=edit&amp;redlink=1" title="Всероссийская олимпиада школьников по основам безопасности жизнедеятельности (страница отсутствует)">ОБЖ</a></li>
+<li><a href="/wiki/%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D1%8E" title="Всероссийская олимпиада школьников по обществознанию">Обществознание</a></li>
+<li><a href="/wiki/%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D0%BF%D1%80%D0%B0%D0%B2%D1%83" title="Всероссийская олимпиада школьников по праву">Право</a></li>
+<li><span class="mw-valign-baseline" typeof="mw:File"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Хорошая статья"><img alt="Хорошая статья" class="mw-file-element" data-file-height="13" data-file-width="13" decoding="async" height="13" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Blue_star_unboxed.svg/13px-Blue_star_unboxed.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Blue_star_unboxed.svg/20px-Blue_star_unboxed.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Blue_star_unboxed.svg/26px-Blue_star_unboxed.svg.png 2x" width="13"/></a></span> <a class="mw-selflink selflink">Русский язык</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" title="Всероссийская олимпиада школьников по технологии (страница отсутствует)">Технология</a></li>
+<li><a href="/wiki/%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D1%84%D0%B8%D0%B7%D0%B8%D0%BA%D0%B5" title="Всероссийская олимпиада школьников по физике">Физика</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D1%84%D0%B8%D0%B7%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B9_%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B5&amp;action=edit&amp;redlink=1" title="Всероссийская олимпиада школьников по физической культуре (страница отсутствует)">Физическая культура</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D1%84%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D1%8F%D0%B7%D1%8B%D0%BA%D1%83&amp;action=edit&amp;redlink=1" title="Всероссийская олимпиада школьников по французскому языку (страница отсутствует)">Французский язык</a></li>
+<li><a href="/wiki/%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D1%85%D0%B8%D0%BC%D0%B8%D0%B8" title="Всероссийская олимпиада школьников по химии">Химия</a></li>
+<li><a href="/wiki/%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D1%8D%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8" title="Всероссийская олимпиада школьников по экологии">Экология</a></li>
+<li><a href="/wiki/%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B5" title="Всероссийская олимпиада школьников по экономике">Экономика</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Другие</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0" title="Математическая олимпиада">Математические</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0" title="Московская математическая олимпиада">Московская математическая олимпиада</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%9E%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D0%BF%D0%BE_%D0%B3%D0%B5%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D0%B8_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%98._%D0%A4._%D0%A8%D0%B0%D1%80%D1%8B%D0%B3%D0%B8%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="Олимпиада по геометрии имени И. Ф. Шарыгина (страница отсутствует)">Олимпиада по геометрии имени И. Ф. Шарыгина</a></li>
+<li><a href="/wiki/%D0%A2%D1%83%D1%80%D0%BD%D0%B8%D1%80_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BE%D0%B2" title="Турнир городов">Турнир городов</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%A2%D1%83%D1%80%D0%BD%D0%B8%D1%80_%D0%9A%D0%BE%D0%BB%D0%BC%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0&amp;action=edit&amp;redlink=1" title="Турнир Колмогорова (страница отсутствует)">Турнир Колмогорова</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%A3%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%83%D1%80%D0%BD%D0%B8%D1%80_%D1%8E%D0%BD%D1%8B%D1%85_%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%BE%D0%B2&amp;action=edit&amp;redlink=1" title="Уральский турнир юных математиков (страница отсутствует)">Уральский турнир юных математиков</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Физические</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%A2%D1%83%D1%80%D0%BD%D0%B8%D1%80_%D1%8E%D0%BD%D1%8B%D1%85_%D1%84%D0%B8%D0%B7%D0%B8%D0%BA%D0%BE%D0%B2" title="Турнир юных физиков">Турнир юных физиков</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Мультипредметные</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B5_%D0%B4%D0%B8%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5_%D1%8D%D0%B2%D1%80%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D1%8B" title="Всероссийские дистанционные эвристические олимпиады">Всероссийские дистанционные эвристические олимпиады</a></li>
+<li><a href="/wiki/%D0%92%D1%81%D0%B5%D1%81%D0%B8%D0%B1%D0%B8%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2" title="Всесибирская открытая олимпиада школьников">Всесибирская открытая олимпиада школьников</a></li>
+<li><a href="/wiki/%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D0%B1%D0%B0" title="Высшая проба">Высшая проба</a></li>
+<li><a href="/wiki/%D0%9E%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%C2%AB%D0%9B%D0%BE%D0%BC%D0%BE%D0%BD%D0%BE%D1%81%D0%BE%D0%B2%C2%BB" title="Олимпиада школьников «Ломоносов»">Ломоносов</a></li>
+<li><a href="/wiki/%D0%A2%D1%80%D0%B0%D0%B4%D0%B8%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D0%BF%D0%BE_%D0%BB%D0%B8%D0%BD%D0%B3%D0%B2%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B5" title="Традиционная олимпиада по лингвистике">Традиционная олимпиада по лингвистике</a></li>
+<li><a href="/wiki/%D0%9F%D0%BE%D0%BA%D0%BE%D1%80%D0%B8_%D0%92%D0%BE%D1%80%D0%BE%D0%B1%D1%8C%D1%91%D0%B2%D1%8B_%D0%B3%D0%BE%D1%80%D1%8B!" title="Покори Воробьёвы горы!">Покори Воробьёвы горы!</a></li>
+<li><a href="/wiki/%D0%A2%D1%83%D1%80%D0%BD%D0%B8%D1%80_%D0%9B%D0%BE%D0%BC%D0%BE%D0%BD%D0%BE%D1%81%D0%BE%D0%B2%D0%B0" title="Турнир Ломоносова">Турнир Ломоносова</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Прочие</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="new" href="/w/index.php?title=%D0%9D%D0%B0%D0%BD%D0%BE%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8_%E2%80%94_%D0%BF%D1%80%D0%BE%D1%80%D1%8B%D0%B2_%D0%B2_%D0%91%D1%83%D0%B4%D1%83%D1%89%D0%B5%D0%B5!&amp;action=edit&amp;redlink=1" title="Нанотехнологии — прорыв в Будущее! (страница отсутствует)">«Нанотехнологии — прорыв в будущее!»</a></li>
+<li><a href="/wiki/%D0%9E%D0%B1%D1%89%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%B0%D0%BC_%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%BD%D0%BE%D0%B9_%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D1%8B" title="Общероссийская олимпиада школьников по основам православной культуры">Основы православной культуры</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table></div>
+<table class="mbox-Хорошая_статья plainlinks metadata ambox ambox-good" id="ga-message" role="presentation" style="margin-top:1em"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D1%85_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9" title="Википедия:Список хороших статей"><img alt="✰" class="mw-file-element" data-file-height="24" data-file-width="24" decoding="async" height="24" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Blue_star_boxed.svg/24px-Blue_star_boxed.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Blue_star_boxed.svg/36px-Blue_star_boxed.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Blue_star_boxed.svg/48px-Blue_star_boxed.svg.png 2x" width="24"/></a></span></div></td><td class="mbox-text"><div class="mbox-text-div">Эта статья входит в число <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Википедия:Хорошие статьи">хороших статей</a> русскоязычного раздела Википедии.</div><div class="mbox-textsmall-div hide-when-compact" style="font-size:85%"></div></td></tr></tbody></table></div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> -->
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Всероссийская_олимпиада_школьников_по_русскому_языку&amp;oldid=135942939">https://ru.wikipedia.org/w/index.php?title=Всероссийская_олимпиада_школьников_по_русскому_языку&amp;oldid=135942939</a></div></div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9C%D0%B5%D1%80%D0%BE%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D1%8F,_%D1%80%D0%B5%D0%B3%D1%83%D0%BB%D1%8F%D1%80%D0%BD%D0%BE_%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%B8%D0%BC%D1%8B%D0%B5_%D1%81_1996_%D0%B3%D0%BE%D0%B4%D0%B0" title="Категория:Мероприятия, регулярно проводимые с 1996 года">Мероприятия, регулярно проводимые с 1996 года</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%BE%D1%80%D0%B5%D0%B2%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Категория:Соревнования в России">Соревнования в России</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Категория:Русский язык">Русский язык</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9E%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D1%8B_%D0%BF%D0%BE_%D0%BB%D0%B8%D0%BD%D0%B3%D0%B2%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B5" title="Категория:Олимпиады по лингвистике">Олимпиады по лингвистике</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B5_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D1%8B_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2" title="Категория:Всероссийские олимпиады школьников">Всероссийские олимпиады школьников</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D0%BD%D0%B5%D1%80%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%BC%D0%B8_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8" title="Категория:Википедия:Статьи с нерабочими ссылками">Википедия:Статьи с нерабочими ссылками</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D0%B8%D1%82%D1%8C_webcitation-%D0%B0%D1%80%D1%85%D0%B8%D0%B2:_deadlink_no)" title="Категория:Википедия:Cite web (заменить webcitation-архив: deadlink no)">Википедия:Cite web (заменить webcitation-архив: deadlink no)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D0%BD%D0%B5%D1%80%D0%B0%D1%81%D0%BF%D0%BE%D0%B7%D0%BD%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC_%D1%8F%D0%B7%D1%8B%D0%BA%D0%BE%D0%BC_(ref)" title="Категория:Википедия:Статьи с нераспознанным языком (ref)">Википедия:Статьи с нераспознанным языком (ref)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Википедия:Хорошие статьи по алфавиту">Википедия:Хорошие статьи по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%BF%D0%BE_%D0%BB%D0%B8%D0%BD%D0%B3%D0%B2%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B5" title="Категория:Википедия:Хорошие статьи по лингвистике">Википедия:Хорошие статьи по лингвистике</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B,_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D0%B2%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_ISBN" title="Категория:Страницы, использующие волшебные ссылки ISBN">Страницы, использующие волшебные ссылки ISBN</a></li></ul></div></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Навигация</h2>
+<div id="mw-head">
+<nav aria-labelledby="p-personal-label" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" id="p-personal" role="navigation">
+<h3 class="vector-menu-heading" id="p-personal-label">
+<span class="vector-menu-heading-label">Персональные инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="pt-anonuserpage"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li class="mw-list-item" id="pt-anontalk"><a accesskey="n" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]"><span>Обсуждение</span></a></li><li class="mw-list-item" id="pt-anoncontribs"><a accesskey="y" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]"><span>Вклад</span></a></li><li class="mw-list-item" id="pt-createaccount"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0+%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2+%D0%BF%D0%BE+%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC%D1%83+%D1%8F%D0%B7%D1%8B%D0%BA%D1%83" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li class="mw-list-item" id="pt-login"><a accesskey="o" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0+%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2+%D0%BF%D0%BE+%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC%D1%83+%D1%8F%D0%B7%D1%8B%D0%BA%D1%83" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]"><span>Войти</span></a></li>
+</ul>
+</div>
+</nav>
+<div id="left-navigation">
+<nav aria-labelledby="p-namespaces-label" class="mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-namespaces" role="navigation">
+<h3 class="vector-menu-heading" id="p-namespaces-label">
+<span class="vector-menu-heading-label">Пространства имён</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-nstab-main"><a accesskey="c" href="/wiki/%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D1%8F%D0%B7%D1%8B%D0%BA%D1%83" title="Просмотреть контентную страницу [c]"><span>Статья</span></a></li><li class="mw-list-item" id="ca-talk"><a accesskey="t" href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D1%8F%D0%B7%D1%8B%D0%BA%D1%83" rel="discussion" title="Обсуждение основной страницы [t]"><span>Обсуждение</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-variants-label" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" id="p-variants" role="navigation">
+<input aria-haspopup="true" aria-labelledby="p-variants-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-variants" id="p-variants-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-variants-label">
+<span class="vector-menu-heading-label">русский</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+</div>
+<div id="right-navigation">
+<nav aria-labelledby="p-views-label" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-views" role="navigation">
+<h3 class="vector-menu-heading" id="p-views-label">
+<span class="vector-menu-heading-label">Просмотры</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-view"><a href="/wiki/%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D1%8F%D0%B7%D1%8B%D0%BA%D1%83"><span>Читать</span></a></li><li class="mw-list-item" id="ca-ve-edit"><a accesskey="v" href="/w/index.php?title=%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D1%8F%D0%B7%D1%8B%D0%BA%D1%83&amp;veaction=edit" title="Редактировать данную страницу [v]"><span>Править</span></a></li><li class="collapsible mw-list-item" id="ca-edit"><a accesskey="e" href="/w/index.php?title=%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D1%8F%D0%B7%D1%8B%D0%BA%D1%83&amp;action=edit" title="Править исходный текст этой страницы [e]"><span>Править код</span></a></li><li class="mw-list-item" id="ca-history"><a accesskey="h" href="/w/index.php?title=%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D1%8F%D0%B7%D1%8B%D0%BA%D1%83&amp;action=history" title="Журнал изменений страницы [h]"><span>История</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-cactions-label" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" id="p-cactions" role="navigation" title="Больше возможностей">
+<input aria-haspopup="true" aria-labelledby="p-cactions-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-cactions" id="p-cactions-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-cactions-label">
+<span class="vector-menu-heading-label">Ещё</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+<div class="vector-search-box-vue vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box" id="p-search" role="search">
+<h3>Поиск</h3>
+<form action="/w/index.php" class="vector-search-box-form" id="searchform">
+<div class="vector-search-box-inner" data-search-loc="header-navigation" id="simpleSearch">
+<input accesskey="f" aria-label="Искать в Википедии" autocapitalize="sentences" class="vector-search-box-input" id="searchInput" name="search" placeholder="Искать в Википедии" title="Искать в Википедии [f]" type="search"/>
+<input name="title" type="hidden" value="Служебная:Поиск"/>
+<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Найти страницы, содержащие указанный текст" type="submit" value="Найти"/>
+<input class="searchButton" id="searchButton" name="go" title="Перейти к странице, имеющей в точности такое название" type="submit" value="Перейти"/>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="vector-legacy-sidebar" id="mw-panel">
+<div id="p-logo" role="banner">
+<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу"></a>
+</div>
+<nav aria-labelledby="p-navigation-label" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" id="p-navigation" role="navigation">
+<h3 class="vector-menu-heading" id="p-navigation-label">
+<span class="vector-menu-heading-label">Навигация</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-mainpage-description"><a accesskey="z" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]"><span>Заглавная страница</span></a></li><li class="mw-list-item" id="n-content"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li class="mw-list-item" id="n-featured"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li class="mw-list-item" id="n-randompage"><a accesskey="x" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]"><span>Случайная статья</span></a></li><li class="mw-list-item" id="n-currentevents"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li class="mw-list-item" id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-participation-label" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" id="p-participation" role="navigation">
+<h3 class="vector-menu-heading" id="p-participation-label">
+<span class="vector-menu-heading-label">Участие</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-bug_in_article"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li class="mw-list-item" id="n-introduction"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li class="mw-list-item" id="n-portal"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li class="mw-list-item" id="n-forum"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li class="mw-list-item" id="n-recentchanges"><a accesskey="r" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]"><span>Свежие правки</span></a></li><li class="mw-list-item" id="n-newpages"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li class="mw-list-item" id="n-help"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-tb-label" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" id="p-tb" role="navigation">
+<h3 class="vector-menu-heading" id="p-tb-label">
+<span class="vector-menu-heading-label">Инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="t-whatlinkshere"><a accesskey="j" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D1%8F%D0%B7%D1%8B%D0%BA%D1%83" title="Список всех страниц, ссылающихся на данную [j]"><span>Ссылки сюда</span></a></li><li class="mw-list-item" id="t-recentchangeslinked"><a accesskey="k" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D1%8F%D0%B7%D1%8B%D0%BA%D1%83" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]"><span>Связанные правки</span></a></li><li class="mw-list-item" id="t-specialpages"><a accesskey="q" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]"><span>Служебные страницы</span></a></li><li class="mw-list-item" id="t-permalink"><a href="/w/index.php?title=%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D1%8F%D0%B7%D1%8B%D0%BA%D1%83&amp;oldid=135942939" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li class="mw-list-item" id="t-info"><a href="/w/index.php?title=%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D1%8F%D0%B7%D1%8B%D0%BA%D1%83&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li class="mw-list-item" id="t-cite"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D1%8F%D0%B7%D1%8B%D0%BA%D1%83&amp;id=135942939&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li class="mw-list-item" id="t-urlshortener"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%2592%25D1%2581%25D0%25B5%25D1%2580%25D0%25BE%25D1%2581%25D1%2581%25D0%25B8%25D0%25B9%25D1%2581%25D0%25BA%25D0%25B0%25D1%258F_%25D0%25BE%25D0%25BB%25D0%25B8%25D0%25BC%25D0%25BF%25D0%25B8%25D0%25B0%25D0%25B4%25D0%25B0_%25D1%2588%25D0%25BA%25D0%25BE%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B8%25D0%25BA%25D0%25BE%25D0%25B2_%25D0%25BF%25D0%25BE_%25D1%2580%25D1%2583%25D1%2581%25D1%2581%25D0%25BA%25D0%25BE%25D0%25BC%25D1%2583_%25D1%258F%25D0%25B7%25D1%258B%25D0%25BA%25D1%2583"><span>Получить короткий URL</span></a></li><li class="mw-list-item" id="t-urlshortener-qrcode"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%2592%25D1%2581%25D0%25B5%25D1%2580%25D0%25BE%25D1%2581%25D1%2581%25D0%25B8%25D0%25B9%25D1%2581%25D0%25BA%25D0%25B0%25D1%258F_%25D0%25BE%25D0%25BB%25D0%25B8%25D0%25BC%25D0%25BF%25D0%25B8%25D0%25B0%25D0%25B4%25D0%25B0_%25D1%2588%25D0%25BA%25D0%25BE%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B8%25D0%25BA%25D0%25BE%25D0%25B2_%25D0%25BF%25D0%25BE_%25D1%2580%25D1%2583%25D1%2581%25D1%2581%25D0%25BA%25D0%25BE%25D0%25BC%25D1%2583_%25D1%258F%25D0%25B7%25D1%258B%25D0%25BA%25D1%2583"><span>Скачать QR-код</span></a></li><li class="mw-list-item" id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q4127458" title="Ссылка на связанный элемент репозитория данных [g]"><span>Элемент Викиданных</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-coll-print_export-label" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" id="p-coll-print_export" role="navigation">
+<h3 class="vector-menu-heading" id="p-coll-print_export-label">
+<span class="vector-menu-heading-label">Печать/экспорт</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="coll-download-as-rl"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D1%8F%D0%B7%D1%8B%D0%BA%D1%83&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li class="mw-list-item" id="t-print"><a accesskey="p" href="/w/index.php?title=%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D1%8F%D0%B7%D1%8B%D0%BA%D1%83&amp;printable=yes" title="Версия этой страницы для печати [p]"><span>Версия для печати</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-lang-label" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" id="p-lang" role="navigation">
+<h3 class="vector-menu-heading" id="p-lang-label">
+<span class="vector-menu-heading-label">На других языках</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="uls-after-portlet-link"></span><span class="wb-langlinks-add wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q4127458#sitelinks-wikipedia" title="Добавить ссылки на другие языки">Добавить ссылки</a></span></div>
+</div>
+</nav>
+</div>
+</div>
+<footer class="mw-footer" id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 2 февраля 2024 в 18:52.</li>
+<li id="footer-info-copyright">Текст доступен по <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru" rel="license">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a><a href="//creativecommons.org/licenses/by-sa/4.0/" rel="license" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br/>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org/ru/">Фонд Викимедиа (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//ru.m.wikipedia.org/w/index.php?title=%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D1%8F%D0%B7%D1%8B%D0%BA%D1%83&amp;mobileaction=toggle_view_mobile">Мобильная версия</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" loading="lazy" src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88"/></a></li>
+<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" loading="lazy" src="/static/images/footer/poweredby_mediawiki_88x31.png" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88"/></a></li>
+</ul>
+</footer>
+
+
+</body>
+</html>

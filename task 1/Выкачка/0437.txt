@@ -1,0 +1,2108 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="ru">
+<head>
+<meta charset="utf-8"/>
+<title>Вечный календарь — Википедия</title>
+
+
+
+
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+
+
+<meta content="MediaWiki 1.42.0-wmf.19" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="max-image-preview:standard" name="robots"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="width=1000" name="viewport"/>
+<meta content="Вечный календарь — Википедия" property="og:title"/>
+<meta content="website" property="og:type"/>
+
+
+
+
+
+
+
+
+
+
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Вечный_календарь rootpage-Вечный_календарь skin-vector action-view"><div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators">
+</div>
+<h1 class="firstHeading mw-first-heading" id="firstHeading"><span class="mw-page-title-main">Вечный календарь</span></h1>
+<div class="vector-body" id="bodyContent">
+<div class="noprint" id="siteSub">Материал из Википедии — свободной энциклопедии</div>
+<div id="contentSub"><div id="mw-content-subtitle"><div class="plainlinks flaggedrevs_preview" id="mw-fr-reviewnotice">Текущая версия страницы пока <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9/%D0%9F%D0%BE%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BB%D1%8F_%D1%87%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9" title="Википедия:Проверка статей/Пояснение для читателей">не проверялась</a> опытными участниками и может значительно отличаться от <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%92%D0%B5%D1%87%D0%BD%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C&amp;stable=1">версии</a>, проверенной 13 сентября 2022 года; проверки требует <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%92%D0%B5%D1%87%D0%BD%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C&amp;oldid=125439627&amp;diff=cur&amp;diffonly=0">1 правка</a>.</div><div class="flaggedrevs_short flaggedrevs_draft_notsynced plainlinks noprint" id="mw-fr-revisiontag"><div class="flaggedrevs_short_basic"><span class="flaggedrevs-icon oo-ui-widget oo-ui-widget-enabled oo-ui-iconElement-icon oo-ui-icon-block oo-ui-iconElement oo-ui-labelElement-invisible oo-ui-iconWidget" title="Текущая версия"></span><span class="fr-toggle-arrow oo-ui-widget oo-ui-widget-enabled oo-ui-indicatorElement-indicator oo-ui-indicator-down oo-ui-indicatorElement oo-ui-labelElement-invisible oo-ui-indicatorWidget" id="mw-fr-revisiontoggle" title="показать/скрыть подробности"></span></div>
+<div id="mw-fr-revisiondetails-wrapper" style="position:relative;"><div class="flaggedrevs_short_details" id="mw-fr-revisiondetails" style="display:none">Текущая версия страницы пока <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9/%D0%9F%D0%BE%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BB%D1%8F_%D1%87%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9" title="Википедия:Проверка статей/Пояснение для читателей">не проверялась</a> опытными участниками и может значительно отличаться от <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%92%D0%B5%D1%87%D0%BD%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C&amp;stable=1">версии</a>, проверенной 13 сентября 2022 года; проверки требует <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%92%D0%B5%D1%87%D0%BD%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C&amp;oldid=125439627&amp;diff=cur&amp;diffonly=0">1 правка</a>.</div>
+</div>
+</div>
+</div></div>
+<div id="contentSub2"></div>
+<div id="jump-to-nav"></div>
+<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+<div class="mw-body-content" id="mw-content-text"><div class="mw-content-ltr mw-parser-output" dir="ltr" lang="ru"><p><b>Ве́чный календа́рь</b> — календарь на широкий диапазон лет, предназначенный для <a href="/wiki/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BD%D1%8F_%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B8" title="Определение дня недели">определения дня недели</a>. Многие из вечных календарей фактически создают сетку календаря на выбранный месяц выбранного года.
+</p><p>Вечные календари могут также использоваться для определения <a href="/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D1%85%D0%BE%D0%B4%D1%8F%D1%89%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B7%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8" title="Переходящие праздники">церковных праздников без фиксированной даты</a>.
+</p>
+<div aria-labelledby="mw-toc-heading" class="toc" id="toc" role="navigation"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="ru"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#История"><span class="tocnumber">1</span> <span class="toctext">История</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Устройство"><span class="tocnumber">2</span> <span class="toctext">Устройство</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Вечный_календарь-таблица"><span class="tocnumber">2.1</span> <span class="toctext">Вечный календарь-таблица</span></a>
+<ul>
+<li class="toclevel-3 tocsection-4"><a href="#Варианты_табличных_вечных_календарей"><span class="tocnumber">2.1.1</span> <span class="toctext">Варианты табличных вечных календарей</span></a>
+<ul>
+<li class="toclevel-4 tocsection-5"><a href="#Вариант_1_—_с_1901_по_2096_год"><span class="tocnumber">2.1.1.1</span> <span class="toctext">Вариант 1 — с 1901 по 2096 год</span></a></li>
+<li class="toclevel-4 tocsection-6"><a href="#Вариант_2_—_с_15_октября_1582_года"><span class="tocnumber">2.1.1.2</span> <span class="toctext">Вариант 2 — с 15 октября 1582 года</span></a></li>
+<li class="toclevel-4 tocsection-7"><a href="#Вариант_3_—_календарь_для_старого_и_нового_стилей_на_28_веков"><span class="tocnumber">2.1.1.3</span> <span class="toctext">Вариант 3 — календарь для старого и нового стилей на 28 веков</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-8"><a href="#Дисковый_вечный_календарь"><span class="tocnumber">2.2</span> <span class="toctext">Дисковый вечный календарь</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#В_программировании"><span class="tocnumber">2.3</span> <span class="toctext">В программировании</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Вечный_календарь_—_набор_таблиц"><span class="tocnumber">3</span> <span class="toctext">Вечный календарь — набор таблиц</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Применение"><span class="tocnumber">4</span> <span class="toctext">Применение</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Примечания"><span class="tocnumber">5</span> <span class="toctext">Примечания</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Литература"><span class="tocnumber">6</span> <span class="toctext">Литература</span></a></li>
+</ul>
+</div>
+<h2><span id=".D0.98.D1.81.D1.82.D0.BE.D1.80.D0.B8.D1.8F"></span><span class="mw-headline" id="История">История</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%92%D0%B5%D1%87%D0%BD%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C&amp;veaction=edit&amp;section=1" title="Редактировать раздел «История»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D0%B5%D1%87%D0%BD%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C&amp;action=edit&amp;section=1" title="Редактировать код раздела «История»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:P%C3%A5sktavla_ur_Liljegrens_Runl%C3%A4ra_(ur_Sverige_Runinskrifter).png"><img class="mw-file-element" data-file-height="729" data-file-width="478" decoding="async" height="458" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/P%C3%A5sktavla_ur_Liljegrens_Runl%C3%A4ra_%28ur_Sverige_Runinskrifter%29.png/300px-P%C3%A5sktavla_ur_Liljegrens_Runl%C3%A4ra_%28ur_Sverige_Runinskrifter%29.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/P%C3%A5sktavla_ur_Liljegrens_Runl%C3%A4ra_%28ur_Sverige_Runinskrifter%29.png/450px-P%C3%A5sktavla_ur_Liljegrens_Runl%C3%A4ra_%28ur_Sverige_Runinskrifter%29.png 1.5x, //upload.wikimedia.org/wikipedia/commons/e/e7/P%C3%A5sktavla_ur_Liljegrens_Runl%C3%A4ra_%28ur_Sverige_Runinskrifter%29.png 2x" width="300"/></a><figcaption>Вечный календарь из <a href="/wiki/%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F" title="Швеция">Швеции</a> для вычисления дня <a href="/wiki/%D0%9F%D0%B0%D1%81%D1%85%D0%B0" title="Пасха">Пасхи</a> в 1140—1671 по <a href="/wiki/%D0%AE%D0%BB%D0%B8%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C" title="Юлианский календарь">юлианскому календарю</a>. Каждая <a class="mw-redirect" href="/wiki/%D0%A0%D1%83%D0%BD%D0%B0" title="Руна">руна</a> соответствует определённому номеру недели, на которую будет приходиться праздник</figcaption></figure>
+<p>Известные сегодня табличные календари приобрели современную форму только после того, как была <a href="/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B3%D0%BE%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D0%B0%D0%BD%D0%B8%D1%8F_%D0%B2_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B5" title="История книгопечатания в Европе">изобретена печать</a>. Вечные же календари придуманы гораздо раньше — время их создания восходит ещё к <a href="/wiki/%D0%9C%D0%BE%D0%BD%D0%B3%D0%BE%D0%BB%D0%BE-%D1%82%D0%B0%D1%82%D0%B0%D1%80%D1%81%D0%BA%D0%BE%D0%B5_%D0%B8%D0%B3%D0%BE" title="Монголо-татарское иго">домонгольскому</a> времени — вероятно, один из первых подобных календарей был найден на стене <a href="/wiki/%D0%A1%D0%BE%D1%84%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_(%D0%9A%D0%B8%D0%B5%D0%B2)" title="Софийский собор (Киев)">Киевской Софии</a><sup class="reference" id="cite_ref-malävin_1-0"><a href="#cite_note-malävin-1">[1]</a></sup>.
+</p><p>В <a href="/wiki/1902_%D0%B3%D0%BE%D0%B4" title="1902 год">1902 году</a> на <a href="/wiki/%D0%92%D0%B8%D0%BB%D1%8C%D0%BD%D1%8E%D1%81" title="Вильнюс">Виленской</a> сельскохозяйственной выставке были представлены вечные календари, которые стали основой для многих конструкций.
+</p><p>Вечные календари в больших объёмах выпускались в <a class="mw-redirect" href="/wiki/%D0%A1%D0%A1%D0%A1%D0%A0" title="СССР">СССР</a>. Массовое производство и столь же массовая реализация карманных календарей была начата в <a href="/wiki/1946_%D0%B3%D0%BE%D0%B4" title="1946 год">1946 году</a>. Первые экземпляры из картона выпускались в <a href="/wiki/%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0" title="Москва">Москве</a> и <a class="mw-redirect" href="/wiki/%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4" title="Ленинград">Ленинграде</a>. Однако первые устройства были настолько недолговечны, что не могли прослужить даже десятую часть покрываемого ими срока.
+</p><p>Второй раз активный выпуск календарей начался в <a class="mw-redirect" href="/wiki/1960-%D0%B5" title="1960-е">1960</a>—<a class="mw-redirect" href="/wiki/1970-%D0%B5" title="1970-е">1970-х годах</a>, когда материал был сменён на алюминий. На этот раз производились календари <a href="#Дисковый_вечный_календарь">дискового типа</a>.
+</p><p>В 1970-е годы подобные календари стали массово делаться из картона. Однообразный дизайн и невысокое качество продукции способствовало отсутствию спроса на эти устройства у населения страны и у коллекционеров.
+</p><p>Тогда же на прилавках и в киосках стали появляться <a href="#Вечный_календарь-таблица">табличные</a> варианты. Для экономии места и компактности многие из них не снабжались даже инструкцией.
+</p><p>После <a href="/wiki/%D0%A0%D0%B0%D1%81%D0%BF%D0%B0%D0%B4_%D0%A1%D0%A1%D0%A1%D0%A0" title="Распад СССР">распада СССР</a> вечные календари прекратили выпускаться и использоваться<sup class="reference" id="cite_ref-malävin_1-1"><a href="#cite_note-malävin-1">[1]</a></sup>. На это повлияло и то, что почти все календари были рассчитаны на период до <a href="/wiki/2000_%D0%B3%D0%BE%D0%B4" title="2000 год">2000 года</a>, а также повсеместное распространение компьютеров.
+</p>
+<h2><span id=".D0.A3.D1.81.D1.82.D1.80.D0.BE.D0.B9.D1.81.D1.82.D0.B2.D0.BE"></span><span class="mw-headline" id="Устройство">Устройство</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%92%D0%B5%D1%87%D0%BD%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Устройство»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D0%B5%D1%87%D0%BD%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C&amp;action=edit&amp;section=2" title="Редактировать код раздела «Устройство»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Вечный календарь может быть реализован самыми разнообразными способами, внешне абсолютно непохожими друг на друга. Но в принципе их действия лежит одно — вечные <a href="/wiki/%D0%AE%D0%BB%D0%B8%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C" title="Юлианский календарь">юлианские календари</a> образуют цикл с периодичностью в 28 лет, вечные <a href="/wiki/%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C" title="Григорианский календарь">григорианские календари</a> — 400 лет. Более простые версии вечного <a href="/wiki/%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C" title="Григорианский календарь">григорианского календаря</a>, не включающие в диапазон лет <a href="/wiki/%D0%92%D0%B8%D1%81%D0%BE%D0%BA%D0%BE%D1%81%D0%BD%D1%8B%D0%B9_%D0%B3%D0%BE%D0%B4" title="Високосный год">невисокосные годы</a>, заканчивающиеся на 00, используют цикл в 28 лет.
+</p>
+<h3><span id=".D0.92.D0.B5.D1.87.D0.BD.D1.8B.D0.B9_.D0.BA.D0.B0.D0.BB.D0.B5.D0.BD.D0.B4.D0.B0.D1.80.D1.8C-.D1.82.D0.B0.D0.B1.D0.BB.D0.B8.D1.86.D0.B0"></span><span class="mw-headline" id="Вечный_календарь-таблица">Вечный календарь-таблица</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%92%D0%B5%D1%87%D0%BD%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C&amp;veaction=edit&amp;section=3" title="Редактировать раздел «Вечный календарь-таблица»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D0%B5%D1%87%D0%BD%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C&amp;action=edit&amp;section=3" title="Редактировать код раздела «Вечный календарь-таблица»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Придумано множество вечных календарей такого вида, однако почти все они сводятся к одному: имеется 14 календарных сеток (7 возможных дней недели, с которых начинается год × 2 варианта — <a href="/wiki/%D0%92%D0%B8%D1%81%D0%BE%D0%BA%D0%BE%D1%81%D0%BD%D1%8B%D0%B9_%D0%B3%D0%BE%D0%B4" title="Високосный год">високосный</a> и <a href="/wiki/%D0%9D%D0%B5%D0%B2%D0%B8%D1%81%D0%BE%D0%BA%D0%BE%D1%81%D0%BD%D1%8B%D0%B9_%D0%B3%D0%BE%D0%B4" title="Невисокосный год">невисокосный год</a>), и таблица, помогающая выбрать календарную сетку для нужного года либо определить сдвиг, помогающий правильно преобразовать одну сетку.
+</p><p>Календари этого вида различаются по степени удобства и быстроте использования. Такие календари иногда публиковались в газетах и журналах для вырезания и использования читателями. Наиболее часто применялись два варианта.
+</p>
+<h4><span id=".D0.92.D0.B0.D1.80.D0.B8.D0.B0.D0.BD.D1.82.D1.8B_.D1.82.D0.B0.D0.B1.D0.BB.D0.B8.D1.87.D0.BD.D1.8B.D1.85_.D0.B2.D0.B5.D1.87.D0.BD.D1.8B.D1.85_.D0.BA.D0.B0.D0.BB.D0.B5.D0.BD.D0.B4.D0.B0.D1.80.D0.B5.D0.B9"></span><span class="mw-headline" id="Варианты_табличных_вечных_календарей">Варианты табличных вечных календарей</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%92%D0%B5%D1%87%D0%BD%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C&amp;veaction=edit&amp;section=4" title="Редактировать раздел «Варианты табличных вечных календарей»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D0%B5%D1%87%D0%BD%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C&amp;action=edit&amp;section=4" title="Редактировать код раздела «Варианты табличных вечных календарей»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<h5><span id=".D0.92.D0.B0.D1.80.D0.B8.D0.B0.D0.BD.D1.82_1_.E2.80.94_.D1.81_1901_.D0.BF.D0.BE_2096_.D0.B3.D0.BE.D0.B4"></span><span class="mw-headline" id="Вариант_1_—_с_1901_по_2096_год">Вариант 1 — с 1901 по 2096 год</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%92%D0%B5%D1%87%D0%BD%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C&amp;veaction=edit&amp;section=5" title="Редактировать раздел «Вариант 1 — с 1901 по 2096 год»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D0%B5%D1%87%D0%BD%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C&amp;action=edit&amp;section=5" title="Редактировать код раздела «Вариант 1 — с 1901 по 2096 год»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h5>
+<ul><li>Для того, чтобы узнать день недели конкретного дня, требуется:
+<ol><li>Найти в первой таблице цифру, соответствующую указанному году и месяцу;</li>
+<li>Сложить эту цифру с числом дня;</li>
+<li>Найти во второй таблице получившееся значение и посмотреть, какому дню недели оно соответствует.</li></ol></li></ul>
+<ul><li>Пример: требуется определить, каким днём недели было <a href="/wiki/22_%D1%84%D0%B5%D0%B2%D1%80%D0%B0%D0%BB%D1%8F" title="22 февраля">22 февраля</a> <a href="/wiki/2007_%D0%B3%D0%BE%D0%B4" title="2007 год">2007 года</a>.
+<ol><li>Цифра, соответствующая <a href="/wiki/%D0%A4%D0%B5%D0%B2%D1%80%D0%B0%D0%BB%D1%8C" title="Февраль">февралю</a> (<b>ф</b>) 2007 в таблице 1, равна <b>3</b>.</li>
+<li>22+3=<b>25</b>.</li>
+<li>Числу 25 в таблице 2 соответствует <b>четверг</b> — это и есть искомый день недели.</li></ol></li></ul>
+<ul><li>Таблица. <i>Примечание:</i> серым цветом выделены високосные годы. Месяцы обозначены первыми буквами их названий.</li></ul>
+<table width="100%">
+<tbody><tr>
+<td><b>Таблица 1</b></td>
+<td><b>Таблица 2</b>
+</td></tr>
+<tr>
+<td align="center" valign="top">
+<table class="wikitable" style="background:#FFFFFF; font-size:7pt; text-align:center">
+<tbody><tr>
+<th colspan="7">Годы
+</th>
+<th width="14"><a href="/wiki/%D0%AF%D0%BD%D0%B2%D0%B0%D1%80%D1%8C" title="Январь">я</a>
+</th>
+<th width="14"><a href="/wiki/%D0%A4%D0%B5%D0%B2%D1%80%D0%B0%D0%BB%D1%8C" title="Февраль">ф</a>
+</th>
+<th width="14"><a href="/wiki/%D0%9C%D0%B0%D1%80%D1%82" title="Март">м</a>
+</th>
+<th width="14"><a href="/wiki/%D0%90%D0%BF%D1%80%D0%B5%D0%BB%D1%8C" title="Апрель">а</a>
+</th>
+<th width="14"><a href="/wiki/%D0%9C%D0%B0%D0%B9" title="Май">м</a>
+</th>
+<th width="14"><a href="/wiki/%D0%98%D1%8E%D0%BD%D1%8C" title="Июнь">и</a>
+</th>
+<th width="14"><a href="/wiki/%D0%98%D1%8E%D0%BB%D1%8C" title="Июль">и</a>
+</th>
+<th width="14"><a href="/wiki/%D0%90%D0%B2%D0%B3%D1%83%D1%81%D1%82" title="Август">а</a>
+</th>
+<th width="14"><a href="/wiki/%D0%A1%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8C" title="Сентябрь">с</a>
+</th>
+<th width="14"><a href="/wiki/%D0%9E%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8C" title="Октябрь">о</a>
+</th>
+<th width="14"><a href="/wiki/%D0%9D%D0%BE%D1%8F%D0%B1%D1%80%D1%8C" title="Ноябрь">н</a>
+</th>
+<th width="14"><a href="/wiki/%D0%94%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8C" title="Декабрь">д</a>
+</th></tr>
+<tr>
+<td>1901
+</td>
+<td>1929
+</td>
+<td>1957
+</td>
+<td>1985
+</td>
+<td>2013
+</td>
+<td>2041
+</td>
+<td>2069
+</td>
+<td>1
+</td>
+<td>4
+</td>
+<td>4
+</td>
+<td>7
+</td>
+<td>2
+</td>
+<td>5
+</td>
+<td>7
+</td>
+<td>3
+</td>
+<td>6
+</td>
+<td>1
+</td>
+<td>4
+</td>
+<td>6
+</td></tr>
+<tr>
+<td>1902
+</td>
+<td>1930
+</td>
+<td>1958
+</td>
+<td>1986
+</td>
+<td>2014
+</td>
+<td>2042
+</td>
+<td>2070
+</td>
+<td>2
+</td>
+<td>5
+</td>
+<td>5
+</td>
+<td>1
+</td>
+<td>3
+</td>
+<td>6
+</td>
+<td>1
+</td>
+<td>4
+</td>
+<td>7
+</td>
+<td>2
+</td>
+<td>5
+</td>
+<td>7
+</td></tr>
+<tr>
+<td>1903
+</td>
+<td>1931
+</td>
+<td>1959
+</td>
+<td>1987
+</td>
+<td>2015
+</td>
+<td>2043
+</td>
+<td>2071
+</td>
+<td>3
+</td>
+<td>6
+</td>
+<td>6
+</td>
+<td>2
+</td>
+<td>4
+</td>
+<td>7
+</td>
+<td>2
+</td>
+<td>5
+</td>
+<td>1
+</td>
+<td>3
+</td>
+<td>6
+</td>
+<td>1
+</td></tr>
+<tr style="background:#EEEEEE">
+<td>1904
+</td>
+<td>1932
+</td>
+<td>1960
+</td>
+<td>1988
+</td>
+<td>2016
+</td>
+<td>2044
+</td>
+<td>2072
+</td>
+<td>4
+</td>
+<td>7
+</td>
+<td>1
+</td>
+<td>4
+</td>
+<td>6
+</td>
+<td>2
+</td>
+<td>4
+</td>
+<td>7
+</td>
+<td>3
+</td>
+<td>5
+</td>
+<td>1
+</td>
+<td>3
+</td></tr>
+<tr>
+<td>1905
+</td>
+<td>1933
+</td>
+<td>1961
+</td>
+<td>1989
+</td>
+<td>2017
+</td>
+<td>2045
+</td>
+<td>2073
+</td>
+<td>6
+</td>
+<td>2
+</td>
+<td>2
+</td>
+<td>5
+</td>
+<td>7
+</td>
+<td>3
+</td>
+<td>5
+</td>
+<td>1
+</td>
+<td>4
+</td>
+<td>6
+</td>
+<td>2
+</td>
+<td>4
+</td></tr>
+<tr>
+<td>1906
+</td>
+<td>1934
+</td>
+<td>1962
+</td>
+<td>1990
+</td>
+<td>2018
+</td>
+<td>2046
+</td>
+<td>2074
+</td>
+<td>7
+</td>
+<td>3
+</td>
+<td>3
+</td>
+<td>6
+</td>
+<td>1
+</td>
+<td>4
+</td>
+<td>6
+</td>
+<td>2
+</td>
+<td>5
+</td>
+<td>7
+</td>
+<td>3
+</td>
+<td>5
+</td></tr>
+<tr>
+<td>1907
+</td>
+<td>1935
+</td>
+<td>1963
+</td>
+<td>1991
+</td>
+<td>2019
+</td>
+<td>2047
+</td>
+<td>2075
+</td>
+<td>1
+</td>
+<td>4
+</td>
+<td>4
+</td>
+<td>7
+</td>
+<td>2
+</td>
+<td>5
+</td>
+<td>7
+</td>
+<td>3
+</td>
+<td>6
+</td>
+<td>1
+</td>
+<td>4
+</td>
+<td>6
+</td></tr>
+<tr style="background:#EEEEEE">
+<td>1908
+</td>
+<td>1936
+</td>
+<td>1964
+</td>
+<td>1992
+</td>
+<td>2020
+</td>
+<td>2048
+</td>
+<td>2076
+</td>
+<td>2
+</td>
+<td>5
+</td>
+<td>6
+</td>
+<td>2
+</td>
+<td>4
+</td>
+<td>7
+</td>
+<td>2
+</td>
+<td>5
+</td>
+<td>1
+</td>
+<td>3
+</td>
+<td>6
+</td>
+<td>1
+</td></tr>
+<tr>
+<td>1909
+</td>
+<td>1937
+</td>
+<td>1965
+</td>
+<td>1993
+</td>
+<td>2021
+</td>
+<td>2049
+</td>
+<td>2077
+</td>
+<td>4
+</td>
+<td>7
+</td>
+<td>7
+</td>
+<td>3
+</td>
+<td>5
+</td>
+<td>1
+</td>
+<td>3
+</td>
+<td>6
+</td>
+<td>2
+</td>
+<td>4
+</td>
+<td>7
+</td>
+<td>2
+</td></tr>
+<tr>
+<td>1910
+</td>
+<td>1938
+</td>
+<td>1966
+</td>
+<td>1994
+</td>
+<td>2022
+</td>
+<td>2050
+</td>
+<td>2078
+</td>
+<td>5
+</td>
+<td>1
+</td>
+<td>1
+</td>
+<td>4
+</td>
+<td>6
+</td>
+<td>2
+</td>
+<td>4
+</td>
+<td>7
+</td>
+<td>3
+</td>
+<td>5
+</td>
+<td>1
+</td>
+<td>3
+</td></tr>
+<tr>
+<td>1911
+</td>
+<td>1939
+</td>
+<td>1967
+</td>
+<td>1995
+</td>
+<td>2023
+</td>
+<td>2051
+</td>
+<td>2079
+</td>
+<td>6
+</td>
+<td>2
+</td>
+<td>2
+</td>
+<td>5
+</td>
+<td>7
+</td>
+<td>3
+</td>
+<td>5
+</td>
+<td>1
+</td>
+<td>4
+</td>
+<td>6
+</td>
+<td>2
+</td>
+<td>4
+</td></tr>
+<tr style="background:#EEEEEE">
+<td>1912
+</td>
+<td>1940
+</td>
+<td>1968
+</td>
+<td>1996
+</td>
+<td>2024
+</td>
+<td>2052
+</td>
+<td>2080
+</td>
+<td>7
+</td>
+<td>3
+</td>
+<td>4
+</td>
+<td>7
+</td>
+<td>2
+</td>
+<td>5
+</td>
+<td>7
+</td>
+<td>3
+</td>
+<td>6
+</td>
+<td>1
+</td>
+<td>4
+</td>
+<td>6
+</td></tr>
+<tr>
+<td>1913
+</td>
+<td>1941
+</td>
+<td>1969
+</td>
+<td>1997
+</td>
+<td>2025
+</td>
+<td>2053
+</td>
+<td>2081
+</td>
+<td>2
+</td>
+<td>5
+</td>
+<td>5
+</td>
+<td>1
+</td>
+<td>3
+</td>
+<td>6
+</td>
+<td>1
+</td>
+<td>4
+</td>
+<td>7
+</td>
+<td>2
+</td>
+<td>5
+</td>
+<td>7
+</td></tr>
+<tr>
+<td>1914
+</td>
+<td>1942
+</td>
+<td>1970
+</td>
+<td>1998
+</td>
+<td>2026
+</td>
+<td>2054
+</td>
+<td>2082
+</td>
+<td>3
+</td>
+<td>6
+</td>
+<td>6
+</td>
+<td>2
+</td>
+<td>4
+</td>
+<td>7
+</td>
+<td>2
+</td>
+<td>5
+</td>
+<td>1
+</td>
+<td>3
+</td>
+<td>6
+</td>
+<td>1
+</td></tr>
+<tr>
+<td>1915
+</td>
+<td>1943
+</td>
+<td>1971
+</td>
+<td>1999
+</td>
+<td>2027
+</td>
+<td>2055
+</td>
+<td>2083
+</td>
+<td>4
+</td>
+<td>7
+</td>
+<td>7
+</td>
+<td>3
+</td>
+<td>5
+</td>
+<td>1
+</td>
+<td>3
+</td>
+<td>6
+</td>
+<td>2
+</td>
+<td>4
+</td>
+<td>7
+</td>
+<td>2
+</td></tr>
+<tr style="background:#EEEEEE">
+<td>1916
+</td>
+<td>1944
+</td>
+<td>1972
+</td>
+<td>2000
+</td>
+<td>2028
+</td>
+<td>2056
+</td>
+<td>2084
+</td>
+<td>5
+</td>
+<td>1
+</td>
+<td>2
+</td>
+<td>5
+</td>
+<td>7
+</td>
+<td>3
+</td>
+<td>5
+</td>
+<td>1
+</td>
+<td>4
+</td>
+<td>6
+</td>
+<td>2
+</td>
+<td>4
+</td></tr>
+<tr>
+<td>1917
+</td>
+<td>1945
+</td>
+<td>1973
+</td>
+<td>2001
+</td>
+<td>2029
+</td>
+<td>2057
+</td>
+<td>2085
+</td>
+<td>7
+</td>
+<td>3
+</td>
+<td>3
+</td>
+<td>6
+</td>
+<td>1
+</td>
+<td>4
+</td>
+<td>6
+</td>
+<td>2
+</td>
+<td>5
+</td>
+<td>7
+</td>
+<td>3
+</td>
+<td>5
+</td></tr>
+<tr>
+<td>1918
+</td>
+<td>1946
+</td>
+<td>1974
+</td>
+<td>2002
+</td>
+<td>2030
+</td>
+<td>2058
+</td>
+<td>2086
+</td>
+<td>1
+</td>
+<td>4
+</td>
+<td>4
+</td>
+<td>7
+</td>
+<td>2
+</td>
+<td>5
+</td>
+<td>7
+</td>
+<td>3
+</td>
+<td>6
+</td>
+<td>1
+</td>
+<td>4
+</td>
+<td>6
+</td></tr>
+<tr>
+<td>1919
+</td>
+<td>1947
+</td>
+<td>1975
+</td>
+<td>2003
+</td>
+<td>2031
+</td>
+<td>2059
+</td>
+<td>2087
+</td>
+<td>2
+</td>
+<td>5
+</td>
+<td>5
+</td>
+<td>1
+</td>
+<td>3
+</td>
+<td>6
+</td>
+<td>1
+</td>
+<td>4
+</td>
+<td>7
+</td>
+<td>2
+</td>
+<td>5
+</td>
+<td>7
+</td></tr>
+<tr style="background:#EEEEEE">
+<td>1920
+</td>
+<td>1948
+</td>
+<td>1976
+</td>
+<td>2004
+</td>
+<td>2032
+</td>
+<td>2060
+</td>
+<td>2088
+</td>
+<td>3
+</td>
+<td>6
+</td>
+<td>7
+</td>
+<td>3
+</td>
+<td>5
+</td>
+<td>1
+</td>
+<td>3
+</td>
+<td>6
+</td>
+<td>2
+</td>
+<td>4
+</td>
+<td>7
+</td>
+<td>2
+</td></tr>
+<tr>
+<td>1921
+</td>
+<td>1949
+</td>
+<td>1977
+</td>
+<td>2005
+</td>
+<td>2033
+</td>
+<td>2061
+</td>
+<td>2089
+</td>
+<td>5
+</td>
+<td>1
+</td>
+<td>1
+</td>
+<td>4
+</td>
+<td>6
+</td>
+<td>2
+</td>
+<td>4
+</td>
+<td>7
+</td>
+<td>3
+</td>
+<td>5
+</td>
+<td>1
+</td>
+<td>3
+</td></tr>
+<tr>
+<td>1922
+</td>
+<td>1950
+</td>
+<td>1978
+</td>
+<td>2006
+</td>
+<td>2034
+</td>
+<td>2062
+</td>
+<td>2090
+</td>
+<td>6
+</td>
+<td>2
+</td>
+<td>2
+</td>
+<td>5
+</td>
+<td>7
+</td>
+<td>3
+</td>
+<td>5
+</td>
+<td>1
+</td>
+<td>4
+</td>
+<td>6
+</td>
+<td>2
+</td>
+<td>4
+</td></tr>
+<tr>
+<td>1923
+</td>
+<td>1951
+</td>
+<td>1979
+</td>
+<td>2007
+</td>
+<td>2035
+</td>
+<td>2063
+</td>
+<td>2091
+</td>
+<td>7
+</td>
+<td>3
+</td>
+<td>3
+</td>
+<td>6
+</td>
+<td>1
+</td>
+<td>4
+</td>
+<td>6
+</td>
+<td>2
+</td>
+<td>5
+</td>
+<td>7
+</td>
+<td>3
+</td>
+<td>5
+</td></tr>
+<tr style="background:#EEEEEE">
+<td>1924
+</td>
+<td>1952
+</td>
+<td>1980
+</td>
+<td>2008
+</td>
+<td>2036
+</td>
+<td>2064
+</td>
+<td>2092
+</td>
+<td>1
+</td>
+<td>4
+</td>
+<td>5
+</td>
+<td>1
+</td>
+<td>3
+</td>
+<td>6
+</td>
+<td>1
+</td>
+<td>4
+</td>
+<td>7
+</td>
+<td>2
+</td>
+<td>5
+</td>
+<td>7
+</td></tr>
+<tr>
+<td>1925
+</td>
+<td>1953
+</td>
+<td>1981
+</td>
+<td>2009
+</td>
+<td>2037
+</td>
+<td>2065
+</td>
+<td>2093
+</td>
+<td>3
+</td>
+<td>6
+</td>
+<td>6
+</td>
+<td>2
+</td>
+<td>4
+</td>
+<td>7
+</td>
+<td>2
+</td>
+<td>5
+</td>
+<td>1
+</td>
+<td>3
+</td>
+<td>6
+</td>
+<td>1
+</td></tr>
+<tr>
+<td>1926
+</td>
+<td>1954
+</td>
+<td>1982
+</td>
+<td>2010
+</td>
+<td>2038
+</td>
+<td>2066
+</td>
+<td>2094
+</td>
+<td>4
+</td>
+<td>7
+</td>
+<td>7
+</td>
+<td>3
+</td>
+<td>5
+</td>
+<td>1
+</td>
+<td>3
+</td>
+<td>6
+</td>
+<td>2
+</td>
+<td>4
+</td>
+<td>7
+</td>
+<td>2
+</td></tr>
+<tr>
+<td>1927
+</td>
+<td>1955
+</td>
+<td>1983
+</td>
+<td>2011
+</td>
+<td>2039
+</td>
+<td>2067
+</td>
+<td>2095
+</td>
+<td>5
+</td>
+<td>1
+</td>
+<td>1
+</td>
+<td>4
+</td>
+<td>6
+</td>
+<td>2
+</td>
+<td>4
+</td>
+<td>7
+</td>
+<td>3
+</td>
+<td>5
+</td>
+<td>1
+</td>
+<td>3
+</td></tr>
+<tr style="background:#EEEEEE">
+<td>1928
+</td>
+<td>1956
+</td>
+<td>1984
+</td>
+<td>2012
+</td>
+<td>2040
+</td>
+<td>2068
+</td>
+<td>2096
+</td>
+<td>6
+</td>
+<td>2
+</td>
+<td>3
+</td>
+<td>6
+</td>
+<td>1
+</td>
+<td>4
+</td>
+<td>6
+</td>
+<td>2
+</td>
+<td>5
+</td>
+<td>7
+</td>
+<td>3
+</td>
+<td>5
+</td></tr>
+<tr>
+<th colspan="7">Годы
+</th>
+<th><a href="/wiki/%D0%AF%D0%BD%D0%B2%D0%B0%D1%80%D1%8C" title="Январь">я</a>
+</th>
+<th><a href="/wiki/%D0%A4%D0%B5%D0%B2%D1%80%D0%B0%D0%BB%D1%8C" title="Февраль">ф</a>
+</th>
+<th><a href="/wiki/%D0%9C%D0%B0%D1%80%D1%82" title="Март">м</a>
+</th>
+<th><a href="/wiki/%D0%90%D0%BF%D1%80%D0%B5%D0%BB%D1%8C" title="Апрель">а</a>
+</th>
+<th><a href="/wiki/%D0%9C%D0%B0%D0%B9" title="Май">м</a>
+</th>
+<th><a href="/wiki/%D0%98%D1%8E%D0%BD%D1%8C" title="Июнь">и</a>
+</th>
+<th><a href="/wiki/%D0%98%D1%8E%D0%BB%D1%8C" title="Июль">и</a>
+</th>
+<th><a href="/wiki/%D0%90%D0%B2%D0%B3%D1%83%D1%81%D1%82" title="Август">а</a>
+</th>
+<th><a href="/wiki/%D0%A1%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8C" title="Сентябрь">с</a>
+</th>
+<th><a href="/wiki/%D0%9E%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8C" title="Октябрь">о</a>
+</th>
+<th><a href="/wiki/%D0%9D%D0%BE%D1%8F%D0%B1%D1%80%D1%8C" title="Ноябрь">н</a>
+</th>
+<th><a href="/wiki/%D0%94%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8C" title="Декабрь">д</a>
+</th></tr></tbody></table>
+</td>
+<td align="center" valign="top">
+<table class="wikitable" style="background:#FFFFFF; font-size:7pt; text-align:center">
+<tbody><tr>
+<th><a href="/wiki/%D0%9F%D0%BE%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA" title="Понедельник">Понедельник</a>
+</th>
+<td width="23">1
+</td>
+<td width="23">8
+</td>
+<td width="23">15
+</td>
+<td width="23">22
+</td>
+<td width="23">29
+</td>
+<td width="23">36
+</td></tr>
+<tr>
+<th><a href="/wiki/%D0%92%D1%82%D0%BE%D1%80%D0%BD%D0%B8%D0%BA" title="Вторник">Вторник</a>
+</th>
+<td>2</td>
+<td>9</td>
+<td>16</td>
+<td>23</td>
+<td>30</td>
+<td>37
+</td></tr>
+<tr>
+<th><a href="/wiki/%D0%A1%D1%80%D0%B5%D0%B4%D0%B0" title="Среда">Среда</a>
+</th>
+<td>3</td>
+<td>10</td>
+<td>17</td>
+<td>24</td>
+<td>31
+</td>
+<td>38
+</td></tr>
+<tr>
+<th><a href="/wiki/%D0%A7%D0%B5%D1%82%D0%B2%D0%B5%D1%80%D0%B3" title="Четверг">Четверг</a>
+</th>
+<td>4</td>
+<td>11</td>
+<td>18</td>
+<td>25</td>
+<td>32
+</td></tr>
+<tr>
+<th><a href="/wiki/%D0%9F%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D0%B0" title="Пятница">Пятница</a>
+</th>
+<td>5</td>
+<td>12</td>
+<td>19</td>
+<td>26</td>
+<td>33
+</td></tr>
+<tr>
+<th><a href="/wiki/%D0%A1%D1%83%D0%B1%D0%B1%D0%BE%D1%82%D0%B0" title="Суббота">Суббота</a>
+</th>
+<td>6</td>
+<td>13</td>
+<td>20</td>
+<td>27</td>
+<td>34
+</td></tr>
+<tr>
+<th><a href="/wiki/%D0%92%D0%BE%D1%81%D0%BA%D1%80%D0%B5%D1%81%D0%B5%D0%BD%D1%8C%D0%B5" title="Воскресенье">Воскресенье</a>
+</th>
+<td>7</td>
+<td>14</td>
+<td>21</td>
+<td>28</td>
+<td>35
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<h5><span id=".D0.92.D0.B0.D1.80.D0.B8.D0.B0.D0.BD.D1.82_2_.E2.80.94_.D1.81_15_.D0.BE.D0.BA.D1.82.D1.8F.D0.B1.D1.80.D1.8F_1582_.D0.B3.D0.BE.D0.B4.D0.B0"></span><span class="mw-headline" id="Вариант_2_—_с_15_октября_1582_года">Вариант 2 — с 15 октября 1582 года</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%92%D0%B5%D1%87%D0%BD%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C&amp;veaction=edit&amp;section=6" title="Редактировать раздел «Вариант 2 — с 15 октября 1582 года»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D0%B5%D1%87%D0%BD%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C&amp;action=edit&amp;section=6" title="Редактировать код раздела «Вариант 2 — с 15 октября 1582 года»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h5>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Ewiger_Kalender_Russisch.png"><img class="mw-file-element" data-file-height="1506" data-file-width="2169" decoding="async" height="208" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Ewiger_Kalender_Russisch.png/300px-Ewiger_Kalender_Russisch.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Ewiger_Kalender_Russisch.png/450px-Ewiger_Kalender_Russisch.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/61/Ewiger_Kalender_Russisch.png/600px-Ewiger_Kalender_Russisch.png 2x" width="300"/></a><figcaption>Таблица для вечного григорианского календаря (с 15 октября 1582 года)</figcaption></figure>
+<ul><li>Для того, чтобы узнать день недели, требуется:
+<ol><li>В верхнем левом столбце найти первые две цифры года;</li>
+<li>В найденной строке найти столбец с последними двумя цифрами номера года;</li>
+<li>В месячных календарях (расположены слева и справа) найти строку, соответствующую числу месяца;</li>
+<li>На пересечении строки числа месяца и столбца года найти день недели.</li></ol></li></ul>
+<ul><li>Пример: требуется определить, каким днём недели было <a href="/wiki/4_%D1%84%D0%B5%D0%B2%D1%80%D0%B0%D0%BB%D1%8F" title="4 февраля">4 февраля</a> <a href="/wiki/2011_%D0%B3%D0%BE%D0%B4" title="2011 год">2011 года</a>.
+<ol><li>В столбце «Столетия» найти строку с первыми двумя цифрами номера года «20»;</li>
+<li>В найденной строке найти столбец с последними двумя цифрами номера года «11»;</li>
+<li>В календаре «Февраль» найти строку, соответствующую числу месяца «4»;</li>
+<li>На пересечении строки числа месяца и столбца года найти день недели «пятница».</li></ol></li></ul>
+<ul><li>Примечание: <b>29 февраля</b> — только в високосные годы (столбцы выделены <b>жирным</b> шрифтом).</li></ul>
+<h5><span id=".D0.92.D0.B0.D1.80.D0.B8.D0.B0.D0.BD.D1.82_3_.E2.80.94_.D0.BA.D0.B0.D0.BB.D0.B5.D0.BD.D0.B4.D0.B0.D1.80.D1.8C_.D0.B4.D0.BB.D1.8F_.D1.81.D1.82.D0.B0.D1.80.D0.BE.D0.B3.D0.BE_.D0.B8_.D0.BD.D0.BE.D0.B2.D0.BE.D0.B3.D0.BE_.D1.81.D1.82.D0.B8.D0.BB.D0.B5.D0.B9_.D0.BD.D0.B0_28_.D0.B2.D0.B5.D0.BA.D0.BE.D0.B2"></span><span class="mw-headline" id="Вариант_3_—_календарь_для_старого_и_нового_стилей_на_28_веков">Вариант 3 — календарь для старого и нового стилей на 28 веков</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%92%D0%B5%D1%87%D0%BD%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C&amp;veaction=edit&amp;section=7" title="Редактировать раздел «Вариант 3 — календарь для старого и нового стилей на 28 веков»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D0%B5%D1%87%D0%BD%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C&amp;action=edit&amp;section=7" title="Редактировать код раздела «Вариант 3 — календарь для старого и нового стилей на 28 веков»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h5>
+<table class="wikitable">
+<caption>«Вечный» табель-календарь для определения дня недели
+любой календарной даты старого и нового стилей
+ 
+</caption>
+<tbody><tr>
+<td align="left" bgcolor="honeydew" colspan="7" rowspan="19" valign="top">
+<center>Правила</center>
+<p><font size="-3">
+В левой части таблицы отыскать строку, содержащую число столетий нужного года по старому или новому стилю, а в верхней части таблицы — столбец с двумя последними цифрами номера года. Запомнить букву на пересечении строки и столбца, это — <a href="/wiki/%D0%92%D1%80%D1%83%D1%86%D0%B5%D0%BB%D0%B5%D1%82%D0%BE" title="Вруцелето">вруцелето</a> года.
+</font></p><p><font size="-3">В таблице с правой стороны найти нужный месяц. В строке, в которой находится этот месяц, отыскать ту же букву.
+</font></p><p><font size="-3">В левой нижней части, в разделе «числа месяца», найти нужное число. Пересечение строки, в которой находится это число, со столбиком дней недели, расположенным под найденной буквой, и даёт искомый день недели.
+</font></p><p><font size="-3">При этом следует различать январь и февраль в простых и високосных годах: они занимают различные положения в графе месяцев (для простых годов они обозначены «Яп» и «Фп», для високосных — <b>«Яв»</b> и <b>«Фв»</b>). Високосные годы выделены полужирным шрифтом. Год «00» подчёркнут, в старом стиле он всегда високосный, а в новом — только, если число столетий делится на 4.
+</font></p><p class="mw-empty-elt">
+</p>
+</td>
+<td align="center" colspan="7">Последние цифры года
+</td>
+<td bgcolor="honeydew" colspan="6" rowspan="19" valign="top">
+<center>Пример 1</center>
+<p><font size="-3">
+Определить, на какой день недели приходится 31 марта 2006 г.
+Слева в колонке нового стиля находим число «20», сверху — число «06». На пересечении строки и столбика стоит буква «Ѕ». Находим эту же букву в строке, в которой стоит обозначение «Март». Внизу под ней расположен столбик с днями недели, соответствующий марту, числа которого слева. Итак, 31 марта 2006 г. приходится на пятницу.
+</font>
+</p>
+<center>Пример 2</center>
+<p><font size="-3">
+Определить, на какой день недели приходится 1 января 45 г. до н. э.
+Прежде всего находим число года астрономического счёта: «−44». Далее представляем его в виде «−100+56». На пересечении столбика «56» со строкой «−1» находим вруцелето «Е». Год 45 до н. э. был високосным. Поэтому в правой части таблицы «месяцы» находим «Яв» и напротив числа «1» в колонке, соответствующей вруцелето «Е», находим день — пятница.
+</font>
+</p>
+<center>Пример 3</center>
+<p><font size="-3">
+1 января 1900 г. ст. ст.
+Год високосный, вруцелето «Ѕ» («00» подчёркнуто). Месяц — «Яв». Суббота.
+</font>
+</p>
+<center>Пример 4</center>
+<p><font size="-3">
+1 января 1900 г. н. ст.
+Год простой, вруцелето «З» («00» подчёркнуто). Месяц — «Яп». Понедельник.
+</font></p><p class="mw-empty-elt">
+</p>
+</td></tr>
+<tr>
+<td><u>00</u></td>
+<td>01</td>
+<td>02</td>
+<td>03</td>
+<td></td>
+<td><b>04</b></td>
+<td>05
+</td></tr>
+<tr>
+<td>06</td>
+<td>07</td>
+<td></td>
+<td><b>08</b></td>
+<td>09</td>
+<td>10</td>
+<td>11
+</td></tr>
+<tr>
+<td></td>
+<td><b>12</b></td>
+<td>13</td>
+<td>14</td>
+<td>15</td>
+<td></td>
+<td><b>16</b>
+</td></tr>
+<tr>
+<td>17</td>
+<td>18</td>
+<td>19</td>
+<td></td>
+<td><b>20</b></td>
+<td>21</td>
+<td>22
+</td></tr>
+<tr>
+<td>23</td>
+<td></td>
+<td><b>24</b></td>
+<td>25</td>
+<td>26</td>
+<td>27</td>
+<td>
+</td></tr>
+<tr>
+<td><b>28</b></td>
+<td>29</td>
+<td>30</td>
+<td>31</td>
+<td></td>
+<td><b>32</b></td>
+<td>33
+</td></tr>
+<tr>
+<td>34</td>
+<td>35</td>
+<td></td>
+<td><b>36</b></td>
+<td>37</td>
+<td>38</td>
+<td>39
+</td></tr>
+<tr>
+<td></td>
+<td><b>40</b></td>
+<td>41</td>
+<td>42</td>
+<td>43</td>
+<td></td>
+<td><b>44</b>
+</td></tr>
+<tr>
+<td>45</td>
+<td>46</td>
+<td>47</td>
+<td></td>
+<td><b>48</b></td>
+<td>49</td>
+<td>50
+</td></tr>
+<tr>
+<td>51</td>
+<td></td>
+<td><b>52</b></td>
+<td>53</td>
+<td>54</td>
+<td>55</td>
+<td>
+</td></tr>
+<tr>
+<td><b>56</b></td>
+<td>57</td>
+<td>58</td>
+<td>59</td>
+<td></td>
+<td><b>60</b></td>
+<td>61
+</td></tr>
+<tr>
+<td>62</td>
+<td>63</td>
+<td></td>
+<td><b>64</b></td>
+<td>65</td>
+<td>66</td>
+<td>67
+</td></tr>
+<tr>
+<td></td>
+<td><b>68</b></td>
+<td>69</td>
+<td>70</td>
+<td>71</td>
+<td></td>
+<td><b>72</b>
+</td></tr>
+<tr>
+<td>73</td>
+<td>74</td>
+<td>75</td>
+<td></td>
+<td><b>76</b></td>
+<td>77</td>
+<td>78
+</td></tr>
+<tr>
+<td>79</td>
+<td></td>
+<td><b>80</b></td>
+<td>81</td>
+<td>82</td>
+<td>83</td>
+<td>
+</td></tr>
+<tr>
+<td><b>84</b></td>
+<td>85</td>
+<td>86</td>
+<td>87</td>
+<td></td>
+<td><b>88</b></td>
+<td>89
+</td></tr>
+<tr>
+<td>90</td>
+<td>91</td>
+<td></td>
+<td><b>92</b></td>
+<td>93</td>
+<td>94</td>
+<td>95
+</td></tr>
+<tr>
+<td></td>
+<td><b>96</b></td>
+<td>97</td>
+<td>98</td>
+<td>99</td>
+<td></td>
+<td>
+</td></tr>
+<tr align="center">
+<td colspan="6">число столетий
+</td>
+<td rowspan="9">
+</td>
+<td colspan="7" rowspan="2"><a href="/wiki/%D0%92%D1%80%D1%83%D1%86%D0%B5%D0%BB%D0%B5%D1%82%D0%BE" title="Вруцелето">Вруцелето</a>
+</td>
+<td rowspan="9">
+</td>
+<td colspan="5" rowspan="2">месяцы
+</td></tr>
+<tr align="center">
+<td colspan="4">ст. ст.</td>
+<td colspan="2">н. ст.
+</td></tr>
+<tr align="center">
+<td align="right"><b>−4</b></td>
+<td align="right"><b> 3</b></td>
+<td align="right"><b>10</b></td>
+<td align="right"><b>17</b></td>
+<td align="right">—</td>
+<td align="right">—
+</td>
+<td><a href="/wiki/%D0%90_(%D0%BA%D0%B8%D1%80%D0%B8%D0%BB%D0%BB%D0%B8%D1%86%D0%B0)" title="А (кириллица)">А</a></td>
+<td><a href="/wiki/%D0%92_(%D0%BA%D0%B8%D1%80%D0%B8%D0%BB%D0%BB%D0%B8%D1%86%D0%B0)" title="В (кириллица)">В</a></td>
+<td><a href="/wiki/%D0%93" title="Г">Г</a></td>
+<td><a href="/wiki/%D0%94" title="Д">Д</a></td>
+<td><a href="/wiki/%D0%95_(%D0%BA%D0%B8%D1%80%D0%B8%D0%BB%D0%BB%D0%B8%D1%86%D0%B0)" title="Е (кириллица)">Е</a></td>
+<td><a class="mw-redirect" href="/wiki/%D0%85" title="Ѕ">Ѕ</a></td>
+<td><a href="/wiki/%D0%97" title="З">З</a>
+</td>
+<td><b> <a href="/wiki/%D0%AF%D0%BD%D0%B2%D0%B0%D1%80%D1%8C" title="Январь">Яв</a> </b></td>
+<td><a href="/wiki/%D0%90%D0%BF%D1%80%D0%B5%D0%BB%D1%8C" title="Апрель">Апр.</a></td>
+<td><a href="/wiki/%D0%98%D1%8E%D0%BB%D1%8C" title="Июль">Июль</a></td>
+<td>
+</td></tr>
+<tr align="center">
+<td align="right"><b>−3</b></td>
+<td align="right"><b>4</b></td>
+<td align="right"><b>11</b></td>
+<td align="right"><b>18</b></td>
+<td align="right">15</td>
+<td align="right">19
+</td>
+<td>З</td>
+<td>А</td>
+<td>В</td>
+<td>Г</td>
+<td>Д</td>
+<td>Е</td>
+<td>Ѕ
+</td>
+<td><a href="/wiki/%D0%AF%D0%BD%D0%B2%D0%B0%D1%80%D1%8C" title="Январь">Яп</a></td>
+<td></td>
+<td></td>
+<td><a href="/wiki/%D0%9E%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8C" title="Октябрь">Окт.</a>
+</td></tr>
+<tr align="center">
+<td align="right"><b>−2</b></td>
+<td align="right"><b>5</b></td>
+<td align="right"><b>12</b></td>
+<td align="right"><b>19</b></td>
+<td align="right"><b>16</b></td>
+<td align="right"><b>20</b>
+</td>
+<td>Ѕ</td>
+<td>З</td>
+<td>А</td>
+<td>В</td>
+<td>Г</td>
+<td>Д</td>
+<td>Е
+</td>
+<td></td>
+<td><a href="/wiki/%D0%9C%D0%B0%D0%B9" title="Май">Май</a></td>
+<td></td>
+<td>
+</td></tr>
+<tr align="center">
+<td align="right"><b>−1</b></td>
+<td align="right"><b>6</b></td>
+<td align="right"><b>13</b></td>
+<td align="right"><b>20</b></td>
+<td align="right">—</td>
+<td align="right">—
+</td>
+<td>Е</td>
+<td>Ѕ</td>
+<td>З</td>
+<td>А</td>
+<td>В</td>
+<td>Г</td>
+<td>Д
+</td>
+<td><b><a href="/wiki/%D0%A4%D0%B5%D0%B2%D1%80%D0%B0%D0%BB%D1%8C" title="Февраль">Фв</a></b></td>
+<td></td>
+<td><a href="/wiki/%D0%90%D0%B2%D0%B3%D1%83%D1%81%D1%82" title="Август">Авг.</a></td>
+<td>
+</td></tr>
+<tr align="center">
+<td align="right"><b>0</b></td>
+<td align="right"><b>7</b></td>
+<td align="right"><b>14</b></td>
+<td align="right"><b>21</b></td>
+<td align="right">17</td>
+<td align="right">21
+</td>
+<td>Д</td>
+<td>Е</td>
+<td>Ѕ</td>
+<td>З</td>
+<td>А</td>
+<td>В</td>
+<td>Г
+</td>
+<td><a href="/wiki/%D0%A4%D0%B5%D0%B2%D1%80%D0%B0%D0%BB%D1%8C" title="Февраль">Фп</a></td>
+<td><a href="/wiki/%D0%9C%D0%B0%D1%80%D1%82" title="Март">Март</a></td>
+<td></td>
+<td><a href="/wiki/%D0%9D%D0%BE%D1%8F%D0%B1%D1%80%D1%8C" title="Ноябрь">Нояб.</a>
+</td></tr>
+<tr align="center">
+<td align="right"><b>1</b></td>
+<td align="right"><b>8</b></td>
+<td align="right"><b>15</b></td>
+<td align="right"><b>22</b></td>
+<td align="right">—</td>
+<td align="right">—</td>
+<td>Г</td>
+<td>Д</td>
+<td>Е</td>
+<td>Ѕ</td>
+<td>З</td>
+<td>А</td>
+<td>В
+</td>
+<td></td>
+<td><a href="/wiki/%D0%98%D1%8E%D0%BD%D1%8C" title="Июнь">Июнь</a></td>
+<td></td>
+<td>
+</td></tr>
+<tr align="center">
+<td align="right"><b>2</b></td>
+<td align="right"><b>9</b></td>
+<td align="right"><b>16</b></td>
+<td align="right"><b>23</b></td>
+<td align="right">18</td>
+<td align="right">22
+</td>
+<td>В</td>
+<td>Г</td>
+<td>Д</td>
+<td>Е</td>
+<td>Ѕ</td>
+<td>З</td>
+<td>А
+</td>
+<td></td>
+<td></td>
+<td><a href="/wiki/%D0%A1%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8C" title="Сентябрь">Сент.</a></td>
+<td><a href="/wiki/%D0%94%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8C" title="Декабрь">Дек.</a>
+</td></tr>
+<tr align="center">
+<td rowspan="8">
+</td>
+<td colspan="5">Числа месяца
+</td>
+<td rowspan="8">
+</td>
+<td colspan="7">Дни недели
+</td>
+<td colspan="1" rowspan="8">
+</td>
+<td align="left" bgcolor="honeydew" colspan="4" rowspan="8">
+<p><small>
+31 — январь
+<br/>28/<b>29</b> — февраль простой/<b>високосный</b>
+<br/>31 — март
+<br/>30 — апрель
+<br/>31 — май
+<br/>30 — июнь
+<br/>31 — июль
+<br/>31 — август
+<br/>30 — сентябрь
+<br/>31 — октябрь
+<br/>30 — ноябрь
+<br/>31 — декабрь
+</small>
+</p>
+</td></tr>
+<tr align="center">
+<td>1</td>
+<td>8</td>
+<td>15</td>
+<td>22</td>
+<td>29
+</td>
+<td>пн</td>
+<td>вт</td>
+<td>ср</td>
+<td>чт</td>
+<td>пт</td>
+<td>сб</td>
+<td>вс
+</td></tr>
+<tr align="center">
+<td>2</td>
+<td>9</td>
+<td>16</td>
+<td>23</td>
+<td>30
+</td>
+<td>вт</td>
+<td>ср</td>
+<td>чт</td>
+<td>пт</td>
+<td>сб</td>
+<td>вс</td>
+<td>пн
+</td></tr>
+<tr align="center">
+<td>3</td>
+<td>10</td>
+<td>17</td>
+<td>24</td>
+<td>31
+</td>
+<td>ср</td>
+<td>чт</td>
+<td>пт</td>
+<td>сб</td>
+<td>вс</td>
+<td>пн</td>
+<td>вт
+</td></tr>
+<tr align="center">
+<td>4</td>
+<td>11</td>
+<td>18</td>
+<td>25</td>
+<td>
+</td>
+<td>чт</td>
+<td>пт</td>
+<td>сб</td>
+<td>вс</td>
+<td>пн</td>
+<td>вт</td>
+<td>ср
+</td></tr>
+<tr align="center">
+<td>5</td>
+<td>12</td>
+<td>19</td>
+<td>26</td>
+<td>
+</td>
+<td>пт</td>
+<td>сб</td>
+<td>вс</td>
+<td>пн</td>
+<td>вт</td>
+<td>ср</td>
+<td>чт
+</td></tr>
+<tr align="center">
+<td>6</td>
+<td>13</td>
+<td>20</td>
+<td>27</td>
+<td>
+</td>
+<td>сб</td>
+<td>вс</td>
+<td>пн</td>
+<td>вт</td>
+<td>ср</td>
+<td>чт</td>
+<td>пт
+</td></tr>
+<tr align="center">
+<td>7</td>
+<td>14</td>
+<td>21</td>
+<td>28</td>
+<td>
+</td>
+<td>вс</td>
+<td>пн</td>
+<td>вт</td>
+<td>ср</td>
+<td>чт</td>
+<td>пт</td>
+<td>сб
+</td></tr></tbody></table>
+<p>Примечание:
+Оригинал похож на «Табель-календарь вожатого на XX век, 1957 г.»<sup class="reference" id="cite_ref-_82b3eb36246e148d_2-0"><a href="#cite_note-_82b3eb36246e148d-2">[2]</a></sup> и на «таблицу В. Богатырёва, 1931 г.»<sup class="reference" id="cite_ref-_82b3e936246e1176_3-0"><a href="#cite_note-_82b3e936246e1176-3">[3]</a></sup>.
+</p><p>Этот календарь занимал мало места и часто включался в записные книжки и публиковался в книгах.
+</p>
+<h3><span id=".D0.94.D0.B8.D1.81.D0.BA.D0.BE.D0.B2.D1.8B.D0.B9_.D0.B2.D0.B5.D1.87.D0.BD.D1.8B.D0.B9_.D0.BA.D0.B0.D0.BB.D0.B5.D0.BD.D0.B4.D0.B0.D1.80.D1.8C"></span><span class="mw-headline" id="Дисковый_вечный_календарь">Дисковый вечный календарь</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%92%D0%B5%D1%87%D0%BD%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C&amp;veaction=edit&amp;section=8" title="Редактировать раздел «Дисковый вечный календарь»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D0%B5%D1%87%D0%BD%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C&amp;action=edit&amp;section=8" title="Редактировать код раздела «Дисковый вечный календарь»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:PerpetualCalendar.svg"><img class="mw-file-element" data-file-height="800" data-file-width="800" decoding="async" height="220" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/PerpetualCalendar.svg/220px-PerpetualCalendar.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/PerpetualCalendar.svg/330px-PerpetualCalendar.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/PerpetualCalendar.svg/440px-PerpetualCalendar.svg.png 2x" width="220"/></a><figcaption>Дисковый вечный календарь на 28 лет (2001—2028). <a href="/wiki/%D0%92%D0%B8%D1%81%D0%BE%D0%BA%D0%BE%D1%81%D0%BD%D1%8B%D0%B9_%D0%B3%D0%BE%D0%B4" title="Високосный год">Високосные годы</a> выделены <b>жирным</b> шрифтом</figcaption></figure>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Cal1969_cheljabinsk_bw.jpg"><img class="mw-file-element" data-file-height="2055" data-file-width="1450" decoding="async" height="312" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Cal1969_cheljabinsk_bw.jpg/220px-Cal1969_cheljabinsk_bw.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Cal1969_cheljabinsk_bw.jpg/330px-Cal1969_cheljabinsk_bw.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Cal1969_cheljabinsk_bw.jpg/440px-Cal1969_cheljabinsk_bw.jpg 2x" width="220"/></a><figcaption>Дисковый вечный календарь из алюминия на 1969—1991 годы, изготовленный в <a href="/wiki/%D0%A7%D0%B5%D0%BB%D1%8F%D0%B1%D0%B8%D0%BD%D1%81%D0%BA" title="Челябинск">Челябинске</a></figcaption></figure>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Perpetual_calendar.jpg"><img class="mw-file-element" data-file-height="3426" data-file-width="3120" decoding="async" height="242" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Perpetual_calendar.jpg/220px-Perpetual_calendar.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Perpetual_calendar.jpg/330px-Perpetual_calendar.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Perpetual_calendar.jpg/440px-Perpetual_calendar.jpg 2x" width="220"/></a><figcaption>Популярный в СССР сувенирный дисковый вечный календарь «<a href="/wiki/%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0" title="Москва">Москва</a>». На фото показан календарь на 1973—2000 годы, у которого также есть термометр и подставки для перьевых ручек</figcaption></figure>
+<p>Дисковый вечный календарь представляет собой конструкцию, в которую вставлен диск, на внешний радиус которого нанесены номера годов (при этом високосные годы выделяются особым шрифтом или цветом), а на внутренний — дни недели. При выборе месяца требуется повернуть диск так, чтобы номер текущего года и название месяца совпали. В результате дни недели расположатся таким образом, что будет получена сетка календаря на выбранный месяц.
+</p><p>Как правило, диск таких календарей делится на 28 частей, а сами календари рассчитаны на 23—28 лет, однако возможны и другие модификации.
+</p><p>Иногда на диск наносятся не дни недели, а сами числа месяца, что позволяет получить календарную сетку в более привычной форме — неделя всегда начинается с понедельника или воскресенья, в зависимости от страны, где используется календарь. Но такие календари производились редко, в основном из-за сложности нанесения цифр месяца по спирали.
+</p><p>На календаре остаётся много свободного пространства, которое очень часто заполняется различными изображениями, инструкцией по применению, списками праздников и т. п.)
+</p>
+<h3><span id=".D0.92_.D0.BF.D1.80.D0.BE.D0.B3.D1.80.D0.B0.D0.BC.D0.BC.D0.B8.D1.80.D0.BE.D0.B2.D0.B0.D0.BD.D0.B8.D0.B8"></span><span class="mw-headline" id="В_программировании">В программировании</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%92%D0%B5%D1%87%D0%BD%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C&amp;veaction=edit&amp;section=9" title="Редактировать раздел «В программировании»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D0%B5%D1%87%D0%BD%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C&amp;action=edit&amp;section=9" title="Редактировать код раздела «В программировании»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Существуют разнообразные методы вычисления дня недели. Некоторые из них основываются на заранее просчитанных таблицах сдвигов, а некоторые вычисляют все необходимые значения «с нуля» при каждом запуске. Иногда алгоритмы представляют собой автоматизированные версии табличных календарей.
+</p><p>Как правило, каждый метод имеет две модификации — для юлианского и для григорианского календаря.
+</p>
+<h2><span id=".D0.92.D0.B5.D1.87.D0.BD.D1.8B.D0.B9_.D0.BA.D0.B0.D0.BB.D0.B5.D0.BD.D0.B4.D0.B0.D1.80.D1.8C_.E2.80.94_.D0.BD.D0.B0.D0.B1.D0.BE.D1.80_.D1.82.D0.B0.D0.B1.D0.BB.D0.B8.D1.86"></span><span class="mw-headline" id="Вечный_календарь_—_набор_таблиц">Вечный календарь — набор таблиц</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%92%D0%B5%D1%87%D0%BD%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C&amp;veaction=edit&amp;section=10" title="Редактировать раздел «Вечный календарь — набор таблиц»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D0%B5%D1%87%D0%BD%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C&amp;action=edit&amp;section=10" title="Редактировать код раздела «Вечный календарь — набор таблиц»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>В григорианском календаре годы есть високосные и невисокосные; годы начинаются с понедельника по воскресенье. В совокупности это даёт (2×7=14) <a href="/wiki/%D0%A1%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%B0_%D0%B3%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8F" title="Структура григорианского календаря">14 вариантов календаря</a><sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup>.
+</p>
+<h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D0.BD.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Применение">Применение</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%92%D0%B5%D1%87%D0%BD%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C&amp;veaction=edit&amp;section=11" title="Редактировать раздел «Применение»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D0%B5%D1%87%D0%BD%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C&amp;action=edit&amp;section=11" title="Редактировать код раздела «Применение»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-Орисс plainlinks metadata ambox ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Emblem-important.svg"><img alt="" class="mw-file-element" data-file-height="48" data-file-width="48" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Emblem-important.svg/40px-Emblem-important.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Emblem-important.svg/60px-Emblem-important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Emblem-important.svg/80px-Emblem-important.svg.png 2x" width="40"/></a></span></div></td><td class="mbox-text"><div class="mbox-text-div">Возможно, этот раздел содержит <b><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9D%D0%B5%D0%B4%D0%BE%D0%BF%D1%83%D1%81%D1%82%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C_%D0%BE%D1%80%D0%B8%D0%B3%D0%B8%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D1%85_%D0%B8%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9" title="Википедия:Недопустимость оригинальных исследований">оригинальное исследование</a></b>.</div><div class="mbox-textsmall-div hide-when-compact" style="font-size:85%"><span class="hide-when-compact"> Проверьте соответствие информации приведённым источникам и удалите или исправьте информацию, являющуюся оригинальным исследованием. В случае необходимости подтвердите информацию авторитетными <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D0%BD%D0%B0_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8" title="Википедия:Ссылки на источники">источниками</a>. В противном случае этот раздел может быть удалён.</span> <span class="mbox-date"><i>(<span class="date">25 мая 2011</span>)</i></span></div></td></tr></tbody></table>
+<p>До начала <a href="/wiki/XX_%D0%B2%D0%B5%D0%BA" title="XX век">XX века</a> календари не применялись в целях планирования времени. Основное значение таких приспособлений было религиозным — они использовались для вычисления праздников и знаменательных дат.
+</p><p>Во времена СССР вечные календари можно было найти почти во всех учреждениях и во многих квартирах — календарь не занимал много места и мог использоваться несколько десятков лет. Однако лишь немногие календари прослужили весь свой срок.
+</p><p>Сейчас многие из календарей используются детьми в качестве игрушек. Иногда вечные календари до сих пор используют для получения дней недели (хотя экземпляры, сохраняющие работоспособность после <a href="/wiki/2000_%D0%B3%D0%BE%D0%B4" title="2000 год">2000 года</a>, очень редки). Иногда они являются предметом коллекционирования.
+</p><p>Несмотря на то, что с появлением компьютеров необходимость в вечных календарях отпала, подобные устройства до сих пор встречаются в механических <a href="/wiki/%D0%9D%D0%B0%D1%80%D1%83%D1%87%D0%BD%D1%8B%D0%B5_%D1%87%D0%B0%D1%81%D1%8B" title="Наручные часы">наручных часах</a><sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup>.
+</p><p>Существуют так же специальные онлайн сервисы для определения дня недели по дате<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup>.
+</p>
+<h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Примечания">Примечания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%92%D0%B5%D1%87%D0%BD%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C&amp;veaction=edit&amp;section=12" title="Редактировать раздел «Примечания»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D0%B5%D1%87%D0%BD%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C&amp;action=edit&amp;section=12" title="Редактировать код раздела «Примечания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-malävin-1"><span class="mw-cite-backlink">↑ <a href="#cite_ref-malävin_1-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-malävin_1-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><i>Дмитрий Малявин.</i> <a class="external text" href="http://alebedev.narod.ru/lib/lib18.html" rel="nofollow">«Вечные» карманные календари СССР</a> <a class="external text" href="https://web.archive.org/web/20140612011912/http://alebedev.narod.ru/lib/lib18.html" rel="nofollow">Архивная копия</a> от 12 июня 2014 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span>
+</li>
+<li id="cite_note-_82b3eb36246e148d-2"><span class="mw-cite-backlink"><a href="#cite_ref-_82b3eb36246e148d_2-0">↑</a></span> <span class="reference-text"><a href="#CITEREFБуткевич1984">Буткевич, 1984</a>, с. 108.</span>
+</li>
+<li id="cite_note-_82b3e936246e1176-3"><span class="mw-cite-backlink"><a href="#cite_ref-_82b3e936246e1176_3-0">↑</a></span> <span class="reference-text"><a href="#CITEREFБуткевич1984">Буткевич, 1984</a>, с. 129.</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343" id="CITEREFВолодомонов1987"><i>Володомонов Н. В.</i> <a class="external text" href="https://archive.org/details/libgen_00049246/page/n0/mode/1up" rel="nofollow">Календарь: прошлое, настоящее, будущее</a>. — Изд. 2. — <abbr title="Москва">М.</abbr>: <a href="/wiki/%D0%9D%D0%B0%D1%83%D0%BA%D0%B0_(%D0%B8%D0%B7%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE)" title="Наука (издательство)">Наука</a>. Гл. ред. физ.-мат. лит., 1987. — 80 с. — <span class="nowrap">310 000 экз.</span></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><a class="external text" href="https://web.archive.org/web/20080404180703/http://german.enta.ru/w/Raketa2/Raketa2.htm" rel="nofollow">Ракета (часы).</a></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://moydenrozdeniya.ru/v-kakoy-den-nedeli-ya-rodilsya" rel="nofollow">Определение дня недели по дате.</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span> Дата обращения: 15 марта 2014. <a class="external text" href="https://web.archive.org/web/20140315113418/http://moydenrozdeniya.ru/v-kakoy-den-nedeli-ya-rodilsya" rel="nofollow">Архивировано</a> 15 марта 2014 года.</span></span>
+</li>
+</ol></div></div>
+<h2><span id=".D0.9B.D0.B8.D1.82.D0.B5.D1.80.D0.B0.D1.82.D1.83.D1.80.D0.B0"></span><span class="mw-headline" id="Литература">Литература</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%92%D0%B5%D1%87%D0%BD%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C&amp;veaction=edit&amp;section=13" title="Редактировать раздел «Литература»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D0%B5%D1%87%D0%BD%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C&amp;action=edit&amp;section=13" title="Редактировать код раздела «Литература»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+
+<table class="metadata plainlinks ts-Родственный_проект noprint ruwikiWikimediaNavigation" role="presentation">
+<tbody><tr>
+<th style="width:10%;"><span class="noviewer" typeof="mw:File"><span><img alt="Логотип Викиучебника" class="mw-file-element" data-file-height="30" data-file-width="30" decoding="async" height="24" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Notification-icon-Wikibooks-logo.svg/24px-Notification-icon-Wikibooks-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Notification-icon-Wikibooks-logo.svg/36px-Notification-icon-Wikibooks-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Notification-icon-Wikibooks-logo.svg/48px-Notification-icon-Wikibooks-logo.svg.png 2x" width="24"/></span></span>
+</th>
+<td>Имеется <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA" title="Викиучебник">викиучебник</a> по теме <span class="wikibooks-ref"><b>«<a class="extiw" href="https://ru.wikibooks.org/wiki/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC_%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B4%D0%BD%D1%8F_%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B8" title="b:Алгоритм вычисления дня недели">Алгоритм вычисления дня недели</a>»</b></span>
+</td></tr></tbody></table>
+<ul><li><span class="citation no-wikidata" data-wikidata-property-id="P1343" id="CITEREFБуткевич1984"><i><a href="/wiki/%D0%91%D1%83%D1%82%D0%BA%D0%B5%D0%B2%D0%B8%D1%87,_%D0%90%D0%B4%D0%BE%D0%BB%D1%8C%D1%84_%D0%92%D0%B5%D0%BD%D0%B8%D0%B0%D0%BC%D0%B8%D0%BD%D0%BE%D0%B2%D0%B8%D1%87" title="Буткевич, Адольф Вениаминович">Буткевич А. В.</a>, Зеликсон М. С. при редакционном участии <a href="/wiki/%D0%9A%D0%BB%D0%B8%D0%BC%D0%B8%D1%88%D0%B8%D0%BD,_%D0%98%D0%B2%D0%B0%D0%BD_%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%BE%D0%B2%D0%B8%D1%87" title="Климишин, Иван Антонович">И. А. Климишина</a>.</i> Вечные календари. — Изд. 2. — <abbr title="Москва">М.</abbr>: <a href="/wiki/%D0%9D%D0%B0%D1%83%D0%BA%D0%B0_(%D0%B8%D0%B7%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE)" title="Наука (издательство)">Наука</a>. Гл. ред. физ.-мат. лит., 1984. — 208 с. — <span class="nowrap">150 000 экз.</span></span></li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw2408
+Cached time: 20240224130451
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.172 seconds
+Real time usage: 0.254 seconds
+Preprocessor visited node count: 1535/1000000
+Post‐expand include size: 19700/2097152 bytes
+Template argument size: 3783/2097152 bytes
+Highest expansion depth: 13/100
+Expensive parser function count: 0/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 7726/5000000 bytes
+Lua time usage: 0.041/10.000 seconds
+Lua memory usage: 2507511/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  174.099      1 -total
+ 46.31%   80.621      1 Шаблон:Примечания
+ 33.28%   57.941      2 Шаблон:Книга
+ 31.21%   54.345      1 Шаблон:Книга:Календарь:_прошлое,_настоящее,_будущее
+ 19.56%   34.052      1 Шаблон:Ориссный_раздел
+ 16.60%   28.906      1 Шаблон:Орисс
+ 15.25%   26.553      1 Шаблон:Ambox
+ 15.04%   26.192      1 Шаблон:Викиучебник
+ 14.29%   24.886      1 Шаблон:Родственный_проект
+ 14.01%   24.392      2 Шаблон:Sfn
+-->
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:541510-0!canonical and timestamp 20240224130451 and revision id 132514921. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> -->
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Вечный_календарь&amp;oldid=132514921">https://ru.wikipedia.org/w/index.php?title=Вечный_календарь&amp;oldid=132514921</a></div></div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категория</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D0%BD%D1%8B%D0%B5_%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B" title="Категория:Календарные алгоритмы">Календарные алгоритмы</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8,_%D0%BF%D0%BE%D0%B4%D0%BE%D0%B7%D1%80%D0%B5%D0%B2%D0%B0%D0%B5%D0%BC%D1%8B%D0%B5_%D0%B2_%D0%BD%D0%B0%D0%BB%D0%B8%D1%87%D0%B8%D0%B8_%D0%BE%D1%80%D0%B8%D0%B3%D0%B8%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D1%85_%D0%B8%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9_%D1%81_%D0%BC%D0%B0%D1%8F_2011_%D0%B3%D0%BE%D0%B4%D0%B0" title="Категория:Википедия:Статьи, подозреваемые в наличии оригинальных исследований с мая 2011 года">Википедия:Статьи, подозреваемые в наличии оригинальных исследований с мая 2011 года</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B0%D0%BC%D0%B8_%D0%BD%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D1%82%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Википедия:Статьи с шаблонами недостатков по алфавиту">Википедия:Статьи с шаблонами недостатков по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B0_%D0%BD%D0%B0_%D0%92%D0%B8%D0%BA%D0%B8%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA_%D0%BD%D0%B5%D0%BF%D0%BE%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE_%D0%B2_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B5" title="Категория:Википедия:Ссылка на Викиучебник непосредственно в статье">Википедия:Ссылка на Викиучебник непосредственно в статье</a></li></ul></div></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Навигация</h2>
+<div id="mw-head">
+<nav aria-labelledby="p-personal-label" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" id="p-personal" role="navigation">
+<h3 class="vector-menu-heading" id="p-personal-label">
+<span class="vector-menu-heading-label">Персональные инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="pt-anonuserpage"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li class="mw-list-item" id="pt-anontalk"><a accesskey="n" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]"><span>Обсуждение</span></a></li><li class="mw-list-item" id="pt-anoncontribs"><a accesskey="y" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]"><span>Вклад</span></a></li><li class="mw-list-item" id="pt-createaccount"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%92%D0%B5%D1%87%D0%BD%D1%8B%D0%B9+%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li class="mw-list-item" id="pt-login"><a accesskey="o" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%92%D0%B5%D1%87%D0%BD%D1%8B%D0%B9+%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]"><span>Войти</span></a></li>
+</ul>
+</div>
+</nav>
+<div id="left-navigation">
+<nav aria-labelledby="p-namespaces-label" class="mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-namespaces" role="navigation">
+<h3 class="vector-menu-heading" id="p-namespaces-label">
+<span class="vector-menu-heading-label">Пространства имён</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-nstab-main"><a accesskey="c" href="/wiki/%D0%92%D0%B5%D1%87%D0%BD%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C" title="Просмотреть контентную страницу [c]"><span>Статья</span></a></li><li class="mw-list-item" id="ca-talk"><a accesskey="t" href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%92%D0%B5%D1%87%D0%BD%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C" rel="discussion" title="Обсуждение основной страницы [t]"><span>Обсуждение</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-variants-label" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" id="p-variants" role="navigation">
+<input aria-haspopup="true" aria-labelledby="p-variants-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-variants" id="p-variants-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-variants-label">
+<span class="vector-menu-heading-label">русский</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+</div>
+<div id="right-navigation">
+<nav aria-labelledby="p-views-label" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-views" role="navigation">
+<h3 class="vector-menu-heading" id="p-views-label">
+<span class="vector-menu-heading-label">Просмотры</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="ca-view"><a href="/w/index.php?title=%D0%92%D0%B5%D1%87%D0%BD%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C&amp;stable=1"><span>Читать</span></a></li><li class="collapsible selected mw-list-item" id="ca-current"><a accesskey="v" href="/w/index.php?title=%D0%92%D0%B5%D1%87%D0%BD%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C&amp;stable=0&amp;redirect=no" title="Показать текущую версию этой страницы [v]"><span>Текущая версия</span></a></li><li class="mw-list-item" id="ca-ve-edit"><a accesskey="v" href="/w/index.php?title=%D0%92%D0%B5%D1%87%D0%BD%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C&amp;veaction=edit" title="Редактировать данную страницу [v]"><span>Править</span></a></li><li class="collapsible mw-list-item" id="ca-edit"><a accesskey="e" href="/w/index.php?title=%D0%92%D0%B5%D1%87%D0%BD%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C&amp;action=edit" title="Править исходный текст этой страницы [e]"><span>Править код</span></a></li><li class="mw-list-item" id="ca-history"><a accesskey="h" href="/w/index.php?title=%D0%92%D0%B5%D1%87%D0%BD%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C&amp;action=history" title="Журнал изменений страницы [h]"><span>История</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-cactions-label" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" id="p-cactions" role="navigation" title="Больше возможностей">
+<input aria-haspopup="true" aria-labelledby="p-cactions-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-cactions" id="p-cactions-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-cactions-label">
+<span class="vector-menu-heading-label">Ещё</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+<div class="vector-search-box-vue vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box" id="p-search" role="search">
+<h3>Поиск</h3>
+<form action="/w/index.php" class="vector-search-box-form" id="searchform">
+<div class="vector-search-box-inner" data-search-loc="header-navigation" id="simpleSearch">
+<input accesskey="f" aria-label="Искать в Википедии" autocapitalize="sentences" class="vector-search-box-input" id="searchInput" name="search" placeholder="Искать в Википедии" title="Искать в Википедии [f]" type="search"/>
+<input name="title" type="hidden" value="Служебная:Поиск"/>
+<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Найти страницы, содержащие указанный текст" type="submit" value="Найти"/>
+<input class="searchButton" id="searchButton" name="go" title="Перейти к странице, имеющей в точности такое название" type="submit" value="Перейти"/>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="vector-legacy-sidebar" id="mw-panel">
+<div id="p-logo" role="banner">
+<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу"></a>
+</div>
+<nav aria-labelledby="p-navigation-label" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" id="p-navigation" role="navigation">
+<h3 class="vector-menu-heading" id="p-navigation-label">
+<span class="vector-menu-heading-label">Навигация</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-mainpage-description"><a accesskey="z" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]"><span>Заглавная страница</span></a></li><li class="mw-list-item" id="n-content"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li class="mw-list-item" id="n-featured"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li class="mw-list-item" id="n-randompage"><a accesskey="x" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]"><span>Случайная статья</span></a></li><li class="mw-list-item" id="n-currentevents"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li class="mw-list-item" id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-participation-label" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" id="p-participation" role="navigation">
+<h3 class="vector-menu-heading" id="p-participation-label">
+<span class="vector-menu-heading-label">Участие</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-bug_in_article"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li class="mw-list-item" id="n-introduction"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li class="mw-list-item" id="n-portal"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li class="mw-list-item" id="n-forum"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li class="mw-list-item" id="n-recentchanges"><a accesskey="r" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]"><span>Свежие правки</span></a></li><li class="mw-list-item" id="n-newpages"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li class="mw-list-item" id="n-help"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-tb-label" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" id="p-tb" role="navigation">
+<h3 class="vector-menu-heading" id="p-tb-label">
+<span class="vector-menu-heading-label">Инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="t-whatlinkshere"><a accesskey="j" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%92%D0%B5%D1%87%D0%BD%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C" title="Список всех страниц, ссылающихся на данную [j]"><span>Ссылки сюда</span></a></li><li class="mw-list-item" id="t-recentchangeslinked"><a accesskey="k" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%92%D0%B5%D1%87%D0%BD%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]"><span>Связанные правки</span></a></li><li class="mw-list-item" id="t-specialpages"><a accesskey="q" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]"><span>Служебные страницы</span></a></li><li class="mw-list-item" id="t-permalink"><a href="/w/index.php?title=%D0%92%D0%B5%D1%87%D0%BD%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C&amp;oldid=132514921" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li class="mw-list-item" id="t-info"><a href="/w/index.php?title=%D0%92%D0%B5%D1%87%D0%BD%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li class="mw-list-item" id="t-cite"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%92%D0%B5%D1%87%D0%BD%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C&amp;id=132514921&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li class="mw-list-item" id="t-urlshortener"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%2592%25D0%25B5%25D1%2587%25D0%25BD%25D1%258B%25D0%25B9_%25D0%25BA%25D0%25B0%25D0%25BB%25D0%25B5%25D0%25BD%25D0%25B4%25D0%25B0%25D1%2580%25D1%258C"><span>Получить короткий URL</span></a></li><li class="mw-list-item" id="t-urlshortener-qrcode"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%2592%25D0%25B5%25D1%2587%25D0%25BD%25D1%258B%25D0%25B9_%25D0%25BA%25D0%25B0%25D0%25BB%25D0%25B5%25D0%25BD%25D0%25B4%25D0%25B0%25D1%2580%25D1%258C"><span>Скачать QR-код</span></a></li><li class="mw-list-item" id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1383171" title="Ссылка на связанный элемент репозитория данных [g]"><span>Элемент Викиданных</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-coll-print_export-label" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" id="p-coll-print_export" role="navigation">
+<h3 class="vector-menu-heading" id="p-coll-print_export-label">
+<span class="vector-menu-heading-label">Печать/экспорт</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="coll-download-as-rl"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%92%D0%B5%D1%87%D0%BD%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li class="mw-list-item" id="t-print"><a accesskey="p" href="/w/index.php?title=%D0%92%D0%B5%D1%87%D0%BD%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C&amp;printable=yes" title="Версия этой страницы для печати [p]"><span>Версия для печати</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-wikibase-otherprojects-label" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal vector-menu" id="p-wikibase-otherprojects" role="navigation">
+<h3 class="vector-menu-heading" id="p-wikibase-otherprojects-label">
+<span class="vector-menu-heading-label">В других проектах</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Perpetual_calendars" hreflang="en"><span>Викисклад</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-lang-label" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" id="p-lang" role="navigation">
+<h3 class="vector-menu-heading" id="p-lang-label">
+<span class="vector-menu-heading-label">На других языках</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="interlanguage-link interwiki-ar badge-Q70894304 mw-list-item" title=""><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AA%D9%82%D9%88%D9%8A%D9%85_%D8%AF%D8%A7%D8%A6%D9%85" hreflang="ar" lang="ar" title="تقويم دائم — арабский"><span>العربية</span></a></li><li class="interlanguage-link interwiki-br mw-list-item"><a class="interlanguage-link-target" href="https://br.wikipedia.org/wiki/Deiziadur_diarsav" hreflang="br" lang="br" title="Deiziadur diarsav — бретонский"><span>Brezhoneg</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Calendari_perpetu" hreflang="ca" lang="ca" title="Calendari perpetu — каталанский"><span>Català</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Ewiger_Kalender" hreflang="de" lang="de" title="Ewiger Kalender — немецкий"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a class="interlanguage-link-target" href="https://en.wikipedia.org/wiki/Perpetual_calendar" hreflang="en" lang="en" title="Perpetual calendar — английский"><span>English</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Calendario_perpetuo" hreflang="es" lang="es" title="Calendario perpetuo — испанский"><span>Español</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Betiereko_egutegi" hreflang="eu" lang="eu" title="Betiereko egutegi — баскский"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Ikuinen_kalenteri" hreflang="fi" lang="fi" title="Ikuinen kalenteri — финский"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Calendrier_perp%C3%A9tuel" hreflang="fr" lang="fr" title="Calendrier perpétuel — французский"><span>Français</span></a></li><li class="interlanguage-link interwiki-fy mw-list-item"><a class="interlanguage-link-target" href="https://fy.wikipedia.org/wiki/Ivichduorjende_kalinder" hreflang="fy" lang="fy" title="Ivichduorjende kalinder — западнофризский"><span>Frysk</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Calendario_perpetuo" hreflang="it" lang="it" title="Calendario perpetuo — итальянский"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Eeuwigdurende_kalender" hreflang="nl" lang="nl" title="Eeuwigdurende kalender — нидерландский"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Kalendarz_wieczny" hreflang="pl" lang="pl" title="Kalendarz wieczny — польский"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Calend%C3%A1rio_perp%C3%A9tuo" hreflang="pt" lang="pt" title="Calendário perpétuo — португальский"><span>Português</span></a></li><li class="interlanguage-link interwiki-sr badge-Q70893996 mw-list-item" title=""><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/Ve%C4%8Dni_kalendar" hreflang="sr" lang="sr" title="Večni kalendar — сербский"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Evighetskalender" hreflang="sv" lang="sv" title="Evighetskalender — шведский"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-tl mw-list-item"><a class="interlanguage-link-target" href="https://tl.wikipedia.org/wiki/Kalendaryong_walang-katapusan" hreflang="tl" lang="tl" title="Kalendaryong walang-katapusan — тагалог"><span>Tagalog</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%92%D1%96%D1%87%D0%BD%D0%B8%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80" hreflang="uk" lang="uk" title="Вічний календар — украинский"><span>Українська</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E8%90%AC%E5%B9%B4%E6%9B%86" hreflang="zh" lang="zh" title="萬年曆 — китайский"><span>中文</span></a></li><li class="interlanguage-link interwiki-zh-yue mw-list-item"><a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E8%90%AC%E5%B9%B4%E6%9B%86" hreflang="yue" lang="yue" title="萬年曆 — кантонский"><span>粵語</span></a></li>
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1383171#sitelinks-wikipedia" title="Править ссылки на другие языки">Править ссылки</a></span></div>
+</div>
+</nav>
+</div>
+</div>
+<footer class="mw-footer" id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 22 августа 2023 в 11:05.</li>
+<li id="footer-info-copyright">Текст доступен по <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru" rel="license">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a><a href="//creativecommons.org/licenses/by-sa/4.0/" rel="license" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br/>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org/ru/">Фонд Викимедиа (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//ru.m.wikipedia.org/w/index.php?title=%D0%92%D0%B5%D1%87%D0%BD%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C&amp;mobileaction=toggle_view_mobile">Мобильная версия</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" loading="lazy" src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88"/></a></li>
+<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" loading="lazy" src="/static/images/footer/poweredby_mediawiki_88x31.png" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88"/></a></li>
+</ul>
+</footer>
+
+
+</body>
+</html>

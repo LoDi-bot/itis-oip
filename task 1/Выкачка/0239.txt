@@ -11,7 +11,7 @@
 <meta content="" name="ResourceLoaderDynamicStyles"/>
 
 
-<meta content="MediaWiki 1.42.0-wmf.18" name="generator"/>
+<meta content="MediaWiki 1.42.0-wmf.19" name="generator"/>
 <meta content="origin" name="referrer"/>
 <meta content="origin-when-cross-origin" name="referrer"/>
 <meta content="max-image-preview:standard" name="robots"/>
@@ -163,7 +163,7 @@
 <li>Клан Эрскин на <a class="external text" href="https://web.archive.org/web/20060813124422/http://www.scotclans.com/clans/Erskine/history.html" rel="nofollow">Scotclans.com</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
 <li>Клан Эрскин на <a class="external text" href="http://www.scotsconnection.com/clan_crests/Erskine.htm" rel="nofollow">Scots Connection</a> <a class="external text" href="https://web.archive.org/web/20111019080940/http://www.scotsconnection.com/clan_crests/Erskine.htm" rel="nofollow">Архивная копия</a> от 19 октября 2011 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
 <li>Клан Эрскин на <a class="external text" href="https://web.archive.org/web/20130901085043/http://www.candle-web.co.uk/ersking/erskinedashukdotnet.htm" rel="nofollow">Erskine-UK.Net</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li></ul>
-<div aria-labelledby="Равнинные_кланы_Шотландии" class="navbox" data-name="Равнинные кланы Шотландии" role="navigation"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%A0%D0%B0%D0%B2%D0%BD%D0%B8%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BA%D0%BB%D0%B0%D0%BD%D1%8B_%D0%A8%D0%BE%D1%82%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D0%B8" title="Перейти к шаблону «Равнинные кланы Шотландии»"><img alt="Перейти к шаблону «Равнинные кланы Шотландии»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span> </span><div id="Равнинные_кланы_Шотландии" style="font-size:114%;margin:0 5em">Равнинные <a href="/wiki/%D0%9A%D0%BB%D0%B0%D0%BD%D1%8B_%D0%A8%D0%BE%D1%82%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D0%B8" title="Кланы Шотландии">кланы Шотландии</a></div></th></tr><tr><td class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em"><div class="NavContent">
+<div aria-labelledby="Равнинные_кланы_Шотландии" class="navbox" data-name="Равнинные кланы Шотландии" role="navigation"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%A0%D0%B0%D0%B2%D0%BD%D0%B8%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BA%D0%BB%D0%B0%D0%BD%D1%8B_%D0%A8%D0%BE%D1%82%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D0%B8" title="Перейти к шаблону «Равнинные кланы Шотландии»"><img alt="Перейти к шаблону «Равнинные кланы Шотландии»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span></span><div id="Равнинные_кланы_Шотландии" style="font-size:114%;margin:0 5em">Равнинные <a href="/wiki/%D0%9A%D0%BB%D0%B0%D0%BD%D1%8B_%D0%A8%D0%BE%D1%82%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D0%B8" title="Кланы Шотландии">кланы Шотландии</a></div></th></tr><tr><td class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em"><div class="NavContent">
 <ul><li><a class="new" href="/w/index.php?title=%D0%9A%D0%BB%D0%B0%D0%BD_%D0%90%D0%B4%D0%B0%D0%BC&amp;action=edit&amp;redlink=1" title="Клан Адам (страница отсутствует)">Адам</a></li>
 <li><a href="/wiki/%D0%9A%D0%BB%D0%B0%D0%BD_%D0%90%D0%BD%D1%81%D1%82%D1%80%D1%83%D1%82%D0%B5%D1%80" title="Клан Анструтер">Анструтер</a></li>
 <li><a href="/wiki/%D0%9A%D0%BB%D0%B0%D0%BD_%D0%90%D1%80%D0%B1%D0%B0%D1%82%D0%BD%D0%BE%D1%82%D1%82" title="Клан Арбатнотт">Арбатнотт</a></li>
@@ -335,45 +335,45 @@
 <li><a href="/wiki/%D0%9A%D0%BB%D0%B0%D0%BD_%D0%AF%D0%BD%D0%B3" title="Клан Янг">Янг</a></li></ul>
 </div></div></td></tr></tbody></table></div>
 <table class="mbox-Спам-ссылки plainlinks metadata ambox ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Emblem-important.svg"><img alt="" class="mw-file-element" data-file-height="48" data-file-width="48" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Emblem-important.svg/40px-Emblem-important.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Emblem-important.svg/60px-Emblem-important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Emblem-important.svg/80px-Emblem-important.svg.png 2x" width="40"/></a></span></div></td><td class="mbox-text"><div class="mbox-text-div">Некоторые <b>внешние ссылки</b> в этой статье <b>ведут на сайты, занесённые в <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D1%81%D0%BF%D0%B0%D0%BC-%D0%BB%D0%B8%D1%81%D1%82%D0%B0" title="Википедия:Изменение спам-листа">спам-лист</a></b></div><div class="mbox-textsmall-div hide-when-compact" style="font-size:85%"><span class="hide-when-compact"> Эти сайты могут нарушать авторские права, быть признаны <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D1%82%D0%BD%D1%8B%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8" title="Википедия:Авторитетные источники">неавторитетными источниками</a> или по другим причинам быть запрещены в Википедии. Редакторам следует заменить такие ссылки <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8" title="Википедия:Внешние ссылки">ссылками на соответствующие правилам сайты</a> или библиографическими ссылками на печатные источники либо удалить их (возможно, вместе с подтверждаемым ими содержимым).
-  <div class="mw-collapsible mw-collapsed ts-Скрытый_блок ts-Скрытый_блок-transparent ts-Скрытый_блок-rightHideLink" style="font-size:100%;"><div class="ts-Скрытый_блок-title" style="">Список проблемных ссылок</div><div class="mw-collapsible-content" style="">
+  <div class="mw-collapsible mw-collapsed has-collapsible-header ts-Скрытый_блок ts-Скрытый_блок-transparent ts-Скрытый_блок-rightHideLink" style="font-size:100%;"><div class="ts-Скрытый_блок-title collapsible-header" style="">Список проблемных ссылок</div><div class="mw-collapsible-content" style="">
 <p class="mw-empty-elt">
 </p>
 <ul><li><a class="external free" href="http://www.lib.ru/PRIKL/SKOTT/scott5.txt" rel="nofollow">http://www.lib.ru/PRIKL/SKOTT/scott5.txt</a></li></ul>
 </div></div></span></div></td></tr></tbody></table>
 <!-- 
 NewPP limit report
-Parsed by mw‐web.eqiad.main‐7cc97dcfbc‐78xzh
-Cached time: 20240218133301
+Parsed by mw2391
+Cached time: 20240227014229
 Cache expiry: 2592000
 Reduced expiry: false
 Complications: [show‐toc]
-CPU time usage: 0.308 seconds
-Real time usage: 0.426 seconds
-Preprocessor visited node count: 2551/1000000
-Post‐expand include size: 56909/2097152 bytes
-Template argument size: 12112/2097152 bytes
+CPU time usage: 0.223 seconds
+Real time usage: 0.337 seconds
+Preprocessor visited node count: 2528/1000000
+Post‐expand include size: 56896/2097152 bytes
+Template argument size: 12016/2097152 bytes
 Highest expansion depth: 15/100
 Expensive parser function count: 0/500
 Unstrip recursion depth: 0/20
-Unstrip post‐expand size: 13792/5000000 bytes
-Lua time usage: 0.081/10.000 seconds
-Lua memory usage: 3413118/52428800 bytes
+Unstrip post‐expand size: 13096/5000000 bytes
+Lua time usage: 0.060/10.000 seconds
+Lua memory usage: 3338891/52428800 bytes
 Number of Wikibase entities loaded: 1/400
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  309.705      1 -total
- 31.12%   96.393      1 Шаблон:Кланы
- 30.14%   93.358      1 Шаблон:Карточка
- 27.96%   86.582      1 Шаблон:Спам-ссылки
- 25.27%   78.272      1 Шаблон:Ambox
- 16.78%   51.975      5 Шаблон:Книга
- 15.52%   48.078      1 Шаблон:Скрытый_блок
- 14.33%   44.371      1 Шаблон:Начало_скрытого_блока
- 13.31%   41.232      3 Шаблон:Wikidata
- 11.90%   36.870      1 Шаблон:Примечания
+100.00%  252.107      1 -total
+ 34.44%   86.816      1 Шаблон:Кланы
+ 33.65%   84.824      1 Шаблон:Карточка
+ 22.14%   55.805      1 Шаблон:Спам-ссылки
+ 20.43%   51.515      1 Шаблон:Ambox
+ 19.85%   50.031      3 Шаблон:Wikidata
+ 16.44%   41.445      5 Шаблон:Книга
+ 12.02%   30.309      1 Шаблон:Примечания
+ 11.97%   30.174      1 Шаблон:Скрытый_блок
+ 11.02%   27.793      1 Шаблон:Карточка/оригинал_названия
 -->
-<!-- Saved in parser cache with key ruwiki:pcache:idhash:171078-0!canonical and timestamp 20240218133301 and revision id 132430441. Rendering was triggered because: page-view
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:171078-0!canonical and timestamp 20240227014229 and revision id 132430441. Rendering was triggered because: page-view
  -->
 </div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> -->
 <div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Клан_Эрскин&amp;oldid=132430441">https://ru.wikipedia.org/w/index.php?title=Клан_Эрскин&amp;oldid=132430441</a></div></div>

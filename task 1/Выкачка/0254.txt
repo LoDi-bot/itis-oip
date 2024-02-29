@@ -11,7 +11,7 @@
 <meta content="" name="ResourceLoaderDynamicStyles"/>
 
 
-<meta content="MediaWiki 1.42.0-wmf.18" name="generator"/>
+<meta content="MediaWiki 1.42.0-wmf.19" name="generator"/>
 <meta content="origin" name="referrer"/>
 <meta content="origin-when-cross-origin" name="referrer"/>
 <meta content="max-image-preview:standard" name="robots"/>
@@ -216,7 +216,7 @@
 <li><a class="external text" href="http://www.archery-sila.ru" rel="nofollow">archery-sila.ru</a> <a class="external text" href="https://web.archive.org/web/20220315013634/http://www.archery-sila.ru/" rel="nofollow">Архивная копия</a> от 15 марта 2022 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> Крупнейший портал о стрельбе из лука в России</li>
 <li><a class="external text" href="http://www.archery.ru" rel="nofollow">archery.ru</a> <a class="external text" href="https://web.archive.org/web/20220314165508/http://www.archery.ru/" rel="nofollow">Архивная копия</a> от 14 марта 2022 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> Сайт, посвящённый спортивной стрельбе из лука</li>
 <li><a class="external text" href="http://engineerd.narod.ru/" rel="nofollow">engineerd.narod.ru</a> <a class="external text" href="https://web.archive.org/web/20070116032012/http://engineerd.narod.ru/" rel="nofollow">Архивная копия</a> от 16 января 2007 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>  Анализ баллистических качеств лука</li></ul>
-<div aria-labelledby="Стрельба_из_лука" class="navbox" data-name="Стрельба из лука" role="navigation"><table class="nowraplinks hlist hlist-items-nowrap collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="3" scope="colgroup"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%A1%D1%82%D1%80%D0%B5%D0%BB%D1%8C%D0%B1%D0%B0_%D0%B8%D0%B7_%D0%BB%D1%83%D0%BA%D0%B0" title="Перейти к шаблону «Стрельба из лука»"><img alt="Перейти к шаблону «Стрельба из лука»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span> </span><div id="Стрельба_из_лука" style="font-size:114%;margin:0 5em"><a href="/wiki/%D0%A1%D1%82%D1%80%D0%B5%D0%BB%D1%8C%D0%B1%D0%B0_%D0%B8%D0%B7_%D0%BB%D1%83%D0%BA%D0%B0" title="Стрельба из лука">Стрельба из лука</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/%D0%9B%D1%83%D0%BA_(%D0%BE%D1%80%D1%83%D0%B6%D0%B8%D0%B5)" title="Лук (оружие)">Луки</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<div aria-labelledby="Стрельба_из_лука" class="navbox" data-name="Стрельба из лука" role="navigation"><table class="nowraplinks hlist hlist-items-nowrap collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="3" scope="colgroup"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%A1%D1%82%D1%80%D0%B5%D0%BB%D1%8C%D0%B1%D0%B0_%D0%B8%D0%B7_%D0%BB%D1%83%D0%BA%D0%B0" title="Перейти к шаблону «Стрельба из лука»"><img alt="Перейти к шаблону «Стрельба из лука»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span></span><div id="Стрельба_из_лука" style="font-size:114%;margin:0 5em"><a href="/wiki/%D0%A1%D1%82%D1%80%D0%B5%D0%BB%D1%8C%D0%B1%D0%B0_%D0%B8%D0%B7_%D0%BB%D1%83%D0%BA%D0%B0" title="Стрельба из лука">Стрельба из лука</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/%D0%9B%D1%83%D0%BA_(%D0%BE%D1%80%D1%83%D0%B6%D0%B8%D0%B5)" title="Лук (оружие)">Луки</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
 <ul><li><a class="new" href="/w/index.php?title=%D0%90%D1%80%D0%B1%D0%B0%D0%BB%D0%B5%D1%81%D1%82%D0%B0&amp;action=edit&amp;redlink=1" title="Арбалеста (страница отсутствует)">Арбалеста</a></li>
 <li><a href="/wiki/%D0%90%D1%80%D0%B1%D0%B0%D0%BB%D0%B5%D1%82" title="Арбалет">Арбалет</a></li>
 <li><a href="/wiki/%D0%91%D0%BB%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_%D0%BB%D1%83%D0%BA" title="Блочный лук">Блочный лук</a></li>
@@ -256,38 +256,38 @@
 </div></td></tr></tbody></table></div>
 <!-- 
 NewPP limit report
-Parsed by mw‐web.codfw.main‐9b7d78848‐7tmcx
-Cached time: 20240216153859
+Parsed by mw1405
+Cached time: 20240226131028
 Cache expiry: 2592000
 Reduced expiry: false
 Complications: [show‐toc]
-CPU time usage: 0.137 seconds
-Real time usage: 0.207 seconds
-Preprocessor visited node count: 492/1000000
-Post‐expand include size: 21143/2097152 bytes
-Template argument size: 573/2097152 bytes
+CPU time usage: 0.121 seconds
+Real time usage: 0.191 seconds
+Preprocessor visited node count: 469/1000000
+Post‐expand include size: 20920/2097152 bytes
+Template argument size: 513/2097152 bytes
 Highest expansion depth: 10/100
 Expensive parser function count: 2/500
 Unstrip recursion depth: 0/20
 Unstrip post‐expand size: 972/5000000 bytes
-Lua time usage: 0.065/10.000 seconds
-Lua memory usage: 2496445/52428800 bytes
+Lua time usage: 0.052/10.000 seconds
+Lua memory usage: 2387916/52428800 bytes
 Number of Wikibase entities loaded: 1/400
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  143.305      1 -total
- 42.84%   61.397      1 Шаблон:Навигация
- 30.87%   44.245      1 Шаблон:Нет_сносок
- 21.12%   30.271      1 Шаблон:Ambox
- 13.94%   19.978      1 Шаблон:Стрельба_из_лука
- 12.61%   18.074      1 Шаблон:Навигационная_таблица
-  6.70%    9.604      2 Шаблон:Main
-  3.03%    4.343      1 Шаблон:Ref-en
-  2.01%    2.886      1 Шаблон:Ref-lang
-  1.93%    2.770      5 Шаблон:Wayback
+100.00%  129.314      1 -total
+ 39.02%   50.458      1 Шаблон:Навигация
+ 37.74%   48.802      1 Шаблон:Нет_сносок
+ 26.07%   33.718      1 Шаблон:Ambox
+  8.89%   11.490      1 Шаблон:Стрельба_из_лука
+  8.40%   10.865      2 Шаблон:Main
+  7.40%    9.570      1 Шаблон:Навигационная_таблица
+  3.15%    4.068      1 Шаблон:Ref-en
+  2.28%    2.945      1 Шаблон:Ref-lang
+  2.14%    2.768      5 Шаблон:Wayback
 -->
-<!-- Saved in parser cache with key ruwiki:pcache:idhash:361626-0!canonical and timestamp 20240216153859 and revision id 129897893. Rendering was triggered because: page-view
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:361626-0!canonical and timestamp 20240226131028 and revision id 129897893. Rendering was triggered because: page-view
  -->
 </div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> -->
 <div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Олимпийский_лук&amp;oldid=129897893">https://ru.wikipedia.org/w/index.php?title=Олимпийский_лук&amp;oldid=129897893</a></div></div>

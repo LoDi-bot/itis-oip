@@ -1,0 +1,1487 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="ru">
+<head>
+<meta charset="utf-8"/>
+<title>Pentium III — Википедия</title>
+
+
+
+
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+
+
+<meta content="MediaWiki 1.42.0-wmf.19" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="max-image-preview:standard" name="robots"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/6/64/Pentium3processor.jpg" property="og:image"/>
+<meta content="1200" property="og:image:width"/>
+<meta content="900" property="og:image:height"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/6/64/Pentium3processor.jpg" property="og:image"/>
+<meta content="800" property="og:image:width"/>
+<meta content="600" property="og:image:height"/>
+<meta content="640" property="og:image:width"/>
+<meta content="480" property="og:image:height"/>
+<meta content="width=1000" name="viewport"/>
+<meta content="Pentium III — Википедия" property="og:title"/>
+<meta content="website" property="og:type"/>
+
+
+
+
+
+
+
+
+
+
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Pentium_III rootpage-Pentium_III skin-vector action-view"><div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators">
+<div class="mw-indicator" id="mw-indicator-audio"><div class="mw-parser-output"><span typeof="mw:File"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B0%D1%83%D0%B4%D0%B8%D0%BE%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9" title="Эта статья озвучена. Кликните, чтобы просмотреть список других аудиостатей"><img alt="Эта статья озвучена. Кликните, чтобы просмотреть список других аудиостатей" class="mw-file-element" data-file-height="455" data-file-width="512" decoding="async" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/Font_Awesome_5_solid_volume-up.svg/18px-Font_Awesome_5_solid_volume-up.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/Font_Awesome_5_solid_volume-up.svg/27px-Font_Awesome_5_solid_volume-up.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/39/Font_Awesome_5_solid_volume-up.svg/36px-Font_Awesome_5_solid_volume-up.svg.png 2x" width="18"/></a></span></div></div>
+</div>
+<h1 class="firstHeading mw-first-heading" id="firstHeading"><span class="mw-page-title-main">Pentium III</span></h1>
+<div class="vector-body" id="bodyContent">
+<div class="noprint" id="siteSub">Материал из Википедии — свободной энциклопедии</div>
+<div id="contentSub"><div id="mw-content-subtitle"><div class="flaggedrevs_short flaggedrevs_stable_synced plainlinks noprint" id="mw-fr-revisiontag"><div class="flaggedrevs_short_basic"><span class="flaggedrevs-icon oo-ui-widget oo-ui-widget-enabled oo-ui-iconElement-icon oo-ui-icon-articleSearch oo-ui-iconElement oo-ui-labelElement-invisible oo-ui-iconWidget" title="Правки этой страницы требуют проверки."></span><span class="flaggedrevs-icon oo-ui-widget oo-ui-widget-enabled oo-ui-iconElement-icon oo-ui-icon-eye oo-ui-iconElement oo-ui-labelElement-invisible oo-ui-iconWidget" title="Это отпатрулированная версия страницы"></span><span class="fr-toggle-arrow oo-ui-widget oo-ui-widget-enabled oo-ui-indicatorElement-indicator oo-ui-indicator-down oo-ui-indicatorElement oo-ui-labelElement-invisible oo-ui-indicatorWidget" id="mw-fr-revisiontoggle" title="показать/скрыть подробности"></span></div>
+<div id="mw-fr-revisiondetails-wrapper" style="position:relative;"><div class="flaggedrevs_short_details" id="mw-fr-revisiondetails" style="display:none">Это <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%B0%D1%82%D1%80%D1%83%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" title="Википедия:Патрулирование">стабильная версия</a>, <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB%D1%8B&amp;type=review&amp;page=Pentium_III">отпатрулированная</a> <i>17 января 2024</i>.</div>
+</div>
+</div>
+</div></div>
+<div id="contentSub2"></div>
+<div id="jump-to-nav"></div>
+<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+<div class="mw-body-content" id="mw-content-text"><div class="mw-content-ltr mw-parser-output" dir="ltr" lang="ru"><table class="infobox infobox-56d42c26d02899a6" data-name="Центральный процессор" style=""><tbody><tr><th class="infobox-above" colspan="2" scope="colgroup" style="">Pentium III</th></tr><tr><td class="" colspan="2" style="text-align:center;"><i><a href="/wiki/%D0%A6%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80" title="Центральный процессор">Центральный процессор</a></i></td></tr><tr><td class="infobox-image" colspan="2" style=""> <span class="no-wikidata" data-wikidata-property-id="P18"><span typeof="mw:File/Frameless"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Pentium3processor.jpg"><img class="mw-file-element" data-file-height="480" data-file-width="640" decoding="async" height="188" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pentium3processor.jpg/250px-Pentium3processor.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pentium3processor.jpg/375px-Pentium3processor.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pentium3processor.jpg/500px-Pentium3processor.jpg 2x" width="250"/></a></span></span> </td></tr>
+<tr>
+<th class="plainlist" scope="row">Производство</th>
+<td class="plainlist">
+с 1999 по 2003</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Разработчик</th>
+<td class="plainlist">
+<span class="wikidata-claim" data-wikidata-claim-id="Q83382$1b772b69-4fe7-3615-a24f-28d4ffa1d263" data-wikidata-property-id="P178"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/Intel" title="Intel">Intel</a></span></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Производитель</th>
+<td class="plainlist">
+<div class="no-wikidata" data-wikidata-property-id="P176">
+<div><ul><li><a href="/wiki/Intel" title="Intel">Intel</a></li></ul></div></div></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Частота <a href="/wiki/%D0%A6%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80" title="Центральный процессор">ЦП</a></th>
+<td class="plainlist">
+450 <a class="mw-redirect" href="/wiki/%D0%9C%D0%93%D1%86" title="МГц">МГц</a> — 1,4 <a class="mw-redirect" href="/wiki/%D0%93%D0%93%D1%86" title="ГГц">ГГц</a></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Частота <a href="/wiki/Front_Side_Bus" title="Front Side Bus">FSB</a></th>
+<td class="plainlist">
+100—133 <a class="mw-redirect" href="/wiki/%D0%9C%D0%93%D1%86" title="МГц">МГц</a></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Технология производства</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P2079"><a href="/wiki/%D0%9A%D0%9C%D0%9E%D0%9F" title="КМОП">КМОП</a>, 250—130 <a class="mw-redirect" href="/wiki/%D0%9D%D0%BC" title="Нм">нм</a></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row"><a href="/wiki/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4" title="Система команд">Наборы инструкций</a></th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P1068"><a class="mw-redirect" href="/wiki/IA-32" title="IA-32">IA-32</a>, <a href="/wiki/MMX" title="MMX">MMX</a>, <a href="/wiki/SSE" title="SSE">SSE</a></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row"><a href="/wiki/%D0%9C%D0%B8%D0%BA%D1%80%D0%BE%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0" title="Микроархитектура">Микроархитектура</a></th>
+<td class="plainlist">
+<a href="/wiki/Intel_P6" title="Intel P6">P6</a></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row"><a class="mw-redirect" href="/wiki/%D0%A0%D0%B0%D0%B7%D1%8A%D1%91%D0%BC_%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%B0_%D0%BF%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%B0" title="Разъём процессора персонального компьютера">Разъёмы</a></th>
+<td class="plainlist">
+<div><ul><li><a href="/wiki/Slot_1_(%D1%80%D0%B0%D0%B7%D1%8A%D1%91%D0%BC)" title="Slot 1 (разъём)">Slot 1</a></li><li><a href="/wiki/Socket_370" title="Socket 370">Socket 370</a></li></ul></div></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row"><a href="/wiki/%D0%AF%D0%B4%D1%80%D0%BE_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%B0" title="Ядро микропроцессора">Ядра</a></th>
+<td class="plainlist">
+<div><ul><li>Katmai</li><li>Coppermine</li><li>Tualatin</li><li>Mendocino
+(celeron)</li></ul></div></td>
+</tr><tr><td class="infobox-below" colspan="2" style=";"><div aria-label="Хронология" class="ts-Карточка-хронология plainlist"><div aria-label="Предыдущий" class="ts-Карточка-хронология-prev is-local"><a href="/wiki/Pentium_II" title="Pentium II">Pentium II</a></div><div aria-label="Следующий" class="ts-Карточка-хронология-next is-local"><a href="/wiki/Pentium_4" title="Pentium 4">Pentium 4</a></div></div></td></tr>
+</tbody></table>
+<table class="infobox sisterproject noprint" role="presentation">
+<tbody><tr>
+<th style="font-size:110%; text-align:center"><span style="float:left; margin-right:.5em"><span typeof="mw:File"><a href="/wiki/%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0:RU_Pentium_III_INTRO.ogg" title="Это аудиостатья. Кликните, чтобы прослушать"><img alt="Это аудиостатья. Кликните, чтобы прослушать" class="mw-file-element" data-file-height="455" data-file-width="512" decoding="async" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/Font_Awesome_5_solid_volume-up.svg/18px-Font_Awesome_5_solid_volume-up.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/Font_Awesome_5_solid_volume-up.svg/27px-Font_Awesome_5_solid_volume-up.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/39/Font_Awesome_5_solid_volume-up.svg/36px-Font_Awesome_5_solid_volume-up.svg.png 2x" width="18"/></a></span></span> Прослушать введение в статью
+</th></tr>
+<tr>
+<td><figure class="mw-halign-center" typeof="mw:File"><span><audio class="mw-file-element" controls="" data-durationhint="176" data-mwprovider="wikimediacommons" data-mwtitle="RU_Pentium_III_INTRO.ogg" id="mwe_player_0" preload="none" style="width:260px;" width="260"><source data-height="0" data-transcodekey="mp3" data-width="0" src="//upload.wikimedia.org/wikipedia/commons/transcoded/2/28/RU_Pentium_III_INTRO.ogg/RU_Pentium_III_INTRO.ogg.mp3" type="audio/mpeg"/><source data-height="0" data-width="0" src="//upload.wikimedia.org/wikipedia/commons/2/28/RU_Pentium_III_INTRO.ogg" type='audio/ogg; codecs="vorbis"'/></audio></span><figcaption>noicon</figcaption></figure>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B0%D1%83%D0%B4%D0%B8%D0%BE%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9" title="Википедия:Список аудиостатей">Аудиозапись</a> создана на основе <span class="plainlinks"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=Pentium_III&amp;oldid={{{3}}}">версии</a></span> статьи от <a href="/wiki/30_%D0%B0%D0%B2%D0%B3%D1%83%D1%81%D1%82%D0%B0" title="30 августа">30 августа</a> <a href="/wiki/2021_%D0%B3%D0%BE%D0%B4" title="2021 год">2021 года</a>
+</td></tr></tbody></table>
+<p><b><a href="/wiki/Intel" title="Intel">Intel</a></b> <b>Pentium III</b> (в русской разговорной речи — <i>Интел Пентиум три</i>, <a href="/wiki/%D0%A1%D1%82%D0%B8%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8_%D1%81%D0%BD%D0%B8%D0%B6%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BB%D0%B5%D0%BA%D1%81%D0%B8%D0%BA%D0%B0" title="Стилистически сниженная лексика">сниженный вариант</a> — <i>третий пень</i>) — <a href="/wiki/X86" title="X86">x86</a>-совместимый <a href="/wiki/%D0%A6%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80" title="Центральный процессор">микропроцессор</a> архитектуры <a href="/wiki/Intel_P6" title="Intel P6">Intel P6</a>, анонсированный <a href="/wiki/26_%D1%84%D0%B5%D0%B2%D1%80%D0%B0%D0%BB%D1%8F" title="26 февраля">26 февраля</a> <a href="/wiki/1999_%D0%B3%D0%BE%D0%B4" title="1999 год">1999 года</a> (в России Pentium III поступили в продажу летом того же года). Ядро Pentium III представляет собой модифицированное ядро Deschutes (которое использовалось в процессорах <a href="/wiki/Pentium_II" title="Pentium II">Pentium II</a>). По сравнению с предшественником расширен набор команд (добавлен набор инструкций <a href="/wiki/SSE" title="SSE">SSE</a>) и оптимизирована работа с <a href="/wiki/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%B0%D1%8F_%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D1%8C" title="Оперативная память">памятью</a>. Это позволило повысить производительность как в новых приложениях, использующих расширения <a href="/wiki/SSE" title="SSE">SSE</a>, так и в существующих (за счёт возросшей скорости работы с памятью). Также был введён 64-<a href="/wiki/%D0%91%D0%B8%D1%82" title="Бит">битный</a> серийный номер, уникальный для каждого процессора.
+</p>
+<div aria-labelledby="mw-toc-heading" class="toc" id="toc" role="navigation"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="ru"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Общие_сведения"><span class="tocnumber">1</span> <span class="toctext">Общие сведения</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Особенности_архитектуры"><span class="tocnumber">2</span> <span class="toctext">Особенности архитектуры</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Модели"><span class="tocnumber">3</span> <span class="toctext">Модели</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Pentium_III"><span class="tocnumber">3.1</span> <span class="toctext">Pentium III</span></a>
+<ul>
+<li class="toclevel-3 tocsection-5"><a href="#Katmai"><span class="tocnumber">3.1.1</span> <span class="toctext">Katmai</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Coppermine"><span class="tocnumber">3.1.2</span> <span class="toctext">Coppermine</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="#Coppermine-T"><span class="tocnumber">3.1.3</span> <span class="toctext">Coppermine-T</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="#Tualatin"><span class="tocnumber">3.1.4</span> <span class="toctext">Tualatin</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-9"><a href="#Mobile_Pentium_III"><span class="tocnumber">3.2</span> <span class="toctext">Mobile Pentium III</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Положение_на_рынке_и_сравнение_с_конкурентами"><span class="tocnumber">4</span> <span class="toctext">Положение на рынке и сравнение с конкурентами</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#«Битва_за_гигагерц»"><span class="tocnumber">4.1</span> <span class="toctext">«Битва за гигагерц»</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Интересные_факты"><span class="tocnumber">5</span> <span class="toctext">Интересные факты</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Технические_характеристики"><span class="tocnumber">6</span> <span class="toctext">Технические характеристики</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Ревизии_ядер_процессоров"><span class="tocnumber">7</span> <span class="toctext">Ревизии ядер процессоров</span></a>
+<ul>
+<li class="toclevel-2 tocsection-15"><a href="#Pentium_III_2"><span class="tocnumber">7.1</span> <span class="toctext">Pentium III</span></a>
+<ul>
+<li class="toclevel-3 tocsection-16"><a href="#Katmai_2"><span class="tocnumber">7.1.1</span> <span class="toctext">Katmai</span></a></li>
+<li class="toclevel-3 tocsection-17"><a href="#Coppermine_2"><span class="tocnumber">7.1.2</span> <span class="toctext">Coppermine</span></a></li>
+<li class="toclevel-3 tocsection-18"><a href="#Coppermine-T_2"><span class="tocnumber">7.1.3</span> <span class="toctext">Coppermine-T</span></a></li>
+<li class="toclevel-3 tocsection-19"><a href="#Tualatin_2"><span class="tocnumber">7.1.4</span> <span class="toctext">Tualatin</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-20"><a href="#Mobile_Pentium_III_2"><span class="tocnumber">7.2</span> <span class="toctext">Mobile Pentium III</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-21"><a href="#Обновление_микрокода_процессора"><span class="tocnumber">8</span> <span class="toctext">Обновление микрокода процессора</span></a></li>
+<li class="toclevel-1 tocsection-22"><a href="#Исправленные_ошибки"><span class="tocnumber">9</span> <span class="toctext">Исправленные ошибки</span></a>
+<ul>
+<li class="toclevel-2 tocsection-23"><a href="#Katmai_C0"><span class="tocnumber">9.1</span> <span class="toctext">Katmai C0</span></a></li>
+<li class="toclevel-2 tocsection-24"><a href="#Coppermine_A2"><span class="tocnumber">9.2</span> <span class="toctext">Coppermine A2</span></a></li>
+<li class="toclevel-2 tocsection-25"><a href="#Coppermine_B0"><span class="tocnumber">9.3</span> <span class="toctext">Coppermine B0</span></a></li>
+<li class="toclevel-2 tocsection-26"><a href="#Coppermine_C0"><span class="tocnumber">9.4</span> <span class="toctext">Coppermine C0</span></a></li>
+<li class="toclevel-2 tocsection-27"><a href="#Coppermine_D0"><span class="tocnumber">9.5</span> <span class="toctext">Coppermine D0</span></a></li>
+<li class="toclevel-2 tocsection-28"><a href="#Tualatin_A1"><span class="tocnumber">9.6</span> <span class="toctext">Tualatin A1</span></a></li>
+<li class="toclevel-2 tocsection-29"><a href="#Tualatin_B1"><span class="tocnumber">9.7</span> <span class="toctext">Tualatin B1</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-30"><a href="#Примечания"><span class="tocnumber">10</span> <span class="toctext">Примечания</span></a></li>
+<li class="toclevel-1 tocsection-31"><a href="#Ссылки"><span class="tocnumber">11</span> <span class="toctext">Ссылки</span></a></li>
+</ul>
+</div>
+<h2><span id=".D0.9E.D0.B1.D1.89.D0.B8.D0.B5_.D1.81.D0.B2.D0.B5.D0.B4.D0.B5.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Общие_сведения">Общие сведения</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Pentium_III&amp;veaction=edit&amp;section=1" title="Редактировать раздел «Общие сведения»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Pentium_III&amp;action=edit&amp;section=1" title="Редактировать код раздела «Общие сведения»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/%D0%A6%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80" title="Центральный процессор">Процессоры</a> Pentium III для <a href="/wiki/%D0%9D%D0%B0%D1%81%D1%82%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80" title="Настольный компьютер">настольных компьютеров</a> выпускались в трёх вариантах корпусов: <a class="mw-redirect" href="/wiki/SECC2" title="SECC2">SECC2</a>, <a class="mw-redirect" href="/wiki/FCPGA" title="FCPGA">FCPGA</a> и <a class="mw-redirect" href="/wiki/FCPGA2" title="FCPGA2">FCPGA2</a>.
+</p><p>Pentium III в корпусе SECC2 представляет собой картридж, содержащий процессорную <a href="/wiki/%D0%9F%D0%B5%D1%87%D0%B0%D1%82%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BB%D0%B0%D1%82%D0%B0" title="Печатная плата">плату</a> («<a class="mw-disambig" href="/wiki/%D0%A1%D1%83%D0%B1%D1%81%D1%82%D1%80%D0%B0%D1%82" title="Субстрат">субстрат</a>») с установленным на ней ядром процессора (во всех модификациях), а также <a class="mw-redirect" href="/wiki/%D0%9C%D0%B8%D0%BA%D1%80%D0%BE%D1%81%D1%85%D0%B5%D0%BC%D0%B0" title="Микросхема">микросхемами</a> <a class="mw-redirect" href="/wiki/%D0%9A%D0%B5%D1%88-%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D1%8C" title="Кеш-память">кэш-памяти</a> <a class="new" href="/w/index.php?title=BSRAM&amp;action=edit&amp;redlink=1" title="BSRAM (страница отсутствует)">BSRAM</a> и tag-RAM (в процессорах, основанных на ядре Katmai). Маркировка находится на картридже. Процессор предназначен для установки в 242-контактный щелевой разъём <a href="/wiki/Slot_1_(%D1%80%D0%B0%D0%B7%D1%8A%D1%91%D0%BC)" title="Slot 1 (разъём)">Slot 1</a>.
+В процессорах, основанных на ядре Katmai, кэш-память второго уровня работает на половине <a class="mw-redirect" href="/wiki/%D0%A2%D0%B0%D0%BA%D1%82%D0%BE%D0%B2%D0%B0%D1%8F_%D1%87%D0%B0%D1%81%D1%82%D0%BE%D1%82%D0%B0" title="Тактовая частота">частоты ядра</a>, а в процессорах на ядре Coppermine — на частоте ядра.
+</p><p>Pentium III в корпусе <a class="mw-redirect" href="/wiki/FCPGA" title="FCPGA">FCPGA</a> представляют собой подложку из органического материала зелёного цвета с установленным на ней открытым кристаллом на лицевой стороне и контактами на обратной. Также на обратной стороне корпуса (между контактами) расположено несколько <a href="/wiki/%D0%9F%D0%BE%D0%B2%D0%B5%D1%80%D1%85%D0%BD%D0%BE%D1%81%D1%82%D0%BD%D1%8B%D0%B9_%D0%BC%D0%BE%D0%BD%D1%82%D0%B0%D0%B6" title="Поверхностный монтаж">SMD</a>-элементов. Маркировка нанесена на наклейку, расположенную под кристаллом. Кристалл защищён от сколов специальным покрытием синего цвета, снижающим его хрупкость. Однако, несмотря на наличие этого покрытия, при неаккуратной установке радиатора (особенно неопытными пользователями) кристалл получал трещины и сколы (процессоры, получившие такие повреждения, на жаргоне назывались <i>колотыми</i>).
+В некоторых случаях процессор, получивший существенные повреждения кристалла (сколы до 2—3 мм с угла), продолжал работать без сбоев или с редкими сбоями.
+</p><p>Процессор предназначен для установки в 370-контактный гнездовой разъём <a href="/wiki/Socket_370" title="Socket 370">Socket 370</a>. В корпусе <a class="mw-redirect" href="/wiki/FCPGA" title="FCPGA">FCPGA</a> выпускались процессоры на ядре Coppermine.
+</p><p>Корпус <a class="mw-redirect" href="/wiki/FCPGA2" title="FCPGA2">FCPGA2</a> отличается от FCPGA наличием теплораспределителя (металлическая крышка, закрывающая кристалл процессора), защищающего кристалл процессора от сколов (однако, его наличие снижает эффективность охлаждения<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup>). Маркировка нанесена на наклейки, расположенные сверху и снизу от теплораспределителя. В корпусе FCPGA2 выпускались процессоры на ядре Tualatin, а также процессоры на поздней версии ядра Coppermine (известной как Coppermine-T).
+</p>
+<h2><span id=".D0.9E.D1.81.D0.BE.D0.B1.D0.B5.D0.BD.D0.BD.D0.BE.D1.81.D1.82.D0.B8_.D0.B0.D1.80.D1.85.D0.B8.D1.82.D0.B5.D0.BA.D1.82.D1.83.D1.80.D1.8B"></span><span class="mw-headline" id="Особенности_архитектуры">Особенности архитектуры</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Pentium_III&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Особенности архитектуры»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Pentium_III&amp;action=edit&amp;section=2" title="Редактировать код раздела «Особенности архитектуры»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable">Основная статья: <b><a href="/wiki/Intel_P6" title="Intel P6">Intel P6</a></b></div>
+<p>Первые процессоры архитектуры P6 в момент выхода значительно отличались от существующих процессоров. Процессор Pentium Pro отличало применение технологии динамического исполнения (изменения порядка исполнения инструкций), а также архитектура двойной независимой шины (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">Dual Independent Bus</span>), благодаря чему были сняты многие ограничения на пропускную способность памяти, характерные для предшественников и конкурентов. Тактовая частота первого процессора архитектуры P6 составляла 150 <a class="mw-redirect" href="/wiki/%D0%9C%D0%93%D1%86" title="МГц">МГц</a>, а <a href="/wiki/Celeron#Tualatin" title="Celeron">последние представители</a> этой архитектуры имели тактовую частоту 1,4 <a class="mw-redirect" href="/wiki/%D0%93%D0%93%D1%86" title="ГГц">ГГц</a>. Процессоры архитектуры P6 имели 36-разрядную шину адреса, что позволило им адресовать до 64 <a href="/wiki/%D0%93%D0%B8%D0%B3%D0%B0%D0%B1%D0%B0%D0%B9%D1%82" title="Гигабайт">ГБ</a> памяти (при этом линейное адресное пространство процесса ограничено 4 ГБ, см <a href="/wiki/PAE" title="PAE">PAE</a>).
+</p><p><b>Суперскалярный механизм исполнения инструкций с изменением их последовательности</b>
+</p><p>Принципиальным отличием архитектуры P6 от предшественников является RISC-ядро, работающее не с инструкциями x86, а с простыми внутренними микрооперациями. Это позволяет снять множество ограничений набора команд x86, таких как нерегулярное кодирование команд, переменная длина операндов и операции целочисленных пересылок регистр-память<sup class="reference" id="cite_ref-ixbt-p6_2-0"><a href="#cite_note-ixbt-p6-2">[2]</a></sup>. Кроме того, микрооперации исполняются не в той последовательности, которая предусмотрена программой, а в оптимальной с точки зрения производительности, а применение трёхконвейерной обработки позволяет исполнять несколько инструкций за один такт<sup class="reference" id="cite_ref-x86fc_3-0"><a href="#cite_note-x86fc-3">[3]</a></sup>.
+</p><p><b>Суперконвейеризация</b>
+</p><p>Процессоры архитектуры P6 имеют конвейер глубиной 12 стадий. Это позволяет достигать более высоких тактовых частот по сравнению с процессорами, имеющими более короткий конвейер при одинаковой технологии производства. Так, например, максимальная тактовая частота процессоров <a class="mw-redirect" href="/wiki/AMD_K6" title="AMD K6">AMD K6</a> на ядре (глубина конвейера — 6 стадий, 180-нм технология) составляет 550 МГц, а процессоры Pentium III на ядре Coppermine способны работать на частоте, превышающей 1000 МГц.
+</p><p>Для того, чтобы предотвратить ситуацию ожидания исполнения инструкции (и, следовательно, простоя конвейера), от результатов которого зависит выполнение или невыполнение условного перехода, в процессорах архитектуры P6 используется предсказание ветвлений. Для этого в процессорах архитектуры P6 используется сочетание статического и динамического предсказания: двухуровневый адаптивный исторический алгоритм (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">Bimodal branch prediction</span>) применяется в том случае, если буфер предсказания ветвлений содержит историю переходов, в противном случае применяется статический алгоритм<sup class="reference" id="cite_ref-x86fc_3-1"><a href="#cite_note-x86fc-3">[3]</a></sup><sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup>.
+</p><p><b>Двойная независимая шина</b>
+</p><p>С целью увеличения пропускной способности подсистемы памяти в процессорах архитектуры P6 применяется двойная независимая шина. В отличие от предшествующих процессоров, системная шина которых была общей для нескольких устройств, процессоры архитектуры P6 имеют две раздельные шины: <a href="/wiki/Back_side_bus" title="Back side bus">Back side bus</a>, соединяющую процессор с кэш-памятью второго уровня, и <a class="mw-redirect" href="/wiki/Front_side_bus" title="Front side bus">Front side bus</a>, соединяющую процессор с северным мостом набора микросхем<sup class="reference" id="cite_ref-x86fc_3-2"><a href="#cite_note-x86fc-3">[3]</a></sup>.
+</p>
+<h2><span id=".D0.9C.D0.BE.D0.B4.D0.B5.D0.BB.D0.B8"></span><span class="mw-headline" id="Модели">Модели</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Pentium_III&amp;veaction=edit&amp;section=3" title="Редактировать раздел «Модели»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Pentium_III&amp;action=edit&amp;section=3" title="Редактировать код раздела «Модели»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-Заготовка_раздела plainlinks metadata ambox ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><span><img alt="" class="mw-file-element" data-file-height="44" data-file-width="44" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Wiki_letter_w.svg/25px-Wiki_letter_w.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Wiki_letter_w.svg/38px-Wiki_letter_w.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Wiki_letter_w.svg/50px-Wiki_letter_w.svg.png 2x" width="25"/></span></span></div></td><td class="mbox-text"><div class="mbox-text-div">Этот раздел <b><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%97%D0%B0%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Википедия:Заготовка статьи">не завершён</a></b>.</div><div class="mbox-textsmall-div hide-when-compact" style="font-size:85%"><span class="hide-when-compact"> Вы поможете проекту, <a class="mw-redirect" href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0_%D0%B8_%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D1%8F" title="Википедия:Правила и указания">исправив и дополнив</a> его следующей информацией: стоимость на момент анонса.<br/></span></div></td></tr></tbody></table>
+<p>Первые процессоры Pentium III (Katmai) предназначались для настольных компьютеров и производились по 250-нм технологии. Дальнейшим развитием семейства <a href="/wiki/%D0%9D%D0%B0%D1%81%D1%82%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80" title="Настольный компьютер">настольных</a> Pentium III стало 180-нм ядро Coppermine, а последним ядром, использованным в процессорах семейства Pentium III, стало 130-нм ядро Tualatin<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup>.
+</p><p>На базе ядра Katmai выпускался также процессор <a href="/wiki/Xeon" title="Xeon">Xeon</a> (ядро Tanner), на базе ядра Coppermine — Xeon (Cascades) и <a href="/wiki/Celeron" title="Celeron">Celeron</a> (Coppermine-128), на базе ядра Tualatin — Celeron (Tualatin-256)<sup class="reference" id="cite_ref-sandpile_6-0"><a href="#cite_note-sandpile-6">[6]</a></sup>.
+</p>
+<table class="wide" style="text-align: center;">
+<caption><b>Процессоры Pentium III на ядре Katmai</b>
+</caption>
+<tbody><tr>
+<th width="13%">Тактовая частота
+</th>
+<th rowspan="2" width="4%">МГц
+</th>
+<td>450</td>
+<td>500</td>
+<td>533</td>
+<td>550</td>
+<td colspan="2">600
+</td></tr>
+<tr>
+<th>Частота FSB
+</th>
+<td colspan="2">100</td>
+<td>133</td>
+<td colspan="2">100</td>
+<td>133
+</td></tr>
+<tr>
+<th colspan="2">Анонсирован
+</th>
+<td colspan="2"><a href="/wiki/26_%D1%84%D0%B5%D0%B2%D1%80%D0%B0%D0%BB%D1%8F" title="26 февраля">26 февраля</a> <a class="mw-redirect" href="/wiki/1999" title="1999">1999</a>
+</td>
+<td><a href="/wiki/27_%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8F" title="27 сентября">27 сентября</a> 1999
+</td>
+<td><a href="/wiki/17_%D0%BC%D0%B0%D1%8F" title="17 мая">17 мая</a> 1999
+</td>
+<td><a href="/wiki/2_%D0%B0%D0%B2%D0%B3%D1%83%D1%81%D1%82%D0%B0" title="2 августа">2 августа</a> 1999
+</td>
+<td>27 сентября 1999
+</td></tr>
+<tr>
+<th colspan="2">Цена, долл.<sup class="reference" id="cite_ref-cost_7-0"><a href="#cite_note-cost-7">[7]</a></sup>.
+</th>
+<td>496</td>
+<td>696</td>
+<td>369</td>
+<td>700</td>
+<td>669</td>
+<td>615
+</td></tr></tbody></table>
+<table class="wide" style="text-align: center;">
+<caption><b>Процессоры Pentium III на ядре Coppermine</b>
+</caption>
+<tbody><tr>
+<th width="13%">Тактовая частота
+</th>
+<th rowspan="2" width="4%">МГц
+</th>
+<td>500</td>
+<td>533</td>
+<td>550</td>
+<td>600</td>
+<td>600</td>
+<td>650</td>
+<td>667</td>
+<td>700</td>
+<td>733</td>
+<td>750</td>
+<td>800</td>
+<td>800</td>
+<td>850</td>
+<td>866</td>
+<td>900</td>
+<td>933</td>
+<td>1000</td>
+<td>1000</td>
+<td>1100</td>
+<td><i>1133</i>
+</td></tr>
+<tr>
+<th>Частота FSB
+</th>
+<td>100</td>
+<td>133</td>
+<td>100</td>
+<td>133</td>
+<td colspan="2">100</td>
+<td>133</td>
+<td>100</td>
+<td>133</td>
+<td colspan="2">100</td>
+<td>133</td>
+<td>100</td>
+<td>133</td>
+<td>100</td>
+<td>133</td>
+<td>100</td>
+<td>133</td>
+<td>100</td>
+<td>133
+</td></tr>
+<tr>
+<th colspan="2">Анонсирован
+</th>
+<td colspan="9"><a href="/wiki/25_%D0%BE%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8F" title="25 октября">25 октября</a> 1999
+</td>
+<td colspan="3"><a href="/wiki/20_%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8F" title="20 декабря">20 декабря</a> 1999
+</td>
+<td colspan="2"><a href="/wiki/20_%D0%BC%D0%B0%D1%80%D1%82%D0%B0" title="20 марта">20 марта</a> <a class="mw-redirect" href="/wiki/2000" title="2000">2000</a>
+</td>
+<td>октябрь 2000
+</td>
+<td><a href="/wiki/24_%D0%BC%D0%B0%D1%8F" title="24 мая">24 мая</a> 2000
+</td>
+<td>31 июля 2000
+</td>
+<td><a href="/wiki/8_%D0%BC%D0%B0%D1%80%D1%82%D0%B0" title="8 марта">8 марта</a> 2000
+</td>
+<td>июнь 2001
+</td>
+<td>июль 2000
+</td></tr>
+<tr>
+<th colspan="2">Цена, долл.<sup class="reference" id="cite_ref-cost_7-1"><a href="#cite_note-cost-7">[7]</a></sup>
+</th>
+<td>239</td>
+<td>305</td>
+<td>368</td>
+<td>455</td>
+<td>455</td>
+<td>583</td>
+<td>605</td>
+<td>754</td>
+<td>776</td>
+<td>803</td>
+<td>851</td>
+<td>851</td>
+<td>н/д</td>
+<td>н/д</td>
+<td>н/д</td>
+<td>744</td>
+<td>н/д</td>
+<td>990</td>
+<td>н/д</td>
+<td>н/д
+</td></tr></tbody></table>
+<p>Примечание: <i>курсивом</i> выделен отозванный процессор.
+</p>
+<table class="wide" style="text-align: center;">
+<caption><b>Процессоры Pentium III на ядре Tualatin</b>
+</caption>
+<tbody><tr>
+<th width="17%">Тактовая частота, МГц
+</th>
+<td>1000</td>
+<td colspan="2">1133</td>
+<td>1200</td>
+<td>1266</td>
+<td>1333</td>
+<td colspan="2">1400
+</td></tr>
+<tr>
+<th>L2-кэш, Кб
+</th>
+<td>256</td>
+<td>256</td>
+<td>512</td>
+<td>256</td>
+<td>512</td>
+<td>256</td>
+<td>256</td>
+<td>512
+</td></tr>
+<tr>
+<th>Анонсирован
+</th>
+<td colspan="8"><a href="/wiki/%D0%98%D1%8E%D0%BB%D1%8C" title="Июль">июль</a> <a class="mw-redirect" href="/wiki/2001" title="2001">2001</a>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Pentium_III">Pentium III</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Pentium_III&amp;veaction=edit&amp;section=4" title="Редактировать раздел «Pentium III»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Pentium_III&amp;action=edit&amp;section=4" title="Редактировать код раздела «Pentium III»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Katmai">Katmai</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Pentium_III&amp;veaction=edit&amp;section=5" title="Редактировать раздел «Katmai»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Pentium_III&amp;action=edit&amp;section=5" title="Редактировать код раздела «Katmai»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Intel_Pentium_III_die.jpg"><img class="mw-file-element" data-file-height="572" data-file-width="1130" decoding="async" height="101" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/Intel_Pentium_III_die.jpg/200px-Intel_Pentium_III_die.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/Intel_Pentium_III_die.jpg/300px-Intel_Pentium_III_die.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/90/Intel_Pentium_III_die.jpg/400px-Intel_Pentium_III_die.jpg 2x" width="200"/></a><figcaption>Intel Pentium III Katmai снизу</figcaption></figure>
+<p>Первое ядро, использованное в процессорах Pentium III, является эволюционным продолжением ядра Deschutes, на котором были основаны процессоры <a href="/wiki/Pentium_II" title="Pentium II">Pentium II</a> последних ревизий<sup class="reference" id="cite_ref-ixbt_katmai_8-0"><a href="#cite_note-ixbt_katmai-8">[8]</a></sup>.
+</p><p>В новом ядре расширен набор <a href="/wiki/SIMD" title="SIMD">SIMD</a>-расширений (добавлен блок <a class="mw-redirect" href="/wiki/%D0%9F%D0%BB%D0%B0%D0%B2%D0%B0%D1%8E%D1%89%D0%B0%D1%8F_%D0%B7%D0%B0%D0%BF%D1%8F%D1%82%D0%B0%D1%8F" title="Плавающая запятая">вещественночисленных</a> SIMD-инструкций <a href="/wiki/SSE" title="SSE">SSE</a>), усовершенствован механизм потокового доступа к памяти (новый механизм предсказания позволяет уменьшить задержки при <a href="/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%8F_%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D1%8C#Произвольный_или_последовательный_доступ?" title="Компьютерная память">последовательном доступе к памяти</a>), а также введён уникальный серийный номер процессора, доступный для считывания программным обеспечением (с помощью инструкции <a class="mw-redirect" href="/wiki/Cpuid" title="Cpuid">cpuid</a>).
+</p><p>Последнее нововведение вызвало недовольство у пользователей (серийный номер мог быть считан удалённо, что могло поставить под угрозу приватность работы в <a href="/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82" title="Интернет">Интернете</a>), поэтому компания <a href="/wiki/Intel" title="Intel">Intel</a> была вынуждена выпустить <a class="mw-redirect" href="/wiki/%D0%A3%D1%82%D0%B8%D0%BB%D0%B8%D1%82%D1%8B" title="Утилиты">утилиту</a>, блокирующую доступ к серийному номеру.
+</p><p>Кэш второго уровня объёмом 512 кБ работает на половине частоты ядра и выполнен в виде двух микросхем <a class="new" href="/w/index.php?title=BSRAM&amp;action=edit&amp;redlink=1" title="BSRAM (страница отсутствует)">BSRAM</a> (производства <a href="/wiki/Toshiba" title="Toshiba">Toshiba</a> и <a href="/wiki/NEC" title="NEC">NEC</a>), расположенных друг над другом справа от кристалла процессора. В качестве tag-RAM используется микросхема Intel 82459AD, расположенная на обратной стороне процессорной платы под микросхемами кэш-памяти.
+</p><p>Pentium III на ядре Katmai содержали 9,5 млн <a href="/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D0%B7%D0%B8%D1%81%D1%82%D0%BE%D1%80" title="Транзистор">транзисторов</a>, площадь кристалла составляла 128 мм².
+</p><p>Первые процессоры на ядре Katmai работали с внешней частотой (<a class="mw-redirect" href="/wiki/Front_side_bus" title="Front side bus">частотой системной шины</a>) 100 <a class="mw-redirect" href="/wiki/%D0%9C%D0%B5%D0%B3%D0%B0%D0%B3%D0%B5%D1%80%D1%86" title="Мегагерц">МГц</a>. <a href="/wiki/27_%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8F" title="27 сентября">27 сентября</a> <a href="/wiki/1999_%D0%B3%D0%BE%D0%B4" title="1999 год">1999 года</a> были анонсированы процессоры с внешней частотой 133 МГц. Для того, чтобы различать процессоры, работающие на одинаковой частоте, но имеющие различную внешнюю частоту, в конце названия процессоров, имеющих внешнюю частоту 133 МГц, добавлялась английская буква «B» (от англ. Bus — шина).
+</p><p>Процессоры Pentium III на ядре Katmai выпускались в корпусе <a class="mw-redirect" href="/wiki/SECC2" title="SECC2">SECC2</a>.
+</p>
+<h4><span class="mw-headline" id="Coppermine">Coppermine</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Pentium_III&amp;veaction=edit&amp;section=6" title="Редактировать раздел «Coppermine»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Pentium_III&amp;action=edit&amp;section=6" title="Редактировать код раздела «Coppermine»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Intel_Pentium_III_733_MHz.jpg"><img class="mw-file-element" data-file-height="1073" data-file-width="2021" decoding="async" height="106" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Intel_Pentium_III_733_MHz.jpg/200px-Intel_Pentium_III_733_MHz.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Intel_Pentium_III_733_MHz.jpg/300px-Intel_Pentium_III_733_MHz.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Intel_Pentium_III_733_MHz.jpg/400px-Intel_Pentium_III_733_MHz.jpg 2x" width="200"/></a><figcaption>Pentium III 733 МГц (SECC2)</figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Intel_Pentium_III_Coppermine_die.jpg"><img class="mw-file-element" data-file-height="864" data-file-width="924" decoding="async" height="187" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Intel_Pentium_III_Coppermine_die.jpg/200px-Intel_Pentium_III_Coppermine_die.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Intel_Pentium_III_Coppermine_die.jpg/300px-Intel_Pentium_III_Coppermine_die.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Intel_Pentium_III_Coppermine_die.jpg/400px-Intel_Pentium_III_Coppermine_die.jpg 2x" width="200"/></a><figcaption>Pentium III 1 ГГц (FCPGA)</figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Coppermine-t.jpg"><img class="mw-file-element" data-file-height="200" data-file-width="400" decoding="async" height="100" src="//upload.wikimedia.org/wikipedia/ru/thumb/1/1b/Coppermine-t.jpg/200px-Coppermine-t.jpg" srcset="//upload.wikimedia.org/wikipedia/ru/thumb/1/1b/Coppermine-t.jpg/300px-Coppermine-t.jpg 1.5x, //upload.wikimedia.org/wikipedia/ru/1/1b/Coppermine-t.jpg 2x" width="200"/></a><figcaption>Pentium III 866 МГц (FCPGA2)</figcaption></figure>
+<p><a href="/wiki/25_%D0%BE%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8F" title="25 октября">25 октября</a> <a href="/wiki/1999_%D0%B3%D0%BE%D0%B4" title="1999 год">1999 года</a> корпорация Intel анонсировала процессор Pentium III, построенный на новом ядре, носящем кодовое имя Coppermine. Процессоры на ядре Coppermine выпускались по 180-нм технологии, имели интегрированную <a class="mw-redirect" href="/wiki/%D0%9A%D1%8D%D1%88-%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D1%8C" title="Кэш-память">кэш-память</a> второго уровня, работающую на частоте ядра. Кроме того, кэш-память имеет 256-битную шину (в отличие от процессоров на ядре Katmai, имевших 64-битную шину кэш-памяти), что значительно повышает её быстродействие. За счёт интегрированной кэш-памяти число транзисторов возросло до 28,1 млн.
+</p><p>Напряжение питания было снижено до 1,6 — 1,75 В, что позволило снизить тепловыделение. В сочетании со 180-нм технологией это позволило поднять максимальную частоту до 1 <a class="mw-redirect" href="/wiki/%D0%93%D0%B8%D0%B3%D0%B0%D0%B3%D0%B5%D1%80%D1%86" title="Гигагерц">ГГц</a> (Pentium III с частотой 1 ГГц был анонсирован <a href="/wiki/8_%D0%BC%D0%B0%D1%80%D1%82%D0%B0" title="8 марта">8 марта</a> <a href="/wiki/2000_%D0%B3%D0%BE%D0%B4" title="2000 год">2000 года</a>, однако наладить выпуск таких процессоров удалось значительно позже). В июле 2000 года компания Intel анонсировала Pentium III на ядре Coppermine с частотой 1,13 ГГц, однако в августе он был отозван из-за нестабильной работы. Выпуск моделей, работающих на частотах 1,1 и 1,13 ГГц, оказался возможен лишь в <a href="/wiki/2001_%D0%B3%D0%BE%D0%B4" title="2001 год">2001 году</a> после обновления ядра Coppermine (ревизия D0).
+</p><p>По ходу выпуска в процессоры вносились изменения, направленные на исправление ошибок, а также на уменьшение площади кристалла процессора (что позволило поднять эффективность производства) и снижение тепловыделения (так как процессоры с высокой тактовой частотой имели более низкое напряжение питания). Процессоры ревизии A2 имели площадь кристалла 106 мм², ревизии B0 — 104 мм², ревизии C0 — 90 мм², ревизии D0 — 95 мм²<sup class="reference" id="cite_ref-sandpile_6-1"><a href="#cite_note-sandpile-6">[6]</a></sup>.
+</p><p>Процессоры работали с внешней частотой 100 и 133 МГц. Для различения равночастотных процессоров с разной внешней частотой по-прежнему использовалась литера «B» в конце названия. Кроме того, для различения равночастотных процессоров на ядрах Katmai и Coppermine использовалась английская буква «E» (от англ. Enhanced — улучшенный). Возможно также сочетание букв «B» и «E» (так, например, процессор Pentium III 600 основан на ядре Katmai и работает с внешней частотой 100 МГц, а Pentium III 600EB — это Coppermine с внешней частотой 133 МГц)<sup class="reference" id="cite_ref-ixbt_cumine_9-0"><a href="#cite_note-ixbt_cumine-9">[9]</a></sup>.
+</p><p>Процессоры Pentium III на ядре Coppermine выпускались в трёх вариантах корпусов:
+</p>
+<ul><li><a class="mw-redirect" href="/wiki/SECC2" title="SECC2">SECC2</a> — предназначены для установки в <a href="/wiki/%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%BB%D0%B0%D1%82%D0%B0" title="Материнская плата">системные платы</a> с разъёмом <a href="/wiki/Slot_1_(%D1%80%D0%B0%D0%B7%D1%8A%D1%91%D0%BC)" title="Slot 1 (разъём)">Slot 1</a>. В данном корпусе выпускались процессоры ревизий A2, B0 и C0.</li>
+<li><a class="mw-redirect" href="/wiki/FCPGA" title="FCPGA">FCPGA</a> — предназначены для установки в системные платы с разъёмом <a href="/wiki/Socket_370" title="Socket 370">Socket 370</a>. В данном корпусе выпускались процессоры всех ревизий.</li>
+<li><a class="mw-redirect" href="/wiki/FCPGA2" title="FCPGA2">FCPGA2</a> — предназначены для установки в системные платы с разъёмом Socket 370. В данном корпусе выпускались некоторые процессоры ревизии D0.</li></ul>
+<p>Процессоры, предназначенные для установки в разъём Socket 370, могли также устанавливаться в системные платы с разъёмом Slot 1 при помощи <a href="/wiki/%D0%A1%D0%BB%D0%BE%D1%82%D0%BA%D0%B5%D1%82" title="Слоткет">переходника</a> Socket 370 — Slot 1 (Slot-to-FCPGA или Slot-to-FCPGA2).
+</p>
+<h4><span class="mw-headline" id="Coppermine-T">Coppermine-T</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Pentium_III&amp;veaction=edit&amp;section=7" title="Редактировать раздел «Coppermine-T»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Pentium_III&amp;action=edit&amp;section=7" title="Редактировать код раздела «Coppermine-T»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>В <a href="/wiki/2000_%D0%B3%D0%BE%D0%B4" title="2000 год">2000 году</a> в планах компании <a href="/wiki/Intel" title="Intel">Intel</a> появились процессоры с кодовым именем Coppermine-T. Предполагалось, что эти процессоры станут переходным вариантом между Coppermine и новыми процессорами на ядре Tualatin. Единственным <a href="/wiki/%D0%A7%D0%B8%D0%BF%D1%81%D0%B5%D1%82" title="Чипсет">чипсетом</a>, предназначенным для работы с процессорами на ядре Tualatin, должен был стать i830 (Almador), а недорогими процессорами для работы в системных платах на его базе — Pentium III на ядре Coppermine-T. Однако, в связи с тем, что компания Intel сосредоточилась на продвижении новых процессоров <a href="/wiki/Pentium_4" title="Pentium 4">Pentium 4</a>, в январе <a href="/wiki/2001_%D0%B3%D0%BE%D0%B4" title="2001 год">2001 года</a> выпуск чипсета i830, а вместе с ним и процессоров Pentium III на ядре Coppermine-T, был отменён<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup>.
+</p><p>Процессоры на ядре Coppermine-T представляют собой Pentium III на ядре Coppermine ревизии D0, способные работать как с шиной <a class="new" href="/w/index.php?title=AGTL&amp;action=edit&amp;redlink=1" title="AGTL (страница отсутствует)">AGTL</a> (1,25 В), используемой процессорами на ядре Tualatin, так и с шиной AGTL + (1,5 В), используемой остальными процессорами Pentium III.
+</p>
+<h4><span class="mw-headline" id="Tualatin">Tualatin</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Pentium_III&amp;veaction=edit&amp;section=8" title="Редактировать раздел «Tualatin»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Pentium_III&amp;action=edit&amp;section=8" title="Редактировать код раздела «Tualatin»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Pentium_III-S_Tualatin.JPG"><img class="mw-file-element" data-file-height="1536" data-file-width="2048" decoding="async" height="113" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/58/Pentium_III-S_Tualatin.JPG/150px-Pentium_III-S_Tualatin.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/58/Pentium_III-S_Tualatin.JPG/225px-Pentium_III-S_Tualatin.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/58/Pentium_III-S_Tualatin.JPG/300px-Pentium_III-S_Tualatin.JPG 2x" width="150"/></a><figcaption>Pentium III-S Tualatin</figcaption></figure>
+<p>Процессоры Pentium III и Pentium III-S на ядре Tualatin были анонсированы <a href="/wiki/21_%D0%B8%D1%8E%D0%BD%D1%8F" title="21 июня">21 июня</a> <a href="/wiki/2001_%D0%B3%D0%BE%D0%B4" title="2001 год">2001 года</a>. В связи с тем, что на тот момент на рынке уже присутствовал процессор <a href="/wiki/Pentium_4" title="Pentium 4">Pentium 4</a>, пришедший на смену процессорам Pentium III и активно продвигавшийся компанией <a href="/wiki/Intel" title="Intel">Intel</a>, процессоры на ядре Tualatin не получили широкого распространения, несмотря на то, что они значительно превосходили Pentium 4 на равных частотах.
+</p><p>Основным отличием от процессоров на ядре Coppermine стало наличие аппаратной предвыборки данных (data prefetch logic), что позволило повысить производительность за счёт предварительной загрузки данных, необходимых для работы.
+</p><p>Процессоры Pentium III-S имели 512 кБ кэш-памяти второго уровня и предназначались для высокопроизводительных <a href="/wiki/%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B0%D1%8F_%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F" title="Рабочая станция">рабочих станций</a> и <a href="/wiki/%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80_(%D0%B0%D0%BF%D0%BF%D0%B0%D1%80%D0%B0%D1%82%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)" title="Сервер (аппаратное обеспечение)">серверов</a>. В процессорах Pentium III на ядре Tualatin 256 кБ кэш-памяти были аппаратно отключены. Частота системной шины составляла 133 МГц для обеих модификаций.
+</p><p>Процессоры на ядре Tualatin выпускались по 130-нм технологии, содержали 44 млн транзисторов и имели площадь кристалла 80 мм² (вне зависимости от объёма кэш-памяти второго уровня). Напряжение ядра было снижено до 1,45—1,5 В. Также было изменено напряжение шины — в процессорах на ядре Tualatin использовалась шина <a class="new" href="/w/index.php?title=AGTL&amp;action=edit&amp;redlink=1" title="AGTL (страница отсутствует)">AGTL</a> с напряжением 1,25 В. Кроме того, было изменено назначение некоторых контактов разъёма <a href="/wiki/Socket_370" title="Socket 370">Socket 370</a>, поэтому процессоры на ядре Tualatin несовместимы с системными платами с разъёмом Socket 370, предназначенными для работы с Pentium III на ядре Coppermine, однако работоспособны в более старых системных платах с разъёмом <a href="/wiki/Slot_1_(%D1%80%D0%B0%D0%B7%D1%8A%D1%91%D0%BC)" title="Slot 1 (разъём)">Slot 1</a> за счёт использования <a href="/wiki/%D0%A1%D0%BB%D0%BE%D1%82%D0%BA%D0%B5%D1%82" title="Слоткет">переходника</a> Socket 370 — Slot 1 (Slot-to-FCPGA2)<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup>. Кроме того, платы и переходники могут быть модифицированы для работы с процессорами на ядре Tualatin<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup>.
+</p><p>Процессоры Pentium III на ядре Tualatin практически не встречались в розничной продаже и предназначались для рынка <a href="/wiki/OEM" title="OEM">OEM</a> (для использования в готовых компьютерах крупных производителей).
+</p><p>Существовали также встраиваемые (embedded) процессоры Pentium III-S, имевшие пониженное до 1,15 В напряжение питания, выполненные в корпусе BGA с 479 контактами. Они отличались от мобильных процессоров (Mobile Pentium III) отсутствием поддержки технологии <a href="/wiki/Intel" title="Intel">Intel</a> <a href="/wiki/SpeedStep" title="SpeedStep">SpeedStep</a><sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup>.
+</p><p>На основе ядра Tualatin разрабатывалось ядро для первых процессоров <a href="/wiki/Pentium_M" title="Pentium M">Pentium M</a>, предназначенных для использования в <a href="/wiki/%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA" title="Ноутбук">ноутбуках</a>, а архитектурные принципы, заложенные в процессорах семейства P6, легли в основу процессоров <a class="mw-redirect" href="/wiki/Intel_Core_2" title="Intel Core 2">Intel Core 2</a>, пришедших на смену процессорам <a href="/wiki/Pentium_4" title="Pentium 4">Pentium 4</a> и <a href="/wiki/Pentium_D" title="Pentium D">Pentium D</a> в настольных ПК<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup>.
+</p>
+<h3><span class="mw-headline" id="Mobile_Pentium_III">Mobile Pentium III</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Pentium_III&amp;veaction=edit&amp;section=9" title="Редактировать раздел «Mobile Pentium III»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Pentium_III&amp;action=edit&amp;section=9" title="Редактировать код раздела «Mobile Pentium III»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Intel_Pentium_III_600MHz_Notebook_2007_03_27.jpg"><img class="mw-file-element" data-file-height="835" data-file-width="1312" decoding="async" height="127" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Intel_Pentium_III_600MHz_Notebook_2007_03_27.jpg/200px-Intel_Pentium_III_600MHz_Notebook_2007_03_27.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Intel_Pentium_III_600MHz_Notebook_2007_03_27.jpg/300px-Intel_Pentium_III_600MHz_Notebook_2007_03_27.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Intel_Pentium_III_600MHz_Notebook_2007_03_27.jpg/400px-Intel_Pentium_III_600MHz_Notebook_2007_03_27.jpg 2x" width="200"/></a><figcaption>Mobile Pentium III</figcaption></figure>
+<p>Процессоры Mobile Pentium III, предназначенные для установки в ноутбуки, базировались на модифицированных ядрах Coppermine и Tualatin. Эти процессоры отличались пониженным до 0,95—1,7 В напряжением питания и поддержкой технологии <a href="/wiki/Intel" title="Intel">Intel</a> <a href="/wiki/SpeedStep" title="SpeedStep">SpeedStep</a>, которая динамически снижала частоту ядра процессора. В режиме энергосбережения также снижалось напряжение питания. Существовали модели Mobile Pentium III Ultra-Low Voltage (ULV) и Mobile Pentium III Low Voltage (LV), которые имели пониженное напряжение питания и обладали низким тепловыделением. Предназначались такие процессоры для установки в компактные ноутбуки<sup class="reference" id="cite_ref-sandpile_6-2"><a href="#cite_note-sandpile-6">[6]</a></sup>.
+</p><p>Процессоры выпускались в нескольких вариантах корпусов:
+</p>
+<ul><li><a href="/wiki/BGA" title="BGA">mBGA2</a> и <a class="new" href="/w/index.php?title=MFCBGA&amp;action=edit&amp;redlink=1" title="MFCBGA (страница отсутствует)">mFCBGA</a> — предназначались для установки в компактные ноутбуки, для которых были критичны габариты процессора. Высота процессора в данном корпусе составляла около 2,5 мм. Возможность замены процессора в таких системах отсутствовала.</li>
+<li><a class="new" href="/w/index.php?title=MPGA2&amp;action=edit&amp;redlink=1" title="MPGA2 (страница отсутствует)">mPGA2</a> — предназначались для установки в ноутбуки с возможностью замены процессора.</li></ul>
+<h2><span id=".D0.9F.D0.BE.D0.BB.D0.BE.D0.B6.D0.B5.D0.BD.D0.B8.D0.B5_.D0.BD.D0.B0_.D1.80.D1.8B.D0.BD.D0.BA.D0.B5_.D0.B8_.D1.81.D1.80.D0.B0.D0.B2.D0.BD.D0.B5.D0.BD.D0.B8.D0.B5_.D1.81_.D0.BA.D0.BE.D0.BD.D0.BA.D1.83.D1.80.D0.B5.D0.BD.D1.82.D0.B0.D0.BC.D0.B8"></span><span class="mw-headline" id="Положение_на_рынке_и_сравнение_с_конкурентами">Положение на рынке и сравнение с конкурентами</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Pentium_III&amp;veaction=edit&amp;section=10" title="Редактировать раздел «Положение на рынке и сравнение с конкурентами»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Pentium_III&amp;action=edit&amp;section=10" title="Редактировать код раздела «Положение на рынке и сравнение с конкурентами»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Pentium III являлся флагманским процессором компании <a href="/wiki/Intel" title="Intel">Intel</a> для настольных компьютеров с момента выхода в феврале <a href="/wiki/1999_%D0%B3%D0%BE%D0%B4" title="1999 год">1999 года</a> и до появления на рынке процессора <a href="/wiki/Pentium_4" title="Pentium 4">Pentium 4</a> в ноябре <a href="/wiki/2000_%D0%B3%D0%BE%D0%B4" title="2000 год">2000 года</a>. После выхода процессора Pentium 4 выпускались процессоры Pentium III на ядре Tualatin, однако широкого распространения они не получили. Параллельно с Pentium III существовали следующие x86-процессоры:
+</p>
+<ul><li>Intel <a href="/wiki/Celeron" title="Celeron">Celeron</a> (Mendocino). Предназначался для рынка недорогих настольных компьютеров. В момент своего появления, младший в семействе, Celeron 300А при работе в разогнанном режиме на 100 МГц шине позволял получить производительность, сравнимую с самым производительным процессором Pentium II 450. Даже после выпуска процессора Pentium III на ядре Katmai, за счёт полноскоростного кэша, разогнанные Celeron 300А обеспечивали сравнимую производительность в приложениях, не поддерживающих расширения <a href="/wiki/SSE" title="SSE">SSE</a><sup class="reference" id="cite_ref-ixbt_katmai_8-1"><a href="#cite_note-ixbt_katmai-8">[8]</a></sup>.</li>
+<li>Intel Celeron (Coppermine-128). Предназначался для рынка недорогих настольных компьютеров. Уступал как процессорам Pentium III на ядре Coppermine, так и конкуренту — <a href="/wiki/AMD" title="AMD">AMD</a> <a href="/wiki/Duron" title="Duron">Duron</a> — в основном за счёт использования медленной системной шины (66 / 100 МГц против 100 / 133 МГц у Coppermine и 200 МГц у AMD Duron). Уменьшенный до 128 Кб кэш второго уровня также не позволял процессорам Celeron приблизиться к конкурентам<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup><sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup>.</li>
+<li>Intel Celeron (Tualatin). В отличие от процессоров Pentium III на ядре Tualatin, Celeron, представлявший собой Pentium III с 256 Кб кэш-памяти второго уровня и внешней частотой 100 МГц, получил широкое распространение, в частности, среди <a class="mw-redirect" href="/wiki/%D0%9E%D0%B2%D0%B5%D1%80%D0%BA%D0%BB%D0%BE%D0%BA%D0%B5%D1%80" title="Оверклокер">оверклокеров</a>: так, например, процессоры Celeron 1.0A и 1.1A легко разгонялись до 1333 и 1466 МГц соответственно путём увеличения частоты шины до 133 МГц<sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup>. Уступал процессорам Pentium III и Pentium III-S за счёт менее скоростной системной шины, увеличенной латентности кэш-памяти второго уровня и меньшего её объёма (в случае с Pentium III-S), во многих задачах также уступал своим конкурентам — AMD <a href="/wiki/Athlon" title="Athlon">Athlon XP</a> и Duron<sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup><sup class="reference" id="cite_ref-19"><a href="#cite_note-19">[19]</a></sup>.</li>
+<li>Intel <a href="/wiki/Pentium_4" title="Pentium 4">Pentium 4</a>. Флагманский процессор компании Intel с ноября <a href="/wiki/2000_%D0%B3%D0%BE%D0%B4" title="2000 год">2000 года</a>. Серьёзно уступал как Pentium III, так и AMD Athlon XP на равных частотах, однако за счёт архитектуры <a href="/wiki/NetBurst" title="NetBurst">NetBurst</a> имел значительно более высокий частотный потенциал, позволявший получить преимущество в производительности<sup class="reference" id="cite_ref-20"><a href="#cite_note-20">[20]</a></sup><sup class="reference" id="cite_ref-21"><a href="#cite_note-21">[21]</a></sup>.</li>
+<li>AMD <a href="/wiki/K6-III" title="K6-III">K6-III</a>. Конкурировал с процессорами Pentium III на ядре Katmai. Значительно уступал в подавляющем большинстве задач (за исключением офисных приложений, а также игр, оптимизированных под расширения <a href="/wiki/3DNow!" title="3DNow!">3DNow!</a>) из-за устаревшей архитектуры и инфраструктуры. Устанавливался в материнские платы с разъёмом Super Socket 7<sup class="reference" id="cite_ref-22"><a href="#cite_note-22">[22]</a></sup>.</li>
+<li>AMD <a href="/wiki/Athlon" title="Athlon">Athlon</a> (K7). Конкурировал с процессорами Pentium III на ядрах Katmai и Coppermine. Во многих задачах опережал Pentium III, в некоторых — уступал им из-за отсутствия поддержки расширений <a href="/wiki/SSE" title="SSE">SSE</a> и менее быстродействующей кэш-памяти второго уровня<sup class="reference" id="cite_ref-23"><a href="#cite_note-23">[23]</a></sup>.</li>
+<li>AMD Athlon (Thunderbird). Конкурировал с процессорами Pentium III на ядре Coppermine. В некоторых задачах опережал Pentium III за счёт архитектурных преимуществ, в некоторых — уступал им из-за отсутствия поддержки расширений SSE и 64-битной шины кэш-памяти (против 256-битной у Coppermine)<sup class="reference" id="cite_ref-24"><a href="#cite_note-24">[24]</a></sup>.</li>
+<li>AMD Duron (Spitfire). Предназначался для рынка недорогих настольных компьютеров. Конкурировал с процессорами Intel Celeron на ядре Coppermine, значительно опережая их в большинстве задач, приближаясь к значительно более дорогим Pentium III, работавшим на немного меньшей частоте, а в некоторых задачах опережал их<sup class="reference" id="cite_ref-25"><a href="#cite_note-25">[25]</a></sup>.</li>
+<li><a href="/wiki/VIA_C3" title="VIA C3">VIA C3</a>. Предназначался для компьютеров с низким энергопотреблением, имел крайне низкую производительность и уступал всем конкурирующим процессорам<sup class="reference" id="cite_ref-26"><a href="#cite_note-26">[26]</a></sup>.</li>
+<li><a href="/wiki/Transmeta" title="Transmeta">Transmeta</a> <a href="/wiki/Crusoe" title="Crusoe">Crusoe</a>. Предназначался для использования в портативных компьютерах. Имел очень низкое энергопотребление, по производительности отставал от равночастотного Pentium III<sup class="reference" id="cite_ref-27"><a href="#cite_note-27">[27]</a></sup>.</li></ul>
+<h3><span id=".C2.AB.D0.91.D0.B8.D1.82.D0.B2.D0.B0_.D0.B7.D0.B0_.D0.B3.D0.B8.D0.B3.D0.B0.D0.B3.D0.B5.D1.80.D1.86.C2.BB"></span><span class="mw-headline" id="«Битва_за_гигагерц»">«Битва за гигагерц»</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Pentium_III&amp;veaction=edit&amp;section=11" title="Редактировать раздел ««Битва за гигагерц»»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Pentium_III&amp;action=edit&amp;section=11" title="Редактировать код раздела ««Битва за гигагерц»»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>К концу <a href="/wiki/1999_%D0%B3%D0%BE%D0%B4" title="1999 год">1999 года</a> тактовые частоты процессоров, выпускавшихся компаниями <a href="/wiki/Intel" title="Intel">Intel</a> и <a href="/wiki/AMD" title="AMD">AMD</a>, вплотную приблизились к отметке 1 ГГц. С точки зрения рекламных возможностей первенство в покорении этой частоты означало серьёзное превосходство над конкурентом, поэтому Intel и AMD прикладывали значительные усилия для преодоления гигагерцового рубежа.
+</p><p>Процессоры Intel Pentium III на тот момент выпускались по 180-нм технологии и имели интегрированный кэш второго уровня, работающий на частоте ядра. На частотах, близких к 1 ГГц, интегрированный кэш работал нестабильно.
+</p><p>Процессоры AMD <a href="/wiki/Athlon" title="Athlon">Athlon</a> выпускались по 180-нм технологии и имели внешний кэш, работающий максимум на половине частоты процессора. На частотах, близких к 1 ГГц, использовались большие делители, что позволяло наращивать тактовую частоту процессоров.
+</p><p>Это предопределило исход противостояния: <a href="/wiki/6_%D0%BC%D0%B0%D1%80%D1%82%D0%B0" title="6 марта">6 марта</a> <a href="/wiki/2000_%D0%B3%D0%BE%D0%B4" title="2000 год">2000 года</a> компанией AMD был представлен процессор Athlon, работающий на тактовой частоте 1 ГГц. Кэш-память второго уровня в этом процессоре работала на частоте 333 МГц. Процессор появился в продаже сразу после анонса<sup class="reference" id="cite_ref-28"><a href="#cite_note-28">[28]</a></sup>.
+</p><p><a href="/wiki/8_%D0%BC%D0%B0%D1%80%D1%82%D0%B0" title="8 марта">8 марта</a> 2000 года был анонсирован процессор Intel Pentium III 1 ГГц. При этом были пропущены более медленные модели: 850, 866 и 933 МГц, анонсированные <a href="/wiki/20_%D0%BC%D0%B0%D1%80%D1%82%D0%B0" title="20 марта">20</a> и <a href="/wiki/24_%D0%BC%D0%B0%D1%80%D1%82%D0%B0" title="24 марта">24 марта</a>. Процессор с тактовой частотой 1 ГГц появился в продаже со значительной задержкой, а анонсированный в июне Pentium III (Coppermine) с частотой 1,13 ГГц был отозван из-за нестабильной работы<sup class="reference" id="cite_ref-29"><a href="#cite_note-29">[29]</a></sup><sup class="reference" id="cite_ref-30"><a href="#cite_note-30">[30]</a></sup>. Выпуск моделей, работающих на частотах 1,1 и 1,13 ГГц, оказался возможен лишь в 2001 году после обновления ядра Coppermine (ревизия D0).
+</p>
+<h2><span id=".D0.98.D0.BD.D1.82.D0.B5.D1.80.D0.B5.D1.81.D0.BD.D1.8B.D0.B5_.D1.84.D0.B0.D0.BA.D1.82.D1.8B"></span><span class="mw-headline" id="Интересные_факты">Интересные факты</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Pentium_III&amp;veaction=edit&amp;section=12" title="Редактировать раздел «Интересные факты»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Pentium_III&amp;action=edit&amp;section=12" title="Редактировать код раздела «Интересные факты»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Первым <a href="/wiki/%D0%A1%D1%83%D0%BF%D0%B5%D1%80%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80" title="Суперкомпьютер">суперкомпьютером</a> на базе процессоров Pentium III, вошедшим в список <a class="mw-redirect" href="/wiki/TOP500" title="TOP500">TOP500</a>, стал кластер HpcLine производства <a href="/wiki/Fujitsu_Siemens_Computers" title="Fujitsu Siemens Computers">Fujitsu Siemens Computers</a>, установленный в <a class="new" href="/w/index.php?title=%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82_%D0%9F%D0%B0%D0%B4%D0%B5%D1%80%D0%B1%D0%BE%D1%80%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="Университет Падерборна (страница отсутствует)">Университете Падерборна</a> (Германия). В июне 1999 года он занимал 455-е место, а в ноябре — 451-е.<sup class="reference" id="cite_ref-31"><a href="#cite_note-31">[31]</a></sup></li>
+<li>Дольше всех в списках TOP500 продержался кластер Magi Cluster PIII 933 МГц производства <a href="/wiki/NEC" title="NEC">NEC</a>, установленный в <a class="new" href="/w/index.php?title=%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D1%86%D0%B5%D0%BD%D1%82%D1%80_%D0%A6%D1%83%D0%BA%D1%83%D0%B1%D1%8B&amp;action=edit&amp;redlink=1" title="Исследовательский центр Цукубы (страница отсутствует)">Исследовательском центре Цукубы</a> (Япония). Построенный в 2001 году и занявший 39 место в ноябрьском списке 2001 года, он исчез из списков в ноябре 2004 года.<sup class="reference" id="cite_ref-32"><a href="#cite_note-32">[32]</a></sup></li>
+<li>Наибольшее количество суперкомпьютеров на базе процессоров Pentium III — 38 — присутствует в списке TOP500 за июнь 2002 года.<sup class="reference" id="cite_ref-33"><a href="#cite_note-33">[33]</a></sup></li>
+<li>Процессор Pentium III 1 ГГц на ядре Coppermine cC0 принял участие в известном видеоролике, снятом в 2001 году <a class="mw-redirect" href="/wiki/Tom%27s_Hardware" title="Tom's Hardware">Томасом Пабстом</a> и демонстрирующем эффективность термозащиты процессоров. После снятия кулера с работающего процессора система с процессором Pentium III зависла, однако процессор был своевременно отключён, в то время как <a href="/wiki/AMD" title="AMD">AMD</a> <a href="/wiki/Athlon" title="Athlon">Athlon</a> и <a href="/wiki/Athlon_XP" title="Athlon XP">Athlon XP</a> получили необратимые термические повреждения<sup class="reference" id="cite_ref-34"><a href="#cite_note-34">[34]</a></sup>.</li>
+<li>Процессоры Pentium III 733 МГц на ядре Coppermine c уменьшенной до 128 Кб <a class="mw-redirect" href="/wiki/%D0%9A%D1%8D%D1%88-%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D1%8C" title="Кэш-память">кэш-памятью</a> второго уровня использовались компанией <a href="/wiki/Microsoft" title="Microsoft">Microsoft</a> в приставке <a href="/wiki/Xbox" title="Xbox">Xbox</a>. В отличие от процессоров Celeron на ядре Coppermine-128, также имеющих 128 Кб кэша, данные процессоры имеют 8-канальный ассоциативный кэш второго уровня (Celeron имеет 4-канальный ассоциативный кэш).<sup class="reference" id="cite_ref-35"><a href="#cite_note-35">[35]</a></sup></li>
+<li>Процессоры Pentium III имели серийные номера, доступные по команде <a href="/wiki/CPUID" title="CPUID">CPUID</a><sup class="reference" id="cite_ref-36"><a href="#cite_note-36">[36]</a></sup>, кроме того, существовал <a class="mw-redirect" href="/wiki/%D0%A1%D0%BA%D1%80%D0%B8%D0%BF%D1%82" title="Скрипт">скрипт</a>, позволяющий читать этот номер дистанционно. Из-за угрозы электронной <a class="mw-redirect" href="/wiki/%D0%A1%D0%BB%D0%B5%D0%B6%D0%BA%D0%B0" title="Слежка">слежки</a> было предложено запретить Pentium III в <a class="mw-redirect" href="/wiki/%D0%95%D0%B2%D1%80%D0%BE%D1%81%D0%BE%D1%8E%D0%B7" title="Евросоюз">Евросоюзе</a>. В <a href="/wiki/Pentium_M" title="Pentium M">Pentium M</a> и <a href="/wiki/Pentium_4" title="Pentium 4">Pentium 4</a> Intel отказался от программно читаемых серийных номеров.<sup class="reference" id="cite_ref-37"><a href="#cite_note-37">[37]</a></sup></li>
+<li>Разработкой архитектуры Pentium III руководил <a href="/wiki/%D0%9F%D0%B5%D0%BD%D1%82%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9C%D1%81%D1%82%D0%B8%D1%81%D0%BB%D0%B0%D0%B2%D0%BE%D0%B2%D0%B8%D1%87" title="Пентковский, Владимир Мстиславович">В. М. Пентковский</a>, советско-американский ученый, ранее работавший над советскими суперкомпьютерами Эльбрус<sup class="reference" id="cite_ref-38"><a href="#cite_note-38">[38]</a></sup>.</li></ul>
+<h2><span id=".D0.A2.D0.B5.D1.85.D0.BD.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D1.85.D0.B0.D1.80.D0.B0.D0.BA.D1.82.D0.B5.D1.80.D0.B8.D1.81.D1.82.D0.B8.D0.BA.D0.B8"></span><span class="mw-headline" id="Технические_характеристики">Технические характеристики</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Pentium_III&amp;veaction=edit&amp;section=13" title="Редактировать раздел «Технические характеристики»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Pentium_III&amp;action=edit&amp;section=13" title="Редактировать код раздела «Технические характеристики»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><sup class="reference" id="cite_ref-sandpile_6-3"><a href="#cite_note-sandpile-6">[6]</a></sup>
+</p>
+<table cellpadding="1" class="wide" style="text-align: center;">
+<tbody><tr>
+<th rowspan="2" width="15%">
+</th>
+<th>Katmai
+</th>
+<th colspan="3">Coppermine
+</th>
+<th colspan="3">Tualatin
+</th></tr>
+<tr>
+<td colspan="3"><a href="/wiki/%D0%9D%D0%B0%D1%81%D1%82%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80" title="Настольный компьютер">Настольный</a>
+</td>
+<td><a href="/wiki/%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA" title="Ноутбук">Мобильный</a>
+</td>
+<td>Настольный
+</td>
+<td><a href="/wiki/%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80_(%D0%B0%D0%BF%D0%BF%D0%B0%D1%80%D0%B0%D1%82%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)" title="Сервер (аппаратное обеспечение)">Серверный</a>
+</td>
+<td>Мобильный
+</td></tr>
+<tr>
+<th colspan="8"><a class="mw-redirect" href="/wiki/%D0%A2%D0%B0%D0%BA%D1%82%D0%BE%D0%B2%D0%B0%D1%8F_%D1%87%D0%B0%D1%81%D1%82%D0%BE%D1%82%D0%B0" title="Тактовая частота">Тактовая частота</a>
+</th></tr>
+<tr>
+<th>Частота <a href="/wiki/%D0%AF%D0%B4%D1%80%D0%BE_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%B0" title="Ядро микропроцессора">ядра</a>, МГц
+</th>
+<td width="13%">450—600
+</td>
+<td width="12%">500—1133
+</td>
+<td width="12%">500—1133
+</td>
+<td width="12%">400—1000
+</td>
+<td width="12%">1000—1400
+</td>
+<td width="12%">1133, 1266, 1400
+</td>
+<td width="12%">700—1333
+</td></tr>
+<tr>
+<th>Частота <a href="/wiki/Front_Side_Bus" title="Front Side Bus">FSB</a>, МГц
+</th>
+<td colspan="3">100, 133
+</td>
+<td>100
+</td>
+<td colspan="2">133
+</td>
+<td>100, 133
+</td></tr>
+<tr>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th></tr>
+<tr>
+<th colspan="8">Характеристики ядра
+</th></tr>
+<tr>
+<th><a href="/wiki/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4" title="Система команд">Набор инструкций</a>
+</th>
+<td colspan="7"><a class="mw-redirect" href="/wiki/IA-32" title="IA-32">IA-32</a>, <a href="/wiki/MMX" title="MMX">MMX</a>, <a href="/wiki/SSE" title="SSE">SSE</a>
+</td></tr>
+<tr>
+<th><a href="/wiki/%D0%A0%D0%B0%D0%B7%D1%80%D1%8F%D0%B4%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Разрядность">Разрядность</a> <a href="/wiki/%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80_%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%B0" title="Регистр процессора">регистров</a>
+</th>
+<td colspan="7">32 бит (целочисленные), 80 бит (вещественночисленные), 64 бит (MMX), 128 бит (SSE)
+</td></tr>
+<tr>
+<th>Глубина <a href="/wiki/%D0%92%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BD%D0%B2%D0%B5%D0%B9%D0%B5%D1%80" title="Вычислительный конвейер">конвейера</a>
+</th>
+<td colspan="7">Целочисленный: 12 — 17 стадий (в зависимости от типа исполняемой инструкции), вещественночисленный: 25 стадий
+</td></tr>
+<tr>
+<th>Разрядность <a href="/wiki/%D0%A8%D0%B8%D0%BD%D0%B0_%D0%B0%D0%B4%D1%80%D0%B5%D1%81%D0%B0" title="Шина адреса">ША</a>
+</th>
+<td colspan="7">36 бит
+</td></tr>
+<tr>
+<th>Разрядность <a href="/wiki/%D0%A8%D0%B8%D0%BD%D0%B0_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85" title="Шина данных">ШД</a>
+</th>
+<td colspan="7">64 бит
+</td></tr>
+<tr>
+<th>Аппаратная <a href="/wiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%B2%D1%8B%D0%B1%D0%BE%D1%80%D0%BA%D0%B0_%D0%BA%D0%BE%D0%B4%D0%B0" title="Предвыборка кода">предвыборка данных</a>
+</th>
+<td colspan="4">нет
+</td>
+<td colspan="3">есть
+</td></tr>
+<tr>
+<th>Количество <a href="/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D0%B7%D0%B8%D1%81%D1%82%D0%BE%D1%80" title="Транзистор">транзисторов</a>, млн
+</th>
+<td>9,5
+</td>
+<td colspan="3">28
+</td>
+<td colspan="3">44
+</td></tr>
+<tr>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th></tr>
+<tr>
+<th colspan="8"><a href="/wiki/%D0%9A%D1%8D%D1%88_%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%B0" title="Кэш процессора">Кэш</a> L1
+</th></tr>
+<tr>
+<th><a href="/wiki/%D0%9A%D1%8D%D1%88_%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%B0" title="Кэш процессора">Кэш</a> данных
+</th>
+<td colspan="7">16 Кб, 4-канальный наборно-ассоциативный, длина строки — 32 байта, двухпортовый
+</td></tr>
+<tr>
+<th>Кэш инструкций
+</th>
+<td colspan="7">16 Кб, 4-канальный наборно-ассоциативный, длина строки — 32 байта
+</td></tr>
+<tr>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th></tr>
+<tr>
+<th colspan="8">Кэш L2
+</th></tr>
+<tr>
+<th>Объём, Кб
+</th>
+<td>512
+</td>
+<td colspan="4">256
+</td>
+<td colspan="2">512
+</td></tr>
+<tr>
+<th>Частота
+</th>
+<td>½ частоты ядра
+</td>
+<td colspan="7">частота ядра
+</td></tr>
+<tr>
+<th>Разрядность <a href="/wiki/Back_side_bus" title="Back side bus">BSB</a>
+</th>
+<td>64 бит + 8 бит <a class="mw-redirect" href="/wiki/ECC" title="ECC">ECC</a>
+</td>
+<td colspan="7">256 бит + 32 бит ECC
+</td></tr>
+<tr>
+<th>Организация
+</th>
+<td colspan="7">Объединённый, наборно-ассоциативный, неблокируемый, с контролем и исправлением ошибок (ECC); длина строки — 32 байта
+</td></tr>
+<tr>
+<th>Ассоциативность
+</th>
+<td>4-канальный
+</td>
+<td colspan="7">8-канальный
+</td></tr>
+<tr>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th></tr>
+<tr>
+<th colspan="8">Интерфейс
+</th></tr>
+<tr>
+<th>Разъём
+</th>
+<td colspan="2"><a href="/wiki/Slot_1_(%D1%80%D0%B0%D0%B7%D1%8A%D1%91%D0%BC)" title="Slot 1 (разъём)">Slot 1</a>
+</td>
+<td><a href="/wiki/Socket_370" title="Socket 370">Socket 370</a>
+</td>
+<td><a class="new" href="/w/index.php?title=Socket_495&amp;action=edit&amp;redlink=1" title="Socket 495 (страница отсутствует)">Socket 495</a>, <a href="/wiki/%D0%9F%D0%BE%D0%B2%D0%B5%D1%80%D1%85%D0%BD%D0%BE%D1%81%D1%82%D0%BD%D1%8B%D0%B9_%D0%BC%D0%BE%D0%BD%D1%82%D0%B0%D0%B6" title="Поверхностный монтаж">SMD</a>
+</td>
+<td colspan="2">Socket 370
+</td>
+<td><a href="/wiki/Socket_478" title="Socket 478">Socket 478</a>, SMD
+</td></tr>
+<tr>
+<th>Корпус
+</th>
+<td colspan="2"><a class="new" href="/w/index.php?title=OLGA&amp;action=edit&amp;redlink=1" title="OLGA (страница отсутствует)">OLGA</a> в картридже <a class="mw-redirect" href="/wiki/SECC2" title="SECC2">SECC2</a>
+</td>
+<td><a class="mw-redirect" href="/wiki/FCPGA" title="FCPGA">FCPGA</a>, <a class="mw-redirect" href="/wiki/FCPGA2" title="FCPGA2">FCPGA2</a>
+</td>
+<td><a class="new" href="/w/index.php?title=BGA2&amp;action=edit&amp;redlink=1" title="BGA2 (страница отсутствует)">BGA2</a>, <a class="new" href="/w/index.php?title=MBGA2&amp;action=edit&amp;redlink=1" title="MBGA2 (страница отсутствует)">mBGA2</a>
+</td>
+<td colspan="2">FCPGA2
+</td>
+<td><a class="new" href="/w/index.php?title=MFCPGA&amp;action=edit&amp;redlink=1" title="MFCPGA (страница отсутствует)">mFCPGA</a>, <a class="new" href="/w/index.php?title=MFCBGA&amp;action=edit&amp;redlink=1" title="MFCBGA (страница отсутствует)">mFCBGA</a>
+</td></tr>
+<tr>
+<th>Шина
+</th>
+<td colspan="4"><a class="new" href="/w/index.php?title=AGTL&amp;action=edit&amp;redlink=1" title="AGTL (страница отсутствует)">AGTL</a> + (сигнальный уровень — 1,5 В)
+</td>
+<td colspan="3">AGTL (сигнальный уровень — 1,25 В)
+</td></tr>
+<tr>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th></tr>
+<tr>
+<th colspan="8">Технологические, электрические и тепловые характеристики
+</th></tr>
+<tr>
+<th><a href="/wiki/%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81_%D0%B2_%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D0%BE%D0%B9_%D0%BF%D1%80%D0%BE%D0%BC%D1%8B%D1%88%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8" title="Технологический процесс в электронной промышленности">Технология производства</a>
+</th>
+<td>250 нм. <a href="/wiki/%D0%9A%D0%9C%D0%9E%D0%9F" title="КМОП">КМОП</a> (пятислойный, алюминиевые соединения)
+</td>
+<td colspan="3">180 нм. КМОП (шестислойный, алюминиевые соединения)
+</td>
+<td colspan="3">130 нм. КМОП (шестислойный, медные соединения, <a class="new" href="/w/index.php?title=Low-K&amp;action=edit&amp;redlink=1" title="Low-K (страница отсутствует)">Low-K</a> <a href="/wiki/%D0%94%D0%B8%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D0%BA" title="Диэлектрик">диэлектрик</a>)
+</td></tr>
+<tr>
+<th>Площадь кристалла, мм²
+</th>
+<td>128
+</td>
+<td>106 (рев. A2)<br/>105 (рев. B0)<br/>90 (рев. C0)
+</td>
+<td colspan="2">106 (рев. A2)<br/>105 (рев. B0)<br/>90 (рев. C0)<br/>95 (рев. D0)
+</td>
+<td colspan="3">80
+</td></tr>
+<tr>
+<th>Напряжение ядра, В
+</th>
+<td>2,0 — 2,05
+</td>
+<td>1,65 — 1,7
+</td>
+<td>1,6 — 1,75
+</td>
+<td>0,975 — 1,7
+</td>
+<td>1,475 — 1,5
+</td>
+<td>1,45 — 1,5
+</td>
+<td>0,95 — 1,4
+</td></tr>
+<tr>
+<th>Напряжение кэша L2, В
+</th>
+<td>3,3
+</td>
+<td colspan="6">напряжение ядра
+</td></tr>
+<tr>
+<th>Напряжение цепей <a class="mw-redirect" href="/wiki/%D0%A3%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%B0_%D0%B2%D0%B2%D0%BE%D0%B4%D0%B0/%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4%D0%B0" title="Устройства ввода/вывода">I/O</a>, В
+</th>
+<td colspan="7">3,3
+</td></tr>
+<tr>
+<th>Максимальное тепловыделение, Вт
+</th>
+<td>34,5
+</td>
+<td>26,1
+</td>
+<td>37,5
+</td>
+<td>34,0
+</td>
+<td colspan="2">32,2
+</td>
+<td>22
+</td></tr>
+<tr>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th></tr></tbody></table>
+<h2><span id=".D0.A0.D0.B5.D0.B2.D0.B8.D0.B7.D0.B8.D0.B8_.D1.8F.D0.B4.D0.B5.D1.80_.D0.BF.D1.80.D0.BE.D1.86.D0.B5.D1.81.D1.81.D0.BE.D1.80.D0.BE.D0.B2"></span><span class="mw-headline" id="Ревизии_ядер_процессоров">Ревизии ядер процессоров</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Pentium_III&amp;veaction=edit&amp;section=14" title="Редактировать раздел «Ревизии ядер процессоров»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Pentium_III&amp;action=edit&amp;section=14" title="Редактировать код раздела «Ревизии ядер процессоров»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Pentium_III_2">Pentium III</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Pentium_III&amp;veaction=edit&amp;section=15" title="Редактировать раздел «Pentium III»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Pentium_III&amp;action=edit&amp;section=15" title="Редактировать код раздела «Pentium III»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Katmai_2">Katmai</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Pentium_III&amp;veaction=edit&amp;section=16" title="Редактировать раздел «Katmai»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Pentium_III&amp;action=edit&amp;section=16" title="Редактировать код раздела «Katmai»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<table class="wide">
+<tbody><tr>
+<th>Ревизия</th>
+<th><a class="mw-redirect" href="/wiki/Cpuid" title="Cpuid">CPU Id</a></th>
+<th>Примечание
+</th></tr>
+<tr>
+<td>B0</td>
+<td>0x672h</td>
+<td>мод. SL364, SL365, SL38E, SL38F, SL3CC, SL3CD
+</td></tr>
+<tr>
+<td>C0</td>
+<td>0x673h</td>
+<td>мод. SL35D, SL35E, SL37C, SL37D, SL3BN, SL3E9, SL3F7, SL3FJ, SL3JM, SL3JP, SL3JT, SL3JU
+</td></tr></tbody></table>
+<h4><span class="mw-headline" id="Coppermine_2">Coppermine</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Pentium_III&amp;veaction=edit&amp;section=17" title="Редактировать раздел «Coppermine»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Pentium_III&amp;action=edit&amp;section=17" title="Редактировать код раздела «Coppermine»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<table class="wide">
+<tbody><tr>
+<th>Ревизия</th>
+<th><a class="mw-redirect" href="/wiki/Cpuid" title="Cpuid">CPU Id</a></th>
+<th>Примечание
+</th></tr>
+<tr>
+<td>A2</td>
+<td>0x681h</td>
+<td>мод. SL3H6, SL3H7, SL3KV, SL3KW, SL3N6, SL3N7, SL3NA, SL3NB, SL3ND, SL3NL, SL3NM, SL3NR, SL3Q9, SL3QA, SL3R2, SL3R3, SL3S9, SL3SB, SL3SX, SL3SY, SL3SZ, SL3T2, SL3T3, SL3T4, SL3US, SL3V5, SL3V6, SL3V7, SL3V8, SL3VA, SL3VB, SL3VC, SL3VD, SL3VE, SL3VF, SL3VG, SL3VH, SL3VJ, SL3VK, SL3VL, SL3VM, SL3VN, SL3WA, SL3WB, SL3WC, SL3X4, SL3Z6, SL4G7
+</td></tr>
+<tr>
+<td>B0</td>
+<td>0x683h</td>
+<td>мод. SL3XG, SL3XH, SL3XJ, SL3XK, SL3XL, SL3XM, SL3XN, SL3XP, SL3XQ, SL3XR, SL3XS, SL3XT, SL3XU, SL3XV, SL3XW, SL3XX, SL3XY, SL3XZ, SL3Y2, SL3Y3, SL43E, SL43F, SL43G, SL43H, SL43J, SL444, SL446, SL448, SL44G, SL44J, SL44W, SL44X, SL44Y, SL44Z, SL452, SL453, SL454, SL455, SL456, SL457, SL458, SL45R, SL45S, SL45T, SL45U, SL45V, SL45W, SL45X, SL45Y, SL45Z, SL462, SL463, SL464, SL47M, SL47N, SL47Q, SL47S, SL48S, SL49G, SL49H, SL49J, SL4FP
+</td></tr>
+<tr>
+<td>C0</td>
+<td>0x686h</td>
+<td>мод. SL4BR, SL4BS, SL4BT, SL4BV, SL4BW, SL4BX, SL4BY, SL4BZ, SL4C2, SL4C3, SL4C4, SL4C5, SL4C6, SL4C7, SL4C8, SL4C9, SL4CB, SL4CC, SL4CD, SL4CE, SL4CF, SL4CG, SL4CH, SL4CJ, SL4CK, SL4CL, SL4CM, SL4CX, SL4FQ, SL4G7, SL4HH, SL4KD, SL4KE, SL4KF, SL4KG, SL4KH, SL4KJ, SL4KK, SL4KL, SL4M7, SL4M8, SL4M9, SL4MA, SL4MB, SL4MC, SL4MD, SL4ME, SL4MF, SL4SD, SL4WM
+</td></tr>
+<tr>
+<td>D0</td>
+<td>0x68Ah</td>
+<td>мод. SL45Y, SL45Z, SL462, SL463, SL464, SL49G, SL49H, SL49J, SL4F9, SL4YV, SL4Z2, SL4Z4, SL4ZJ, SL4ZL, SL4ZM, SL4ZN, SL52P, SL52Q, SL52R, SL5BS, SL5BT, SL5DV, SL5DW, SL5DX, SL5QV, SL5QW — <a class="mw-redirect" href="/wiki/FCPGA" title="FCPGA">FCPGA</a>;
+<pre>мод. SL5B2, SL5B3, SL5B5, SL5FQ, SL5QD, SL5U3 — <a class="mw-redirect" href="/wiki/FCPGA2" title="FCPGA2">FCPGA2</a> 
+</pre>
+</td></tr></tbody></table>
+<h4><span class="mw-headline" id="Coppermine-T_2">Coppermine-T</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Pentium_III&amp;veaction=edit&amp;section=18" title="Редактировать раздел «Coppermine-T»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Pentium_III&amp;action=edit&amp;section=18" title="Редактировать код раздела «Coppermine-T»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<table class="wide">
+<tbody><tr>
+<th>Ревизия</th>
+<th><a class="mw-redirect" href="/wiki/Cpuid" title="Cpuid">CPU Id</a></th>
+<th>Примечание
+</th></tr>
+<tr>
+<td>D0</td>
+<td>0x68Ah</td>
+<td>По официальным данным компании <a href="/wiki/Intel" title="Intel">Intel</a>, поддержкой шины <a class="new" href="/w/index.php?title=AGTL&amp;action=edit&amp;redlink=1" title="AGTL (страница отсутствует)">AGTL</a> (1,25 В) обладают модели SL5QE, SL5QF (<a class="mw-redirect" href="/wiki/FCPGA" title="FCPGA">FCPGA</a>) и SL5QJ, SL5QK (<a class="mw-redirect" href="/wiki/FCPGA2" title="FCPGA2">FCPGA2</a>).
+</td></tr></tbody></table>
+<h4><span class="mw-headline" id="Tualatin_2">Tualatin</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Pentium_III&amp;veaction=edit&amp;section=19" title="Редактировать раздел «Tualatin»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Pentium_III&amp;action=edit&amp;section=19" title="Редактировать код раздела «Tualatin»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<table class="wide">
+<tbody><tr>
+<th>Ревизия</th>
+<th><a class="mw-redirect" href="/wiki/Cpuid" title="Cpuid">CPU Id</a></th>
+<th>Примечание
+</th></tr>
+<tr>
+<td>A1</td>
+<td>0x6B1h</td>
+<td>мод. SL5GN, SL5GQ, SL5GR, SL5LT, SL5LV, SL5LW, SL5PM, SL5PU, SL5QL, SL5VX, SL5XL, SL64W, SL657, SL66D
+</td></tr>
+<tr>
+<td>B1</td>
+<td>0x6B4h</td>
+<td>мод. SL6BW, SL6BX, SL6BY; мод. SL69K, SL6HC, SL6QU — LV, BGA479.
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Mobile_Pentium_III_2">Mobile Pentium III</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Pentium_III&amp;veaction=edit&amp;section=20" title="Редактировать раздел «Mobile Pentium III»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Pentium_III&amp;action=edit&amp;section=20" title="Редактировать код раздела «Mobile Pentium III»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wide">
+<tbody><tr>
+<th>Ревизия</th>
+<th><a class="mw-redirect" href="/wiki/Cpuid" title="Cpuid">CPU Id</a></th>
+<th>Примечание
+</th></tr>
+<tr>
+<td>BA2</td>
+<td>0x681h</td>
+<td>180 нм, BGA2, мод. SL3PG, SL34Y, SL3PH, SL3DT, SL3DU
+</td></tr>
+<tr>
+<td>PA2</td>
+<td>0x681h</td>
+<td>180 нм, mPGA2, мод. SL3PL, SL3TQ, SL3PM, SL3TP, SL3RG, SL3DW, SL3KX, SL3RF, SL3LG
+</td></tr>
+<tr>
+<td>BB0</td>
+<td>0x683h</td>
+<td>180 нм, BGA2, мод. SL4AS, SL3Z7, SL43X, SL4GH, SL43L
+</td></tr>
+<tr>
+<td>PB0</td>
+<td>0x683h</td>
+<td>180 нм, mPGA2, мод. SL44T, SL4DM, SL3Z8, SL4DL, SL442, SL46W, SL46V, SL443, SL43P, SL479, SL43N
+</td></tr>
+<tr>
+<td>BC0</td>
+<td>0x686h</td>
+<td>180 нм, BGA2, мод. SL59H, SL4AG, SL4AK, SL56R, SL4JM, SL4ZH
+</td></tr>
+<tr>
+<td>PC0</td>
+<td>0x686h</td>
+<td>180 нм, mPGA2, мод. SL59J, SL5AV, SL4AH, SL4PS, SL4GT, SL4PR, SL4K2, SL4PQ, SL4JZ, SL4PP, SL4JY, SL4PN, SL4JX, SL4PM, SL4PL, SL4JR, SL4PK, SL4JQ
+</td></tr>
+<tr>
+<td>BD0</td>
+<td>0x68Ah</td>
+<td>180 нм, BGA2, мод. SL54F, SL5TB, SL547, SL548, SL54A; mPGA2, мод. SL588
+</td></tr>
+<tr>
+<td>PD0</td>
+<td>0x68Ah</td>
+<td>180 нм, mPGA2, мод. SL53S, SL58S, SL5TF, SL53T, SL58Q, SL53L, SL58P, SL58N, SL53M, SL53P, SL583, SL58M
+</td></tr>
+<tr>
+<td>FBA1</td>
+<td>0x6B1h</td>
+<td>130 нм, мод. SL5CT, SL5CS, SL5CR, SL5CQ, SL5CP, SL5CN, SL5QP, SL5QR, SL5QS, SL5QT; 180 нм, мод. SL5QQ
+</td></tr>
+<tr>
+<td>FPA1</td>
+<td>0x6B1h</td>
+<td>130 нм, мод. SL637, SL5N5, SL5CL, SL5N4, SL5CK, SL5CJ, SL4N3, SL5CH, SL5PL, SL5CG, SL5UC, SL5CF, SL5UB
+</td></tr>
+<tr>
+<td>FBB1</td>
+<td>0x6B4h</td>
+<td>130 нм, mFCBGA, мод. SL6CS
+</td></tr></tbody></table>
+<h2><span id=".D0.9E.D0.B1.D0.BD.D0.BE.D0.B2.D0.BB.D0.B5.D0.BD.D0.B8.D0.B5_.D0.BC.D0.B8.D0.BA.D1.80.D0.BE.D0.BA.D0.BE.D0.B4.D0.B0_.D0.BF.D1.80.D0.BE.D1.86.D0.B5.D1.81.D1.81.D0.BE.D1.80.D0.B0"></span><span class="mw-headline" id="Обновление_микрокода_процессора">Обновление микрокода процессора</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Pentium_III&amp;veaction=edit&amp;section=21" title="Редактировать раздел «Обновление микрокода процессора»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Pentium_III&amp;action=edit&amp;section=21" title="Редактировать код раздела «Обновление микрокода процессора»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Обновления <a href="/wiki/%D0%9C%D0%B8%D0%BA%D1%80%D0%BE%D0%BA%D0%BE%D0%B4" title="Микрокод">микрокода</a> представляют собой блоки данных объёмом 2 Кб, находящиеся в системном <a href="/wiki/BIOS" title="BIOS">BIOS</a>. Такие блоки существуют для каждой ревизии ядра процессора. Компания <a href="/wiki/Intel" title="Intel">Intel</a> предоставляет производителям BIOS последние версии микрокода, а также помещает их в базу данных обновлений. Существует специальная утилита, разработанная компанией Intel, позволяющая определить используемый процессор и локально изменить код BIOS для поддержки этого процессора.
+Обновление также можно осуществить прошивкой новой версии BIOS с поддержкой необходимого процессора от производителя системной платы<sup class="reference" id="cite_ref-ixbterrata_39-0"><a href="#cite_note-ixbterrata-39">[39]</a></sup>.
+</p>
+<h2><span id=".D0.98.D1.81.D0.BF.D1.80.D0.B0.D0.B2.D0.BB.D0.B5.D0.BD.D0.BD.D1.8B.D0.B5_.D0.BE.D1.88.D0.B8.D0.B1.D0.BA.D0.B8"></span><span class="mw-headline" id="Исправленные_ошибки">Исправленные ошибки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Pentium_III&amp;veaction=edit&amp;section=22" title="Редактировать раздел «Исправленные ошибки»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Pentium_III&amp;action=edit&amp;section=22" title="Редактировать код раздела «Исправленные ошибки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Процессор представляет собой сложное микроэлектронное устройство, что не позволяет исключить вероятность его некорректной работы. Ошибки появляются на этапе проектирования и могут быть исправлены обновлениями микрокода процессора либо выпуском новой ревизии ядра процессора<sup class="reference" id="cite_ref-ixbterrata_39-1"><a href="#cite_note-ixbterrata-39">[39]</a></sup>.
+В процессорах Pentium III обнаружено 98 различных ошибок, из которых 31 исправлена<sup class="reference" id="cite_ref-40"><a href="#cite_note-40">[40]</a></sup>.
+</p><p>Далее перечислены ошибки, исправленные в различных ревизиях ядер процессора Pentium III. Данные ошибки присутствуют во всех ядрах, выпущенных до их исправления, начиная с ядра Katmai B0, если не указано обратное.
+</p>
+<h3><span class="mw-headline" id="Katmai_C0">Katmai C0</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Pentium_III&amp;veaction=edit&amp;section=23" title="Редактировать раздел «Katmai C0»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Pentium_III&amp;action=edit&amp;section=23" title="Редактировать код раздела «Katmai C0»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Ошибка установки флагов при выполнении инструкций COMISS/UCOMISS (<a href="/wiki/SSE" title="SSE">SSE</a>).</li>
+<li>Ошибка передачи данных при чтении данных из кэш-памяти второго уровня.</li>
+<li>Ошибочная установка сигнала обнаружения ошибки чётности при высокой температуре или низком напряжении питания.</li>
+<li>Ошибка установки сигнала отключения при превышении максимально допустимой температуры.</li></ul>
+<h3><span class="mw-headline" id="Coppermine_A2">Coppermine A2</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Pentium_III&amp;veaction=edit&amp;section=24" title="Редактировать раздел «Coppermine A2»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Pentium_III&amp;action=edit&amp;section=24" title="Редактировать код раздела «Coppermine A2»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Ошибка при работе двух процессоров в режиме FRC (контроль методом функциональной избыточности) при прохождении BIST (встроенная самодиагностика).</li>
+<li>Ошибка при работе двух процессоров в режиме FRC при инициализации.</li>
+<li>Ошибка при инициализации кэш-памяти второго уровня в двухпроцессорных системах.</li>
+<li>Ошибка контроля изменений TSS (сегмент состояния задачи) при переключении задач.</li>
+<li>Ошибка обработки исключений при выполнении инструкций CVTPS2PI, CVTPI2PS или CVTTPS2PI (<a href="/wiki/MMX" title="MMX">MMX</a>).</li></ul>
+<h3><span class="mw-headline" id="Coppermine_B0">Coppermine B0</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Pentium_III&amp;veaction=edit&amp;section=25" title="Редактировать раздел «Coppermine B0»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Pentium_III&amp;action=edit&amp;section=25" title="Редактировать код раздела «Coppermine B0»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Ошибка в работе PMC (счётчик производительности) при выполнении предвыборки из кэш-памяти первого уровня.</li>
+<li>Ошибка переключения задач при использовании аппаратного управления задачами.</li>
+<li>Ошибочное сообщение об ошибке при прохождении BIST (<i>Coppermine A2</i>).</li>
+<li>Низкая помехоустойчивость входа сигнала SMI# (системное прерывание), приводящая к произвольному выполнению прерываний (<i>Coppermine A2</i>).</li>
+<li>Ошибочные сообщения о корректируемых ошибках ECC как о некорректируемых (<i>Coppermine A2</i>).</li>
+<li>Ошибка в работе PMC при записи и удалении данных из кэш-памяти второго уровня (<i>Coppermine A2</i>).</li>
+<li>Ошибка подсчёта циклов записи с помощью PMC при работе с кэш-памятью второго уровня (<i>Coppermine A2</i>).</li>
+<li>Ошибка знака вещественного числа в результате последовательного выполнения инструкции <a href="/wiki/SSE" title="SSE">SSE</a>-умножения с некорректным результатом и любой инструкции <a class="mw-redirect" href="/wiki/FPU" title="FPU">X86</a>.</li>
+<li>Ошибка режима проверки при старте процессора.</li></ul>
+<h3><span class="mw-headline" id="Coppermine_C0">Coppermine C0</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Pentium_III&amp;veaction=edit&amp;section=26" title="Редактировать раздел «Coppermine C0»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Pentium_III&amp;action=edit&amp;section=26" title="Редактировать код раздела «Coppermine C0»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Ошибка при удалении строки в IFU (блок выборки инструкций).</li>
+<li>Возникновение тупиков при работе DCU (кэш данных) и IFU (<i>Coppermine B0</i>).</li>
+<li>Возникновение тупиков при последовательном возникновении исключения неверной инструкции и кэш-промаха.</li>
+<li>Возникновение тупиков при выполнении инструкции MASKMOVQ (<a href="/wiki/SSE" title="SSE">SSE</a>).</li>
+<li>Ошибочное удаление данных из кэш-памяти второго уровня (<i>Coppermine A2</i>).</li>
+<li>Возникновение тупиков при удалении строки в IFU.</li>
+<li>Повреждение селектора регистров LTR (регистр задач) и LLDT (регистр дескрипторов) при последовательном выполнении опережающей записи в сегментный регистр и инструкций LTR/LLDT.</li>
+<li>Возникновение ошибок при высокой температуре и низком напряжении питания (<i>Coppermine B0</i>).</li></ul>
+<h3><span class="mw-headline" id="Coppermine_D0">Coppermine D0</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Pentium_III&amp;veaction=edit&amp;section=27" title="Редактировать раздел «Coppermine D0»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Pentium_III&amp;action=edit&amp;section=27" title="Редактировать код раздела «Coppermine D0»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Ошибка выполнения snoop request при наличии отложенных транзакций.</li>
+<li>Ошибка выхода из состояния пониженного энергопотребления (<i>Coppermine С0</i>).</li></ul>
+<h3><span class="mw-headline" id="Tualatin_A1">Tualatin A1</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Pentium_III&amp;veaction=edit&amp;section=28" title="Редактировать раздел «Tualatin A1»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Pentium_III&amp;action=edit&amp;section=28" title="Редактировать код раздела «Tualatin A1»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Ошибка обработки исключений при выполнении инструкций <a class="mw-redirect" href="/wiki/FPU" title="FPU">X86</a> и <a href="/wiki/MMX" title="MMX">MMX</a>.</li>
+<li>Ошибочная установка сигнала отключения при старте процессора.</li></ul>
+<h3><span class="mw-headline" id="Tualatin_B1">Tualatin B1</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Pentium_III&amp;veaction=edit&amp;section=29" title="Редактировать раздел «Tualatin B1»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Pentium_III&amp;action=edit&amp;section=29" title="Редактировать код раздела «Tualatin B1»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Ошибка при работе блока выборки инструкций (IFU) с регистром CR3.</li></ul>
+<h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Примечания">Примечания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Pentium_III&amp;veaction=edit&amp;section=30" title="Редактировать раздел «Примечания»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Pentium_III&amp;action=edit&amp;section=30" title="Редактировать код раздела «Примечания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">В связи с этим среди энтузиастов некоторое время было распространено <a class="external text" href="http://www.overclockers.ru/hardnews/11990.shtml" rel="nofollow">удаление теплораспределителя</a> <a class="external text" href="https://web.archive.org/web/20051101221557/http://www.overclockers.ru/hardnews/11990.shtml" rel="nofollow">Архивная копия</a> от 1 ноября 2005 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> с процессоров.</span>
+</li>
+<li id="cite_note-ixbt-p6-2"><span class="mw-cite-backlink"><a href="#cite_ref-ixbt-p6_2-0">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.ixbt.com/cpu/pentium4-1.html" rel="nofollow">В ожидании Willamette — история архитектуры IA-32 и как работают процессоры семейства P6</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 23 марта 2007. <a class="external text" href="https://web.archive.org/web/20130702010558/http://www.ixbt.com/cpu/pentium4-1.html" rel="nofollow">Архивировано</a> 2 июля 2013 года.</span></span>
+</li>
+<li id="cite_note-x86fc-3"><span class="mw-cite-backlink">↑ <a href="#cite_ref-x86fc_3-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-x86fc_3-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-x86fc_3-2"><sup><i><b>3</b></i></sup></a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://fcenter.ru/online/hardarticles/processors/1799" rel="nofollow">X86 архитектуры бывают разные…</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span> Дата обращения: 3 декабря 2016. <a class="external text" href="https://web.archive.org/web/20161220063513/http://fcenter.ru/online/hardarticles/processors/1799" rel="nofollow">Архивировано</a> 20 декабря 2016 года.</span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://ru.pcmag.com/oktiabr/13810/issue/nasledie-risc" rel="nofollow">Наследие RISC: Предсказание переходов</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 3 декабря 2016. <a class="external text" href="https://web.archive.org/web/20161220091505/http://ru.pcmag.com/oktiabr/13810/issue/nasledie-risc" rel="nofollow">Архивировано</a> 20 декабря 2016 года.</span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.cpu-world.com/CPUs/Pentium-III/index.html" rel="nofollow">Intel Pentium III processor families</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 21 июня 2010. <a class="external text" href="https://web.archive.org/web/20100420062642/http://www.cpu-world.com/CPUs/Pentium-III/index.html" rel="nofollow">Архивировано</a> 20 апреля 2010 года.</span></span>
+</li>
+<li id="cite_note-sandpile-6"><span class="mw-cite-backlink">↑ <a href="#cite_ref-sandpile_6-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-sandpile_6-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-sandpile_6-2"><sup><i><b>3</b></i></sup></a> <a href="#cite_ref-sandpile_6-3"><sup><i><b>4</b></i></sup></a></span> <span class="reference-text"><a class="external text" href="https://web.archive.org/web/20110520204040/http://sandpile.org/impl/p3.htm" rel="nofollow">IA-32 implementation: Intel P3 (incl. Celeron and Xeon)</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></span>
+</li>
+<li id="cite_note-cost-7"><span class="mw-cite-backlink">↑ <a href="#cite_ref-cost_7-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-cost_7-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text">Указана цена процессоров на момент анонса в партии от 1000 штук</span>
+</li>
+<li id="cite_note-ixbt_katmai-8"><span class="mw-cite-backlink">↑ <a href="#cite_ref-ixbt_katmai_8-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-ixbt_katmai_8-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.ixbt.com/cpu/pentiumiii.html" rel="nofollow">Обзор процессора Intel Pentium III 500 МГц</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 13 февраля 2007. <a class="external text" href="https://web.archive.org/web/20130702175803/http://www.ixbt.com/cpu/pentiumiii.html" rel="nofollow">Архивировано</a> 2 июля 2013 года.</span></span>
+</li>
+<li id="cite_note-ixbt_cumine-9"><span class="mw-cite-backlink"><a href="#cite_ref-ixbt_cumine_9-0">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.ixbt.com/cpu/intel-coppermine.html" rel="nofollow">Обзор процессоров Intel Pentium III 600E и 600EB c ядром Coppermine</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 7 марта 2007. <a class="external text" href="https://web.archive.org/web/20130702175346/http://www.ixbt.com/cpu/intel-coppermine.html" rel="nofollow">Архивировано</a> 2 июля 2013 года.</span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://web.archive.org/web/20041022194000/http://www.fcenter.ru/wn/2001/jan/hn28012001.htm#Coppermine." rel="nofollow">Intel отменяет Coppermine-T</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 21 марта 2007. Архивировано из <a class="external text" href="http://www.fcenter.ru/wn/2001/jan/hn28012001.htm#Coppermine." rel="nofollow">оригинала</a> 22 октября 2004 года.</span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.ixbt.com/cpu/powerleap-ip3-t.shtml" rel="nofollow">PowerLeap PL-iP3/T или Tualatin на Intel 440BX</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 3 апреля 2009. <a class="external text" href="https://web.archive.org/web/20090228131825/http://www.ixbt.com/cpu/powerleap-ip3-t.shtml" rel="nofollow">Архивировано</a> 28 февраля 2009 года.</span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.rom.by/articles/S370/index.htm" rel="nofollow">Переделка плат/переходников для поддержки FCPGA/FCPGA2-процессоров</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 3 апреля 2009. <a class="external text" href="https://web.archive.org/web/20090319083258/http://www.rom.by/articles/S370/index.htm" rel="nofollow">Архивировано</a> 19 марта 2009 года.</span></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.intel.com/design/intarch/pentiumiii/pentiumiii.htm" rel="nofollow">Embedded Intel® Architecture Processors — Intel® Pentium® III Processors</a> <a class="external text" href="https://web.archive.org/web/20090220175052/http://www.intel.com/design/intarch/pentiumiii/pentiumiii.htm" rel="nofollow">Архивная копия</a> от 20 февраля 2009 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.ixbt.com/cpu/p6-nexgen.shtml" rel="nofollow">Conroe: внук процессора Pentium III, племянник архитектуры NetBurst?</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span> Дата обращения: 3 апреля 2009. <a class="external text" href="https://web.archive.org/web/20140103212153/http://www.ixbt.com/cpu/p6-nexgen.shtml" rel="nofollow">Архивировано</a> 3 января 2014 года.</span></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.ixbt.com/cpu/celeron-566.html" rel="nofollow">Обзор процессора Intel Celeron 566</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 3 апреля 2009. <a class="external text" href="https://web.archive.org/web/20090626151328/http://www.ixbt.com/cpu/celeron-566.html" rel="nofollow">Архивировано</a> 26 июня 2009 года.</span></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.ixbt.com/cpu/celeron-667.html" rel="nofollow">Обзор процессора Intel Celeron 667</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 3 апреля 2009. <a class="external text" href="https://web.archive.org/web/20080622115405/http://www.ixbt.com/cpu/celeron-667.html" rel="nofollow">Архивировано</a> 22 июня 2008 года.</span></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><a href="#cite_ref-17">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.overclockers.ru/cpubase/?cpu=13&amp;search_nick=&amp;search_mark=&amp;search_mb=&amp;dc1=&amp;dc2=&amp;date=10000&amp;items=25&amp;showother=ON&amp;showcoms=ON&amp;action=results" rel="nofollow">Статистика разгона: Celeron (Tualatin)</a> <small class="ref-info">(недоступная ссылка)</small></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><a href="#cite_ref-18">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.fcenter.ru/online.shtml?articles%2Fhardware%2Fprocessors%2F1326" rel="nofollow">Обзор Intel Celeron 1.2 ГГц с ядром Tualatin</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 16 мая 2022. <a class="external text" href="https://web.archive.org/web/20120104112951/http://www.fcenter.ru/online.shtml?articles%2Fhardware%2Fprocessors%2F1326" rel="nofollow">Архивировано</a> 4 января 2012 года.</span></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><a href="#cite_ref-19">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.ixbt.com/cpu/celeron-1300mhz.shtml" rel="nofollow">Intel Celeron 1.3 GHz и AMD Duron 1.1 и 1.2 GHz</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 3 апреля 2009. <a class="external text" href="https://web.archive.org/web/20211230211030/https://www.ixbt.com/cpu/celeron-1300mhz.shtml" rel="nofollow">Архивировано</a> 30 декабря 2021 года.</span></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><a href="#cite_ref-20">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.ixbt.com/cpu/pentium4-3.html" rel="nofollow">Willamette — как он выглядит… Сам по себе и в сравнении с конкурентами</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 3 апреля 2009. <a class="external text" href="https://web.archive.org/web/20090318085735/http://www.ixbt.com/cpu/pentium4-3.html" rel="nofollow">Архивировано</a> 18 марта 2009 года.</span></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><a href="#cite_ref-21">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.ixbt.com/cpu/pentium4-17.shtml" rel="nofollow">Прогнозы, которые подтверждаются: Pentium 4 1.7 GHz и его производительность</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 3 апреля 2009. <a class="external text" href="https://web.archive.org/web/20120127152552/http://www.ixbt.com/cpu/pentium4-17.shtml" rel="nofollow">Архивировано</a> 27 января 2012 года.</span></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><a href="#cite_ref-22">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.ixbt.com/cpu/k6-iii.html" rel="nofollow">iXBT: Обзор процессора AMD K6-III 400 МГц</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 3 апреля 2009. <a class="external text" href="https://web.archive.org/web/20080623072526/http://www.ixbt.com/cpu/k6-iii.html" rel="nofollow">Архивировано</a> 23 июня 2008 года.</span></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><a href="#cite_ref-23">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.ixbt.com/cpu/amd-athlon.html" rel="nofollow">Обзор процессора AMD Athlon 600 МГц</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 3 апреля 2009. <a class="external text" href="https://web.archive.org/web/20130404195532/http://www.ixbt.com/cpu/amd-athlon.html" rel="nofollow">Архивировано</a> 4 апреля 2013 года.</span></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><a href="#cite_ref-24">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.ixbt.com/cpu/t-bird-700.html" rel="nofollow">Обзор процессора AMD Athlon «ThunderBird» 700</a> <a class="external text" href="https://web.archive.org/web/20090621075635/http://www.ixbt.com/cpu/t-bird-700.html" rel="nofollow">Архивная копия</a> от 21 июня 2009 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>
+<a class="external text" href="http://www.ixbt.com/cpu/thunderbird-800.html" rel="nofollow">Обзор процессора AMD Athlon (Thunderbird) 800</a> <a class="external text" href="https://web.archive.org/web/20090621075640/http://www.ixbt.com/cpu/thunderbird-800.html" rel="nofollow">Архивная копия</a> от 21 июня 2009 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a><br/>
+<a class="external text" href="http://www.ixbt.com/cpu/1000-p3-vs-tb.html" rel="nofollow">Процессоры с частотой 1000 МГц</a> <a class="external text" href="https://web.archive.org/web/20080623042447/http://www.ixbt.com/cpu/1000-p3-vs-tb.html" rel="nofollow">Архивная копия</a> от 23 июня 2008 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><a href="#cite_ref-25">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.ixbt.com/cpu/duron-650.html" rel="nofollow">Обзор процессора AMD Duron 650</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 3 апреля 2009. <a class="external text" href="https://web.archive.org/web/20211230211026/https://www.ixbt.com/cpu/duron-650.html" rel="nofollow">Архивировано</a> 30 декабря 2021 года.</span></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><a href="#cite_ref-26">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.ixbt.com/mainboard/roundup-ple133-aug2k1.shtml" rel="nofollow">CPU VIA C3 733 MHz и системные платы на базе чипсета VIA PLE133</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 3 апреля 2009. <a class="external text" href="https://web.archive.org/web/20090201201154/http://www.ixbt.com/mainboard/roundup-ple133-aug2k1.shtml" rel="nofollow">Архивировано</a> 1 февраля 2009 года.</span></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><a href="#cite_ref-27">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.heise.de/newsticker/Crusoe-Nicht-der-Schnellste-aber-sparsam--/meldung/12419" rel="nofollow">Crusoe: Nicht der Schnellste, aber sparsam</a> <a class="external text" href="https://web.archive.org/web/20090630064359/http://www.heise.de/newsticker/Crusoe-Nicht-der-Schnellste-aber-sparsam--/meldung/12419" rel="nofollow">Архивная копия</a> от 30 июня 2009 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> <small class="ref-info" style="cursor:help;" title="на немецком языке">(нем.)</small></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><a href="#cite_ref-28">↑</a></span> <span class="reference-text"><a class="external text" href="http://scripts.online.ru/it/news/00/03/07_593.htm" rel="nofollow">Процессор AMD Athlon преодолевает барьер в 1 ГГц</a> <small class="ref-info">(недоступная ссылка)</small></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><a href="#cite_ref-29">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.thg.ru/cpu/200008281/onepage.html" rel="nofollow">Intel Admits Problems With Pentium III 1.13 GHz — Production and Shipments Halted</a> <a class="external text" href="https://web.archive.org/web/20060112220529/http://www.thg.ru/cpu/200008281/onepage.html" rel="nofollow">Архивная копия</a> от 12 января 2006 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><a href="#cite_ref-30">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.thg.ru/cpu/20000731/onepage.html" rel="nofollow">Intel’s Next Paper Release — The Pentium III at 1133 MHz</a> <a class="external text" href="https://web.archive.org/web/20171002002742/http://www.thg.ru/cpu/20000731/onepage.html" rel="nofollow">Архивная копия</a> от 2 октября 2017 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><a href="#cite_ref-31">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://web.archive.org/web/20070927235808/http://top500.org/site/1885" rel="nofollow">Top 500 Supercomputer sites — Universitaet Paderborn — PC2</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 11 июня 2007. Архивировано из <a class="external text" href="http://top500.org/site/1885" rel="nofollow">оригинала</a> 27 сентября 2007 года.</span></span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><a href="#cite_ref-32">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://web.archive.org/web/20070927235614/http://top500.org/site/260" rel="nofollow">Top 500 Supercomputer sites — CBRC — Tsukuba Advanced Computing Center — TACC/AIST</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 11 июня 2007. Архивировано из <a class="external text" href="http://top500.org/site/260" rel="nofollow">оригинала</a> 27 сентября 2007 года.</span></span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><a href="#cite_ref-33">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://web.archive.org/web/20070927235753/http://top500.org/stats/19/procgen/" rel="nofollow">Top 500 Supercomputer sites — Stats — Processor Generation</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 11 июня 2007. Архивировано из <a class="external text" href="http://top500.org/stats/19/procgen/" rel="nofollow">оригинала</a> 27 сентября 2007 года.</span></span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><a href="#cite_ref-34">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://thg.ru/cpu/20010917/index.html" rel="nofollow">Горячо! Как современные процессоры защищены от перегрева?</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span> Дата обращения: 12 июня 2007. <a class="external text" href="https://web.archive.org/web/20111004054258/http://www.thg.ru/cpu/20010917/index.html" rel="nofollow">Архивировано</a> 4 октября 2011 года.</span></span>
+</li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><a href="#cite_ref-35">↑</a></span> <span class="reference-text">«Мир игровых консолей. Часть пятая», журнал Upgrade, 2007, № 28 (325), стр. 24</span>
+</li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><a href="#cite_ref-36">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://www.buraks.com/p3uns/" rel="nofollow">P3 Serial Un-Support Page</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 27 декабря 2022. <a class="external text" href="https://web.archive.org/web/20221227220427/https://www.buraks.com/p3uns/" rel="nofollow">Архивировано</a> 27 декабря 2022 года.</span></span>
+</li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><a href="#cite_ref-37">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.cnn.com/TECH/computing/9911/29/eu.p3.ban.idg/index.html" rel="nofollow">CNN — Advisory group asks EU to consider Pentium III ban — November 29, 1999</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 19 января 2009. <a class="external text" href="https://web.archive.org/web/20090122093111/http://www.cnn.com/TECH/computing/9911/29/eu.p3.ban.idg/index.html" rel="nofollow">Архивировано</a> 22 января 2009 года.</span></span>
+</li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><a href="#cite_ref-38">↑</a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>Intel.</i> <a class="external text" href="https://www.intel.com/content/dam/www/public/us/en/documents/research/1999-vol03-iss-2-intel-technology-journal.pdf" rel="nofollow">Intel journal</a>. — 1999. — С. 37. — 61 с. <small><a class="external text" href="https://web.archive.org/web/20210901103616/https://www.intel.com/content/dam/www/public/us/en/documents/research/1999-vol03-iss-2-intel-technology-journal.pdf" rel="nofollow">Архивировано</a> 1 сентября 2021 года.</small></span></span>
+</li>
+<li id="cite_note-ixbterrata-39"><span class="mw-cite-backlink">↑ <a href="#cite_ref-ixbterrata_39-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-ixbterrata_39-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.ixbt.com/cpu/cpu_errata.html" rel="nofollow">Исправление ошибок в CPU</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 3 апреля 2009. <a class="external text" href="https://web.archive.org/web/20090627031031/http://www.ixbt.com/cpu/cpu_errata.html" rel="nofollow">Архивировано</a> 27 июня 2009 года.</span></span>
+</li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><a href="#cite_ref-40">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.intel.com/support/processors/pentiumiii/sb/CS-030017.htm" rel="nofollow">Intel® Pentium® III Processor Specification Update</a> <a class="external text" href="https://web.archive.org/web/20090210075458/http://www.intel.com/support/processors/pentiumiii/sb/CS-030017.htm" rel="nofollow">Архивная копия</a> от 10 февраля 2009 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></span>
+</li>
+</ol></div></div>
+<h2><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span><span class="mw-headline" id="Ссылки">Ссылки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Pentium_III&amp;veaction=edit&amp;section=31" title="Редактировать раздел «Ссылки»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Pentium_III&amp;action=edit&amp;section=31" title="Редактировать код раздела «Ссылки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div aria-label="В родственных проектах" class="ts-Родственные_проекты ruwikiWikimediaNavigation tright metadata plainlinks plainlist noprint" role="navigation"><ul><li class="ts-Родственные_проекты-item"><span class="ts-Родственные_проекты-image"><span typeof="mw:File"><span><img alt="" class="mw-file-element" data-file-height="30" data-file-width="30" decoding="async" height="24" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/24px-Notification-icon-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/36px-Notification-icon-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/48px-Notification-icon-Commons-logo.svg.png 2x" width="24"/></span></span></span><span class="ts-Родственные_проекты-label commons-ref"><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Pentium_III" title="commons:Category:Pentium III">Медиафайлы на Викискладе</a></span></li></ul></div>
+<p><b>Официальная информация</b>
+</p>
+<ul><li><a class="external text" href="https://web.archive.org/web/20080418100538/http://processorfinder.intel.com/List.aspx?ProcFam=25&amp;sSpec=&amp;OrdCode=" rel="nofollow">Официальная база данных по процессорам Pentium III</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><a class="external text" href="http://www.intel.com/support/processors/pentiumiii/" rel="nofollow">Документация по процессорам Pentium III</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><a class="external text" href="http://www.intel.com/support/processors/mobile/pentiumiii/" rel="nofollow">Документация по процессорам Mobile Pentium III</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li></ul>
+<p><b>Характеристики процессоров</b>
+</p>
+<ul><li><a class="external text" href="http://sandpile.org/impl/p3.htm" rel="nofollow">Характеристики процессоров Pentium III</a> <a class="external text" href="https://web.archive.org/web/20110520204040/http://sandpile.org/impl/p3.htm" rel="nofollow">Архивная копия</a> от 20 мая 2011 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><a class="external text" href="https://web.archive.org/web/20051122154216/http://balusc.xs4all.nl/ned/har-cpu-int-p3.php" rel="nofollow">Подробный список процессоров Pentium III с множеством фотографий</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><a class="external text" href="https://web.archive.org/web/20030602183609/http://users.erols.com/chare/elec.htm" rel="nofollow">Электротехнические параметры процессоров, в частности Intel Pentium III</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><a class="external text" href="https://web.archive.org/web/20060113072600/http://users.erols.com/chare/586.htm" rel="nofollow">Подробные характеристики процессоров</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li></ul>
+<p><b>Обзоры и тестирование</b>
+</p>
+<ul><li><a class="external text" href="http://www.ixbt.com/cpu/pentiumiii.html" rel="nofollow">Обзор процессора Intel Pentium III 500 МГц</a></li>
+<li><a class="external text" href="http://www.ixbt.com/cpu/intel-coppermine.html" rel="nofollow">Статья о процессорах Pentium III (Coppermine)</a></li>
+<li><a class="external text" href="http://www.ixbt.com/cpu/intel-fcpga.html" rel="nofollow">Обзор процессора Intel Pentium III 500E</a></li>
+<li><a class="external text" href="http://www.ixbt.com/cpu/pentiumiii-933.html" rel="nofollow">Обзор процессора Intel Pentium III 933</a></li>
+<li><a class="external text" href="http://www.ixbt.com/cpu/tualatin.shtml" rel="nofollow">Статья о процессорах Pentium III (Tualatin)</a></li>
+<li><a class="external text" href="http://www.ixbt.com/cpu/cpu-real-roundup.html" rel="nofollow">Сравнение процессора Intel Pentium III с конкурентами</a></li>
+<li><a class="external text" href="http://www.ixbt.com/cpu/1000-p3-vs-tb.html" rel="nofollow">Процессоры с частотой 1000 МГц</a></li>
+<li><a class="external text" href="http://www.ixbt.com/cpu/cumine-celeron-oc.html" rel="nofollow">Разгон процессоров Pentium III и Celeron</a></li>
+<li><a class="external text" href="http://www.ixbt.com/cpu/coppermine-overclock.html" rel="nofollow">Разгон процессоров на ядре Coppermine</a></li>
+<li><a class="external text" href="http://www.ixbt.com/cpu/tualatin-smp.shtml" rel="nofollow">Статья о работе Pentium III (Tualatin) в двухпроцессорных системах</a></li>
+<li><a class="external text" href="http://www.fcenter.ru/online.shtml?articles/hardware/processors/646" rel="nofollow">Pentium III-S на ядре Tualatin</a></li>
+<li><a class="external text" href="http://www.fcenter.ru/online.shtml?articles/hardware/processors/2227" rel="nofollow">Тестирование двухпроцессорных платформ в 3DMAX</a></li>
+<li><a class="external text" href="https://web.archive.org/web/20071012152701/http://thevetbattle.jino-net.ru/resbrowser.php?resbyid=100,109,101,108,118,105,137,103,102,63,70,121,119,127,64,71,140,62,59,66,104,65,134,145,57,29,69,28,36,37,38,61,68,58,67,54,2,72,125&amp;filter=checkres" rel="nofollow">Результаты тестирования компьютеров 1999—2001 гг.</a></li></ul>
+<p><b>Разное</b>
+</p>
+<ul><li><a class="external text" href="http://www.overclockers.ru/lab/15497.shtml" rel="nofollow">Эволюция процессоров Pentium</a></li>
+<li><a class="external text" href="http://www.top500.org/lists" rel="nofollow">Списки TOP500 с 1993 года по настоящее время</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><a class="external text" href="http://redhill.net.au/iu.html" rel="nofollow">Отзывы фирмы Red Hill о процессорах различных поколений</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><a class="external text" href="http://rom.by/articles/S370/index.htm" rel="nofollow">Переделка плат/переходников под туалатин в подробностях</a></li></ul>
+<div aria-labelledby="Процессоры_Intel" class="navbox" data-name="Процессоры Intel" role="navigation"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%9F%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D1%8B_Intel" title="Перейти к шаблону «Процессоры Intel»"><img alt="Перейти к шаблону «Процессоры Intel»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span></span><div id="Процессоры_Intel" style="font-size:114%;margin:0 5em"><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BE%D0%B2_Intel" title="Список микропроцессоров Intel">Процессоры Intel</a></div></th></tr><tr><td class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1px">Актуальные</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:12em;"><a href="/wiki/64_%D0%B1%D0%B8%D1%82%D0%B0" title="64 бита">64 бита</a> (<a href="/wiki/X86-64" title="X86-64">x86-64/EM64T</a>)</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Intel_Atom" title="Intel Atom">Atom (после 2014 года)</a></li>
+<li><a href="/wiki/Celeron" title="Celeron">Celeron</a></li>
+<li><a href="/wiki/Pentium" title="Pentium">Pentium</a></li>
+<li><a href="/wiki/Intel_Core" title="Intel Core">Core</a>
+<ul><li><a href="/wiki/Core_i3" title="Core i3">i3</a></li>
+<li><a href="/wiki/Core_i5" title="Core i5">i5</a></li>
+<li><a href="/wiki/Core_i7" title="Core i7">i7</a></li>
+<li><a href="/wiki/Core_i9" title="Core i9">i9</a></li></ul></li>
+<li><a href="/wiki/Xeon" title="Xeon">Xeon</a>
+<ul><li>E3, E5, E7, D, W, X, L, E, Platinum, Gold, Silver, Bronze</li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Больше не<br/>производятся</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:12em;"><span data-interwiki-article="4-bit computing" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=4_%D0%B1%D0%B8%D1%82%D0%B0&amp;action=edit&amp;redlink=1" title="4 бита (страница отсутствует)">4 бита</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://en.wikipedia.org/wiki/4-bit_computing" title="en:4-bit computing"><span title="4-bit computing — версия статьи «4 бита» на английском языке">[en]</span></a></sup></span></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Intel_4004" title="Intel 4004">4004</a></li>
+<li><a href="/wiki/Intel_4040" title="Intel 4040">4040</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:12em;"><a href="/wiki/8_%D0%B1%D0%B8%D1%82_(%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%8F_%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0)" title="8 бит (компьютерная архитектура)">8 бит</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-redirect" href="/wiki/8008" title="8008">8008</a></li>
+<li><a class="mw-redirect" href="/wiki/8080" title="8080">8080</a></li>
+<li><a class="mw-redirect" href="/wiki/8085" title="8085">8085</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:12em;"><a href="/wiki/16_%D0%B1%D0%B8%D1%82" title="16 бит">16 бит</a> (<a href="/wiki/X86" title="X86">x86-16</a>)</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-redirect" href="/wiki/8086" title="8086">8086</a></li>
+<li><a class="mw-redirect" href="/wiki/8088" title="8088">8088</a></li>
+<li><a class="mw-redirect" href="/wiki/80186" title="80186">80186</a></li>
+<li><a class="mw-redirect" href="/wiki/80188" title="80188">80188</a></li>
+<li><a class="mw-redirect" href="/wiki/80286" title="80286">80286</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:12em;"><a href="/wiki/32_%D0%B1%D0%B8%D1%82%D0%B0" title="32 бита">32 бита</a> (<a class="mw-redirect" href="/wiki/IA-32" title="IA-32">x86-32/IA-32</a>)</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Intel_80386" title="Intel 80386">80386</a></li>
+<li><a class="mw-redirect" href="/wiki/80486" title="80486">80486</a></li>
+<li><a href="/wiki/Pentium" title="Pentium">Pentium</a>
+<ul><li><a href="/wiki/Pentium_OverDrive" title="Pentium OverDrive">OverDrive</a></li>
+<li><a href="/wiki/Pentium_Pro" title="Pentium Pro">Pro</a></li>
+<li><a class="mw-redirect" href="/wiki/Pentium_MMX" title="Pentium MMX">MMX</a></li>
+<li><a href="/wiki/Pentium_II" title="Pentium II">II</a></li>
+<li><a href="/wiki/Pentium_II_OverDrive" title="Pentium II OverDrive">II OverDrive</a></li>
+<li><a class="mw-selflink selflink">III</a></li>
+<li><a href="/wiki/Pentium_4" title="Pentium 4">4</a></li>
+<li><a href="/wiki/Pentium_M" title="Pentium M">M</a></li></ul></li>
+<li><a href="/wiki/Celeron" title="Celeron">Celeron</a>
+<ul><li><a class="mw-redirect" href="/wiki/Celeron_M" title="Celeron M">M</a></li>
+<li><a class="mw-redirect" href="/wiki/Celeron_D" title="Celeron D">D</a></li></ul></li>
+<li><a class="mw-redirect" href="/wiki/Core" title="Core">Core</a></li>
+<li><a href="/wiki/Intel_A100" title="Intel A100">A100/A110</a></li>
+<li><a href="/wiki/Tolapai" title="Tolapai">EP80579</a></li>
+<li><a href="/wiki/Intel_Quark" title="Intel Quark">Quark</a></li>
+<li><a href="/wiki/Intel_Atom" title="Intel Atom">Atom</a>
+<ul><li><a href="/wiki/Atom_(%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D0%BD%D0%B0_%D0%BA%D1%80%D0%B8%D1%81%D1%82%D0%B0%D0%BB%D0%BB%D0%B5)" title="Atom (система на кристалле)">SoC</a></li></ul></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:12em;"><a href="/wiki/X87" title="X87">x87</a> (внешний <a href="/wiki/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80" title="Математический сопроцессор">FPU</a>)</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-redirect" href="/wiki/8087" title="8087">8087</a></li>
+<li><a class="mw-redirect" href="/wiki/80187" title="80187">80187</a></li>
+<li><a class="mw-redirect" href="/wiki/80287" title="80287">80287</a></li>
+<li><a class="mw-redirect" href="/wiki/80387" title="80387">80387</a></li>
+<li><a class="mw-redirect" href="/wiki/80487" title="80487">80487</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:12em;"><a href="/wiki/64_%D0%B1%D0%B8%D1%82%D0%B0" title="64 бита">64 бита</a> (<a href="/wiki/X86-64" title="X86-64">x86-64/EM64T</a>)</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Pentium_4" title="Pentium 4">некоторые Pentium 4</a></li>
+<li><a href="/wiki/Pentium_D" title="Pentium D">Pentium D</a></li>
+<li><a href="/wiki/Pentium_Extreme_Edition" title="Pentium Extreme Edition">Pentium EE</a></li>
+<li><a class="mw-redirect" href="/wiki/Celeron_D" title="Celeron D">некоторые Celeron D</a></li>
+<li><a href="/wiki/Celeron" title="Celeron">Celeron</a></li>
+<li><a href="/wiki/Pentium_Dual-Core" title="Pentium Dual-Core">Pentium Dual-Core</a></li>
+<li><a class="mw-redirect" href="/wiki/Core" title="Core">Core</a>
+<ul><li><a href="/wiki/Core_2" title="Core 2">2</a></li></ul></li>
+<li><a href="/wiki/Xeon_Phi" title="Xeon Phi">Xeon Phi</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:12em;">Прочие</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<dl><dt><a href="/wiki/CISC" title="CISC">CISC</a></dt>
+<dd><a class="mw-redirect" href="/wiki/Intel_iAPX_432" title="Intel iAPX 432">iAPX 432</a></dd>
+<dt><a href="/wiki/EPIC_(%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%B0)" title="EPIC (архитектура микропроцессора)">EPIC</a></dt>
+<dd><a href="/wiki/Itanium" title="Itanium">Itanium</a></dd>
+<dt><a href="/wiki/RISC" title="RISC">RISC</a></dt>
+<dd><a href="/wiki/Intel_i860" title="Intel i860">i860</a></dd>
+<dd><a href="/wiki/Intel_i960" title="Intel i960">i960</a></dd>
+<dd><a href="/wiki/StrongARM" title="StrongARM">StrongARM</a></dd>
+<dd><a class="mw-redirect" href="/wiki/XScale" title="XScale">XScale</a></dd></dl>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Списки</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-redirect" href="/wiki/%D0%A0%D0%B0%D0%B7%D1%8A%D1%91%D0%BC_%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%B0" title="Разъём процессора">Разъём процессора</a></li>
+<li><a href="/wiki/%D0%A2%D0%B8%D0%BF%D1%8B_%D0%BA%D0%BE%D1%80%D0%BF%D1%83%D1%81%D0%BE%D0%B2_%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BE%D0%B2" title="Типы корпусов процессоров">Типы корпусов</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BA%D0%BE%D0%B4%D0%BE%D0%B2%D1%8B%D1%85_%D0%B8%D0%BC%D1%91%D0%BD_%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%86%D0%B8%D0%B8_Intel" title="Список кодовых имён продукции Intel">Кодовые имена</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%87%D0%B8%D0%BF%D1%81%D0%B5%D1%82%D0%BE%D0%B2_Intel" title="Список чипсетов Intel">Чипсеты</a></li></ul>
+<ul><li><i>По маркам:</i></li>
+<li><a href="/wiki/Intel_Atom" title="Intel Atom">Atom</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BE%D0%B2_Celeron" title="Список микропроцессоров Celeron">Celeron</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BE%D0%B2_Pentium" title="Список микропроцессоров Pentium">Pentium</a>
+<ul><li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BE%D0%B2_Pentium_II" title="Список микропроцессоров Pentium II">II</a></li>
+<li><a class="mw-selflink selflink">III</a></li>
+<li><a href="/wiki/Pentium_M" title="Pentium M">M</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BE%D0%B2_Pentium_4" title="Список микропроцессоров Pentium 4">4</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BE%D0%B2_Pentium_D_%D0%B8_Extreme_Edition" title="Список микропроцессоров Pentium D и Extreme Edition">D и EE</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BE%D0%B2_Pentium_Dual-Core_%D0%B8_%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D1%83%D1%8E%D1%89%D0%B8%D1%85" title="Список микропроцессоров Pentium Dual-Core и последующих">Dual-Core и последующие</a></li></ul></li>
+<li><a class="mw-redirect" href="/wiki/Core" title="Core">Core</a>
+<ul><li><a href="/wiki/Core_2" title="Core 2">2</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BE%D0%B2_Core_i3" title="Список микропроцессоров Core i3">i3</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BE%D0%B2_Core_i5" title="Список микропроцессоров Core i5">i5</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BE%D0%B2_Core_i7" title="Список микропроцессоров Core i7">i7</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BE%D0%B2_Core_i9&amp;action=edit&amp;redlink=1" title="Список микропроцессоров Core i9 (страница отсутствует)">i9</a></li></ul></li>
+<li><a href="/wiki/Xeon" title="Xeon">Xeon</a></li>
+<li><a href="/wiki/Itanium" title="Itanium">Itanium</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup" style=""><div id="Микроархитектуры_и_технологический_процесс" style="font-size:114%;margin:0 5em"><a href="/wiki/%D0%9C%D0%B8%D0%BA%D1%80%D0%BE%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0" title="Микроархитектура">Микроархитектуры</a> и <a href="/wiki/%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81_%D0%B2_%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D0%BE%D0%B9_%D0%BF%D1%80%D0%BE%D0%BC%D1%8B%D1%88%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8" title="Технологический процесс в электронной промышленности">технологический процесс</a></div></th></tr><tr><td class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1px">P5</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i>800 нм:</i> <a class="mw-redirect" href="/wiki/P5" title="P5">P5</a></li>
+<li><i>600 нм:</i> <a class="mw-redirect" href="/wiki/P54C" title="P54C">P54C</a></li>
+<li><i>350 нм:</i> <a class="mw-redirect" href="/wiki/P54CS" title="P54CS">P54CS</a></li>
+<li><a class="mw-redirect" href="/wiki/P55C" title="P55C">P55C</a></li>
+<li><i>250 нм:</i> <a class="mw-redirect" href="/wiki/Tillamook" title="Tillamook">Tillamook</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/Intel_P6" title="Intel P6">P6</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i>500 нм:</i> <a href="/wiki/Pentium_Pro" title="Pentium Pro">P6</a></li>
+<li><i>350 нм:</i> <a class="mw-redirect" href="/wiki/Klamath" title="Klamath">Klamath</a></li>
+<li><i>250 нм:</i> <a class="mw-redirect" href="/wiki/Mendocino" title="Mendocino">Mendocino</a></li>
+<li><a class="new" href="/w/index.php?title=Dixon&amp;action=edit&amp;redlink=1" title="Dixon (страница отсутствует)">Dixon</a></li>
+<li><a class="mw-redirect" href="/wiki/Tonga" title="Tonga">Tonga</a></li>
+<li><a class="mw-redirect" href="/wiki/Covington" title="Covington">Covington</a></li>
+<li><a class="mw-redirect" href="/wiki/Deschutes" title="Deschutes">Deschutes</a></li>
+<li><a class="mw-redirect" href="/wiki/Katmai" title="Katmai">Katmai</a></li>
+<li><a class="new" href="/w/index.php?title=Drake_(%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80)&amp;action=edit&amp;redlink=1" title="Drake (процессор) (страница отсутствует)">Drake</a></li>
+<li><a class="new" href="/w/index.php?title=Tanner&amp;action=edit&amp;redlink=1" title="Tanner (страница отсутствует)">Tanner</a></li>
+<li><i>180 нм:</i> <a class="mw-selflink-fragment" href="#Coppermine">Coppermine</a></li>
+<li><a class="mw-redirect" href="/wiki/Coppermine_T" title="Coppermine T">Coppermine T</a></li>
+<li><a class="new" href="/w/index.php?title=Cascades&amp;action=edit&amp;redlink=1" title="Cascades (страница отсутствует)">Cascades</a></li>
+<li><i>130 нм:</i> <a class="mw-redirect" href="/wiki/Tualatin" title="Tualatin">Tualatin</a></li>
+<li><a class="mw-redirect" href="/wiki/Banias" title="Banias">Banias</a></li>
+<li><i>90 нм:</i> <a class="mw-redirect" href="/wiki/Dothan" title="Dothan">Dothan</a></li>
+<li><a class="mw-redirect" href="/wiki/Stealey" title="Stealey">Stealey</a></li>
+<li><i>65 нм:</i> <a href="/wiki/Tolapai" title="Tolapai">Tolapai</a></li>
+<li><a class="mw-redirect" href="/wiki/Yonah" title="Yonah">Yonah</a></li>
+<li><a class="new" href="/w/index.php?title=Sossaman_(%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80)&amp;action=edit&amp;redlink=1" title="Sossaman (процессор) (страница отсутствует)">Sossaman</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/NetBurst" title="NetBurst">NetBurst</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i>180 нм:</i> <a class="mw-redirect" href="/wiki/Willamette" title="Willamette">Willamette</a></li>
+<li><a class="new" href="/w/index.php?title=Foster_(%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80)&amp;action=edit&amp;redlink=1" title="Foster (процессор) (страница отсутствует)">Foster</a></li>
+<li><i>130 нм:</i> <a class="mw-redirect" href="/wiki/Northwood" title="Northwood">Northwood</a></li>
+<li><a class="new" href="/w/index.php?title=Gallatin&amp;action=edit&amp;redlink=1" title="Gallatin (страница отсутствует)">Gallatin</a></li>
+<li><a class="new" href="/w/index.php?title=Prestonia&amp;action=edit&amp;redlink=1" title="Prestonia (страница отсутствует)">Prestonia</a></li>
+<li><i>90 нм:</i> <a class="new" href="/w/index.php?title=Tejas_%D0%B8_Jayhawk&amp;action=edit&amp;redlink=1" title="Tejas и Jayhawk (страница отсутствует)">Tejas и Jayhawk</a></li>
+<li><a class="mw-redirect" href="/wiki/Prescott" title="Prescott">Prescott</a></li>
+<li><a class="mw-redirect" href="/wiki/Smithfield" title="Smithfield">Smithfield</a></li>
+<li><a class="new" href="/w/index.php?title=Nocona&amp;action=edit&amp;redlink=1" title="Nocona (страница отсутствует)">Nocona</a></li>
+<li><a class="new" href="/w/index.php?title=Irwindale&amp;action=edit&amp;redlink=1" title="Irwindale (страница отсутствует)">Irwindale</a></li>
+<li><a class="new" href="/w/index.php?title=Cranford&amp;action=edit&amp;redlink=1" title="Cranford (страница отсутствует)">Cranford</a></li>
+<li><a class="new" href="/w/index.php?title=Potomac&amp;action=edit&amp;redlink=1" title="Potomac (страница отсутствует)">Potomac</a></li>
+<li><a class="new" href="/w/index.php?title=Paxville&amp;action=edit&amp;redlink=1" title="Paxville (страница отсутствует)">Paxville</a></li>
+<li><i>65 нм:</i> <a class="mw-redirect" href="/wiki/Cedar_Mill" title="Cedar Mill">Cedar Mill</a></li>
+<li><a class="mw-redirect" href="/wiki/Presler" title="Presler">Presler</a></li>
+<li><a class="mw-redirect mw-disambig" href="/wiki/Dempsey" title="Dempsey">Dempsey</a></li>
+<li><a class="new" href="/w/index.php?title=Tulsa&amp;action=edit&amp;redlink=1" title="Tulsa (страница отсутствует)">Tulsa</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/Core_(%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0)" title="Core (микроархитектура)">Core</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i>65 нм:</i> <a class="new" href="/w/index.php?title=Merom-L&amp;action=edit&amp;redlink=1" title="Merom-L (страница отсутствует)">Merom-L</a></li>
+<li><a href="/wiki/Merom" title="Merom">Merom</a></li>
+<li><a class="new" href="/w/index.php?title=Conroe-L&amp;action=edit&amp;redlink=1" title="Conroe-L (страница отсутствует)">Conroe-L</a></li>
+<li><a class="new" href="/w/index.php?title=Allendale&amp;action=edit&amp;redlink=1" title="Allendale (страница отсутствует)">Allendale</a></li>
+<li><a class="mw-redirect" href="/wiki/Conroe" title="Conroe">Conroe</a></li>
+<li><a class="mw-redirect" href="/wiki/Kentsfield" title="Kentsfield">Kentsfield</a></li>
+<li><a class="new" href="/w/index.php?title=Woodcrest&amp;action=edit&amp;redlink=1" title="Woodcrest (страница отсутствует)">Woodcrest</a></li>
+<li><a class="new" href="/w/index.php?title=Clovertown&amp;action=edit&amp;redlink=1" title="Clovertown (страница отсутствует)">Clovertown</a></li>
+<li><a class="new" href="/w/index.php?title=Tigerton&amp;action=edit&amp;redlink=1" title="Tigerton (страница отсутствует)">Tigerton</a></li>
+<li><i>45 нм:</i> <a href="/wiki/Penryn" title="Penryn">Penryn</a></li>
+<li><a class="new" href="/w/index.php?title=Penryn-QC&amp;action=edit&amp;redlink=1" title="Penryn-QC (страница отсутствует)">Penryn-QC</a></li>
+<li><a class="mw-redirect" href="/wiki/Wolfdale" title="Wolfdale">Wolfdale</a></li>
+<li><a class="mw-redirect" href="/wiki/Yorkfield" title="Yorkfield">Yorkfield</a></li>
+<li><a class="new" href="/w/index.php?title=Wolfdale-DP&amp;action=edit&amp;redlink=1" title="Wolfdale-DP (страница отсутствует)">Wolfdale-DP</a></li>
+<li><a class="new" href="/w/index.php?title=Harpertown&amp;action=edit&amp;redlink=1" title="Harpertown (страница отсутствует)">Harpertown</a></li>
+<li><a class="new" href="/w/index.php?title=Dunnington&amp;action=edit&amp;redlink=1" title="Dunnington (страница отсутствует)">Dunnington</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/Nehalem" title="Nehalem">Nehalem</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i>45 нм:</i> <a class="new" href="/w/index.php?title=Clarksfield&amp;action=edit&amp;redlink=1" title="Clarksfield (страница отсутствует)">Clarksfield</a></li>
+<li><a class="new" href="/w/index.php?title=Lynnfield&amp;action=edit&amp;redlink=1" title="Lynnfield (страница отсутствует)">Lynnfield</a></li>
+<li><a class="new" href="/w/index.php?title=Jasper_Forest&amp;action=edit&amp;redlink=1" title="Jasper Forest (страница отсутствует)">Jasper Forest</a></li>
+<li><a class="mw-redirect" href="/wiki/Bloomfield" title="Bloomfield">Bloomfield</a></li>
+<li><a class="new" href="/w/index.php?title=Gainestown&amp;action=edit&amp;redlink=1" title="Gainestown (страница отсутствует)">Gainestown</a> (Nehalem-EP)</li>
+<li><a class="new" href="/w/index.php?title=Beckton&amp;action=edit&amp;redlink=1" title="Beckton (страница отсутствует)">Beckton</a> (Nehalem-EX)</li>
+<li><i>32 нм (<a class="mw-redirect" href="/wiki/Westmere" title="Westmere">Westmere</a>):</i> <a class="new" href="/w/index.php?title=Arrandale&amp;action=edit&amp;redlink=1" title="Arrandale (страница отсутствует)">Arrandale</a></li>
+<li><a class="mw-redirect" href="/wiki/Clarkdale" title="Clarkdale">Clarkdale</a></li>
+<li><a class="mw-redirect" href="/wiki/Gulftown" title="Gulftown">Gulftown</a> (Westmere-EP)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Bridge</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i>32 нм:</i> <a href="/wiki/Sandy_Bridge" title="Sandy Bridge">Sandy Bridge</a></li>
+<li><i>22 нм:</i> <a href="/wiki/Ivy_Bridge" title="Ivy Bridge">Ivy Bridge</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/Haswell" title="Haswell">Haswell</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i>22 нм:</i> <a href="/wiki/Haswell" title="Haswell">Haswell</a></li>
+<li><i>14 нм:</i> <a href="/wiki/Broadwell" title="Broadwell">Broadwell</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/Skylake" title="Skylake">Skylake</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i>14 нм:</i> <a href="/wiki/Skylake" title="Skylake">Skylake</a></li>
+<li><a href="/wiki/Kaby_Lake" title="Kaby Lake">Kaby Lake</a></li>
+<li><a href="/wiki/Coffee_Lake" title="Coffee Lake">Coffee Lake</a></li>
+<li><a href="/wiki/Whiskey_Lake" title="Whiskey Lake">Whiskey Lake</a></li>
+<li><a href="/wiki/Comet_Lake" title="Comet Lake">Comet Lake</a></li>
+<li><a class="new" href="/w/index.php?title=Cascade_Lake&amp;action=edit&amp;redlink=1" title="Cascade Lake (страница отсутствует)">Cascade Lake</a></li>
+<li><a href="/wiki/Cooper_Lake" title="Cooper Lake">Cooper Lake</a></li>
+<li><i>10 нм:</i> <a href="/wiki/Cannon_Lake" title="Cannon Lake">Cannon Lake</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Sunny Cove</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i>10 нм:</i> <a href="/wiki/Ice_Lake" title="Ice Lake">Ice Lake</a></li>
+<li><i>14 нм:</i> <a href="/wiki/Rocket_Lake" title="Rocket Lake">Rocket Lake</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Willow Cove</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i>10 нм:</i> <a href="/wiki/Tiger_Lake" title="Tiger Lake">Tiger Lake</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Golden Cove</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i>Intel 7 (10 нм):</i> <a href="/wiki/Alder_Lake" title="Alder Lake">Alder Lake</a></li>
+<li><a href="/wiki/Raptor_Lake" title="Raptor Lake">Raptor Lake</a></li>
+<li><a class="new" href="/w/index.php?title=Sapphire_Rapids&amp;action=edit&amp;redlink=1" title="Sapphire Rapids (страница отсутствует)">Sapphire Rapids</a></li>
+<li><a class="new" href="/w/index.php?title=Emerald_Rapids&amp;action=edit&amp;redlink=1" title="Emerald Rapids (страница отсутствует)">Emerald Rapids</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Redwood Cove</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i>Intel 4:</i> <a href="/wiki/Meteor_Lake" title="Meteor Lake">Meteor Lake</a></li>
+<li><i>Intel 3:</i> <a class="new" href="/w/index.php?title=Granite_Rapids&amp;action=edit&amp;redlink=1" title="Granite Rapids (страница отсутствует)">Granite Rapids</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/Intel_Atom" title="Intel Atom">Atom</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i>45 нм:</i> <a href="/wiki/Intel_Bonnell" title="Intel Bonnell">Bonnell</a></li>
+<li><i>32 нм:</i> <a href="/wiki/Intel_Saltwell" title="Intel Saltwell">Saltwell</a></li>
+<li><i>22 нм:</i> <a href="/wiki/Intel_Silvermont" title="Intel Silvermont">Silvermont</a></li>
+<li><i>14 нм:</i> <a class="new" href="/w/index.php?title=Intel_Airmont&amp;action=edit&amp;redlink=1" title="Intel Airmont (страница отсутствует)">Airmont</a></li>
+<li><a class="new" href="/w/index.php?title=Intel_Goldmont&amp;action=edit&amp;redlink=1" title="Intel Goldmont (страница отсутствует)">Goldmont</a></li>
+<li><a class="new" href="/w/index.php?title=Intel_Goldmont_Plus&amp;action=edit&amp;redlink=1" title="Intel Goldmont Plus (страница отсутствует)">Goldmont Plus</a></li>
+<li><i>10 нм:</i> <a class="new" href="/w/index.php?title=Intel_Tremont&amp;action=edit&amp;redlink=1" title="Intel Tremont (страница отсутствует)">Tremont</a></li>
+<li><i>Intel 7:</i> <a class="new" href="/w/index.php?title=Intel_Gracemont&amp;action=edit&amp;redlink=1" title="Intel Gracemont (страница отсутствует)">Gracemont</a></li>
+<li><i>Intel 4:</i> <a class="new" href="/w/index.php?title=Intel_Crestmont&amp;action=edit&amp;redlink=1" title="Intel Crestmont (страница отсутствует)">Crestmont</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Отменённые</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Larrabee" title="Larrabee">Larrabee</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr></tbody></table></div></div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> -->
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Pentium_III&amp;oldid=135529598">https://ru.wikipedia.org/w/index.php?title=Pentium_III&amp;oldid=135529598</a></div></div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:X86" title="Категория:X86">X86</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:Pentium" title="Категория:Pentium">Pentium</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9C%D0%B8%D0%BA%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D1%8B_%D1%84%D0%B8%D1%80%D0%BC%D1%8B_Intel" title="Категория:Микропроцессоры фирмы Intel">Микропроцессоры фирмы Intel</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%BD%D0%B5_%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD_%D1%8F%D0%B7%D1%8B%D0%BA)" title="Категория:Википедия:Cite web (не указан язык)">Википедия:Cite web (не указан язык)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D0%BD%D0%B5%D1%80%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%BC%D0%B8_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8" title="Категория:Википедия:Статьи с нерабочими ссылками">Википедия:Статьи с нерабочими ссылками</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%A0%D0%9E:%D0%98%D0%A2:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:ПРО:ИТ:Статьи по алфавиту">ПРО:ИТ:Статьи по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%A0%D0%9E:%D0%98%D0%A2:%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D1%8F%D1%8F_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:_%D0%B2_%D1%82%D0%B5%D0%BA%D1%83%D1%89%D0%B5%D0%BC_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:ПРО:ИТ:Последняя правка: в текущем году">ПРО:ИТ:Последняя правка: в текущем году</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D1%83%D0%B4%D0%B8%D0%BE%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8_(%D0%B2%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5)" title="Категория:Аудиостатьи (введение)">Аудиостатьи (введение)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D0%BD%D0%B5%D0%B7%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D1%91%D0%BD%D0%BD%D1%8B%D0%BC%D0%B8_%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B0%D0%BC%D0%B8" title="Категория:Википедия:Статьи с незавершёнными разделами">Википедия:Статьи с незавершёнными разделами</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B0%D0%BC%D0%B8_%D0%BD%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D1%82%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Википедия:Статьи с шаблонами недостатков по алфавиту">Википедия:Статьи с шаблонами недостатков по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81%D0%BE_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8_%D0%BD%D0%B0_%D0%92%D0%B8%D0%BA%D0%B8%D1%81%D0%BA%D0%BB%D0%B0%D0%B4" title="Категория:Статьи со ссылками на Викисклад">Статьи со ссылками на Викисклад</a></li></ul></div></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Навигация</h2>
+<div id="mw-head">
+<nav aria-labelledby="p-personal-label" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" id="p-personal" role="navigation">
+<h3 class="vector-menu-heading" id="p-personal-label">
+<span class="vector-menu-heading-label">Персональные инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="pt-anonuserpage"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li class="mw-list-item" id="pt-anontalk"><a accesskey="n" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]"><span>Обсуждение</span></a></li><li class="mw-list-item" id="pt-anoncontribs"><a accesskey="y" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]"><span>Вклад</span></a></li><li class="mw-list-item" id="pt-createaccount"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=Pentium+III" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li class="mw-list-item" id="pt-login"><a accesskey="o" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=Pentium+III" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]"><span>Войти</span></a></li>
+</ul>
+</div>
+</nav>
+<div id="left-navigation">
+<nav aria-labelledby="p-namespaces-label" class="mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-namespaces" role="navigation">
+<h3 class="vector-menu-heading" id="p-namespaces-label">
+<span class="vector-menu-heading-label">Пространства имён</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-nstab-main"><a accesskey="c" href="/wiki/Pentium_III" title="Просмотреть контентную страницу [c]"><span>Статья</span></a></li><li class="mw-list-item" id="ca-talk"><a accesskey="t" href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:Pentium_III" rel="discussion" title="Обсуждение основной страницы [t]"><span>Обсуждение</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-variants-label" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" id="p-variants" role="navigation">
+<input aria-haspopup="true" aria-labelledby="p-variants-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-variants" id="p-variants-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-variants-label">
+<span class="vector-menu-heading-label">русский</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+</div>
+<div id="right-navigation">
+<nav aria-labelledby="p-views-label" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-views" role="navigation">
+<h3 class="vector-menu-heading" id="p-views-label">
+<span class="vector-menu-heading-label">Просмотры</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-view"><a href="/wiki/Pentium_III"><span>Читать</span></a></li><li class="mw-list-item" id="ca-ve-edit"><a accesskey="v" href="/w/index.php?title=Pentium_III&amp;veaction=edit" title="Редактировать данную страницу [v]"><span>Править</span></a></li><li class="collapsible mw-list-item" id="ca-edit"><a accesskey="e" href="/w/index.php?title=Pentium_III&amp;action=edit" title="Править исходный текст этой страницы [e]"><span>Править код</span></a></li><li class="mw-list-item" id="ca-history"><a accesskey="h" href="/w/index.php?title=Pentium_III&amp;action=history" title="Журнал изменений страницы [h]"><span>История</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-cactions-label" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" id="p-cactions" role="navigation" title="Больше возможностей">
+<input aria-haspopup="true" aria-labelledby="p-cactions-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-cactions" id="p-cactions-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-cactions-label">
+<span class="vector-menu-heading-label">Ещё</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+<div class="vector-search-box-vue vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box" id="p-search" role="search">
+<h3>Поиск</h3>
+<form action="/w/index.php" class="vector-search-box-form" id="searchform">
+<div class="vector-search-box-inner" data-search-loc="header-navigation" id="simpleSearch">
+<input accesskey="f" aria-label="Искать в Википедии" autocapitalize="sentences" class="vector-search-box-input" id="searchInput" name="search" placeholder="Искать в Википедии" title="Искать в Википедии [f]" type="search"/>
+<input name="title" type="hidden" value="Служебная:Поиск"/>
+<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Найти страницы, содержащие указанный текст" type="submit" value="Найти"/>
+<input class="searchButton" id="searchButton" name="go" title="Перейти к странице, имеющей в точности такое название" type="submit" value="Перейти"/>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="vector-legacy-sidebar" id="mw-panel">
+<div id="p-logo" role="banner">
+<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу"></a>
+</div>
+<nav aria-labelledby="p-navigation-label" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" id="p-navigation" role="navigation">
+<h3 class="vector-menu-heading" id="p-navigation-label">
+<span class="vector-menu-heading-label">Навигация</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-mainpage-description"><a accesskey="z" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]"><span>Заглавная страница</span></a></li><li class="mw-list-item" id="n-content"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li class="mw-list-item" id="n-featured"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li class="mw-list-item" id="n-randompage"><a accesskey="x" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]"><span>Случайная статья</span></a></li><li class="mw-list-item" id="n-currentevents"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li class="mw-list-item" id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-participation-label" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" id="p-participation" role="navigation">
+<h3 class="vector-menu-heading" id="p-participation-label">
+<span class="vector-menu-heading-label">Участие</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-bug_in_article"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li class="mw-list-item" id="n-introduction"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li class="mw-list-item" id="n-portal"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li class="mw-list-item" id="n-forum"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li class="mw-list-item" id="n-recentchanges"><a accesskey="r" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]"><span>Свежие правки</span></a></li><li class="mw-list-item" id="n-newpages"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li class="mw-list-item" id="n-help"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-tb-label" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" id="p-tb" role="navigation">
+<h3 class="vector-menu-heading" id="p-tb-label">
+<span class="vector-menu-heading-label">Инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="t-whatlinkshere"><a accesskey="j" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/Pentium_III" title="Список всех страниц, ссылающихся на данную [j]"><span>Ссылки сюда</span></a></li><li class="mw-list-item" id="t-recentchangeslinked"><a accesskey="k" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/Pentium_III" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]"><span>Связанные правки</span></a></li><li class="mw-list-item" id="t-specialpages"><a accesskey="q" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]"><span>Служебные страницы</span></a></li><li class="mw-list-item" id="t-permalink"><a href="/w/index.php?title=Pentium_III&amp;oldid=135529598" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li class="mw-list-item" id="t-info"><a href="/w/index.php?title=Pentium_III&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li class="mw-list-item" id="t-cite"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=Pentium_III&amp;id=135529598&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li class="mw-list-item" id="t-urlshortener"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2FPentium_III"><span>Получить короткий URL</span></a></li><li class="mw-list-item" id="t-urlshortener-qrcode"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2FPentium_III"><span>Скачать QR-код</span></a></li><li class="mw-list-item" id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q83382" title="Ссылка на связанный элемент репозитория данных [g]"><span>Элемент Викиданных</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-coll-print_export-label" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" id="p-coll-print_export" role="navigation">
+<h3 class="vector-menu-heading" id="p-coll-print_export-label">
+<span class="vector-menu-heading-label">Печать/экспорт</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="coll-download-as-rl"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=Pentium_III&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li class="mw-list-item" id="t-print"><a accesskey="p" href="/w/index.php?title=Pentium_III&amp;printable=yes" title="Версия этой страницы для печати [p]"><span>Версия для печати</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-wikibase-otherprojects-label" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal vector-menu" id="p-wikibase-otherprojects" role="navigation">
+<h3 class="vector-menu-heading" id="p-wikibase-otherprojects-label">
+<span class="vector-menu-heading-label">В других проектах</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Pentium_III" hreflang="en"><span>Викисклад</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-lang-label" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" id="p-lang" role="navigation">
+<h3 class="vector-menu-heading" id="p-lang-label">
+<span class="vector-menu-heading-label">На других языках</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="interlanguage-link interwiki-ar mw-list-item"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%A8%D9%86%D8%AA%D9%8A%D9%88%D9%85_3" hreflang="ar" lang="ar" title="بنتيوم 3 — арабский"><span>العربية</span></a></li><li class="interlanguage-link interwiki-be-x-old mw-list-item"><a class="interlanguage-link-target" href="https://be-tarask.wikipedia.org/wiki/Pentium_III" hreflang="be-tarask" lang="be-tarask" title="Pentium III — Belarusian (Taraškievica orthography)"><span>Беларуская (тарашкевіца)</span></a></li><li class="interlanguage-link interwiki-bs mw-list-item"><a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Pentium_III" hreflang="bs" lang="bs" title="Pentium III — боснийский"><span>Bosanski</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Pentium_III" hreflang="ca" lang="ca" title="Pentium III — каталанский"><span>Català</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Pentium_III" hreflang="cs" lang="cs" title="Pentium III — чешский"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Intel_Pentium_III" hreflang="de" lang="de" title="Intel Pentium III — немецкий"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/Intel_Pentium_III" hreflang="el" lang="el" title="Intel Pentium III — греческий"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a class="interlanguage-link-target" href="https://en.wikipedia.org/wiki/Pentium_III" hreflang="en" lang="en" title="Pentium III — английский"><span>English</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Intel_Pentium_III" hreflang="es" lang="es" title="Intel Pentium III — испанский"><span>Español</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Pentium_III" hreflang="et" lang="et" title="Pentium III — эстонский"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Intel_Pentium_III" hreflang="fi" lang="fi" title="Intel Pentium III — финский"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Pentium_III" hreflang="fr" lang="fr" title="Pentium III — французский"><span>Français</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Pentium_III" hreflang="hr" lang="hr" title="Pentium III — хорватский"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Pentium_III" hreflang="hu" lang="hu" title="Pentium III — венгерский"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Pentium_III" hreflang="id" lang="id" title="Pentium III — индонезийский"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Pentium_III" hreflang="it" lang="it" title="Pentium III — итальянский"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/Pentium_III" hreflang="ja" lang="ja" title="Pentium III — японский"><span>日本語</span></a></li><li class="interlanguage-link interwiki-ka mw-list-item"><a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/Pentium_III" hreflang="ka" lang="ka" title="Pentium III — грузинский"><span>ქართული</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%ED%8E%9C%ED%8B%B0%EC%97%84_III" hreflang="ko" lang="ko" title="펜티엄 III — корейский"><span>한국어</span></a></li><li class="interlanguage-link interwiki-ml mw-list-item"><a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%AA%E0%B5%86%E0%B4%A8%E0%B5%8D%E0%B4%B1%E0%B4%BF%E0%B4%AF%E0%B4%82_III" hreflang="ml" lang="ml" title="പെന്റിയം III — малаялам"><span>മലയാളം</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Pentium_III" hreflang="nl" lang="nl" title="Pentium III — нидерландский"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Intel_Pentium_III" hreflang="nb" lang="nb" title="Intel Pentium III — норвежский букмол"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-pl badge-Q70893996 mw-list-item" title=""><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Pentium_III" hreflang="pl" lang="pl" title="Pentium III — польский"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Pentium_III" hreflang="pt" lang="pt" title="Pentium III — португальский"><span>Português</span></a></li><li class="interlanguage-link interwiki-si mw-list-item"><a class="interlanguage-link-target" href="https://si.wikipedia.org/wiki/%E0%B6%B4%E0%B7%99%E0%B6%B1%E0%B7%8A%E0%B6%A7%E0%B7%92%E0%B6%BA%E0%B6%B8%E0%B7%8A_III" hreflang="si" lang="si" title="පෙන්ටියම් III — сингальский"><span>සිංහල</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Pentium_III" hreflang="sk" lang="sk" title="Pentium III — словацкий"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Pentium_III" hreflang="sv" lang="sv" title="Pentium III — шведский"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Pentium_III" hreflang="tr" lang="tr" title="Pentium III — турецкий"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/Pentium_III" hreflang="uk" lang="uk" title="Pentium III — украинский"><span>Українська</span></a></li><li class="interlanguage-link interwiki-uz mw-list-item"><a class="interlanguage-link-target" href="https://uz.wikipedia.org/wiki/Pentium_III" hreflang="uz" lang="uz" title="Pentium III — узбекский"><span>Oʻzbekcha / ўзбекча</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Pentium_III" hreflang="vi" lang="vi" title="Pentium III — вьетнамский"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-wuu mw-list-item"><a class="interlanguage-link-target" href="https://wuu.wikipedia.org/wiki/%E5%A5%94%E8%85%BEIII" hreflang="wuu" lang="wuu" title="奔腾III — у"><span>吴语</span></a></li><li class="interlanguage-link interwiki-xmf mw-list-item"><a class="interlanguage-link-target" href="https://xmf.wikipedia.org/wiki/Pentium_III" hreflang="xmf" lang="xmf" title="Pentium III — Mingrelian"><span>მარგალური</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%A5%94%E9%A8%B0III" hreflang="zh" lang="zh" title="奔騰III — китайский"><span>中文</span></a></li>
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q83382#sitelinks-wikipedia" title="Править ссылки на другие языки">Править ссылки</a></span></div>
+</div>
+</nav>
+</div>
+</div>
+<footer class="mw-footer" id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 12 января 2024 в 21:11.</li>
+<li id="footer-info-copyright">Текст доступен по <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru" rel="license">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a><a href="//creativecommons.org/licenses/by-sa/4.0/" rel="license" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br/>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org/ru/">Фонд Викимедиа (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//ru.m.wikipedia.org/w/index.php?title=Pentium_III&amp;mobileaction=toggle_view_mobile">Мобильная версия</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" loading="lazy" src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88"/></a></li>
+<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" loading="lazy" src="/static/images/footer/poweredby_mediawiki_88x31.png" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88"/></a></li>
+</ul>
+</footer>
+
+
+</body>
+</html>

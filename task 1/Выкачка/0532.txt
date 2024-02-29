@@ -1,0 +1,722 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="ru">
+<head>
+<meta charset="utf-8"/>
+<title>Спутниковая связь — Википедия</title>
+
+
+
+
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+
+
+<meta content="MediaWiki 1.42.0-wmf.19" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="max-image-preview:standard" name="robots"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/4/4a/Syncom-1.jpg" property="og:image"/>
+<meta content="1200" property="og:image:width"/>
+<meta content="900" property="og:image:height"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/4/4a/Syncom-1.jpg" property="og:image"/>
+<meta content="800" property="og:image:width"/>
+<meta content="600" property="og:image:height"/>
+<meta content="640" property="og:image:width"/>
+<meta content="480" property="og:image:height"/>
+<meta content="width=1000" name="viewport"/>
+<meta content="Спутниковая связь — Википедия" property="og:title"/>
+<meta content="website" property="og:type"/>
+
+
+
+
+
+
+
+
+
+
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Спутниковая_связь rootpage-Спутниковая_связь skin-vector action-view"><div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators">
+</div>
+<h1 class="firstHeading mw-first-heading" id="firstHeading"><span class="mw-page-title-main">Спутниковая связь</span></h1>
+<div class="vector-body" id="bodyContent">
+<div class="noprint" id="siteSub">Материал из Википедии — свободной энциклопедии</div>
+<div id="contentSub"><div id="mw-content-subtitle"><div class="plainlinks flaggedrevs_preview" id="mw-fr-reviewnotice">Текущая версия страницы пока <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9/%D0%9F%D0%BE%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BB%D1%8F_%D1%87%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9" title="Википедия:Проверка статей/Пояснение для читателей">не проверялась</a> опытными участниками и может значительно отличаться от <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C&amp;stable=1">версии</a>, проверенной 31 января 2023 года; проверки требуют <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C&amp;oldid=125705060&amp;diff=cur&amp;diffonly=0">2 правки</a>.</div><div class="flaggedrevs_short flaggedrevs_draft_notsynced plainlinks noprint" id="mw-fr-revisiontag"><div class="flaggedrevs_short_basic"><span class="flaggedrevs-icon oo-ui-widget oo-ui-widget-enabled oo-ui-iconElement-icon oo-ui-icon-block oo-ui-iconElement oo-ui-labelElement-invisible oo-ui-iconWidget" title="Текущая версия"></span><span class="fr-toggle-arrow oo-ui-widget oo-ui-widget-enabled oo-ui-indicatorElement-indicator oo-ui-indicator-down oo-ui-indicatorElement oo-ui-labelElement-invisible oo-ui-indicatorWidget" id="mw-fr-revisiontoggle" title="показать/скрыть подробности"></span></div>
+<div id="mw-fr-revisiondetails-wrapper" style="position:relative;"><div class="flaggedrevs_short_details" id="mw-fr-revisiondetails" style="display:none">Текущая версия страницы пока <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9/%D0%9F%D0%BE%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BB%D1%8F_%D1%87%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9" title="Википедия:Проверка статей/Пояснение для читателей">не проверялась</a> опытными участниками и может значительно отличаться от <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C&amp;stable=1">версии</a>, проверенной 31 января 2023 года; проверки требуют <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C&amp;oldid=125705060&amp;diff=cur&amp;diffonly=0">2 правки</a>.</div>
+</div>
+</div>
+</div></div>
+<div id="contentSub2"></div>
+<div id="jump-to-nav"></div>
+<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+<div class="mw-body-content" id="mw-content-text"><div class="mw-content-ltr mw-parser-output" dir="ltr" lang="ru"><figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Syncom-1.jpg"><img class="mw-file-element" data-file-height="387" data-file-width="516" decoding="async" height="188" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Syncom-1.jpg/250px-Syncom-1.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Syncom-1.jpg/375px-Syncom-1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Syncom-1.jpg/500px-Syncom-1.jpg 2x" width="250"/></a><figcaption>Спутник связи <i>Syncom-1</i></figcaption></figure>
+<p><b>Спу́тниковая свя́зь</b> — один из видов <a href="/wiki/%D0%9A%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B0%D0%B4%D0%B8%D0%BE%D1%81%D0%B2%D1%8F%D0%B7%D1%8C" title="Космическая радиосвязь">космической радиосвязи</a>, основанный на использовании в качестве <a href="/wiki/%D0%A0%D0%B5%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D1%8F%D1%82%D0%BE%D1%80" title="Ретранслятор">ретрансляторов</a> <a href="/wiki/%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%81%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA_%D0%97%D0%B5%D0%BC%D0%BB%D0%B8" title="Искусственный спутник Земли">искусственных спутников Земли</a>, как правило специализированных <a class="mw-redirect" href="/wiki/%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA_%D1%81%D0%B2%D1%8F%D0%B7%D0%B8" title="Спутник связи">спутников связи</a>. Спутниковая связь осуществляется между так называемыми <a href="/wiki/%D0%97%D0%B5%D0%BC%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F" title="Земная станция">земными станциями</a>, которые могут быть как стационарными, так и подвижными.
+</p><p>Спутниковая связь является развитием традиционной <a href="/wiki/%D0%A0%D0%B0%D0%B4%D0%B8%D0%BE%D1%80%D0%B5%D0%BB%D0%B5%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C" title="Радиорелейная связь">радиорелейной связи</a> путём вынесения ретранслятора на очень большую высоту. Так как максимальная зона его видимости в этом случае — почти половина Земного шара, то необходимость в цепочке ретрансляторов отпадает — в большинстве случаев достаточно и одного.
+</p>
+<div aria-labelledby="mw-toc-heading" class="toc" id="toc" role="navigation"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="ru"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#История"><span class="tocnumber">1</span> <span class="toctext">История</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Спутниковые_ретрансляторы"><span class="tocnumber">2</span> <span class="toctext">Спутниковые ретрансляторы</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Орбиты_спутниковых_ретрансляторов"><span class="tocnumber">3</span> <span class="toctext">Орбиты спутниковых ретрансляторов</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Многократное_использование_частот._Зоны_покрытия"><span class="tocnumber">4</span> <span class="toctext">Многократное использование частот. Зоны покрытия</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Частотные_диапазоны"><span class="tocnumber">5</span> <span class="toctext">Частотные диапазоны</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Модуляция_и_помехоустойчивое_кодирование"><span class="tocnumber">6</span> <span class="toctext">Модуляция и помехоустойчивое кодирование</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Множественный_доступ"><span class="tocnumber">7</span> <span class="toctext">Множественный доступ</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Применение_спутниковой_связи"><span class="tocnumber">8</span> <span class="toctext">Применение спутниковой связи</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Магистральная_спутниковая_связь"><span class="tocnumber">8.1</span> <span class="toctext">Магистральная спутниковая связь</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Системы_VSAT"><span class="tocnumber">8.2</span> <span class="toctext">Системы VSAT</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Системы_подвижной_спутниковой_связи"><span class="tocnumber">8.3</span> <span class="toctext">Системы подвижной спутниковой связи</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Спутниковый_Интернет"><span class="tocnumber">8.4</span> <span class="toctext">Спутниковый Интернет</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#Недостатки_спутниковой_связи"><span class="tocnumber">9</span> <span class="toctext">Недостатки спутниковой связи</span></a>
+<ul>
+<li class="toclevel-2 tocsection-14"><a href="#Слабая_помехозащищённость"><span class="tocnumber">9.1</span> <span class="toctext">Слабая помехозащищённость</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Влияние_атмосферы"><span class="tocnumber">9.2</span> <span class="toctext">Влияние атмосферы</span></a>
+<ul>
+<li class="toclevel-3 tocsection-16"><a href="#Поглощение_в_тропосфере"><span class="tocnumber">9.2.1</span> <span class="toctext">Поглощение в тропосфере</span></a></li>
+<li class="toclevel-3 tocsection-17"><a href="#Ионосферные_эффекты"><span class="tocnumber">9.2.2</span> <span class="toctext">Ионосферные эффекты</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-18"><a href="#Задержка_распространения_сигнала"><span class="tocnumber">9.3</span> <span class="toctext">Задержка распространения сигнала</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Влияние_солнечной_интерференции"><span class="tocnumber">9.4</span> <span class="toctext">Влияние солнечной интерференции</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-20"><a href="#См._также"><span class="tocnumber">10</span> <span class="toctext">См. также</span></a></li>
+<li class="toclevel-1 tocsection-21"><a href="#Примечания"><span class="tocnumber">11</span> <span class="toctext">Примечания</span></a></li>
+<li class="toclevel-1 tocsection-22"><a href="#Литература"><span class="tocnumber">12</span> <span class="toctext">Литература</span></a></li>
+<li class="toclevel-1 tocsection-23"><a href="#Ссылки"><span class="tocnumber">13</span> <span class="toctext">Ссылки</span></a></li>
+</ul>
+</div>
+<h2><span id=".D0.98.D1.81.D1.82.D0.BE.D1.80.D0.B8.D1.8F"></span><span class="mw-headline" id="История">История</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C&amp;veaction=edit&amp;section=1" title="Редактировать раздел «История»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C&amp;action=edit&amp;section=1" title="Редактировать код раздела «История»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>В <a href="/wiki/1945_%D0%B3%D0%BE%D0%B4" title="1945 год">1945 году</a> в статье «Внеземные ретрансляторы» («Extra-terrestrial Relays»), опубликованной в октябрьском номере журнала <span data-interwiki-article="Wireless World" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=Wireless_World&amp;action=edit&amp;redlink=1" title="Wireless World (страница отсутствует)">Wireless World</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://en.wikipedia.org/wiki/Wireless_World" title="en:Wireless World"><span title="Wireless World — версия статьи «Wireless World» на английском языке">[en]</span></a></sup></span><sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup>, английский учёный, писатель и изобретатель <a href="/wiki/%D0%9A%D0%BB%D0%B0%D1%80%D0%BA,_%D0%90%D1%80%D1%82%D1%83%D1%80_%D0%A7%D0%B0%D1%80%D0%BB%D1%8C%D0%B7" title="Кларк, Артур Чарльз">Артур Кларк</a> предложил идею создания системы спутников связи на <a href="/wiki/%D0%93%D0%B5%D0%BE%D1%81%D1%82%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D1%80%D0%BD%D0%B0%D1%8F_%D0%BE%D1%80%D0%B1%D0%B8%D1%82%D0%B0" title="Геостационарная орбита">геостационарных орбитах</a>, которые позволили бы организовать глобальную систему связи. Впоследствии Кларк на вопрос, почему он не запатентовал изобретение (что было вполне возможно), отвечал, что не верил в возможность реализации подобной системы при своей жизни, а также считал, что подобная идея должна приносить пользу всему человечеству.
+</p><p>Первые исследования в области гражданской спутниковой связи в западных странах начали появляться во второй половине 1950-х годов. В США толчком к ним послужили возросшие потребности в трансатлантической телефонной связи.
+</p><p>В <a href="/wiki/1957_%D0%B3%D0%BE%D0%B4" title="1957 год">1957 году</a> в <a class="mw-redirect" href="/wiki/%D0%A1%D0%A1%D0%A1%D0%A0" title="СССР">СССР</a> был запущен <a href="/wiki/%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA-1" title="Спутник-1">первый искусственный спутник Земли</a> с <a class="new" href="/w/index.php?title=%D0%91%D0%BE%D1%80%D1%82%D0%BE%D0%B2%D0%B0%D1%8F_%D1%80%D0%B0%D0%B4%D0%B8%D0%BE%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B0%D0%BF%D0%BF%D0%B0%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0&amp;action=edit&amp;redlink=1" title="Бортовая радиоэлектронная аппаратура (страница отсутствует)">радиоаппаратурой на борту</a>.
+</p>
+<figure class="mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Echo-1.jpg"><img class="mw-file-element" data-file-height="331" data-file-width="455" decoding="async" height="182" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Echo-1.jpg/250px-Echo-1.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Echo-1.jpg/375px-Echo-1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/4/43/Echo-1.jpg 2x" width="250"/></a><figcaption>Спутник-баллон «<a href="/wiki/%D0%AD%D1%85%D0%BE-1" title="Эхо-1">Эхо-1</a>»</figcaption></figure>
+<p><a href="/wiki/12_%D0%B0%D0%B2%D0%B3%D1%83%D1%81%D1%82%D0%B0" title="12 августа">12 августа</a> <a href="/wiki/1960_%D0%B3%D0%BE%D0%B4" title="1960 год">1960 года</a> специалистами США был выведен на орбиту высотой 1500 км надувной шар<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup>. Этот космический аппарат назывался «<a href="/wiki/%D0%AD%D1%85%D0%BE-1" title="Эхо-1">Эхо-1</a>». Его металлизированная оболочка диаметром 30 м выполняла функции <a href="/wiki/%D0%A0%D0%B5%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D1%8F%D1%82%D0%BE%D1%80#Пассивные_ретрансляторы" title="Ретранслятор">пассивного ретранслятора</a>. 4 октября 1960 года на орбиту вышел первый <a href="/wiki/%D0%9A%D1%83%D1%80%D1%8C%D0%B5%D1%80-1%D0%91" title="Курьер-1Б">активный спутник связи Курьер-1Б</a>, а 10 июля 1962 был выведен на орбиту первый в мире активный спутник связи «<a href="/wiki/%D0%A2%D0%B5%D0%BB%D1%81%D1%82%D0%B0%D1%80" title="Телстар">Телстар</a>». Он обеспечивал двустороннюю телефонную связь по 60 каналам или трансляцию одной телевизионной программы.
+</p>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:INTELSAT_I_(Early_Bird).jpg"><img class="mw-file-element" data-file-height="2400" data-file-width="3101" decoding="async" height="193" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/INTELSAT_I_%28Early_Bird%29.jpg/250px-INTELSAT_I_%28Early_Bird%29.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/INTELSAT_I_%28Early_Bird%29.jpg/375px-INTELSAT_I_%28Early_Bird%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ab/INTELSAT_I_%28Early_Bird%29.jpg/500px-INTELSAT_I_%28Early_Bird%29.jpg 2x" width="250"/></a><figcaption>Инженеры работают над первым в мире коммерческим спутником связи Early Bird</figcaption></figure>
+<p><a href="/wiki/20_%D0%B0%D0%B2%D0%B3%D1%83%D1%81%D1%82%D0%B0" title="20 августа">20 августа</a> <a href="/wiki/1964_%D0%B3%D0%BE%D0%B4" title="1964 год">1964 года</a> 11 стран (<a class="mw-redirect" href="/wiki/%D0%A1%D0%A1%D0%A1%D0%A0" title="СССР">СССР</a> в их число не вошёл) подписали соглашение о создании международной организации спутниковой связи <a href="/wiki/Intelsat" title="Intelsat">Intelsat</a> (International Telecommunications Satellite organization)<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup>. В СССР к тому времени была собственная развитая программа спутниковой связи, увенчавшаяся 23 апреля 1965 года успешным запуском связного советского спутника <a class="mw-redirect" href="/wiki/%D0%9C%D0%BE%D0%BB%D0%BD%D0%B8%D1%8F-1" title="Молния-1">Молния-1</a>.
+</p><p><a href="/wiki/6_%D0%B0%D0%BF%D1%80%D0%B5%D0%BB%D1%8F" title="6 апреля">6 апреля</a> <a href="/wiki/1965_%D0%B3%D0%BE%D0%B4" title="1965 год">1965 года</a> в рамках программы <a href="/wiki/Intelsat" title="Intelsat">Intelsat</a> был запущен первый коммерческий спутник связи <span data-interwiki-article="Intelsat I" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=Intelsat_I&amp;action=edit&amp;redlink=1" title="Intelsat I (страница отсутствует)">Early Bird</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://en.wikipedia.org/wiki/Intelsat_I" title="en:Intelsat I"><span title="Intelsat I — версия статьи «Intelsat I» на английском языке">[en]</span></a></sup></span> («ранняя пташка»)<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup>, произведённый корпорацией <a href="/wiki/COMSAT" title="COMSAT">COMSAT</a>, обладая <a href="/wiki/%D0%9F%D0%BE%D0%BB%D0%BE%D1%81%D0%B0_%D0%BF%D1%80%D0%BE%D0%BF%D1%83%D1%81%D0%BA%D0%B0%D0%BD%D0%B8%D1%8F" title="Полоса пропускания">полосой пропускания</a> 50 МГц, он мог обеспечивать до 240 телефонных каналов связи<sup class="reference" id="cite_ref-autogenerated1_5-0"><a href="#cite_note-autogenerated1-5">[5]</a></sup>. В каждый конкретный момент времени связь могла осуществляться между земной станцией в <a class="mw-redirect" href="/wiki/%D0%A1%D0%A8%D0%90" title="США">США</a> и только одной из трёх земных станций в Европе (в <a href="/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F" title="Великобритания">Великобритании</a>, <a href="/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F" title="Франция">Франции</a> или <a href="/wiki/%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F" title="Германия">Германии</a>), которые были соединены между собой кабельными линиями связи<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup>.
+</p><p>Спутник <a class="new" href="/w/index.php?title=Intelsat_IX&amp;action=edit&amp;redlink=1" title="Intelsat IX (страница отсутствует)">Intelsat IX</a> уже обладал полосой пропускания 3456 МГц<sup class="reference" id="cite_ref-autogenerated1_5-1"><a href="#cite_note-autogenerated1-5">[5]</a></sup>.
+</p><p>В СССР долгое время спутниковая связь развивались только в интересах <a href="/wiki/%D0%9C%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D0%B5%D1%80%D1%81%D1%82%D0%B2%D0%BE_%D0%BE%D0%B1%D0%BE%D1%80%D0%BE%D0%BD%D1%8B_%D0%A1%D0%A1%D0%A1%D0%A0" title="Министерство обороны СССР">Министерства обороны СССР</a>. В силу большей закрытости космической программы развитие спутниковой связи в социалистических странах шло иначе, чем в западных странах. Развитие гражданской спутниковой связи началось соглашением между 9 странами социалистического блока о создании системы связи «<a href="/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D1%81%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA" title="Интерспутник">Интерспутник</a>», которое было подписано только в <a href="/wiki/1971_%D0%B3%D0%BE%D0%B4" title="1971 год">1971 году</a><sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup>.
+</p>
+<h2><span id=".D0.A1.D0.BF.D1.83.D1.82.D0.BD.D0.B8.D0.BA.D0.BE.D0.B2.D1.8B.D0.B5_.D1.80.D0.B5.D1.82.D1.80.D0.B0.D0.BD.D1.81.D0.BB.D1.8F.D1.82.D0.BE.D1.80.D1.8B"></span><span class="mw-headline" id="Спутниковые_ретрансляторы">Спутниковые ретрансляторы</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Спутниковые ретрансляторы»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C&amp;action=edit&amp;section=2" title="Редактировать код раздела «Спутниковые ретрансляторы»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Echo_II.jpg"><img class="mw-file-element" data-file-height="2280" data-file-width="2798" decoding="async" height="179" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/Echo_II.jpg/220px-Echo_II.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/Echo_II.jpg/330px-Echo_II.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/40/Echo_II.jpg/440px-Echo_II.jpg 2x" width="220"/></a><figcaption>Пассивный спутник связи <a class="new" href="/w/index.php?title=Echo-2&amp;action=edit&amp;redlink=1" title="Echo-2 (страница отсутствует)">Echo-2</a>. Металлизированная надувная сфера выполняла функции пассивного ретранслятора</figcaption></figure>
+<p>В первые годы исследований использовались пассивные спутниковые ретрансляторы (примеры — спутники «Эхо» и «<a href="/wiki/%D0%AD%D1%85%D0%BE-2" title="Эхо-2">Эхо-2</a>»), которые представляли собой простой отражатель радиосигнала (часто — металлическая или полимерная сфера с металлическим напылением), не несущий на борту какого-либо приёмопередающего оборудования. Такие спутники не получили распространения. Все современные спутники связи являются активными. Активные ретрансляторы оборудованы электронной аппаратурой для приема, обработки, усиления и ретрансляции сигнала.
+</p><p>Спутниковые ретрансляторы могут быть <i>нерегенеративными</i> и <i>регенеративными</i><sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup>. Нерегенеративный спутник, приняв сигнал от одной земной станции, переносит его на другую частоту, усиливает и передает другой земной станции. Спутник может использовать несколько независимых каналов, осуществляющих эти операции, каждый из которых работает с определённой частью спектра (эти каналы обработки называются <a href="/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D0%BD%D0%B4%D0%B5%D1%80" title="Транспондер">транспондерами</a><sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup>).
+</p><p>Регенеративный спутник дополнительно производит <a href="/wiki/%D0%94%D0%B5%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8F%D1%86%D0%B8%D1%8F" title="Демодуляция">демодуляцию</a> принятого сигнала и заново <a href="/wiki/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8F%D1%86%D0%B8%D1%8F" title="Модуляция">модулирует</a> его. Благодаря этому исправление накапливающихся в процессе передачи ошибок производится дважды: на спутнике и на приёмной земной станции. Недостаток этого метода — сложность (а значит, гораздо более высокая цена спутника), а также увеличенная задержка передачи сигнала.
+</p>
+<h2><span id=".D0.9E.D1.80.D0.B1.D0.B8.D1.82.D1.8B_.D1.81.D0.BF.D1.83.D1.82.D0.BD.D0.B8.D0.BA.D0.BE.D0.B2.D1.8B.D1.85_.D1.80.D0.B5.D1.82.D1.80.D0.B0.D0.BD.D1.81.D0.BB.D1.8F.D1.82.D0.BE.D1.80.D0.BE.D0.B2"></span><span class="mw-headline" id="Орбиты_спутниковых_ретрансляторов">Орбиты спутниковых ретрансляторов</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C&amp;veaction=edit&amp;section=3" title="Редактировать раздел «Орбиты спутниковых ретрансляторов»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C&amp;action=edit&amp;section=3" title="Редактировать код раздела «Орбиты спутниковых ретрансляторов»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Communications_satellite_orbits.svg"><img class="mw-file-element" data-file-height="500" data-file-width="744" decoding="async" height="168" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Communications_satellite_orbits.svg/250px-Communications_satellite_orbits.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Communications_satellite_orbits.svg/375px-Communications_satellite_orbits.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Communications_satellite_orbits.svg/500px-Communications_satellite_orbits.svg.png 2x" width="250"/></a><figcaption>Орбиты: 1 — экваториальная, 2 — наклонная, 3 — полярная</figcaption></figure>
+<p>Орбиты, на которых размещаются спутниковые ретрансляторы, подразделяют на три класса<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup>:
+</p>
+<ul><li>экваториальные,</li>
+<li>наклонные,</li>
+<li>полярные.</li></ul>
+<p>Важной разновидностью <i>экваториальной орбиты</i> является <a href="/wiki/%D0%93%D0%B5%D0%BE%D1%81%D1%82%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D1%80%D0%BD%D0%B0%D1%8F_%D0%BE%D1%80%D0%B1%D0%B8%D1%82%D0%B0" title="Геостационарная орбита">геостационарная орбита</a>, на которой спутник вращается с <a href="/wiki/%D0%A3%D0%B3%D0%BB%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%BA%D0%BE%D1%80%D0%BE%D1%81%D1%82%D1%8C" title="Угловая скорость">угловой скоростью</a>, равной угловой скорости Земли, в направлении, совпадающем с направлением вращения Земли. Очевидным преимуществом геостационарной орбиты является то, что приёмник в зоне обслуживания «видит» спутник постоянно практически в одной и той же точке.
+</p><p>Однако геостационарная орбита одна, и ёмкость её, определяемая длиной окружности орбиты, поделённой на размеры спутников с учётом «интервалов безопасности» между ними, конечна. Поэтому все спутники, которые хотелось бы, вывести на неё невозможно<sup class="ts-fix-template noprint">[<i><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D0%BD%D0%B0_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8" title="Википедия:Ссылки на источники"><span title="нет источника (18 февраля 2013)">источник не указан 4027 дней</span></a></i>]</sup>. Другим её недостатком является большая высота (35 786 км), а значит, и большая цена вывода спутника на орбиту. Большая высота геостационарной орбиты приводит также к большим задержкам передачи информации (время прохождения сигнала от одной наземной станции до другой через геостационарный спутник даже теоретически не может быть менее 240 мс (две высоты орбиты, деленные на скорость света). Кроме того, плотность потока мощности у земной поверхности в точке приема сигнала падает по направлению от экватора к полюсам из-за меньшего угла наклона вектора электромагнитной энергии к земной поверхности, а также из-за увеличивающегося пути прохождения сигнала через атмосферу и связанного с этим поглощения. Поэтому спутник на геостационарной орбите практически не способен обслуживать земные станции в приполярных областях.
+</p><p><i>Наклонная орбита</i> позволяет решить эти проблемы, однако, из-за перемещения спутника относительно наземного наблюдателя необходимо запускать не меньше трёх спутников на одну орбиту, чтобы обеспечить круглосуточный доступ к связи.
+</p><p><i><a href="/wiki/%D0%9F%D0%BE%D0%BB%D1%8F%D1%80%D0%BD%D0%B0%D1%8F_%D0%BE%D1%80%D0%B1%D0%B8%D1%82%D0%B0" title="Полярная орбита">Полярная орбита</a></i> — это предельный случай наклонной орбиты (с <a class="mw-redirect" href="/wiki/%D0%9D%D0%B0%D0%BA%D0%BB%D0%BE%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_(%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%8F)" title="Наклонение (астрономия)">наклонением</a> 90º).
+</p><p>При использовании наклонных орбит земные станции оборудуются системами слежения, осуществляющими наведение антенны на спутник и его сопровождение<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup>.
+</p><p>Современные спутники, работающие на геостационарной орбите, имеют достаточно высокую точность удержания в заданной точке (как правило, не хуже 0.1 градуса по долготе и наклонению<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup>); сопровождение приёмной антенной геостационарного спутника становится необходимым, только если ширина диаграммы направленности антенны сравнима с колебаниями спутника вокруг точки стояния. Например, для <a href="/wiki/Ku-%D0%B4%D0%B8%D0%B0%D0%BF%D0%B0%D0%B7%D0%BE%D0%BD" title="Ku-диапазон">Ku-диапазона</a> — это антенны диаметром более 5 метров<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup>. Для меньшего размера достаточно один раз навести антенну в точку стояния спутника. Однако сопровождение всё-таки необходимо в случае предаварийного состояния спутника, когда его владельцем по различным причинам не осуществляется (совсем или реже регламентных сроков) процедура удержания спутника в точке стояния.
+</p>
+<h2><span id=".D0.9C.D0.BD.D0.BE.D0.B3.D0.BE.D0.BA.D1.80.D0.B0.D1.82.D0.BD.D0.BE.D0.B5_.D0.B8.D1.81.D0.BF.D0.BE.D0.BB.D1.8C.D0.B7.D0.BE.D0.B2.D0.B0.D0.BD.D0.B8.D0.B5_.D1.87.D0.B0.D1.81.D1.82.D0.BE.D1.82._.D0.97.D0.BE.D0.BD.D1.8B_.D0.BF.D0.BE.D0.BA.D1.80.D1.8B.D1.82.D0.B8.D1.8F"></span><span class="mw-headline" id="Многократное_использование_частот._Зоны_покрытия">Многократное использование частот. Зоны покрытия</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C&amp;veaction=edit&amp;section=4" title="Редактировать раздел «Многократное использование частот. Зоны покрытия»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C&amp;action=edit&amp;section=4" title="Редактировать код раздела «Многократное использование частот. Зоны покрытия»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Satellite_beam_coverage.svg"><img class="mw-file-element" data-file-height="744" data-file-width="744" decoding="async" height="250" src="//upload.wikimedia.org/wikipedia/ru/thumb/6/62/Satellite_beam_coverage.svg/250px-Satellite_beam_coverage.svg.png" srcset="//upload.wikimedia.org/wikipedia/ru/thumb/6/62/Satellite_beam_coverage.svg/375px-Satellite_beam_coverage.svg.png 1.5x, //upload.wikimedia.org/wikipedia/ru/thumb/6/62/Satellite_beam_coverage.svg/500px-Satellite_beam_coverage.svg.png 2x" width="250"/></a><figcaption>Типичная карта покрытия спутника, находящегося на геостационарной орбите</figcaption></figure>
+<p>Поскольку радиочастотный диапазон является ограниченным ресурсом, необходимо обеспечить возможность использования одних и тех же частот разными земными станциями. Сделать это можно двумя способами<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup>:
+</p>
+<ul><li><i>пространственное разделение</i> — каждая антенна спутника принимает сигнал только с определённого района земной поверхности, при этом разные районы могут использовать одни и те же частоты,</li></ul>
+<ul><li><i>поляризационное разделение</i> — различные антенны принимают и передают сигнал с ортогональными поляризациями (для линейной <a href="/wiki/%D0%9F%D0%BE%D0%BB%D1%8F%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F_%D0%B2%D0%BE%D0%BB%D0%BD" title="Поляризация волн">поляризации</a> во взаимно перпендикулярных плоскостях, для круговой соответственно с правосторонним и левосторонним вращением), при этом одни и те же частоты могут применяться два раза (для каждой из поляризаций).</li></ul>
+<p>Типичная карта покрытия для спутника, находящегося на геостационарной орбите, включает следующие компоненты<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup>:
+</p>
+<ul><li><i>глобальный луч</i> — производит связь с земными станциями по всей зоне покрытия, ему выделены частоты, не пересекающиеся с другими лучами этого спутника.</li></ul>
+<ul><li><i>лучи западной и восточной полусфер</i> — эти лучи поляризованы в плоскости A, причём в западной и восточной полусферах используется один и тот же диапазон частот.</li></ul>
+<ul><li><i>зонные лучи</i> — поляризованы в плоскости B (перпендикулярной A) и используют те же частоты, что и лучи полусфер. Таким образом, земная станция, расположенная в одной из зон, может использовать также лучи полусфер и глобальный луч.</li></ul>
+<p>При этом все частоты (за исключением зарезервированных за глобальным лучом) используются многократно: в западной и восточной полусферах и в каждой из зон.
+</p>
+<h2><span id=".D0.A7.D0.B0.D1.81.D1.82.D0.BE.D1.82.D0.BD.D1.8B.D0.B5_.D0.B4.D0.B8.D0.B0.D0.BF.D0.B0.D0.B7.D0.BE.D0.BD.D1.8B"></span><span class="mw-headline" id="Частотные_диапазоны">Частотные диапазоны</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C&amp;veaction=edit&amp;section=5" title="Редактировать раздел «Частотные диапазоны»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C&amp;action=edit&amp;section=5" title="Редактировать код раздела «Частотные диапазоны»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Satellite-dish_cropped.jpg"><img class="mw-file-element" data-file-height="234" data-file-width="276" decoding="async" height="212" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Satellite-dish_cropped.jpg/250px-Satellite-dish_cropped.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/9/97/Satellite-dish_cropped.jpg 1.5x" width="250"/></a><figcaption>Антенна для приема спутникового телевидения (Ku-диапазон)</figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Satellite_dish_1_C-Band.jpg"><img class="mw-file-element" data-file-height="511" data-file-width="544" decoding="async" height="235" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Satellite_dish_1_C-Band.jpg/250px-Satellite_dish_1_C-Band.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Satellite_dish_1_C-Band.jpg/375px-Satellite_dish_1_C-Band.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Satellite_dish_1_C-Band.jpg/500px-Satellite_dish_1_C-Band.jpg 2x" width="250"/></a><figcaption>Спутниковая антенна для C-диапазона</figcaption></figure>
+<p>Выбор частоты для передачи данных от земной станции к спутнику и от спутника к земной станции не является произвольным. От частоты зависит, например, поглощение <a href="/wiki/%D0%A0%D0%B0%D0%B4%D0%B8%D0%BE%D0%B2%D0%BE%D0%BB%D0%BD%D1%8B" title="Радиоволны">радиоволн</a> в <a href="/wiki/%D0%90%D1%82%D0%BC%D0%BE%D1%81%D1%84%D0%B5%D1%80%D0%B0_%D0%97%D0%B5%D0%BC%D0%BB%D0%B8" title="Атмосфера Земли">атмосфере</a>, а также необходимые размеры передающей и приёмной антенн. Частоты, на которых происходит передача от земной станции к спутнику, отличаются от частот, используемых для передачи от спутника к земной станции (как правило, первые выше).
+</p><p>Частоты, используемые в спутниковой связи, разделяют на диапазоны, обозначаемые буквами. К сожалению, в различной литературе точные границы диапазонов могут не совпадать. Ориентировочные значения даны в рекомендации <a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D1%81%D0%BE%D1%8E%D0%B7_%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D0%B2%D1%8F%D0%B7%D0%B8" title="Международный союз электросвязи">ITU</a>-R V.431-6<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup>:
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>Название диапазона
+</th>
+<th>Частоты (согласно ITU-R V.431-6)
+</th>
+<th>Применение
+</th></tr>
+<tr>
+<td><a href="/wiki/L-%D0%B4%D0%B8%D0%B0%D0%BF%D0%B0%D0%B7%D0%BE%D0%BD" title="L-диапазон">L</a>
+</td>
+<td>1,5 ГГц
+</td>
+<td>Подвижная спутниковая связь
+</td></tr>
+<tr>
+<td><a href="/wiki/S-%D0%B4%D0%B8%D0%B0%D0%BF%D0%B0%D0%B7%D0%BE%D0%BD" title="S-диапазон">S</a>
+</td>
+<td>2,5 ГГц
+</td>
+<td>Подвижная спутниковая связь
+</td></tr>
+<tr>
+<td><a href="/wiki/C-%D0%B4%D0%B8%D0%B0%D0%BF%D0%B0%D0%B7%D0%BE%D0%BD" title="C-диапазон">С</a>
+</td>
+<td>4 ГГц, 6 ГГц
+</td>
+<td>Фиксированная спутниковая связь
+</td></tr>
+<tr>
+<td><a href="/wiki/X-%D0%B4%D0%B8%D0%B0%D0%BF%D0%B0%D0%B7%D0%BE%D0%BD" title="X-диапазон">X</a>
+</td>
+<td><span style="font-size:smaller;">Для спутниковой связи рекомендациями ITU-R частоты не определены. Для приложений радиолокации указан диапазон 8-12 ГГц.</span>
+</td>
+<td>Фиксированная спутниковая связь
+</td></tr>
+<tr>
+<td><a href="/wiki/Ku-%D0%B4%D0%B8%D0%B0%D0%BF%D0%B0%D0%B7%D0%BE%D0%BD" title="Ku-диапазон">Ku</a>
+</td>
+<td>11 ГГц, 12 ГГц, 14 ГГц
+</td>
+<td>Фиксированная спутниковая связь, спутниковое вещание
+</td></tr>
+<tr>
+<td><a href="/wiki/K-%D0%B4%D0%B8%D0%B0%D0%BF%D0%B0%D0%B7%D0%BE%D0%BD" title="K-диапазон">K</a>
+</td>
+<td>20 ГГц
+</td>
+<td>Фиксированная спутниковая связь, спутниковое вещание
+</td></tr>
+<tr>
+<td><a href="/wiki/Ka-%D0%B4%D0%B8%D0%B0%D0%BF%D0%B0%D0%B7%D0%BE%D0%BD" title="Ka-диапазон">Ka</a>
+</td>
+<td>30 ГГц
+</td>
+<td>Фиксированная спутниковая связь, межспутниковая связь
+</td></tr></tbody></table>
+<p>Используются и более высокие частоты, но повышение их затруднено высоким поглощением радиоволн этих частот атмосферой.
+<a href="/wiki/Ku-%D0%B4%D0%B8%D0%B0%D0%BF%D0%B0%D0%B7%D0%BE%D0%BD" title="Ku-диапазон">Ku-диапазон</a> позволяет производить прием сравнительно небольшими антеннами, и поэтому используется в <a href="/wiki/%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%BE%D0%B5_%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Спутниковое телевидение">спутниковом телевидении</a> (<a href="/wiki/DVB" title="DVB">DVB</a>), несмотря на то, что в этом диапазоне погодные условия оказывают существенное влияние на качество передачи.
+</p><p>Для передачи данных крупными пользователями (организациями) часто применяется C-диапазон. Это обеспечивает более высокое качество приема, но требует довольно больших размеров антенны.
+</p>
+<h2><span id=".D0.9C.D0.BE.D0.B4.D1.83.D0.BB.D1.8F.D1.86.D0.B8.D1.8F_.D0.B8_.D0.BF.D0.BE.D0.BC.D0.B5.D1.85.D0.BE.D1.83.D1.81.D1.82.D0.BE.D0.B9.D1.87.D0.B8.D0.B2.D0.BE.D0.B5_.D0.BA.D0.BE.D0.B4.D0.B8.D1.80.D0.BE.D0.B2.D0.B0.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Модуляция_и_помехоустойчивое_кодирование">Модуляция и помехоустойчивое кодирование</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C&amp;veaction=edit&amp;section=6" title="Редактировать раздел «Модуляция и помехоустойчивое кодирование»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C&amp;action=edit&amp;section=6" title="Редактировать код раздела «Модуляция и помехоустойчивое кодирование»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Особенностью спутниковых систем связи является необходимость работать в условиях сравнительно малого <a href="/wiki/%D0%9E%D1%82%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%B8%D0%B5_%D1%81%D0%B8%D0%B3%D0%BD%D0%B0%D0%BB/%D1%88%D1%83%D0%BC" title="Отношение сигнал/шум">отношения сигнал/шум</a>, вызванного несколькими факторами:
+</p>
+<ul><li>значительной удалённостью приёмника от передатчика,</li>
+<li>ограниченной мощностью спутника (невозможностью вести передачу на большой мощности).</li></ul>
+<p>В связи с этим спутниковая связь плохо подходит для передачи <a href="/wiki/%D0%90%D0%BD%D0%B0%D0%BB%D0%BE%D0%B3%D0%BE%D0%B2%D1%8B%D0%B9_%D1%81%D0%B8%D0%B3%D0%BD%D0%B0%D0%BB" title="Аналоговый сигнал">аналоговых сигналов</a>. Поэтому для передачи речи её предварительно <a href="/wiki/%D0%9E%D1%86%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BA%D0%B0" title="Оцифровка">оцифровывают</a>, используя, например, <a href="/wiki/%D0%98%D0%BC%D0%BF%D1%83%D0%BB%D1%8C%D1%81%D0%BD%D0%BE-%D0%BA%D0%BE%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8F%D1%86%D0%B8%D1%8F" title="Импульсно-кодовая модуляция">импульсно-кодовую модуляцию</a> (ИКМ)<sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup>.
+</p><p>Для передачи цифровых данных по спутниковому каналу связи они должны быть сначала преобразованы в радиосигнал, занимающий определённый частотный диапазон. Для этого применяется <a href="/wiki/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8F%D1%86%D0%B8%D1%8F" title="Модуляция">модуляция</a> (цифровая модуляция называется также <i>манипуляцией</i>). Наиболее распространёнными видами цифровой модуляции для приложений спутниковой связи являются <a href="/wiki/%D0%A4%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BC%D0%B0%D0%BD%D0%B8%D0%BF%D1%83%D0%BB%D1%8F%D1%86%D0%B8%D1%8F" title="Фазовая манипуляция">фазовая манипуляция</a> и <a href="/wiki/%D0%9A%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%BD%D0%B0%D1%8F_%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8F%D1%86%D0%B8%D1%8F" title="Квадратурная модуляция">квадратурная амплитудная модуляция</a><sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup>. Например, в системах стандарта <a href="/wiki/DVB" title="DVB">DVB-S2</a> применяются QPSK, 8-PSK, 16-APSK и 32-APSK<sup class="reference" id="cite_ref-19"><a href="#cite_note-19">[19]</a></sup>.
+</p><p>Модуляция производится на наземной станции. Модулированный сигнал усиливается, переносится на нужную частоту и поступает на передающую <a href="/wiki/%D0%90%D0%BD%D1%82%D0%B5%D0%BD%D0%BD%D0%B0" title="Антенна">антенну</a>. Спутник принимает сигнал, усиливает, иногда <a class="new" href="/w/index.php?title=%D0%A0%D0%B5%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F_%D1%81%D0%B8%D0%B3%D0%BD%D0%B0%D0%BB%D0%B0&amp;action=edit&amp;redlink=1" title="Регенерация сигнала (страница отсутствует)">регенерирует</a>, переносит на другую частоту и с помощью определённой передающей антенны транслирует на землю.
+</p><p>Из-за низкой мощности сигнала возникает необходимость в системах исправления ошибок. Для этого применяются различные схемы <a class="mw-redirect" href="/wiki/%D0%9F%D0%BE%D0%BC%D0%B5%D1%85%D0%BE%D1%83%D1%81%D1%82%D0%BE%D0%B9%D1%87%D0%B8%D0%B2%D0%BE%D0%B5_%D0%BA%D0%BE%D0%B4%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" title="Помехоустойчивое кодирование">помехоустойчивого кодирования</a>, чаще всего различные варианты <a class="mw-redirect" href="/wiki/%D0%A1%D0%B2%D1%91%D1%80%D1%82%D0%BE%D1%87%D0%BD%D1%8B%D0%B5_%D0%BA%D0%BE%D0%B4%D1%8B" title="Свёрточные коды">свёрточных кодов</a> (иногда в сочетании с <a class="mw-redirect" href="/wiki/%D0%9A%D0%BE%D0%B4%D1%8B_%D0%A0%D0%B8%D0%B4%D0%B0-%D0%A1%D0%BE%D0%BB%D0%BE%D0%BC%D0%BE%D0%BD%D0%B0" title="Коды Рида-Соломона">кодами Рида-Соломона</a>), а также <a class="mw-redirect" href="/wiki/%D0%A2%D1%83%D1%80%D0%B1%D0%BE-%D0%BA%D0%BE%D0%B4%D1%8B" title="Турбо-коды">турбо-коды</a><sup class="reference" id="cite_ref-20"><a href="#cite_note-20">[20]</a></sup><sup class="reference" id="cite_ref-21"><a href="#cite_note-21">[21]</a></sup> и <a class="mw-redirect" href="/wiki/LDPC" title="LDPC">LDPC-коды</a><sup class="reference" id="cite_ref-22"><a href="#cite_note-22">[22]</a></sup>.
+</p>
+<h2><span id=".D0.9C.D0.BD.D0.BE.D0.B6.D0.B5.D1.81.D1.82.D0.B2.D0.B5.D0.BD.D0.BD.D1.8B.D0.B9_.D0.B4.D0.BE.D1.81.D1.82.D1.83.D0.BF"></span><span class="mw-headline" id="Множественный_доступ">Множественный доступ</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C&amp;veaction=edit&amp;section=7" title="Редактировать раздел «Множественный доступ»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C&amp;action=edit&amp;section=7" title="Редактировать код раздела «Множественный доступ»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Для обеспечения возможности одновременного использования спутникового ретранслятора несколькими пользователями применяют системы множественного доступа<sup class="reference" id="cite_ref-23"><a href="#cite_note-23">[23]</a></sup>:
+</p>
+<ul><li><a class="mw-redirect" href="/wiki/%D0%9C%D0%BD%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF_%D1%81_%D1%87%D0%B0%D1%81%D1%82%D0%BE%D1%82%D0%BD%D1%8B%D0%BC_%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%D0%BC" title="Множественный доступ с частотным разделением">множественный доступ с частотным разделением</a> — при этом каждому пользователю предоставляется отдельный диапазон частот.</li></ul>
+<ul><li><a class="mw-redirect" href="/wiki/%D0%9C%D0%BD%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF_%D1%81_%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%BC_%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%D0%BC" title="Множественный доступ с временным разделением">множественный доступ с временны́м разделением</a> — каждому пользователю предоставляется определённый временной интервал (<a href="/wiki/%D0%A2%D0%B0%D0%B9%D0%BC%D1%81%D0%BB%D0%BE%D1%82_(TDMA)" title="Таймслот (TDMA)">таймслот</a>), в течение которого он производит передачу и прием данных.</li></ul>
+<ul><li><a class="mw-redirect" href="/wiki/%D0%9C%D0%BD%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF_%D1%81_%D0%BA%D0%BE%D0%B4%D0%BE%D0%B2%D1%8B%D0%BC_%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%D0%BC" title="Множественный доступ с кодовым разделением">множественный доступ с кодовым разделением</a> — при этом каждому пользователю выдаётся кодовая последовательность, <a href="/wiki/%D0%9E%D1%80%D1%82%D0%BE%D0%B3%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Ортогональность">ортогональная</a> кодовым последовательностям других пользователей. Данные пользователя накладываются на кодовую последовательность таким образом, что передаваемые сигналы различных пользователей не мешают друг другу, хотя и передаются на одних и тех же частотах.</li></ul>
+<p>Кроме того, многим пользователям не требуется постоянный доступ к спутниковой связи. Этим пользователям канал связи (таймслот) выделяется по требованию с помощью технологии <a class="new" href="/w/index.php?title=DAMA&amp;action=edit&amp;redlink=1" title="DAMA (страница отсутствует)">DAMA</a> (Demand Assigned Multiple Access — множественный доступ с предоставлением каналов по требованию).
+</p>
+<h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D0.BD.D0.B5.D0.BD.D0.B8.D0.B5_.D1.81.D0.BF.D1.83.D1.82.D0.BD.D0.B8.D0.BA.D0.BE.D0.B2.D0.BE.D0.B9_.D1.81.D0.B2.D1.8F.D0.B7.D0.B8"></span><span class="mw-headline" id="Применение_спутниковой_связи">Применение спутниковой связи</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C&amp;veaction=edit&amp;section=8" title="Редактировать раздел «Применение спутниковой связи»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C&amp;action=edit&amp;section=8" title="Редактировать код раздела «Применение спутниковой связи»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Parabolic-antenna-SHF-updown.jpg"><img class="mw-file-element" data-file-height="1786" data-file-width="1205" decoding="async" height="371" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Parabolic-antenna-SHF-updown.jpg/250px-Parabolic-antenna-SHF-updown.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Parabolic-antenna-SHF-updown.jpg/375px-Parabolic-antenna-SHF-updown.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Parabolic-antenna-SHF-updown.jpg/500px-Parabolic-antenna-SHF-updown.jpg 2x" width="250"/></a><figcaption>Антенна терминала <a href="/wiki/VSAT" title="VSAT">VSAT</a></figcaption></figure>
+<h3><span id=".D0.9C.D0.B0.D0.B3.D0.B8.D1.81.D1.82.D1.80.D0.B0.D0.BB.D1.8C.D0.BD.D0.B0.D1.8F_.D1.81.D0.BF.D1.83.D1.82.D0.BD.D0.B8.D0.BA.D0.BE.D0.B2.D0.B0.D1.8F_.D1.81.D0.B2.D1.8F.D0.B7.D1.8C"></span><span class="mw-headline" id="Магистральная_спутниковая_связь">Магистральная спутниковая связь</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C&amp;veaction=edit&amp;section=9" title="Редактировать раздел «Магистральная спутниковая связь»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C&amp;action=edit&amp;section=9" title="Редактировать код раздела «Магистральная спутниковая связь»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Изначально возникновение спутниковой связи было продиктовано потребностями передачи больших объёмов информации. Первой системой спутниковой связи стала система <a href="/wiki/Intelsat" title="Intelsat">Intelsat</a>, затем были созданы аналогичные региональные организации (<a href="/wiki/Eutelsat" title="Eutelsat">Eutelsat</a>, <a class="new" href="/w/index.php?title=Arabsat&amp;action=edit&amp;redlink=1" title="Arabsat (страница отсутствует)">Arabsat</a> и другие). С течением времени доля передачи речи в общем объёме магистрального трафика постоянно снижалась, уступая место передаче данных.
+</p><p>С развитием волоконно-оптических сетей последние начали вытеснять спутниковую связь с рынка магистральной связи<sup class="reference" id="cite_ref-24"><a href="#cite_note-24">[24]</a></sup>.
+</p>
+<h3><span id=".D0.A1.D0.B8.D1.81.D1.82.D0.B5.D0.BC.D1.8B_VSAT"></span><span class="mw-headline" id="Системы_VSAT">Системы VSAT</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C&amp;veaction=edit&amp;section=10" title="Редактировать раздел «Системы VSAT»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C&amp;action=edit&amp;section=10" title="Редактировать код раздела «Системы VSAT»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable">Основная статья: <b><a href="/wiki/VSAT" title="VSAT">VSAT</a></b></div>
+<p>Системы <a href="/wiki/VSAT" title="VSAT">VSAT</a> (Very Small Aperture Terminal — терминал с очень маленькой апертурой) предоставляют услуги спутниковой связи клиентам (как правило, небольшим организациям), которым не требуется высокая <a href="/wiki/%D0%9F%D1%80%D0%BE%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%B0%D1%8F_%D1%81%D0%BF%D0%BE%D1%81%D0%BE%D0%B1%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Пропускная способность">пропускная способность</a> канала. Скорость передачи данных для VSAT-терминала обычно не превышает 2048 кбит/с<sup class="reference" id="cite_ref-25"><a href="#cite_note-25">[25]</a></sup>.
+</p><p>Слова «очень маленькая апертура» относятся к размерам антенн терминалов по сравнению с размерами более старых антенн магистральных систем связи. VSAT-терминалы, работающие в C-диапазоне, обычно используют антенны диаметром 1,8-2,4 м, в Ku-диапазоне — 0,75-1,8 м.
+</p><p>В системах VSAT применяется технология предоставления каналов по требованию.
+</p>
+<h3><span id=".D0.A1.D0.B8.D1.81.D1.82.D0.B5.D0.BC.D1.8B_.D0.BF.D0.BE.D0.B4.D0.B2.D0.B8.D0.B6.D0.BD.D0.BE.D0.B9_.D1.81.D0.BF.D1.83.D1.82.D0.BD.D0.B8.D0.BA.D0.BE.D0.B2.D0.BE.D0.B9_.D1.81.D0.B2.D1.8F.D0.B7.D0.B8"></span><span class="mw-headline" id="Системы_подвижной_спутниковой_связи">Системы подвижной спутниковой связи</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C&amp;veaction=edit&amp;section=11" title="Редактировать раздел «Системы подвижной спутниковой связи»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C&amp;action=edit&amp;section=11" title="Редактировать код раздела «Системы подвижной спутниковой связи»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Особенностью большинства систем подвижной спутниковой связи является маленький размер антенны терминала, что затрудняет прием сигнала. Для того, чтобы мощность сигнала, достигающего приёмника, была достаточной, применяют одно из двух решений:
+</p>
+<ul><li>Спутники располагаются на <i>геостационарной</i> орбите. Поскольку эта орбита удалена от <a class="mw-redirect" href="/wiki/%D0%97%D0%B5%D0%BC%D0%BB%D1%8F_(%D0%BF%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B0)" title="Земля (планета)">Земли</a> на расстояние 35786 км<sup class="reference" id="cite_ref-26"><a href="#cite_note-26">[26]</a></sup>, на спутник требуется установить мощный передатчик. Этот подход используется системой <a href="/wiki/Inmarsat" title="Inmarsat">Inmarsat</a> (основной задачей которой является предоставление услуг связи морским судам) и некоторыми региональными операторами персональной спутниковой связи (например, <a href="/wiki/Thuraya" title="Thuraya">Thuraya</a><sup class="reference" id="cite_ref-slyusarantenna1_27-0"><a href="#cite_note-slyusarantenna1-27">[27]</a></sup>).</li></ul>
+<ul><li>Множество спутников располагается на <i>наклонных</i> или <i>полярных</i> орбитах. При этом требуемая мощность передатчика не так высока, и стоимость вывода спутника на орбиту ниже. Однако такой подход требует не только большого числа спутников, но и разветвленной сети наземных коммутаторов. Подобный метод используется операторами <a href="/wiki/%D0%98%D1%80%D0%B8%D0%B4%D0%B8%D1%83%D0%BC" title="Иридиум">Iridium</a> , <a class="mw-redirect" href="/wiki/Globalstar" title="Globalstar">Globalstar</a> и <a href="/wiki/%D0%93%D0%BE%D0%BD%D0%B5%D1%86_(%D1%81%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D1%81%D0%B2%D1%8F%D0%B7%D0%B8)" title="Гонец (спутниковая система связи)">Гонец</a>.</li></ul>
+<p>С операторами персональной спутниковой связи конкурируют операторы <a href="/wiki/%D0%A1%D0%BE%D1%82%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C" title="Сотовая связь">сотовой связи</a>. Как Globalstar, так и Iridium испытывали серьёзные финансовые затруднения, которые довели Iridium до <i>реорганизационного</i> <a class="mw-redirect" href="/wiki/%D0%91%D0%B0%D0%BD%D0%BA%D1%80%D0%BE%D1%82%D1%81%D1%82%D0%B2%D0%BE" title="Банкротство">банкротства</a> в 1999 г., но в настоящее время компания справилась с ситуацией и готовится вывести спутниковую группировку второго поколения.
+</p><p>В декабре 2006 года был запущен экспериментальный геостационарный спутник <a href="/wiki/%D0%9A%D0%B8%D0%BA%D1%83-8" title="Кику-8">Кику-8</a> с рекордно большой площадью антенны, который предполагается использовать для отработки технологии работы спутниковой связи с <a href="/wiki/%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_%D1%82%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD" title="Спутниковый телефон">мобильными устройствами</a>, не превышающими по размерам сотовые телефоны.
+</p>
+<h3><span id=".D0.A1.D0.BF.D1.83.D1.82.D0.BD.D0.B8.D0.BA.D0.BE.D0.B2.D1.8B.D0.B9_.D0.98.D0.BD.D1.82.D0.B5.D1.80.D0.BD.D0.B5.D1.82"></span><span class="mw-headline" id="Спутниковый_Интернет">Спутниковый Интернет</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C&amp;veaction=edit&amp;section=12" title="Редактировать раздел «Спутниковый Интернет»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C&amp;action=edit&amp;section=12" title="Редактировать код раздела «Спутниковый Интернет»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable">Основная статья: <b><a href="/wiki/%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82" title="Спутниковый Интернет">Спутниковый Интернет</a></b></div>
+<p>Спутниковая связь находит применение в организации «<a href="/wiki/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D1%8F%D1%8F_%D0%BC%D0%B8%D0%BB%D1%8F" title="Последняя миля">последней мили</a>» (канала связи между <a href="/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82-%D0%BF%D1%80%D0%BE%D0%B2%D0%B0%D0%B9%D0%B4%D0%B5%D1%80" title="Интернет-провайдер">интернет-провайдером</a> и клиентом), особенно в местах со слабо развитой инфраструктурой<sup class="reference" id="cite_ref-28"><a href="#cite_note-28">[28]</a></sup>.
+</p><p>Особенностями такого вида доступа являются:
+</p>
+<ul><li>Разделение входящего и исходящего трафика и привлечение дополнительных технологий для их совмещения. Поэтому такие соединения называют <i>асимметричными</i>.</li>
+<li>Одновременное использование входящего спутникового канала несколькими (например 200-ми) пользователями: через спутник одновременно передаются данные для всех клиентов «вперемешку», фильтрацией ненужных данных занимается клиентский терминал (по этой причине возможна «<a class="mw-redirect" href="/wiki/%D0%A0%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0_%D1%81%D0%BE_%D1%81%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%B0" title="Рыбалка со спутника">Рыбалка со спутника</a>»).</li></ul>
+<p>По типу исходящего канала различают:
+</p>
+<ul><li>Терминалы, работающие только на прием сигнала (наиболее дешёвый вариант подключения). В этом случае для исходящего трафика необходимо иметь другое подключение к Интернету, поставщика которого называют <i>наземным провайдером</i>. Для работы в такой схеме привлекается туннелирующее программное обеспечение, обычно входящее в поставку терминала. Несмотря на сложность (в том числе сложность в настройке), такая технология привлекательна большой скоростью по сравнению с dial-up за сравнительно небольшую цену.</li>
+<li>Приемо-передающие терминалы. Исходящий канал организуется узким (по сравнению со входящим). Оба направления обеспечивает одно и то же устройство, и поэтому такая система значительно проще в настройке (особенно если терминал внешний и подключается к компьютеру через интерфейс Ethernet). Такая схема требует установки на антенну более сложного (приемо-передающего) <a href="/wiki/%D0%9F%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C_%D1%87%D0%B0%D1%81%D1%82%D0%BE%D1%82%D1%8B_(%D1%80%D0%B0%D0%B4%D0%B8%D0%BE%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0)" title="Преобразователь частоты (радиотехника)">конвертера</a>.</li></ul>
+<p>И в том, и в другом случае данные от провайдера к клиенту передаются, как правило, в соответствии со стандартом цифрового вещания <a href="/wiki/DVB" title="DVB">DVB</a>, что позволяет использовать одно и то же оборудование как для доступа в сеть, так и для приема спутникового телевидения.
+</p>
+<h2><span id=".D0.9D.D0.B5.D0.B4.D0.BE.D1.81.D1.82.D0.B0.D1.82.D0.BA.D0.B8_.D1.81.D0.BF.D1.83.D1.82.D0.BD.D0.B8.D0.BA.D0.BE.D0.B2.D0.BE.D0.B9_.D1.81.D0.B2.D1.8F.D0.B7.D0.B8"></span><span class="mw-headline" id="Недостатки_спутниковой_связи">Недостатки спутниковой связи</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C&amp;veaction=edit&amp;section=13" title="Редактировать раздел «Недостатки спутниковой связи»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C&amp;action=edit&amp;section=13" title="Редактировать код раздела «Недостатки спутниковой связи»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id=".D0.A1.D0.BB.D0.B0.D0.B1.D0.B0.D1.8F_.D0.BF.D0.BE.D0.BC.D0.B5.D1.85.D0.BE.D0.B7.D0.B0.D1.89.D0.B8.D1.89.D1.91.D0.BD.D0.BD.D0.BE.D1.81.D1.82.D1.8C"></span><span class="mw-headline" id="Слабая_помехозащищённость">Слабая помехозащищённость</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C&amp;veaction=edit&amp;section=14" title="Редактировать раздел «Слабая помехозащищённость»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C&amp;action=edit&amp;section=14" title="Редактировать код раздела «Слабая помехозащищённость»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Огромные расстояния между земными станциями и спутником являются причиной того, что отношение сигнал/шум на приёмнике очень невелико (гораздо меньше, чем для большинства радиорелейных линий связи). Для того, чтобы в этих условиях обеспечить приемлемую вероятность ошибки, приходится использовать большие <a href="/wiki/%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B0%D0%BD%D1%82%D0%B5%D0%BD%D0%BD%D0%B0" title="Спутниковая антенна">антенны</a>, малошумящие элементы и сложные <a class="mw-redirect" href="/wiki/%D0%9A%D0%BE%D0%B4%D1%8B,_%D0%B8%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%8F%D1%8E%D1%89%D0%B8%D0%B5_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B8" title="Коды, исправляющие ошибки">помехоустойчивые коды</a>. Особенно остро эта проблема стоит в системах подвижной связи, так как в них есть ограничения на размер антенны, её направленные свойства и, как правило, на мощность передатчика.
+</p>
+<h3><span id=".D0.92.D0.BB.D0.B8.D1.8F.D0.BD.D0.B8.D0.B5_.D0.B0.D1.82.D0.BC.D0.BE.D1.81.D1.84.D0.B5.D1.80.D1.8B"></span><span class="mw-headline" id="Влияние_атмосферы">Влияние атмосферы</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C&amp;veaction=edit&amp;section=15" title="Редактировать раздел «Влияние атмосферы»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C&amp;action=edit&amp;section=15" title="Редактировать код раздела «Влияние атмосферы»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>На качество спутниковой связи оказывают сильное влияние эффекты в <a href="/wiki/%D0%A2%D1%80%D0%BE%D0%BF%D0%BE%D1%81%D1%84%D0%B5%D1%80%D0%B0" title="Тропосфера">тропосфере</a> и <a href="/wiki/%D0%98%D0%BE%D0%BD%D0%BE%D1%81%D1%84%D0%B5%D1%80%D0%B0" title="Ионосфера">ионосфере</a><sup class="reference" id="cite_ref-29"><a href="#cite_note-29">[29]</a></sup>.
+</p>
+<h4><span id=".D0.9F.D0.BE.D0.B3.D0.BB.D0.BE.D1.89.D0.B5.D0.BD.D0.B8.D0.B5_.D0.B2_.D1.82.D1.80.D0.BE.D0.BF.D0.BE.D1.81.D1.84.D0.B5.D1.80.D0.B5"></span><span class="mw-headline" id="Поглощение_в_тропосфере">Поглощение в тропосфере</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C&amp;veaction=edit&amp;section=16" title="Редактировать раздел «Поглощение в тропосфере»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C&amp;action=edit&amp;section=16" title="Редактировать код раздела «Поглощение в тропосфере»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Степень поглощения сигнала атмосферой находится в зависимости от его частоты. Максимумы поглощения приходятся на 22,3 ГГц (<a href="/wiki/%D0%A0%D0%B5%D0%B7%D0%BE%D0%BD%D0%B0%D0%BD%D1%81" title="Резонанс">резонанс</a> <a href="/wiki/%D0%92%D0%BE%D0%B4%D1%8F%D0%BD%D0%BE%D0%B9_%D0%BF%D0%B0%D1%80" title="Водяной пар">водяных паров</a>) и 60 ГГц (резонанс <a href="/wiki/%D0%9A%D0%B8%D1%81%D0%BB%D0%BE%D1%80%D0%BE%D0%B4" title="Кислород">кислорода</a>)<sup class="reference" id="cite_ref-30"><a href="#cite_note-30">[30]</a></sup>. В целом, поглощение существенно сказывается на распространении сигналов с частотой выше 10 ГГц (то есть, начиная с Ku-диапазона). Кроме поглощения, при распространении радиоволн в атмосфере присутствует эффект <a class="mw-redirect" href="/wiki/%D0%97%D0%B0%D0%BC%D0%B8%D1%80%D0%B0%D0%BD%D0%B8%D0%B5" title="Замирание">замирания</a>, причиной которому является разница в <a class="mw-redirect" href="/wiki/%D0%9A%D0%BE%D1%8D%D1%84%D1%84%D0%B8%D1%86%D0%B8%D0%B5%D0%BD%D1%82_%D0%BF%D1%80%D0%B5%D0%BB%D0%BE%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F" title="Коэффициент преломления">коэффициентах преломления</a> различных слоёв атмосферы.
+</p>
+<h4><span id=".D0.98.D0.BE.D0.BD.D0.BE.D1.81.D1.84.D0.B5.D1.80.D0.BD.D1.8B.D0.B5_.D1.8D.D1.84.D1.84.D0.B5.D0.BA.D1.82.D1.8B"></span><span class="mw-headline" id="Ионосферные_эффекты">Ионосферные эффекты</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C&amp;veaction=edit&amp;section=17" title="Редактировать раздел «Ионосферные эффекты»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C&amp;action=edit&amp;section=17" title="Редактировать код раздела «Ионосферные эффекты»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Эффекты в ионосфере обусловлены <a href="/wiki/%D0%A4%D0%BB%D1%83%D0%BA%D1%82%D1%83%D0%B0%D1%86%D0%B8%D1%8F" title="Флуктуация">флуктуациями</a> распределения свободных электронов. К ионосферным эффектам, влияющим на распространение радиоволн, относят <i>мерцание</i>, <i>поглощение</i>, <i>задержку распространения</i>, <i><a href="/wiki/%D0%94%D0%B8%D1%81%D0%BF%D0%B5%D1%80%D1%81%D0%B8%D1%8F_%D1%81%D0%B2%D0%B5%D1%82%D0%B0" title="Дисперсия света">дисперсию</a></i>, <i>изменение частоты</i>, <i>вращение плоскости поляризации</i><sup class="reference" id="cite_ref-31"><a href="#cite_note-31">[31]</a></sup>. Все эти эффекты ослабляются с увеличением частоты. Для сигналов с частотами, большими 10 ГГц, их влияние невелико<sup class="reference" id="cite_ref-32"><a href="#cite_note-32">[32]</a></sup>.
+</p>
+<center>
+<table class="wikitable">
+<tbody><tr>
+<th>Эффект
+</th>
+<th>100 МГц
+</th>
+<th>300 МГц
+</th>
+<th>1 ГГц
+</th>
+<th>3 ГГц
+</th>
+<th>10 ГГц
+</th></tr>
+<tr>
+<th>Вращение плоскости поляризации
+</th>
+<td>30 оборотов
+</td>
+<td>3,3 оборота
+</td>
+<td>108°
+</td>
+<td>12°
+</td>
+<td>1,1°
+</td></tr>
+<tr>
+<th>Дополнительная задержка сигнала
+</th>
+<td>25 мс
+</td>
+<td>2,8 мс
+</td>
+<td>0,25 мс
+</td>
+<td>28 нс
+</td>
+<td>2,5 нс
+</td></tr>
+<tr>
+<th>Поглощение в ионосфере (на полюсе)
+</th>
+<td>5 дБ
+</td>
+<td>1,1 дБ
+</td>
+<td>0,05 дБ
+</td>
+<td>0,006 дБ
+</td>
+<td>0,0005 дБ
+</td></tr>
+<tr>
+<th>Поглощение в ионосфере (в средних широтах)
+</th>
+<td>&lt;1 дБ
+</td>
+<td>0,1 дБ
+</td>
+<td>&lt;0,01 дБ
+</td>
+<td>&lt;0,001 дБ
+</td>
+<td>&lt;0,0001 дБ
+</td></tr>
+</tbody></table>
+</center>
+<p>Сигналы с относительно низкой частотой (L-диапазон и частично C-диапазон) страдают от <i>ионосферного мерцания</i>, возникающего из-за неоднородностей в ионосфере. Результатом этого мерцания является постоянно меняющаяся мощность сигнала.
+</p>
+<h3><span id=".D0.97.D0.B0.D0.B4.D0.B5.D1.80.D0.B6.D0.BA.D0.B0_.D1.80.D0.B0.D1.81.D0.BF.D1.80.D0.BE.D1.81.D1.82.D1.80.D0.B0.D0.BD.D0.B5.D0.BD.D0.B8.D1.8F_.D1.81.D0.B8.D0.B3.D0.BD.D0.B0.D0.BB.D0.B0"></span><span class="mw-headline" id="Задержка_распространения_сигнала">Задержка распространения сигнала</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C&amp;veaction=edit&amp;section=18" title="Редактировать раздел «Задержка распространения сигнала»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C&amp;action=edit&amp;section=18" title="Редактировать код раздела «Задержка распространения сигнала»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Проблема задержки распространения сигнала так или иначе затрагивает все спутниковые системы связи. Наибольшей задержкой обладают системы, использующие спутниковый ретранслятор на геостационарной орбите. В этом случае задержка, обусловленная конечностью скорости распространения радиоволн, составляет примерно 250 мс, а с учётом мультиплексирования, коммутации и задержек обработки сигнала общая задержка может составлять до 400 мс<sup class="reference" id="cite_ref-33"><a href="#cite_note-33">[33]</a></sup>.
+</p><p>Задержка распространения наиболее нежелательна в приложениях реального времени, например, в телефонной и видеосвязи. При этом, если время распространения сигнала по спутниковому каналу связи составляет 250 мс, разница во времени между репликами абонентов не может быть меньше 500 мс.
+</p><p>В некоторых системах (например, в системах VSAT, использующих топологию «звезда») сигнал дважды передается через спутниковый канал связи (от терминала к центральному узлу, и от центрального узла к другому терминалу). В этом случае общая задержка удваивается.
+</p>
+<h3><span id=".D0.92.D0.BB.D0.B8.D1.8F.D0.BD.D0.B8.D0.B5_.D1.81.D0.BE.D0.BB.D0.BD.D0.B5.D1.87.D0.BD.D0.BE.D0.B9_.D0.B8.D0.BD.D1.82.D0.B5.D1.80.D1.84.D0.B5.D1.80.D0.B5.D0.BD.D1.86.D0.B8.D0.B8"></span><span class="mw-headline" id="Влияние_солнечной_интерференции">Влияние солнечной интерференции</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C&amp;veaction=edit&amp;section=19" title="Редактировать раздел «Влияние солнечной интерференции»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C&amp;action=edit&amp;section=19" title="Редактировать код раздела «Влияние солнечной интерференции»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable">Основная статья: <b><a class="mw-redirect" href="/wiki/%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F_%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D1%8F" title="Солнечная интерференция">Солнечная интерференция</a></b></div>
+<p>При приближении <a href="/wiki/%D0%A1%D0%BE%D0%BB%D0%BD%D1%86%D0%B5" title="Солнце">Солнца</a> к оси «спутник — наземная станция» радиосигнал, принимаемый со <a class="mw-redirect" href="/wiki/%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA_%D1%81%D0%B2%D1%8F%D0%B7%D0%B8" title="Спутник связи">спутника</a> наземной станцией, как и подаваемый на спутник, искажается в результате <a class="mw-redirect" href="/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D1%8F_(%D1%84%D0%B8%D0%B7%D0%B8%D0%BA%D0%B0)" title="Интерференция (физика)">интерференции</a>.
+</p>
+<h2><span id=".D0.A1.D0.BC._.D1.82.D0.B0.D0.BA.D0.B6.D0.B5"></span><span class="mw-headline" id="См._также">См. также</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C&amp;veaction=edit&amp;section=20" title="Редактировать раздел «См. также»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C&amp;action=edit&amp;section=20" title="Редактировать код раздела «См. также»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/%D0%95%D0%B4%D0%B8%D0%BD%D0%B0%D1%8F_%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%BE%D0%B9_%D0%A1%D0%B2%D1%8F%D0%B7%D0%B8" title="Единая Система Спутниковой Связи">Единая Система Спутниковой Связи</a></li>
+<li><a href="/wiki/%D0%A1%D0%B2%D1%8F%D0%B7%D1%8C_%D1%81_%D0%BF%D0%BE%D0%B4%D0%B2%D0%BE%D0%B4%D0%BD%D1%8B%D0%BC%D0%B8_%D0%BB%D0%BE%D0%B4%D0%BA%D0%B0%D0%BC%D0%B8" title="Связь с подводными лодками">Связь с подводными лодками</a></li>
+<li><a href="/wiki/FTA" title="FTA">FTA</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%BB%D1%83%D0%B6%D0%B1%D0%B0_%D1%81%D0%B2%D1%8F%D0%B7%D0%B8" title="Спутниковая служба связи">Спутниковая служба связи</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_%D0%BC%D0%BE%D0%B4%D0%B5%D0%BC" title="Спутниковый модем">Спутниковый модем</a></li>
+<li><a href="/wiki/%D0%9C%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%81%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F" title="Мобильная спутниковая станция">Мобильная спутниковая станция</a></li></ul>
+<h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Примечания">Примечания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C&amp;veaction=edit&amp;section=21" title="Редактировать раздел «Примечания»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C&amp;action=edit&amp;section=21" title="Редактировать код раздела «Примечания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><span class="citation"><i><a href="/wiki/%D0%9A%D0%BB%D0%B0%D1%80%D0%BA,_%D0%90%D1%80%D1%82%D1%83%D1%80_%D0%A7%D0%B0%D1%80%D0%BB%D1%8C%D0%B7" title="Кларк, Артур Чарльз">Артур Кларк.</a></i> <span lang="en"><a class="external text" href="http://www.clarkefoundation.org/docs/ClarkeWirelessWorldArticle.pdf" rel="nofollow">Extra-Terrestrial Relays — Can Rocket Stations Give World-wide Radio Coverage?</a></span> <span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>. Wireless World (октябрь 1945). Дата обращения: 11 января 2011. <a class="external text" href="https://www.webcitation.org/619X5xiCp?url=http://www.clarkefoundation.org/docs/ClarkeWirelessWorldArticle.pdf" rel="nofollow">Архивировано</a> 23 августа 2011 года.</span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>Вишневский В. И., Ляхов А. И., Портной С. Л., Шахнович И. В.</i> <span data-wikidata-qualifier-id="P248">Исторический очерк развития сетевых технологий</span> // Широкополосные сети передачи информации. — Монография (издание осуществлено при поддержке Российского фонда фундаментальных исследований). — <abbr title="Москва">М.</abbr>: «Техносфера», 2005. — С. 20. — 592 с. — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/5948360490">ISBN 5-94836-049-0</a>.</span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.hq.nasa.gov/office/pao/History/satcomhistory.html" rel="nofollow">Communications Satellite Short History. The Billion Dollar Technology</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 3 ноября 2006. <a class="external text" href="https://web.archive.org/web/20150512124220/http://www.hq.nasa.gov/office/pao/History/satcomhistory.html" rel="nofollow">Архивировано</a> 12 мая 2015 года.</span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.hq.nasa.gov/office/pao/History/satcomhistory.html" rel="nofollow">Communications Satellite Short History. The Global Village: International Communications</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 3 ноября 2006. <a class="external text" href="https://web.archive.org/web/20150512124220/http://www.hq.nasa.gov/office/pao/History/satcomhistory.html" rel="nofollow">Архивировано</a> 12 мая 2015 года.</span></span>
+</li>
+<li id="cite_note-autogenerated1-5"><span class="mw-cite-backlink">↑ <a href="#cite_ref-autogenerated1_5-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-autogenerated1_5-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text">INTELSAT Satellite Earth Station Handbook, 1999, p. 18</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">Скляр Б. Цифровая связь. Теоретические основы и практическое применение. Изд. 2-е, испр.: Пер. с англ. — М.: Издательский дом «Вильямс», 2004</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://web.archive.org/web/20070930060118/http://www.intersputnik.ru/history.htm" rel="nofollow">Официальный сайт компании «Интерспутник»</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 22 мая 2007. Архивировано из <a class="external text" href="http://www.intersputnik.ru/history.htm" rel="nofollow">оригинала</a> 30 сентября 2007 года.</span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.broadcasting.ru/articles2/Regandstan/koncep_prav_voprosi" rel="nofollow">Концептуально-правовые вопросы широкополосных спутниковых мультисервисных сетей</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 22 мая 2007. <a class="external text" href="https://web.archive.org/web/20071029012041/http://www.broadcasting.ru/articles2/Regandstan/koncep_prav_voprosi" rel="nofollow">Архивировано</a> 29 октября 2007 года.</span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text">Dennis Roddy. Satellite Communications. McGraw-Hill Telecommunications, 2001, p. 167</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text">INTELSAT Satellite Earth Station Handbook, 1999, p. 2</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text">INTELSAT Satellite Earth Station Handbook, 1999, p. 73</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.rscc.ru/space/seriya-ekspress-am/ekspress-am6/" rel="nofollow">Технические характеристики спутников серии «Экспресс-АМ»</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 16 мая 2016. <a class="external text" href="https://web.archive.org/web/20160505130225/http://www.rscc.ru/space/seriya-ekspress-am/ekspress-am6/" rel="nofollow">Архивировано</a> 5 мая 2016 года.</span></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://gdsatcom.com/Antennas/Data_Sheets/655-0034G_4.8m.pdf" rel="nofollow">Характеристики антенны 4.8 метра</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 16 мая 2016. <a class="external text" href="https://web.archive.org/web/20160804025335/http://www.gdsatcom.com/Antennas/Data_Sheets/655-0034G_4.8m.pdf" rel="nofollow">Архивировано</a> 4 августа 2016 года.</span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text">Dennis Roddy. Satellite Communications. McGraw-Hill Telecommunications, 2001, pp. 6, 108</span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text">INTELSAT Satellite Earth Station Handbook, 1999, p. 28</span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text">Recommendation ITU-R V.431-6. Nomenclature of the frequency and wavelength bands used in telecommunications</span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><a href="#cite_ref-17">↑</a></span> <span class="reference-text">Dennis Roddy. Satellite Communications. McGraw-Hill Telecommunications, 2001, pp. 6, 256</span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><a href="#cite_ref-18">↑</a></span> <span class="reference-text">Dennis Roddy. Satellite Communications. McGraw-Hill Telecommunications, 2001, p. 264</span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><a href="#cite_ref-19">↑</a></span> <span class="reference-text"><a class="external free" href="http://www.telesputnik.ru/archive/116/article/62.html" rel="nofollow">http://www.telesputnik.ru/archive/116/article/62.html</a> <a class="external text" href="https://web.archive.org/web/20101225010147/http://www.telesputnik.ru/archive/116/article/62.html" rel="nofollow">Архивная копия</a> от 25 декабря 2010 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> Стандарт DVB-S2. Новые задачи — новые решения//Журнал по спутниковому и кабельному телевидению и телекоммуникациям «Телеспутник»</span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><a href="#cite_ref-20">↑</a></span> <span class="reference-text">Dennis Roddy. Satellite Communications. McGraw-Hill Telecommunications, 2001, p. 283</span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><a href="#cite_ref-21">↑</a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343" id="CITEREFМорелос-Сарагоса2006"><i><a class="new" href="/w/index.php?title=%D0%9C%D0%BE%D1%80%D0%B5%D0%BB%D0%BE%D1%81-%D0%A1%D0%B0%D1%80%D0%B0%D0%B3%D0%BE%D1%81%D0%B0,_%D0%A0%D0%BE%D0%B1%D0%B5%D1%80%D1%82&amp;action=edit&amp;redlink=1" title="Морелос-Сарагоса, Роберт (страница отсутствует)">Морелос-Сарагоса Р.</a></i> Искусство помехоустойчивого кодирования. Методы, алгоритмы, применение / пер. с англ. <span class="nowrap"><a class="new" href="/w/index.php?title=%D0%90%D1%84%D0%B0%D0%BD%D0%B0%D1%81%D1%8C%D0%B5%D0%B2,_%D0%92%D0%B0%D0%BB%D0%B5%D0%BD%D1%82%D0%B8%D0%BD_%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B2%D0%B8%D1%87&amp;action=edit&amp;redlink=1" title="Афанасьев, Валентин Борисович (страница отсутствует)">В. Б. Афанасьева</a></span>. — <abbr title="Москва">М.</abbr>: Техносфера, 2006. — 320 с. — (Мир связи). — <span class="nowrap">2000 экз.</span> — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/5948360350">ISBN 5-94836-035-0</a>.</span></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><a href="#cite_ref-22">↑</a></span> <span class="reference-text"><span class="citation"><i>Dr. Lin-Nan Lee.</i> <a class="external text" href="http://www.ieeevtc.org/vtc2003fall/2003panelsessions/llee.pdf" rel="nofollow">LDPC Codes, Application to Next Generation Communication Systems</a> // IEEE Semiannual Vehicular Technology Conference. — October, 2003. <small><a class="external text" href="https://web.archive.org/web/20061008053124/http://www.ieeevtc.org/vtc2003fall/2003panelsessions/llee.pdf" rel="nofollow">Архивировано</a> 8 октября 2006 года.</small></span></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><a href="#cite_ref-23">↑</a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>Бернард Скляр.</i> Цифровая связь. Теоретические основы и практическое применение = Digital Communications: Fundamentals and Applications. — 2 изд. — <abbr title="Москва">М.</abbr>: <a class="new" href="/w/index.php?title=%D0%92%D0%B8%D0%BB%D1%8C%D1%8F%D0%BC%D1%81_(%D0%B8%D0%B7%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE)&amp;action=edit&amp;redlink=1" title="Вильямс (издательство) (страница отсутствует)">«Вильямс»</a>, 2007. — С. 1104. — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/0130847887">ISBN 0-13-084788-7</a>.</span></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><a href="#cite_ref-24">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://web.archive.org/web/20070929160457/http://rtmv.kuban.ru/ua6ap/RADIO/1998/05-98/66.pdf" rel="nofollow">Система спутниковой связи и вещания «Ямал»</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 22 мая 2007. Архивировано из <a class="external text" href="http://rtmv.kuban.ru/ua6ap/RADIO/1998/05-98/66.pdf" rel="nofollow">оригинала</a> 29 сентября 2007 года.</span></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><a href="#cite_ref-25">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://web.archive.org/web/20061103035605/http://www.comsys.co.uk/vsatinfo.htm" rel="nofollow">VSAT FAQ</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 6 ноября 2006. Архивировано из <a class="external text" href="http://www.comsys.co.uk/vsatinfo.htm" rel="nofollow">оригинала</a> 3 ноября 2006 года.</span></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><a href="#cite_ref-26">↑</a></span> <span class="reference-text">Dennis Roddy. Satellite Communications. McGraw-Hill Telecommunications, 2001, p. 68</span>
+</li>
+<li id="cite_note-slyusarantenna1-27"><span class="mw-cite-backlink"><a href="#cite_ref-slyusarantenna1_27-0">↑</a></span> <span class="reference-text"><span class="citation"><i>Слюсар, В.И.</i> <span lang="und"><a class="external text" href="http://slyusar.kiev.ua/THURAYA_TEL.pdf" rel="nofollow">Thuraya-1 сквозь призму технических новшеств. // Телемультимедиа. – 2001. - № 5(9).</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span> 13 – 18. (2001). Дата обращения: 19 июня 2019. <a class="external text" href="https://web.archive.org/web/20190717081738/http://slyusar.kiev.ua/THURAYA_TEL.pdf" rel="nofollow">Архивировано</a> 17 июля 2019 года.</span></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><a href="#cite_ref-28">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://web.archive.org/web/20070927034428/http://www.satellite-internet-vsat.com/" rel="nofollow">Satellite Internet and VSAT Information Centrum</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 7 ноября 2006. Архивировано из <a class="external text" href="http://www.satellite-internet-vsat.com/" rel="nofollow">оригинала</a> 27 сентября 2007 года.</span></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><a href="#cite_ref-29">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://web.archive.org/web/20070805163928/http://www2.ips.gov.au/Educational/1/3/2" rel="nofollow">Satellite Communications and Space Weather</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 17 мая 2007. Архивировано из <a class="external text" href="http://www.ips.gov.au/Educational/1/3/2" rel="nofollow">оригинала</a> 5 августа 2007 года.</span></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><a href="#cite_ref-30">↑</a></span> <span class="reference-text">Dennis Roddy. Satellite Communications. McGraw-Hill Telecommunications, 2001, p. 91</span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><a href="#cite_ref-31">↑</a></span> <span class="reference-text">Dennis Roddy. Satellite Communications. McGraw-Hill Telecommunications, 2001, p. 93</span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><a href="#cite_ref-32">↑</a></span> <span class="reference-text">Bruce R. Elbert. The Satellite Communication Applications Handbook. — Artech House, Inc., 2004, p. 34.</span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><a href="#cite_ref-33">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.isoc.org/inet97/proceedings/F5/F5_1.HTM" rel="nofollow">Satellite Communications in the Global Internet: Issues, Pitfalls, and Potential</a></span>
+</li>
+</ol></div></div>
+<h2><span id=".D0.9B.D0.B8.D1.82.D0.B5.D1.80.D0.B0.D1.82.D1.83.D1.80.D0.B0"></span><span class="mw-headline" id="Литература">Литература</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C&amp;veaction=edit&amp;section=22" title="Редактировать раздел «Литература»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C&amp;action=edit&amp;section=22" title="Редактировать код раздела «Литература»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>INTELSAT Satellite Earth Station Handbook</li>
+<li><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>Dennis Roddy.</i> Satellite Communications. — McGraw-Hill Telecommunications, 2001.</span></li>
+<li><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>Bruce R. Elbert.</i> The Satellite Communication Applications Handbook. — Artech House, Inc., 2004. — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/1580534902">ISBN 1-58053-490-2</a>.</span></li>
+<li><span class="citation no-wikidata" data-wikidata-property-id="P1343">Ascent to Orbit, a Scientific Autobiography: The Technical Writings of Arthur C. Clarke. — New York: John Wiley &amp; Sons, 1984.</span></li>
+<li><span class="citation no-wikidata" data-wikidata-property-id="P1343" id="CITEREFБыховский2014"><i>Быховский М. А.</i> Развитие телекоммуникаций. на пути к информационному обществу. Развитие спутниковых телекоммуникационных систем. — <abbr title="Москва">М.</abbr>: Горячая линия − Телеком, 2014. — 436 с. — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9785991204057">ISBN 9785991204057</a>.</span></li>
+<li><span class="citation no-wikidata" data-wikidata-property-id="P1343" id="CITEREFКукк2015"><i>Кукк К. И.</i> Спутниковая связь: прошлое, настоящее, будущее. — <abbr title="Москва">М.</abbr>: Горячая линия − Телеком, 2015. — 256 с. — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9785991205122">ISBN 9785991205122</a>.</span></li></ul>
+<h2><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span><span class="mw-headline" id="Ссылки">Ссылки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C&amp;veaction=edit&amp;section=23" title="Редактировать раздел «Ссылки»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C&amp;action=edit&amp;section=23" title="Редактировать код раздела «Ссылки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="http://www.wtec.org/loyola/satcom2/01_02.htm" rel="nofollow">WTEC Panel Report on Global Satellite Communications Technology and Systems</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><a class="external text" href="http://www.boeing.com/defense-space/space/bss/factsheets/376/earlybird/ebird.html" rel="nofollow">О спутнике Early Bird на сайте boeing.com</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><a class="external text" href="http://www.hq.nasa.gov/office/pao/History/satcomhistory.html" rel="nofollow">Communications Satellites Short History</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><a class="external text" href="https://web.archive.org/web/20061103035605/http://www.comsys.co.uk/vsatinfo.htm" rel="nofollow">VSAT FAQ</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><a class="external text" href="https://web.archive.org/web/20080505071253/http://www.durantelecom.ru/modules/forum/t10.html" rel="nofollow">VSAT FAQ</a> <small class="ref-info" style="cursor:help;" title="на русском языке">(рус.)</small></li>
+<li><a class="external text" href="https://web.archive.org/web/20070927034428/http://www.satellite-internet-vsat.com/" rel="nofollow">Satellite Internet and VSAT Information Centrum</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><a class="external text" href="http://www.ips.gov.au/Educational/1/3/2" rel="nofollow">Satellite Communications and Space Weather</a> <a class="external text" href="https://web.archive.org/web/20070805163928/http://www.ips.gov.au/Educational/1/3/2" rel="nofollow">Архивная копия</a> от 5 августа 2007 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><a class="external text" href="http://www.isoc.org/inet97/proceedings/F5/F5_1.HTM" rel="nofollow">Satellite Communications in the Global Internet: Issues, Pitfalls, and Potential</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li></ul>
+<div aria-labelledby="Спутниковая_связь" class="navbox" data-name="Спутниковая связь" role="navigation"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C" title="Перейти к шаблону «Спутниковая связь»"><img alt="Перейти к шаблону «Спутниковая связь»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span></span><div id="Спутниковая_связь" style="font-size:114%;margin:0 5em"><a class="mw-selflink selflink">Спутниковая связь</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1px">Основные статьи</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-redirect" href="/wiki/%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA_%D1%81%D0%B2%D1%8F%D0%B7%D0%B8" title="Спутник связи">Спутник связи</a></li>
+<li><a href="/wiki/HTS" title="HTS">Спутник высокой пропускной способности (HTS)</a></li>
+<li><span data-interwiki-article="Transponder (satellite communications)" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D0%BD%D0%B4%D0%B5%D1%80_(%D1%81%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C)&amp;action=edit&amp;redlink=1" title="Транспондер (спутниковая связь) (страница отсутствует)">Транспондер</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://en.wikipedia.org/wiki/Transponder_(satellite_communications)" title="en:Transponder (satellite communications)"><span title="Transponder (satellite communications) — версия статьи «Транспондер (спутниковая связь)» на английском языке">[en]</span></a></sup></span></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%BE%D0%B5_%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Спутниковое телевидение">Спутниковое телевидение</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%BE%D0%B5_%D1%80%D0%B0%D0%B4%D0%B8%D0%BE" title="Спутниковое радио">Спутниковое радио</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82" title="Спутниковый Интернет">Спутниковый Интернет</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B3%D0%B5%D0%BE%D1%81%D1%82%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D1%80%D0%BD%D1%8B%D1%85_%D1%81%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2" title="Список геостационарных спутников">Список геостационарных спутников</a></li>
+<li><a href="/wiki/%D0%97%D0%B5%D0%BC%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F" title="Земная станция">Земная станция</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D1%83%D1%87%D0%BD%D0%BE-%D0%B8%D0%B7%D0%BC%D0%B5%D1%80%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BF%D1%83%D0%BD%D0%BA%D1%82" title="Научно-измерительный пункт">Научно-измерительный пункт</a></li>
+<li><a href="/wiki/%D0%A2%D0%B5%D0%BB%D0%B5%D0%BF%D0%BE%D1%80%D1%82_(%D1%81%D0%B2%D1%8F%D0%B7%D1%8C)" title="Телепорт (связь)">Телепорт</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Аппаратура</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B0%D0%BD%D1%82%D0%B5%D0%BD%D0%BD%D0%B0" title="Спутниковая антенна">Спутниковая антенна</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BD%D0%B2%D0%B5%D1%80%D1%82%D0%B5%D1%80" title="Спутниковый конвертер">Спутниковый конвертер</a></li>
+<li><a href="/wiki/BUC" title="BUC">BUC</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_%D0%BC%D0%BE%D0%B4%D0%B5%D0%BC" title="Спутниковый модем">Спутниковый модем</a></li>
+<li><a href="/wiki/%D0%A6%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B7%D0%B5%D0%BC%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F" title="Центральная земная станция">Хаб</a></li>
+<li><a href="/wiki/VSAT" title="VSAT">VSAT</a></li>
+<li><a href="/wiki/%D0%9C%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%81%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F" title="Мобильная спутниковая станция">Мобильная спутниковая станция</a></li>
+<li><a href="/wiki/%D0%9C%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B9_VSAT" title="Морской VSAT">Морской VSAT</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_%D1%82%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD" title="Спутниковый телефон">Спутниковый телефон</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Стандарты и протоколы</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-redirect" href="/wiki/DVB-S" title="DVB-S">DVB-S</a></li>
+<li><a href="/wiki/DVB-S2" title="DVB-S2">DVB-S2</a></li>
+<li><span data-interwiki-article="DVB-S2X" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=DVB-S2X&amp;action=edit&amp;redlink=1" title="DVB-S2X (страница отсутствует)">DVB-S2X</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://en.wikipedia.org/wiki/DVB-S2X" title="en:DVB-S2X"><span title="DVB-S2X — версия статьи «DVB-S2X» на английском языке">[en]</span></a></sup></span></li>
+<li><a href="/wiki/DVB-SH" title="DVB-SH">DVB-SH</a></li>
+<li><a href="/wiki/DVB-RCS" title="DVB-RCS">DVB-RCS</a></li>
+<li><a class="new" href="/w/index.php?title=DVB-RCS2&amp;action=edit&amp;redlink=1" title="DVB-RCS2 (страница отсутствует)">DVB-RCS2</a></li>
+<li><a class="mw-redirect" href="/wiki/SCPC" title="SCPC">SCPC</a></li>
+<li><a href="/wiki/FDMA" title="FDMA">FDMA</a></li>
+<li><a href="/wiki/TDMA" title="TDMA">TDMA</a></li>
+<li><a href="/wiki/MF-TDMA" title="MF-TDMA">MF-TDMA</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Операторы спутникового вещания</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span data-interwiki-article="Astra Digital Radio" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=Astra_Digital_Radio&amp;action=edit&amp;redlink=1" title="Astra Digital Radio (страница отсутствует)">Astra Digital Radio</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://en.wikipedia.org/wiki/Astra_Digital_Radio" title="en:Astra Digital Radio"><span title="Astra Digital Radio — версия статьи «Astra Digital Radio» на английском языке">[en]</span></a></sup></span></li>
+<li><a class="mw-redirect" href="/wiki/Sirius_XM_Radio" title="Sirius XM Radio">Sirius XM Radio</a></li>
+<li><a href="/wiki/Dish_Network" title="Dish Network">Dish Network</a></li>
+<li><a href="/wiki/DirecTV" title="DirecTV">DirecTV</a></li>
+<li><a class="mw-redirect" href="/wiki/%D0%A2%D1%80%D0%B8%D0%BA%D0%BE%D0%BB%D0%BE%D1%80_%D0%A2%D0%92" title="Триколор ТВ">Триколор ТВ</a></li>
+<li><a class="mw-redirect" href="/wiki/%D0%9D%D0%A2%D0%92-%D0%BF%D0%BB%D1%8E%D1%81" title="НТВ-плюс">НТВ-плюс</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Операторы спутников связи и сервисы</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Inmarsat" title="Inmarsat">Inmarsat</a></li>
+<li><a href="/wiki/SES" title="SES">SES</a></li>
+<li><a href="/wiki/Intelsat" title="Intelsat">Intelsat</a></li>
+<li><a href="/wiki/Eutelsat" title="Eutelsat">Eutelsat</a></li>
+<li><span data-interwiki-article="EchoStar" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=EchoStar&amp;action=edit&amp;redlink=1" title="EchoStar (страница отсутствует)">Echostar</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://en.wikipedia.org/wiki/EchoStar" title="en:EchoStar"><span title="EchoStar — версия статьи «EchoStar» на английском языке">[en]</span></a></sup></span></li>
+<li><span data-interwiki-article="Hughes Network Systems" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=Hughes_Network_Systems&amp;action=edit&amp;redlink=1" title="Hughes Network Systems (страница отсутствует)">Hughes Network Systems</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://en.wikipedia.org/wiki/Hughes_Network_Systems" title="en:Hughes Network Systems"><span title="Hughes Network Systems — версия статьи «Hughes Network Systems» на английском языке">[en]</span></a></sup></span></li>
+<li><a href="/wiki/%D0%98%D1%80%D0%B8%D0%B4%D0%B8%D1%83%D0%BC" title="Иридиум">Iridium</a></li>
+<li><a href="/wiki/Telesat" title="Telesat">Telesat</a></li>
+<li><a href="/wiki/Thuraya" title="Thuraya">Thuraya</a></li>
+<li><span data-interwiki-article="Tooway" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=Tooway&amp;action=edit&amp;redlink=1" title="Tooway (страница отсутствует)">Tooway</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://en.wikipedia.org/wiki/Tooway" title="en:Tooway"><span title="Tooway — версия статьи «Tooway» на английском языке">[en]</span></a></sup></span></li>
+<li><a href="/wiki/Viasat_(%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F)" title="Viasat (американская компания)">Viasat Inc.</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C_(%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F)" title="Космическая связь (компания)"> ФГУП «Космическая связь» (ГП КС)</a></li>
+<li><a href="/wiki/%D0%93%D0%B0%D0%B7%D0%BF%D1%80%D0%BE%D0%BC_%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B" title="Газпром космические системы">Газпром космические системы</a></li>
+<li><a href="/wiki/%D0%93%D0%BE%D0%BD%D0%B5%D1%86_(%D1%81%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D1%81%D0%B2%D1%8F%D0%B7%D0%B8)" title="Гонец (спутниковая система связи)">Гонец</a></li>
+<li><a href="/wiki/Orbcomm-G2" title="Orbcomm-G2">Orbcomm</a></li>
+<li><a href="/wiki/%D0%93%D0%BB%D0%BE%D0%B1%D0%B0%D0%BB%D1%81%D1%82%D0%B0%D1%80" title="Глобалстар">Глобалстар</a></li>
+<li><a class="mw-redirect" href="/wiki/O3b" title="O3b">O3b</a></li>
+<li><a href="/wiki/OneWeb" title="OneWeb">OneWeb</a></li>
+<li><a href="/wiki/Starlink" title="Starlink">Starlink</a></li>
+<li><a href="/wiki/%D0%91%D1%8E%D1%80%D0%BE_1440" title="Бюро 1440">Бюро 1440</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Производство спутников связи</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Thales_Alenia_Space" title="Thales Alenia Space">Thales Alenia Space</a></li>
+<li><a class="mw-redirect" href="/wiki/Astrium" title="Astrium">Astrium</a></li>
+<li><a href="/wiki/Boeing" title="Boeing">Boeing</a></li>
+<li><a href="/wiki/Lockheed_Martin" title="Lockheed Martin">Lockheed Martin</a></li>
+<li><a class="mw-redirect" href="/wiki/Loral" title="Loral">SSL</a></li>
+<li><a href="/wiki/%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B" title="Информационные спутниковые системы">«Информационные спутниковые системы»</a></li>
+<li><a href="/wiki/%D0%A0%D0%9A%D0%9A_%C2%AB%D0%AD%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F%C2%BB" title="РКК «Энергия»">РКК «Энергия»</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐99c6548c6‐86msj
+Cached time: 20240228163232
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.267 seconds
+Real time usage: 0.362 seconds
+Preprocessor visited node count: 4687/1000000
+Post‐expand include size: 64127/2097152 bytes
+Template argument size: 8113/2097152 bytes
+Highest expansion depth: 13/100
+Expensive parser function count: 11/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 34793/5000000 bytes
+Lua time usage: 0.082/10.000 seconds
+Lua memory usage: 4119746/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  266.845      1 -total
+ 44.06%  117.577      1 Шаблон:Примечания
+ 21.73%   57.995      8 Шаблон:Книга
+ 18.66%   49.794      1 Шаблон:Нет_АИ
+ 15.08%   40.248     12 Шаблон:Cite_web
+ 10.06%   26.857      2 Шаблон:Iw
+  9.59%   25.591      1 Шаблон:Спутниковая_связь
+  8.96%   23.912      1 Шаблон:Навигационная_таблица
+  7.97%   21.275      1 Шаблон:Сортировка:_статьи_без_источников
+  6.56%   17.495      1 Шаблон:Сортировка:_по_странам
+-->
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:54115-0!canonical and timestamp 20240228163232 and revision id 134150912. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> -->
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Спутниковая_связь&amp;oldid=134150912">https://ru.wikipedia.org/w/index.php?title=Спутниковая_связь&amp;oldid=134150912</a></div></div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категория</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C" title="Категория:Спутниковая связь">Спутниковая связь</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D0%B8%D1%82%D1%8C_webcitation-%D0%B0%D1%80%D1%85%D0%B8%D0%B2:_deadlink_no)" title="Категория:Википедия:Cite web (заменить webcitation-архив: deadlink no)">Википедия:Cite web (заменить webcitation-архив: deadlink no)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%BD%D0%B5_%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD_%D1%8F%D0%B7%D1%8B%D0%BA)" title="Категория:Википедия:Cite web (не указан язык)">Википедия:Cite web (не указан язык)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B,_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D0%B2%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_ISBN" title="Категория:Страницы, использующие волшебные ссылки ISBN">Страницы, использующие волшебные ссылки ISBN</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%B1%D0%B5%D0%B7_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_(%D1%82%D0%B8%D0%BF:_%D0%BD%D0%B5_%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD)" title="Категория:Википедия:Статьи без источников (тип: не указан)">Википедия:Статьи без источников (тип: не указан)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9D%D0%B5%D1%82_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D1%81_%D1%84%D0%B5%D0%B2%D1%80%D0%B0%D0%BB%D1%8F_2013" title="Категория:Википедия:Нет источников с февраля 2013">Википедия:Нет источников с февраля 2013</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D1%83%D1%82%D0%B2%D0%B5%D1%80%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%D0%BC%D0%B8_%D0%B1%D0%B5%D0%B7_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%B1%D0%BE%D0%BB%D0%B5%D0%B5_14_%D0%B4%D0%BD%D0%B5%D0%B9" title="Категория:Википедия:Статьи с утверждениями без источников более 14 дней">Википедия:Статьи с утверждениями без источников более 14 дней</a></li></ul></div></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Навигация</h2>
+<div id="mw-head">
+<nav aria-labelledby="p-personal-label" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" id="p-personal" role="navigation">
+<h3 class="vector-menu-heading" id="p-personal-label">
+<span class="vector-menu-heading-label">Персональные инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="pt-anonuserpage"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li class="mw-list-item" id="pt-anontalk"><a accesskey="n" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]"><span>Обсуждение</span></a></li><li class="mw-list-item" id="pt-anoncontribs"><a accesskey="y" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]"><span>Вклад</span></a></li><li class="mw-list-item" id="pt-createaccount"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F+%D1%81%D0%B2%D1%8F%D0%B7%D1%8C" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li class="mw-list-item" id="pt-login"><a accesskey="o" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F+%D1%81%D0%B2%D1%8F%D0%B7%D1%8C" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]"><span>Войти</span></a></li>
+</ul>
+</div>
+</nav>
+<div id="left-navigation">
+<nav aria-labelledby="p-namespaces-label" class="mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-namespaces" role="navigation">
+<h3 class="vector-menu-heading" id="p-namespaces-label">
+<span class="vector-menu-heading-label">Пространства имён</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-nstab-main"><a accesskey="c" href="/wiki/%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C" title="Просмотреть контентную страницу [c]"><span>Статья</span></a></li><li class="mw-list-item" id="ca-talk"><a accesskey="t" href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C" rel="discussion" title="Обсуждение основной страницы [t]"><span>Обсуждение</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-variants-label" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" id="p-variants" role="navigation">
+<input aria-haspopup="true" aria-labelledby="p-variants-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-variants" id="p-variants-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-variants-label">
+<span class="vector-menu-heading-label">русский</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+</div>
+<div id="right-navigation">
+<nav aria-labelledby="p-views-label" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-views" role="navigation">
+<h3 class="vector-menu-heading" id="p-views-label">
+<span class="vector-menu-heading-label">Просмотры</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="ca-view"><a href="/w/index.php?title=%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C&amp;stable=1"><span>Читать</span></a></li><li class="collapsible selected mw-list-item" id="ca-current"><a accesskey="v" href="/w/index.php?title=%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C&amp;stable=0&amp;redirect=no" title="Показать текущую версию этой страницы [v]"><span>Текущая версия</span></a></li><li class="mw-list-item" id="ca-ve-edit"><a accesskey="v" href="/w/index.php?title=%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C&amp;veaction=edit" title="Редактировать данную страницу [v]"><span>Править</span></a></li><li class="collapsible mw-list-item" id="ca-edit"><a accesskey="e" href="/w/index.php?title=%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C&amp;action=edit" title="Править исходный текст этой страницы [e]"><span>Править код</span></a></li><li class="mw-list-item" id="ca-history"><a accesskey="h" href="/w/index.php?title=%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C&amp;action=history" title="Журнал изменений страницы [h]"><span>История</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-cactions-label" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" id="p-cactions" role="navigation" title="Больше возможностей">
+<input aria-haspopup="true" aria-labelledby="p-cactions-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-cactions" id="p-cactions-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-cactions-label">
+<span class="vector-menu-heading-label">Ещё</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+<div class="vector-search-box-vue vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box" id="p-search" role="search">
+<h3>Поиск</h3>
+<form action="/w/index.php" class="vector-search-box-form" id="searchform">
+<div class="vector-search-box-inner" data-search-loc="header-navigation" id="simpleSearch">
+<input accesskey="f" aria-label="Искать в Википедии" autocapitalize="sentences" class="vector-search-box-input" id="searchInput" name="search" placeholder="Искать в Википедии" title="Искать в Википедии [f]" type="search"/>
+<input name="title" type="hidden" value="Служебная:Поиск"/>
+<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Найти страницы, содержащие указанный текст" type="submit" value="Найти"/>
+<input class="searchButton" id="searchButton" name="go" title="Перейти к странице, имеющей в точности такое название" type="submit" value="Перейти"/>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="vector-legacy-sidebar" id="mw-panel">
+<div id="p-logo" role="banner">
+<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу"></a>
+</div>
+<nav aria-labelledby="p-navigation-label" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" id="p-navigation" role="navigation">
+<h3 class="vector-menu-heading" id="p-navigation-label">
+<span class="vector-menu-heading-label">Навигация</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-mainpage-description"><a accesskey="z" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]"><span>Заглавная страница</span></a></li><li class="mw-list-item" id="n-content"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li class="mw-list-item" id="n-featured"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li class="mw-list-item" id="n-randompage"><a accesskey="x" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]"><span>Случайная статья</span></a></li><li class="mw-list-item" id="n-currentevents"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li class="mw-list-item" id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-participation-label" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" id="p-participation" role="navigation">
+<h3 class="vector-menu-heading" id="p-participation-label">
+<span class="vector-menu-heading-label">Участие</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-bug_in_article"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li class="mw-list-item" id="n-introduction"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li class="mw-list-item" id="n-portal"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li class="mw-list-item" id="n-forum"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li class="mw-list-item" id="n-recentchanges"><a accesskey="r" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]"><span>Свежие правки</span></a></li><li class="mw-list-item" id="n-newpages"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li class="mw-list-item" id="n-help"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-tb-label" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" id="p-tb" role="navigation">
+<h3 class="vector-menu-heading" id="p-tb-label">
+<span class="vector-menu-heading-label">Инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="t-whatlinkshere"><a accesskey="j" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C" title="Список всех страниц, ссылающихся на данную [j]"><span>Ссылки сюда</span></a></li><li class="mw-list-item" id="t-recentchangeslinked"><a accesskey="k" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]"><span>Связанные правки</span></a></li><li class="mw-list-item" id="t-specialpages"><a accesskey="q" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]"><span>Служебные страницы</span></a></li><li class="mw-list-item" id="t-permalink"><a href="/w/index.php?title=%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C&amp;oldid=134150912" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li class="mw-list-item" id="t-info"><a href="/w/index.php?title=%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li class="mw-list-item" id="t-cite"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C&amp;id=134150912&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li class="mw-list-item" id="t-urlshortener"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%25A1%25D0%25BF%25D1%2583%25D1%2582%25D0%25BD%25D0%25B8%25D0%25BA%25D0%25BE%25D0%25B2%25D0%25B0%25D1%258F_%25D1%2581%25D0%25B2%25D1%258F%25D0%25B7%25D1%258C"><span>Получить короткий URL</span></a></li><li class="mw-list-item" id="t-urlshortener-qrcode"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%25A1%25D0%25BF%25D1%2583%25D1%2582%25D0%25BD%25D0%25B8%25D0%25BA%25D0%25BE%25D0%25B2%25D0%25B0%25D1%258F_%25D1%2581%25D0%25B2%25D1%258F%25D0%25B7%25D1%258C"><span>Скачать QR-код</span></a></li><li class="mw-list-item" id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q2225985" title="Ссылка на связанный элемент репозитория данных [g]"><span>Элемент Викиданных</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-coll-print_export-label" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" id="p-coll-print_export" role="navigation">
+<h3 class="vector-menu-heading" id="p-coll-print_export-label">
+<span class="vector-menu-heading-label">Печать/экспорт</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="coll-download-as-rl"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li class="mw-list-item" id="t-print"><a accesskey="p" href="/w/index.php?title=%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C&amp;printable=yes" title="Версия этой страницы для печати [p]"><span>Версия для печати</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-wikibase-otherprojects-label" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal vector-menu" id="p-wikibase-otherprojects" role="navigation">
+<h3 class="vector-menu-heading" id="p-wikibase-otherprojects-label">
+<span class="vector-menu-heading-label">В других проектах</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Satellite_communications" hreflang="en"><span>Викисклад</span></a></li><li class="wb-otherproject-link wb-otherproject-wikinews mw-list-item"><a href="https://ru.wikinews.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C" hreflang="ru"><span>Викиновости</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-lang-label" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" id="p-lang" role="navigation">
+<h3 class="vector-menu-heading" id="p-lang-label">
+<span class="vector-menu-heading-label">На других языках</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="interlanguage-link interwiki-be mw-list-item"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B0%D0%B4%D0%B0%D1%80%D0%BE%D0%B6%D0%BD%D1%96%D0%BA%D0%B0%D0%B2%D0%B0%D1%8F_%D1%81%D1%83%D0%B2%D1%8F%D0%B7%D1%8C" hreflang="be" lang="be" title="Спадарожнікавая сувязь — белорусский"><span>Беларуская</span></a></li><li class="interlanguage-link interwiki-be-x-old mw-list-item"><a class="interlanguage-link-target" href="https://be-tarask.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B0%D0%B4%D0%B0%D1%80%D0%BE%D0%B6%D0%BD%D1%96%D0%BA%D0%B0%D0%B2%D0%B0%D1%8F_%D1%81%D1%83%D0%B2%D1%8F%D0%B7%D1%8C" hreflang="be-tarask" lang="be-tarask" title="Спадарожнікавая сувязь — Belarusian (Taraškievica orthography)"><span>Беларуская (тарашкевіца)</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Satellit_radiofoni" hreflang="da" lang="da" title="Satellit radiofoni — датский"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Satellitenkommunikation" hreflang="de" lang="de" title="Satellitenkommunikation — немецкий"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Comunicaciones_por_sat%C3%A9lite" hreflang="es" lang="es" title="Comunicaciones por satélite — испанский"><span>Español</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Satelliitside" hreflang="et" lang="et" title="Satelliitside — эстонский"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Satelite_bidezko_komunikazio" hreflang="eu" lang="eu" title="Satelite bidezko komunikazio — баскский"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-hy mw-list-item"><a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D4%B1%D6%80%D5%A2%D5%A1%D5%B6%D5%B5%D5%A1%D5%AF%D5%A1%D5%B5%D5%AB%D5%B6_%D5%AF%D5%A1%D5%BA" hreflang="hy" lang="hy" title="Արբանյակային կապ — армянский"><span>Հայերեն</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A1%D1%83%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B8%D0%B9_%D0%B7%D0%B2%27%D1%8F%D0%B7%D0%BE%D0%BA" hreflang="uk" lang="uk" title="Супутниковий зв'язок — украинский"><span>Українська</span></a></li>
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q2225985#sitelinks-wikipedia" title="Править ссылки на другие языки">Править ссылки</a></span></div>
+</div>
+</nav>
+</div>
+</div>
+<footer class="mw-footer" id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 12 ноября 2023 в 14:18.</li>
+<li id="footer-info-copyright">Текст доступен по <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru" rel="license">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a><a href="//creativecommons.org/licenses/by-sa/4.0/" rel="license" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br/>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org/ru/">Фонд Викимедиа (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//ru.m.wikipedia.org/w/index.php?title=%D0%A1%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C&amp;mobileaction=toggle_view_mobile">Мобильная версия</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" loading="lazy" src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88"/></a></li>
+<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" loading="lazy" src="/static/images/footer/poweredby_mediawiki_88x31.png" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88"/></a></li>
+</ul>
+</footer>
+
+
+</body>
+</html>

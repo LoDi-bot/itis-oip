@@ -1,0 +1,821 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="ru">
+<head>
+<meta charset="utf-8"/>
+<title>Внутреннее сопротивление — Википедия</title>
+
+
+
+
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+
+
+<meta content="MediaWiki 1.42.0-wmf.19" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="max-image-preview:standard" name="robots"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Equiv_circuit_2pole.svg/1200px-Equiv_circuit_2pole.svg.png" property="og:image"/>
+<meta content="1200" property="og:image:width"/>
+<meta content="1232" property="og:image:height"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Equiv_circuit_2pole.svg/800px-Equiv_circuit_2pole.svg.png" property="og:image"/>
+<meta content="800" property="og:image:width"/>
+<meta content="821" property="og:image:height"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Equiv_circuit_2pole.svg/640px-Equiv_circuit_2pole.svg.png" property="og:image"/>
+<meta content="640" property="og:image:width"/>
+<meta content="657" property="og:image:height"/>
+<meta content="width=1000" name="viewport"/>
+<meta content="Внутреннее сопротивление — Википедия" property="og:title"/>
+<meta content="website" property="og:type"/>
+
+
+
+
+
+
+
+
+
+
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Внутреннее_сопротивление rootpage-Внутреннее_сопротивление skin-vector action-view"><div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators">
+</div>
+<h1 class="firstHeading mw-first-heading" id="firstHeading"><span class="mw-page-title-main">Внутреннее сопротивление</span></h1>
+<div class="vector-body" id="bodyContent">
+<div class="noprint" id="siteSub">Материал из Википедии — свободной энциклопедии</div>
+<div id="contentSub"><div id="mw-content-subtitle"><div class="flaggedrevs_short flaggedrevs_stable_notsynced plainlinks noprint" id="mw-fr-revisiontag"><div class="flaggedrevs_short_basic"><span class="flaggedrevs-icon oo-ui-widget oo-ui-widget-enabled oo-ui-iconElement-icon oo-ui-icon-articleSearch oo-ui-iconElement oo-ui-labelElement-invisible oo-ui-iconWidget" title="Правки этой страницы требуют проверки."></span><span class="flaggedrevs-icon oo-ui-widget oo-ui-widget-enabled oo-ui-iconElement-icon oo-ui-icon-eye oo-ui-iconElement oo-ui-labelElement-invisible oo-ui-iconWidget" title="Это отпатрулированная версия страницы"></span><span class="fr-toggle-arrow oo-ui-widget oo-ui-widget-enabled oo-ui-indicatorElement-indicator oo-ui-indicator-down oo-ui-indicatorElement oo-ui-labelElement-invisible oo-ui-indicatorWidget" id="mw-fr-revisiontoggle" title="показать/скрыть подробности"></span></div>
+<div id="mw-fr-revisiondetails-wrapper" style="position:relative;"><div class="flaggedrevs_short_details" id="mw-fr-revisiondetails" style="display:none">Это <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9/%D0%9F%D0%BE%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BB%D1%8F_%D1%87%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9" title="Википедия:Проверка статей/Пояснение для читателей">стабильная версия</a>, <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:Log&amp;type=review&amp;page=%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5">проверенная</a> 18 апреля 2023.
+<a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&amp;oldid=129888619&amp;diff=cur&amp;diffonly=0">3 правки</a> ожидают проверки.</div>
+</div>
+</div>
+</div></div>
+<div id="contentSub2"></div>
+<div id="jump-to-nav"></div>
+<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+<div class="mw-body-content" id="mw-content-text"><div class="mw-content-ltr mw-parser-output" dir="ltr" lang="ru"><figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Equiv_circuit_2pole.svg"><img class="mw-file-element" data-file-height="77" data-file-width="75" decoding="async" height="257" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Equiv_circuit_2pole.svg/250px-Equiv_circuit_2pole.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Equiv_circuit_2pole.svg/375px-Equiv_circuit_2pole.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/67/Equiv_circuit_2pole.svg/500px-Equiv_circuit_2pole.svg.png 2x" width="250"/></a><figcaption>Двухполюсник и его эквивалентная схема</figcaption></figure>
+<p><b>Вну́треннее сопротивле́ние</b> <a href="/wiki/%D0%94%D0%B2%D1%83%D1%85%D0%BF%D0%BE%D0%BB%D1%8E%D1%81%D0%BD%D0%B8%D0%BA" title="Двухполюсник">двухполюсника</a> — <a href="/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B8%D0%BC%D0%BF%D0%B5%D0%B4%D0%B0%D0%BD%D1%81" title="Электрический импеданс">импеданс</a> в <a href="/wiki/%D0%AD%D0%BA%D0%B2%D0%B8%D0%B2%D0%B0%D0%BB%D0%B5%D0%BD%D1%82%D0%BD%D0%B0%D1%8F_%D1%81%D1%85%D0%B5%D0%BC%D0%B0" title="Эквивалентная схема">эквивалентной схеме</a> двухполюсника, состоящей из последовательно включённых <a class="mw-redirect" href="/wiki/%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80_%D0%BD%D0%B0%D0%BF%D1%80%D1%8F%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F" title="Генератор напряжения">генератора напряжения</a> и импеданса (см. рисунок). Понятие применяется в теории цепей при замене реального источника идеальными элементами, то есть при переходе к эквивалентной схеме.
+</p>
+<div aria-labelledby="mw-toc-heading" class="toc" id="toc" role="navigation"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="ru"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Введение"><span class="tocnumber">1</span> <span class="toctext">Введение</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Эквивалентная_схема_активного_двухполюсника"><span class="tocnumber">2</span> <span class="toctext">Эквивалентная схема активного двухполюсника</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Сопротивление_и_внутреннее_сопротивление"><span class="tocnumber">3</span> <span class="toctext">Сопротивление и внутреннее сопротивление</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Родственные_термины"><span class="tocnumber">4</span> <span class="toctext">Родственные термины</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Физические_принципы"><span class="tocnumber">5</span> <span class="toctext">Физические принципы</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Влияние_внутреннего_сопротивления_на_свойства_двухполюсника"><span class="tocnumber">6</span> <span class="toctext">Влияние внутреннего сопротивления на свойства двухполюсника</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Нахождение_внутреннего_сопротивления"><span class="tocnumber">7</span> <span class="toctext">Нахождение внутреннего сопротивления</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Расчёт"><span class="tocnumber">7.1</span> <span class="toctext">Расчёт</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Измерение"><span class="tocnumber">7.2</span> <span class="toctext">Измерение</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Реактивное_внутреннее_сопротивление"><span class="tocnumber">7.3</span> <span class="toctext">Реактивное внутреннее сопротивление</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Измерение_сопротивления_петли_фаза-нуль"><span class="tocnumber">7.4</span> <span class="toctext">Измерение сопротивления петли фаза-нуль</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Применение"><span class="tocnumber">8</span> <span class="toctext">Применение</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#Упрощение_эквивалентных_схем"><span class="tocnumber">8.1</span> <span class="toctext">Упрощение эквивалентных схем</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Согласование_источника_и_нагрузки"><span class="tocnumber">8.2</span> <span class="toctext">Согласование источника и нагрузки</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Понижение_высоких_напряжений"><span class="tocnumber">8.3</span> <span class="toctext">Понижение высоких напряжений</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Минимизация_шума"><span class="tocnumber">8.4</span> <span class="toctext">Минимизация шума</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-17"><a href="#Ограничения"><span class="tocnumber">9</span> <span class="toctext">Ограничения</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#Примеры"><span class="tocnumber">10</span> <span class="toctext">Примеры</span></a>
+<ul>
+<li class="toclevel-2 tocsection-19"><a href="#Малое_внутреннее_сопротивление"><span class="tocnumber">10.1</span> <span class="toctext">Малое внутреннее сопротивление</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#Большое_внутреннее_сопротивление"><span class="tocnumber">10.2</span> <span class="toctext">Большое внутреннее сопротивление</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="#Отрицательное_внутреннее_сопротивление"><span class="tocnumber">10.3</span> <span class="toctext">Отрицательное внутреннее сопротивление</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-22"><a href="#См._также"><span class="tocnumber">11</span> <span class="toctext">См. также</span></a></li>
+<li class="toclevel-1 tocsection-23"><a href="#Ссылки"><span class="tocnumber">12</span> <span class="toctext">Ссылки</span></a></li>
+<li class="toclevel-1 tocsection-24"><a href="#Литература"><span class="tocnumber">13</span> <span class="toctext">Литература</span></a></li>
+<li class="toclevel-1 tocsection-25"><a href="#Примечания"><span class="tocnumber">14</span> <span class="toctext">Примечания</span></a></li>
+</ul>
+</div>
+<h2><span id=".D0.92.D0.B2.D0.B5.D0.B4.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Введение">Введение</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&amp;veaction=edit&amp;section=1" title="Редактировать раздел «Введение»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&amp;action=edit&amp;section=1" title="Редактировать код раздела «Введение»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Необходимость введения термина можно проиллюстрировать следующим примером. Сравним два химических источника постоянного тока с одинаковым напряжением:
+</p>
+<ul><li>Автомобильный <a href="/wiki/%D0%A1%D0%B2%D0%B8%D0%BD%D1%86%D0%BE%D0%B2%D0%BE-%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B9_%D0%B0%D0%BA%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80" title="Свинцово-кислотный аккумулятор">свинцово-кислотный аккумулятор</a> с <a href="/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%BD%D0%B0%D0%BF%D1%80%D1%8F%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5" title="Электрическое напряжение">напряжением</a> 12 вольт и ёмкостью 55 <a href="/wiki/%D0%90%D0%BC%D0%BF%D0%B5%D1%80-%D1%87%D0%B0%D1%81" title="Ампер-час">А·ч</a>.</li>
+<li>Батарея из 8 <a href="/wiki/%D0%93%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82" title="Гальванический элемент">гальванических элементов</a>, например, типоразмера АА, соединенных последовательно. Суммарное напряжение такой батареи также 12 вольт, ёмкость значительно меньше — примерно 1 А·ч.</li></ul>
+<p>Несмотря на одинаковое напряжение, эти источники значительно отличаются при работе на одинаковую нагрузку. Так, автомобильный аккумулятор способен отдать в нагрузку большой ток (от аккумулятора заводится двигатель автомобиля, при этом стартер потребляет ток порядка 250 <a href="/wiki/%D0%90%D0%BC%D0%BF%D0%B5%D1%80" title="Ампер">А</a>), а от батареи элементов стартер вообще не станет вращаться, так как напряжение батареи при подключении к зажимам стартера упадёт до долей <a href="/wiki/%D0%92%D0%BE%D0%BB%D1%8C%D1%82" title="Вольт">вольта</a>. Дело не в относительно небольшой электрической ёмкости батареек: запасённой в ней энергии и заряде в один <a href="/wiki/%D0%90%D0%BC%D0%BF%D0%B5%D1%80-%D1%87%D0%B0%D1%81" title="Ампер-час">ампер-час</a> хватило бы для того, чтобы вращать стартер в течение 14 секунд (при токе 250 А).
+</p><p>В соответствии с <a href="/wiki/%D0%97%D0%B0%D0%BA%D0%BE%D0%BD_%D0%9E%D0%BC%D0%B0" title="Закон Ома">законом Ома</a> в источниках с одинаковым напряжением ток в одинаковой нагрузке также должен быть одинаковым. В приведённом примере это не выполняется потому, что утверждение верно только для <b>идеальных <a href="/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA_%D0%AD%D0%94%D0%A1" title="Источник ЭДС">источников ЭДС</a></b>; реальные же источники в той или иной степени отличаются от идеальных. Для описания степени отличия реальных источников от идеальных применяется понятие <i>внутреннее сопротивление</i>.
+</p>
+<h2><span id=".D0.AD.D0.BA.D0.B2.D0.B8.D0.B2.D0.B0.D0.BB.D0.B5.D0.BD.D1.82.D0.BD.D0.B0.D1.8F_.D1.81.D1.85.D0.B5.D0.BC.D0.B0_.D0.B0.D0.BA.D1.82.D0.B8.D0.B2.D0.BD.D0.BE.D0.B3.D0.BE_.D0.B4.D0.B2.D1.83.D1.85.D0.BF.D0.BE.D0.BB.D1.8E.D1.81.D0.BD.D0.B8.D0.BA.D0.B0"></span><span class="mw-headline" id="Эквивалентная_схема_активного_двухполюсника">Эквивалентная схема активного двухполюсника</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Эквивалентная схема активного двухполюсника»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&amp;action=edit&amp;section=2" title="Редактировать код раздела «Эквивалентная схема активного двухполюсника»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Реальные активные двухполюсники хорошо описываются математически, если их рассматривать как эквивалентную схему, состоящую из (см. рисунок) последовательно включённых генератора напряжения и сопротивления (в общем случае — <a href="/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B8%D0%BC%D0%BF%D0%B5%D0%B4%D0%B0%D0%BD%D1%81" title="Электрический импеданс">импеданса</a>). <a class="mw-redirect" href="/wiki/%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80_%D0%BD%D0%B0%D0%BF%D1%80%D1%8F%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F" title="Генератор напряжения">Генератор напряжения</a> представляет собственно источник энергии, находящийся в этом двухполюснике. Идеальный генератор мог бы отдать в нагрузку сколь угодно большие мощность и ток. Однако сопротивление, включённое последовательно с генератором, ограничивает мощность, которую данный двухполюсник может отдать в нагрузку. Это эквивалентное сопротивление и называется <i>внутренним сопротивлением</i>. Оно является лишь параметром абстрактной модели двухполюсника, то есть физического «резистора» как электронного компонента внутри двухполюсников обычно нет.
+</p><p>Формально, в реальных гальванических элементах это внутреннее сопротивление можно идентифицировать физически. Это суммарное сопротивление плюсового стержня (углерода, стали), самого корпуса (цинка и никеля), а также самого электролита (соли) и поглотителя водорода (в солевых элементах). Все эти материалы, как и поверхности раздела между ними, имеют конечное сопротивление, отличное от нуля.
+</p><p>В иных источниках это омическое сопротивление обусловлено сопротивлением обмоток и контактов, которое включено последовательно с собственно внутренним сопротивлением источника и снижают характеристики источников напряжения.
+</p><p><a href="/wiki/%D0%9A%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%BD%D0%B0%D1%8F_%D1%80%D0%B0%D0%B7%D0%BD%D0%BE%D1%81%D1%82%D1%8C_%D0%BF%D0%BE%D1%82%D0%B5%D0%BD%D1%86%D0%B8%D0%B0%D0%BB%D0%BE%D0%B2" title="Контактная разность потенциалов">Контактные разности потенциалов</a> имеют иную природу возникновения напряжения и являются неомическими, то есть здесь затраты энергии идут на работу выхода носителей заряда.
+</p>
+<h2><span id=".D0.A1.D0.BE.D0.BF.D1.80.D0.BE.D1.82.D0.B8.D0.B2.D0.BB.D0.B5.D0.BD.D0.B8.D0.B5_.D0.B8_.D0.B2.D0.BD.D1.83.D1.82.D1.80.D0.B5.D0.BD.D0.BD.D0.B5.D0.B5_.D1.81.D0.BE.D0.BF.D1.80.D0.BE.D1.82.D0.B8.D0.B2.D0.BB.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Сопротивление_и_внутреннее_сопротивление">Сопротивление и внутреннее сопротивление</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&amp;veaction=edit&amp;section=3" title="Редактировать раздел «Сопротивление и внутреннее сопротивление»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&amp;action=edit&amp;section=3" title="Редактировать код раздела «Сопротивление и внутреннее сопротивление»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Основной характеристикой абстрактного двухполюсника является его внутреннее сопротивление (или, иначе, импеданс<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup>). Однако, описать двухполюсник одним только сопротивлением не всегда возможно. Дело в том, что термин <i>сопротивление</i> примени́м только для чисто пассивных элементов, то есть, не содержащих в себе источников энергии. Если двухполюсник содержит источник энергии, то понятие «сопротивление» к нему просто не применимо, поскольку <a href="/wiki/%D0%97%D0%B0%D0%BA%D0%BE%D0%BD_%D0%9E%D0%BC%D0%B0" title="Закон Ома">закон Ома</a> в формулировке <i>U=I·r</i> не выполняется<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup>.
+</p><p>Таким образом, для двухполюсников, содержащих источники (то есть <a class="mw-redirect" href="/wiki/%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80_%D0%BD%D0%B0%D0%BF%D1%80%D1%8F%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F" title="Генератор напряжения">генераторы напряжения</a> и <a class="mw-redirect" href="/wiki/%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80_%D1%82%D0%BE%D0%BA%D0%B0_(%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0)" title="Генератор тока (электроника)">генераторы тока</a>) необходимо говорить именно о <i>внутреннем</i> сопротивлении (или импедансе). Если же двухполюсник не содержит источников<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup>, то «<i>внутреннее</i> сопротивление» для такого двухполюсника означает то же самое, что и <i>просто</i> «сопротивление».
+</p>
+<h2><span id=".D0.A0.D0.BE.D0.B4.D1.81.D1.82.D0.B2.D0.B5.D0.BD.D0.BD.D1.8B.D0.B5_.D1.82.D0.B5.D1.80.D0.BC.D0.B8.D0.BD.D1.8B"></span><span class="mw-headline" id="Родственные_термины">Родственные термины</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&amp;veaction=edit&amp;section=4" title="Редактировать раздел «Родственные термины»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&amp;action=edit&amp;section=4" title="Редактировать код раздела «Родственные термины»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Если в какой-либо системе можно выделить вход и/или выход (пара электрических контактов), то часто употребляют следующие термины:
+</p>
+<ul><li><b>Входное сопротивление</b>, часто <b>входной импеданс</b>, — внутреннее сопротивление, проявляемое этой парой контактов как двухполюсника, которым является <i>вход</i> системы <sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup></li>
+<li><b>Выходное сопротивление</b>, часто <b>выходной импеданс</b>, — внутреннее сопротивление, проявляемое этой парой контактов как двухполюсника, которым является <i>выход</i> системы.</li></ul>
+<h2><span id=".D0.A4.D0.B8.D0.B7.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D0.BF.D1.80.D0.B8.D0.BD.D1.86.D0.B8.D0.BF.D1.8B"></span><span class="mw-headline" id="Физические_принципы">Физические принципы</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&amp;veaction=edit&amp;section=5" title="Редактировать раздел «Физические принципы»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&amp;action=edit&amp;section=5" title="Редактировать код раздела «Физические принципы»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Несмотря на то, что на эквивалентной схеме внутреннее сопротивление представлено как один пассивный элемент (причём <a href="/wiki/%D0%90%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5" title="Активное сопротивление">активное сопротивление</a>, то есть <a href="/wiki/%D0%A0%D0%B5%D0%B7%D0%B8%D1%81%D1%82%D0%BE%D1%80" title="Резистор">резистор</a> в нём присутствует обязательно), внутреннее сопротивление не обязательно сосредоточено в каком-либо одном элементе. Двухполюсник лишь внешне <i>ведёт себя</i> так, словно в нём имеется сосредоточенный внутренний импеданс и генератор напряжения. В действительности же, внутреннее сопротивление является внешним проявлением совокупности физических эффектов:
+</p>
+<ul><li>Если в двухполюснике имеется только <b>источник энергии</b> без какой-либо электрической схемы (например, <a href="/wiki/%D0%93%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82" title="Гальванический элемент">гальванический элемент</a>), то внутреннее сопротивление носит чисто <a href="/wiki/%D0%90%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5" title="Активное сопротивление">активный характер</a> (в низкочастотных цепях), и оно обусловлено физическими эффектами, которые не позволяют <a class="mw-redirect" href="/wiki/%D0%9C%D0%BE%D1%89%D0%BD%D0%BE%D1%81%D1%82%D1%8C_(%D1%84%D0%B8%D0%B7%D0%B8%D0%BA%D0%B0)" title="Мощность (физика)">мощности</a>, отдаваемой этим источником в нагрузку, превысить определённый предел. Наиболее простой пример такого эффекта — ненулевое сопротивление проводников электрической цепи. Но, как правило, наибольший вклад в ограничение мощности вносят эффекты <i>неэлектрической</i> природы. Так, например, в <a class="mw-redirect" href="/wiki/%D0%A5%D0%B8%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D1%82%D0%BE%D0%BA%D0%B0" title="Химические источники тока">химическом источнике</a> мощность может быть ограничена площадью соприкосновения участвующих в реакции веществ, в генераторе <a href="/wiki/%D0%93%D0%B8%D0%B4%D1%80%D0%BE%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F" title="Гидроэлектростанция">гидроэлектростанции</a> — ограниченным напором воды и т. д.</li>
+<li>В случае двухполюсника, содержащего внутри <b>электрическую схему</b>, внутреннее сопротивление «рассредоточено» в элементах схемы (в дополнение к перечисленным выше механизмам в источнике).</li></ul>
+<p>Отсюда также следуют некоторые особенности внутреннего сопротивления:
+</p>
+<ul><li>Внутреннее сопротивление невозможно убрать из двухполюсника<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup></li>
+<li>Внутреннее сопротивление не является стабильной величиной: оно может изменяться при изменении каких-либо внешних (нагрузка, ток) и внутренних (нагрев, истощение реагентов) условий.</li></ul>
+<h2><span id=".D0.92.D0.BB.D0.B8.D1.8F.D0.BD.D0.B8.D0.B5_.D0.B2.D0.BD.D1.83.D1.82.D1.80.D0.B5.D0.BD.D0.BD.D0.B5.D0.B3.D0.BE_.D1.81.D0.BE.D0.BF.D1.80.D0.BE.D1.82.D0.B8.D0.B2.D0.BB.D0.B5.D0.BD.D0.B8.D1.8F_.D0.BD.D0.B0_.D1.81.D0.B2.D0.BE.D0.B9.D1.81.D1.82.D0.B2.D0.B0_.D0.B4.D0.B2.D1.83.D1.85.D0.BF.D0.BE.D0.BB.D1.8E.D1.81.D0.BD.D0.B8.D0.BA.D0.B0"></span><span class="mw-headline" id="Влияние_внутреннего_сопротивления_на_свойства_двухполюсника">Влияние внутреннего сопротивления на свойства двухполюсника</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&amp;veaction=edit&amp;section=6" title="Редактировать раздел «Влияние внутреннего сопротивления на свойства двухполюсника»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&amp;action=edit&amp;section=6" title="Редактировать код раздела «Влияние внутреннего сопротивления на свойства двухполюсника»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Эффект внутреннего сопротивления является неотъемлемым свойством любого активного двухполюсника. Основной результат наличия внутреннего сопротивления — это ограничение электрической мощности, которую можно получить в нагрузке, питаемой от этого двухполюсника.
+</p><p>Если к источнику с <a href="/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%B4%D0%B2%D0%B8%D0%B6%D1%83%D1%89%D0%B0%D1%8F_%D1%81%D0%B8%D0%BB%D0%B0" title="Электродвижущая сила">ЭДС</a><sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup> генератора напряжения <i>E</i> и активным внутренним сопротивлением <i>r</i> подключена нагрузка с сопротивлением <i>R</i>, то ток, напряжение и мощность в нагрузке выражаются следующим образом:
+</p>
+<table class="citation" style="border-bottom:none; border-top:none; background-color:#;" width="100%">
+<tbody><tr>
+<td style="vertical-align:middle; text-align:left; padding-left:1.6em" width="80"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle I={\frac {E}{r+R}},\quad U_{R}={\frac {E}{r+R}}{R},\quad P_{R}={\frac {E^{2}}{(r+R)^{2}}}{R}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>I</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>E</mi>
+<mrow>
+<mi>r</mi>
+<mo>+</mo>
+<mi>R</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>,</mo>
+<mspace width="1em"></mspace>
+<msub>
+<mi>U</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>R</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>E</mi>
+<mrow>
+<mi>r</mi>
+<mo>+</mo>
+<mi>R</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>R</mi>
+</mrow>
+<mo>,</mo>
+<mspace width="1em"></mspace>
+<msub>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>R</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msup>
+<mi>E</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mrow>
+<mo stretchy="false">(</mo>
+<mi>r</mi>
+<mo>+</mo>
+<mi>R</mi>
+<msup>
+<mo stretchy="false">)</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>R</mi>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle I={\frac {E}{r+R}},\quad U_{R}={\frac {E}{r+R}}{R},\quad P_{R}={\frac {E^{2}}{(r+R)^{2}}}{R}.}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle I={\frac {E}{r+R}},\quad U_{R}={\frac {E}{r+R}}{R},\quad P_{R}={\frac {E^{2}}{(r+R)^{2}}}{R}.}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c8394551a0b6d3ad9419663ffb7a74056015c61e" style="vertical-align: -2.671ex; width:49.725ex; height:6.509ex;"/></span>
+</td>
+<td style="vertical-align:middle; text-align:right;" width="20">
+</td></tr></tbody></table>
+<h2><span id=".D0.9D.D0.B0.D1.85.D0.BE.D0.B6.D0.B4.D0.B5.D0.BD.D0.B8.D0.B5_.D0.B2.D0.BD.D1.83.D1.82.D1.80.D0.B5.D0.BD.D0.BD.D0.B5.D0.B3.D0.BE_.D1.81.D0.BE.D0.BF.D1.80.D0.BE.D1.82.D0.B8.D0.B2.D0.BB.D0.B5.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Нахождение_внутреннего_сопротивления">Нахождение внутреннего сопротивления</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&amp;veaction=edit&amp;section=7" title="Редактировать раздел «Нахождение внутреннего сопротивления»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&amp;action=edit&amp;section=7" title="Редактировать код раздела «Нахождение внутреннего сопротивления»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id=".D0.A0.D0.B0.D1.81.D1.87.D1.91.D1.82"></span><span class="mw-headline" id="Расчёт">Расчёт</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&amp;veaction=edit&amp;section=8" title="Редактировать раздел «Расчёт»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&amp;action=edit&amp;section=8" title="Редактировать код раздела «Расчёт»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Понятие <i>расчёт</i> применимо к схеме (но не к реальному устройству). Расчёт приведён для случая чисто активного внутреннего сопротивления (отличия реактивного сопротивления будут рассмотрены далее).
+</p>
+<blockquote>
+<p><i><b>Примечание</b></i>: Строго говоря, любой <i>реальный</i> <a href="/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B8%D0%BC%D0%BF%D0%B5%D0%B4%D0%B0%D0%BD%D1%81" title="Электрический импеданс">импеданс</a> (в том числе и внутреннее сопротивление) обладает некоторой реактивной составляющей, поскольку любой проводник имеет паразитную индуктивность и ёмкость. Когда мы говорим о чисто активном сопротивлении, то имеем в виду не реальную систему, а её <b>эквивалентную схему</b>, содержащую <i>только резисторы</i>: реактивность была отброшена как несущественная при переходе от реального устройства к его эквивалентной схеме.
+Если же реактивность существенна при рассмотрении реального устройства (например, при рассмотрении системы на высоких частотах), то эквивалентная схема составляется с учётом этой реактивности. Более подробно смотри в статье «<a href="/wiki/%D0%AD%D0%BA%D0%B2%D0%B8%D0%B2%D0%B0%D0%BB%D0%B5%D0%BD%D1%82%D0%BD%D0%B0%D1%8F_%D1%81%D1%85%D0%B5%D0%BC%D0%B0" title="Эквивалентная схема">Эквивалентная схема</a>».
+</p>
+</blockquote>
+<p>Пусть, имеется двухполюсник, который может быть описан приведённой выше эквивалентной схемой. Двухполюсник обладает двумя неизвестными параметрами, которые необходимо найти:
+</p>
+<ul><li><a href="/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%B4%D0%B2%D0%B8%D0%B6%D1%83%D1%89%D0%B0%D1%8F_%D1%81%D0%B8%D0%BB%D0%B0" title="Электродвижущая сила">ЭДС</a> генератора напряжения <i>U</i></li>
+<li>Внутреннее сопротивление <i>r</i></li></ul>
+<p>В общем случае, для определения двух неизвестных необходимо сделать два измерения: измерить напряжение на выходе двухполюсника (то есть разность потенциалов <i>U<sub>out</sub> = φ<sub>2</sub> − φ<sub>1</sub></i>) при двух различных токах нагрузки. Тогда неизвестные параметры можно найти из системы уравнений:
+</p>
+<table class="citation" id="math_Напряжения" style="border-bottom:none; border-top:none; background-color:#;" width="100%">
+<tbody><tr>
+<td style="vertical-align:middle; text-align:left; padding-left:1.6em" width="80"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\begin{matrix}U_{out1}=U-rI_{1}\\U_{out2}=U-rI_{2}\end{matrix}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<msub>
+<mi>U</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>o</mi>
+<mi>u</mi>
+<mi>t</mi>
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>=</mo>
+<mi>U</mi>
+<mo>−<!-- − --></mo>
+<mi>r</mi>
+<msub>
+<mi>I</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<msub>
+<mi>U</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>o</mi>
+<mi>u</mi>
+<mi>t</mi>
+<mn>2</mn>
+</mrow>
+</msub>
+<mo>=</mo>
+<mi>U</mi>
+<mo>−<!-- − --></mo>
+<mi>r</mi>
+<msub>
+<mi>I</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\begin{matrix}U_{out1}=U-rI_{1}\\U_{out2}=U-rI_{2}\end{matrix}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\begin{matrix}U_{out1}=U-rI_{1}\\U_{out2}=U-rI_{2}\end{matrix}}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/eaed324e7ca435b06eac5dc764691716a1331db5" style="vertical-align: -2.505ex; width:16.572ex; height:6.176ex;"/></span>
+</td>
+<td style="vertical-align:middle; text-align:right;" width="20">(Напряжения)
+</td></tr></tbody></table>
+<p>где <i>U<sub>out1</sub></i> — выходное напряжение при токе <i>I<sub>1</sub></i>, <i>U<sub>out2</sub></i> — выходное напряжение при токе <i>I<sub>2</sub></i>. Решая систему уравнений, находим искомые неизвестные:
+</p>
+<table class="citation" id="math_ОбщийСлучай" style="border-bottom:none; border-top:none; background-color:#;" width="100%">
+<tbody><tr>
+<td style="vertical-align:middle; text-align:left; padding-left:1.6em" width="80"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle r={\frac {U_{out1}-U_{out2}}{I_{2}-I_{1}}},\quad U=U_{out1}+I_{1}{\frac {U_{out1}-U_{out2}}{I_{2}-I_{1}}}=U_{out1}+I_{1}r}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>r</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msub>
+<mi>U</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>o</mi>
+<mi>u</mi>
+<mi>t</mi>
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>U</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>o</mi>
+<mi>u</mi>
+<mi>t</mi>
+<mn>2</mn>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<msub>
+<mi>I</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>I</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+<mo>,</mo>
+<mspace width="1em"></mspace>
+<mi>U</mi>
+<mo>=</mo>
+<msub>
+<mi>U</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>o</mi>
+<mi>u</mi>
+<mi>t</mi>
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>+</mo>
+<msub>
+<mi>I</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msub>
+<mi>U</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>o</mi>
+<mi>u</mi>
+<mi>t</mi>
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>U</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>o</mi>
+<mi>u</mi>
+<mi>t</mi>
+<mn>2</mn>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<msub>
+<mi>I</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>I</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<msub>
+<mi>U</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>o</mi>
+<mi>u</mi>
+<mi>t</mi>
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>+</mo>
+<msub>
+<mi>I</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mi>r</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle r={\frac {U_{out1}-U_{out2}}{I_{2}-I_{1}}},\quad U=U_{out1}+I_{1}{\frac {U_{out1}-U_{out2}}{I_{2}-I_{1}}}=U_{out1}+I_{1}r}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle r={\frac {U_{out1}-U_{out2}}{I_{2}-I_{1}}},\quad U=U_{out1}+I_{1}{\frac {U_{out1}-U_{out2}}{I_{2}-I_{1}}}=U_{out1}+I_{1}r}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9adc97978673d59767b42033375755996ff9716e" style="vertical-align: -2.171ex; width:63.558ex; height:5.509ex;"/></span>
+</td>
+<td style="vertical-align:middle; text-align:right;" width="20">(ОбщийСлучай)
+</td></tr></tbody></table>
+<p>Обычно для вычисления внутреннего сопротивления используется более простая методика: находится напряжение в <a href="/wiki/%D0%A0%D0%B5%D0%B6%D0%B8%D0%BC_%D1%85%D0%BE%D0%BB%D0%BE%D1%81%D1%82%D0%BE%D0%B3%D0%BE_%D1%85%D0%BE%D0%B4%D0%B0_(%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0)" title="Режим холостого хода (электроника)">режиме холостого хода</a> и ток в <a class="mw-redirect" href="/wiki/%D0%A0%D0%B5%D0%B6%D0%B8%D0%BC_%D0%BA%D0%BE%D1%80%D0%BE%D1%82%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B7%D0%B0%D0%BC%D1%8B%D0%BA%D0%B0%D0%BD%D0%B8%D1%8F_(%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0)" title="Режим короткого замыкания (электроника)">режиме короткого замыкания</a> двухполюсника. В этом случае система (<a href="#math_Напряжения">Напряжения</a>) записывается следующим образом:
+</p>
+<table class="citation" style="border-bottom:none; border-top:none; background-color:#;" width="100%">
+<tbody><tr>
+<td style="vertical-align:middle; text-align:left; padding-left:1.6em" width="80"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\begin{matrix}U_{oc}=U-0\\0=U-rI_{sc}\end{matrix}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<msub>
+<mi>U</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>o</mi>
+<mi>c</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mi>U</mi>
+<mo>−<!-- − --></mo>
+<mn>0</mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>0</mn>
+<mo>=</mo>
+<mi>U</mi>
+<mo>−<!-- − --></mo>
+<mi>r</mi>
+<msub>
+<mi>I</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>s</mi>
+<mi>c</mi>
+</mrow>
+</msub>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\begin{matrix}U_{oc}=U-0\\0=U-rI_{sc}\end{matrix}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\begin{matrix}U_{oc}=U-0\\0=U-rI_{sc}\end{matrix}}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/53f3bdc719ee58ef663d38911e0fa82742faa884" style="vertical-align: -2.505ex; width:13.422ex; height:6.176ex;"/></span>
+</td>
+<td style="vertical-align:middle; text-align:right;" width="20">
+</td></tr></tbody></table>
+<p>где <i>U<sub>oc</sub></i> — выходное напряжение в режиме холостого хода (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">open circuit</span>), то есть при нулевом токе нагрузки; <i>I<sub>sc</sub></i> — ток нагрузки в режиме короткого замыкания (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">short circuit</span>), то есть при нагрузке с нулевым сопротивлением. Здесь учтено, что выходной ток в режиме холостого хода и выходное напряжение в режиме короткого замыкания равны нулю. Из последних уравнений сразу же получаем:
+</p>
+<table class="citation" id="math_ВнутрСопр" style="border-bottom:none; border-top:none; background-color:#;" width="100%">
+<tbody><tr>
+<td style="vertical-align:middle; text-align:left; padding-left:1.6em" width="80"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle r={\frac {U_{oc}}{I_{sc}}},\quad U=U_{oc}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>r</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>U</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>o</mi>
+<mi>c</mi>
+</mrow>
+</msub>
+<msub>
+<mi>I</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>s</mi>
+<mi>c</mi>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+<mo>,</mo>
+<mspace width="1em"></mspace>
+<mi>U</mi>
+<mo>=</mo>
+<msub>
+<mi>U</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>o</mi>
+<mi>c</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle r={\frac {U_{oc}}{I_{sc}}},\quad U=U_{oc}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle r={\frac {U_{oc}}{I_{sc}}},\quad U=U_{oc}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0145a5cadb13576a4175cf81d8bb752f65ff22e7" style="vertical-align: -2.338ex; width:19.879ex; height:5.676ex;"/></span>
+</td>
+<td style="vertical-align:middle; text-align:right;" width="20">(ВнутрСопр)
+</td></tr></tbody></table>
+<p>Таким образом, чтобы рассчитать внутреннее сопротивление и ЭДС эквивалентного генератора для двухполюсника, электрическая схема которого известна, необходимо:
+</p>
+<ul><li>Рассчитать выходное напряжение двухполюсника в режиме холостого хода</li>
+<li>Рассчитать выходной ток двухполюсника в режиме короткого замыкания</li>
+<li>На основании полученных значений найти <i>r</i> и <i>U</i> по формуле (<a href="#math_ВнутрСопр">ВнутрСопр</a>).</li></ul>
+<h3><span id=".D0.98.D0.B7.D0.BC.D0.B5.D1.80.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Измерение">Измерение</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&amp;veaction=edit&amp;section=9" title="Редактировать раздел «Измерение»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&amp;action=edit&amp;section=9" title="Редактировать код раздела «Измерение»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Понятие <i>измерение</i> применимо к реальному устройству (но не к схеме). Непосредственное измерение <a href="/wiki/%D0%9E%D0%BC%D0%BC%D0%B5%D1%82%D1%80" title="Омметр">омметром</a> невозможно, поскольку нельзя подключить щупы прибора к выводам внутреннего сопротивления. Поэтому необходимо <a class="mw-redirect" href="/wiki/%D0%9A%D0%BE%D1%81%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D0%B8%D0%B7%D0%BC%D0%B5%D1%80%D0%B5%D0%BD%D0%B8%D0%B5" title="Косвенное измерение">косвенное измерение</a>, которое принципиально не отличается от расчёта — также необходимы напряжения на нагрузке при двух различных значениях тока. Однако воспользоваться упрощённой формулой (2) не всегда возможно, поскольку не каждый реальный двухполюсник допускает работу в режиме короткого замыкания.
+</p><p>Иногда применяется следующий простой способ измерения, не требующий вычислений:
+</p>
+<ul><li>Измеряется напряжение холостого хода</li>
+<li>В качестве нагрузки подключается переменный резистор и его сопротивление подбирается таким образом, чтобы напряжение на нём составило половину от напряжения холостого хода.</li></ul>
+<p>После описанных процедур сопротивление резистора нагрузки необходимо измерить омметром — оно будет равно внутреннему сопротивлению двухполюсника.
+</p><p>Какой бы способ измерения ни использовался, следует опасаться перегрузки двухполюсника чрезмерным током, то есть ток не должен превышать максимально допустимого значениях для данного двухполюсника.
+</p>
+<h3><span id=".D0.A0.D0.B5.D0.B0.D0.BA.D1.82.D0.B8.D0.B2.D0.BD.D0.BE.D0.B5_.D0.B2.D0.BD.D1.83.D1.82.D1.80.D0.B5.D0.BD.D0.BD.D0.B5.D0.B5_.D1.81.D0.BE.D0.BF.D1.80.D0.BE.D1.82.D0.B8.D0.B2.D0.BB.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Реактивное_внутреннее_сопротивление">Реактивное внутреннее сопротивление</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&amp;veaction=edit&amp;section=10" title="Редактировать раздел «Реактивное внутреннее сопротивление»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&amp;action=edit&amp;section=10" title="Редактировать код раздела «Реактивное внутреннее сопротивление»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Если эквивалентная схема двухполюсника содержит реактивные элементы — <a href="/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%BD%D0%B4%D0%B5%D0%BD%D1%81%D0%B0%D1%82%D0%BE%D1%80" title="Электрический конденсатор">конденсаторы</a> и/или <a href="/wiki/%D0%9A%D0%B0%D1%82%D1%83%D1%88%D0%BA%D0%B0_%D0%B8%D0%BD%D0%B4%D1%83%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D0%B8" title="Катушка индуктивности">катушки индуктивности</a>, то <b>расчет</b> реактивного внутреннего сопротивления выполняется также, как и активного, но вместо сопротивлений резисторов берутся комплексные импедансы элементов, входящих в схему, а вместо напряжений и токов — их <a href="/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%BD%D0%B0%D1%8F_%D0%B0%D0%BC%D0%BF%D0%BB%D0%B8%D1%82%D1%83%D0%B4%D0%B0" title="Комплексная амплитуда">комплексные амплитуды</a>, то есть расчет производится <a href="/wiki/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4_%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%BD%D1%8B%D1%85_%D0%B0%D0%BC%D0%BF%D0%BB%D0%B8%D1%82%D1%83%D0%B4" title="Метод комплексных амплитуд">методом комплексных амплитуд</a>.
+</p><p><b>Измерение</b> реактивного внутреннего сопротивления имеет некоторые особенности, поскольку оно является <a href="/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%BD%D0%BE%D0%B5_%D1%87%D0%B8%D1%81%D0%BB%D0%BE" title="Комплексное число">комплекснозначной</a> <a href="/wiki/%D0%A4%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D1%8F_(%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0)" title="Функция (математика)">функцией</a>, а не <a href="/wiki/%D0%A1%D0%BA%D0%B0%D0%BB%D1%8F%D1%80" title="Скаляр">скалярным</a> значением:
+</p>
+<ul><li>Можно искать различные параметры комплексного значения: <a href="/wiki/%D0%90%D0%B1%D1%81%D0%BE%D0%BB%D1%8E%D1%82%D0%BD%D0%B0%D1%8F_%D0%B2%D0%B5%D0%BB%D0%B8%D1%87%D0%B8%D0%BD%D0%B0" title="Абсолютная величина">модуль</a>, <a href="/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%BD%D0%BE%D0%B5_%D1%87%D0%B8%D1%81%D0%BB%D0%BE#Связанные_определения" title="Комплексное число">аргумент</a>, только <a href="/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%BD%D0%BE%D0%B5_%D1%87%D0%B8%D1%81%D0%BB%D0%BE#Связанные_определения" title="Комплексное число">вещественную</a> или <a href="/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%BD%D0%BE%D0%B5_%D1%87%D0%B8%D1%81%D0%BB%D0%BE#Связанные_определения" title="Комплексное число">мнимую</a> часть, а также комплексное число полностью. Соответственно, методика измерений будет зависеть от того, что хотим получить.</li>
+<li>Любой из перечисленных параметров зависит от частоты. Теоретически, чтобы получить путём измерения полную информацию о реактивном внутреннем сопротивлении, необходимо снять <i>зависимость</i> от частоты, то есть провести измерения на <i>всех</i> частотах, которые может генерировать источник данного двухполюсника.</li></ul>
+<h3><span id=".D0.98.D0.B7.D0.BC.D0.B5.D1.80.D0.B5.D0.BD.D0.B8.D0.B5_.D1.81.D0.BE.D0.BF.D1.80.D0.BE.D1.82.D0.B8.D0.B2.D0.BB.D0.B5.D0.BD.D0.B8.D1.8F_.D0.BF.D0.B5.D1.82.D0.BB.D0.B8_.D1.84.D0.B0.D0.B7.D0.B0-.D0.BD.D1.83.D0.BB.D1.8C"></span><span class="mw-headline" id="Измерение_сопротивления_петли_фаза-нуль">Измерение сопротивления петли фаза-нуль</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&amp;veaction=edit&amp;section=11" title="Редактировать раздел «Измерение сопротивления петли фаза-нуль»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&amp;action=edit&amp;section=11" title="Редактировать код раздела «Измерение сопротивления петли фаза-нуль»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:IFN-300_loop_resistance.JPG"><img class="mw-file-element" data-file-height="1591" data-file-width="2000" decoding="async" height="199" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/IFN-300_loop_resistance.JPG/250px-IFN-300_loop_resistance.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/IFN-300_loop_resistance.JPG/375px-IFN-300_loop_resistance.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/IFN-300_loop_resistance.JPG/500px-IFN-300_loop_resistance.JPG 2x" width="250"/></a><figcaption>Результат измерения сопротивления петли фаза-нуль в розетке бытовой электросети</figcaption></figure>
+<p>Частным случаем измерения внутреннего сопротивления является <i>измерение сопротивления петли фаза-нуль</i> в электроустановках. Двухполюсником в этом случае является пара проводников электроустановки: фазный и рабочий нулевой проводники или два фазных проводника. На фотографии показан результат такого измерения в розетке бытовой электросети напряжением 220 вольт:
+</p>
+<ul><li>активная составляющая: 0,49 <a href="/wiki/%D0%9E%D0%BC" title="Ом">Ом</a></li>
+<li>реактивная составляющая: 0,09 <a href="/wiki/%D0%9E%D0%BC" title="Ом">Ом</a></li>
+<li>модуль полного сопротивления: 0,5 <a href="/wiki/%D0%9E%D0%BC" title="Ом">Ом</a></li>
+<li>ожидаемый ток короткого замыкания: 440 <a href="/wiki/%D0%90%D0%BC%D0%BF%D0%B5%D1%80" title="Ампер">А</a></li></ul>
+<p>Прибор находит внутреннее сопротивление путём <a href="/wiki/%D0%92%D0%B8%D0%B4%D1%8B_%D0%B8%D0%B7%D0%BC%D0%B5%D1%80%D0%B5%D0%BD%D0%B8%D0%B9#Косвенное_измерение" title="Виды измерений">косвенного измерения</a> методом падения напряжения на нагрузочном сопротивлении. Этот метод рекомендуется к использованию в приложении D <a href="/wiki/%D0%93%D0%9E%D0%A1%D0%A2" title="ГОСТ">ГОСТ</a> Р 50571.16-99. Метод описывается приведённой выше формулой (<a href="#math_ОбщийСлучай">ОбщийСлучай</a>) при <i>I<sub>1</sub>=0</i>.
+</p><p>Результат измерения считается удовлетворительным, если ожидаемый ток короткого замыкания достаточно велик для надежного срабатывания аппарата, защищающего эту цепь от сверхтока.
+</p>
+<h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D0.BD.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Применение">Применение</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&amp;veaction=edit&amp;section=12" title="Редактировать раздел «Применение»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&amp;action=edit&amp;section=12" title="Редактировать код раздела «Применение»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>В большинстве случаев следует говорить не о <i>применении</i> внутреннего сопротивления, а об <i>учете</i> его негативного влияния, поскольку внутреннее сопротивление является скорее негативным эффектом. Тем не менее, в некоторых системах наличие внутреннего сопротивления с номинальным значением является просто необходимым.
+</p>
+<h3><span id=".D0.A3.D0.BF.D1.80.D0.BE.D1.89.D0.B5.D0.BD.D0.B8.D0.B5_.D1.8D.D0.BA.D0.B2.D0.B8.D0.B2.D0.B0.D0.BB.D0.B5.D0.BD.D1.82.D0.BD.D1.8B.D1.85_.D1.81.D1.85.D0.B5.D0.BC"></span><span class="mw-headline" id="Упрощение_эквивалентных_схем">Упрощение эквивалентных схем</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&amp;veaction=edit&amp;section=13" title="Редактировать раздел «Упрощение эквивалентных схем»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&amp;action=edit&amp;section=13" title="Редактировать код раздела «Упрощение эквивалентных схем»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable">Основная статья: <b><a href="/wiki/%D0%AD%D0%BA%D0%B2%D0%B8%D0%B2%D0%B0%D0%BB%D0%B5%D0%BD%D1%82%D0%BD%D0%B0%D1%8F_%D1%81%D1%85%D0%B5%D0%BC%D0%B0" title="Эквивалентная схема">Эквивалентная схема</a></b></div>
+<p>Представление двухполюсника как совокупность генератора напряжения и внутреннего сопротивления является наиболее простой и часто используемой эквивалентной схемой двухполюсника.
+</p>
+<h3><span id=".D0.A1.D0.BE.D0.B3.D0.BB.D0.B0.D1.81.D0.BE.D0.B2.D0.B0.D0.BD.D0.B8.D0.B5_.D0.B8.D1.81.D1.82.D0.BE.D1.87.D0.BD.D0.B8.D0.BA.D0.B0_.D0.B8_.D0.BD.D0.B0.D0.B3.D1.80.D1.83.D0.B7.D0.BA.D0.B8"></span><span class="mw-headline" id="Согласование_источника_и_нагрузки">Согласование источника и нагрузки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&amp;veaction=edit&amp;section=14" title="Редактировать раздел «Согласование источника и нагрузки»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&amp;action=edit&amp;section=14" title="Редактировать код раздела «Согласование источника и нагрузки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Согласование источника и нагрузки — это выбор соотношения сопротивления нагрузки и внутреннего сопротивления источника с целью достижения заданных свойств полученной системы (как правило, стараются достичь максимального значения какого-либо параметра для данного источника). Наиболее часто используются следующие типы согласования:
+</p>
+<ul><li><b>Согласование по напряжению</b> — получение в нагрузке максимального напряжения. Для этого сопротивление нагрузки должно быть <i>как можно бо́льшим</i>, по крайней мере, <i>много больше</i>, чем внутреннее сопротивление источника. Другими словами, двухполюсник должен быть в режиме холостого хода. При этом максимально достижимое в нагрузке напряжение равно ЭДС генератора напряжения <i>E</i>. Данный тип согласования применяется в электронных системах, когда носителем сигнала является напряжение, и его необходимо передать от источника к нагрузке с минимальными потерями.</li>
+<li><b>Согласование по току</b> — получение в нагрузке максимального тока. Для этого сопротивление нагрузки должно быть <i>как можно меньшим</i>, по крайней мере, <i>много меньше</i>, чем внутреннее сопротивление источника. Другими словами, двухполюсник должен быть в режиме короткого замыкания. При этом максимально достижимый в нагрузке ток равен <i>I<sub>max</sub>=E/r</i>. Применяется в электронных системах, когда носителем сигнала является ток. Например, при съеме сигнала с быстродействующего <a href="/wiki/%D0%A4%D0%BE%D1%82%D0%BE%D0%B4%D0%B8%D0%BE%D0%B4" title="Фотодиод">фотодиода</a> целесообразно применять преобразователь ток-напряжение с минимальным входным сопротивлением. Малое входное сопротивление также решает проблему заужения полосы из-за паразитного <i>RC</i>-<a class="mw-redirect" href="/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%84%D0%B8%D0%BB%D1%8C%D1%82%D1%80" title="Электрический фильтр">фильтра</a>.</li>
+<li><b>Согласование по мощности</b> — обеспечивает получение в нагрузке (что эквивалентно отбору от источника) максимально возможной мощности, равной <i>P<sub>max</sub>=E²/(4r)</i><sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup>. В цепях постоянного тока: сопротивление нагрузки должно быть <i>равно</i> внутреннему сопротивлению <i>r</i> источника. В цепях переменного тока (в общем случае): <a class="mw-disambig" href="/wiki/%D0%98%D0%BC%D0%BF%D0%B5%D0%B4%D0%B0%D0%BD%D1%81" title="Импеданс">импеданс</a> нагрузки должен быть <i><a href="/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%BD%D0%BE%D0%B5_%D1%87%D0%B8%D1%81%D0%BB%D0%BE#Сопряжённые_числа" title="Комплексное число">комплексно сопряженным</a></i> внутреннему импедансу источника.</li>
+<li><b>Согласование по <a href="/wiki/%D0%92%D0%BE%D0%BB%D0%BD%D0%BE%D0%B2%D0%BE%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5" title="Волновое сопротивление">волновому сопротивлению</a></b> — получение максимального <a href="/wiki/%D0%9A%D0%BE%D1%8D%D1%84%D1%84%D0%B8%D1%86%D0%B8%D0%B5%D0%BD%D1%82_%D0%B1%D0%B5%D0%B3%D1%83%D1%89%D0%B5%D0%B9_%D0%B2%D0%BE%D0%BB%D0%BD%D1%8B" title="Коэффициент бегущей волны">коэффициента бегущей волны</a> в линии передачи (в СВЧ технике и <a href="/wiki/%D0%94%D0%BB%D0%B8%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F" title="Длинная линия">теории длинных линий</a>). То же самое, что и <i>согласование по мощности</i>, но применительно к длинным линиям. Волновое сопротивление нагрузки должно быть <i>равно</i> внутреннему сопротивлению <i>r</i>. В СВЧ технике применяется практически всегда. Чаще всего термин <a class="mw-redirect" href="/wiki/%D0%A1%D0%BE%D0%B3%D0%BB%D0%B0%D1%81%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BD%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0" title="Согласованная нагрузка">согласованная нагрузка</a> используется именно в этом смысле.</li></ul>
+<p>Согласование по току и мощности следует использовать с осторожностью, так как есть опасность перегрузить источник.
+</p>
+<h3><span id=".D0.9F.D0.BE.D0.BD.D0.B8.D0.B6.D0.B5.D0.BD.D0.B8.D0.B5_.D0.B2.D1.8B.D1.81.D0.BE.D0.BA.D0.B8.D1.85_.D0.BD.D0.B0.D0.BF.D1.80.D1.8F.D0.B6.D0.B5.D0.BD.D0.B8.D0.B9"></span><span class="mw-headline" id="Понижение_высоких_напряжений">Понижение высоких напряжений</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&amp;veaction=edit&amp;section=15" title="Редактировать раздел «Понижение высоких напряжений»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&amp;action=edit&amp;section=15" title="Редактировать код раздела «Понижение высоких напряжений»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable">Основная статья: <b><a href="/wiki/%D0%91%D0%B0%D0%BB%D0%BB%D0%B0%D1%81%D1%82_(%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0)" title="Балласт (электротехника)">Балласт (электротехника)</a></b></div>
+<p>Иногда к <a class="mw-redirect" href="/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA_%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F" title="Источник электропитания">источнику электропитания</a> искусственно добавляют внешнее <a href="/wiki/%D0%91%D0%B0%D0%BB%D0%BB%D0%B0%D1%81%D1%82_(%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0)" title="Балласт (электротехника)">балластное сопротивление</a>, соединённое <a class="mw-redirect" href="/wiki/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5" title="Последовательное соединение">последовательно</a> с нагрузкой (оно суммируется с внутренним сопротивлением источника) для того, чтобы понизить получаемое от него напряжение, либо ограничить величину тока, отдаваемого в нагрузку. Однако добавление <a href="/wiki/%D0%A0%D0%B5%D0%B7%D0%B8%D1%81%D1%82%D0%BE%D1%80" title="Резистор">резистора</a> в качестве дополнительного сопротивления (так называемый <i>гасящий резистор</i>) во многих случаях неприемлемо, так как ведёт к бесполезному выделению значительной мощности на нём<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup>. Чтобы не расходовать энергию впустую и не решать проблему охлаждения дополнительного сопротивления, в системах <a href="/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%82%D0%BE%D0%BA" title="Переменный ток">переменного тока</a> используют <a href="/wiki/%D0%A0%D0%B5%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5" title="Реактивное сопротивление">реактивные</a> гасящие импедансы.  На основе гасящего конденсатора может быть построен <a class="new" href="/w/index.php?title=%D0%9A%D0%BE%D0%BD%D0%B4%D0%B5%D0%BD%D1%81%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%8B%D0%B9_%D0%B1%D0%BB%D0%BE%D0%BA_%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F&amp;action=edit&amp;redlink=1" title="Конденсаторный блок питания (страница отсутствует)">конденсаторный блок питания</a>. Аналогично, при помощи ёмкостного отвода от высоковольтной <a class="mw-redirect" href="/wiki/%D0%9B%D0%AD%D0%9F" title="ЛЭП">ЛЭП</a> можно получить небольшие напряжения для питания каких-либо автономных устройств. Индуктивный балласт широко применяется для ограничения тока в цепи газоразрядных люминесцентных ламп.
+</p>
+<h3><span id=".D0.9C.D0.B8.D0.BD.D0.B8.D0.BC.D0.B8.D0.B7.D0.B0.D1.86.D0.B8.D1.8F_.D1.88.D1.83.D0.BC.D0.B0"></span><span class="mw-headline" id="Минимизация_шума">Минимизация шума</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&amp;veaction=edit&amp;section=16" title="Редактировать раздел «Минимизация шума»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&amp;action=edit&amp;section=16" title="Редактировать код раздела «Минимизация шума»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>При усилении слабых сигналов часто возникает задача минимизации шума, вносимого усилителем в сигнал. Для этого используются специальные <i>малошумящие усилители</i>, которые могут быть как низкоомные, например, на биполярных транзисторах, так и высокоомными на полевых транзисторах, однако спроектированы они таким образом, что наименьший <a href="/wiki/%D0%9A%D0%BE%D1%8D%D1%84%D1%84%D0%B8%D1%86%D0%B8%D0%B5%D0%BD%D1%82_%D1%88%D1%83%D0%BC%D0%B0" title="Коэффициент шума">коэффициент шума</a> достигается лишь при полном согласовании выходного сопротивления источника сигнала и входного сопротивления самого усилителя. Например, если источник сигнала обладает меньшим выходным сопротивлением (например, <a href="/wiki/%D0%9C%D0%B8%D0%BA%D1%80%D0%BE%D1%84%D0%BE%D0%BD" title="Микрофон">микрофон</a> с выходным сопротивлением 30 Ом), то следует применить между источником и усилителем повышающий <a href="/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%BE%D1%80" title="Трансформатор">трансформатор</a>, который повысит выходное сопротивление (а также напряжение сигнала) до необходимого значения.
+</p>
+<h2><span id=".D0.9E.D0.B3.D1.80.D0.B0.D0.BD.D0.B8.D1.87.D0.B5.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Ограничения">Ограничения</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&amp;veaction=edit&amp;section=17" title="Редактировать раздел «Ограничения»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&amp;action=edit&amp;section=17" title="Редактировать код раздела «Ограничения»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Понятие внутреннего сопротивления вводится через эквивалентную схему, поэтому имеют силу <a href="/wiki/%D0%AD%D0%BA%D0%B2%D0%B8%D0%B2%D0%B0%D0%BB%D0%B5%D0%BD%D1%82%D0%BD%D0%B0%D1%8F_%D1%81%D1%85%D0%B5%D0%BC%D0%B0#Ограничения" title="Эквивалентная схема">те же ограничения</a>, что и для применимости эквивалентных схем.
+</p>
+<h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.80.D1.8B"></span><span class="mw-headline" id="Примеры">Примеры</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&amp;veaction=edit&amp;section=18" title="Редактировать раздел «Примеры»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&amp;action=edit&amp;section=18" title="Редактировать код раздела «Примеры»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Значения внутреннего сопротивления относительны: то, что считается малым, например, для гальванического элемента, является очень большим для мощного аккумулятора. Ниже приведены примеры двухполюсников и значения их внутреннего сопротивления <i>r</i>. Тривиальные случаи двухполюсников <i>без источников</i> оговорены особо.
+</p>
+<h3><span id=".D0.9C.D0.B0.D0.BB.D0.BE.D0.B5_.D0.B2.D0.BD.D1.83.D1.82.D1.80.D0.B5.D0.BD.D0.BD.D0.B5.D0.B5_.D1.81.D0.BE.D0.BF.D1.80.D0.BE.D1.82.D0.B8.D0.B2.D0.BB.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Малое_внутреннее_сопротивление">Малое внутреннее сопротивление</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&amp;veaction=edit&amp;section=19" title="Редактировать раздел «Малое внутреннее сопротивление»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&amp;action=edit&amp;section=19" title="Редактировать код раздела «Малое внутреннее сопротивление»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><b>Нулевым</b> внутренним сопротивлением обладает только идеальный <i>генератор напряжения</i>. Если также рассматривать двухполюсники без источников, то сверхпроводящее <a class="new" href="/w/index.php?title=%D0%9A%D0%BE%D1%80%D0%BE%D1%82%D0%BA%D0%BE%D0%B5_%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5&amp;action=edit&amp;redlink=1" title="Короткое соединение (страница отсутствует)">короткое соединение</a> тоже имеет нулевое внутреннее сопротивление (до величины токов, вызывающих потерю сверхпроводимости). Генератор со сверхпроводящей обмоткой при не слишком больших частотах и небольших токах также имеет активное внутреннее сопротивление, весьма близкое к нулю (индуктивный импеданс при определенных условиях может быть тоже довольно невелик).</li>
+<li>Автомобильная свинцово-кислотная стартерная аккумуляторная батарея имеет <i>r</i> около 0,01 Ом. Благодаря столь низкому внутреннему сопротивлению ток, отдаваемый батареей при запуске двигателя, достигает 250 ампер и более (для <a href="/wiki/%D0%9B%D0%B5%D0%B3%D0%BA%D0%BE%D0%B2%D0%BE%D0%B9_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C" title="Легковой автомобиль">легковых</a> автомобилей).</li>
+<li>Бытовая <a class="mw-redirect" href="/wiki/%D0%A1%D0%B5%D1%82%D1%8C_%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D0%BD%D0%B0%D0%B1%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F" title="Сеть электроснабжения">сеть электроснабжения</a> <a href="/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%82%D0%BE%D0%BA" title="Переменный ток">переменного тока</a> в жилых помещениях имеет <i>r</i> от десятых долей Ом до 1 Ом и более (зависит от качества <a class="new" href="/w/index.php?title=%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%BA%D0%B0&amp;action=edit&amp;redlink=1" title="Электропроводка (страница отсутствует)">электропроводки</a>). Высокое сопротивление соответствует плохой проводке: при подключении мощных нагрузок (например, <a href="/wiki/%D0%A3%D1%82%D1%8E%D0%B3" title="Утюг">утюга</a>) напряжение падает, при этом заметно уменьшается яркость <a href="/wiki/%D0%9B%D0%B0%D0%BC%D0%BF%D0%B0_%D0%BD%D0%B0%D0%BA%D0%B0%D0%BB%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F" title="Лампа накаливания">ламп</a> освещения, подключенных к той же ветви сети. Повышается <a href="/wiki/%D0%9F%D0%BE%D0%B6%D0%B0%D1%80" title="Пожар">пожароопасность</a>, поскольку на сопротивлении проводов выделяется значительная мощность. И наоборот, в хорошей сети с низким сопротивлением напряжение падает от допустимых нагрузок лишь незначительно. Ток при <a href="/wiki/%D0%9A%D0%BE%D1%80%D0%BE%D1%82%D0%BA%D0%BE%D0%B5_%D0%B7%D0%B0%D0%BC%D1%8B%D0%BA%D0%B0%D0%BD%D0%B8%D0%B5" title="Короткое замыкание">коротком замыкании</a> в хорошей бытовой электросети <a href="#Измерение_сопротивления_петли_фаза-нуль">достигает</a> нескольких сотен ампер.</li>
+<li>Используя <a href="/wiki/%D0%9E%D1%82%D1%80%D0%B8%D1%86%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D0%BD%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C" title="Отрицательная обратная связь">отрицательную обратную связь</a> в электронных схемах, можно искусственно создавать источники, обладающие (при определённых условиях) очень низким внутренним сопротивлением. Такими свойствами обладают современные электронные <a href="/wiki/%D0%A1%D1%82%D0%B0%D0%B1%D0%B8%D0%BB%D0%B8%D0%B7%D0%B0%D1%82%D0%BE%D1%80_%D0%BD%D0%B0%D0%BF%D1%80%D1%8F%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F" title="Стабилизатор напряжения">стабилизаторы напряжения</a>. Например, интегральный стабилизатор напряжения <a class="external text" href="http://www.datasheetcatalog.org/datasheets/228/390068_DS.pdf" rel="nofollow">7805</a> (выходное напряжение 5 В) имеет типичное выходное сопротивление менее 0,0009 Ома<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup>. Однако это вовсе не означает, что такой стабилизатор может отдать в нагрузку ток до 5500 А или мощность до 13 кВт при правильном согласовании. Характеристики стабилизатора нормированы <i>только</i> для рабочего диапазона токов, то есть в данном примере до 1,5 А. При превышении этого значения сработает защита, и стабилизатор отключится (при других конструкциях защиты ток ограничивается, а не отключается полностью).</li></ul>
+<h3><span id=".D0.91.D0.BE.D0.BB.D1.8C.D1.88.D0.BE.D0.B5_.D0.B2.D0.BD.D1.83.D1.82.D1.80.D0.B5.D0.BD.D0.BD.D0.B5.D0.B5_.D1.81.D0.BE.D0.BF.D1.80.D0.BE.D1.82.D0.B8.D0.B2.D0.BB.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Большое_внутреннее_сопротивление">Большое внутреннее сопротивление</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&amp;veaction=edit&amp;section=20" title="Редактировать раздел «Большое внутреннее сопротивление»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&amp;action=edit&amp;section=20" title="Редактировать код раздела «Большое внутреннее сопротивление»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Обычно двухполюсники с большим внутренним сопротивлением — это различного рода датчики, источники сигналов и т. п. Типичная задача при работе с такими устройствами — снятие с них сигнала без потерь из-за неправильного согласования. Для достижения хорошего согласования по напряжению сигнал с такого двухполюсника должен сниматься устройством, имеющим ещё большее входное сопротивление (как правило, сигнал с высокоомного источника снимается при помощи <a href="/wiki/%D0%91%D1%83%D1%84%D0%B5%D1%80%D0%BD%D1%8B%D0%B9_%D1%83%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C" title="Буферный усилитель">буферного усилителя</a>).
+</p>
+<ul><li><b>Бесконечным</b> внутренним сопротивлением обладает только идеальный <a href="/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA_%D1%82%D0%BE%D0%BA%D0%B0" title="Источник тока">источник тока</a>. Если также рассматривать двухполюсники без источников, то простой разрыв цепи (два вывода, ничем не соединённые) тоже имеет бесконечное внутреннее сопротивление.</li>
+<li><a href="/wiki/%D0%9A%D0%BE%D0%BD%D0%B4%D0%B5%D0%BD%D1%81%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%8B%D0%B9_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D1%84%D0%BE%D0%BD" title="Конденсаторный микрофон">Конденсаторные микрофоны</a>, <a class="mw-redirect" href="/wiki/%D0%9F%D1%8C%D0%B5%D0%B7%D0%BE%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D0%BA" title="Пьезоэлектрик">пьезоэлектрические</a> и <a class="mw-redirect" href="/wiki/%D0%9F%D0%B8%D1%80%D0%BE%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D0%BA" title="Пироэлектрик">пироэлектрические</a> датчики, а также все остальные «<a href="/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%BD%D0%B4%D0%B5%D0%BD%D1%81%D0%B0%D1%82%D0%BE%D1%80" title="Электрический конденсатор">конденсаторо</a>-подобные» устройства имеют реактивное внутреннее сопротивление, модуль которого может достигать<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup> десятков и сотен <a class="mw-redirect" href="/wiki/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BE%D0%BC" title="Мегаом">мегаом</a>. Поэтому такие источники требуют обязательного использования буферного усилителя для достижения согласования по напряжению. Конденсаторные микрофоны, как правило, уже содержат встроенный буферный усилитель, собранный на <a href="/wiki/%D0%9F%D0%BE%D0%BB%D0%B5%D0%B2%D0%BE%D0%B9_%D1%82%D1%80%D0%B0%D0%BD%D0%B7%D0%B8%D1%81%D1%82%D0%BE%D1%80" title="Полевой транзистор">полевом транзисторе</a>.</li>
+<li>Для измерения электрических потенциалов внутри живых <a href="/wiki/%D0%9A%D0%BB%D0%B5%D1%82%D0%BA%D0%B0" title="Клетка">клеток</a> <a href="/wiki/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4_%D0%BB%D0%BE%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9_%D1%84%D0%B8%D0%BA%D1%81%D0%B0%D1%86%D0%B8%D0%B8_%D0%BF%D0%BE%D1%82%D0%B5%D0%BD%D1%86%D0%B8%D0%B0%D0%BB%D0%B0" title="Метод локальной фиксации потенциала">применяются</a> электроды, представляющие собой стеклянный <a href="/wiki/%D0%9A%D0%B0%D0%BF%D0%B8%D0%BB%D0%BB%D1%8F%D1%80" title="Капилляр">капилляр</a>, заполненный проводящей жидкостью. Толщина такого проводника может быть порядка сотен <a href="/wiki/%D0%90%D0%BD%D0%B3%D1%81%D1%82%D1%80%D0%B5%D0%BC" title="Ангстрем">ангстрем</a>. Вследствие чрезвычайно малой толщины проводника такой «двухполюсник» (клетка с присоединёнными электродами) имеет внутреннее сопротивление порядка 100 мегаом. Высокое сопротивление и малое напряжение делают измерение напряжений внутри клетки непростой задачей.</li></ul>
+<h3><span id=".D0.9E.D1.82.D1.80.D0.B8.D1.86.D0.B0.D1.82.D0.B5.D0.BB.D1.8C.D0.BD.D0.BE.D0.B5_.D0.B2.D0.BD.D1.83.D1.82.D1.80.D0.B5.D0.BD.D0.BD.D0.B5.D0.B5_.D1.81.D0.BE.D0.BF.D1.80.D0.BE.D1.82.D0.B8.D0.B2.D0.BB.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Отрицательное_внутреннее_сопротивление">Отрицательное внутреннее сопротивление</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&amp;veaction=edit&amp;section=21" title="Редактировать раздел «Отрицательное внутреннее сопротивление»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&amp;action=edit&amp;section=21" title="Редактировать код раздела «Отрицательное внутреннее сопротивление»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Существуют двухполюсники, внутреннее сопротивление которых имеет <b>отрицательное</b> значение. В обычном <i>активном</i> сопротивлении происходит <a href="/wiki/%D0%94%D0%B8%D1%81%D1%81%D0%B8%D0%BF%D0%B0%D1%86%D0%B8%D1%8F_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D0%B8" title="Диссипация энергии">диссипация</a> энергии, в <i>реактивном</i> сопротивлении энергия запасается, а затем выделяется обратно в источник. Особенность отрицательного сопротивления в том, что оно само является источником энергии. Поэтому отрицательное сопротивление в чистом виде не встречается, оно может быть только имитировано электронной схемой, которая обязательно содержит источник энергии. Отрицательное внутреннее сопротивление может быть получено в схемах путём использования:
+</p>
+<ul><li><a href="/wiki/%D0%9E%D0%B1%D1%80%D0%B0%D1%82%D0%BD%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C_(%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0)" title="Обратная связь (техника)">обратной связи</a></li>
+<li>элементов с <a href="/wiki/%D0%9E%D1%82%D1%80%D0%B8%D1%86%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%B4%D0%B8%D1%84%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5" title="Отрицательное дифференциальное сопротивление">отрицательным дифференциальным сопротивлением</a>, например, <a href="/wiki/%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B4%D0%B8%D0%BE%D0%B4" title="Туннельный диод">туннельных диодов</a></li></ul>
+<p>Системы с отрицательным сопротивлением потенциально неустойчивы и поэтому могут быть использованы для построения <a href="/wiki/%D0%90%D0%B2%D1%82%D0%BE%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80" title="Автогенератор">автогенераторов</a>.
+</p>
+<h2><span id=".D0.A1.D0.BC._.D1.82.D0.B0.D0.BA.D0.B6.D0.B5"></span><span class="mw-headline" id="См._также">См. также</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&amp;veaction=edit&amp;section=22" title="Редактировать раздел «См. также»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&amp;action=edit&amp;section=22" title="Редактировать код раздела «См. также»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/%D0%92%D1%85%D0%BE%D0%B4%D0%BD%D0%BE%D0%B9_%D0%B8%D0%BC%D0%BF%D0%B5%D0%B4%D0%B0%D0%BD%D1%81_%D0%B0%D0%BD%D1%82%D0%B5%D0%BD%D0%BD%D1%8B" title="Входной импеданс антенны">Входной импеданс антенны</a></li></ul>
+<h2><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span><span class="mw-headline" id="Ссылки">Ссылки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&amp;veaction=edit&amp;section=23" title="Редактировать раздел «Ссылки»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&amp;action=edit&amp;section=23" title="Редактировать код раздела «Ссылки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>[www.batteryuniversity.com/partone-22.htm How does the internal battery resistance affect performance?] <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small> Как внутреннее сопротивление батареи влияет на её эксплуатационные качества.</li>
+<li><a class="external text" href="http://at-systems.ru/quest/new-quest/battery-resistance-y.shtml" rel="nofollow">Что такое внутреннее сопротивление аккумулятора?</a></li></ul>
+<h2><span id=".D0.9B.D0.B8.D1.82.D0.B5.D1.80.D0.B0.D1.82.D1.83.D1.80.D0.B0"></span><span class="mw-headline" id="Литература">Литература</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&amp;veaction=edit&amp;section=24" title="Редактировать раздел «Литература»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&amp;action=edit&amp;section=24" title="Редактировать код раздела «Литература»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i>Зернов Н. В., Карпов В.Г.</i> Теория радиотехнических цепей. — М. — Л.: Энергия, 1965. — 892 с.</li>
+<li><i>Джонс М. Х.</i> Электроника — практический курс. — М.: Техносфера, 2006. — 512 с. <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/5948360865">ISBN 5-94836-086-5</a></li>
+<li><span class="citation no-wikidata" data-wikidata-property-id="P1343" id="CITEREFGlisson2011"><i>Tildon H. Glisson.</i> <a class="external text" href="https://archive.org/details/introductiontoci00glis" rel="nofollow">Introduction to Circuit Analysis and Design</a>. — Springer, 2011. — P. <a class="external text" href="https://archive.org/details/introductiontoci00glis/page/n784" rel="nofollow">768</a>. — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9789048194421">ISBN 9789048194421</a>.</span></li></ul>
+<h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Примечания">Примечания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&amp;veaction=edit&amp;section=25" title="Редактировать раздел «Примечания»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&amp;action=edit&amp;section=25" title="Редактировать код раздела «Примечания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Импеданс является обобщением понятия сопротивление для случая реактивных элементов. Более подробно смотри в статье <a href="/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B8%D0%BC%D0%BF%D0%B5%D0%B4%D0%B0%D0%BD%D1%81" title="Электрический импеданс">Электрический импеданс</a></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Применять закон Ома в такой формулировке к двухполюсникам с внутренними источниками некорректно, необходимо учитывать источники: <i>U=Ir+ΣU<sub>int</sub></i>, где <i>ΣU<sub>int</sub></i> — алгебраическая сумма ЭДС внутренних источников.</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Отсутствие источников выражается в том, что напряжение на выводах двухполюсника при отсутствии нагрузки равно нулю. Сюда же относится случай, когда источники есть, но не влияют на выходное напряжение («никуда не подключены»).</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><i>Реза Ф., Сили С.</i>Современный анализ электрических цепей Энергия, M.-Л., 1964 г., 480 с. с черт.</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">Исключение составляют случаи применения стабилизаторов компенсационного типа. Например, двухполюсник, содержащий батарею и <a href="/wiki/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9_%D1%83%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C" title="Операционный усилитель">ОУ</a>, на некотором участке <a class="mw-redirect" href="/wiki/%D0%92%D0%90%D0%A5" title="ВАХ">ВАХ</a> может иметь как сколь угодно малое, так и <i>отрицательное</i> выходное сопротивление — до тех пор, пока избытка энергии в батарее хватает для компенсации.</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">То же самое, что и напряжение</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://eelib.narod.ru/toe/Novg_2.01/07/Ct07-6.htm" rel="nofollow">7.6. ЭНЕРГЕТИЧЕСКИЕ СООТНОШЕНИЯ В ЦЕПЯХ СИНУСОИДАЛЬНОГО ТОКА</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 6 апреля 2014. <a class="external text" href="https://web.archive.org/web/20130412082454/http://eelib.narod.ru/toe/Novg_2.01/07/Ct07-6.htm" rel="nofollow">Архивировано</a> 12 апреля 2013 года.</span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text">Тем не менее, гасящие резисторы широко применяются для ограничения пускового тока <a class="mw-disambig" href="/wiki/%D0%A2%D0%AD%D0%94" title="ТЭД">тяговых электродвигателей</a> постоянного тока на <a href="/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82" title="Электротранспорт">электротранспорте</a>.</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text">Изменение выходного напряжения не более 1,3 мВ в диапазоне выходных токов 0,005÷1,5 А. В более узком диапазоне токов 0,25÷0,75 А типичное выходное сопротивление ещё меньше — 0,0003 ома.</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text">В рабочем диапазоне частот</span>
+</li>
+</ol></div></div>
+<table class="mbox-Нет_сносок plainlinks metadata ambox ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Emblem-important.svg"><img alt="" class="mw-file-element" data-file-height="48" data-file-width="48" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Emblem-important.svg/40px-Emblem-important.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Emblem-important.svg/60px-Emblem-important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Emblem-important.svg/80px-Emblem-important.svg.png 2x" width="40"/></a></span></div></td><td class="mbox-text"><div class="mbox-text-div">В статье есть список <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D1%82%D0%BD%D1%8B%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8" title="Википедия:Авторитетные источники">источников</a>, но <b>не хватает <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BD%D0%BE%D1%81%D0%BA%D0%B8" title="Википедия:Сноски">сносок</a></b>.</div><div class="mbox-textsmall-div hide-when-compact" style="font-size:85%"><span class="hide-when-compact"> Без сносок сложно <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D1%8F%D0%B5%D0%BC%D0%BE%D1%81%D1%82%D1%8C" title="Википедия:Проверяемость">определить, из какого источника</a> взято каждое отдельное утверждение. Вы можете улучшить статью, проставив <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D0%BD%D0%B0_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8" title="Википедия:Ссылки на источники">сноски на источники</a>, подтверждающие информацию. Сведения без сносок <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D1%82%D0%BD%D1%8B%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8#Материал_без_источников" title="Википедия:Авторитетные источники">могут быть удалены</a>.</span> <span class="mbox-date"><i>(<span class="date">3 ноября 2013</span>)</i></span></div></td></tr></tbody></table>
+<div aria-labelledby="Ссылки_на_внешние_ресурсы" class="navbox" data-name="External links" role="navigation" style="padding-top:1px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup" style="display:none"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:External_links" title="Перейти к шаблону «External links»"><img alt="Перейти к шаблону «External links»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span></span><div id="Ссылки_на_внешние_ресурсы" style="font-size:114%;margin:0 5em">Ссылки на внешние ресурсы</div></th></tr><tr><th class="navbox-group" scope="row" style="width:1px"><div style="padding: 0 35px 0 0; width: 100%;"><div style="float: left;"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8" title="Перейти к шаблону «Внешние ссылки»"><img alt="Перейти к шаблону «Внешние ссылки»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span>  <span typeof="mw:File"><a href="https://www.wikidata.org/wiki/Q631203#identifiers" title="Перейти к элементу Викиданных"><img alt="Перейти к элементу Викиданных" class="mw-file-element" data-file-height="20" data-file-width="20" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/14px-OOjs_UI_icon_edit-ltr-progressive.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/21px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/28px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" width="14"/></a></span></div>  Словари и энциклопедии</div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="extiw" href="https://ru.wikisource.org/wiki/%D0%91%D0%A1%D0%AD1/%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5" title="s:БСЭ1/Внутреннее сопротивление">Большая советская (1 изд.)</a></li></ul>
+</div></td></tr></tbody></table></div>
+<table class="mbox-Спам-ссылки plainlinks metadata ambox ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Emblem-important.svg"><img alt="" class="mw-file-element" data-file-height="48" data-file-width="48" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Emblem-important.svg/40px-Emblem-important.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Emblem-important.svg/60px-Emblem-important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Emblem-important.svg/80px-Emblem-important.svg.png 2x" width="40"/></a></span></div></td><td class="mbox-text"><div class="mbox-text-div">Некоторые <b>внешние ссылки</b> в этой статье <b>ведут на сайты, занесённые в <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D1%81%D0%BF%D0%B0%D0%BC-%D0%BB%D0%B8%D1%81%D1%82%D0%B0" title="Википедия:Изменение спам-листа">спам-лист</a></b></div><div class="mbox-textsmall-div hide-when-compact" style="font-size:85%"><span class="hide-when-compact"> Эти сайты могут нарушать авторские права, быть признаны <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D1%82%D0%BD%D1%8B%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8" title="Википедия:Авторитетные источники">неавторитетными источниками</a> или по другим причинам быть запрещены в Википедии. Редакторам следует заменить такие ссылки <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8" title="Википедия:Внешние ссылки">ссылками на соответствующие правилам сайты</a> или библиографическими ссылками на печатные источники либо удалить их (возможно, вместе с подтверждаемым ими содержимым).
+  <div class="mw-collapsible mw-collapsed has-collapsible-header ts-Скрытый_блок ts-Скрытый_блок-transparent ts-Скрытый_блок-rightHideLink" style="font-size:100%;"><div class="ts-Скрытый_блок-title collapsible-header" style="">Список проблемных ссылок</div><div class="mw-collapsible-content" style="">
+<p class="mw-empty-elt">
+</p>
+<ul><li>www.batteryuniversity.com/partone-22.htm</li></ul>
+</div></div></span></div></td></tr></tbody></table></div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> -->
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Внутреннее_сопротивление&amp;oldid=129888619">https://ru.wikipedia.org/w/index.php?title=Внутреннее_сопротивление&amp;oldid=129888619</a></div></div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%AD%D0%BA%D0%B2%D0%B8%D0%B2%D0%B0%D0%BB%D0%B5%D0%BD%D1%82%D0%BD%D1%8B%D0%B5_%D1%81%D1%85%D0%B5%D0%BC%D1%8B" title="Категория:Эквивалентные схемы">Эквивалентные схемы</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F" title="Категория:Источники питания">Источники питания</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%B1%D0%B5%D0%B7_%D1%81%D0%BD%D0%BE%D1%81%D0%BE%D0%BA_%D1%81_%D0%BD%D0%BE%D1%8F%D0%B1%D1%80%D1%8F_2013_%D0%B3%D0%BE%D0%B4%D0%B0" title="Категория:Википедия:Статьи без сносок с ноября 2013 года">Википедия:Статьи без сносок с ноября 2013 года</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%B1%D0%B5%D0%B7_%D1%81%D0%BD%D0%BE%D1%81%D0%BE%D0%BA" title="Категория:Википедия:Статьи без сносок">Википедия:Статьи без сносок</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81%D0%BE_%D1%81%D0%BF%D0%B0%D0%BC-%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8" title="Категория:Википедия:Статьи со спам-ссылками">Википедия:Статьи со спам-ссылками</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B0%D0%BC%D0%B8_%D0%BD%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D1%82%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Википедия:Статьи с шаблонами недостатков по алфавиту">Википедия:Статьи с шаблонами недостатков по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B,_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D0%B2%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_ISBN" title="Категория:Страницы, использующие волшебные ссылки ISBN">Страницы, использующие волшебные ссылки ISBN</a></li></ul></div></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Навигация</h2>
+<div id="mw-head">
+<nav aria-labelledby="p-personal-label" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" id="p-personal" role="navigation">
+<h3 class="vector-menu-heading" id="p-personal-label">
+<span class="vector-menu-heading-label">Персональные инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="pt-anonuserpage"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li class="mw-list-item" id="pt-anontalk"><a accesskey="n" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]"><span>Обсуждение</span></a></li><li class="mw-list-item" id="pt-anoncontribs"><a accesskey="y" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]"><span>Вклад</span></a></li><li class="mw-list-item" id="pt-createaccount"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5+%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li class="mw-list-item" id="pt-login"><a accesskey="o" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5+%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]"><span>Войти</span></a></li>
+</ul>
+</div>
+</nav>
+<div id="left-navigation">
+<nav aria-labelledby="p-namespaces-label" class="mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-namespaces" role="navigation">
+<h3 class="vector-menu-heading" id="p-namespaces-label">
+<span class="vector-menu-heading-label">Пространства имён</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-nstab-main"><a accesskey="c" href="/wiki/%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5" title="Просмотреть контентную страницу [c]"><span>Статья</span></a></li><li class="mw-list-item" id="ca-talk"><a accesskey="t" href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5" rel="discussion" title="Обсуждение основной страницы [t]"><span>Обсуждение</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-variants-label" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" id="p-variants" role="navigation">
+<input aria-haspopup="true" aria-labelledby="p-variants-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-variants" id="p-variants-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-variants-label">
+<span class="vector-menu-heading-label">русский</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+</div>
+<div id="right-navigation">
+<nav aria-labelledby="p-views-label" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-views" role="navigation">
+<h3 class="vector-menu-heading" id="p-views-label">
+<span class="vector-menu-heading-label">Просмотры</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-view"><a href="/w/index.php?title=%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&amp;stable=1"><span>Читать</span></a></li><li class="collapsible mw-list-item" id="ca-current"><a accesskey="v" href="/w/index.php?title=%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&amp;stable=0&amp;redirect=no" title="Показать текущую версию этой страницы [v]"><span>Текущая версия</span></a></li><li class="mw-list-item" id="ca-ve-edit"><a accesskey="v" href="/w/index.php?title=%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&amp;oldid=129888619&amp;veaction=edit" title="Редактировать данную страницу [v]"><span>Править</span></a></li><li class="collapsible mw-list-item" id="ca-edit"><a accesskey="e" href="//ru.wikipedia.org/w/index.php?title=%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&amp;action=edit" title="Править исходный текст этой страницы [e]"><span>Править код</span></a></li><li class="mw-list-item" id="ca-history"><a accesskey="h" href="/w/index.php?title=%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&amp;action=history" title="Журнал изменений страницы [h]"><span>История</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-cactions-label" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" id="p-cactions" role="navigation" title="Больше возможностей">
+<input aria-haspopup="true" aria-labelledby="p-cactions-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-cactions" id="p-cactions-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-cactions-label">
+<span class="vector-menu-heading-label">Ещё</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+<div class="vector-search-box-vue vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box" id="p-search" role="search">
+<h3>Поиск</h3>
+<form action="/w/index.php" class="vector-search-box-form" id="searchform">
+<div class="vector-search-box-inner" data-search-loc="header-navigation" id="simpleSearch">
+<input accesskey="f" aria-label="Искать в Википедии" autocapitalize="sentences" class="vector-search-box-input" id="searchInput" name="search" placeholder="Искать в Википедии" title="Искать в Википедии [f]" type="search"/>
+<input name="title" type="hidden" value="Служебная:Поиск"/>
+<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Найти страницы, содержащие указанный текст" type="submit" value="Найти"/>
+<input class="searchButton" id="searchButton" name="go" title="Перейти к странице, имеющей в точности такое название" type="submit" value="Перейти"/>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="vector-legacy-sidebar" id="mw-panel">
+<div id="p-logo" role="banner">
+<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу"></a>
+</div>
+<nav aria-labelledby="p-navigation-label" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" id="p-navigation" role="navigation">
+<h3 class="vector-menu-heading" id="p-navigation-label">
+<span class="vector-menu-heading-label">Навигация</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-mainpage-description"><a accesskey="z" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]"><span>Заглавная страница</span></a></li><li class="mw-list-item" id="n-content"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li class="mw-list-item" id="n-featured"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li class="mw-list-item" id="n-randompage"><a accesskey="x" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]"><span>Случайная статья</span></a></li><li class="mw-list-item" id="n-currentevents"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li class="mw-list-item" id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-participation-label" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" id="p-participation" role="navigation">
+<h3 class="vector-menu-heading" id="p-participation-label">
+<span class="vector-menu-heading-label">Участие</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-bug_in_article"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li class="mw-list-item" id="n-introduction"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li class="mw-list-item" id="n-portal"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li class="mw-list-item" id="n-forum"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li class="mw-list-item" id="n-recentchanges"><a accesskey="r" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]"><span>Свежие правки</span></a></li><li class="mw-list-item" id="n-newpages"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li class="mw-list-item" id="n-help"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-tb-label" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" id="p-tb" role="navigation">
+<h3 class="vector-menu-heading" id="p-tb-label">
+<span class="vector-menu-heading-label">Инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="t-whatlinkshere"><a accesskey="j" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5" title="Список всех страниц, ссылающихся на данную [j]"><span>Ссылки сюда</span></a></li><li class="mw-list-item" id="t-recentchangeslinked"><a accesskey="k" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]"><span>Связанные правки</span></a></li><li class="mw-list-item" id="t-specialpages"><a accesskey="q" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]"><span>Служебные страницы</span></a></li><li class="mw-list-item" id="t-permalink"><a href="/w/index.php?title=%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&amp;oldid=129888619" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li class="mw-list-item" id="t-info"><a href="/w/index.php?title=%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li class="mw-list-item" id="t-cite"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&amp;id=129888619&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li class="mw-list-item" id="t-urlshortener"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%2592%25D0%25BD%25D1%2583%25D1%2582%25D1%2580%25D0%25B5%25D0%25BD%25D0%25BD%25D0%25B5%25D0%25B5_%25D1%2581%25D0%25BE%25D0%25BF%25D1%2580%25D0%25BE%25D1%2582%25D0%25B8%25D0%25B2%25D0%25BB%25D0%25B5%25D0%25BD%25D0%25B8%25D0%25B5"><span>Получить короткий URL</span></a></li><li class="mw-list-item" id="t-urlshortener-qrcode"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%2592%25D0%25BD%25D1%2583%25D1%2582%25D1%2580%25D0%25B5%25D0%25BD%25D0%25BD%25D0%25B5%25D0%25B5_%25D1%2581%25D0%25BE%25D0%25BF%25D1%2580%25D0%25BE%25D1%2582%25D0%25B8%25D0%25B2%25D0%25BB%25D0%25B5%25D0%25BD%25D0%25B8%25D0%25B5"><span>Скачать QR-код</span></a></li><li class="mw-list-item" id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q631203" title="Ссылка на связанный элемент репозитория данных [g]"><span>Элемент Викиданных</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-coll-print_export-label" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" id="p-coll-print_export" role="navigation">
+<h3 class="vector-menu-heading" id="p-coll-print_export-label">
+<span class="vector-menu-heading-label">Печать/экспорт</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="coll-download-as-rl"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B3&amp;bookcmd=render_article&amp;arttitle=%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5+%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&amp;returnto=%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5+%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&amp;oldid=132333009&amp;writer=rl" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li class="mw-list-item" id="t-print"><a accesskey="p" href="/w/index.php?title=%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&amp;printable=yes" title="Версия этой страницы для печати [p]"><span>Версия для печати</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-electronpdfservice-sidebar-portlet-heading-label" class="mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading emptyPortlet vector-menu-portal portal vector-menu" id="p-electronpdfservice-sidebar-portlet-heading" role="navigation">
+<h3 class="vector-menu-heading" id="p-electronpdfservice-sidebar-portlet-heading-label">
+<span class="vector-menu-heading-label">Печать/экспорт</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-lang-label" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" id="p-lang" role="navigation">
+<h3 class="vector-menu-heading" id="p-lang-label">
+<span class="vector-menu-heading-label">На других языках</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="interlanguage-link interwiki-ar mw-list-item"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%85%D8%B9%D8%A7%D9%88%D9%82%D8%A9_%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9" hreflang="ar" lang="ar" title="معاوقة خارجية — арабский"><span>العربية</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Imped%C3%A0ncia_de_sortida" hreflang="ca" lang="ca" title="Impedància de sortida — каталанский"><span>Català</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Ausgangswiderstand" hreflang="de" lang="de" title="Ausgangswiderstand — немецкий"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a class="interlanguage-link-target" href="https://en.wikipedia.org/wiki/Output_impedance" hreflang="en" lang="en" title="Output impedance — английский"><span>English</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Interna_rezisto" hreflang="eo" lang="eo" title="Interna rezisto — эсперанто"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Impedancia_de_salida" hreflang="es" lang="es" title="Impedancia de salida — испанский"><span>Español</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%A7%D9%85%D9%BE%D8%AF%D8%A7%D9%86%D8%B3_%D8%AE%D8%B1%D9%88%D8%AC%DB%8C" hreflang="fa" lang="fa" title="امپدانس خروجی — персидский"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%A2%D7%9B%D7%91%D7%AA_%D7%9E%D7%95%D7%A6%D7%90" hreflang="he" lang="he" title="עכבת מוצא — иврит"><span>עברית</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E5%86%85%E9%83%A8%E6%8A%B5%E6%8A%97" hreflang="ja" lang="ja" title="内部抵抗 — японский"><span>日本語</span></a></li><li class="interlanguage-link interwiki-kk mw-list-item"><a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%86%D1%88%D0%BA%D1%96_%D0%BA%D0%B5%D0%B4%D0%B5%D1%80%D0%B3%D1%96" hreflang="kk" lang="kk" title="Ішкі кедергі — казахский"><span>Қазақша</span></a></li><li class="interlanguage-link interwiki-lt mw-list-item"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Vidin%C4%97_var%C5%BEa" hreflang="lt" lang="lt" title="Vidinė varža — литовский"><span>Lietuvių</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Indre_motstand" hreflang="nb" lang="nb" title="Indre motstand — норвежский букмол"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Impedancja_wyj%C5%9Bciowa" hreflang="pl" lang="pl" title="Impedancja wyjściowa — польский"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Imped%C3%A2ncia_de_sa%C3%ADda" hreflang="pt" lang="pt" title="Impedância de saída — португальский"><span>Português</span></a></li><li class="interlanguage-link interwiki-ta mw-list-item"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%B5%E0%AF%86%E0%AE%B3%E0%AE%BF%E0%AE%AF%E0%AF%80%E0%AE%9F%E0%AF%81_%E0%AE%AE%E0%AE%BF%E0%AE%A9%E0%AF%8D%E0%AE%AE%E0%AE%B1%E0%AF%81%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81" hreflang="ta" lang="ta" title="வெளியீடு மின்மறுப்பு — тамильский"><span>தமிழ்</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%92%D0%BD%D1%83%D1%82%D1%80%D1%96%D1%88%D0%BD%D1%96%D0%B9_%D0%BE%D0%BF%D1%96%D1%80" hreflang="uk" lang="uk" title="Внутрішній опір — украинский"><span>Українська</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E8%BE%93%E5%87%BA%E9%98%BB%E6%8A%97" hreflang="zh" lang="zh" title="输出阻抗 — китайский"><span>中文</span></a></li>
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q631203#sitelinks-wikipedia" title="Править ссылки на другие языки">Править ссылки</a></span></div>
+</div>
+</nav>
+</div>
+</div>
+<footer class="mw-footer" id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 18 апреля 2023 в 01:21.</li>
+<li id="footer-info-copyright">Текст доступен по <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru" rel="license">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a><a href="//creativecommons.org/licenses/by-sa/4.0/" rel="license" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br/>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org/ru/">Фонд Викимедиа (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//ru.m.wikipedia.org/w/index.php?title=%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&amp;mobileaction=toggle_view_mobile">Мобильная версия</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" loading="lazy" src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88"/></a></li>
+<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" loading="lazy" src="/static/images/footer/poweredby_mediawiki_88x31.png" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88"/></a></li>
+</ul>
+</footer>
+
+
+</body>
+</html>

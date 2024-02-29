@@ -1,0 +1,556 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="ru">
+<head>
+<meta charset="utf-8"/>
+<title>ДНК-метилтрансфераза — Википедия</title>
+
+
+
+
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+
+
+<meta content="MediaWiki 1.42.0-wmf.19" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="max-image-preview:standard" name="robots"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/2/2a/Dmnt1-site.JPG" property="og:image"/>
+<meta content="1200" property="og:image:width"/>
+<meta content="492" property="og:image:height"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/2/2a/Dmnt1-site.JPG" property="og:image"/>
+<meta content="800" property="og:image:width"/>
+<meta content="328" property="og:image:height"/>
+<meta content="640" property="og:image:width"/>
+<meta content="262" property="og:image:height"/>
+<meta content="width=1000" name="viewport"/>
+<meta content="ДНК-метилтрансфераза — Википедия" property="og:title"/>
+<meta content="website" property="og:type"/>
+
+
+
+
+
+
+
+
+
+
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-ДНК-метилтрансфераза rootpage-ДНК-метилтрансфераза skin-vector action-view"><div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators">
+</div>
+<h1 class="firstHeading mw-first-heading" id="firstHeading"><span class="mw-page-title-main">ДНК-метилтрансфераза</span></h1>
+<div class="vector-body" id="bodyContent">
+<div class="noprint" id="siteSub">Материал из Википедии — свободной энциклопедии</div>
+<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+<div id="contentSub2"></div>
+<div id="jump-to-nav"></div>
+<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+<div class="mw-body-content" id="mw-content-text"><div class="mw-content-ltr mw-parser-output" dir="ltr" lang="ru"><p><b>ДНК-метилтрансфера́зы</b> (<i>ДНК-метилазы,</i> <a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">DNA methyltransferase, DNA MTase, DNMT</span>) — группа <a class="mw-redirect" href="/wiki/%D0%A4%D0%B5%D1%80%D0%BC%D0%B5%D0%BD%D1%82" title="Фермент">ферментов</a>, катализирующих <a href="/wiki/%D0%9C%D0%B5%D1%82%D0%B8%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" title="Метилирование">метилирование</a> <a href="/wiki/%D0%9D%D1%83%D0%BA%D0%BB%D0%B5%D0%BE%D1%82%D0%B8%D0%B4%D1%8B" title="Нуклеотиды">нуклеотидных остатков</a> в составе <a class="mw-redirect" href="/wiki/%D0%94%D0%9D%D0%9A" title="ДНК">ДНК</a>. Активность метилтрансфераз, заключающаяся в <a href="/wiki/%D0%9C%D0%B5%D1%82%D0%B8%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%94%D0%9D%D0%9A" title="Метилирование ДНК">переносе метильных (CH<sub>3</sub>—) групп</a> на азотистое основание <a href="/wiki/%D0%A6%D0%B8%D1%82%D0%BE%D0%B7%D0%B8%D0%BD" title="Цитозин">цитозин</a> в составе ДНК, ведет к изменению свойств ДНК, при этом изменяется активность, функции соответствующих генов, а также пространственная структура нуклеиновой кислоты (<a href="/wiki/%D0%9A%D0%BE%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F" title="Конформация">конформация</a>).
+</p><p>ДНК-метилтрансферазной активностью обладают несколько групп ферментов<sup class="ts-fix-template noprint">[<i><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D0%BD%D0%B0_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8" title="Википедия:Ссылки на источники"><span title="нет источника (28 ноября 2010)">источник не указан 4840 дней</span></a></i>]</sup>:
+</p>
+<ul><li>цитозин(C5)-ДНК-метилтрансферазы (<a class="mw-redirect" href="/wiki/%D0%9A%D0%A4" title="КФ">КФ</a> <a class="external text" href="http://www.expasy.org/cgi-bin/nicezyme.pl?2.1.1.37" rel="nofollow">2.1.1.37</a> <a class="external text" href="https://web.archive.org/web/20110525165723/http://www.expasy.org/cgi-bin/nicezyme.pl?2.1.1.37" rel="nofollow">Архивная копия</a> от 25 мая 2011 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>) — ферменты, ответственные за поддержание <a href="/wiki/%D0%9C%D0%B5%D1%82%D0%B8%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%94%D0%9D%D0%9A" title="Метилирование ДНК">картины метилирования</a> <a href="/wiki/%D0%93%D0%B5%D0%BD%D0%BE%D0%BC" title="Геном">генома</a> клетки;</li>
+<li>ферменты <a class="mw-redirect" href="/wiki/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D0%BC%D0%BE%D0%B4%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8-%D1%80%D0%B5%D1%81%D1%82%D1%80%D0%B8%D0%BA%D1%86%D0%B8%D0%B8" title="Система модификации-рестрикции">системы рестрикции-модификации</a>, проявляющие <a class="mw-redirect" href="/wiki/%D0%9A%D0%A4" title="КФ">КФ</a> <a class="external text" href="http://www.expasy.org/cgi-bin/nicezyme.pl?2.1.1.72" rel="nofollow">2.1.1.72</a> <a class="external text" href="https://web.archive.org/web/20110525172137/http://www.expasy.org/cgi-bin/nicezyme.pl?2.1.1.72" rel="nofollow">Архивная копия</a> от 25 мая 2011 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> (аденин(N6)-ДНК-метилтрансферазная) и <a class="mw-redirect" href="/wiki/%D0%9A%D0%A4" title="КФ">КФ</a> <a class="external text" href="http://www.expasy.org/cgi-bin/nicezyme.pl?2.1.1.113" rel="nofollow">2.1.1.113</a> <a class="external text" href="https://web.archive.org/web/20110525174522/http://www.expasy.org/cgi-bin/nicezyme.pl?2.1.1.113" rel="nofollow">Архивная копия</a> от 25 мая 2011 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> (цитозин(N4)-ДНК-метилтрансферазная) активности (которые, в сущности, не являются основными для этих ферментов); примерами могут служить ферменты PvuII и TaqI.</li></ul>
+<p>Все известные ДНК-метилтрансферазы используют в качестве <a class="mw-disambig" href="/wiki/%D0%94%D0%BE%D0%BD%D0%BE%D1%80" title="Донор">донора</a> метильной группы <a class="mw-redirect" href="/wiki/S-%D0%B0%D0%B4%D0%B5%D0%BD%D0%BE%D0%B7%D0%B8%D0%BB-%D0%BC%D0%B5%D1%82%D0%B8%D0%BE%D0%BD%D0%B8%D0%BD" title="S-аденозил-метионин">S-аденозил-метионин</a>.
+</p>
+<div class="ts-TOC_left"><div aria-labelledby="mw-toc-heading" class="toc" id="toc" role="navigation"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="ru"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#ДНК-метилтрансферазы_млекопитающих"><span class="tocnumber">1</span> <span class="toctext">ДНК-метилтрансферазы млекопитающих</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Семейство_DNMT1"><span class="tocnumber">1.1</span> <span class="toctext">Семейство DNMT1</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Семейство_DNMT2_(TRDMT1)"><span class="tocnumber">1.2</span> <span class="toctext">Семейство DNMT2 (TRDMT1)</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Семейство_DNMT3"><span class="tocnumber">1.3</span> <span class="toctext">Семейство DNMT3</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#ДНК-метилтрансферазы_растений"><span class="tocnumber">2</span> <span class="toctext">ДНК-метилтрансферазы растений</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Семейство_Met1"><span class="tocnumber">2.1</span> <span class="toctext">Семейство Met1</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Семейство_хромометилаз_(CMT)"><span class="tocnumber">2.2</span> <span class="toctext">Семейство хромометилаз (CMT)</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Семейство_DRM"><span class="tocnumber">2.3</span> <span class="toctext">Семейство DRM</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Другие_ДНК-метилтрансферазы_растений"><span class="tocnumber">2.4</span> <span class="toctext">Другие ДНК-метилтрансферазы растений</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#ДНК-метилтрансферазы_грибов"><span class="tocnumber">3</span> <span class="toctext">ДНК-метилтрансферазы грибов</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#ДНК-метилтрансферазы_Ascobolus"><span class="tocnumber">3.1</span> <span class="toctext">ДНК-метилтрансферазы <i>Ascobolus</i></span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#ДНК-метилтрансфераза_Neurospora_crassa"><span class="tocnumber">3.2</span> <span class="toctext">ДНК-метилтрансфераза <i>Neurospora crassa</i></span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#См._также"><span class="tocnumber">4</span> <span class="toctext">См. также</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Литература"><span class="tocnumber">5</span> <span class="toctext">Литература</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Ссылки"><span class="tocnumber">6</span> <span class="toctext">Ссылки</span></a></li>
+</ul>
+</div>
+</div>
+<p>Цитозин(C5)-ДНК-метилтрансферазы катализируют перенос метильной группы от S-аденозил-метионина на <a class="mw-redirect" href="/wiki/%D0%9E%D1%81%D1%82%D0%B0%D1%82%D0%BE%D0%BA_(%D1%85%D0%B8%D0%BC%D0%B8%D1%8F)" title="Остаток (химия)">остаток</a> <a href="/wiki/%D0%A6%D0%B8%D1%82%D0%BE%D0%B7%D0%B8%D0%BD" title="Цитозин">цитозина</a>, находящегося в специфической последовательности в двухцепочечной <a class="mw-redirect" href="/wiki/%D0%94%D0%9D%D0%9A" title="ДНК">ДНК</a>, с образованием <a class="new" href="/w/index.php?title=5-%D0%BC%D0%B5%D1%82%D0%B8%D0%BB%D1%86%D0%B8%D1%82%D0%BE%D0%B7%D0%B8%D0%BD&amp;action=edit&amp;redlink=1" title="5-метилцитозин (страница отсутствует)">5-метилцитозина</a> и S-<a class="new" href="/w/index.php?title=%D0%90%D0%B4%D0%B5%D0%BD%D0%BE%D0%B7%D0%B8%D0%BB%D0%B3%D0%BE%D0%BC%D0%BE%D1%86%D0%B8%D1%81%D1%82%D0%B5%D0%B8%D0%BD&amp;action=edit&amp;redlink=1" title="Аденозилгомоцистеин (страница отсутствует)">аденозилгомоцистеина</a>. Эта реакция необратима. Сравнение структуры <a href="/wiki/%D0%9F%D1%80%D0%BE%D0%BA%D0%B0%D1%80%D0%B8%D0%BE%D1%82%D1%8B" title="Прокариоты">прокариотических</a> и <a href="/wiki/%D0%AD%D1%83%D0%BA%D0%B0%D1%80%D0%B8%D0%BE%D1%82%D1%8B" title="Эукариоты">эукариотических</a> ДНК-метилтрансфераз позволяет отнести их к одному классу <a class="mw-redirect" href="/wiki/%D0%A4%D0%B5%D1%80%D0%BC%D0%B5%D0%BD%D1%82" title="Фермент">ферментов</a>. Все эти ферменты представляют собой мономерные белки, содержащие консервативные <a href="/wiki/%D0%93%D0%BE%D0%BC%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Гомология (биология)">гомологичные</a> участки (<a href="/wiki/%D0%9C%D0%BE%D1%82%D0%B8%D0%B2_(%D0%BC%D0%BE%D0%BB%D0%B5%D0%BA%D1%83%D0%BB%D1%8F%D1%80%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Мотив (молекулярная биология)">мотивы</a>), ответственные за ферментативные функции. У большинства цитозин(C5)-ДНК-метилтрансфераз насчитывают до 10-ти таких участков. Среди них различают 4 умеренногомологичных мотива (II, III, V, VII), которые могут отсутствовать у некоторых ферментов, и 6 высокогомологичных мотивов (I, IV, VI, VIII, IX, X). Между участками VIII и IX расположен <a href="/wiki/%D0%94%D0%BE%D0%BC%D0%B5%D0%BD_%D0%B1%D0%B5%D0%BB%D0%BA%D0%B0" title="Домен белка">домен</a> TRD (<i>target-recognizing domen</i>, мишень-распознающий домен), длина и аминокислотный состав которого вариабельны.
+</p><p>После <a class="mw-redirect" href="/wiki/%D0%A0%D0%B5%D0%BF%D0%BB%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Репликация (биология)">репликации</a> ДНК эукариотические ДНК-метилазы метилируют <a href="/wiki/%D0%A6%D0%B8%D1%82%D0%BE%D0%B7%D0%B8%D0%BD" title="Цитозин">цитозин</a> по сайтам CpG и CpNpG во вновь синтезированных цепях. Далее эукариотические ДНК-метилазы выполняют функцию поддержания метилирования<sup class="ts-fix-template noprint">[<i><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D0%BD%D0%B0_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8" title="Википедия:Ссылки на источники"><span title="нет источника (28 ноября 2010)">источник не указан 4840 дней</span></a></i>]</sup> <a href="/wiki/%D0%9C%D0%B5%D1%82%D0%B8%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%94%D0%9D%D0%9A" title="Метилирование ДНК">метилирование ДНК</a> <i>de novo</i> по уже отмеченным сайтам.
+</p>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Dmnt1-site.JPG"><img class="mw-file-element" data-file-height="130" data-file-width="317" decoding="async" height="123" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Dmnt1-site.JPG/300px-Dmnt1-site.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/2/2a/Dmnt1-site.JPG 1.5x" width="300"/></a><figcaption>Субстратная специфичность ДНК-метилтрансфераз семейства DNMT1. Полуметилированный дуплекс определяет метилирование цитозина в нижней цепи. Наличие пары *С с гуанином в верхней цепи необязательно. Асимметричный сайт узнавания заключён в рамку</figcaption></figure>
+<h2><span id=".D0.94.D0.9D.D0.9A-.D0.BC.D0.B5.D1.82.D0.B8.D0.BB.D1.82.D1.80.D0.B0.D0.BD.D1.81.D1.84.D0.B5.D1.80.D0.B0.D0.B7.D1.8B_.D0.BC.D0.BB.D0.B5.D0.BA.D0.BE.D0.BF.D0.B8.D1.82.D0.B0.D1.8E.D1.89.D0.B8.D1.85"></span><span class="mw-headline" id="ДНК-метилтрансферазы_млекопитающих">ДНК-метилтрансферазы млекопитающих</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%94%D0%9D%D0%9A-%D0%BC%D0%B5%D1%82%D0%B8%D0%BB%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%B5%D1%80%D0%B0%D0%B7%D0%B0&amp;veaction=edit&amp;section=1" title="Редактировать раздел «ДНК-метилтрансферазы млекопитающих»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%94%D0%9D%D0%9A-%D0%BC%D0%B5%D1%82%D0%B8%D0%BB%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%B5%D1%80%D0%B0%D0%B7%D0%B0&amp;action=edit&amp;section=1" title="Редактировать код раздела «ДНК-метилтрансферазы млекопитающих»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>У <a href="/wiki/%D0%9C%D0%BB%D0%B5%D0%BA%D0%BE%D0%BF%D0%B8%D1%82%D0%B0%D1%8E%D1%89%D0%B8%D0%B5" title="Млекопитающие">млекопитающих</a> обнаружены четыре активных ДНК-метилтрансферазы: DNMT1, DNMT2 (TRDMT1), <a class="mw-redirect" href="/wiki/DNMT3a" title="DNMT3a">DNMT3a</a> и DNMT3b<sup class="ts-fix-template noprint">[<i><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D0%BD%D0%B0_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8" title="Википедия:Ссылки на источники"><span title="нет источника (28 ноября 2010)">источник не указан 4840 дней</span></a></i>]</sup>. Также обнаружен белок, структурно схожий с семейством DNMT3, но не проявляющий метилтрансферазной активности — DNMT3L (DNMT3-<i>like</i>).
+</p>
+<h3><span id=".D0.A1.D0.B5.D0.BC.D0.B5.D0.B9.D1.81.D1.82.D0.B2.D0.BE_DNMT1"></span><span class="mw-headline" id="Семейство_DNMT1">Семейство DNMT1</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%94%D0%9D%D0%9A-%D0%BC%D0%B5%D1%82%D0%B8%D0%BB%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%B5%D1%80%D0%B0%D0%B7%D0%B0&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Семейство DNMT1»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%94%D0%9D%D0%9A-%D0%BC%D0%B5%D1%82%D0%B8%D0%BB%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%B5%D1%80%D0%B0%D0%B7%D0%B0&amp;action=edit&amp;section=2" title="Редактировать код раздела «Семейство DNMT1»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>ДНК-метилтрансфераза семейства DNMT1 мыши представляет собой белок с <a href="/wiki/%D0%9C%D0%BE%D0%BB%D0%B5%D0%BA%D1%83%D0%BB%D1%8F%D1%80%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B0%D1%81%D1%81%D0%B0" title="Молекулярная масса">молекулярной массой</a> 190 кДа, содержащий 1620 <a href="/wiki/%D0%90%D0%BC%D0%B8%D0%BD%D0%BE%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D1%8B" title="Аминокислоты">аминокислотных остатков</a>. Основная активность этого фермента заключается в метилировании полуметилированных сайтов CpG. Молекула ДНК-метилтрансферазы DNMT1 значительно больше прокариотического фермента за счёт наличия N-концевого регуляторного участка, составляющего ²/<sub>3</sub> от всей длины полипептидной цепи. Именно этот участок отвечает за «предпочтение» ферментом полуметилированных сайтов перед неметилированными. Регуляторный N-концевой участок соединён с каталитическим C-концевым при помощи <a href="/wiki/%D0%93%D0%BB%D0%B8%D1%86%D0%B8%D0%BD" title="Глицин">Gly</a>-<a href="/wiki/%D0%9B%D0%B8%D0%B7%D0%B8%D0%BD" title="Лизин">Lys</a>-повторов. Считается, что <a href="/wiki/%D0%93%D0%B5%D0%BD" title="Ген">ген</a> <i>dnmt1</i> образовался путём слияния гена прокариотической ДНК-метилазы с одним или двумя генами <a class="new" href="/w/index.php?title=%D0%94%D0%9D%D0%9A-%D1%81%D0%B2%D1%8F%D0%B7%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B5_%D0%B1%D0%B5%D0%BB%D0%BA%D0%B8&amp;action=edit&amp;redlink=1" title="ДНК-связывающие белки (страница отсутствует)">ДНК-связывающих белков</a>.
+</p>
+<table align="right" class="standard" style="margin-left: 1em;">
+<caption>Белки, ассоциированные с ДНК-метилтрансферазами (<i>Buryanov, Shevchuk, 2005</i>)
+</caption>
+<tbody><tr>
+<th>ДНК-метил-<br/>трансфераза</th>
+<th>Ассоциированный <br/> белок</th>
+<th>Функция <br/> ассоциированного белка
+</th></tr>
+<tr>
+<td rowspan="15">DNMT1
+</td>
+<td>DNMT3a
+</td>
+<td>метилирование ДНК <br/> <i>de novo</i>
+</td></tr>
+<tr>
+<td>DNMT3b
+</td>
+<td>та же
+</td></tr>
+<tr>
+<td>HDAC1
+</td>
+<td><a class="mw-redirect" href="/wiki/%D0%94%D0%B5%D0%B0%D1%86%D0%B5%D1%82%D0%B8%D0%BB%D0%B0%D0%B7%D0%B0" title="Деацетилаза">деацетилаза</a> гистонов
+</td></tr>
+<tr>
+<td>HDAC2
+</td>
+<td>та же
+</td></tr>
+<tr>
+<td>SUV39H1
+</td>
+<td>метилтрансфераза <br/> <a class="mw-redirect" href="/wiki/%D0%93%D0%B8%D1%81%D1%82%D0%BE%D0%BD" title="Гистон">гистона</a> H3 (Lys9)
+</td></tr>
+<tr>
+<td>Rb
+</td>
+<td>опухолевый супрессор
+</td></tr>
+<tr>
+<td>PML-RAR
+</td>
+<td><a href="/wiki/%D0%9E%D0%BD%D0%BA%D0%BE%D0%B3%D0%B5%D0%BD" title="Онкоген">онкогенный</a> <br/> транскрипционный фактор
+</td></tr>
+<tr>
+<td>DMAP1
+</td>
+<td>транскрипционный <br/> корепрессор
+</td></tr>
+<tr>
+<td>hSNF2H
+</td>
+<td>белок, задействованный <br/> в перестройках <br/> <a href="/wiki/%D0%A5%D1%80%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%BD" title="Хроматин">хроматина</a>
+</td></tr>
+<tr>
+<td>PCNA
+</td>
+<td>фактор <br/> <a class="mw-redirect" href="/wiki/%D0%A0%D0%B5%D0%BF%D0%BB%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Репликация (биология)">репликации ДНК</a>
+</td></tr>
+<tr>
+<td>MBD2
+</td>
+<td>связывание с <br/> метилированными CpG <br/> сайтами
+</td></tr>
+<tr>
+<td>MBD3
+</td>
+<td>та же
+</td></tr>
+<tr>
+<td>MeCP2
+</td>
+<td>та же
+</td></tr>
+<tr>
+<td>HP1β
+</td>
+<td>белок <br/> гетеро<a href="/wiki/%D0%A5%D1%80%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%BD" title="Хроматин">хроматина</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A0%D0%9D%D0%9A-%D0%BF%D0%BE%D0%BB%D0%B8%D0%BC%D0%B5%D1%80%D0%B0%D0%B7%D0%B0" title="РНК-полимераза">РНК-полимераза II</a>
+</td>
+<td><a href="/wiki/%D0%A0%D0%9D%D0%9A-%D0%BF%D0%BE%D0%BB%D0%B8%D0%BC%D0%B5%D1%80%D0%B0%D0%B7%D0%B0" title="РНК-полимераза">РНК-полимераза II</a>
+</td></tr>
+<tr>
+<td rowspan="8">DNMT3a
+</td>
+<td>DNMT1
+</td>
+<td>поддерживающее <br/> метилирование ДНК
+</td></tr>
+<tr>
+<td>DNMT3L
+</td>
+<td>репрессор транскрипции
+</td></tr>
+<tr>
+<td>HDAC1
+</td>
+<td><a class="mw-redirect" href="/wiki/%D0%94%D0%B5%D0%B0%D1%86%D0%B5%D1%82%D0%B8%D0%BB%D0%B0%D0%B7%D0%B0" title="Деацетилаза">деацетилаза</a> гистонов
+</td></tr>
+<tr>
+<td>SUV39H1
+</td>
+<td>метилтрансфераза <br/> <a class="mw-redirect" href="/wiki/%D0%93%D0%B8%D1%81%D1%82%D0%BE%D0%BD" title="Гистон">гистона</a> H3 (Lys9)
+</td></tr>
+<tr>
+<td>PML-RAR
+</td>
+<td><a href="/wiki/%D0%9E%D0%BD%D0%BA%D0%BE%D0%B3%D0%B5%D0%BD" title="Онкоген">онкогенный</a> <br/> транскрипционный фактор
+</td></tr>
+<tr>
+<td>RP58
+</td>
+<td>транскрипционный <br/> корепрессор
+</td></tr>
+<tr>
+<td>HP1β
+</td>
+<td>белок <br/> гетеро<a href="/wiki/%D0%A5%D1%80%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%BD" title="Хроматин">хроматина</a>
+</td></tr>
+<tr>
+<td>SUMO-1
+</td>
+<td><a href="/wiki/%D0%A3%D0%B1%D0%B8%D0%BA%D0%B2%D0%B8%D1%82%D0%B8%D0%BD" title="Убиквитин">убиквитинподобный</a> <br/> белок
+</td></tr>
+<tr>
+<td rowspan="4">DNMT3b
+</td>
+<td>DNMT1
+</td>
+<td>поддерживающее <br/> метилирование ДНК
+</td></tr>
+<tr>
+<td>DNMT3L
+</td>
+<td>репрессор транскрипции
+</td></tr>
+<tr>
+<td>HDAC1
+</td>
+<td><a class="mw-redirect" href="/wiki/%D0%94%D0%B5%D0%B0%D1%86%D0%B5%D1%82%D0%B8%D0%BB%D0%B0%D0%B7%D0%B0" title="Деацетилаза">деацетилаза</a> гистонов
+</td></tr>
+<tr>
+<td>SUMO-1
+</td>
+<td><a href="/wiki/%D0%A3%D0%B1%D0%B8%D0%BA%D0%B2%D0%B8%D1%82%D0%B8%D0%BD" title="Убиквитин">убиквитинподобный</a> <br/> белок
+</td></tr>
+<tr>
+<td rowspan="3">DNMT3L
+</td>
+<td>DNMT3a
+</td>
+<td>метилирование ДНК <br/> <i>de novo</i>
+</td></tr>
+<tr>
+<td>DNMT3b
+</td>
+<td>та же
+</td></tr>
+<tr>
+<td>HDAC1
+</td>
+<td><a class="mw-redirect" href="/wiki/%D0%94%D0%B5%D0%B0%D1%86%D0%B5%D1%82%D0%B8%D0%BB%D0%B0%D0%B7%D0%B0" title="Деацетилаза">деацетилаза</a> гистонов
+</td></tr>
+<tr>
+<td>CMT3
+</td>
+<td>гомолог HP1
+</td>
+<td>белок <br/> гетеро<a href="/wiki/%D0%A5%D1%80%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%BD" title="Хроматин">хроматина</a>
+</td></tr></tbody></table>
+<p>N-концевой домен содержит различные специфические последовательности, такие как <a href="/wiki/%D0%A1%D0%B8%D0%B3%D0%BD%D0%B0%D0%BB_%D1%8F%D0%B4%D0%B5%D1%80%D0%BD%D0%BE%D0%B9_%D0%BB%D0%BE%D0%BA%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8" title="Сигнал ядерной локализации">сигнал ядерной локализации</a> (NLS, <i>nuclear localization signal</i>), цистеин-богатый Zn-связывающий мотив и специальная последовательность, направляющая метилазу в область репликации ДНК (TRF, <i>protein targeting to DNA replication foci</i>). Фермент локализуется в областях репликации ДНК в течение S-фазы <a href="/wiki/%D0%9A%D0%BB%D0%B5%D1%82%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_%D1%86%D0%B8%D0%BA%D0%BB" title="Клеточный цикл">клеточного цикла</a>, а после её завершения диффундирует в <a href="/wiki/%D0%9D%D1%83%D0%BA%D0%BB%D0%B5%D0%BE%D0%BF%D0%BB%D0%B0%D0%B7%D0%BC%D0%B0" title="Нуклеоплазма">нуклеоплазму</a>. Также N-концевой домен фермента DNMT1 содержит последовательность, гомологичную репрессору транскрипции HRX, с помощью которой ДНК-метилаза <i>in vivo</i> способна ассоциироваться с деацетилазой гистонов.
+</p><p>Человеческий фермент DNMT1 принципиально не отличается от мышиного.
+</p><p>Фермент DNMT1 имеет несколько изоформ: соматический DNMT1, промежуточный вариант (DNMT1b) и изоформа, характерная для <a href="/wiki/%D0%9E%D0%BE%D1%86%D0%B8%D1%82" title="Ооцит">ооцитов</a> (DNMT1o). DNMT1o синтезируется и накапливается в <a href="/wiki/%D0%A6%D0%B8%D1%82%D0%BE%D0%BF%D0%BB%D0%B0%D0%B7%D0%BC%D0%B0" title="Цитоплазма">цитоплазме</a> <a href="/wiki/%D0%9E%D0%BE%D1%86%D0%B8%D1%82" title="Ооцит">ооцитов</a>, а затем, во время раннего <a class="mw-redirect" href="/wiki/%D0%AD%D0%BC%D0%B1%D1%80%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D1%82%D0%B8%D0%B5" title="Эмбриональное развитие">эмбрионального развития</a>, транспортируется в клеточное ядро (соматический же DNMT1 постоянно локализуется в ядре).
+</p><p>Фермент может проявлять аномальную метилирующую активность, в частности, метилируя CpG-пары в области петли одноцепочечной ДНК, уже содержащей метилированные сайты CpG<sup class="ts-fix-template noprint">[<i><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D0%BD%D0%B0_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8" title="Википедия:Ссылки на источники"><span title="нет источника (28 ноября 2010)">источник не указан 4840 дней</span></a></i>]</sup>.
+</p><p>Инактивация мышиного фермента DNMT1 приводит к значительному (до 70 %) уменьшению метилирования <a href="/wiki/%D0%93%D0%B5%D0%BD%D0%BE%D0%BC" title="Геном">генома</a> и к гибели развивающихся <a href="/wiki/%D0%AD%D0%BC%D0%B1%D1%80%D0%B8%D0%BE%D0%BD" title="Эмбрион">эмбрионов</a> на 10-11 день развития. Оставшийся уровень в 30 % и способность <a href="/wiki/%D0%A1%D1%82%D0%B2%D0%BE%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5_%D0%BA%D0%BB%D0%B5%D1%82%D0%BA%D0%B8" title="Стволовые клетки">стволовых клеток</a> к метилированию <a href="/wiki/%D0%A0%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D0%B8%D1%80%D1%83%D1%81%D1%8B" title="Ретровирусы">ретровирусной</a> ДНК <i>de novo</i> обеспечиваются другими ДНК-метилтрансферазами.
+</p>
+<h3><span id=".D0.A1.D0.B5.D0.BC.D0.B5.D0.B9.D1.81.D1.82.D0.B2.D0.BE_DNMT2_.28TRDMT1.29"></span><span class="mw-headline" id="Семейство_DNMT2_(TRDMT1)">Семейство DNMT2 (TRDMT1)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%94%D0%9D%D0%9A-%D0%BC%D0%B5%D1%82%D0%B8%D0%BB%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%B5%D1%80%D0%B0%D0%B7%D0%B0&amp;veaction=edit&amp;section=3" title="Редактировать раздел «Семейство DNMT2 (TRDMT1)»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%94%D0%9D%D0%9A-%D0%BC%D0%B5%D1%82%D0%B8%D0%BB%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%B5%D1%80%D0%B0%D0%B7%D0%B0&amp;action=edit&amp;section=3" title="Редактировать код раздела «Семейство DNMT2 (TRDMT1)»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>ДНК-метилтрансфераза DNMT2 состоит из 415-ти аминокислотных остатков и не содержит N-концевого регуляторного домена. Инактивация гена <i>dnmt2</i> у стволовых клеток мышей не влияло на их способности к поддержанию картины метилирования генома и к метилированию <i>de novo</i>. Аминокислотная последовательность фермента сходна с последовательностями коротких ДНК-метилаз растений, грибов, прокариот. В 2006 году <i>Goll и соавт.</i> показали, что фермент производит метилирование <a href="/wiki/%D0%A2%D0%A0%D0%9D%D0%9A" title="ТРНК">тРНК</a><sup>Asp</sup> по цитозину-38 как <i>in vivo</i>, так и <i>in vitro</i>, и не метилирует ДНК. Чтобы отразить функцию фермента в названии, было решено переименовать его в TRDMT1 (<i>tRNA aspartic acid methyltransferase 1</i>, метилтрансфераза <a href="/wiki/%D0%A2%D0%A0%D0%9D%D0%9A" title="ТРНК">тРНК</a>, транспортирующей <a href="/wiki/%D0%90%D1%81%D0%BF%D0%B0%D1%80%D0%B0%D0%B3%D0%B8%D0%BD%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0" title="Аспарагиновая кислота">аспарагиновую кислоту</a>).
+</p>
+<h3><span id=".D0.A1.D0.B5.D0.BC.D0.B5.D0.B9.D1.81.D1.82.D0.B2.D0.BE_DNMT3"></span><span class="mw-headline" id="Семейство_DNMT3">Семейство DNMT3</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%94%D0%9D%D0%9A-%D0%BC%D0%B5%D1%82%D0%B8%D0%BB%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%B5%D1%80%D0%B0%D0%B7%D0%B0&amp;veaction=edit&amp;section=4" title="Редактировать раздел «Семейство DNMT3»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%94%D0%9D%D0%9A-%D0%BC%D0%B5%D1%82%D0%B8%D0%BB%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%B5%D1%80%D0%B0%D0%B7%D0%B0&amp;action=edit&amp;section=4" title="Редактировать код раздела «Семейство DNMT3»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>ДНК-метилтрансферазы DNMT3a и DNMT3b производят метилирование полуметилированных и неметилированных сайтов CpG с одинаковой скоростью. Человеческие DNMT3a и DNMT3b содержат 908 и 859 аминокислотных остатков, соответственно; ген <i>dnmt3b</i> может кодировать и меньшие полипептиды вследствие альтернативного <a href="/wiki/%D0%A1%D0%BF%D0%BB%D0%B0%D0%B9%D1%81%D0%B8%D0%BD%D0%B3" title="Сплайсинг">сплайсинга</a>. Гены <i>dnmt3a</i> и <i>dnmt3b</i> активно экспрессируются в недифференцированных эмбриональных стволовых клетках, тогда как в дифференцированных клетках уровень их экспрессии очень низкий. Инактивация этих генов у мышей приводила к гибели особей, в среднем, к четырёхнедельному возрасту.
+</p><p>DNMT3a активнее метилирует сайты CpG, чем CpA, CpT, и CpC. DNMT3a метилирует сайты CpG намного медленнее, чем DNMT1, но быстрее, чем DNMT3b. Несмотря на то, что функции ферментов DNMT3a и DNMT3b во многом перекрываются, имеются также и различия. Так, DNMT3b отвечает за метилирование сателлитных повторов в области <a href="/wiki/%D0%A6%D0%B5%D0%BD%D1%82%D1%80%D0%BE%D0%BC%D0%B5%D1%80%D0%B0" title="Центромера">центромерного</a> линкера, а мутация гена <i>dnmt3b</i> у человека приводит к <a class="new" href="/w/index.php?title=ICF-%D1%81%D0%B8%D0%BD%D0%B4%D1%80%D0%BE%D0%BC&amp;action=edit&amp;redlink=1" title="ICF-синдром (страница отсутствует)">ICF-синдрому</a> (<i>immunodeficiency cenromeric instability</i>, иммунодефицитная нестабильность центромер, аномалии лица). ICF-синдром — это редкое <a href="/wiki/%D0%90%D1%83%D1%82%D0%BE%D1%81%D0%BE%D0%BC%D0%B0" title="Аутосома">аутосомальное</a> рецессивное генетическое заболевание, которое характеризуется дефектами <a href="/wiki/%D0%98%D0%BC%D0%BC%D1%83%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0" title="Иммунная система">иммунной системы</a> и нарушением нормального строения лица. Синдром связан с нестабильностью центромерного гетерохроматина. При этом основные компоненты гетерохроматина, сателлитные участки DNA II и DNA III, оказываются недостаточно метилированы.
+</p><p>DNMT3L содержит DNA-метилтрансферазный мотив и является необходимым для эффекта материнского <a href="/wiki/%D0%93%D0%B5%D0%BD%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9_%D0%B8%D0%BC%D0%BF%D1%80%D0%B8%D0%BD%D1%82%D0%B8%D0%BD%D0%B3" title="Геномный импринтинг">геномного импринтинга</a>, оставаясь при этом каталитически неактивным (вследствие отсутствия некоторых ключевых участков, необходимых для осуществления <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B0%D0%BB%D0%B8%D0%B7" title="Катализ">катализа</a>). DNMT3L экспрессируется при <a href="/wiki/%D0%93%D0%B0%D0%BC%D0%B5%D1%82%D0%BE%D0%B3%D0%B5%D0%BD%D0%B5%D0%B7" title="Гаметогенез">гаметогенезе</a>, когда и происходит геномный импринтинг. Отсутствие DNMT3L ведет к биаллельной экспрессии генов, для которых в норме не характерна экспрессия материнского <a class="mw-redirect" href="/wiki/%D0%90%D0%BB%D0%BB%D0%B5%D0%BB%D1%8C" title="Аллель">аллеля</a>. DNMT3L взаимодействует с DNMT3a и DNMT3b в клеточном ядре. Хотя DNMT3L неспособен проводить метилирование, белок может принимать участие в репрессии <a href="/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BA%D1%80%D0%B8%D0%BF%D1%86%D0%B8%D1%8F_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Транскрипция (биология)">транскрипции</a> (в ассоциации с гистоновой деацетилазой).
+</p>
+<h2><span id=".D0.94.D0.9D.D0.9A-.D0.BC.D0.B5.D1.82.D0.B8.D0.BB.D1.82.D1.80.D0.B0.D0.BD.D1.81.D1.84.D0.B5.D1.80.D0.B0.D0.B7.D1.8B_.D1.80.D0.B0.D1.81.D1.82.D0.B5.D0.BD.D0.B8.D0.B9"></span><span class="mw-headline" id="ДНК-метилтрансферазы_растений">ДНК-метилтрансферазы растений</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%94%D0%9D%D0%9A-%D0%BC%D0%B5%D1%82%D0%B8%D0%BB%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%B5%D1%80%D0%B0%D0%B7%D0%B0&amp;veaction=edit&amp;section=5" title="Редактировать раздел «ДНК-метилтрансферазы растений»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%94%D0%9D%D0%9A-%D0%BC%D0%B5%D1%82%D0%B8%D0%BB%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%B5%D1%80%D0%B0%D0%B7%D0%B0&amp;action=edit&amp;section=5" title="Редактировать код раздела «ДНК-метилтрансферазы растений»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:PDB_2c7q_EBI.jpg"><img class="mw-file-element" data-file-height="600" data-file-width="800" decoding="async" height="300" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/PDB_2c7q_EBI.jpg/400px-PDB_2c7q_EBI.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/PDB_2c7q_EBI.jpg/600px-PDB_2c7q_EBI.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/e/e2/PDB_2c7q_EBI.jpg 2x" width="400"/></a><figcaption>Бактериальный фермент M. <i>HhaI</i> вместе с узнаваемым участком ДНК (фиолетовая спираль). Домен, распознающий мишень фермента образует специфический контакт с краями оснований в большой канавке молекулы ДНК. Большой каталитический домен (голубой) отвечает за перенос метильной группы от <a class="new" href="/w/index.php?title=S-%D0%B0%D0%B4%D0%B5%D0%BD%D0%BE%D0%B7%D0%B8%D0%BB-L-%D0%BC%D0%B5%D1%82%D0%B8%D0%BE%D0%BD%D0%B8%D0%BD&amp;action=edit&amp;redlink=1" title="S-аденозил-L-метионин (страница отсутствует)">S-аденозил-L-метионина</a> (AdoMet) на цитозин. Мишень — <a href="/wiki/%D0%A6%D0%B8%D1%82%D0%BE%D0%B7%D0%B8%D0%BD" title="Цитозин">цитозин</a> — полностью выворачивается из двойной спирали, глубоко погружаясь в активный центр фермента.</figcaption></figure>
+<p>У растений обнаружено три семейства ДНК-метилтрансфераз.
+</p>
+<h3><span id=".D0.A1.D0.B5.D0.BC.D0.B5.D0.B9.D1.81.D1.82.D0.B2.D0.BE_Met1"></span><span class="mw-headline" id="Семейство_Met1">Семейство Met1</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%94%D0%9D%D0%9A-%D0%BC%D0%B5%D1%82%D0%B8%D0%BB%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%B5%D1%80%D0%B0%D0%B7%D0%B0&amp;veaction=edit&amp;section=6" title="Редактировать раздел «Семейство Met1»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%94%D0%9D%D0%9A-%D0%BC%D0%B5%D1%82%D0%B8%D0%BB%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%B5%D1%80%D0%B0%D0%B7%D0%B0&amp;action=edit&amp;section=6" title="Редактировать код раздела «Семейство Met1»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>ДНК-метилазы этого семейства сходны с ферментами семейства DNMT1 млекопитающих. У <i><a class="mw-redirect" href="/wiki/Arabidopsis_thaliana" title="Arabidopsis thaliana">Arabidopsis thaliana</a></i> (<a href="/wiki/%D0%A0%D0%B5%D0%B7%D1%83%D1%85%D0%BE%D0%B2%D0%B8%D0%B4%D0%BA%D0%B0_%D0%A2%D0%B0%D0%BB%D1%8F" title="Резуховидка Таля">Резуховидка Таля</a>) найдены 2 такие ДНК-метилтрасферазы: METI и METII. Эти белки отличаются от мышиного DNMT1 строением N-концевого домена. Метилазы, гомологичные METI <i>Arabidopsis thaliana</i> найдены у <a class="mw-redirect" href="/wiki/%D0%9C%D0%BE%D1%80%D0%BA%D0%BE%D0%B2%D1%8C" title="Морковь">моркови</a> и <a href="/wiki/%D0%A0%D0%B8%D1%81" title="Рис">риса</a>.
+</p><p>В это семейство входит и ген <i>NtMETI</i> <a class="mw-redirect" href="/wiki/%D0%A2%D0%B0%D0%B1%D0%B0%D0%BA" title="Табак">табака</a> (кодирует белок в 175 кДА, 1556 аминокислотных остатков), ген ДНК-метилтрансферазы <a href="/wiki/%D0%93%D0%BE%D1%80%D0%BE%D1%85" title="Горох">гороха</a> (кодирует белок с массой 174 кДа, 1554 аминокислотных остатков). Наиболее активны данные ферменты в клетках <a class="mw-redirect" href="/wiki/%D0%9C%D0%B5%D1%80%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0" title="Меристема">меристем</a> растений.
+</p>
+<h3><span id=".D0.A1.D0.B5.D0.BC.D0.B5.D0.B9.D1.81.D1.82.D0.B2.D0.BE_.D1.85.D1.80.D0.BE.D0.BC.D0.BE.D0.BC.D0.B5.D1.82.D0.B8.D0.BB.D0.B0.D0.B7_.28CMT.29"></span><span class="mw-headline" id="Семейство_хромометилаз_(CMT)">Семейство хромометилаз (CMT)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%94%D0%9D%D0%9A-%D0%BC%D0%B5%D1%82%D0%B8%D0%BB%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%B5%D1%80%D0%B0%D0%B7%D0%B0&amp;veaction=edit&amp;section=7" title="Редактировать раздел «Семейство хромометилаз (CMT)»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%94%D0%9D%D0%9A-%D0%BC%D0%B5%D1%82%D0%B8%D0%BB%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%B5%D1%80%D0%B0%D0%B7%D0%B0&amp;action=edit&amp;section=7" title="Редактировать код раздела «Семейство хромометилаз (CMT)»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Семейству принадлежат полиморфные ДНК-метилазы. Впервые открыты у <i>Arabidopsis thaliana</i>. Молекулы данных ферментов содержат между I и IV участками хромодомен в 80 аминокислотных остатков, отвечающий за взаимодействие со специфическими белками хроматина и с <a href="/wiki/%D0%9A%D0%BB%D0%B5%D1%82%D0%BE%D1%87%D0%BD%D0%BE%D0%B5_%D1%8F%D0%B4%D1%80%D0%BE" title="Клеточное ядро">ядерной мембраной</a>. Белки CMT3 <i>Arabidopsis thaliana</i> и Zmet2 <a href="/wiki/%D0%9A%D1%83%D0%BA%D1%83%D1%80%D1%83%D0%B7%D0%B0" title="Кукуруза">кукурузы</a> осуществляют поддерживающее метилирование ДНК по CpNpG и асимметричным сайтам. Выключение их активности ведёт к реактивации эндогенных <a class="mw-redirect" href="/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D0%B7%D0%BE%D0%BD" title="Транспозон">транспозонов</a>.
+</p><p>Хромометилазы характерны только для растений.
+</p>
+<h3><span id=".D0.A1.D0.B5.D0.BC.D0.B5.D0.B9.D1.81.D1.82.D0.B2.D0.BE_DRM"></span><span class="mw-headline" id="Семейство_DRM">Семейство DRM</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%94%D0%9D%D0%9A-%D0%BC%D0%B5%D1%82%D0%B8%D0%BB%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%B5%D1%80%D0%B0%D0%B7%D0%B0&amp;veaction=edit&amp;section=8" title="Редактировать раздел «Семейство DRM»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%94%D0%9D%D0%9A-%D0%BC%D0%B5%D1%82%D0%B8%D0%BB%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%B5%D1%80%D0%B0%D0%B7%D0%B0&amp;action=edit&amp;section=8" title="Редактировать код раздела «Семейство DRM»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Семейство ДНК-метилаз, у которых консервативные мотивы переставлены местами и составлены в следующем порядке: VI—IX — X—I — II—III — IV—V. Отсюда и название семейства: <i>domain rearranged methylases</i>, DRM. Гены этих ферментов были найдены у <i>Arabidopsis thaliana</i>, кукурузы, <a href="/wiki/%D0%A1%D0%BE%D1%8F" title="Соя">сои</a>. Несмотря на то, что функциональные мотивы перемешены, молекула формирует трёхмерную структуру, подобную прокариотической ДНК-метилтрансферазе HhaI. N-концевой домен содержит убиквитинсвязывающий участок, что создаёт возможность убиквитинирования этих ферментов. По функции эти ДНК-метилтрансферазы сходны с семейством DNMT3 млекопитающих, в частности, они также способны эффективно осуществлять метилирование ДНК <i>de novo</i> по асимметричным сайтам.
+</p>
+<h3><span id=".D0.94.D1.80.D1.83.D0.B3.D0.B8.D0.B5_.D0.94.D0.9D.D0.9A-.D0.BC.D0.B5.D1.82.D0.B8.D0.BB.D1.82.D1.80.D0.B0.D0.BD.D1.81.D1.84.D0.B5.D1.80.D0.B0.D0.B7.D1.8B_.D1.80.D0.B0.D1.81.D1.82.D0.B5.D0.BD.D0.B8.D0.B9"></span><span class="mw-headline" id="Другие_ДНК-метилтрансферазы_растений">Другие ДНК-метилтрансферазы растений</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%94%D0%9D%D0%9A-%D0%BC%D0%B5%D1%82%D0%B8%D0%BB%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%B5%D1%80%D0%B0%D0%B7%D0%B0&amp;veaction=edit&amp;section=9" title="Редактировать раздел «Другие ДНК-метилтрансферазы растений»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%94%D0%9D%D0%9A-%D0%BC%D0%B5%D1%82%D0%B8%D0%BB%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%B5%D1%80%D0%B0%D0%B7%D0%B0&amp;action=edit&amp;section=9" title="Редактировать код раздела «Другие ДНК-метилтрансферазы растений»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Существуют и другие ДНК-метилтрансферазы растений, такие как METIII <i>Arabidopsis thaliana</i>, лишённая N-концевого домена.
+</p><p>Во отличие от животных, инактивация ДНК-метилтрансфераз у растений не ведёт к летальному эффекту, однако также приводит к аномалиям развития.
+</p>
+<h2><span id=".D0.94.D0.9D.D0.9A-.D0.BC.D0.B5.D1.82.D0.B8.D0.BB.D1.82.D1.80.D0.B0.D0.BD.D1.81.D1.84.D0.B5.D1.80.D0.B0.D0.B7.D1.8B_.D0.B3.D1.80.D0.B8.D0.B1.D0.BE.D0.B2"></span><span class="mw-headline" id="ДНК-метилтрансферазы_грибов">ДНК-метилтрансферазы грибов</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%94%D0%9D%D0%9A-%D0%BC%D0%B5%D1%82%D0%B8%D0%BB%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%B5%D1%80%D0%B0%D0%B7%D0%B0&amp;veaction=edit&amp;section=10" title="Редактировать раздел «ДНК-метилтрансферазы грибов»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%94%D0%9D%D0%9A-%D0%BC%D0%B5%D1%82%D0%B8%D0%BB%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%B5%D1%80%D0%B0%D0%B7%D0%B0&amp;action=edit&amp;section=10" title="Редактировать код раздела «ДНК-метилтрансферазы грибов»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id=".D0.94.D0.9D.D0.9A-.D0.BC.D0.B5.D1.82.D0.B8.D0.BB.D1.82.D1.80.D0.B0.D0.BD.D1.81.D1.84.D0.B5.D1.80.D0.B0.D0.B7.D1.8B_Ascobolus"></span><span class="mw-headline" id="ДНК-метилтрансферазы_Ascobolus">ДНК-метилтрансферазы <i>Ascobolus</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%94%D0%9D%D0%9A-%D0%BC%D0%B5%D1%82%D0%B8%D0%BB%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%B5%D1%80%D0%B0%D0%B7%D0%B0&amp;veaction=edit&amp;section=11" title="Редактировать раздел «ДНК-метилтрансферазы Ascobolus»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%94%D0%9D%D0%9A-%D0%BC%D0%B5%D1%82%D0%B8%D0%BB%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%B5%D1%80%D0%B0%D0%B7%D0%B0&amp;action=edit&amp;section=11" title="Редактировать код раздела «ДНК-метилтрансферазы Ascobolus»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>У <a href="/wiki/%D0%90%D1%81%D0%BA%D0%BE%D0%BC%D0%B8%D1%86%D0%B5%D1%82%D1%8B" title="Аскомицеты">аскомицета</a> <i>Ascobolus</i> обнаружены 2 гена: <i>MASCI</i> и <i>MASK2</i>. Первый кодирует белок с молекулярной массой 61,5 кДА, состоящий из 537 аминокислотных остатков<sup class="ts-fix-template noprint">[<i><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D0%BD%D0%B0_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8" title="Википедия:Ссылки на источники"><span title="нет источника (28 ноября 2010)">источник не указан 4840 дней</span></a></i>]</sup>. Он содержит 10 консервативных мотивов, характерных для цитозин(С5)-метилтрасфераз, но отличается более коротким TRD между VIII и IX мотивом и N-концевым доменом, негомологичным таковому у DNMT1. Мутация в гене <i>MASCI</i> не влияет на поддерживающее метилирование ДНК, но нарушает метилирование <i>de novo</i> повторов в ДНК и приводит к стерильности штаммов, гомозиготных по данной мутации. Ген <i>MASK2</i> <i>Ascobolus</i> принадлежит семейству DNMT1.
+</p><p>Выключение обоих генов не приводит к нарушению поддерживающего метилирования ДНК <i>Ascobolus</i>, что говорит о наличии ещё как минимум одного гена ДНК-метилтрансферазы<sup class="ts-fix-template noprint">[<i><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D0%BD%D0%B0_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8" title="Википедия:Ссылки на источники"><span title="нет источника (28 ноября 2010)">источник не указан 4840 дней</span></a></i>]</sup>.
+</p>
+<h3><span id=".D0.94.D0.9D.D0.9A-.D0.BC.D0.B5.D1.82.D0.B8.D0.BB.D1.82.D1.80.D0.B0.D0.BD.D1.81.D1.84.D0.B5.D1.80.D0.B0.D0.B7.D0.B0_Neurospora_crassa"></span><span class="mw-headline" id="ДНК-метилтрансфераза_Neurospora_crassa">ДНК-метилтрансфераза <i>Neurospora crassa</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%94%D0%9D%D0%9A-%D0%BC%D0%B5%D1%82%D0%B8%D0%BB%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%B5%D1%80%D0%B0%D0%B7%D0%B0&amp;veaction=edit&amp;section=12" title="Редактировать раздел «ДНК-метилтрансфераза Neurospora crassa»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%94%D0%9D%D0%9A-%D0%BC%D0%B5%D1%82%D0%B8%D0%BB%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%B5%D1%80%D0%B0%D0%B7%D0%B0&amp;action=edit&amp;section=12" title="Редактировать код раздела «ДНК-метилтрансфераза Neurospora crassa»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>У <i><a class="mw-redirect" href="/wiki/Neurospora_crassa" title="Neurospora crassa">Neurospora crassa</a></i> имеется один ген ДНК-метилтрансферазы — <i>DIM-2</i>. Белок DIM-2 отвечает за метилирование всего генома, его инактивация ведет к полному деметилированию ДНК <i>Neurospora crassa</i>. Белок состоит из 1454 аминокислотных остатков и принадлежит к семейству DNMT1. Нарушения экспрессии <i>DIM-2</i> не приводят к заметным аномалиям в развитии гриба.
+</p>
+<h2><span id=".D0.A1.D0.BC._.D1.82.D0.B0.D0.BA.D0.B6.D0.B5"></span><span class="mw-headline" id="См._также">См. также</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%94%D0%9D%D0%9A-%D0%BC%D0%B5%D1%82%D0%B8%D0%BB%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%B5%D1%80%D0%B0%D0%B7%D0%B0&amp;veaction=edit&amp;section=13" title="Редактировать раздел «См. также»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%94%D0%9D%D0%9A-%D0%BC%D0%B5%D1%82%D0%B8%D0%BB%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%B5%D1%80%D0%B0%D0%B7%D0%B0&amp;action=edit&amp;section=13" title="Редактировать код раздела «См. также»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/%D0%93%D0%B5%D0%BD%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9_%D0%B8%D0%BC%D0%BF%D1%80%D0%B8%D0%BD%D1%82%D0%B8%D0%BD%D0%B3" title="Геномный импринтинг">Геномный импринтинг</a></li>
+<li><a href="/wiki/%D0%9C%D0%B5%D1%82%D0%B8%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%94%D0%9D%D0%9A" title="Метилирование ДНК">Метилирование ДНК</a></li>
+<li><a href="/wiki/%D0%AD%D0%BF%D0%B8%D0%B3%D0%B5%D0%BD%D0%B5%D1%82%D0%B8%D0%BA%D0%B0" title="Эпигенетика">Эпигенетика</a></li></ul>
+<p><br/>
+</p>
+<h2><span id=".D0.9B.D0.B8.D1.82.D0.B5.D1.80.D0.B0.D1.82.D1.83.D1.80.D0.B0"></span><span class="mw-headline" id="Литература">Литература</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%94%D0%9D%D0%9A-%D0%BC%D0%B5%D1%82%D0%B8%D0%BB%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%B5%D1%80%D0%B0%D0%B7%D0%B0&amp;veaction=edit&amp;section=14" title="Редактировать раздел «Литература»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%94%D0%9D%D0%9A-%D0%BC%D0%B5%D1%82%D0%B8%D0%BB%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%B5%D1%80%D0%B0%D0%B7%D0%B0&amp;action=edit&amp;section=14" title="Редактировать код раздела «Литература»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i>Bestor T.H.</i> The DNA methyltransferases of mammals. // Human Molecular Genetics, 2000, Vol. 9, No. 16 Review, pp. 2395–2402. <a class="external mw-magiclink-pmid" href="//www.ncbi.nlm.nih.gov/pubmed/11005794?dopt=Abstract" rel="nofollow">PMID 11005794</a></li>
+<li><i>Buryanov Ya.I., Shevchuk T.V.</i> DNA Methyltransferases and Structural-Functional Specificity of Eukaryotic DNA Modification. // Biochemistry (Moscow), Vol. 70, No. 7, 2005, pp. 730, translated from Biokhimiya, Vol. 70, No. 7, 2005, pp. 885. <a class="external mw-magiclink-pmid" href="//www.ncbi.nlm.nih.gov/pubmed/16097936?dopt=Abstract" rel="nofollow">PMID 16097936</a></li>
+<li><i>Goll M.G., Kirpekar F., Maggert K.A., Yoder J.A., Hsieh C-L., Zhang X., Golic K.G., Jacobsen S.E., Bestor T.H.</i> Methylation of tRNA<sup>Asp</sup> by the DNA Methyltransferase Homolog Dnmt2. // Science 311 (5759), 2006, pp. 395–398. <a class="external mw-magiclink-pmid" href="//www.ncbi.nlm.nih.gov/pubmed/16424344?dopt=Abstract" rel="nofollow">PMID 16424344</a></li></ul>
+<h2><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span><span class="mw-headline" id="Ссылки">Ссылки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%94%D0%9D%D0%9A-%D0%BC%D0%B5%D1%82%D0%B8%D0%BB%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%B5%D1%80%D0%B0%D0%B7%D0%B0&amp;veaction=edit&amp;section=15" title="Редактировать раздел «Ссылки»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%94%D0%9D%D0%9A-%D0%BC%D0%B5%D1%82%D0%B8%D0%BB%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%B5%D1%80%D0%B0%D0%B7%D0%B0&amp;action=edit&amp;section=15" title="Редактировать код раздела «Ссылки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="http://www.dictionary.cbio.ru/termin.php?id=285" rel="nofollow">ДНК-метилтрансфераза (DNA methyltransferase) на dictionary.cbio.ru</a> <a class="external text" href="https://web.archive.org/web/20070928120428/http://www.dictionary.cbio.ru/termin.php?id=285" rel="nofollow">Архивная копия</a> от 28 сентября 2007 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></li></ul>
+<div aria-labelledby="Транскрипция_(биология)" class="navbox" data-name="Транскрипция (биология)" role="navigation"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BA%D1%80%D0%B8%D0%BF%D1%86%D0%B8%D1%8F_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Перейти к шаблону «Транскрипция (биология)»"><img alt="Перейти к шаблону «Транскрипция (биология)»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span></span><div id="Транскрипция_(биология)" style="font-size:114%;margin:0 5em"><a href="/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BA%D1%80%D0%B8%D0%BF%D1%86%D0%B8%D1%8F_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Транскрипция (биология)">Транскрипция (биология)</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/%D0%A0%D0%B5%D0%B3%D1%83%D0%BB%D1%8F%D1%86%D0%B8%D1%8F_%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BA%D1%80%D0%B8%D0%BF%D1%86%D0%B8%D0%B8" title="Регуляция транскрипции">Регуляция <br/> транскрипции</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/%D0%9F%D1%80%D0%BE%D0%BA%D0%B0%D1%80%D0%B8%D0%BE%D1%82%D1%8B" title="Прокариоты">Прокариоты</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%9E%D0%BF%D0%B5%D1%80%D0%BE%D0%BD" title="Оперон">Оперон</a> (<a href="/wiki/%D0%9B%D0%B0%D0%BA%D1%82%D0%BE%D0%B7%D0%BD%D1%8B%D0%B9_%D0%BE%D0%BF%D0%B5%D1%80%D0%BE%D0%BD" title="Лактозный оперон">лактозный оперон</a></li>
+<li><a href="/wiki/%D0%A2%D1%80%D0%B8%D0%BF%D1%82%D0%BE%D1%84%D0%B0%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9_%D0%BE%D0%BF%D0%B5%D1%80%D0%BE%D0%BD" title="Триптофановый оперон">триптофановый оперон</a></li>
+<li><a href="/wiki/%D0%93%D0%90%D0%9C%D0%9A-%D0%BE%D0%BF%D0%B5%D1%80%D0%BE%D0%BD" title="ГАМК-оперон">ГАМК-оперон</a></li>
+<li><a href="/wiki/%D0%90%D1%80%D0%B0%D0%B1%D0%B8%D0%BD%D0%BE%D0%B7%D0%BD%D1%8B%D0%B9_%D0%BE%D0%BF%D0%B5%D1%80%D0%BE%D0%BD" title="Арабинозный оперон">арабинозный оперон</a></li>
+<li><a href="/wiki/%D0%93%D0%B0%D0%BB%D0%B0%D0%BA%D1%82%D0%BE%D0%B7%D0%BD%D1%8B%D0%B9_%D0%BE%D0%BF%D0%B5%D1%80%D0%BE%D0%BD" title="Галактозный оперон">галактозный оперон</a>)</li>
+<li><a class="mw-redirect" href="/wiki/%D0%A0%D0%B5%D0%BF%D1%80%D0%B5%D1%81%D1%81%D0%BE%D1%80_(%D0%B3%D0%B5%D0%BD%D0%B5%D1%82%D0%B8%D0%BA%D0%B0)" title="Репрессор (генетика)">Репрессор</a> (<a href="/wiki/%D0%9B%D0%B0%D0%BA%D1%82%D0%BE%D0%B7%D0%BD%D1%8B%D0%B9_%D1%80%D0%B5%D0%BF%D1%80%D0%B5%D1%81%D1%81%D0%BE%D1%80" title="Лактозный репрессор">лактозный репрессор</a></li>
+<li><a href="/wiki/%D0%A2%D1%80%D0%B8%D0%BF%D1%82%D0%BE%D1%84%D0%B0%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9_%D1%80%D0%B5%D0%BF%D1%80%D0%B5%D1%81%D1%81%D0%BE%D1%80" title="Триптофановый репрессор">триптофановый репрессор</a>)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/%D0%AD%D1%83%D0%BA%D0%B0%D1%80%D0%B8%D0%BE%D1%82%D1%8B" title="Эукариоты">Эукариоты</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1px">Ферменты <br/> модификации <br/> гистонов <br/> (<a href="/wiki/%D0%93%D0%B8%D1%81%D1%82%D0%BE%D0%BD%D1%8B" title="Гистоны">гистоны</a>/<a href="/wiki/%D0%9D%D1%83%D0%BA%D0%BB%D0%B5%D0%BE%D1%81%D0%BE%D0%BC%D0%B0" title="Нуклеосома">нуклеосома</a>)</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%91%D0%B5%D0%BB%D0%BA%D0%B8_%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D1%8B_polycomb" title="Белки группы polycomb">Белки группы polycomb</a>, <a class="mw-redirect" href="/wiki/%D0%93%D0%B8%D1%81%D1%82%D0%BE%D0%BD%D0%BC%D0%B5%D1%82%D0%B8%D0%BB%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%B5%D1%80%D0%B0%D0%B7%D0%B0" title="Гистонметилтрансфераза">гистонметилтрансфераза</a> <a class="mw-redirect" href="/wiki/EZH2" title="EZH2">EZH2</a></li>
+<li><span data-interwiki-article="Histone demethylase" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=%D0%93%D0%B8%D1%81%D1%82%D0%BE%D0%BD%D0%B4%D0%B5%D0%BC%D0%B5%D1%82%D0%B8%D0%BB%D0%B0%D0%B7%D0%B0&amp;action=edit&amp;redlink=1" title="Гистондеметилаза (страница отсутствует)">Гистондеметилаза</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://en.wikipedia.org/wiki/Histone_demethylase" title="en:Histone demethylase"><span title="Histone demethylase — версия статьи «Гистондеметилаза» на английском языке">[en]</span></a></sup></span></li>
+<li><a class="new" href="/w/index.php?title=%D0%90%D1%86%D0%B5%D1%82%D0%B8%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;action=edit&amp;redlink=1" title="Ацетилирование (страница отсутствует)">Ацетилирование</a> и деацетилирование гистонов (<a class="mw-redirect" href="/wiki/%D0%93%D0%B8%D1%81%D1%82%D0%BE%D0%BD%D0%B4%D0%B5%D0%B0%D1%86%D0%B5%D1%82%D0%B8%D0%BB%D0%B0%D0%B7%D0%B0" title="Гистондеацетилаза">Гистондеацетилаза</a> <a class="mw-redirect" href="/wiki/HDAC1" title="HDAC1">HDAC1</a></li>
+<li><a href="/wiki/%D0%93%D0%B8%D1%81%D1%82%D0%BE%D0%BD%D0%B0%D1%86%D0%B5%D1%82%D0%B8%D0%BB%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%B5%D1%80%D0%B0%D0%B7%D0%B0" title="Гистонацетилтрансфераза">Гистонацетилтрансфераза</a>)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/%D0%9C%D0%B5%D1%82%D0%B8%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%94%D0%9D%D0%9A" title="Метилирование ДНК">Метилирование ДНК</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"><a class="mw-selflink selflink">ДНК-метилтрансфераза</a></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/%D0%A0%D0%B5%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D1%85%D1%80%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%BD%D0%B0" title="Ремоделирование хроматина">Ремоделирование</a> <br/> <a href="/wiki/%D0%A0%D0%B5%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D1%85%D1%80%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%BD%D0%B0" title="Ремоделирование хроматина">хроматина</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"><a href="/wiki/CHD7" title="CHD7">CHD7</a></div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Общее для <br/> про- и эукариот</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span data-interwiki-article="Transcription coregulator" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=%D0%9A%D0%BE%D1%80%D0%B5%D0%B3%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D1%8B_%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BA%D1%80%D0%B8%D0%BF%D1%86%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" title="Корегуляторы транскрипции (страница отсутствует)">Корегуляторы транскрипции</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://en.wikipedia.org/wiki/Transcription_coregulator" title="en:Transcription coregulator"><span title="Transcription coregulator — версия статьи «Корегуляторы транскрипции» на английском языке">[en]</span></a></sup></span> (<a href="/wiki/%D0%9A%D0%BE%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%B0%D1%82%D0%BE%D1%80" title="Коактиватор">Коактиватор</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D1%80%D0%B5%D0%BF%D1%80%D0%B5%D1%81%D1%81%D0%BE%D1%80" title="Корепрессор">Корепрессор</a></li>
+<li><a href="/wiki/%D0%98%D0%BD%D0%B4%D1%83%D0%BA%D1%82%D0%BE%D1%80_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Индуктор (биология)">Индуктор</a>)</li>
+<li><a href="/wiki/%D0%A4%D0%B0%D0%BA%D1%82%D0%BE%D1%80%D1%8B_%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BA%D1%80%D0%B8%D0%BF%D1%86%D0%B8%D0%B8" title="Факторы транскрипции">Факторы транскрипции</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Активация</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%9F%D1%80%D0%BE%D0%BC%D0%BE%D1%82%D0%BE%D1%80" title="Промотор">Промотор</a> (<a href="/wiki/%D0%9F%D1%80%D0%B8%D0%B1%D0%BD%D0%BE%D0%B2-%D0%B1%D0%BE%D0%BA%D1%81" title="Прибнов-бокс">Прибнов-бокс</a></li>
+<li><a href="/wiki/%D0%A2%D0%90%D0%A2%D0%90-%D0%B1%D0%BE%D0%BA%D1%81" title="ТАТА-бокс">ТАТА-бокс</a></li>
+<li><a href="/wiki/BRE" title="BRE">BRE</a></li>
+<li><a href="/wiki/%D0%A1%D0%90%D0%90%D0%A2-%D0%B1%D0%BE%D0%BA%D1%81" title="СААТ-бокс">СААТ-бокс</a></li>
+<li><a class="mw-redirect" href="/wiki/%D0%9E%D1%82%D0%B2%D0%B5%D1%82%D0%BD%D1%8B%D0%B5_%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D1%8B" title="Ответные элементы">Ответные элементы</a>)</li>
+<li><a href="/wiki/%D0%AD%D0%BD%D1%85%D0%B0%D0%BD%D1%81%D0%B5%D1%80" title="Энхансер">Энхансер</a> (<a href="/wiki/%D0%95-%D0%B1%D0%BE%D0%BA%D1%81" title="Е-бокс">Е-бокс</a></li>
+<li><a class="mw-redirect" href="/wiki/%D0%9E%D1%82%D0%B2%D0%B5%D1%82%D0%BD%D1%8B%D0%B5_%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D1%8B" title="Ответные элементы">Ответные элементы</a>)</li>
+<li><a href="/wiki/%D0%98%D0%BD%D1%81%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80" title="Инсулятор">Инсулятор</a></li>
+<li><a href="/wiki/%D0%A1%D0%B0%D0%B9%D0%BB%D0%B5%D0%BD%D1%81%D0%B5%D1%80" title="Сайленсер">Сайленсер</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Инициация</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"><a class="new" href="/w/index.php?title=%D0%A1%D0%B0%D0%B9%D1%82_%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D0%B0_%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BA%D1%80%D0%B8%D0%BF%D1%86%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" title="Сайт начала транскрипции (страница отсутствует)">Сайт начала транскрипции</a></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Элонгация</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>бактериальная <a href="/wiki/%D0%A0%D0%9D%D0%9A-%D0%BF%D0%BE%D0%BB%D0%B8%D0%BC%D0%B5%D1%80%D0%B0%D0%B7%D0%B0" title="РНК-полимераза">РНК-полимераза</a>: <a href="/wiki/RpoB" title="RpoB">rpoB</a></li>
+<li>эукариотическая РНК-полимераза: <a href="/wiki/%D0%A0%D0%9D%D0%9A-%D0%BF%D0%BE%D0%BB%D0%B8%D0%BC%D0%B5%D1%80%D0%B0%D0%B7%D0%B0_II" title="РНК-полимераза II">РНК-полимераза II</a>, <a href="/wiki/%D0%A0%D0%9D%D0%9A-%D0%BF%D0%BE%D0%BB%D0%B8%D0%BC%D0%B5%D1%80%D0%B0%D0%B7%D0%B0_III" title="РНК-полимераза III">РНК-полимераза III</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Терминация</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-redirect" href="/wiki/%D0%A2%D0%B5%D1%80%D0%BC%D0%B8%D0%BD%D0%B0%D1%82%D0%BE%D1%80_(%D0%94%D0%9D%D0%9A)" title="Терминатор (ДНК)">Терминатор</a></li>
+<li><a href="/wiki/%D0%A0%D0%BE-%D0%BD%D0%B5%D0%B7%D0%B0%D0%B2%D0%B8%D1%81%D0%B8%D0%BC%D0%B0%D1%8F_%D1%82%D0%B5%D1%80%D0%BC%D0%B8%D0%BD%D0%B0%D1%86%D0%B8%D1%8F" title="Ро-независимая терминация">Ро-независимая терминация</a></li>
+<li><a href="/wiki/%D0%A0%D0%BE-%D1%84%D0%B0%D0%BA%D1%82%D0%BE%D1%80" title="Ро-фактор">Ро-фактор</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1395
+Cached time: 20240228174903
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.155 seconds
+Real time usage: 0.218 seconds
+Preprocessor visited node count: 1465/1000000
+Post‐expand include size: 48562/2097152 bytes
+Template argument size: 1156/2097152 bytes
+Highest expansion depth: 11/100
+Expensive parser function count: 4/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 3820/5000000 bytes
+Lua time usage: 0.060/10.000 seconds
+Lua memory usage: 2164295/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  150.404      1 -total
+ 65.27%   98.175      6 Шаблон:Нет_АИ
+ 28.95%   43.545      6 Шаблон:Сортировка:_статьи_без_источников
+ 27.43%   41.260      2 Шаблон:Navbox_subgroup
+ 25.21%   37.923      1 Шаблон:Транскрипция_(биология)
+ 23.11%   34.756      1 Шаблон:Навигационная_таблица
+ 18.01%   27.095      6 Шаблон:Сортировка:_по_странам
+ 10.58%   15.912      2 Шаблон:Нп5
+  9.34%   14.042      6 Шаблон:Сортировка:_по_типам
+  4.75%    7.145      1 Шаблон:TOCleft
+-->
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:522665-0!canonical and timestamp 20240228174903 and revision id 129813256. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> -->
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=ДНК-метилтрансфераза&amp;oldid=129813256">https://ru.wikipedia.org/w/index.php?title=ДНК-метилтрансфераза&amp;oldid=129813256</a></div></div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A4%D0%B5%D1%80%D0%BC%D0%B5%D0%BD%D1%82%D1%8B" title="Категория:Ферменты">Ферменты</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9C%D0%B5%D1%82%D0%BE%D0%B4%D1%8B_%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85_%D0%B8%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9" title="Категория:Методы биологических исследований">Методы биологических исследований</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%94%D0%9D%D0%9A" title="Категория:ДНК">ДНК</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%B5%D1%80%D0%B0%D0%B7%D1%8B" title="Категория:Трансферазы">Трансферазы</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%AD%D0%BF%D0%B8%D0%B3%D0%B5%D0%BD%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%BD%D0%B0%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" title="Категория:Эпигенетическое наследование">Эпигенетическое наследование</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%B1%D0%B5%D0%B7_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_(%D0%BD%D0%B5_%D1%80%D0%B0%D1%81%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D0%BE_%D1%82%D0%B8%D0%BF%D0%B0%D0%BC)" title="Категория:Википедия:Статьи без источников (не распределённые по типам)">Википедия:Статьи без источников (не распределённые по типам)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9D%D0%B5%D1%82_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D1%81_%D0%BD%D0%BE%D1%8F%D0%B1%D1%80%D1%8F_2010" title="Категория:Википедия:Нет источников с ноября 2010">Википедия:Нет источников с ноября 2010</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D1%83%D1%82%D0%B2%D0%B5%D1%80%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%D0%BC%D0%B8_%D0%B1%D0%B5%D0%B7_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%B1%D0%BE%D0%BB%D0%B5%D0%B5_14_%D0%B4%D0%BD%D0%B5%D0%B9" title="Категория:Википедия:Статьи с утверждениями без источников более 14 дней">Википедия:Статьи с утверждениями без источников более 14 дней</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B,_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D0%B2%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_PMID" title="Категория:Страницы, использующие волшебные ссылки PMID">Страницы, использующие волшебные ссылки PMID</a></li></ul></div></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Навигация</h2>
+<div id="mw-head">
+<nav aria-labelledby="p-personal-label" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" id="p-personal" role="navigation">
+<h3 class="vector-menu-heading" id="p-personal-label">
+<span class="vector-menu-heading-label">Персональные инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="pt-anonuserpage"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li class="mw-list-item" id="pt-anontalk"><a accesskey="n" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]"><span>Обсуждение</span></a></li><li class="mw-list-item" id="pt-anoncontribs"><a accesskey="y" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]"><span>Вклад</span></a></li><li class="mw-list-item" id="pt-createaccount"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%94%D0%9D%D0%9A-%D0%BC%D0%B5%D1%82%D0%B8%D0%BB%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%B5%D1%80%D0%B0%D0%B7%D0%B0" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li class="mw-list-item" id="pt-login"><a accesskey="o" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%94%D0%9D%D0%9A-%D0%BC%D0%B5%D1%82%D0%B8%D0%BB%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%B5%D1%80%D0%B0%D0%B7%D0%B0" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]"><span>Войти</span></a></li>
+</ul>
+</div>
+</nav>
+<div id="left-navigation">
+<nav aria-labelledby="p-namespaces-label" class="mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-namespaces" role="navigation">
+<h3 class="vector-menu-heading" id="p-namespaces-label">
+<span class="vector-menu-heading-label">Пространства имён</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-nstab-main"><a accesskey="c" href="/wiki/%D0%94%D0%9D%D0%9A-%D0%BC%D0%B5%D1%82%D0%B8%D0%BB%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%B5%D1%80%D0%B0%D0%B7%D0%B0" title="Просмотреть контентную страницу [c]"><span>Статья</span></a></li><li class="mw-list-item" id="ca-talk"><a accesskey="t" href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%94%D0%9D%D0%9A-%D0%BC%D0%B5%D1%82%D0%B8%D0%BB%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%B5%D1%80%D0%B0%D0%B7%D0%B0" rel="discussion" title="Обсуждение основной страницы [t]"><span>Обсуждение</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-variants-label" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" id="p-variants" role="navigation">
+<input aria-haspopup="true" aria-labelledby="p-variants-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-variants" id="p-variants-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-variants-label">
+<span class="vector-menu-heading-label">русский</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+</div>
+<div id="right-navigation">
+<nav aria-labelledby="p-views-label" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-views" role="navigation">
+<h3 class="vector-menu-heading" id="p-views-label">
+<span class="vector-menu-heading-label">Просмотры</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-view"><a href="/wiki/%D0%94%D0%9D%D0%9A-%D0%BC%D0%B5%D1%82%D0%B8%D0%BB%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%B5%D1%80%D0%B0%D0%B7%D0%B0"><span>Читать</span></a></li><li class="mw-list-item" id="ca-ve-edit"><a accesskey="v" href="/w/index.php?title=%D0%94%D0%9D%D0%9A-%D0%BC%D0%B5%D1%82%D0%B8%D0%BB%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%B5%D1%80%D0%B0%D0%B7%D0%B0&amp;veaction=edit" title="Редактировать данную страницу [v]"><span>Править</span></a></li><li class="collapsible mw-list-item" id="ca-edit"><a accesskey="e" href="/w/index.php?title=%D0%94%D0%9D%D0%9A-%D0%BC%D0%B5%D1%82%D0%B8%D0%BB%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%B5%D1%80%D0%B0%D0%B7%D0%B0&amp;action=edit" title="Править исходный текст этой страницы [e]"><span>Править код</span></a></li><li class="mw-list-item" id="ca-history"><a accesskey="h" href="/w/index.php?title=%D0%94%D0%9D%D0%9A-%D0%BC%D0%B5%D1%82%D0%B8%D0%BB%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%B5%D1%80%D0%B0%D0%B7%D0%B0&amp;action=history" title="Журнал изменений страницы [h]"><span>История</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-cactions-label" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" id="p-cactions" role="navigation" title="Больше возможностей">
+<input aria-haspopup="true" aria-labelledby="p-cactions-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-cactions" id="p-cactions-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-cactions-label">
+<span class="vector-menu-heading-label">Ещё</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+<div class="vector-search-box-vue vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box" id="p-search" role="search">
+<h3>Поиск</h3>
+<form action="/w/index.php" class="vector-search-box-form" id="searchform">
+<div class="vector-search-box-inner" data-search-loc="header-navigation" id="simpleSearch">
+<input accesskey="f" aria-label="Искать в Википедии" autocapitalize="sentences" class="vector-search-box-input" id="searchInput" name="search" placeholder="Искать в Википедии" title="Искать в Википедии [f]" type="search"/>
+<input name="title" type="hidden" value="Служебная:Поиск"/>
+<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Найти страницы, содержащие указанный текст" type="submit" value="Найти"/>
+<input class="searchButton" id="searchButton" name="go" title="Перейти к странице, имеющей в точности такое название" type="submit" value="Перейти"/>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="vector-legacy-sidebar" id="mw-panel">
+<div id="p-logo" role="banner">
+<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу"></a>
+</div>
+<nav aria-labelledby="p-navigation-label" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" id="p-navigation" role="navigation">
+<h3 class="vector-menu-heading" id="p-navigation-label">
+<span class="vector-menu-heading-label">Навигация</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-mainpage-description"><a accesskey="z" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]"><span>Заглавная страница</span></a></li><li class="mw-list-item" id="n-content"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li class="mw-list-item" id="n-featured"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li class="mw-list-item" id="n-randompage"><a accesskey="x" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]"><span>Случайная статья</span></a></li><li class="mw-list-item" id="n-currentevents"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li class="mw-list-item" id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-participation-label" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" id="p-participation" role="navigation">
+<h3 class="vector-menu-heading" id="p-participation-label">
+<span class="vector-menu-heading-label">Участие</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-bug_in_article"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li class="mw-list-item" id="n-introduction"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li class="mw-list-item" id="n-portal"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li class="mw-list-item" id="n-forum"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li class="mw-list-item" id="n-recentchanges"><a accesskey="r" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]"><span>Свежие правки</span></a></li><li class="mw-list-item" id="n-newpages"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li class="mw-list-item" id="n-help"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-tb-label" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" id="p-tb" role="navigation">
+<h3 class="vector-menu-heading" id="p-tb-label">
+<span class="vector-menu-heading-label">Инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="t-whatlinkshere"><a accesskey="j" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%94%D0%9D%D0%9A-%D0%BC%D0%B5%D1%82%D0%B8%D0%BB%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%B5%D1%80%D0%B0%D0%B7%D0%B0" title="Список всех страниц, ссылающихся на данную [j]"><span>Ссылки сюда</span></a></li><li class="mw-list-item" id="t-recentchangeslinked"><a accesskey="k" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%94%D0%9D%D0%9A-%D0%BC%D0%B5%D1%82%D0%B8%D0%BB%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%B5%D1%80%D0%B0%D0%B7%D0%B0" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]"><span>Связанные правки</span></a></li><li class="mw-list-item" id="t-specialpages"><a accesskey="q" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]"><span>Служебные страницы</span></a></li><li class="mw-list-item" id="t-permalink"><a href="/w/index.php?title=%D0%94%D0%9D%D0%9A-%D0%BC%D0%B5%D1%82%D0%B8%D0%BB%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%B5%D1%80%D0%B0%D0%B7%D0%B0&amp;oldid=129813256" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li class="mw-list-item" id="t-info"><a href="/w/index.php?title=%D0%94%D0%9D%D0%9A-%D0%BC%D0%B5%D1%82%D0%B8%D0%BB%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%B5%D1%80%D0%B0%D0%B7%D0%B0&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li class="mw-list-item" id="t-cite"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%94%D0%9D%D0%9A-%D0%BC%D0%B5%D1%82%D0%B8%D0%BB%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%B5%D1%80%D0%B0%D0%B7%D0%B0&amp;id=129813256&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li class="mw-list-item" id="t-urlshortener"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%2594%25D0%259D%25D0%259A-%25D0%25BC%25D0%25B5%25D1%2582%25D0%25B8%25D0%25BB%25D1%2582%25D1%2580%25D0%25B0%25D0%25BD%25D1%2581%25D1%2584%25D0%25B5%25D1%2580%25D0%25B0%25D0%25B7%25D0%25B0"><span>Получить короткий URL</span></a></li><li class="mw-list-item" id="t-urlshortener-qrcode"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%2594%25D0%259D%25D0%259A-%25D0%25BC%25D0%25B5%25D1%2582%25D0%25B8%25D0%25BB%25D1%2582%25D1%2580%25D0%25B0%25D0%25BD%25D1%2581%25D1%2584%25D0%25B5%25D1%2580%25D0%25B0%25D0%25B7%25D0%25B0"><span>Скачать QR-код</span></a></li><li class="mw-list-item" id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1154602" title="Ссылка на связанный элемент репозитория данных [g]"><span>Элемент Викиданных</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-coll-print_export-label" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" id="p-coll-print_export" role="navigation">
+<h3 class="vector-menu-heading" id="p-coll-print_export-label">
+<span class="vector-menu-heading-label">Печать/экспорт</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="coll-download-as-rl"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%94%D0%9D%D0%9A-%D0%BC%D0%B5%D1%82%D0%B8%D0%BB%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%B5%D1%80%D0%B0%D0%B7%D0%B0&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li class="mw-list-item" id="t-print"><a accesskey="p" href="/w/index.php?title=%D0%94%D0%9D%D0%9A-%D0%BC%D0%B5%D1%82%D0%B8%D0%BB%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%B5%D1%80%D0%B0%D0%B7%D0%B0&amp;printable=yes" title="Версия этой страницы для печати [p]"><span>Версия для печати</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-lang-label" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" id="p-lang" role="navigation">
+<h3 class="vector-menu-heading" id="p-lang-label">
+<span class="vector-menu-heading-label">На других языках</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="interlanguage-link interwiki-ar mw-list-item"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AF%D9%86%D8%A7_%D9%85%D9%8A%D8%AA%D9%8A%D9%84-%D8%AA%D8%B1%D8%A7%D9%86%D8%B3%D9%81%D9%8A%D8%B1%D8%A7%D8%B2" hreflang="ar" lang="ar" title="دنا ميتيل-ترانسفيراز — арабский"><span>العربية</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/DNA-Methyltransferasen" hreflang="de" lang="de" title="DNA-Methyltransferasen — немецкий"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a class="interlanguage-link-target" href="https://en.wikipedia.org/wiki/DNA_methyltransferase" hreflang="en" lang="en" title="DNA methyltransferase — английский"><span>English</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/ADN_m%C3%A9thyltransf%C3%A9rase" hreflang="fr" lang="fr" title="ADN méthyltransférase — французский"><span>Français</span></a></li><li class="interlanguage-link interwiki-gl mw-list-item"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/ADN_metiltransferase" hreflang="gl" lang="gl" title="ADN metiltransferase — галисийский"><span>Galego</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/DNA_metiltransferasi" hreflang="it" lang="it" title="DNA metiltransferasi — итальянский"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/DNA%E3%83%A1%E3%83%81%E3%83%AB%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B9%E3%83%95%E3%82%A7%E3%83%A9%E3%83%BC%E3%82%BC" hreflang="ja" lang="ja" title="DNAメチルトランスフェラーゼ — японский"><span>日本語</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/DNA-methyltransferase" hreflang="nl" lang="nl" title="DNA-methyltransferase — нидерландский"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Metylotransferazy_DNA" hreflang="pl" lang="pl" title="Metylotransferazy DNA — польский"><span>Polski</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/DNA_methyltransferase" hreflang="en-simple" lang="en-simple" title="DNA methyltransferase — Simple English"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%94%D0%9D%D0%9A-%D0%BC%D0%B5%D1%82%D0%B8%D0%BB%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%B5%D1%80%D0%B0%D0%B7%D0%B0" hreflang="uk" lang="uk" title="ДНК-метилтрансфераза — украинский"><span>Українська</span></a></li>
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1154602#sitelinks-wikipedia" title="Править ссылки на другие языки">Править ссылки</a></span></div>
+</div>
+</nav>
+</div>
+</div>
+<footer class="mw-footer" id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 13 апреля 2023 в 22:16.</li>
+<li id="footer-info-copyright">Текст доступен по <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru" rel="license">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a><a href="//creativecommons.org/licenses/by-sa/4.0/" rel="license" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br/>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org/ru/">Фонд Викимедиа (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//ru.m.wikipedia.org/w/index.php?title=%D0%94%D0%9D%D0%9A-%D0%BC%D0%B5%D1%82%D0%B8%D0%BB%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%B5%D1%80%D0%B0%D0%B7%D0%B0&amp;mobileaction=toggle_view_mobile">Мобильная версия</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" loading="lazy" src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88"/></a></li>
+<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" loading="lazy" src="/static/images/footer/poweredby_mediawiki_88x31.png" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88"/></a></li>
+</ul>
+</footer>
+
+
+</body>
+</html>

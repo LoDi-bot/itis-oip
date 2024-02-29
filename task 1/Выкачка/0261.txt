@@ -11,7 +11,7 @@
 <meta content="" name="ResourceLoaderDynamicStyles"/>
 
 
-<meta content="MediaWiki 1.42.0-wmf.18" name="generator"/>
+<meta content="MediaWiki 1.42.0-wmf.19" name="generator"/>
 <meta content="origin" name="referrer"/>
 <meta content="origin-when-cross-origin" name="referrer"/>
 <meta content="max-image-preview:standard" name="robots"/>
@@ -456,7 +456,7 @@
 <li><a class="external text" href="http://skyelander.orgfree.com/menu4.html" rel="nofollow">Account of Robert Bruce &amp; Battle of Bannockburn</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
 <li><a class="external text" href="https://facebook.com/RobertTheBruceDinner/" rel="nofollow">Annual Commemorative Robert the Bruce Dinner</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
 <li><a class="external text" href="https://web.archive.org/web/20100721024820/http://www.robertthebruceheritagecentre.co.uk/" rel="nofollow">Robert the Bruce Heritage Centre</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li></ul>
-<div aria-labelledby="Ссылки_на_внешние_ресурсы" class="navbox" data-name="External links" role="navigation" style="padding-top:1px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup" style="display:none"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:External_links" title="Перейти к шаблону «External links»"><img alt="Перейти к шаблону «External links»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span> </span><div id="Ссылки_на_внешние_ресурсы" style="font-size:114%;margin:0 5em">Ссылки на внешние ресурсы</div></th></tr><tr><th class="navbox-group" scope="row" style="width:1px"><div style="padding: 0 35px 0 0; width: 100%;"><div style="float: left;"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8" title="Перейти к шаблону «Внешние ссылки»"><img alt="Перейти к шаблону «Внешние ссылки»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span>  <span typeof="mw:File"><a href="https://www.wikidata.org/wiki/Q187312#identifiers" title="Перейти к элементу Викиданных"><img alt="Перейти к элементу Викиданных" class="mw-file-element" data-file-height="20" data-file-width="20" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/14px-OOjs_UI_icon_edit-ltr-progressive.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/21px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/28px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" width="14"/></a></span></div>  Тематические сайты</div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<div aria-labelledby="Ссылки_на_внешние_ресурсы" class="navbox" data-name="External links" role="navigation" style="padding-top:1px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup" style="display:none"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:External_links" title="Перейти к шаблону «External links»"><img alt="Перейти к шаблону «External links»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span></span><div id="Ссылки_на_внешние_ресурсы" style="font-size:114%;margin:0 5em">Ссылки на внешние ресурсы</div></th></tr><tr><th class="navbox-group" scope="row" style="width:1px"><div style="padding: 0 35px 0 0; width: 100%;"><div style="float: left;"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8" title="Перейти к шаблону «Внешние ссылки»"><img alt="Перейти к шаблону «Внешние ссылки»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span>  <span typeof="mw:File"><a href="https://www.wikidata.org/wiki/Q187312#identifiers" title="Перейти к элементу Викиданных"><img alt="Перейти к элементу Викиданных" class="mw-file-element" data-file-height="20" data-file-width="20" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/14px-OOjs_UI_icon_edit-ltr-progressive.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/21px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/28px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" width="14"/></a></span></div>  Тематические сайты</div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
 <ul><li><a class="external text" href="https://wikidata-externalid-url.toolforge.org/?p=4638&amp;url_prefix=https://www.thepeerage.com/&amp;id=p10209.htm#i102089">The Peerage</a></li></ul>
 </div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Словари и энциклопедии</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
 <ul><li><a class="external text" href="https://wikidata-externalid-url.toolforge.org/?p=8313&amp;url_prefix=https://denstoredanske.lex.dk/&amp;id=Robert_1._the_Bruce">Большая датская</a></li>
@@ -494,7 +494,7 @@
 <li><a href="/wiki/VIAF" title="VIAF">VIAF</a>: <a class="external text" href="https://viaf.org/viaf/44334268/" rel="nofollow">44334268</a></li>
 <li><a href="/wiki/WorldCat" title="WorldCat">WorldCat VIAF</a>: <a class="external text" href="https://www.worldcat.org/identities/containsVIAFID/44334268" rel="nofollow">44334268</a></li></ul>
 </div></td></tr></tbody></table><div></div></td></tr></tbody></table></div>
-<div aria-labelledby="Короли_Альбы_и_Шотландии" class="navbox" data-name="Шотландские монархи" role="navigation"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="3" scope="colgroup"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%A8%D0%BE%D1%82%D0%BB%D0%B0%D0%BD%D0%B4%D1%81%D0%BA%D0%B8%D0%B5_%D0%BC%D0%BE%D0%BD%D0%B0%D1%80%D1%85%D0%B8" title="Перейти к шаблону «Шотландские монархи»"><img alt="Перейти к шаблону «Шотландские монархи»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span> </span><div id="Короли_Альбы_и_Шотландии" style="font-size:114%;margin:0 5em"><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BA%D0%BE%D1%80%D0%BE%D0%BB%D0%B5%D0%B9_%D0%A8%D0%BE%D1%82%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D0%B8" title="Список королей Шотландии">Короли Альбы и Шотландии</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/%D0%9C%D0%B0%D0%BA%D0%B0%D0%BB%D1%8C%D0%BF%D0%B8%D0%BD%D1%8B" title="Макальпины">Макальпины</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<div aria-labelledby="Короли_Альбы_и_Шотландии" class="navbox" data-name="Шотландские монархи" role="navigation"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="3" scope="colgroup"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%A8%D0%BE%D1%82%D0%BB%D0%B0%D0%BD%D0%B4%D1%81%D0%BA%D0%B8%D0%B5_%D0%BC%D0%BE%D0%BD%D0%B0%D1%80%D1%85%D0%B8" title="Перейти к шаблону «Шотландские монархи»"><img alt="Перейти к шаблону «Шотландские монархи»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span></span><div id="Короли_Альбы_и_Шотландии" style="font-size:114%;margin:0 5em"><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BA%D0%BE%D1%80%D0%BE%D0%BB%D0%B5%D0%B9_%D0%A8%D0%BE%D1%82%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D0%B8" title="Список королей Шотландии">Короли Альбы и Шотландии</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/%D0%9C%D0%B0%D0%BA%D0%B0%D0%BB%D1%8C%D0%BF%D0%B8%D0%BD%D1%8B" title="Макальпины">Макальпины</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
 <ul><li><a href="/wiki/%D0%9A%D0%B5%D0%BD%D0%BD%D0%B5%D1%82_I" title="Кеннет I">Кеннет I</a></li>
 <li><a href="/wiki/%D0%94%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%B4_I_(%D0%BA%D0%BE%D1%80%D0%BE%D0%BB%D1%8C_%D0%A8%D0%BE%D1%82%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D0%B8)" title="Дональд I (король Шотландии)">Дональд I</a></li>
 <li><a href="/wiki/%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD_I_(%D0%BA%D0%BE%D1%80%D0%BE%D0%BB%D1%8C_%D0%A8%D0%BE%D1%82%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D0%B8)" title="Константин I (король Шотландии)">Константин I</a></li>
@@ -556,38 +556,38 @@
 </div></td></tr><tr><td class="navbox-abovebelow" colspan="3"><div><sup>†</sup> Также короли Англии и короли Ирландии.</div></td></tr></tbody></table></div>
 <!-- 
 NewPP limit report
-Parsed by mw1354
-Cached time: 20240216063844
+Parsed by mw2272
+Cached time: 20240226182947
 Cache expiry: 2592000
 Reduced expiry: false
 Complications: [vary‐revision‐sha1, show‐toc]
-CPU time usage: 0.788 seconds
-Real time usage: 1.191 seconds
-Preprocessor visited node count: 6131/1000000
-Post‐expand include size: 281343/2097152 bytes
-Template argument size: 49542/2097152 bytes
+CPU time usage: 0.868 seconds
+Real time usage: 1.204 seconds
+Preprocessor visited node count: 6071/1000000
+Post‐expand include size: 281090/2097152 bytes
+Template argument size: 49386/2097152 bytes
 Highest expansion depth: 17/100
 Expensive parser function count: 16/500
 Unstrip recursion depth: 1/20
 Unstrip post‐expand size: 11642/5000000 bytes
-Lua time usage: 0.477/10.000 seconds
-Lua memory usage: 16032885/52428800 bytes
+Lua time usage: 0.478/10.000 seconds
+Lua memory usage: 16034800/52428800 bytes
 Number of Wikibase entities loaded: 29/400
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00% 1002.594      1 -total
- 39.84%  399.480      1 Шаблон:Wikidata/Ancestors
- 39.68%  397.864      1 Шаблон:Wikidata/FamilyTree
- 32.71%  327.915      1 Шаблон:Государственный_деятель
- 28.21%  282.852      1 Шаблон:Карточка
- 11.05%  110.821      1 Шаблон:Вс
-  8.62%   86.401      9 Шаблон:Wikidata
-  6.07%   60.878      1 Шаблон:Примечания
-  4.66%   46.733      2 Шаблон:Книга
-  4.20%   42.065      2 Шаблон:Другие_значения
+100.00%  957.394      1 -total
+ 36.25%  347.054      1 Шаблон:Wikidata/Ancestors
+ 36.09%  345.522      1 Шаблон:Wikidata/FamilyTree
+ 34.24%  327.839      1 Шаблон:Государственный_деятель
+ 30.84%  295.289      1 Шаблон:Карточка
+ 12.14%  116.248      1 Шаблон:Вс
+  8.95%   85.730      9 Шаблон:Wikidata
+  7.67%   73.416      1 Шаблон:Примечания
+  6.39%   61.183      2 Шаблон:Книга
+  3.39%   32.460      1 Шаблон:Карточка/оригинал_имени
 -->
-<!-- Saved in parser cache with key ruwiki:pcache:idhash:51226-0!canonical and timestamp 20240216063844 and revision id 133931292. Rendering was triggered because: page-view
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:51226-0!canonical and timestamp 20240226182947 and revision id 133931292. Rendering was triggered because: page-view
  -->
 </div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> -->
 <div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Роберт_I_(король_Шотландии)&amp;oldid=133931292">https://ru.wikipedia.org/w/index.php?title=Роберт_I_(король_Шотландии)&amp;oldid=133931292</a></div></div>

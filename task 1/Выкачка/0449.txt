@@ -1,0 +1,761 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="ru">
+<head>
+<meta charset="utf-8"/>
+<title>Смывайся! — Википедия</title>
+
+
+
+
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+
+
+<meta content="MediaWiki 1.42.0-wmf.19" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="max-image-preview:standard" name="robots"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="https://upload.wikimedia.org/wikipedia/ru/thumb/5/56/%D0%A1%D0%BC%D1%8B%D0%B2%D0%B0%D0%B9%D1%81%D1%8F%21_%28%D0%BF%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D0%B0%29.jpg/1200px-%D0%A1%D0%BC%D1%8B%D0%B2%D0%B0%D0%B9%D1%81%D1%8F%21_%28%D0%BF%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D0%B0%29.jpg" property="og:image"/>
+<meta content="1200" property="og:image:width"/>
+<meta content="1602" property="og:image:height"/>
+<meta content="https://upload.wikimedia.org/wikipedia/ru/thumb/5/56/%D0%A1%D0%BC%D1%8B%D0%B2%D0%B0%D0%B9%D1%81%D1%8F%21_%28%D0%BF%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D0%B0%29.jpg/800px-%D0%A1%D0%BC%D1%8B%D0%B2%D0%B0%D0%B9%D1%81%D1%8F%21_%28%D0%BF%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D0%B0%29.jpg" property="og:image"/>
+<meta content="800" property="og:image:width"/>
+<meta content="1068" property="og:image:height"/>
+<meta content="https://upload.wikimedia.org/wikipedia/ru/thumb/5/56/%D0%A1%D0%BC%D1%8B%D0%B2%D0%B0%D0%B9%D1%81%D1%8F%21_%28%D0%BF%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D0%B0%29.jpg/640px-%D0%A1%D0%BC%D1%8B%D0%B2%D0%B0%D0%B9%D1%81%D1%8F%21_%28%D0%BF%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D0%B0%29.jpg" property="og:image"/>
+<meta content="640" property="og:image:width"/>
+<meta content="854" property="og:image:height"/>
+<meta content="width=1000" name="viewport"/>
+<meta content="Смывайся! — Википедия" property="og:title"/>
+<meta content="website" property="og:type"/>
+
+
+
+
+
+
+
+
+
+
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Смывайся rootpage-Смывайся skin-vector action-view"><div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators">
+</div>
+<h1 class="firstHeading mw-first-heading" id="firstHeading"><span class="mw-page-title-main">Смывайся!</span></h1>
+<div class="vector-body" id="bodyContent">
+<div class="noprint" id="siteSub">Материал из Википедии — свободной энциклопедии</div>
+<div id="contentSub"><div id="mw-content-subtitle"><span class="mw-redirectedfrom">(перенаправлено с «<a class="mw-redirect" href="/w/index.php?title=%D0%A1%D0%BC%D1%8B%D0%B2%D0%B0%D0%B9%D1%81%D1%8F!_(%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)&amp;redirect=no" title="Смывайся! (мультфильм)">Смывайся! (мультфильм)</a>»)</span></div></div>
+<div id="contentSub2"></div>
+<div id="jump-to-nav"></div>
+<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+<div class="mw-body-content" id="mw-content-text"><div class="mw-content-ltr mw-parser-output" dir="ltr" lang="ru"><div class="hatnote navigation-not-searchable noprint dabhide">У этого термина существуют и другие значения, см. <a class="mw-disambig" href="/wiki/Flushed_Away_(%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D1%8F)" title="Flushed Away (значения)">Flushed Away (значения)</a>.</div>
+<table class="infobox infobox-a0b834e9776672c7" data-name="Мультфильм" style=""><tbody><tr><th class="infobox-above" colspan="2" scope="colgroup" style="">Смывайся!</th></tr><tr><td class="" colspan="2" style="text-align:center;"><span class="no-wikidata" data-wikidata-property-id="P1476"><a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">Flushed Away</span></span></td></tr><tr><td class="infobox-image" colspan="2" style=""> <span class="no-wikidata" data-wikidata-property-id="P18"><span typeof="mw:File/Frameless"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%A1%D0%BC%D1%8B%D0%B2%D0%B0%D0%B9%D1%81%D1%8F!_(%D0%BF%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D0%B0).jpg" title="Постер мультфильма"><img alt="Постер мультфильма" class="mw-file-element" data-file-height="2670" data-file-width="2000" decoding="async" height="366" src="//upload.wikimedia.org/wikipedia/ru/thumb/5/56/%D0%A1%D0%BC%D1%8B%D0%B2%D0%B0%D0%B9%D1%81%D1%8F%21_%28%D0%BF%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D0%B0%29.jpg/274px-%D0%A1%D0%BC%D1%8B%D0%B2%D0%B0%D0%B9%D1%81%D1%8F%21_%28%D0%BF%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D0%B0%29.jpg" srcset="//upload.wikimedia.org/wikipedia/ru/thumb/5/56/%D0%A1%D0%BC%D1%8B%D0%B2%D0%B0%D0%B9%D1%81%D1%8F%21_%28%D0%BF%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D0%B0%29.jpg/411px-%D0%A1%D0%BC%D1%8B%D0%B2%D0%B0%D0%B9%D1%81%D1%8F%21_%28%D0%BF%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D0%B0%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/ru/thumb/5/56/%D0%A1%D0%BC%D1%8B%D0%B2%D0%B0%D0%B9%D1%81%D1%8F%21_%28%D0%BF%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D0%B0%29.jpg/548px-%D0%A1%D0%BC%D1%8B%D0%B2%D0%B0%D0%B9%D1%81%D1%8F%21_%28%D0%BF%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D0%B0%29.jpg 2x" width="274"/></a></span><br/><span class="media-caption" data-wikidata-qualifier-id="P2096" style="display:block">Постер мультфильма</span></span> </td></tr>
+<tr>
+<th class="plainlist" scope="row"><a href="/wiki/%D0%96%D0%B0%D0%BD%D1%80%D1%8B_%D0%B8%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE_%D0%BA%D0%B8%D0%BD%D0%BE" title="Жанры игрового кино"> Жанры
+</a></th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P136"><a class="mw-redirect" href="/wiki/%D0%9F%D1%80%D0%B8%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F" title="Приключения">приключения</a>, <a href="/wiki/%D0%9A%D0%B8%D0%BD%D0%BE%D0%BA%D0%BE%D0%BC%D0%B5%D0%B4%D0%B8%D1%8F" title="Кинокомедия">комедия</a>, <a href="/wiki/%D0%A1%D0%B5%D0%BC%D0%B5%D0%B9%D0%BD%D1%8B%D0%B9_%D1%84%D0%B8%D0%BB%D1%8C%D0%BC" title="Семейный фильм">семейный фильм</a></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Техники анимации</th>
+<td class="plainlist">
+<span class="wikidata-claim" data-wikidata-claim-id="Q752301$F692A645-6015-4836-B911-E47E01D69469" data-wikidata-property-id="P2079"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%9F%D0%BB%D0%B0%D1%81%D1%82%D0%B8%D0%BB%D0%B8%D0%BD%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B0%D0%BD%D0%B8%D0%BC%D0%B0%D1%86%D0%B8%D1%8F" title="Пластилиновая анимация">пластилиновая анимация</a></span></span> и <span class="wikidata-claim" data-wikidata-claim-id="Q752301$60c19452-4268-ef19-bba4-5549d4a1417d" data-wikidata-property-id="P2079"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%8F_%D0%B0%D0%BD%D0%B8%D0%BC%D0%B0%D1%86%D0%B8%D1%8F" title="Компьютерная анимация">компьютерная</a></span></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Режиссёры</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P57"><a href="/wiki/%D0%91%D0%B0%D1%83%D1%8D%D1%80%D1%81,_%D0%94%D1%8D%D0%B2%D0%B8%D0%B4" title="Бауэрс, Дэвид">Дэвид Бауэрс</a>, <a class="new" href="/w/index.php?title=%D0%A4%D0%B5%D0%BB%D0%BB,_%D0%A1%D1%8D%D0%BC&amp;action=edit&amp;redlink=1" title="Фелл, Сэм (страница отсутствует)">Сэм Фелл</a></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Авторы сценария</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P58">Сэм Фелл, <a href="/wiki/%D0%9B%D0%BE%D1%80%D0%B4,_%D0%9F%D0%B8%D1%82%D0%B5%D1%80" title="Лорд, Питер">Питер Лорд</a><br/><a class="new" href="/w/index.php?title=%D0%9A%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82,_%D0%94%D0%B8%D0%BA&amp;action=edit&amp;redlink=1" title="Клемент, Дик (страница отсутствует)">Дик Клемент</a><br/><a href="/wiki/%D0%9B%D0%BB%D0%BE%D0%B9%D0%B4,_%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%BE%D1%84%D0%B5%D1%80" title="Ллойд, Кристофер">Кристофер Ллойд</a></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Роли озвучивали</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P725"><a href="/wiki/%D0%94%D0%B6%D0%B5%D0%BA%D0%BC%D0%B0%D0%BD,_%D0%A5%D1%8C%D1%8E" title="Джекман, Хью">Хью Джекман</a><br/><a href="/wiki/%D0%A3%D0%B8%D0%BD%D1%81%D0%BB%D0%B5%D1%82,_%D0%9A%D0%B5%D0%B9%D1%82" title="Уинслет, Кейт">Кейт Уинслет</a><br/><a href="/wiki/%D0%9C%D0%B0%D0%BA%D0%BA%D0%B5%D0%BB%D0%BB%D0%B5%D0%BD,_%D0%98%D1%8D%D0%BD" title="Маккеллен, Иэн">Иэн Маккеллен</a><br/><a class="mw-redirect" href="/wiki/%D0%A0%D0%B5%D0%BD%D0%BE,_%D0%96%D0%B0%D0%BD" title="Рено, Жан">Жан Рено</a><br/><a href="/wiki/%D0%9D%D0%B0%D0%B9%D0%B8,_%D0%91%D0%B8%D0%BB%D0%BB" title="Найи, Билл">Билл Найи</a><br/><a href="/wiki/%D0%A1%D0%B5%D1%80%D0%BA%D0%B8%D1%81,_%D0%AD%D0%BD%D0%B4%D0%B8" title="Серкис, Энди">Энди Серкис</a><br/><a class="new" href="/w/index.php?title=%D0%A0%D0%B8%D1%87%D0%B8,_%D0%A8%D0%B5%D0%B9%D0%BD&amp;action=edit&amp;redlink=1" title="Ричи, Шейн (страница отсутствует)">Шейн Ричи</a></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Композитор</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P86"><a href="/wiki/%D0%93%D1%80%D0%B5%D0%B3%D1%81%D0%BE%D0%BD-%D0%A3%D0%B8%D0%BB%D1%8C%D1%8F%D0%BC%D1%81,_%D0%93%D0%B0%D1%80%D1%80%D0%B8" title="Грегсон-Уильямс, Гарри">Гарри Грегсон-Уильямс</a></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Страны</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P495"><span class="nowrap" data-sort-value="США"><span class="flagicon"><span class="mw-image-border noresize" typeof="mw:File"><span><img alt="" class="mw-file-element" data-file-height="650" data-file-width="1235" decoding="async" height="12" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/22px-Flag_of_the_United_States.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/33px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/44px-Flag_of_the_United_States.svg.png 2x" width="22"/></span></span></span> <a href="/wiki/%D0%A1%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D0%A8%D1%82%D0%B0%D1%82%D1%8B_%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B8" title="Соединённые Штаты Америки"><span class="wrap">США</span></a></span><br/><span class="nowrap" data-sort-value="Великобритания"><span class="flagicon"><span class="mw-image-border noresize" typeof="mw:File"><span><img alt="" class="mw-file-element" data-file-height="600" data-file-width="1000" decoding="async" height="13" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/22px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/33px-Flag_of_the_United_Kingdom_%283-5%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/44px-Flag_of_the_United_Kingdom_%283-5%29.svg.png 2x" width="22"/></span></span></span> <a href="/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F" title="Великобритания"><span class="wrap">Великобритания</span></a></span></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Язык</th>
+<td class="plainlist">
+<span class="wikidata-claim" data-wikidata-claim-id="Q752301$C59B53F7-855A-4CB9-8EBB-44EA5ECCCF50" data-wikidata-property-id="P364"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">английский</a></span></span></td>
+</tr>
+<tr>
+<th class="infobox-header" colspan="2" scope="colgroup" style="">Производство</th>
+</tr>
+<tr>
+<th class="plainlist" scope="row"><a href="/wiki/%D0%9A%D0%B8%D0%BD%D0%BE%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80" title="Кинооператор"> Операторы
+</a></th>
+<td class="plainlist">
+<ul><li><span class="wikidata-claim" data-wikidata-claim-id="Q752301$6dc83663-4d89-ab6d-115e-b1b61c86d09b" data-wikidata-property-id="P344"><span class="wikidata-snak wikidata-main-snak"><span class="plainlinks"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%91%D1%80%D1%8D%D0%B4+%D0%91%D0%BB%D1%8D%D0%BA%D0%B1%D0%BE%D1%80%D0%BD&amp;action=edit&amp;editintro=T:Нет_статьи/editintro&amp;preload=T:Нет_статьи/preload&amp;preloadparams%5B%5D=Q108853715&amp;preloadparams%5B%5D=%D0%91%D1%80%D1%8D%D0%B4+%D0%91%D0%BB%D1%8D%D0%BA%D0%B1%D0%BE%D1%80%D0%BD&amp;preloadparams%5B%5D=Персона"><span style="color: #ba0000; text-decoration: inherit; -moz-text-decoration-color: #ba0000; text-decoration-color: #ba0000;">Брэд Блэкборн</span></a></span><sup><a class="extiw" href="https://www.wikidata.org/wiki/Q108853715" title="d:Q108853715">[d]</a></sup></span></span></li><li><span class="wikidata-claim" data-wikidata-claim-id="Q752301$e9b98171-4676-fa3c-1faf-9ebf54dc1c30" data-wikidata-property-id="P344"><span class="wikidata-snak wikidata-main-snak"><span class="plainlinks"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%A4%D1%80%D1%8D%D0%BD%D0%BA+%D0%9F%D1%8D%D1%81%D1%81%D0%B8%D0%BD%D0%B3%D0%B5%D0%BC&amp;action=edit&amp;editintro=T:Нет_статьи/editintro&amp;preload=T:Нет_статьи/preload&amp;preloadparams%5B%5D=Q108853732&amp;preloadparams%5B%5D=%D0%A4%D1%80%D1%8D%D0%BD%D0%BA+%D0%9F%D1%8D%D1%81%D1%81%D0%B8%D0%BD%D0%B3%D0%B5%D0%BC&amp;preloadparams%5B%5D=Персона"><span style="color: #ba0000; text-decoration: inherit; -moz-text-decoration-color: #ba0000; text-decoration-color: #ba0000;">Фрэнк Пэссингем</span></a></span><sup><a class="extiw" href="https://www.wikidata.org/wiki/Q108853732" title="d:Q108853732">[d]</a></sup></span></span></li></ul></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Длительность</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P2047">81 минута</span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Студии</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P272"><a href="/wiki/DreamWorks_Animation" title="DreamWorks Animation">DreamWorks Animation</a><br/><a href="/wiki/Aardman_Animations" title="Aardman Animations">Aardman Animations</a></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Дистрибьютор</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P750"><a href="/wiki/Paramount_Pictures" title="Paramount Pictures">Paramount Pictures</a></span></td>
+</tr>
+<tr>
+<th class="infobox-header" colspan="2" scope="colgroup" style="">Выпуск</th>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Дата выхода</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P577">22 октября 2006 (<a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D0%BA%D0%B8%D0%BD%D0%BE%D1%84%D0%B5%D1%81%D1%82%D0%B8%D0%B2%D0%B0%D0%BB%D1%8C_%D0%B2_%D0%A2%D0%BE%D0%BA%D0%B8%D0%BE" title="Международный кинофестиваль в Токио">Международный кинофестиваль в Токио</a>)</span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Бюджет</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P2130">$149 000 000</span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Сборы</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P2142">$178 120 010</span></td>
+</tr>
+<tr>
+<th class="infobox-header" colspan="2" scope="colgroup" style="">Ссылки</th>
+</tr>
+<tr>
+<th class="plainlist" scope="row"><a href="/wiki/Internet_Movie_Database" title="Internet Movie Database">IMDb</a></th>
+<td class="plainlist">
+<span class="wikidata-claim" data-wikidata-claim-id="q752301$3F571EA7-FD53-4BE9-9BDB-F2803EC53D31" data-wikidata-property-id="P345"><span class="wikidata-snak wikidata-main-snak"><a class="extiw" href="https://www.imdb.com/title/tt0424095/" title="imdbtitle:0424095">ID 0424095</a></span></span></td>
+</tr><tr><td class="infobox-below" colspan="2" style=";"><span class="wikidata-claim" data-wikidata-claim-id="Q752301$E809BC6E-0FAF-45A1-9B46-85034A356893" data-wikidata-property-id="P856"><span class="wikidata-snak wikidata-main-snak"><a class="external text" href="https://www.aardman.com/work/flushed-away-04/" rel="nofollow">aardman.com/work/…</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></span></span></td></tr><tr><td class="infobox-below" colspan="2" style=";"><span class="wikidata-claim" data-wikidata-claim-id="Q752301$a8d57538-4625-e2da-9ce9-64dbd0d8964d" data-wikidata-property-id="P373"><span class="wikidata-snak wikidata-main-snak"><span typeof="mw:File"><a href="https://commons.wikimedia.org/wiki/Category:Flushed_Away" title="commons:Category:Flushed Away"><img alt="Логотип Викисклада" class="mw-file-element" data-file-height="1376" data-file-width="1024" decoding="async" height="20" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/15px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/23px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 2x" width="15"/></a></span> <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Flushed_Away" title="commons:Category:Flushed Away">Медиафайлы на Викискладе</a></span></span></td></tr><tr><td class="infobox-below" colspan="2" style=";"><span typeof="mw:File"><a href="https://ru.wikiquote.org/wiki/%D0%A1%D0%BC%D1%8B%D0%B2%D0%B0%D0%B9%D1%81%D1%8F!" title="Логотип Викицитатника"><img alt="Логотип Викицитатника" class="mw-file-element" data-file-height="355" data-file-width="300" decoding="async" height="18" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/15px-Wikiquote-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/23px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/30px-Wikiquote-logo.svg.png 2x" width="15"/></a></span> <a class="extiw" href="https://ru.wikiquote.org/wiki/%D0%A1%D0%BC%D1%8B%D0%B2%D0%B0%D0%B9%D1%81%D1%8F!" title="q:Смывайся!">Цитаты в Викицитатнике</a></td></tr>
+</tbody></table>
+<p><b>«Смывáйся!»</b> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">Flushed Away</span>) — <a class="mw-redirect" href="/wiki/%D0%A1%D0%A8%D0%90" title="США">американский</a> и <a href="/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F" title="Великобритания">британский</a> <a class="mw-redirect" href="/wiki/%D0%90%D0%BD%D0%B8%D0%BC%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9_%D1%84%D0%B8%D0%BB%D1%8C%D0%BC" title="Анимационный фильм">мультфильм</a> <a href="/wiki/2006_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE" title="2006 год в кино">2006 года</a> от режиссёров <a href="/wiki/%D0%91%D0%B0%D1%83%D1%8D%D1%80%D1%81,_%D0%94%D1%8D%D0%B2%D0%B8%D0%B4" title="Бауэрс, Дэвид">Дэвида Бауэрса</a> и <a class="new" href="/w/index.php?title=%D0%A4%D0%B5%D0%BB%D0%BB,_%D0%A1%D1%8D%D0%BC&amp;action=edit&amp;redlink=1" title="Фелл, Сэм (страница отсутствует)">Сэма Фелла</a>. Третья и последняя совместная работа студий <a href="/wiki/DreamWorks_Animation" title="DreamWorks Animation">DreamWorks Animation</a> и <a href="/wiki/Aardman_Animations" title="Aardman Animations">Aardman Animations</a>. В отличие от предыдущих мультфильмов, сделанных с помощью <a href="/wiki/%D0%9F%D0%BB%D0%B0%D1%81%D1%82%D0%B8%D0%BB%D0%B8%D0%BD%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B0%D0%BD%D0%B8%D0%BC%D0%B0%D1%86%D0%B8%D1%8F" title="Пластилиновая анимация">пластилиновой анимации</a>, данный мультфильм сделан целиком с помощью <a href="/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%8F_%D0%B0%D0%BD%D0%B8%D0%BC%D0%B0%D1%86%D0%B8%D1%8F" title="Компьютерная анимация">компьютерной анимации</a>, однако в основу вошла и пластилиновая анимация.
+</p><p>Мультфильм получил рейтинг <a href="/wiki/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2_%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B9_%D0%BA%D0%B8%D0%BD%D0%BE%D0%B0%D1%81%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D1%86%D0%B8%D0%B8" title="Система рейтингов Американской киноассоциации">PG</a> за <a href="/wiki/%D0%A1%D0%BB%D0%B5%D0%BD%D0%B3" title="Сленг">сленг</a> и грубый <a href="/wiki/%D0%AE%D0%BC%D0%BE%D1%80" title="Юмор">юмор</a>. Главных героев озвучили <a href="/wiki/%D0%94%D0%B6%D0%B5%D0%BA%D0%BC%D0%B0%D0%BD,_%D0%A5%D1%8C%D1%8E" title="Джекман, Хью">Хью Джекман</a>, <a href="/wiki/%D0%A3%D0%B8%D0%BD%D1%81%D0%BB%D0%B5%D1%82,_%D0%9A%D0%B5%D0%B9%D1%82" title="Уинслет, Кейт">Кейт Уинслет</a>, <a href="/wiki/%D0%9C%D0%B0%D0%BA%D0%BA%D0%B5%D0%BB%D0%BB%D0%B5%D0%BD,_%D0%98%D1%8D%D0%BD" title="Маккеллен, Иэн">Иэн Маккеллен</a>, <a class="mw-redirect" href="/wiki/%D0%A0%D0%B5%D0%BD%D0%BE,_%D0%96%D0%B0%D0%BD" title="Рено, Жан">Жан Рено</a>, <a href="/wiki/%D0%9D%D0%B0%D0%B9%D0%B8,_%D0%91%D0%B8%D0%BB%D0%BB" title="Найи, Билл">Билл Найи</a>, <a href="/wiki/%D0%A1%D0%B5%D1%80%D0%BA%D0%B8%D1%81,_%D0%AD%D0%BD%D0%B4%D0%B8" title="Серкис, Энди">Энди Серкис</a> и <a class="new" href="/w/index.php?title=%D0%A0%D0%B8%D1%87%D0%B8,_%D0%A8%D0%B5%D0%B9%D0%BD&amp;action=edit&amp;redlink=1" title="Ричи, Шейн (страница отсутствует)">Шейн Ричи</a>.
+</p><p><a class="mw-redirect" href="/wiki/%D0%A2%D0%B5%D0%B3%D0%BB%D0%B0%D0%B9%D0%BD" title="Теглайн">Теглайн</a> мультфильма: «Из цивилизации — в канализацию».
+</p>
+<div aria-labelledby="mw-toc-heading" class="toc" id="toc" role="navigation"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="ru"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Сюжет"><span class="tocnumber">1</span> <span class="toctext">Сюжет</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Основные_персонажи"><span class="tocnumber">2</span> <span class="toctext">Основные персонажи</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Прокат"><span class="tocnumber">3</span> <span class="toctext">Прокат</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Реакция"><span class="tocnumber">4</span> <span class="toctext">Реакция</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Отзывы_критиков_и_зрителей"><span class="tocnumber">4.1</span> <span class="toctext">Отзывы критиков и зрителей</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Кассовые_сборы"><span class="tocnumber">4.2</span> <span class="toctext">Кассовые сборы</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Видеоигра"><span class="tocnumber">5</span> <span class="toctext">Видеоигра</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Награды_и_номинации"><span class="tocnumber">6</span> <span class="toctext">Награды и номинации</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Примечания"><span class="tocnumber">7</span> <span class="toctext">Примечания</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Ссылки"><span class="tocnumber">8</span> <span class="toctext">Ссылки</span></a></li>
+</ul>
+</div>
+<h2><span id=".D0.A1.D1.8E.D0.B6.D0.B5.D1.82"></span><span class="mw-headline" id="Сюжет">Сюжет</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D0%BC%D1%8B%D0%B2%D0%B0%D0%B9%D1%81%D1%8F!&amp;veaction=edit&amp;section=1" title="Редактировать раздел «Сюжет»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%BC%D1%8B%D0%B2%D0%B0%D0%B9%D1%81%D1%8F!&amp;action=edit&amp;section=1" title="Редактировать код раздела «Сюжет»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Родди Сент-Джеймс — домашняя <a class="mw-redirect" href="/wiki/%D0%9C%D1%8B%D1%88%D1%8C" title="Мышь">мышь</a>, ведущий беззаботную жизнь <a class="mw-redirect" href="/wiki/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B5_%D0%B6%D0%B8%D0%B2%D0%BE%D1%82%D0%BD%D0%BE%D0%B5" title="Домашнее животное">домашнего животного</a> в одном из самых богатых районов <a href="/wiki/%D0%9B%D0%BE%D0%BD%D0%B4%D0%BE%D0%BD" title="Лондон">Лондона</a> — в <a href="/wiki/%D0%9A%D0%B5%D0%BD%D1%81%D0%B8%D0%BD%D0%B3%D1%82%D0%BE%D0%BD" title="Кенсингтон">Кенсингтоне</a>. Он чувствует себя полным <a class="mw-redirect" href="/wiki/%D0%90%D1%80%D0%B8%D1%81%D1%82%D0%BE%D0%BA%D1%80%D0%B0%D1%82" title="Аристократ">аристократом</a>, устраивает себе типичные аристократические развлечения, но при этом он совершенно один. Однажды, в отсутствие хозяев, в его доме неожиданно объявляется Сид, мышь, всю жизнь проживший в <a href="/wiki/%D0%9A%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F" title="Канализация">канализации</a>, выглядящий и ведущий себя соответственно, и почти сразу заявляет Родди, что не собирается покидать дом. Чтобы избавиться от нежелательного гостя, Родди пытается спустить Сида в унитаз (выдав его за джакузи), но в результате «аристократ» сам оказывается в лондонской канализации, где открывает для себя целый мышиный город.
+</p><p>В поисках возможностей вернуться домой он выходит на Риту Мэлоун, предприимчивую <a href="/wiki/%D0%9A%D1%80%D1%8B%D1%81%D1%8B" title="Крысы">крысу</a>, работающую на своей лодке «Джимми Доджер». С самого начала отношения Риты и Родди не сложились: в момент их встречи объявляются мыши-телохранители Жаба, очень влиятельного гражданина подземного города, которые охотятся за Ритой, чтобы забрать у неё <a href="/wiki/%D0%A0%D1%83%D0%B1%D0%B8%D0%BD" title="Рубин">рубин</a>, который Рита получила в подарок от отца (этот камень якобы принадлежал короне самой <a class="mw-redirect" href="/wiki/%D0%95%D0%BB%D0%B8%D0%B7%D0%B0%D0%B2%D0%B5%D1%82%D0%B0_II_(%D0%BA%D0%BE%D1%80%D0%BE%D0%BB%D0%B5%D0%B2%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D0%B8)" title="Елизавета II (королева Великобритании)">Елизаветы II</a>), но Родди случайно включает сирену на корабле Риты, чем выдаёт их тайное убежище. К тому же, после захвата их телохранителями, он (в результате угроз со стороны бандитов) выдаёт им место, где лежит рубин. Позже выясняется, что Жаб собирает коллекцию вещей, так или иначе связанных с королевой, и рубин для него — одна из тех вещей, которых сильно недостаёт в его галерее.
+</p><p>Когда они оказываются уже в логове Жаба, Рите всё же удаётся перехитрить его и она сбегает от Жаба вместе с рубином, прихватив по пути уникальный кабель, вслед за ней увязывается и Родди, поскольку с ней по-прежнему связаны все его надежды на возвращение домой. Рита не знает, для чего нужен этот кабель, и использует его как <a class="mw-redirect" href="/wiki/%D0%A2%D0%B0%D1%80%D0%B7%D0%B0%D0%BD%D0%BA%D0%B0" title="Тарзанка">тарзанку</a> (а впоследствии как ремень). Жабу хотелось смыть подземный город, открыв главные ворота во время перерыва футбольного матча, когда миллионы людей пойдут в туалет и спустят воду в канализацию, чтобы погубить крыс и заселить город себе подобными. Уникальный кабель был необходимой деталью в его механизме, открывающем ворота.
+</p><p>Спасаясь от их преследования, Родди снова попадает к Рите на катер. В результате этой новой встречи выясняется, что рубин был фальшивым — Родди разбивает его, чтобы доказать это Рите, что, конечно же, вызывает её негодование. Чтобы её успокоить, Родди обещает ей настоящий рубин, если она сумеет доставить его наверх, и они заключают сделку.
+</p><p>Чтобы поймать Риту и вернуть кабель, Жаб вызывает Лягуша, своего французского кузена. Хоть Лягуш и профессионал, у него не получается поймать Родди и Риту, и они оказываются на поверхности (ценой собственного катера). Придя домой, аристократ обнаруживает у себя дома полнейший разгром, который устроил Сид. Родди, боясь сказать Рите, что у него нет друзей и родных, говорит, что Сид — это его брат. К несчастью, Сид и Рита знают друг друга, и тем самым Рита узнаёт о его одиночестве — факте, который он пытался скрыть от неё, с тех пор, как увидел её в кругу её большой безбашенной семьи там внизу. Несмотря на это разочарование, Рита не теряет симпатии к нему (которая зародилась в результате пережитых вместе приключений), но он не желает ничего слышать, и делает вид, что ему прекрасно живётся в одиночку, и Рита уходит.
+</p><p>В подземном городе у неё отнимают кабель, при помощи которого Жаб готовился исполнить свой злобный план. Тем временем Родди застаёт Сида за просмотром финального матча между <a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F" title="Англия">Англией</a> и <a href="/wiki/%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F" title="Германия">Германией</a>, и тот рассказывает ему, что не намерен идти в туалет до самого перерыва, чтобы не пропустить ничего из игры, тем самым натолкнув Родди на мысль о том, какой именно план готовил Жаб. Родди прежним путём отправляется в канализацию, чтобы предотвратить уничтожение подземного города. Ему удаётся освободить Риту, и они вместе избавляют город от гибели. После этого Родди решает остаться жить у Риты и не возвращаться домой (ещё перед отправкой он предложил Сиду своё место). И он поступил правильно, так как с началом финальных титров мы узнаём, что в дом к Родди принесли <a class="mw-redirect" href="/wiki/%D0%9A%D0%BE%D1%82" title="Кот">кота</a>.
+</p>
+<h2><span id=".D0.9E.D1.81.D0.BD.D0.BE.D0.B2.D0.BD.D1.8B.D0.B5_.D0.BF.D0.B5.D1.80.D1.81.D0.BE.D0.BD.D0.B0.D0.B6.D0.B8"></span><span class="mw-headline" id="Основные_персонажи">Основные персонажи</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D0%BC%D1%8B%D0%B2%D0%B0%D0%B9%D1%81%D1%8F!&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Основные персонажи»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%BC%D1%8B%D0%B2%D0%B0%D0%B9%D1%81%D1%8F!&amp;action=edit&amp;section=2" title="Редактировать код раздела «Основные персонажи»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable sortable">
+<tbody><tr>
+<th scope="col">Актёр
+</th>
+<th scope="col">Роль
+</th></tr>
+<tr>
+<td><a href="/wiki/%D0%94%D0%B6%D0%B5%D0%BA%D0%BC%D0%B0%D0%BD,_%D0%A5%D1%8C%D1%8E" title="Джекман, Хью">Хью Джекман</a>
+</td>
+<td><span style="display:none">Родди Сент-Джеймс</span>  Родди Сент-Джеймс
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A3%D0%B8%D0%BD%D1%81%D0%BB%D0%B5%D1%82,_%D0%9A%D0%B5%D0%B9%D1%82" title="Уинслет, Кейт">Кейт Уинслет</a>
+</td>
+<td><span style="display:none">Рита Мэлоун</span>  Рита Мэлоун
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9C%D0%B0%D0%BA%D0%BA%D0%B5%D0%BB%D0%BB%D0%B5%D0%BD,_%D0%98%D1%8D%D0%BD" title="Маккеллен, Иэн">Иэн Маккеллен</a>
+</td>
+<td><span style="display:none">Жаб</span>  Жаб
+</td></tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/%D0%A0%D0%B5%D0%BD%D0%BE,_%D0%96%D0%B0%D0%BD" title="Рено, Жан">Жан Рено</a>
+</td>
+<td><span style="display:none">Лягуш</span>  Лягуш
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A1%D0%B5%D1%80%D0%BA%D0%B8%D1%81,_%D0%AD%D0%BD%D0%B4%D0%B8" title="Серкис, Энди">Энди Серкис</a>
+</td>
+<td><span style="display:none">Штырь</span>  Штырь
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9D%D0%B0%D0%B9%D0%B8,_%D0%91%D0%B8%D0%BB%D0%BB" title="Найи, Билл">Билл Найи</a>
+</td>
+<td><span style="display:none">Альби</span>  Альби
+</td></tr>
+<tr>
+<td><a class="new" href="/w/index.php?title=%D0%A0%D0%B8%D1%87%D0%B8,_%D0%A8%D1%8D%D0%B9%D0%BD&amp;action=edit&amp;redlink=1" title="Ричи, Шэйн (страница отсутствует)">Шэйн Ричи</a>
+</td>
+<td><span style="display:none">Сид</span>  Сид
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A1%D1%83%D1%88%D0%B5,_%D0%94%D1%8D%D0%B2%D0%B8%D0%B4" title="Суше, Дэвид">Дэвид Суше</a>
+</td>
+<td><span style="display:none">отец Риты</span>  отец Риты
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%91%D1%91%D1%80%D0%BA,_%D0%9A%D1%8D%D1%82%D0%B8" title="Бёрк, Кэти">Кэти Бёрк</a>
+</td>
+<td><span style="display:none">мать Риты</span>  мать Риты
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9C%D0%BE%D1%82%D1%81%D0%BE%D0%BD,_%D0%94%D0%B6%D0%BE%D0%BD" title="Мотсон, Джон">Джон Мотсон</a>
+</td>
+<td><span style="display:none">Футбольный комментатор</span>  Футбольный комментатор
+</td></tr>
+<tr>
+<td><a class="new" href="/w/index.php?title=%D0%A1%D1%8D%D0%BC_%D0%A4%D0%B5%D0%BB%D0%BB&amp;action=edit&amp;redlink=1" title="Сэм Фелл (страница отсутствует)">Сэм Фелл</a>
+</td>
+<td><span style="display:none">Предсказатель</span>  Предсказатель
+</td></tr>
+<tr>
+<td>Пол Шэрдлоу
+</td>
+<td><span style="display:none">Одноногий</span>  Одноногий
+</td></tr>
+<tr>
+<td>Рэйчел Роулинсон
+</td>
+<td><span style="display:none">Табита</span>  Табита
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A0%D0%B8%D1%87%D0%B0%D1%80%D0%B4%D1%81%D0%BE%D0%BD,_%D0%9C%D0%B0%D0%B9%D0%BB%D0%B7" title="Ричардсон, Майлз">Майлз Ричардсон</a>
+</td>
+<td><span style="display:none">отец Табиты</span>  отец Табиты
+</td></tr>
+<tr>
+<td><a class="new" href="/w/index.php?title=%D0%A1%D1%8C%D1%8E%D0%B7%D1%8D%D0%BD_%D0%94%D1%8E%D1%80%D0%B4%D0%B5%D0%BD&amp;action=edit&amp;redlink=1" title="Сьюзэн Дюрден (страница отсутствует)">Сьюзэн Дюрден</a>
+</td>
+<td><span style="display:none">мать Табиты</span>  мать Табиты
+</td></tr>
+<tr>
+<td>Ньюэлл Александр
+</td>
+<td><span style="display:none">Техасец</span>  Техасец
+</td></tr>
+<tr>
+<td>Кристофер Фэйрбэнк
+</td>
+<td><span style="display:none">Тед</span>  Тед
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%91%D0%B0%D1%83%D1%8D%D1%80%D1%81,_%D0%94%D1%8D%D0%B2%D0%B8%D0%B4" title="Бауэрс, Дэвид">Дэвид Бауэрс</a>
+</td>
+<td><span style="display:none">Золотая Рыба</span>  Золотая Рыба
+</td></tr></tbody></table>
+<h2><span id=".D0.9F.D1.80.D0.BE.D0.BA.D0.B0.D1.82"></span><span class="mw-headline" id="Прокат">Прокат</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D0%BC%D1%8B%D0%B2%D0%B0%D0%B9%D1%81%D1%8F!&amp;veaction=edit&amp;section=3" title="Редактировать раздел «Прокат»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%BC%D1%8B%D0%B2%D0%B0%D0%B9%D1%81%D1%8F!&amp;action=edit&amp;section=3" title="Редактировать код раздела «Прокат»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-Неполный_список_проката plainlinks metadata ambox ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><span title="Глобализировать"><img alt="" class="mw-file-element" data-file-height="290" data-file-width="350" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_globe_content.svg/48px-Ambox_globe_content.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_globe_content.svg/73px-Ambox_globe_content.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_globe_content.svg/97px-Ambox_globe_content.svg.png 2x" width="48"/></span></span></div></td><td class="mbox-text"><div class="mbox-text-div">Этот список проката фильма по регионам заведомо неполон.</div><div class="mbox-textsmall-div hide-when-compact" style="font-size:85%"><span class="hide-when-compact"> Добавьте информацию по остальным регионам со <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D0%BD%D0%B0_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8" title="Википедия:Ссылки на источники">ссылками на источники</a> или перепишите раздел, оставив только <a class="mw-redirect" href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9D%D0%95%D0%A1%D0%9F%D0%A0%D0%90%D0%92%D0%9E%D0%A7%D0%9D%D0%98%D0%9A" title="Википедия:НЕСПРАВОЧНИК">нетривиальные</a> факты о прокате в мире.</span></div></td></tr></tbody></table>
+<p>Фильм вышел в прокат в <a href="/wiki/%D0%A7%D0%B8%D0%BB%D0%B8" title="Чили">Чили</a> 29 октября 2006 года<sup class="reference" id="cite_ref-_e5a1c255aab98583_1-0"><a href="#cite_note-_e5a1c255aab98583-1">[1]</a></sup>, в <a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F" title="Россия">России</a>, <a href="/wiki/%D0%A1%D0%B8%D0%BD%D0%B3%D0%B0%D0%BF%D1%83%D1%80" title="Сингапур">Сингапуре</a> и на <a href="/wiki/%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0" title="Украина">Украине</a> — 2 ноября 2006 года<sup class="reference" id="cite_ref-_e5a1c255aab98583_1-1"><a href="#cite_note-_e5a1c255aab98583-1">[1]</a></sup>, в <a href="/wiki/%D0%A1%D0%BB%D0%BE%D0%B2%D0%B0%D0%BA%D0%B8%D1%8F" title="Словакия">Словакии</a> и <a class="mw-redirect" href="/wiki/%D0%A1%D0%A8%D0%90" title="США">США</a> — 3 ноября 2006 года<sup class="reference" id="cite_ref-_e5a1c255aab98583_1-2"><a href="#cite_note-_e5a1c255aab98583-1">[1]</a></sup>, в <a href="/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F" title="Великобритания">Великобритании</a>, <a href="/wiki/%D0%94%D0%B0%D0%BD%D0%B8%D1%8F" title="Дания">Дании</a> и <a href="/wiki/%D0%9A%D0%B0%D0%BC%D0%B5%D1%80%D1%83%D0%BD" title="Камерун">Камеруне</a> — 1 декабря 2006 года<sup class="reference" id="cite_ref-_e5a1c255aab98583_1-3"><a href="#cite_note-_e5a1c255aab98583-1">[1]</a></sup>.
+</p>
+<h2><span id=".D0.A0.D0.B5.D0.B0.D0.BA.D1.86.D0.B8.D1.8F"></span><span class="mw-headline" id="Реакция">Реакция</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D0%BC%D1%8B%D0%B2%D0%B0%D0%B9%D1%81%D1%8F!&amp;veaction=edit&amp;section=4" title="Редактировать раздел «Реакция»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%BC%D1%8B%D0%B2%D0%B0%D0%B9%D1%81%D1%8F!&amp;action=edit&amp;section=4" title="Редактировать код раздела «Реакция»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id=".D0.9E.D1.82.D0.B7.D1.8B.D0.B2.D1.8B_.D0.BA.D1.80.D0.B8.D1.82.D0.B8.D0.BA.D0.BE.D0.B2_.D0.B8_.D0.B7.D1.80.D0.B8.D1.82.D0.B5.D0.BB.D0.B5.D0.B9"></span><span class="mw-headline" id="Отзывы_критиков_и_зрителей">Отзывы критиков и зрителей</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D0%BC%D1%8B%D0%B2%D0%B0%D0%B9%D1%81%D1%8F!&amp;veaction=edit&amp;section=5" title="Редактировать раздел «Отзывы критиков и зрителей»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%BC%D1%8B%D0%B2%D0%B0%D0%B9%D1%81%D1%8F!&amp;action=edit&amp;section=5" title="Редактировать код раздела «Отзывы критиков и зрителей»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>На сайте <a href="/wiki/Rotten_Tomatoes" title="Rotten Tomatoes">Rotten Tomatoes</a> мультфильм получил рейтинг 75 % (89 критиков из 119 дали фильму положительную оценку) и его охарактеризовали как «умный и милый мультфильм для детей и взрослых». На сайте <a class="mw-redirect" href="/wiki/IMDb" title="IMDb">IMDb</a> он получил оценку 6,7 (проголосовало 86 128 человек).
+</p>
+<h3><span id=".D0.9A.D0.B0.D1.81.D1.81.D0.BE.D0.B2.D1.8B.D0.B5_.D1.81.D0.B1.D0.BE.D1.80.D1.8B"></span><span class="mw-headline" id="Кассовые_сборы">Кассовые сборы</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D0%BC%D1%8B%D0%B2%D0%B0%D0%B9%D1%81%D1%8F!&amp;veaction=edit&amp;section=6" title="Редактировать раздел «Кассовые сборы»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%BC%D1%8B%D0%B2%D0%B0%D0%B9%D1%81%D1%8F!&amp;action=edit&amp;section=6" title="Редактировать код раздела «Кассовые сборы»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="mbox-Неполный_список_проката plainlinks metadata ambox ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><span title="Глобализировать"><img alt="" class="mw-file-element" data-file-height="290" data-file-width="350" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_globe_content.svg/48px-Ambox_globe_content.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_globe_content.svg/73px-Ambox_globe_content.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_globe_content.svg/97px-Ambox_globe_content.svg.png 2x" width="48"/></span></span></div></td><td class="mbox-text"><div class="mbox-text-div">Этот список проката фильма по регионам заведомо неполон.</div><div class="mbox-textsmall-div hide-when-compact" style="font-size:85%"><span class="hide-when-compact"> Добавьте информацию по остальным регионам со <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D0%BD%D0%B0_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8" title="Википедия:Ссылки на источники">ссылками на источники</a> или перепишите раздел, оставив только <a class="mw-redirect" href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9D%D0%95%D0%A1%D0%9F%D0%A0%D0%90%D0%92%D0%9E%D0%A7%D0%9D%D0%98%D0%9A" title="Википедия:НЕСПРАВОЧНИК">нетривиальные</a> факты о прокате в мире.</span></div></td></tr></tbody></table>
+<p>Общие кассовые сборы мультфильма в США составили <span class="nowrap">64 011 656 <a href="/wiki/%D0%94%D0%BE%D0%BB%D0%BB%D0%B0%D1%80_%D0%A1%D0%A8%D0%90" title="Доллар США">$</a></span> (<span class="nowrap">18 814 323 $</span> в первый <a class="mw-disambig" href="/wiki/%D0%A3%D0%B8%D0%BA-%D1%8D%D0%BD%D0%B4" title="Уик-энд">уикенд</a>)<sup class="reference" id="cite_ref-_95ed7e7b0166e35f_2-0"><a href="#cite_note-_95ed7e7b0166e35f-2">[2]</a></sup>, что ниже многих других компьютерных анимационных фильмов <a href="/wiki/DreamWorks_Animation" title="DreamWorks Animation">DreamWorks Animation</a>. В первый уикенд его опередили фильмы «<a class="new" href="/w/index.php?title=%D0%A1%D0%B0%D0%BD%D1%82%D0%B0_%D0%9A%D0%BB%D0%B0%D1%83%D1%81_3_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)&amp;action=edit&amp;redlink=1" title="Санта Клаус 3 (фильм) (страница отсутствует)">Санта Клаус 3</a>» и «<a href="/wiki/%D0%91%D0%BE%D1%80%D0%B0%D1%82" title="Борат">Борат</a>». Продюсеры ожидали, что сборы в США превысят бюджет фильма, который составлял <span class="nowrap">149 000 000 $</span>, однако этого не произошло.
+</p><p>Общие кассовые сборы фильма в <a href="/wiki/%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B0%D0%BB%D0%B8%D1%8F" title="Австралия">Австралии</a> составили <span class="nowrap">7 388 265 $</span> (<span class="nowrap">1 043 025 $</span> в первый уикенд)<sup class="reference" id="cite_ref-_95ed7e7b0166e35f_2-1"><a href="#cite_note-_95ed7e7b0166e35f-2">[2]</a></sup>. Общие кассовые сборы фильма в <a href="/wiki/%D0%91%D1%80%D0%B0%D0%B7%D0%B8%D0%BB%D0%B8%D1%8F" title="Бразилия">Бразилии</a> составили <span class="nowrap">5 127 914 $</span><sup class="reference" id="cite_ref-_95ed7e7b0166e35f_2-2"><a href="#cite_note-_95ed7e7b0166e35f-2">[2]</a></sup>. Общие кассовые сборы фильма в <a href="/wiki/%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F" title="Германия">Германии</a> составили <span class="nowrap">5 589 210 $</span> (<span class="nowrap">1 349 971 $</span> в первый уикенд)<sup class="reference" id="cite_ref-_95ed7e7b0166e35f_2-3"><a href="#cite_note-_95ed7e7b0166e35f-2">[2]</a></sup>. Общие кассовые сборы фильма в России составили <span class="nowrap">5 827 392 $</span> (<span class="nowrap">2 432 020 $</span> в первый уикенд)<sup class="reference" id="cite_ref-_95ed7e7b0166e35f_2-4"><a href="#cite_note-_95ed7e7b0166e35f-2">[2]</a></sup>. Общие кассовые сборы фильма во <a href="/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F" title="Франция">Франции</a> составили <span class="nowrap">10 263 118 $</span> (<span class="nowrap">2 779 080 $</span> в первую неделю)<sup class="reference" id="cite_ref-_95ed7e7b0166e35f_2-5"><a href="#cite_note-_95ed7e7b0166e35f-2">[2]</a></sup>.
+</p><p>Общие кассовые сборы в мировом прокате составили <span class="nowrap">109 535 711 $</span> (из них <span class="nowrap">21 085 492 $</span> в Великобритании, где фильм вышел почти на месяц США)<sup class="reference" id="cite_ref-_95ed7e7b0166e35f_2-6"><a href="#cite_note-_95ed7e7b0166e35f-2">[2]</a></sup>, что в сумме со сборами в США (итого получилось <span class="nowrap">173 547 367 $</span>) позволило создателям оправдать бюджет.
+</p>
+<h2><span id=".D0.92.D0.B8.D0.B4.D0.B5.D0.BE.D0.B8.D0.B3.D1.80.D0.B0"></span><span class="mw-headline" id="Видеоигра">Видеоигра</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D0%BC%D1%8B%D0%B2%D0%B0%D0%B9%D1%81%D1%8F!&amp;veaction=edit&amp;section=7" title="Редактировать раздел «Видеоигра»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%BC%D1%8B%D0%B2%D0%B0%D0%B9%D1%81%D1%8F!&amp;action=edit&amp;section=7" title="Редактировать код раздела «Видеоигра»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable">Основная статья: <b><a href="/wiki/Flushed_Away" title="Flushed Away">Flushed Away</a></b></div>
+<p>Одновременно с мультфильмом была выпущена <a href="/wiki/Flushed_Away" title="Flushed Away">одноимённая</a> видеоигра по его мотивам. Игра сочетает элементы <a class="mw-redirect" href="/wiki/%D0%AD%D0%BA%D1%88%D0%B5%D0%BD_(%D0%BA%D0%B8%D0%BD%D0%BE%D0%B6%D0%B0%D0%BD%D1%80)" title="Экшен (киножанр)">экшена</a> и <a class="mw-disambig" href="/wiki/%D0%9A%D0%B2%D0%B5%D1%81%D1%82_(%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D1%8F)" title="Квест (значения)">квеста</a>. Она представлена для консолей <a href="/wiki/PlayStation_2" title="PlayStation 2">PlayStation 2</a>, <a href="/wiki/Nintendo_GameCube" title="Nintendo GameCube">Nintendo GameCube</a>, <a href="/wiki/Game_Boy_Advance" title="Game Boy Advance">Game Boy Advance</a> и <a href="/wiki/Nintendo_DS" title="Nintendo DS">Nintendo DS</a>. Несмотря на негативные отзывы критиков, игра получила награду «Энни» в номинации лучшая анимационная видеоигра<sup class="reference" id="cite_ref-Anni_3-0"><a href="#cite_note-Anni-3">[3]</a></sup>.
+</p>
+<h2><span id=".D0.9D.D0.B0.D0.B3.D1.80.D0.B0.D0.B4.D1.8B_.D0.B8_.D0.BD.D0.BE.D0.BC.D0.B8.D0.BD.D0.B0.D1.86.D0.B8.D0.B8"></span><span class="mw-headline" id="Награды_и_номинации">Награды и номинации</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D0%BC%D1%8B%D0%B2%D0%B0%D0%B9%D1%81%D1%8F!&amp;veaction=edit&amp;section=8" title="Редактировать раздел «Награды и номинации»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%BC%D1%8B%D0%B2%D0%B0%D0%B9%D1%81%D1%8F!&amp;action=edit&amp;section=8" title="Редактировать код раздела «Награды и номинации»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="standard">
+<tbody><tr>
+<th>Год</th>
+<th>Результат</th>
+<th>Награда</th>
+<th>Номинация</th>
+<th>Примечания
+</th></tr>
+<tr>
+<td><a href="/wiki/2006_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE" title="2006 год в кино">2006</a></td>
+<td class="no table-no2" style="background: #FDD; color: black; vertical-align: middle; text-align: center;">Номинация</td>
+<td><a class="mw-redirect" href="/wiki/Satellite_Awards" title="Satellite Awards">Satellite Awards</a></td>
+<td>Лучший мультфильм
+</td></tr>
+<tr>
+<td><a href="/wiki/2007_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE" title="2007 год в кино">2007</a></td>
+<td class="yes table-yes2" style="background: #98FB98; color: black; vertical-align: middle; text-align: center;">Победа</td>
+<td><a class="mw-redirect" href="/wiki/Annie_Awards" title="Annie Awards">Annie Awards</a></td>
+<td>Лучшая озвучка в мультфильме</td>
+<td><a href="/wiki/%D0%9C%D0%B0%D0%BA%D0%BA%D0%B5%D0%BB%D0%BB%D0%B5%D0%BD,_%D0%98%D1%8D%D0%BD" title="Маккеллен, Иэн">Иэн МакКеллен</a> в роли Жаба
+</td></tr>
+<tr>
+<td>2007</td>
+<td class="yes table-yes2" style="background: #98FB98; color: black; vertical-align: middle; text-align: center;">Победа</td>
+<td><a class="mw-redirect" href="/wiki/Annie_Awards" title="Annie Awards">Annie Awards</a></td>
+<td>Лучший сценарий мультфильма
+</td></tr>
+<tr>
+<td>2007</td>
+<td class="yes table-yes2" style="background: #98FB98; color: black; vertical-align: middle; text-align: center;">Победа</td>
+<td><a class="mw-redirect" href="/wiki/Annie_Awards" title="Annie Awards">Annie Awards</a></td>
+<td>Лучшая анимация персонажей в мультфильмах
+</td></tr>
+<tr>
+<td>2007</td>
+<td class="yes table-yes2" style="background: #98FB98; color: black; vertical-align: middle; text-align: center;">Победа</td>
+<td><a class="mw-redirect" href="/wiki/Annie_Awards" title="Annie Awards">Annie Awards</a></td>
+<td>Лучшие анимационные эффекты
+</td></tr>
+<tr>
+<td>2007</td>
+<td class="no table-no2" style="background: #FDD; color: black; vertical-align: middle; text-align: center;">Номинация</td>
+<td><a class="mw-redirect" href="/wiki/Annie_Awards" title="Annie Awards">Annie Awards</a></td>
+<td>Лучшая режиссура в мультфильме
+</td></tr>
+<tr>
+<td>2007</td>
+<td class="no table-no2" style="background: #FDD; color: black; vertical-align: middle; text-align: center;">Номинация</td>
+<td><a class="mw-redirect" href="/wiki/Saturn_Award" title="Saturn Award">Saturn Award</a></td>
+<td>Лучший мультфильм
+</td></tr>
+<tr>
+<td>2007</td>
+<td class="no table-no2" style="background: #FDD; color: black; vertical-align: middle; text-align: center;">Номинация</td>
+<td><a class="new" href="/w/index.php?title=Golden_Reel_Award&amp;action=edit&amp;redlink=1" title="Golden Reel Award (страница отсутствует)">Golden Reel Award</a></td>
+<td>Лучший звуковой монтаж и звуковые эффекты
+</td></tr>
+<tr>
+<td>2007</td>
+<td class="no table-no2" style="background: #FDD; color: black; vertical-align: middle; text-align: center;">Номинация</td>
+<td><a class="new" href="/w/index.php?title=BFCA_Award&amp;action=edit&amp;redlink=1" title="BFCA Award (страница отсутствует)">BFCA Award</a></td>
+<td>Лучший мультфильм
+</td></tr>
+<tr>
+<td>2007</td>
+<td class="no table-no2" style="background: #FDD; color: black; vertical-align: middle; text-align: center;">Номинация</td>
+<td><a href="/wiki/BAFTA" title="BAFTA">BAFTA</a></td>
+<td><a href="/wiki/%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D1%8F_BAFTA_%D0%B7%D0%B0_%D0%BB%D1%83%D1%87%D1%88%D0%B8%D0%B9_%D0%B0%D0%BD%D0%B8%D0%BC%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9_%D1%84%D0%B8%D0%BB%D1%8C%D0%BC" title="Премия BAFTA за лучший анимационный фильм">Лучший мультфильм</a>
+</td></tr></tbody></table>
+<h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Примечания">Примечания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D0%BC%D1%8B%D0%B2%D0%B0%D0%B9%D1%81%D1%8F!&amp;veaction=edit&amp;section=9" title="Редактировать раздел «Примечания»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%BC%D1%8B%D0%B2%D0%B0%D0%B9%D1%81%D1%8F!&amp;action=edit&amp;section=9" title="Редактировать код раздела «Примечания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-_e5a1c255aab98583-1"><span class="mw-cite-backlink">↑ <a href="#cite_ref-_e5a1c255aab98583_1-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-_e5a1c255aab98583_1-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-_e5a1c255aab98583_1-2"><sup><i><b>3</b></i></sup></a> <a href="#cite_ref-_e5a1c255aab98583_1-3"><sup><i><b>4</b></i></sup></a></span> <span class="reference-text"><span class="wikidata_cite citetype_Q1414426 citetype_Q3491832 citetype_Q55341040 citetype_Q847959 citetype_Q84863712 citetype_Q24579448 citetype_Q7094076" data-entity-id="Q37312"><a class="external text" href="https://wikidata-externalid-url.toolforge.org/?p=345&amp;url_prefix=https://www.imdb.com/&amp;id=tt0424095">Internet Movie Database</a> <span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span><span class="wef_low_priority_links"> — 1990.</span></span></span>
+</li>
+<li id="cite_note-_95ed7e7b0166e35f-2"><span class="mw-cite-backlink">↑ <a href="#cite_ref-_95ed7e7b0166e35f_2-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-_95ed7e7b0166e35f_2-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-_95ed7e7b0166e35f_2-2"><sup><i><b>3</b></i></sup></a> <a href="#cite_ref-_95ed7e7b0166e35f_2-3"><sup><i><b>4</b></i></sup></a> <a href="#cite_ref-_95ed7e7b0166e35f_2-4"><sup><i><b>5</b></i></sup></a> <a href="#cite_ref-_95ed7e7b0166e35f_2-5"><sup><i><b>6</b></i></sup></a> <a href="#cite_ref-_95ed7e7b0166e35f_2-6"><sup><i><b>7</b></i></sup></a></span> <span class="reference-text"><span class="wikidata_cite citetype_Q1414426" data-entity-id="Q223142"><a class="external text" href="https://www.boxofficemojo.com/movies/?id=flushedaway.htm" rel="nofollow">Box Office Mojo</a> <span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span><span class="wef_low_priority_links"> — 1999.</span></span></span>
+</li>
+<li id="cite_note-Anni-3"><span class="mw-cite-backlink"><a href="#cite_ref-Anni_3-0">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://web.archive.org/web/20090129175920/http://annieawards.org/34thwinners.html" rel="nofollow">34th Annual Annie Award Nominees and Winners (2006)</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Annieawards.org. Дата обращения: 27 ноября 2019. Архивировано 29 января 2009 года.</span></span>
+</li>
+</ol></div></div>
+<h2><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span><span class="mw-headline" id="Ссылки">Ссылки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D0%BC%D1%8B%D0%B2%D0%B0%D0%B9%D1%81%D1%8F!&amp;veaction=edit&amp;section=10" title="Редактировать раздел «Ссылки»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%BC%D1%8B%D0%B2%D0%B0%D0%B9%D1%81%D1%8F!&amp;action=edit&amp;section=10" title="Редактировать код раздела «Ссылки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div aria-labelledby="В_родственных_проектах" class="ts-Родственные_проекты ruwikiWikimediaNavigation tright metadata plainlinks plainlist noprint" role="navigation"><div class="ts-Родственные_проекты-header" id="В_родственных_проектах"><b>В родственных проектах</b></div><ul><li class="ts-Родственные_проекты-item"><span class="ts-Родственные_проекты-image"><span typeof="mw:File"><span><img alt="" class="mw-file-element" data-file-height="30" data-file-width="30" decoding="async" height="24" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Notification-icon-Wikiquote.svg/24px-Notification-icon-Wikiquote.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Notification-icon-Wikiquote.svg/36px-Notification-icon-Wikiquote.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Notification-icon-Wikiquote.svg/48px-Notification-icon-Wikiquote.svg.png 2x" width="24"/></span></span></span><span class="ts-Родственные_проекты-label wikiquote-ref"><a class="extiw" href="https://ru.wikiquote.org/wiki/%D0%A1%D0%BC%D1%8B%D0%B2%D0%B0%D0%B9%D1%81%D1%8F!" title="q:Смывайся!">Цитаты в Викицитатнике</a></span></li><li class="ts-Родственные_проекты-item"><span class="ts-Родственные_проекты-image"><span typeof="mw:File"><span><img alt="" class="mw-file-element" data-file-height="30" data-file-width="30" decoding="async" height="24" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/24px-Notification-icon-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/36px-Notification-icon-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/48px-Notification-icon-Commons-logo.svg.png 2x" width="24"/></span></span></span><span class="ts-Родственные_проекты-label commons-ref"><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Flushed_Away" title="commons:Category:Flushed Away">Медиафайлы на Викискладе</a></span></li></ul></div>
+<ul><li><a class="external text" href="https://web.archive.org/web/20120701060115/http://www.flushedaway.com/" rel="nofollow">Официальный сайт мультфильма</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li></ul>
+<div aria-labelledby="Ссылки_на_внешние_ресурсы" class="navbox" data-name="External links" role="navigation" style="padding-top:1px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup" style="display:none"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:External_links" title="Перейти к шаблону «External links»"><img alt="Перейти к шаблону «External links»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span></span><div id="Ссылки_на_внешние_ресурсы" style="font-size:114%;margin:0 5em">Ссылки на внешние ресурсы</div></th></tr><tr><th class="navbox-group" scope="row" style="width:1px"><div style="padding: 0 35px 0 0; width: 100%;"><div style="float: left;"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8" title="Перейти к шаблону «Внешние ссылки»"><img alt="Перейти к шаблону «Внешние ссылки»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span>  <span typeof="mw:File"><a href="https://www.wikidata.org/wiki/Q752301#identifiers" title="Перейти к элементу Викиданных"><img alt="Перейти к элементу Викиданных" class="mw-file-element" data-file-height="20" data-file-width="20" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/14px-OOjs_UI_icon_edit-ltr-progressive.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/21px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/28px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" width="14"/></a></span></div>  Тематические сайты</div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="external text" href="https://www.allmovie.com/movie/v319319" rel="nofollow">AllMovie</a></li>
+<li><a class="external text" href="https://www.allocine.fr/film/fichefilm_gen_cfilm=57967.html" rel="nofollow">AlloCiné</a></li>
+<li><a class="external text" href="https://www.boxofficemojo.com/movies/?id=flushedaway.htm" rel="nofollow">Box Office Mojo</a></li>
+<li><a class="external text" href="https://www.csfd.cz/film/196567" rel="nofollow">ČSFD</a></li>
+<li><a class="external text" href="https://www.filmaffinity.com/en/film874184.html" rel="nofollow">FilmAffinity</a></li>
+<li><a class="external text" href="https://www.imdb.com/title/tt0424095" rel="nofollow">Internet Movie Database</a></li>
+<li><a class="external text" href="https://www.metacritic.com/movie/flushed-away" rel="nofollow">Metacritic</a></li>
+<li><a class="external text" href="https://www.rottentomatoes.com/m/flushed_away" rel="nofollow">Rotten Tomatoes</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Aardman_Animations" class="navbox" data-name="Aardman Animations" role="navigation"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:Aardman_Animations" title="Перейти к шаблону «Aardman Animations»"><img alt="Перейти к шаблону «Aardman Animations»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span></span><div id="Aardman_Animations" style="font-size:114%;margin:0 5em"><a href="/wiki/Aardman_Animations" title="Aardman Animations">Aardman Animations</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1px">Полнометражные<br/>мультфильмы</th><td class="navbox-list navbox-odd hlist hlist-items-nowrap" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%9F%D0%BE%D0%B1%D0%B5%D0%B3_%D0%B8%D0%B7_%D0%BA%D1%83%D1%80%D1%8F%D1%82%D0%BD%D0%B8%D0%BA%D0%B0" title="Побег из курятника">Побег из курятника</a> (2000)</li>
+<li><a href="/wiki/%D0%A3%D0%BE%D0%BB%D0%BB%D0%B5%D1%81_%D0%B8_%D0%93%D1%80%D0%BE%D0%BC%D0%B8%D1%82:_%D0%9F%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D0%B8%D0%B5_%D0%BA%D1%80%D0%BE%D0%BB%D0%B8%D0%BA%D0%B0-%D0%BE%D0%B1%D0%BE%D1%80%D0%BE%D1%82%D0%BD%D1%8F" title="Уоллес и Громит: Проклятие кролика-оборотня">Уоллес и Громит: Проклятие кролика-оборотня</a> (2005)</li>
+<li><a class="mw-selflink selflink">Смывайся!</a> (2006)</li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%BD%D0%B0%D1%8F_%D1%81%D0%BB%D1%83%D0%B6%D0%B1%D0%B0_%D0%A1%D0%B0%D0%BD%D1%82%D0%B0-%D0%9A%D0%BB%D0%B0%D1%83%D1%81%D0%B0" title="Секретная служба Санта-Клауса">Секретная служба Санта-Клауса</a> (2011)</li>
+<li><a href="/wiki/%D0%9F%D0%B8%D1%80%D0%B0%D1%82%D1%8B!_%D0%91%D0%B0%D0%BD%D0%B4%D0%B0_%D0%BD%D0%B5%D1%83%D0%B4%D0%B0%D1%87%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2" title="Пираты! Банда неудачников">Пираты! Банда неудачников</a> (2012)</li>
+<li><a href="/wiki/%D0%91%D0%B0%D1%80%D0%B0%D1%88%D0%B5%D0%BA_%D0%A8%D0%BE%D0%BD_(%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Барашек Шон (мультфильм)">Барашек Шон</a> (2015)</li>
+<li><a href="/wiki/%D0%94%D0%B8%D0%BA%D0%B8%D0%B5_%D0%BF%D1%80%D0%B5%D0%B4%D0%BA%D0%B8" title="Дикие предки">Дикие предки</a> (2018)</li>
+<li><a href="/wiki/%D0%91%D0%B0%D1%80%D0%B0%D1%88%D0%B5%D0%BA_%D0%A8%D0%BE%D0%BD:_%D0%A4%D0%B5%D1%80%D0%BC%D0%B0%D0%B3%D0%B5%D0%B4%D0%B4%D0%BE%D0%BD" title="Барашек Шон: Фермагеддон">Барашек Шон: Фермагеддон</a> (2019)</li>
+<li><a href="/wiki/%D0%9F%D0%BE%D0%B1%D0%B5%D0%B3_%D0%B8%D0%B7_%D0%BA%D1%83%D1%80%D1%8F%D1%82%D0%BD%D0%B8%D0%BA%D0%B0_2" title="Побег из курятника 2">Побег из курятника 2</a> (2023)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Сериалы и<br/>серии короткометражек</th><td class="navbox-list navbox-even hlist hlist-items-nowrap" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%A3%D0%BE%D0%BB%D0%BB%D0%B5%D1%81_%D0%B8_%D0%93%D1%80%D0%BE%D0%BC%D0%B8%D1%82" title="Уоллес и Громит">Уоллес и Громит</a> (1989—2005)</li>
+<li><a href="/wiki/%D0%97%D0%BB%D0%BE%D0%B1%D0%BD%D1%8B%D0%B9_%D0%BC%D0%B0%D0%BB%D1%8C%D1%87%D0%B8%D0%BA" title="Злобный мальчик">Злобный мальчик</a> (1999—2019)</li>
+<li><a href="/wiki/%D0%92_%D0%BC%D0%B8%D1%80%D0%B5_%D0%B6%D0%B8%D0%B2%D0%BE%D1%82%D0%BD%D1%8B%D1%85_(%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB)" title="В мире животных (мультсериал)">В мире животных</a> (1989—2011)</li>
+<li><a href="/wiki/Purple_and_Brown" title="Purple and Brown">Purple and Brown</a> (2006—2007)</li>
+<li><a href="/wiki/%D0%91%D0%B0%D1%80%D0%B0%D1%88%D0%B5%D0%BA_%D0%A8%D0%BE%D0%BD" title="Барашек Шон">Барашек Шон</a> (2007—2020)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Видеоклипы</th><td class="navbox-list navbox-odd hlist hlist-items-nowrap" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Sledgehammer_(%D0%BF%D0%B5%D1%81%D0%BD%D1%8F_%D0%9F%D0%B8%D1%82%D0%B5%D1%80%D0%B0_%D0%93%D1%8D%D0%B1%D1%80%D0%B8%D0%B5%D0%BB%D0%B0)" title="Sledgehammer (песня Питера Гэбриела)">Sledgehammer</a> (1986)</li>
+<li><a class="new" href="/w/index.php?title=My_Baby_Just_Cares_for_Me&amp;action=edit&amp;redlink=1" title="My Baby Just Cares for Me (страница отсутствует)">My Baby Just Cares for Me</a> (1987)</li>
+<li><a class="new" href="/w/index.php?title=Barefootin%27&amp;action=edit&amp;redlink=1" title="Barefootin' (страница отсутствует)">Barefootin'</a> (1987)</li>
+<li><a href="/wiki/Viva_Forever" title="Viva Forever">Viva Forever</a> (1998)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Связные статьи</th><td class="navbox-list navbox-even hlist hlist-items-nowrap" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%9F%D0%B0%D1%80%D0%BA,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D1%81_%D0%92%D1%83%D0%BB%D1%81%D1%82%D1%8D%D0%BD" title="Парк, Николас Вулстэн">Ник Парк</a></li>
+<li><a class="mw-redirect" href="/wiki/DreamWorks_Animation_SKG" title="DreamWorks Animation SKG">DreamWorks</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="DreamWorks_Animation" class="navbox" data-name="DreamWorks Animation" role="navigation"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:DreamWorks_Animation" title="Перейти к шаблону «DreamWorks Animation»"><img alt="Перейти к шаблону «DreamWorks Animation»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span></span><div id="DreamWorks_Animation" style="font-size:114%;margin:0 5em"><a href="/wiki/DreamWorks_Animation" title="DreamWorks Animation">DreamWorks Animation</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/DreamWorks_Animation#Фильмография" title="DreamWorks Animation">Полнометражные<br/>фильмы</a></th><td class="navbox-list navbox-odd hlist hlist-items-nowrap" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1px">Компьютерные<br/>(с 1998)</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%9C%D1%83%D1%80%D0%B0%D0%B2%D0%B5%D0%B9_%D0%90%D0%BD%D1%82%D1%86" title="Муравей Антц">Муравей Антц</a> (1998)</li>
+<li><a href="/wiki/%D0%A8%D1%80%D0%B5%D0%BA_(%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Шрек (мультфильм)">Шрек</a> (2001)</li>
+<li><a href="/wiki/%D0%A8%D1%80%D0%B5%D0%BA_2" title="Шрек 2">Шрек 2</a> (2004)</li>
+<li><a href="/wiki/%D0%9F%D0%BE%D0%B4%D0%B2%D0%BE%D0%B4%D0%BD%D0%B0%D1%8F_%D0%B1%D1%80%D0%B0%D1%82%D0%B2%D0%B0" title="Подводная братва">Подводная братва</a> (2004)</li>
+<li><a href="/wiki/%D0%9C%D0%B0%D0%B4%D0%B0%D0%B3%D0%B0%D1%81%D0%BA%D0%B0%D1%80_(%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Мадагаскар (мультфильм)">Мадагаскар</a> (2005)</li>
+<li><a href="/wiki/%D0%9B%D0%B5%D1%81%D0%BD%D0%B0%D1%8F_%D0%B1%D1%80%D0%B0%D1%82%D0%B2%D0%B0" title="Лесная братва">Лесная братва</a> (2006)</li>
+<li><a href="/wiki/%D0%A8%D1%80%D0%B5%D0%BA_%D0%A2%D1%80%D0%B5%D1%82%D0%B8%D0%B9" title="Шрек Третий">Шрек Третий</a> (2007)</li>
+<li><a href="/wiki/%D0%91%D0%B8_%D0%9C%D1%83%D0%B2%D0%B8:_%D0%9C%D0%B5%D0%B4%D0%BE%D0%B2%D1%8B%D0%B9_%D0%B7%D0%B0%D0%B3%D0%BE%D0%B2%D0%BE%D1%80" title="Би Муви: Медовый заговор">Би Муви: Медовый заговор</a> (2007)</li>
+<li><a href="/wiki/%D0%9A%D1%83%D0%BD%D0%B3-%D1%84%D1%83_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0" title="Кунг-фу панда">Кунг-фу панда</a> (2008)</li>
+<li><a href="/wiki/%D0%9C%D0%B0%D0%B4%D0%B0%D0%B3%D0%B0%D1%81%D0%BA%D0%B0%D1%80_2" title="Мадагаскар 2">Мадагаскар 2</a> (2008)</li>
+<li><a href="/wiki/%D0%9C%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%8B_%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2_%D0%BF%D1%80%D0%B8%D1%88%D0%B5%D0%BB%D1%8C%D1%86%D0%B5%D0%B2" title="Монстры против пришельцев">Монстры против пришельцев</a> (2009)</li>
+<li><a href="/wiki/%D0%9A%D0%B0%D0%BA_%D0%BF%D1%80%D0%B8%D1%80%D1%83%D1%87%D0%B8%D1%82%D1%8C_%D0%B4%D1%80%D0%B0%D0%BA%D0%BE%D0%BD%D0%B0" title="Как приручить дракона">Как приручить дракона</a> (2010)</li>
+<li><a href="/wiki/%D0%A8%D1%80%D0%B5%D0%BA_%D0%BD%D0%B0%D0%B2%D1%81%D0%B5%D0%B3%D0%B4%D0%B0" title="Шрек навсегда">Шрек навсегда</a> (2010)</li>
+<li><a href="/wiki/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BC%D0%BE%D0%B7%D0%B3" title="Мегамозг">Мегамозг</a> (2010)</li>
+<li><a href="/wiki/%D0%9A%D1%83%D0%BD%D0%B3-%D1%84%D1%83_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0_2" title="Кунг-фу панда 2">Кунг-фу панда 2</a> (2011)</li>
+<li><a href="/wiki/%D0%9A%D0%BE%D1%82_%D0%B2_%D1%81%D0%B0%D0%BF%D0%BE%D0%B3%D0%B0%D1%85_(%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_2011)" title="Кот в сапогах (мультфильм, 2011)">Кот в сапогах</a> (2011)</li>
+<li><a href="/wiki/%D0%9C%D0%B0%D0%B4%D0%B0%D0%B3%D0%B0%D1%81%D0%BA%D0%B0%D1%80_3" title="Мадагаскар 3">Мадагаскар 3</a> (2012)</li>
+<li><a href="/wiki/%D0%A5%D1%80%D0%B0%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D0%B8_%D1%81%D0%BD%D0%BE%D0%B2" title="Хранители снов">Хранители снов</a> (2012)</li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BC%D0%B5%D0%B9%D0%BA%D0%B0_%D0%9A%D1%80%D1%83%D0%B4%D1%81" title="Семейка Крудс">Семейка Крудс</a> (2013)</li>
+<li><a href="/wiki/%D0%A2%D1%83%D1%80%D0%B1%D0%BE_(%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Турбо (мультфильм)">Турбо</a> (2013)</li>
+<li><a href="/wiki/%D0%9F%D1%80%D0%B8%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BC%D0%B8%D1%81%D1%82%D0%B5%D1%80%D0%B0_%D0%9F%D0%B8%D0%B1%D0%BE%D0%B4%D0%B8_%D0%B8_%D0%A8%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B0" title="Приключения мистера Пибоди и Шермана">Приключения мистера Пибоди и Шермана</a> (2014)</li>
+<li><a href="/wiki/%D0%9A%D0%B0%D0%BA_%D0%BF%D1%80%D0%B8%D1%80%D1%83%D1%87%D0%B8%D1%82%D1%8C_%D0%B4%D1%80%D0%B0%D0%BA%D0%BE%D0%BD%D0%B0_2" title="Как приручить дракона 2">Как приручить дракона 2</a> (2014)</li>
+<li><a href="/wiki/%D0%9F%D0%B8%D0%BD%D0%B3%D0%B2%D0%B8%D0%BD%D1%8B_%D0%9C%D0%B0%D0%B4%D0%B0%D0%B3%D0%B0%D1%81%D0%BA%D0%B0%D1%80%D0%B0" title="Пингвины Мадагаскара">Пингвины Мадагаскара</a> (2014)</li>
+<li><a href="/wiki/%D0%94%D0%BE%D0%BC_(%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Дом (мультфильм)">Дом</a> (2015)</li>
+<li><a href="/wiki/%D0%9A%D1%83%D0%BD%D0%B3-%D1%84%D1%83_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0_3" title="Кунг-фу панда 3">Кунг-фу панда 3</a> (2016)</li>
+<li><a href="/wiki/%D0%A2%D1%80%D0%BE%D0%BB%D0%BB%D0%B8_(%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Тролли (мультфильм)">Тролли</a> (2016)</li>
+<li><a href="/wiki/%D0%91%D0%BE%D1%81%D1%81-%D0%BC%D0%BE%D0%BB%D0%BE%D0%BA%D0%BE%D1%81%D0%BE%D1%81" title="Босс-молокосос">Босс-молокосос</a> (2017)</li>
+<li><a href="/wiki/%D0%9A%D0%B0%D0%BF%D0%B8%D1%82%D0%B0%D0%BD_%D0%9F%D0%BE%D0%B4%D1%88%D1%82%D0%B0%D0%BD%D0%BD%D0%B8%D0%BA:_%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9_%D1%8D%D0%BF%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%84%D0%B8%D0%BB%D1%8C%D0%BC" title="Капитан Подштанник: Первый эпический фильм">Капитан Подштанник: Первый эпический фильм</a> (2017)</li>
+<li><a href="/wiki/%D0%9A%D0%B0%D0%BA_%D0%BF%D1%80%D0%B8%D1%80%D1%83%D1%87%D0%B8%D1%82%D1%8C_%D0%B4%D1%80%D0%B0%D0%BA%D0%BE%D0%BD%D0%B0_3" title="Как приручить дракона 3">Как приручить дракона 3</a> (2019)</li>
+<li><a href="/wiki/%D0%AD%D0%B2%D0%B5%D1%80%D0%B5%D1%81%D1%82_(%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Эверест (мультфильм)">Эверест</a> (2019)</li>
+<li><a href="/wiki/%D0%A2%D1%80%D0%BE%D0%BB%D0%BB%D0%B8._%D0%9C%D0%B8%D1%80%D0%BE%D0%B2%D0%BE%D0%B9_%D1%82%D1%83%D1%80" title="Тролли. Мировой тур">Тролли. Мировой тур</a> (2020)</li>
+<li><a class="mw-redirect" href="/wiki/%D0%A1%D0%B5%D0%BC%D0%B5%D0%B9%D0%BA%D0%B0_%D0%9A%D1%80%D1%83%D0%B4%D1%81_2:_%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D0%B5%D0%BB%D1%8C%D0%B5" title="Семейка Крудс 2: Новоселье">Семейка Крудс 2: Новоселье</a> (2020)</li>
+<li><a class="new" href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%80%D0%B8%D1%82:_%D0%9D%D0%B5%D0%BF%D0%BE%D0%BA%D0%BE%D1%80%D0%BD%D1%8B%D0%B9&amp;action=edit&amp;redlink=1" title="Спирит: Непокорный (страница отсутствует)">Спирит: Непокорный</a> (2021)</li>
+<li><a href="/wiki/%D0%91%D0%BE%D1%81%D1%81-%D0%BC%D0%BE%D0%BB%D0%BE%D0%BA%D0%BE%D1%81%D0%BE%D1%81_2" title="Босс-молокосос 2">Босс-молокосос 2</a> (2021)</li>
+<li><span data-interwiki-article="Trollhunters: Rise of the Titans" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=%D0%9E%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BD%D0%B0_%D1%82%D1%80%D0%BE%D0%BB%D0%BB%D0%B5%D0%B9:_%D0%92%D0%BE%D1%81%D1%81%D1%82%D0%B0%D0%BD%D0%B8%D0%B5_%D1%82%D0%B8%D1%82%D0%B0%D0%BD%D0%BE%D0%B2_(%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)&amp;action=edit&amp;redlink=1" title="Охотники на троллей: Восстание титанов (мультфильм) (страница отсутствует)">Охотники на троллей: Восстание титанов</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://en.wikipedia.org/wiki/Trollhunters:_Rise_of_the_Titans" title="en:Trollhunters: Rise of the Titans"><span title="Trollhunters: Rise of the Titans — версия статьи «Охотники на троллей: Восстание титанов (мультфильм)» на английском языке">[en]</span></a></sup></span> (2021)</li>
+<li><a href="/wiki/%D0%9F%D0%BB%D0%BE%D1%85%D0%B8%D0%B5_%D0%BF%D0%B0%D1%80%D0%BD%D0%B8_(%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Плохие парни (мультфильм)">Плохие парни</a> (2022)</li>
+<li><a href="/wiki/%D0%9A%D0%BE%D1%82_%D0%B2_%D1%81%D0%B0%D0%BF%D0%BE%D0%B3%D0%B0%D1%85:_%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B5%D0%B5_%D0%B6%D0%B5%D0%BB%D0%B0%D0%BD%D0%B8%D0%B5" title="Кот в сапогах: Последнее желание">Кот в сапогах: Последнее желание</a> (2022)</li>
+<li><a href="/wiki/%D0%A0%D1%83%D0%B1%D0%B8_%D0%93%D0%B8%D0%BB%D1%8C%D0%BC%D0%B0%D0%BD:_%D0%9F%D1%80%D0%B8%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BA%D1%80%D0%B0%D0%BA%D0%B5%D0%BD%D0%B0-%D0%BF%D0%BE%D0%B4%D1%80%D0%BE%D1%81%D1%82%D0%BA%D0%B0" title="Руби Гильман: Приключения кракена-подростка">Руби Гильман: Приключения кракена-подростка</a> (2023)</li>
+<li><a href="/wiki/%D0%A2%D1%80%D0%BE%D0%BB%D0%BB%D0%B8._%D0%93%D1%80%D1%83%D0%BF%D0%BF%D0%B0_%D0%B2_%D1%81%D0%B1%D0%BE%D1%80%D0%B5" title="Тролли. Группа в сборе">Тролли. Группа в сборе</a> (2023)</li>
+<li><a href="/wiki/%D0%9E%D1%80%D0%B8%D0%BE%D0%BD_%D0%B8_%D0%A2%D1%8C%D0%BC%D0%B0" title="Орион и Тьма">Орион и Тьма</a> (2024)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Традиционные<br/>(1998—2003)</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%9F%D1%80%D0%B8%D0%BD%D1%86_%D0%95%D0%B3%D0%B8%D0%BF%D1%82%D0%B0" title="Принц Египта">Принц Египта</a> (1998)</li>
+<li><a href="/wiki/%D0%94%D0%BE%D1%80%D0%BE%D0%B3%D0%B0_%D0%BD%D0%B0_%D0%AD%D0%BB%D1%8C%D0%B4%D0%BE%D1%80%D0%B0%D0%B4%D0%BE" title="Дорога на Эльдорадо">Дорога на Эльдорадо</a> (2000)</li>
+<li><a href="/wiki/%D0%A6%D0%B0%D1%80%D1%8C_%D1%81%D0%BD%D0%BE%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B9" title="Царь сновидений">Царь сновидений</a> (2000)</li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%80%D0%B8%D1%82:_%D0%94%D1%83%D1%88%D0%B0_%D0%BF%D1%80%D0%B5%D1%80%D0%B8%D0%B9" title="Спирит: Душа прерий">Спирит: Душа прерий</a> (2002)</li>
+<li><a href="/wiki/%D0%A1%D0%B8%D0%BD%D0%B4%D0%B1%D0%B0%D0%B4:_%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D0%B0_%D1%81%D0%B5%D0%BC%D0%B8_%D0%BC%D0%BE%D1%80%D0%B5%D0%B9_(%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Синдбад: Легенда семи морей (мультфильм)">Синдбад: Легенда семи морей</a> (2003)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">С <a href="/wiki/Aardman_Animations" title="Aardman Animations">Aardman Animations</a><br/>(2000—2006)</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%9F%D0%BE%D0%B1%D0%B5%D0%B3_%D0%B8%D0%B7_%D0%BA%D1%83%D1%80%D1%8F%D1%82%D0%BD%D0%B8%D0%BA%D0%B0" title="Побег из курятника">Побег из курятника</a> (2000)</li>
+<li><a href="/wiki/%D0%A3%D0%BE%D0%BB%D0%BB%D0%B5%D1%81_%D0%B8_%D0%93%D1%80%D0%BE%D0%BC%D0%B8%D1%82:_%D0%9F%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D0%B8%D0%B5_%D0%BA%D1%80%D0%BE%D0%BB%D0%B8%D0%BA%D0%B0-%D0%BE%D0%B1%D0%BE%D1%80%D0%BE%D1%82%D0%BD%D1%8F" title="Уоллес и Громит: Проклятие кролика-оборотня">Уоллес и Громит: Проклятие кролика-оборотня</a> (2005)</li>
+<li><a class="mw-selflink selflink">Смывайся!</a> (2006)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Будущие</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%9A%D1%83%D0%BD%D0%B3-%D1%84%D1%83_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0_4" title="Кунг-фу панда 4">Кунг-фу панда 4</a> (2024)</li>
+<li><a href="/wiki/%D0%A8%D1%80%D0%B5%D0%BA_5" title="Шрек 5">Шрек 5</a> (TBA)</li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Мультсериалы</th><td class="navbox-list navbox-odd hlist hlist-items-nowrap" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%A2%D1%83%D0%BD%D1%81%D0%B8%D0%BB%D1%8C%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F" title="Тунсильвания">Тунсильвания</a> (1998)</li>
+<li><a class="new" href="/w/index.php?title=%D0%92%D1%82%D0%BE%D1%80%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B2_%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D1%83&amp;action=edit&amp;redlink=1" title="Вторжение в Америку (страница отсутствует)">Вторжение в Америку</a> (1998)</li>
+<li><a href="/wiki/%D0%9E%D1%82%D0%B5%D1%86_%D0%BF%D1%80%D0%B0%D0%B9%D0%B4%D0%B0" title="Отец прайда">Отец прайда</a> (2004—2005)</li>
+<li><a href="/wiki/%D0%9F%D0%B8%D0%BD%D0%B3%D0%B2%D0%B8%D0%BD%D1%8B_%D0%B8%D0%B7_%D0%9C%D0%B0%D0%B4%D0%B0%D0%B3%D0%B0%D1%81%D0%BA%D0%B0%D1%80%D0%B0_(%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB)" title="Пингвины из Мадагаскара (мультсериал)">Пингвины из Мадагаскара</a> (2008—2015)</li>
+<li><a href="/wiki/%D0%A1%D0%BE%D1%81%D0%B5%D0%B4%D0%B8_%D0%B8%D0%B7_%D0%B0%D0%B4%D0%B0" title="Соседи из ада">Соседи из ада</a> (2010)</li>
+<li><a href="/wiki/%D0%9A%D1%83%D0%BD%D0%B3-%D1%84%D1%83_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0:_%D0%A3%D0%B4%D0%B8%D0%B2%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BB%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B" title="Кунг-фу панда: Удивительные легенды">Кунг-фу панда: Удивительные легенды</a> (2011—2016)</li>
+<li><a href="/wiki/%D0%94%D1%80%D0%B0%D0%BA%D0%BE%D0%BD%D1%8B_(%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB)" title="Драконы (мультсериал)">Драконы</a> (2012—2018)</li>
+<li><a class="new" href="/w/index.php?title=%D0%9C%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%8B_%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2_%D0%BF%D1%80%D0%B8%D1%88%D0%B5%D0%BB%D1%8C%D1%86%D0%B5%D0%B2_(%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB)&amp;action=edit&amp;redlink=1" title="Монстры против пришельцев (мультсериал) (страница отсутствует)">Монстры против пришельцев</a> (2013—2014)</li>
+<li><a href="/wiki/%D0%A2%D1%83%D1%80%D0%B1%D0%BE:_%D0%9C%D0%BE%D0%BB%D0%BD%D0%B8%D0%B5%D0%BD%D0%BE%D1%81%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0" title="Турбо: Молниеносная команда">Турбо: Молниеносная команда</a> (2013—2016)</li>
+<li><a href="/wiki/%D0%9E%D0%B2%D0%BE%D1%89%D0%BD%D1%8B%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8" title="Овощные истории">Овощные истории</a> (2014—2016)</li>
+<li><a href="/wiki/%D0%94%D0%B0_%D0%B7%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B5%D1%82_%D0%BA%D0%BE%D1%80%D0%BE%D0%BB%D1%8C_%D0%94%D0%B6%D1%83%D0%BB%D0%B8%D0%B0%D0%BD" title="Да здравствует король Джулиан">Да здравствует король Джулиан</a> (2014—2017)</li>
+<li><a href="/wiki/%D0%9F%D1%80%D0%B8%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F_%D0%9A%D0%BE%D1%82%D0%B0_%D0%B2_%D1%81%D0%B0%D0%BF%D0%BE%D0%B3%D0%B0%D1%85" title="Приключения Кота в сапогах">Приключения Кота в сапогах</a> (2015—2018)</li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BC%D0%B5%D0%B9%D0%BA%D0%B0_%D0%9A%D1%80%D1%83%D0%B4%D1%81._%D0%9D%D0%B0%D1%87%D0%B0%D0%BB%D0%BE" title="Семейка Крудс. Начало">Семейка Крудс. Начало</a> (2015—2017)</li>
+<li><a class="new" href="/w/index.php?title=%D0%94%D0%B8%D0%BD%D0%BE%D1%82%D1%80%D0%B0%D0%BA%D0%B8&amp;action=edit&amp;redlink=1" title="Динотраки (страница отсутствует)">Динотраки</a> (2015—2018)</li>
+<li><a class="new" href="/w/index.php?title=%D0%A8%D0%BE%D1%83_%D0%BC%D0%B8%D1%81%D1%82%D0%B5%D1%80%D0%B0_%D0%9F%D0%B8%D0%B1%D0%BE%D0%B4%D0%B8_%D0%B8_%D0%A8%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="Шоу мистера Пибоди и Шермана (страница отсутствует)">Шоу мистера Пибоди и Шермана</a> (2015—2017)</li>
+<li><a class="new" href="/w/index.php?title=%D0%9D%D0%BE%D0%B4%D0%B4%D0%B8:_%D0%94%D0%B5%D1%82%D0%B5%D0%BA%D1%82%D0%B8%D0%B2_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%8B_%D0%B8%D0%B3%D1%80%D1%83%D1%88%D0%B5%D0%BA&amp;action=edit&amp;redlink=1" title="Нодди: Детектив страны игрушек (страница отсутствует)">Нодди: Детектив страны игрушек</a> (2016—2020)</li>
+<li><a href="/wiki/%D0%92%D0%BE%D0%BB%D1%8C%D1%82%D1%80%D0%BE%D0%BD:_%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D0%BD%D1%8B%D0%B9_%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%BD%D0%B8%D0%BA" title="Вольтрон: Легендарный защитник">Вольтрон: Легендарный защитник</a> (2016—2018)</li>
+<li><a class="new" href="/w/index.php?title=%D0%94%D0%BE%D0%BC:_%D0%9F%D1%80%D0%B8%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F_%D0%94%D0%B0%D1%80_%D0%B8_%D0%9E&amp;action=edit&amp;redlink=1" title="Дом: Приключения Дар и О (страница отсутствует)">Дом: Приключения Дар и О</a> (2016—2018)</li>
+<li><a href="/wiki/%D0%9E%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BD%D0%B0_%D1%82%D1%80%D0%BE%D0%BB%D0%BB%D0%B5%D0%B9:_%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8_%D0%90%D1%80%D0%BA%D0%B0%D0%B4%D0%B8%D0%B8" title="Охотники на троллей: Истории Аркадии">Охотники на троллей: Истории Аркадии</a> (2016—2018)</li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%80%D0%B8%D1%82:_%D0%94%D1%83%D1%85_%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D1%8B" title="Спирит: Дух свободы">Спирит: Дух свободы</a> (2017—2020)</li>
+<li><a href="/wiki/%D0%A2%D1%80%D0%BE%D0%BB%D0%BB%D0%B8_(%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB)" title="Тролли (мультсериал)">Тролли (мультсериал)</a> (2018—2019)</li>
+<li><a class="new" href="/w/index.php?title=%D0%91%D0%BE%D1%81%D1%81-%D0%BC%D0%BE%D0%BB%D0%BE%D0%BA%D0%BE%D1%81%D0%BE%D1%81:_%D0%A1%D0%BD%D0%BE%D0%B2%D0%B0_%D0%B2_%D0%B4%D0%B5%D0%BB%D0%B5&amp;action=edit&amp;redlink=1" title="Босс-молокосос: Снова в деле (страница отсутствует)">Босс-молокосос: Снова в деле</a> (2018—2020)</li>
+<li><a class="new" href="/w/index.php?title=%D0%9F%D1%80%D0%B8%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F_%D0%A0%D0%BE%D0%BA%D0%BA%D0%B8_%D0%B8_%D0%91%D1%83%D0%BB%D0%BB%D0%B2%D0%B8%D0%BD%D0%BA%D0%BB%D1%8F_(%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB)&amp;action=edit&amp;redlink=1" title="Приключения Рокки и Буллвинкля (мультсериал) (страница отсутствует)">Приключения Рокки и Буллвинкля</a> (2018—2019)</li>
+<li><a class="new" href="/w/index.php?title=%D0%94%D0%B5%D1%82%D0%BA%D0%B8_%D1%81_%D0%A5%D0%B0%D1%80%D0%B2%D0%B8-%D1%81%D1%82%D1%80%D0%B8%D1%82&amp;action=edit&amp;redlink=1" title="Детки с Харви-стрит (страница отсутствует)">Детки с Харви-стрит</a> (2018—2020)</li>
+<li><a class="new" href="/w/index.php?title=%D0%AD%D0%BF%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8_%D0%BA%D0%B0%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B0_%D0%9F%D0%BE%D0%B4%D1%88%D1%82%D0%B0%D0%BD%D0%BD%D0%B8%D0%BA%D0%B0&amp;action=edit&amp;redlink=1" title="Эпические истории капитана Подштанника (страница отсутствует)">Эпические истории капитана Подштанника</a> (2018—2020)</li>
+<li><a href="/wiki/%D0%A8%D0%B8-%D0%A0%D0%B0_%D0%B8_%D0%BD%D0%B5%D0%BF%D0%BE%D0%B1%D0%B5%D0%B4%D0%B8%D0%BC%D1%8B%D0%B5_%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B5%D1%81%D1%81%D1%8B" title="Ши-Ра и непобедимые принцессы">Ши-Ра и непобедимые принцессы</a> (2018—2020)</li>
+<li><a href="/wiki/%D0%9A%D1%83%D0%BD%D0%B3-%D1%84%D1%83_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0:_%D0%9B%D0%B0%D0%BF%D0%BA%D0%B8_%D1%81%D1%83%D0%B4%D1%8C%D0%B1%D1%8B" title="Кунг-фу панда: Лапки судьбы">Кунг-фу панда: Лапки судьбы</a> (2018—2019)</li>
+<li><a href="/wiki/%D0%A2%D1%80%D0%BE%D0%B5_%D1%81_%D0%BD%D0%B5%D0%B1%D0%B5%D1%81:_%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8_%D0%90%D1%80%D0%BA%D0%B0%D0%B4%D0%B8%D0%B8" title="Трое с небес: Истории Аркадии">Трое с небес: Истории Аркадии</a> (2018—2019)</li>
+<li><a href="/wiki/%D0%93%D0%B4%D0%B5_%D0%A3%D0%BE%D0%BB%D0%BB%D0%B8%3F" title="Где Уолли?">Где Уолли?</a> (2019—2021)</li>
+<li><a class="new" href="/w/index.php?title=%D0%A1%D0%BB%D0%B5%D0%B4%D1%83%D1%8E%D1%89%D0%B0%D1%8F_%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F_%D0%B2%D0%B5%D1%89%D1%8C_%D0%90%D1%80%D1%87%D0%B8%D0%B1%D0%B0%D0%BB%D1%8C%D0%B4%D0%B0&amp;action=edit&amp;redlink=1" title="Следующая большая вещь Арчибальда (страница отсутствует)">Следующая большая вещь Арчибальда</a> (2019—)</li>
+<li><a class="new" href="/w/index.php?title=%D0%94%D1%80%D0%B0%D0%BA%D0%BE%D0%BD%D1%8B:_%D0%A1%D0%BF%D0%B0%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D0%B8&amp;action=edit&amp;redlink=1" title="Драконы: Спасатели (страница отсутствует)">Драконы: Спасатели</a> (2019—2022)</li>
+<li><a class="new" href="/w/index.php?title=%D0%9A%D0%BB%D0%B5%D0%BE%D0%BF%D0%B0%D1%82%D1%80%D0%B0_%D0%B2_%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D1%81%D0%B5&amp;action=edit&amp;redlink=1" title="Клеопатра в космосе (страница отсутствует)">Клеопатра в космосе</a> (2019—2021)</li>
+<li><a href="/wiki/%D0%A4%D0%BE%D1%80%D1%81%D0%B0%D0%B6:_%D0%A8%D0%BF%D0%B8%D0%BE%D0%BD%D1%8B-%D0%B3%D0%BE%D0%BD%D1%89%D0%B8%D0%BA%D0%B8" title="Форсаж: Шпионы-гонщики">Форсаж: Шпионы-гонщики</a> (2019—2021)</li>
+<li><a href="/wiki/%D0%9A%D0%B8%D0%BF%D0%BE_%D0%B8_%D0%AD%D1%80%D0%B0_%D0%A7%D1%83%D0%B4%D0%B5%D1%81%D0%BD%D1%8B%D1%85_%D0%97%D0%B2%D0%B5%D1%80%D0%B5%D0%B9" title="Кипо и Эра Чудесных Зверей">Кипо и Эра Чудесных Зверей</a> (2020)</li>
+<li><a class="new" href="/w/index.php?title=%D0%93%D0%BE%D1%80%D0%BE%D0%B4_%D1%80%D0%B8%D1%84%D0%BC&amp;action=edit&amp;redlink=1" title="Город рифм (страница отсутствует)">Город рифм</a> (2020—2021)</li>
+<li><a href="/wiki/%D0%92%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA%D0%B8:_%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8_%D0%90%D1%80%D0%BA%D0%B0%D0%B4%D0%B8%D0%B8" title="Волшебники: Истории Аркадии">Волшебники: Истории Аркадии</a> (2020)</li>
+<li><a href="/wiki/%D0%9C%D0%B8%D1%80_%D1%8E%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BF%D0%B5%D1%80%D0%B8%D0%BE%D0%B4%D0%B0:_%D0%9B%D0%B0%D0%B3%D0%B5%D1%80%D1%8C_%D0%BC%D0%B5%D0%BB%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE_%D0%BF%D0%B5%D1%80%D0%B8%D0%BE%D0%B4%D0%B0" title="Мир юрского периода: Лагерь мелового периода">Мир юрского периода: Лагерь мелового периода</a> (2020—2022)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Телевизионные<br/>выпуски</th><td class="navbox-list navbox-even hlist hlist-items-nowrap" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%A8%D1%80%D0%B5%D0%BA_%D0%9C%D0%BE%D1%80%D0%BE%D0%B7,_%D0%B7%D0%B5%D0%BB%D1%91%D0%BD%D1%8B%D0%B9_%D0%BD%D0%BE%D1%81" title="Шрек Мороз, зелёный нос">Шрек Мороз, зелёный нос</a> (2007)</li>
+<li><a href="/wiki/%D0%9C%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%8B_%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2_%D0%BE%D0%B2%D0%BE%D1%89%D0%B5%D0%B9" title="Монстры против овощей">Монстры против овощей</a> (2009)</li>
+<li><a href="/wiki/%D0%A0%D0%BE%D0%B6%D0%B4%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%9C%D0%B0%D0%B4%D0%B0%D0%B3%D0%B0%D1%81%D0%BA%D0%B0%D1%80" title="Рождественский Мадагаскар">Рождественский Мадагаскар</a> (2009)</li>
+<li><a href="/wiki/%D0%A8%D1%80%D0%B5%D0%BA:_%D0%A1%D1%82%D1%80%D0%B0%D1%88%D0%B8%D0%BB%D0%BA%D0%B8" title="Шрек: Страшилки">Шрек: Страшилки</a> (2010)</li>
+<li><a href="/wiki/%D0%9F%D1%80%D0%B0%D0%B7%D0%B4%D0%BD%D0%B8%D0%BA_%D0%9A%D1%83%D0%BD%D0%B3-%D1%84%D1%83_%D0%BF%D0%B0%D0%BD%D0%B4%D1%8B" title="Праздник Кунг-фу панды">Праздник Кунг-фу панды</a> (2010)</li>
+<li><a href="/wiki/%D0%9A%D0%B0%D0%BA_%D0%BF%D1%80%D0%B8%D1%80%D1%83%D1%87%D0%B8%D1%82%D1%8C_%D0%B4%D1%80%D0%B0%D0%BA%D0%BE%D0%BD%D0%B0_(%D1%84%D1%80%D0%B0%D0%BD%D1%88%D0%B8%D0%B7%D0%B0)#Драконы:_Подарок_Ночной_Фурии" title="Как приручить дракона (франшиза)">Дар ночной фурии</a> (2011)</li>
+<li><a href="/wiki/%D0%A1%D1%82%D1%80%D0%B0%D1%81%D1%82%D0%BD%D1%8B%D0%B9_%D0%9C%D0%B0%D0%B4%D0%B0%D0%B3%D0%B0%D1%81%D0%BA%D0%B0%D1%80" title="Страстный Мадагаскар">Страстный Мадагаскар</a> (2013)</li>
+<li><a class="new" href="/w/index.php?title=%D0%9F%D1%80%D0%B0%D0%B7%D0%B4%D0%BD%D0%B8%D0%BA_%D0%A2%D1%80%D0%BE%D0%BB%D0%BB%D0%B5%D0%B9&amp;action=edit&amp;redlink=1" title="Праздник Троллей (страница отсутствует)">Праздник Троллей</a> (2017)</li>
+<li><a href="/wiki/%D0%9A%D0%B0%D0%BA_%D0%BF%D1%80%D0%B8%D1%80%D1%83%D1%87%D0%B8%D1%82%D1%8C_%D0%B4%D1%80%D0%B0%D0%BA%D0%BE%D0%BD%D0%B0_(%D1%84%D1%80%D0%B0%D0%BD%D1%88%D0%B8%D0%B7%D0%B0)#Как_приручить_дракона:_Возвращение_домой" title="Как приручить дракона (франшиза)">Как приручить дракона: Возвращение домой</a> (2019)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Короткометражки</th><td class="navbox-list navbox-odd hlist hlist-items-nowrap" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%A8%D1%80%D0%B5%D0%BA:_%D0%9C%D0%B5%D0%B4%D0%BE%D0%B2%D1%8B%D0%B9_%D0%BC%D0%B5%D1%81%D1%8F%D1%86" title="Шрек: Медовый месяц">Шрек: Медовый месяц</a> (2003)</li>
+<li><a class="new" href="/w/index.php?title=%D0%9A%D1%83%D0%BC%D0%B8%D1%80_%D0%A2%D1%80%D0%B8%D0%B4%D0%B5%D0%B2%D1%8F%D1%82%D0%BE%D0%B3%D0%BE_%D0%BA%D0%BE%D1%80%D0%BE%D0%BB%D0%B5%D0%B2%D1%81%D1%82%D0%B2%D0%B0&amp;action=edit&amp;redlink=1" title="Кумир Тридевятого королевства (страница отсутствует)">Кумир Тридевятого королевства</a> (2004)</li>
+<li><a href="/wiki/%D0%9F%D0%B8%D0%BD%D0%B3%D0%B2%D0%B8%D0%BD%D1%8B_%D0%B8%D0%B7_%C2%AB%D0%9C%D0%B0%D0%B4%D0%B0%D0%B3%D0%B0%D1%81%D0%BA%D0%B0%D1%80%D0%B0%C2%BB_%D0%B2_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8_%C2%AB%D0%A1_%D0%9D%D0%BE%D0%B2%D1%8B%D0%BC_%D0%B3%D0%BE%D0%B4%D0%BE%D0%BC!%C2%BB" title="Пингвины из «Мадагаскара» в операции «С Новым годом!»">Пингвины из «Мадагаскара» в операции «С Новым годом!»</a> (2005)</li>
+<li><a href="/wiki/%D0%A5%D1%8D%D0%BC%D0%BC%D0%B8:_%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D1%81_%D0%B1%D1%83%D0%BC%D0%B5%D1%80%D0%B0%D0%BD%D0%B3%D0%BE%D0%BC" title="Хэмми: История с бумерангом">Хэмми: История с бумерангом</a> (2006)</li>
+<li><a class="new" href="/w/index.php?title=%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9_%D0%BF%D0%BE%D0%BB%D1%91%D1%82_(%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)&amp;action=edit&amp;redlink=1" title="Первый полёт (мультфильм) (страница отсутствует)">Первый полёт</a> (2006)</li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D1%8B_%D0%BD%D0%B5%D0%B8%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B9_%D0%BF%D1%8F%D1%82%D1%91%D1%80%D0%BA%D0%B8" title="Секреты неистовой пятёрки">Секреты неистовой пятёрки</a> (2008)</li>
+<li><a href="/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D0%BE%D1%82%D1%80%D1%8B%D0%B2_%D0%91.%D0%9E.%D0%91.%D0%B0" title="Большой отрыв Б.О.Б.а">Большой отрыв Б.О.Б.а</a> (2009)</li>
+<li><a href="/wiki/%D0%9A%D0%B0%D0%BA_%D0%BF%D1%80%D0%B8%D1%80%D1%83%D1%87%D0%B8%D1%82%D1%8C_%D0%B4%D1%80%D0%B0%D0%BA%D0%BE%D0%BD%D0%B0_(%D1%84%D1%80%D0%B0%D0%BD%D1%88%D0%B8%D0%B7%D0%B0)#Легенда_о_Костоломе" title="Как приручить дракона (франшиза)">Легенда о Костоломе</a> (2010)</li>
+<li><a class="new" href="/w/index.php?title=%D0%A0%D0%BE%D0%B6%D0%B4%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%A8%D1%80%D0%B5%D0%BA%D1%82%D0%B0%D0%BA%D0%BB%D1%8C_%D0%9E%D1%81%D0%BB%D0%B0&amp;action=edit&amp;redlink=1" title="Рождественский Шректакль Осла (страница отсутствует)">Рождественский Шректакль Осла</a> (2010)</li>
+<li><a class="new" href="/w/index.php?title=%D0%9C%D0%B5%D0%B3%D0%B0%D0%BC%D0%BE%D0%B7%D0%B3:_%D0%9A%D0%BD%D0%BE%D0%BF%D0%BA%D0%B0_%D1%81%D0%BC%D0%B5%D1%80%D1%82%D0%B8&amp;action=edit&amp;redlink=1" title="Мегамозг: Кнопка смерти (страница отсутствует)">Мегамозг: Кнопка судьбы</a> (2011)</li>
+<li><a class="new" href="/w/index.php?title=%D0%9D%D0%BE%D1%87%D1%8C_%D0%B6%D0%B8%D0%B2%D1%8B%D1%85_%D0%BC%D0%BE%D1%80%D0%BA%D0%BE%D0%B2%D0%BE%D0%BA&amp;action=edit&amp;redlink=1" title="Ночь живых морковок (страница отсутствует)">Ночь живых морковок</a> (2011)</li>
+<li><a class="new" href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D0%BE%D1%81%D1%91%D0%BD%D0%BE%D0%BA,_%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%B9_%D0%BA%D1%80%D0%B8%D0%BA%D0%BD%D1%83%D0%BB_%C2%AB%D0%9E%D0%B1%D0%BE%D1%80%D0%BE%D1%82%D0%BD%D0%B8!%C2%BB&amp;action=edit&amp;redlink=1" title="Поросёнок, который крикнул «Оборотни!» (страница отсутствует)">Поросёнок, который крикнул «Оборотни!»</a> (2011)</li>
+<li><a href="/wiki/%D0%9A%D0%B0%D0%BA_%D0%BF%D1%80%D0%B8%D1%80%D1%83%D1%87%D0%B8%D1%82%D1%8C_%D0%B4%D1%80%D0%B0%D0%BA%D0%BE%D0%BD%D0%B0_(%D1%84%D1%80%D0%B0%D0%BD%D1%88%D0%B8%D0%B7%D0%B0)#Книга_драконов" title="Как приручить дракона (франшиза)">Книга драконов</a> (2011)</li>
+<li><a class="new" href="/w/index.php?title=%D0%A1%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D1%8B_%D0%9C%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%BE%D0%B2&amp;action=edit&amp;redlink=1" title="Секреты Мастеров (страница отсутствует)">Кунг-фу панда: Секреты мастеров</a> (2011)</li>
+<li><a href="/wiki/%D0%9A%D0%BE%D1%82_%D0%B2_%D1%81%D0%B0%D0%BF%D0%BE%D0%B3%D0%B0%D1%85:_%D0%A2%D1%80%D0%B8_%D0%B4%D1%8C%D1%8F%D0%B2%D0%BE%D0%BB%D1%91%D0%BD%D0%BA%D0%B0" title="Кот в сапогах: Три дьяволёнка">Кот в сапогах: Три дьяволёнка</a> (2012)</li>
+<li><a class="new" href="/w/index.php?title=%D0%9F%D0%BE%D1%87%D1%82%D0%B8_%D0%B4%D0%BE%D0%BC%D0%B0&amp;action=edit&amp;redlink=1" title="Почти дома (страница отсутствует)">Почти дома</a> (2014)</li>
+<li><a href="/wiki/%D0%A0%D0%BE%D0%BA%D0%BA%D0%B8_%D0%B8_%D0%91%D1%83%D0%BB%D1%8C%D0%B2%D0%B8%D0%BD%D0%BA%D0%BB%D1%8C_(%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Рокки и Бульвинкль (мультфильм)">Рокки и Бульвинкль</a> (2014)</li>
+<li><a href="/wiki/%D0%9A%D0%B0%D0%BA_%D0%BF%D1%80%D0%B8%D1%80%D1%83%D1%87%D0%B8%D1%82%D1%8C_%D0%B4%D1%80%D0%B0%D0%BA%D0%BE%D0%BD%D0%B0_(%D1%84%D1%80%D0%B0%D0%BD%D1%88%D0%B8%D0%B7%D0%B0)#Драконы:_Гонки_бесстрашных._Начало" title="Как приручить дракона (франшиза)">Драконы: Гонки бесстрашных. Начало</a> (2014)</li>
+<li><a class="new" href="/w/index.php?title=%D0%9A%D1%83%D0%BD%D0%B3-%D1%84%D1%83_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0:_%D0%97%D0%B0%D0%B3%D0%B0%D0%B4%D0%BA%D0%B8_%D1%81%D0%B2%D0%B8%D1%82%D0%BA%D0%B0&amp;action=edit&amp;redlink=1" title="Кунг-фу панда: Загадки свитка (страница отсутствует)">Кунг-фу панда: Загадки свитка</a> (2015)</li>
+<li><a class="new" href="/w/index.php?title=%D0%9F%D1%82%D0%B8%D1%87%D1%8C%D1%8F_%D0%BA%D0%B0%D1%80%D0%BC%D0%B0&amp;action=edit&amp;redlink=1" title="Птичья карма (страница отсутствует)">Птичья карма</a> (2018)</li>
+<li><a class="new" href="/w/index.php?title=%D0%91%D0%B8%D0%BB%D0%B1%D0%B8_(%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)&amp;action=edit&amp;redlink=1" title="Билби (мультфильм) (страница отсутствует)">Билби</a> (2018)</li>
+<li>Затерянный (2019)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Франшизы</th><td class="navbox-list navbox-even hlist hlist-items-nowrap" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%A8%D1%80%D0%B5%D0%BA_(%D1%84%D1%80%D0%B0%D0%BD%D1%88%D0%B8%D0%B7%D0%B0)" title="Шрек (франшиза)">Шрек</a> (2001—2022)</li>
+<li><a href="/wiki/%D0%9C%D0%B0%D0%B4%D0%B0%D0%B3%D0%B0%D1%81%D0%BA%D0%B0%D1%80_(%D1%84%D1%80%D0%B0%D0%BD%D1%88%D0%B8%D0%B7%D0%B0)" title="Мадагаскар (франшиза)">Мадагаскар</a> (2005—2017)</li>
+<li><a href="/wiki/%D0%9A%D1%83%D0%BD%D0%B3-%D1%84%D1%83_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0_(%D1%84%D1%80%D0%B0%D0%BD%D1%88%D0%B8%D0%B7%D0%B0)" title="Кунг-фу панда (франшиза)">Кунг-фу панда</a> (2008—2018)</li>
+<li><a href="/wiki/%D0%9A%D0%B0%D0%BA_%D0%BF%D1%80%D0%B8%D1%80%D1%83%D1%87%D0%B8%D1%82%D1%8C_%D0%B4%D1%80%D0%B0%D0%BA%D0%BE%D0%BD%D0%B0_(%D1%84%D1%80%D0%B0%D0%BD%D1%88%D0%B8%D0%B7%D0%B0)" title="Как приручить дракона (франшиза)">Как приручить дракона</a> (2010—2020)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Дистрибуция</th><td class="navbox-list navbox-odd hlist hlist-items-nowrap" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/DreamWorks_Pictures" title="DreamWorks Pictures">DreamWorks Pictures</a> (1998—2005)</li>
+<li><a href="/wiki/Paramount_Pictures" title="Paramount Pictures">Paramount Pictures</a> (2006—2012)</li>
+<li><a href="/wiki/20th_Century_Studios" title="20th Century Studios">20th Century Fox</a> (2013—2017)</li>
+<li><a href="/wiki/Universal_Pictures" title="Universal Pictures">Universal Pictures</a> (2018—<abbr class="nowrap" title="настоящее время">н. в.</abbr>)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Персоналии</th><td class="navbox-list navbox-even hlist hlist-items-nowrap" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%94%D0%B5%D0%B1%D0%BB%D1%83%D0%B0,_%D0%94%D0%B8%D0%BD" title="Деблуа, Дин">Дин Деблуа</a></li>
+<li><a href="/wiki/%D0%93%D0%B5%D1%84%D1%84%D0%B5%D0%BD,_%D0%94%D1%8D%D0%B2%D0%B8%D0%B4" title="Геффен, Дэвид">Дэвид Геффен</a></li>
+<li><a href="/wiki/%D0%9A%D0%B0%D1%82%D1%86%D0%B5%D0%BD%D0%B1%D0%B5%D1%80%D0%B3,_%D0%94%D0%B6%D0%B5%D1%84%D1%84%D1%80%D0%B8" title="Катценберг, Джеффри">Джеффри Катценберг</a></li>
+<li><a href="/wiki/%D0%9C%D0%B0%D0%BA%D0%B3%D1%80%D0%B0%D1%82,_%D0%A2%D0%BE%D0%BC" title="Макграт, Том">Том Макграт</a></li>
+<li><a href="/wiki/%D0%9F%D0%B5%D1%80%D0%B8%D1%84%D0%B5%D0%BB,_%D0%9F%D1%8C%D0%B5%D1%80" title="Перифел, Пьер">Пьер Перифел</a></li>
+<li><a href="/wiki/%D0%A1%D0%B0%D0%BD%D0%B4%D0%B5%D1%80%D1%81,_%D0%9A%D1%80%D0%B8%D1%81" title="Сандерс, Крис">Крис Сандерс</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D0%BB%D0%B1%D0%B5%D1%80%D0%B3,_%D0%A1%D1%82%D0%B8%D0%B2%D0%B5%D0%BD" title="Спилберг, Стивен">Стивен Спилберг</a></li>
+<li><a href="/wiki/%D0%A3%D1%8D%D0%BB%D0%BB%D1%81,_%D0%A1%D0%B0%D0%B9%D0%BC%D0%BE%D0%BD" title="Уэллс, Саймон">Саймон Уэллс</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%94%D0%B6%D0%B5%D0%BD%D0%B8%D1%84%D0%B5%D1%80_%D0%AE&amp;action=edit&amp;redlink=1" title="Дженифер Ю (страница отсутствует)">Дженифер Ю</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐6bd5d5c4d7‐rtpkj
+Cached time: 20240227173708
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.761 seconds
+Real time usage: 1.070 seconds
+Preprocessor visited node count: 3646/1000000
+Post‐expand include size: 135512/2097152 bytes
+Template argument size: 15396/2097152 bytes
+Highest expansion depth: 18/100
+Expensive parser function count: 29/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 5109/5000000 bytes
+Lua time usage: 0.565/10.000 seconds
+Lua memory usage: 12307642/52428800 bytes
+Number of Wikibase entities loaded: 37/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  962.076      1 -total
+ 61.27%  589.499      1 Шаблон:Мультфильм
+ 60.16%  578.748      1 Шаблон:Карточка
+ 28.10%  270.372     15 Шаблон:Wikidata
+ 25.13%  241.732     22 Шаблон:Wikidata_plural_switch
+ 11.82%  113.729     11 Шаблон:Source-ref
+  8.23%   79.189      1 Шаблон:ВС
+  3.84%   36.896      1 Шаблон:Навигация
+  3.61%   34.771      2 Шаблон:Неполный_список_проката
+  3.12%   30.003      1 Шаблон:Ambox
+-->
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:377438-0!canonical and timestamp 20240227173708 and revision id 134304642. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> -->
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Смывайся!&amp;oldid=134304642">https://ru.wikipedia.org/w/index.php?title=Смывайся!&amp;oldid=134304642</a></div></div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9C%D1%83%D0%BB%D1%8C%D1%82%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B_%D0%BD%D0%B0_%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%BC_%D1%8F%D0%B7%D1%8B%D0%BA%D0%B5" title="Категория:Мультфильмы на английском языке">Мультфильмы на английском языке</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9C%D1%83%D0%BB%D1%8C%D1%82%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Мультфильмы по алфавиту">Мультфильмы по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9C%D1%83%D0%BB%D1%8C%D1%82%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B_%D0%A1%D0%A8%D0%90_2006_%D0%B3%D0%BE%D0%B4%D0%B0" title="Категория:Мультфильмы США 2006 года">Мультфильмы США 2006 года</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%BE%D0%BB%D0%BD%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B0%D0%B6%D0%BD%D1%8B%D0%B5_%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D0%B8" title="Категория:Полнометражные мультфильмы Великобритании">Полнометражные мультфильмы Великобритании</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9C%D1%83%D0%BB%D1%8C%D1%82%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B_Aardman_Animations" title="Категория:Мультфильмы Aardman Animations">Мультфильмы Aardman Animations</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%BE%D0%BB%D0%BD%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B0%D0%B6%D0%BD%D1%8B%D0%B5_%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B_DreamWorks_Pictures" title="Категория:Полнометражные мультфильмы DreamWorks Pictures">Полнометражные мультфильмы DreamWorks Pictures</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D1%8B%D0%B5_%D0%B0%D0%BD%D0%B8%D0%BC%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5_%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B_%D0%A1%D0%A8%D0%90" title="Категория:Компьютерные анимационные фильмы США">Компьютерные анимационные фильмы США</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9C%D1%83%D0%BB%D1%8C%D1%82%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B_%D0%BE_%D0%B6%D0%B8%D0%B2%D0%BE%D1%82%D0%BD%D1%8B%D1%85" title="Категория:Мультфильмы о животных">Мультфильмы о животных</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9C%D1%83%D0%BB%D1%8C%D1%82%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B_%D0%BE_%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D1%8F%D1%89%D0%B8%D1%85_%D0%B6%D0%B8%D0%B2%D0%BE%D1%82%D0%BD%D1%8B%D1%85" title="Категория:Мультфильмы о говорящих животных">Мультфильмы о говорящих животных</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9C%D1%83%D0%BB%D1%8C%D1%82%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B_%D0%94%D1%8D%D0%B2%D0%B8%D0%B4%D0%B0_%D0%91%D0%B0%D1%83%D1%8D%D1%80%D1%81%D0%B0" title="Категория:Мультфильмы Дэвида Бауэрса">Мультфильмы Дэвида Бауэрса</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A4%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D0%B8_2006_%D0%B3%D0%BE%D0%B4%D0%B0" title="Категория:Фильмы Великобритании 2006 года">Фильмы Великобритании 2006 года</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%BD%D0%B5_%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD_%D1%8F%D0%B7%D1%8B%D0%BA)" title="Категория:Википедия:Cite web (не указан язык)">Википедия:Cite web (не указан язык)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B0%D0%BC%D0%B8_%D0%B8%D0%B7_%D0%92%D0%B8%D0%BA%D0%B8%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85" title="Категория:Википедия:Статьи с источниками из Викиданных">Википедия:Статьи с источниками из Викиданных</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81%D0%BE_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8_%D0%BD%D0%B0_%D0%92%D0%B8%D0%BA%D0%B8%D1%86%D0%B8%D1%82%D0%B0%D1%82%D0%BD%D0%B8%D0%BA" title="Категория:Статьи со ссылками на Викицитатник">Статьи со ссылками на Викицитатник</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81%D0%BE_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8_%D0%BD%D0%B0_%D0%92%D0%B8%D0%BA%D0%B8%D1%81%D0%BA%D0%BB%D0%B0%D0%B4" title="Категория:Статьи со ссылками на Викисклад">Статьи со ссылками на Викисклад</a></li></ul></div></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Навигация</h2>
+<div id="mw-head">
+<nav aria-labelledby="p-personal-label" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" id="p-personal" role="navigation">
+<h3 class="vector-menu-heading" id="p-personal-label">
+<span class="vector-menu-heading-label">Персональные инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="pt-anonuserpage"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li class="mw-list-item" id="pt-anontalk"><a accesskey="n" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]"><span>Обсуждение</span></a></li><li class="mw-list-item" id="pt-anoncontribs"><a accesskey="y" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]"><span>Вклад</span></a></li><li class="mw-list-item" id="pt-createaccount"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%A1%D0%BC%D1%8B%D0%B2%D0%B0%D0%B9%D1%81%D1%8F%21" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li class="mw-list-item" id="pt-login"><a accesskey="o" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%A1%D0%BC%D1%8B%D0%B2%D0%B0%D0%B9%D1%81%D1%8F%21" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]"><span>Войти</span></a></li>
+</ul>
+</div>
+</nav>
+<div id="left-navigation">
+<nav aria-labelledby="p-namespaces-label" class="mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-namespaces" role="navigation">
+<h3 class="vector-menu-heading" id="p-namespaces-label">
+<span class="vector-menu-heading-label">Пространства имён</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-nstab-main"><a accesskey="c" href="/wiki/%D0%A1%D0%BC%D1%8B%D0%B2%D0%B0%D0%B9%D1%81%D1%8F!" title="Просмотреть контентную страницу [c]"><span>Статья</span></a></li><li class="mw-list-item" id="ca-talk"><a accesskey="t" href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%A1%D0%BC%D1%8B%D0%B2%D0%B0%D0%B9%D1%81%D1%8F!" rel="discussion" title="Обсуждение основной страницы [t]"><span>Обсуждение</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-variants-label" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" id="p-variants" role="navigation">
+<input aria-haspopup="true" aria-labelledby="p-variants-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-variants" id="p-variants-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-variants-label">
+<span class="vector-menu-heading-label">русский</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+</div>
+<div id="right-navigation">
+<nav aria-labelledby="p-views-label" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-views" role="navigation">
+<h3 class="vector-menu-heading" id="p-views-label">
+<span class="vector-menu-heading-label">Просмотры</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-view"><a href="/wiki/%D0%A1%D0%BC%D1%8B%D0%B2%D0%B0%D0%B9%D1%81%D1%8F!"><span>Читать</span></a></li><li class="mw-list-item" id="ca-ve-edit"><a accesskey="v" href="/w/index.php?title=%D0%A1%D0%BC%D1%8B%D0%B2%D0%B0%D0%B9%D1%81%D1%8F!&amp;veaction=edit" title="Редактировать данную страницу [v]"><span>Править</span></a></li><li class="collapsible mw-list-item" id="ca-edit"><a accesskey="e" href="/w/index.php?title=%D0%A1%D0%BC%D1%8B%D0%B2%D0%B0%D0%B9%D1%81%D1%8F!&amp;action=edit" title="Править исходный текст этой страницы [e]"><span>Править код</span></a></li><li class="mw-list-item" id="ca-history"><a accesskey="h" href="/w/index.php?title=%D0%A1%D0%BC%D1%8B%D0%B2%D0%B0%D0%B9%D1%81%D1%8F!&amp;action=history" title="Журнал изменений страницы [h]"><span>История</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-cactions-label" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" id="p-cactions" role="navigation" title="Больше возможностей">
+<input aria-haspopup="true" aria-labelledby="p-cactions-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-cactions" id="p-cactions-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-cactions-label">
+<span class="vector-menu-heading-label">Ещё</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+<div class="vector-search-box-vue vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box" id="p-search" role="search">
+<h3>Поиск</h3>
+<form action="/w/index.php" class="vector-search-box-form" id="searchform">
+<div class="vector-search-box-inner" data-search-loc="header-navigation" id="simpleSearch">
+<input accesskey="f" aria-label="Искать в Википедии" autocapitalize="sentences" class="vector-search-box-input" id="searchInput" name="search" placeholder="Искать в Википедии" title="Искать в Википедии [f]" type="search"/>
+<input name="title" type="hidden" value="Служебная:Поиск"/>
+<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Найти страницы, содержащие указанный текст" type="submit" value="Найти"/>
+<input class="searchButton" id="searchButton" name="go" title="Перейти к странице, имеющей в точности такое название" type="submit" value="Перейти"/>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="vector-legacy-sidebar" id="mw-panel">
+<div id="p-logo" role="banner">
+<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу"></a>
+</div>
+<nav aria-labelledby="p-navigation-label" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" id="p-navigation" role="navigation">
+<h3 class="vector-menu-heading" id="p-navigation-label">
+<span class="vector-menu-heading-label">Навигация</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-mainpage-description"><a accesskey="z" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]"><span>Заглавная страница</span></a></li><li class="mw-list-item" id="n-content"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li class="mw-list-item" id="n-featured"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li class="mw-list-item" id="n-randompage"><a accesskey="x" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]"><span>Случайная статья</span></a></li><li class="mw-list-item" id="n-currentevents"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li class="mw-list-item" id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-participation-label" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" id="p-participation" role="navigation">
+<h3 class="vector-menu-heading" id="p-participation-label">
+<span class="vector-menu-heading-label">Участие</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-bug_in_article"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li class="mw-list-item" id="n-introduction"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li class="mw-list-item" id="n-portal"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li class="mw-list-item" id="n-forum"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li class="mw-list-item" id="n-recentchanges"><a accesskey="r" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]"><span>Свежие правки</span></a></li><li class="mw-list-item" id="n-newpages"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li class="mw-list-item" id="n-help"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-tb-label" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" id="p-tb" role="navigation">
+<h3 class="vector-menu-heading" id="p-tb-label">
+<span class="vector-menu-heading-label">Инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="t-whatlinkshere"><a accesskey="j" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%A1%D0%BC%D1%8B%D0%B2%D0%B0%D0%B9%D1%81%D1%8F!" title="Список всех страниц, ссылающихся на данную [j]"><span>Ссылки сюда</span></a></li><li class="mw-list-item" id="t-recentchangeslinked"><a accesskey="k" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%A1%D0%BC%D1%8B%D0%B2%D0%B0%D0%B9%D1%81%D1%8F!" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]"><span>Связанные правки</span></a></li><li class="mw-list-item" id="t-specialpages"><a accesskey="q" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]"><span>Служебные страницы</span></a></li><li class="mw-list-item" id="t-permalink"><a href="/w/index.php?title=%D0%A1%D0%BC%D1%8B%D0%B2%D0%B0%D0%B9%D1%81%D1%8F!&amp;oldid=134304642" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li class="mw-list-item" id="t-info"><a href="/w/index.php?title=%D0%A1%D0%BC%D1%8B%D0%B2%D0%B0%D0%B9%D1%81%D1%8F!&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li class="mw-list-item" id="t-cite"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%A1%D0%BC%D1%8B%D0%B2%D0%B0%D0%B9%D1%81%D1%8F%21&amp;id=134304642&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li class="mw-list-item" id="t-urlshortener"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%25A1%25D0%25BC%25D1%258B%25D0%25B2%25D0%25B0%25D0%25B9%25D1%2581%25D1%258F%21"><span>Получить короткий URL</span></a></li><li class="mw-list-item" id="t-urlshortener-qrcode"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%25A1%25D0%25BC%25D1%258B%25D0%25B2%25D0%25B0%25D0%25B9%25D1%2581%25D1%258F%21"><span>Скачать QR-код</span></a></li><li class="mw-list-item" id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q752301" title="Ссылка на связанный элемент репозитория данных [g]"><span>Элемент Викиданных</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-coll-print_export-label" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" id="p-coll-print_export" role="navigation">
+<h3 class="vector-menu-heading" id="p-coll-print_export-label">
+<span class="vector-menu-heading-label">Печать/экспорт</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="coll-download-as-rl"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%A1%D0%BC%D1%8B%D0%B2%D0%B0%D0%B9%D1%81%D1%8F%21&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li class="mw-list-item" id="t-print"><a accesskey="p" href="/w/index.php?title=%D0%A1%D0%BC%D1%8B%D0%B2%D0%B0%D0%B9%D1%81%D1%8F!&amp;printable=yes" title="Версия этой страницы для печати [p]"><span>Версия для печати</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-wikibase-otherprojects-label" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal vector-menu" id="p-wikibase-otherprojects" role="navigation">
+<h3 class="vector-menu-heading" id="p-wikibase-otherprojects-label">
+<span class="vector-menu-heading-label">В других проектах</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Flushed_Away" hreflang="en"><span>Викисклад</span></a></li><li class="wb-otherproject-link wb-otherproject-wikiquote mw-list-item"><a href="https://ru.wikiquote.org/wiki/%D0%A1%D0%BC%D1%8B%D0%B2%D0%B0%D0%B9%D1%81%D1%8F!" hreflang="ru"><span>Викицитатник</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-lang-label" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" id="p-lang" role="navigation">
+<h3 class="vector-menu-heading" id="p-lang-label">
+<span class="vector-menu-heading-label">На других языках</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="interlanguage-link interwiki-ar mw-list-item"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AA%D8%AF%D9%81%D9%82_%D8%A7%D9%84%D8%A8%D8%B9%D9%8A%D8%AF_(%D9%81%D9%8A%D9%84%D9%85)" hreflang="ar" lang="ar" title="التدفق البعيد (فيلم) — арабский"><span>العربية</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%9E%D1%82%D0%BD%D0%B5%D1%81%D0%B5%D0%BD%D0%B8" hreflang="bg" lang="bg" title="Отнесени — болгарский"><span>Български</span></a></li><li class="interlanguage-link interwiki-ceb mw-list-item"><a class="interlanguage-link-target" href="https://ceb.wikipedia.org/wiki/Flushed_Away" hreflang="ceb" lang="ceb" title="Flushed Away — себуано"><span>Cebuano</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Spl%C3%A1chnutej" hreflang="cs" lang="cs" title="Spláchnutej — чешский"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-cy mw-list-item"><a class="interlanguage-link-target" href="https://cy.wikipedia.org/wiki/Flushed_Away" hreflang="cy" lang="cy" title="Flushed Away — валлийский"><span>Cymraeg</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Skyllet_v%C3%A6k" hreflang="da" lang="da" title="Skyllet væk — датский"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Flutsch_und_weg" hreflang="de" lang="de" title="Flutsch und weg — немецкий"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%A0%CE%BF%CE%BD%CF%84%CE%B9%CE%BA%CE%BF%CF%8D%CF%80%CE%BF%CE%BB%CE%B7" hreflang="el" lang="el" title="Ποντικούπολη — греческий"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a class="interlanguage-link-target" href="https://en.wikipedia.org/wiki/Flushed_Away" hreflang="en" lang="en" title="Flushed Away — английский"><span>English</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Flushed_Away" hreflang="es" lang="es" title="Flushed Away — испанский"><span>Español</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D8%A2%D8%A8%E2%80%8C%D8%B1%D9%81%D8%AA%D9%87" hreflang="fa" lang="fa" title="برآب‌رفته — персидский"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Virran_viem%C3%A4%C3%A4" hreflang="fi" lang="fi" title="Virran viemää — финский"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Souris_City" hreflang="fr" lang="fr" title="Souris City — французский"><span>Français</span></a></li><li class="interlanguage-link interwiki-gl mw-list-item"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Flushed_Away" hreflang="gl" lang="gl" title="Flushed Away — галисийский"><span>Galego</span></a></li><li class="interlanguage-link interwiki-gv mw-list-item"><a class="interlanguage-link-target" href="https://gv.wikipedia.org/wiki/Flushed_Away" hreflang="gv" lang="gv" title="Flushed Away — мэнский"><span>Gaelg</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%97%D7%99%D7%99%D7%9D_%D7%91%D7%96%D7%A8%D7%9D" hreflang="he" lang="he" title="חיים בזרם — иврит"><span>עברית</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Elvitte_a_v%C3%ADz" hreflang="hu" lang="hu" title="Elvitte a víz — венгерский"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-hy mw-list-item"><a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D5%89%D6%84%D5%BE%D5%AB%D5%9B%D6%80_(%D5%B4%D5%B8%D6%82%D5%AC%D5%BF%D6%86%D5%AB%D5%AC%D5%B4)" hreflang="hy" lang="hy" title="Չքվի՛ր (մուլտֆիլմ) — армянский"><span>Հայերեն</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Flushed_Away" hreflang="id" lang="id" title="Flushed Away — индонезийский"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Gi%C3%B9_per_il_tubo" hreflang="it" lang="it" title="Giù per il tubo — итальянский"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%A6%E3%82%B9%E3%83%BB%E3%82%BF%E3%82%A6%E3%83%B3_%E3%83%AD%E3%83%87%E3%82%A3%E3%81%A8%E3%83%AA%E3%82%BF%E3%81%AE%E5%A4%A7%E5%86%92%E9%99%BA" hreflang="ja" lang="ja" title="マウス・タウン ロディとリタの大冒険 — японский"><span>日本語</span></a></li><li class="interlanguage-link interwiki-ka mw-list-item"><a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%93%E1%83%90%E1%83%98%E1%83%97%E1%83%94%E1%83%A1%E1%83%94" hreflang="ka" lang="ka" title="დაითესე — грузинский"><span>ქართული</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%ED%94%8C%EB%9F%AC%EC%89%AC_(%EC%98%81%ED%99%94)" hreflang="ko" lang="ko" title="플러쉬 (영화) — корейский"><span>한국어</span></a></li><li class="interlanguage-link interwiki-lt mw-list-item"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Srov%C4%97s_nublok%C5%A1ti" hreflang="lt" lang="lt" title="Srovės nublokšti — литовский"><span>Lietuvių</span></a></li><li class="interlanguage-link interwiki-lv mw-list-item"><a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Aizskalotais" hreflang="lv" lang="lv" title="Aizskalotais — латышский"><span>Latviešu</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Flushed_Away" hreflang="ms" lang="ms" title="Flushed Away — малайский"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Flushed_Away" hreflang="nl" lang="nl" title="Flushed Away — нидерландский"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Nedenom_og_hjem_igjen" hreflang="nb" lang="nb" title="Nedenom og hjem igjen — норвежский букмол"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Wpuszczony_w_kana%C5%82" hreflang="pl" lang="pl" title="Wpuszczony w kanał — польский"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Por_%C3%81gua_Abaixo" hreflang="pt" lang="pt" title="Por Água Abaixo — португальский"><span>Português</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Aruncat_la_canal" hreflang="ro" lang="ro" title="Aruncat la canal — румынский"><span>Română</span></a></li><li class="interlanguage-link interwiki-sco mw-list-item"><a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Flushed_Away" hreflang="sco" lang="sco" title="Flushed Away — шотландский"><span>Scots</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Flushed_Away" hreflang="en-simple" lang="en-simple" title="Flushed Away — Simple English"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Bortspolad" hreflang="sv" lang="sv" title="Bortspolad — шведский"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-th mw-list-item"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%AB%E0%B8%99%E0%B8%B9%E0%B9%84%E0%B8%AE%E0%B9%82%E0%B8%8B_%E0%B8%82%E0%B8%AD%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%AE%E0%B8%B5%E0%B9%82%E0%B8%A3%E0%B9%88%E0%B8%AA%E0%B8%B1%E0%B8%81%E0%B8%A7%E0%B8%B1%E0%B8%99" hreflang="th" lang="th" title="หนูไฮโซ ขอเป็นฮีโร่สักวัน — тайский"><span>ไทย</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Fare_%C5%9Eehri" hreflang="tr" lang="tr" title="Fare Şehri — турецкий"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%97%D0%BC%D0%B8%D0%B2%D0%B0%D0%B9%D1%81%D1%8F" hreflang="uk" lang="uk" title="Змивайся — украинский"><span>Українська</span></a></li><li class="interlanguage-link interwiki-ur mw-list-item"><a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%D9%81%D9%84%D8%B4%DA%88_%D8%A7%D9%88%D8%A6%DB%92" hreflang="ur" lang="ur" title="فلشڈ اوئے — урду"><span>اردو</span></a></li><li class="interlanguage-link interwiki-uz mw-list-item"><a class="interlanguage-link-target" href="https://uz.wikipedia.org/wiki/Flushed_Away" hreflang="uz" lang="uz" title="Flushed Away — узбекский"><span>Oʻzbekcha / ўзбекча</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Flushed_Away" hreflang="vi" lang="vi" title="Flushed Away — вьетнамский"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E9%BC%A0%E5%9C%8B%E6%B5%81%E6%B5%AA%E8%A8%98" hreflang="zh" lang="zh" title="鼠國流浪記 — китайский"><span>中文</span></a></li><li class="interlanguage-link interwiki-zh-yue mw-list-item"><a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E6%B2%96%E5%87%BA%E6%B0%B4%E4%B8%96%E7%95%8C" hreflang="yue" lang="yue" title="沖出水世界 — кантонский"><span>粵語</span></a></li>
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q752301#sitelinks-wikipedia" title="Править ссылки на другие языки">Править ссылки</a></span></div>
+</div>
+</nav>
+</div>
+</div>
+<footer class="mw-footer" id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 17 ноября 2023 в 08:17.</li>
+<li id="footer-info-copyright">Текст доступен по <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru" rel="license">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a><a href="//creativecommons.org/licenses/by-sa/4.0/" rel="license" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br/>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org/ru/">Фонд Викимедиа (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//ru.m.wikipedia.org/w/index.php?title=%D0%A1%D0%BC%D1%8B%D0%B2%D0%B0%D0%B9%D1%81%D1%8F!&amp;mobileaction=toggle_view_mobile">Мобильная версия</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" loading="lazy" src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88"/></a></li>
+<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" loading="lazy" src="/static/images/footer/poweredby_mediawiki_88x31.png" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88"/></a></li>
+</ul>
+</footer>
+
+
+</body>
+</html>

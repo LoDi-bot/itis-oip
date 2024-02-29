@@ -11,7 +11,7 @@
 <meta content="" name="ResourceLoaderDynamicStyles"/>
 
 
-<meta content="MediaWiki 1.42.0-wmf.18" name="generator"/>
+<meta content="MediaWiki 1.42.0-wmf.19" name="generator"/>
 <meta content="origin" name="referrer"/>
 <meta content="origin-when-cross-origin" name="referrer"/>
 <meta content="max-image-preview:standard" name="robots"/>
@@ -635,7 +635,7 @@
 <li><a class="external text" href="http://edfootball.com/index.php/articles/lichnost/280-vini-dzhons-i-vse-vse-vse " rel="nofollow"><small class="ref-info">(недоступная ссылка)</small> ЕДФ: Винни Джонс и все-все-все. Часть 3</a></li>
 <li><span class="citation"><span lang="en"><a class="external text" href="http://www.pokerplayermagazine.co.uk/theplayers/playerinterviews/1019/im_a_celebrity_get_me_pocket_aces.html" rel="nofollow">Интервью Джонса журналу <i>PokerPlayer</i></a></span> <span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>. <a class="external text" href="https://web.archive.org/web/20060604054932/http://www.pokerplayermagazine.co.uk/theplayers/playerinterviews/1019/im_a_celebrity_get_me_pocket_aces.html" rel="nofollow">Архивировано</a> 4 июня 2006 года.</span></li>
 <li><a class="external text" href="https://web.archive.org/web/20100410185315/http://www.championat.ru/football/article-54148.html" rel="nofollow">«Голливудский костолом». Алексей Третяк «Чемпионат.ру».</a></li></ul>
-<div aria-labelledby="Ссылки_на_внешние_ресурсы" class="navbox" data-name="External links" role="navigation" style="padding-top:1px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup" style="display:none"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:External_links" title="Перейти к шаблону «External links»"><img alt="Перейти к шаблону «External links»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span> </span><div id="Ссылки_на_внешние_ресурсы" style="font-size:114%;margin:0 5em">Ссылки на внешние ресурсы</div></th></tr><tr><th class="navbox-group" scope="row" style="width:1px"><div style="padding: 0 35px 0 0; width: 100%;"><div style="float: left;"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8" title="Перейти к шаблону «Внешние ссылки»"><img alt="Перейти к шаблону «Внешние ссылки»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span>  <span typeof="mw:File"><a href="https://www.wikidata.org/wiki/Q296822#identifiers" title="Перейти к элементу Викиданных"><img alt="Перейти к элементу Викиданных" class="mw-file-element" data-file-height="20" data-file-width="20" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/14px-OOjs_UI_icon_edit-ltr-progressive.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/21px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/28px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" width="14"/></a></span></div>  В социальных сетях</div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<div aria-labelledby="Ссылки_на_внешние_ресурсы" class="navbox" data-name="External links" role="navigation" style="padding-top:1px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup" style="display:none"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:External_links" title="Перейти к шаблону «External links»"><img alt="Перейти к шаблону «External links»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span></span><div id="Ссылки_на_внешние_ресурсы" style="font-size:114%;margin:0 5em">Ссылки на внешние ресурсы</div></th></tr><tr><th class="navbox-group" scope="row" style="width:1px"><div style="padding: 0 35px 0 0; width: 100%;"><div style="float: left;"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8" title="Перейти к шаблону «Внешние ссылки»"><img alt="Перейти к шаблону «Внешние ссылки»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span>  <span typeof="mw:File"><a href="https://www.wikidata.org/wiki/Q296822#identifiers" title="Перейти к элементу Викиданных"><img alt="Перейти к элементу Викиданных" class="mw-file-element" data-file-height="20" data-file-width="20" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/14px-OOjs_UI_icon_edit-ltr-progressive.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/21px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/28px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" width="14"/></a></span></div>  В социальных сетях</div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
 <ul><li><a class="external text" href="https://twitter.com/VinnieJones65" rel="nofollow">Твиттер</a></li></ul>
 </div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Фото, видео и аудио</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
 <ul><li><a class="external text" href="https://www.tcdb.com/Person.cfm/pid/24553/" rel="nofollow">TCDb</a></li></ul>
@@ -682,38 +682,38 @@
 <li>Проставить <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BD%D0%BE%D1%81%D0%BA%D0%B8" title="Википедия:Сноски">сноски</a>, внести более точные указания на источники.</li></ul></div><div class="mbox-textsmall-div hide-when-compact" style="font-size:85%">После исправления проблемы исключите её из списка. Удалите шаблон, если устранены все недостатки.</div></td></tr></tbody></table>
 <!-- 
 NewPP limit report
-Parsed by mw1364
-Cached time: 20240218014353
+Parsed by mw2338
+Cached time: 20240225100936
 Cache expiry: 2592000
 Reduced expiry: false
 Complications: [show‐toc]
-CPU time usage: 0.702 seconds
-Real time usage: 0.981 seconds
-Preprocessor visited node count: 3173/1000000
-Post‐expand include size: 72653/2097152 bytes
-Template argument size: 4923/2097152 bytes
+CPU time usage: 0.655 seconds
+Real time usage: 1.032 seconds
+Preprocessor visited node count: 3136/1000000
+Post‐expand include size: 72637/2097152 bytes
+Template argument size: 4841/2097152 bytes
 Highest expansion depth: 18/100
 Expensive parser function count: 8/500
 Unstrip recursion depth: 0/20
 Unstrip post‐expand size: 9395/5000000 bytes
-Lua time usage: 0.499/10.000 seconds
-Lua memory usage: 12324079/52428800 bytes
+Lua time usage: 0.467/10.000 seconds
+Lua memory usage: 12296035/52428800 bytes
 Number of Wikibase entities loaded: 21/400
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  867.646      1 -total
- 60.59%  525.735      1 Шаблон:Кинематографист
- 56.84%  493.169      1 Шаблон:Карточка
- 14.59%  126.592      1 Шаблон:Wikidata/p569
- 12.84%  111.390      1 Шаблон:ВС
-  9.99%   86.659      9 Шаблон:Wikidata
-  5.90%   51.153      1 Шаблон:Rq
-  5.61%   48.693      3 Шаблон:Футбольная_карьера
-  5.55%   48.117      1 Шаблон:Ambox
-  4.72%   40.963      1 Шаблон:Примечания
+100.00%  930.912      1 -total
+ 65.86%  613.100      1 Шаблон:Кинематографист
+ 63.07%  587.138      1 Шаблон:Карточка
+ 13.75%  128.046      1 Шаблон:Wikidata/p569
+ 12.71%  118.340      1 Шаблон:ВС
+  9.76%   90.839      9 Шаблон:Wikidata
+  4.65%   43.302      1 Шаблон:Rq
+  4.58%   42.622      3 Шаблон:Футбольная_карьера
+  4.42%   41.183      1 Шаблон:Ambox
+  3.90%   36.279      1 Шаблон:Примечания
 -->
-<!-- Saved in parser cache with key ruwiki:pcache:idhash:341813-0!canonical and timestamp 20240218014353 and revision id 134546506. Rendering was triggered because: page-view
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:341813-0!canonical and timestamp 20240225100936 and revision id 134546506. Rendering was triggered because: page-view
  -->
 </div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> -->
 <div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Джонс,_Винни&amp;oldid=134546506">https://ru.wikipedia.org/w/index.php?title=Джонс,_Винни&amp;oldid=134546506</a></div></div>

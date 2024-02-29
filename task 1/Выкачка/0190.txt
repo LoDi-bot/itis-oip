@@ -11,7 +11,7 @@
 <meta content="" name="ResourceLoaderDynamicStyles"/>
 
 
-<meta content="MediaWiki 1.42.0-wmf.18" name="generator"/>
+<meta content="MediaWiki 1.42.0-wmf.19" name="generator"/>
 <meta content="origin" name="referrer"/>
 <meta content="origin-when-cross-origin" name="referrer"/>
 <meta content="max-image-preview:standard" name="robots"/>
@@ -348,7 +348,7 @@ Madison 9M — топовая серия процессора; Deerfield — �
 </p><p>Процессор производится по 65 нм технологии, содержит четыре ядра<sup class="reference" id="cite_ref-25"><a href="#cite_note-25">[25]</a></sup>, до 24 МБ кэша на кристалле процессора, поддерживает технологию <a class="mw-redirect" href="/wiki/Hyper-Threading" title="Hyper-Threading">Hyper-Threading</a> и имеет интегрированный <a href="/wiki/%D0%91%D0%BB%D0%BE%D0%BA_%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D1%8C%D1%8E" title="Блок управления памятью">контроллер памяти</a>. Реализовано исправление ошибок, возникающих во время циклов обмена с памятью. Также, в процессоре Tukwila реализована поддержка новой процессорной шины <a class="mw-redirect" href="/wiki/QPI" title="QPI">QPI</a>, что является серьёзным прорывом для построенных на базе Itanium систем. Пиковая межпроцессорная производительность составила 96 ГБ/сек, пиковая производительность подсистемы памяти 34 ГБ/сек. Совместно с <a class="mw-redirect" href="/wiki/QuickPath" title="QuickPath">QuickPath</a>, процессор содержит интегрированный контроллер памяти и интерфейс памяти напрямую использует интерфейс QPI для прямого доступа к другим процессорам и контроллерам ввода-вывода (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">I/O hubs</span>). QuickPath используемый также в процессорных микроархитектурах Intel <a href="/wiki/Nehalem" title="Nehalem">Nehalem</a>, делая вероятным тот факт, что процессоры Tukwila и Nehalem смогут использовать один <a href="/wiki/%D0%A7%D0%B8%D0%BF%D1%81%D0%B5%D1%82" title="Чипсет">чипсет</a><sup class="reference" id="cite_ref-Kittson_26-0"><a href="#cite_note-Kittson-26">[26]</a></sup>. <i>Tukwila</i> объединит четыре диспетчера памяти, каждый из которых через отдельные контроллеры памяти<sup class="reference" id="cite_ref-TukwilaDelay_27-0"><a href="#cite_note-TukwilaDelay-27">[27]</a></sup> поддерживает множество модулей памяти <a href="/wiki/DDR3_SDRAM" title="DDR3 SDRAM">DDR3</a> <a href="/wiki/DIMM" title="DIMM">DIMM</a>, подобно выходящему на рынок процессору <i><a href="/wiki/Xeon" title="Xeon">Xeon</a></i>, с кодовым именем <i>Beckton</i>, основанному на ядре <i>Nehalem</i><sup class="reference" id="cite_ref-DailyTech_Server_28-0"><a href="#cite_note-DailyTech_Server-28">[28]</a></sup>.
 </p><p>Первый в мире микропроцессор, содержащий 2 миллиарда транзисторов<sup class="reference" id="cite_ref-29"><a href="#cite_note-29">[29]</a></sup>.
 </p>
-<div class="mw-collapsible mw-collapsed ts-Скрытый_блок ts-Скрытый_блок-gray ts-Скрытый_блок-rightHideLink" style=""><div class="ts-Скрытый_блок-title" style="">Выпускаемые, по состоянию на февраль 2010 года, процессоры <i>Itanium</i></div><div class="mw-collapsible-content" style="">
+<div class="mw-collapsible mw-collapsed has-collapsible-header ts-Скрытый_блок ts-Скрытый_блок-gray ts-Скрытый_блок-rightHideLink" style=""><div class="ts-Скрытый_блок-title collapsible-header" style="">Выпускаемые, по состоянию на февраль 2010 года, процессоры <i>Itanium</i></div><div class="mw-collapsible-content" style="">
 <table class="wikitable">
 <tbody><tr>
 <th>Название
@@ -1096,7 +1096,7 @@ Madison 9M — топовая серия процессора; Deerfield — �
 <li><a class="external text" href="http://www.cpu-collection.de/?l0=i&amp;i=2179&amp;n=1&amp;sd=1" rel="nofollow">Фотографии Intel Itanium с открытым картриджем</a></li>
 <li><a class="external text" href="https://archive.today/20121206030427/http://news.com.com/Analyst+firm+offers+rosy+view+of+Itanium/2100-1006_3-6038932.html" rel="nofollow">Analyst firm offers rosy view of Itanium</a></li>
 <li><a class="external text" href="http://www.ibtimes.com/articles/20100208/intel-unleashes-itanium-server-chip.htm" rel="nofollow">8 февраля 2010 года. Intel выпускает Itanium 9300</a></li></ul>
-<div aria-labelledby="Процессоры_Intel" class="navbox" data-name="Процессоры Intel" role="navigation"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%9F%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D1%8B_Intel" title="Перейти к шаблону «Процессоры Intel»"><img alt="Перейти к шаблону «Процессоры Intel»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span> </span><div id="Процессоры_Intel" style="font-size:114%;margin:0 5em"><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BE%D0%B2_Intel" title="Список микропроцессоров Intel">Процессоры Intel</a></div></th></tr><tr><td class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1px">Актуальные</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:12em;"><a href="/wiki/64_%D0%B1%D0%B8%D1%82%D0%B0" title="64 бита">64 бита</a> (<a href="/wiki/X86-64" title="X86-64">x86-64/EM64T</a>)</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<div aria-labelledby="Процессоры_Intel" class="navbox" data-name="Процессоры Intel" role="navigation"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%9F%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D1%8B_Intel" title="Перейти к шаблону «Процессоры Intel»"><img alt="Перейти к шаблону «Процессоры Intel»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span></span><div id="Процессоры_Intel" style="font-size:114%;margin:0 5em"><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BE%D0%B2_Intel" title="Список микропроцессоров Intel">Процессоры Intel</a></div></th></tr><tr><td class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1px">Актуальные</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:12em;"><a href="/wiki/64_%D0%B1%D0%B8%D1%82%D0%B0" title="64 бита">64 бита</a> (<a href="/wiki/X86-64" title="X86-64">x86-64/EM64T</a>)</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
 <ul><li><a href="/wiki/Intel_Atom" title="Intel Atom">Atom (после 2014 года)</a></li>
 <li><a href="/wiki/Celeron" title="Celeron">Celeron</a></li>
 <li><a href="/wiki/Pentium" title="Pentium">Pentium</a></li>
@@ -1305,38 +1305,38 @@ Madison 9M — топовая серия процессора; Deerfield — �
 </div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr></tbody></table></div>
 <!-- 
 NewPP limit report
-Parsed by mw‐web.eqiad.main‐7cc97dcfbc‐r4bfk
-Cached time: 20240218023417
+Parsed by mw‐web.eqiad.main‐5ddd5d9c49‐snw8w
+Cached time: 20240223184517
 Cache expiry: 2592000
 Reduced expiry: false
 Complications: [vary‐revision‐sha1, show‐toc]
-CPU time usage: 0.898 seconds
-Real time usage: 1.240 seconds
-Preprocessor visited node count: 7474/1000000
-Post‐expand include size: 174745/2097152 bytes
-Template argument size: 11408/2097152 bytes
+CPU time usage: 0.631 seconds
+Real time usage: 0.768 seconds
+Preprocessor visited node count: 7451/1000000
+Post‐expand include size: 174572/2097152 bytes
+Template argument size: 11356/2097152 bytes
 Highest expansion depth: 14/100
 Expensive parser function count: 11/500
 Unstrip recursion depth: 1/20
-Unstrip post‐expand size: 71092/5000000 bytes
-Lua time usage: 0.388/10.000 seconds
-Lua memory usage: 7466216/52428800 bytes
+Unstrip post‐expand size: 70396/5000000 bytes
+Lua time usage: 0.258/10.000 seconds
+Lua memory usage: 7549496/52428800 bytes
 Number of Wikibase entities loaded: 7/400
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  808.589      1 -total
- 45.35%  366.662      1 Шаблон:Примечания
- 33.85%  273.723      1 Шаблон:Карточка_центрального_процессора
- 32.85%  265.637      1 Шаблон:Карточка
- 18.84%  152.376     29 Шаблон:Cite_web
- 14.36%  116.124      1 Шаблон:Cite_news
-  6.79%   54.939      1 Шаблон:Процессоры_Intel
-  6.70%   54.193      1 Шаблон:Начало_скрытого_блока
-  6.50%   52.520      3 Шаблон:Wikidata
-  6.44%   52.039      1 Шаблон:Навигационная_таблица_с_блоками
+100.00%  582.650      1 -total
+ 45.73%  266.457      1 Шаблон:Примечания
+ 34.15%  198.995      1 Шаблон:Карточка_центрального_процессора
+ 33.13%  193.039      1 Шаблон:Карточка
+ 18.62%  108.466     29 Шаблон:Cite_web
+ 13.93%   81.139      1 Шаблон:Cite_news
+  6.84%   39.856      3 Шаблон:Wikidata
+  6.21%   36.201      1 Шаблон:Процессоры_Intel
+  5.82%   33.917      1 Шаблон:Навигационная_таблица_с_блоками
+  5.18%   30.184      1 Шаблон:Начало_скрытого_блока
 -->
-<!-- Saved in parser cache with key ruwiki:pcache:idhash:155729-0!canonical and timestamp 20240218023417 and revision id 134369839. Rendering was triggered because: page-view
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:155729-0!canonical and timestamp 20240223184517 and revision id 134369839. Rendering was triggered because: page-view
  -->
 </div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> -->
 <div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Itanium&amp;oldid=134369839">https://ru.wikipedia.org/w/index.php?title=Itanium&amp;oldid=134369839</a></div></div>

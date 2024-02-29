@@ -1,0 +1,767 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="ru">
+<head>
+<meta charset="utf-8"/>
+<title>WinChip — Википедия</title>
+
+
+
+
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+
+
+<meta content="MediaWiki 1.42.0-wmf.19" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="max-image-preview:standard" name="robots"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/KL_IDT_WinChip2_W2B.jpg/1200px-KL_IDT_WinChip2_W2B.jpg" property="og:image"/>
+<meta content="1200" property="og:image:width"/>
+<meta content="1251" property="og:image:height"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/KL_IDT_WinChip2_W2B.jpg/800px-KL_IDT_WinChip2_W2B.jpg" property="og:image"/>
+<meta content="800" property="og:image:width"/>
+<meta content="834" property="og:image:height"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/KL_IDT_WinChip2_W2B.jpg/640px-KL_IDT_WinChip2_W2B.jpg" property="og:image"/>
+<meta content="640" property="og:image:width"/>
+<meta content="667" property="og:image:height"/>
+<meta content="width=1000" name="viewport"/>
+<meta content="WinChip — Википедия" property="og:title"/>
+<meta content="website" property="og:type"/>
+
+
+
+
+
+
+
+
+
+
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-WinChip rootpage-WinChip skin-vector action-view"><div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators">
+</div>
+<h1 class="firstHeading mw-first-heading" id="firstHeading"><span class="mw-page-title-main">WinChip</span></h1>
+<div class="vector-body" id="bodyContent">
+<div class="noprint" id="siteSub">Материал из Википедии — свободной энциклопедии</div>
+<div id="contentSub"><div id="mw-content-subtitle"><span class="mw-redirectedfrom">(перенаправлено с «<a class="mw-redirect" href="/w/index.php?title=IDT_WinChip&amp;redirect=no" title="IDT WinChip">IDT WinChip</a>»)</span><br/>
+<div class="flaggedrevs_short flaggedrevs_stable_synced plainlinks noprint" id="mw-fr-revisiontag"><div class="flaggedrevs_short_basic"><span class="flaggedrevs-icon oo-ui-widget oo-ui-widget-enabled oo-ui-iconElement-icon oo-ui-icon-articleSearch oo-ui-iconElement oo-ui-labelElement-invisible oo-ui-iconWidget" title="Правки этой страницы требуют проверки."></span><span class="flaggedrevs-icon oo-ui-widget oo-ui-widget-enabled oo-ui-iconElement-icon oo-ui-icon-eye oo-ui-iconElement oo-ui-labelElement-invisible oo-ui-iconWidget" title="Это отпатрулированная версия страницы"></span><span class="fr-toggle-arrow oo-ui-widget oo-ui-widget-enabled oo-ui-indicatorElement-indicator oo-ui-indicator-down oo-ui-indicatorElement oo-ui-labelElement-invisible oo-ui-indicatorWidget" id="mw-fr-revisiontoggle" title="показать/скрыть подробности"></span></div>
+<div id="mw-fr-revisiondetails-wrapper" style="position:relative;"><div class="flaggedrevs_short_details" id="mw-fr-revisiondetails" style="display:none">Это <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%B0%D1%82%D1%80%D1%83%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" title="Википедия:Патрулирование">стабильная версия</a>, <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB%D1%8B&amp;type=review&amp;page=IDT_WinChip">отпатрулированная</a> <i>17 октября 2023</i>.</div>
+</div>
+</div>
+</div></div>
+<div id="contentSub2"></div>
+<div id="jump-to-nav"></div>
+<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+<div class="mw-body-content" id="mw-content-text"><div class="mw-content-ltr mw-parser-output" dir="ltr" lang="ru"><table class="infobox infobox-3916ddc5a0730f5e" data-name="Центральный процессор" style=""><tbody><tr><th class="infobox-above" colspan="2" scope="colgroup" style="">IDT WinChip</th></tr><tr><td class="" colspan="2" style="text-align:center;"><i><a href="/wiki/%D0%A6%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80" title="Центральный процессор">Центральный процессор</a></i></td></tr><tr><td class="infobox-image" colspan="2" style=""> <span class="no-wikidata" data-wikidata-property-id="P18"><span typeof="mw:File/Frameless"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:KL_IDT_WinChip2_W2B.jpg"><img class="mw-file-element" data-file-height="1404" data-file-width="1347" decoding="async" height="261" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/KL_IDT_WinChip2_W2B.jpg/250px-KL_IDT_WinChip2_W2B.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/KL_IDT_WinChip2_W2B.jpg/375px-KL_IDT_WinChip2_W2B.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/KL_IDT_WinChip2_W2B.jpg/500px-KL_IDT_WinChip2_W2B.jpg 2x" width="250"/></a></span></span> </td></tr>
+<tr>
+<th class="plainlist" scope="row">Производство</th>
+<td class="plainlist">
+с 1997 по <a href="/wiki/1999_%D0%B3%D0%BE%D0%B4" title="1999 год">1999 год</a></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Производитель</th>
+<td class="plainlist">
+<div class="no-wikidata" data-wikidata-property-id="P176">
+<div><ul><li><a href="/wiki/Integrated_Device_Technology" title="Integrated Device Technology">IDT</a></li></ul></div></div></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Частота <a href="/wiki/%D0%A6%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80" title="Центральный процессор">ЦП</a></th>
+<td class="plainlist">
+180 — 250 <a class="mw-redirect" href="/wiki/%D0%9C%D0%93%D1%86" title="МГц">МГц</a></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Частота <a href="/wiki/Front_Side_Bus" title="Front Side Bus">FSB</a></th>
+<td class="plainlist">
+66 — 100 <a class="mw-redirect" href="/wiki/%D0%9C%D0%93%D1%86" title="МГц">МГц</a></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Технология производства</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P2079">350 — 250 <a class="mw-redirect" href="/wiki/%D0%9D%D0%BC" title="Нм">нм</a></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row"><a href="/wiki/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4" title="Система команд">Наборы инструкций</a></th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P1068"><a href="/wiki/X86" title="X86">x86</a>, <a href="/wiki/MMX" title="MMX">MMX</a>, <a href="/wiki/3DNow!" title="3DNow!">3DNow!</a></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row"><a class="mw-redirect" href="/wiki/%D0%A0%D0%B0%D0%B7%D1%8A%D1%91%D0%BC_%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%B0_%D0%BF%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%B0" title="Разъём процессора персонального компьютера">Разъём</a></th>
+<td class="plainlist">
+<div><ul><li><a href="/wiki/Socket_7" title="Socket 7">Socket 7</a></li></ul></div></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row"><a href="/wiki/%D0%AF%D0%B4%D1%80%D0%BE_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%B0" title="Ядро микропроцессора">Ядра</a></th>
+<td class="plainlist">
+<div><ul><li>C6</li><li>W2, W2A, W2B</li></ul></div></td>
+</tr><tr><td class="infobox-below" colspan="2" style=";"><div aria-label="Хронология" class="ts-Карточка-хронология plainlist"><div aria-label="Следующий" class="ts-Карточка-хронология-next"><ul><li><span class="wikidata-claim" data-wikidata-claim-id="Q1288314$25E3DBA1-4C43-4D6B-A82F-FC87A966CD08" data-wikidata-property-id="P156"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/Cyrix_III" title="Cyrix III">Cyrix III</a></span></span></li></ul></div></div></td></tr>
+</tbody></table>
+<p><b>WinChip</b> (IDT-С6) — <a href="/wiki/X86" title="X86">x86</a>-совместимый процессор, анонсированный <a href="/wiki/13_%D0%BE%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8F" title="13 октября">13 октября</a> <a href="/wiki/1997_%D0%B3%D0%BE%D0%B4" title="1997 год">1997 года</a><sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup>. Функциональность в основном соответствовала <a href="/wiki/Intel" title="Intel">Intel</a> <a href="/wiki/Pentium" title="Pentium">Pentium</a>. Предназначался для рынка недорогих компьютеров, отличался простой архитектурой, низким энергопотреблением и тепловыделением. Разработкой процессора занималось подразделение компании <a href="/wiki/Integrated_Device_Technology" title="Integrated Device Technology">IDT</a> — <a class="new" href="/w/index.php?title=Centaur_Technology&amp;action=edit&amp;redlink=1" title="Centaur Technology (страница отсутствует)">Centaur Technology</a>, производство осуществлялось компанией <a href="/wiki/Integrated_Device_Technology" title="Integrated Device Technology">IDT</a><sup class="reference" id="cite_ref-ixbt_c6_2-0"><a href="#cite_note-ixbt_c6-2">[2]</a></sup>.
+</p><p>Дальнейшим развитием WinChip стал процессор <b>WinChip 2</b>, отличавшийся от предшественника поддержкой дополнительного набора инструкций <a href="/wiki/3DNow!" title="3DNow!">3DNow!</a>, а также некоторыми архитектурными усовершенствованиями. Анонс WinChip 2 состоялся <a href="/wiki/19_%D0%BC%D0%B0%D1%8F" title="19 мая">19 мая</a>, а выход на рынок — в сентябре <a href="/wiki/1998_%D0%B3%D0%BE%D0%B4" title="1998 год">1998 года</a><sup class="reference" id="cite_ref-spc62_3-0"><a href="#cite_note-spc62-3">[3]</a></sup>.
+</p><p>На ноябрь <a href="/wiki/1999_%D0%B3%D0%BE%D0%B4" title="1999 год">1999 года</a> был запланирован выход процессора <b>WinChip 3</b>, основным отличием которого являлся увеличенный кэш первого уровня, однако его выпуск был отменён.
+</p><p>После продажи подразделения Centaur Technology компании <a href="/wiki/VIA_Technologies" title="VIA Technologies">VIA Technologies</a> в конце 1999 года, модернизированное ядро WinChip использовалось в процессорах <a href="/wiki/Cyrix_III" title="Cyrix III">VIA Cyrix III</a>, впоследствии переименованных в <a href="/wiki/VIA_C3" title="VIA C3">VIA C3</a><sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup>.
+</p>
+<div aria-labelledby="mw-toc-heading" class="toc" id="toc" role="navigation"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="ru"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Общие_сведения"><span class="tocnumber">1</span> <span class="toctext">Общие сведения</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Особенности_архитектуры"><span class="tocnumber">2</span> <span class="toctext">Особенности архитектуры</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#WinChip"><span class="tocnumber">3</span> <span class="toctext">WinChip</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#WinChip_2"><span class="tocnumber">4</span> <span class="toctext">WinChip 2</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#WinChip_3"><span class="tocnumber">5</span> <span class="toctext">WinChip 3</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Технические_характеристики"><span class="tocnumber">6</span> <span class="toctext">Технические характеристики</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Ревизии_ядер_процессоров"><span class="tocnumber">7</span> <span class="toctext">Ревизии ядер процессоров</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Исправленные_ошибки"><span class="tocnumber">8</span> <span class="toctext">Исправленные ошибки</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#WinChip_4"><span class="tocnumber">8.1</span> <span class="toctext">WinChip</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#WinChip_2_2"><span class="tocnumber">8.2</span> <span class="toctext">WinChip 2</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Положение_на_рынке_и_сравнение_с_конкурентами"><span class="tocnumber">9</span> <span class="toctext">Положение на рынке и сравнение с конкурентами</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#WinChip_5"><span class="tocnumber">9.1</span> <span class="toctext">WinChip</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#WinChip_2_3"><span class="tocnumber">9.2</span> <span class="toctext">WinChip 2</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#Примечания"><span class="tocnumber">10</span> <span class="toctext">Примечания</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Ссылки"><span class="tocnumber">11</span> <span class="toctext">Ссылки</span></a></li>
+</ul>
+</div>
+<h2><span id=".D0.9E.D0.B1.D1.89.D0.B8.D0.B5_.D1.81.D0.B2.D0.B5.D0.B4.D0.B5.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Общие_сведения">Общие сведения</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=WinChip&amp;veaction=edit&amp;section=1" title="Редактировать раздел «Общие сведения»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=WinChip&amp;action=edit&amp;section=1" title="Редактировать код раздела «Общие сведения»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Процессоры WinChip выполнены в корпусе типа <a href="/wiki/Pin_grid_array" title="Pin grid array">PGA</a> и предназначены для установки в системные платы с 296-контактным гнездовым разъёмом <a href="/wiki/Socket_7" title="Socket 7">Socket 7</a>. В отличие от процессоров <a href="/wiki/Intel" title="Intel">Intel</a> <a href="/wiki/Pentium" title="Pentium">Pentium MMX</a>, WinChip не требует раздельного напряжения питания для ядра и цепей ввода-вывода, что позволяет устанавливать его в более старые системные платы (WinChip 2B и WinChip 3 требовали раздельного напряжения, однако эти процессоры так и не были выпущены). Для корректной работы процессоров WinChip с такими платами необходима лишь их поддержка со стороны <a href="/wiki/BIOS" title="BIOS">BIOS</a>.
+</p><p>Раздельный кэш первого уровня объёмом 64Кб (планировалось увеличение до 128Кб в WinChip 3) работает на частоте ядра. Интегрированный кэш второго уровня отсутствует (микросхемы кэш-памяти расположены на системной плате).
+</p>
+<table class="wide" style="text-align: center">
+<caption><b>Процессоры WinChip</b>
+</caption>
+<tbody><tr>
+<th width="20%">Кодовое имя ядра</th>
+<th colspan="4">C6
+</th></tr>
+<tr>
+<th>Проектная норма (<a class="mw-redirect" href="/wiki/%D0%9D%D0%BC" title="Нм">нм</a>)</th>
+<th colspan="4">350
+</th></tr>
+<tr>
+<th>Тактовая частота ядра (<a class="mw-redirect" href="/wiki/%D0%9C%D0%93%D1%86" title="МГц">МГц</a>)
+</th>
+<td>180</td>
+<td>200</td>
+<td>225</td>
+<td>240
+</td></tr>
+<tr>
+<th>Анонсирован
+</th>
+<td colspan="2"><a href="/wiki/13_%D0%BE%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8F" title="13 октября">13 октября</a> <a class="mw-redirect" href="/wiki/1997" title="1997">1997</a><sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup>
+</td>
+<td colspan="2"><a href="/wiki/21_%D0%B0%D0%BF%D1%80%D0%B5%D0%BB%D1%8F" title="21 апреля">21 апреля</a> <a class="mw-redirect" href="/wiki/1998" title="1998">1998</a><sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup>
+</td></tr></tbody></table>
+<table class="wide" style="text-align: center">
+<caption><b>Процессоры WinChip 2</b>
+</caption>
+<tbody><tr>
+<th width="20%">Кодовое имя ядра</th>
+<th colspan="3">W2</th>
+<th colspan="3">W2A</th>
+<th colspan="3">W2B
+</th></tr>
+<tr>
+<th>Проектная норма (<a class="mw-redirect" href="/wiki/%D0%9D%D0%BC" title="Нм">нм</a>)</th>
+<th colspan="3">350</th>
+<th colspan="6">250
+</th></tr>
+<tr>
+<th>Тактовая частота ядра (<a class="mw-redirect" href="/wiki/%D0%9C%D0%93%D1%86" title="МГц">МГц</a>)
+</th>
+<td>200</td>
+<td>225</td>
+<td>240</td>
+<td>200 (PR200)</td>
+<td>233 (PR266)</td>
+<td>250 (PR300)</td>
+<td>200 (PR200)</td>
+<td>233 (PR266)</td>
+<td>250 (PR300)
+</td></tr>
+<tr>
+<th>Анонсирован
+</th>
+<td colspan="3"><a href="/wiki/%D0%A1%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8C" title="Сентябрь">сентябрь</a> <a class="mw-redirect" href="/wiki/1998" title="1998">1998</a><sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup>
+</td>
+<td colspan="3"><a href="/wiki/%D0%9C%D0%B0%D1%80%D1%82" title="Март">март</a> <a class="mw-redirect" href="/wiki/1999" title="1999">1999</a>
+</td>
+<td colspan="3"><b>отменены</b>
+</td></tr></tbody></table>
+<h2><span id=".D0.9E.D1.81.D0.BE.D0.B1.D0.B5.D0.BD.D0.BD.D0.BE.D1.81.D1.82.D0.B8_.D0.B0.D1.80.D1.85.D0.B8.D1.82.D0.B5.D0.BA.D1.82.D1.83.D1.80.D1.8B"></span><span class="mw-headline" id="Особенности_архитектуры">Особенности архитектуры</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=WinChip&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Особенности архитектуры»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=WinChip&amp;action=edit&amp;section=2" title="Редактировать код раздела «Особенности архитектуры»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div style="width:300px; float:right; background-color:#DDDDDD;margin:5px;padding:4px;border:#000000 1px SOLID">
+<center><b>Конвейер процессора WinChip</b></center>
+<p>Конвейер состоит из 4 стадий<sup class="reference" id="cite_ref-datasheets_8-0"><a href="#cite_note-datasheets-8">[8]</a></sup>:
+</p>
+<ul><li><b>R</b> — декодирование инструкций, определение зависимостей.</li>
+<li><b>A</b> — вычисление адресов, запрос данных.</li>
+<li><b>D</b> — выборка данных, выполнение микроопераций.</li>
+<li><b>W</b> — запись результатов выполнения микроопераций в регистры, кэш-память данных первого уровня и ОЗУ.</li></ul>
+</div>
+<p>Процессоры семейства WinChip представляют собой x86-совместимые процессоры с внутренней <a href="/wiki/RISC" title="RISC">RISC</a>-архитектурой: инструкции x86 выполняются не напрямую, а после преобразования их в простые внутренние микрооперации.
+</p><p>При разработке инженеры Centaur Technology опирались на ряд принципов, позволивших создать процессор, отличающийся низкой стоимостью производства, небольшим энергопотреблением и тепловыделением.
+</p>
+<ul><li>Аппаратная оптимизация под выполнение простых инструкций (чтение или запись в память, переходы, операции над <a class="mw-redirect" href="/wiki/ALU" title="ALU">целыми числами</a>), связанная с тем, что к таковым относится более 90 % выполняемых инструкций. Более сложные инструкции встречаются значительно реже и могут быть преобразованы в микрооперации с помощью <a href="/wiki/%D0%9F%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%BD%D0%BE%D0%B5_%D0%B7%D0%B0%D0%BF%D0%BE%D0%BC%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B5%D0%B5_%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE" title="Постоянное запоминающее устройство">ПЗУ</a> микрокода, хранящего последовательности микроопераций, соответствующих таким инструкциям. Такая оптимизация позволяет сократить количество функциональных блоков процессора.</li>
+<li>Повышение производительности с помощью повышения <a class="mw-redirect" href="/wiki/%D0%A2%D0%B0%D0%BA%D1%82%D0%BE%D0%B2%D0%B0%D1%8F_%D1%87%D0%B0%D1%81%D1%82%D0%BE%D1%82%D0%B0" title="Тактовая частота">тактовой частоты</a>, а не с помощью увеличения количества инструкций, выполняемых за один такт.</li>
+<li>Оптимизация работы процессора с <a class="mw-redirect" href="/wiki/%D0%9E%D0%97%D0%A3" title="ОЗУ">оперативной памятью</a>, связанная с тем, что производительность системы лимитируется скоростью работы с памятью значительно сильнее, чем скоростью процессора. Увеличение скорости работы с памятью достигается за счёт увеличения объёма интегрированной <a href="/wiki/%D0%9A%D1%8D%D1%88" title="Кэш">кэш</a>-памяти первого уровня, а также оптимизации алгоритмов управления кэш-памятью и буфером трансляции адресов (TLB).</li>
+<li>Оптимизация процессора для работы с наиболее вероятной программной средой — <a href="/wiki/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0" title="Операционная система">операционными системами</a> <a href="/wiki/Windows" title="Windows">Windows</a>.</li></ul>
+<p>В связи с этим архитектура процессоров семейства WinChip значительно упрощена по сравнению с конкурирующими процессорами. Они также не способны работать в многопроцессорных системах (<a class="mw-redirect" href="/wiki/%D0%A1%D0%B8%D0%BC%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%87%D0%BD%D0%B0%D1%8F_%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D0%B8%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Симметричная мультипроцессорность">SMP</a>). Функциональность их в основном соответствует функциональности процессоров <a href="/wiki/Intel" title="Intel">Intel</a> <a href="/wiki/Pentium" title="Pentium">Pentium</a>, однако, отсутствует поддержка интерфейса <a href="/wiki/APIC" title="APIC">APIC</a> (который необходим для работы в SMP) а также некоторых дополнительных функций, связанных с работой в режиме <a class="mw-redirect" href="/wiki/VM86" title="VM86">виртуального 8086</a> и с <a href="/wiki/%D0%92%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D1%8C" title="Виртуальная память">виртуальной памятью</a> (информацию о поддерживаемых функциях можно получить с помощью инструкции «<a href="/wiki/CPUID" title="CPUID">CPUID</a>»)<sup class="reference" id="cite_ref-datasheets_8-1"><a href="#cite_note-datasheets-8">[8]</a></sup>.
+</p>
+<h2><span class="mw-headline" id="WinChip">WinChip</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=WinChip&amp;veaction=edit&amp;section=3" title="Редактировать раздел «WinChip»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=WinChip&amp;action=edit&amp;section=3" title="Редактировать код раздела «WinChip»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Idt_winchip_c6_240mhz.jpg"><img class="mw-file-element" data-file-height="1176" data-file-width="1280" decoding="async" height="184" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Idt_winchip_c6_240mhz.jpg/200px-Idt_winchip_c6_240mhz.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Idt_winchip_c6_240mhz.jpg/300px-Idt_winchip_c6_240mhz.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Idt_winchip_c6_240mhz.jpg/400px-Idt_winchip_c6_240mhz.jpg 2x" width="200"/></a><figcaption>IDT WinChip 240MHz</figcaption></figure>
+<p>С точки зрения архитектуры, процессоры WinChip ближе к процессорам <a href="/wiki/X86" title="X86">x86</a> четвёртого поколения (<a href="/wiki/Intel" title="Intel">Intel</a> <a class="mw-redirect" href="/wiki/80486" title="80486">80486</a>, <a href="/wiki/AMD" title="AMD">AMD</a> <a class="mw-redirect" href="/wiki/Am5x86" title="Am5x86">Am5x86</a>), чем к процессорам своего времени. Единственный целочисленный конвейер содержит 4 ступени, <a href="/wiki/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80" title="Математический сопроцессор">математический сопроцессор</a> не конвейеризован. Блок инструкций <a href="/wiki/MMX" title="MMX">MMX</a> процессора WinChip позволяет исполнять одну инструкцию за такт (в <a href="/wiki/Pentium" title="Pentium">Pentium MMX</a> — две).
+В WinChip отсутствуют такие технологии, как <a href="/wiki/%D0%92%D0%BD%D0%B5%D0%BE%D1%87%D0%B5%D1%80%D0%B5%D0%B4%D0%BD%D0%BE%D0%B5_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5" title="Внеочередное исполнение">внеочередное исполнение</a>, <a href="/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D0%B8%D0%BC%D0%B5%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%BE%D0%B2" title="Переименование регистров">переименование регистров</a> и <a class="mw-redirect" href="/wiki/%D0%9F%D1%80%D0%B5%D0%B4%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B2%D0%B5%D1%82%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9" title="Предсказание ветвлений">предсказание ветвлений</a>, характерные для большинства конкурирующих процессоров.
+</p><p>Всё это позволило инженерам Centaur значительно сократить количество <a href="/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D0%B7%D0%B8%D1%81%D1%82%D0%BE%D1%80" title="Транзистор">транзисторов</a> и уменьшить площадь кристалла, что привело к снижению стоимости проектирования, тестирования и производства процессоров WinChip, в результате чего стоимость процессоров WinChip оказалась значительно ниже, чем цена конкурирующих процессоров (так, например, стоимость <a href="/wiki/Pentium" title="Pentium">Pentium MMX</a> и <a class="mw-redirect" href="/wiki/AMD_K6" title="AMD K6">AMD K6</a> с частотой 200 <a class="mw-redirect" href="/wiki/%D0%9C%D0%93%D1%86" title="МГц">МГц</a> на момент анонса составляла 550 и 349 долларов соответственно<sup class="reference" id="cite_ref-cwpmmx_9-0"><a href="#cite_note-cwpmmx-9">[9]</a></sup><sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup>, а цена WinChip с той же тактовой частотой — 135 долларов<sup class="reference" id="cite_ref-cwc6_11-0"><a href="#cite_note-cwc6-11">[11]</a></sup>).
+</p><p>Кроме того, упрощение архитектуры положительно сказалось на энергопотреблении и тепловыделении процессора (для сравнения, максимальное тепловыделение WinChip с частотой 200 МГц составляет 13 Вт при напряжении питания 3,52 <a href="/wiki/%D0%92%D0%BE%D0%BB%D1%8C%D1%82" title="Вольт">В</a><sup class="reference" id="cite_ref-cwc6_11-1"><a href="#cite_note-cwc6-11">[11]</a></sup>, в то время как процессор Pentium MMX с той же тактовой частотой выделяет до 18 Вт при напряжении питания 2,8 В<sup class="reference" id="cite_ref-cwpmmx_9-1"><a href="#cite_note-cwpmmx-9">[9]</a></sup>). Предполагалось, что благодаря этому WinChip смогут работать на частотах до 400 МГц, а также широко применяться в <a href="/wiki/%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA" title="Ноутбук">ноутбуках</a><sup class="reference" id="cite_ref-ixbt_c6_2-1"><a href="#cite_note-ixbt_c6-2">[2]</a></sup><sup class="reference" id="cite_ref-thgc6_12-0"><a href="#cite_note-thgc6-12">[12]</a></sup>.
+</p><p>Процессор выпускался по 350 <a class="mw-redirect" href="/wiki/%D0%9D%D0%BC" title="Нм">нм</a> технологии, имел <a href="/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%BD%D0%B0%D0%BF%D1%80%D1%8F%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5" title="Электрическое напряжение">напряжение</a> ядра 3,3 или 3,52 В (в зависимости от партии) и, в отличие от <a href="/wiki/Pentium" title="Pentium">Pentium MMX</a>, не требовал использования системных плат, <a href="/wiki/%D0%A1%D1%82%D0%B0%D0%B1%D0%B8%D0%BB%D0%B8%D0%B7%D0%B0%D1%82%D0%BE%D1%80_%D0%BD%D0%B0%D0%BF%D1%80%D1%8F%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F" title="Стабилизатор напряжения">преобразователи</a> которых позволяли подавать различное напряжение на ядро и цепи ввода-вывода.
+</p>
+<h2><span class="mw-headline" id="WinChip_2">WinChip 2</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=WinChip&amp;veaction=edit&amp;section=4" title="Редактировать раздел «WinChip 2»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=WinChip&amp;action=edit&amp;section=4" title="Редактировать код раздела «WinChip 2»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Idt_winchip_2a_pr200mhz.jpg"><img class="mw-file-element" data-file-height="1120" data-file-width="1280" decoding="async" height="175" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Idt_winchip_2a_pr200mhz.jpg/200px-Idt_winchip_2a_pr200mhz.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Idt_winchip_2a_pr200mhz.jpg/300px-Idt_winchip_2a_pr200mhz.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/00/Idt_winchip_2a_pr200mhz.jpg/400px-Idt_winchip_2a_pr200mhz.jpg 2x" width="200"/></a><figcaption>IDT WinChip 2 PR200</figcaption></figure>
+<p>Процессор WinChip 2 является дальнейшим развитием процессора WinChip. Он по-прежнему выпускался по 350-<a class="mw-redirect" href="/wiki/%D0%9D%D0%BC" title="Нм">нм</a> технологии и имел напряжение ядра 3,3 или 3,52 В. По сравнению с предшественником WinChip 2 получил следующие нововведения:
+</p>
+<ul><li>конвейерный <a class="mw-redirect" href="/wiki/FPU" title="FPU">математический сопроцессор</a>;</li>
+<li>два суперскалярных блока инструкций <a href="/wiki/MMX" title="MMX">MMX</a>;</li>
+<li>блок <a class="mw-redirect" href="/wiki/%D0%9F%D1%80%D0%B5%D0%B4%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B2%D0%B5%D1%82%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9" title="Предсказание ветвлений">предсказания ветвлений</a>;</li>
+<li>блок инструкций <a href="/wiki/3DNow!" title="3DNow!">3DNow!</a> (2 конвейера).</li></ul>
+<p>Процессоры WinChip 2 ревизии «A» (W2A), представленные в марте <a href="/wiki/1999_%D0%B3%D0%BE%D0%B4" title="1999 год">1999 года</a><sup class="reference" id="cite_ref-spc62_3-1"><a href="#cite_note-spc62-3">[3]</a></sup>, производились по 250-<a class="mw-redirect" href="/wiki/%D0%9D%D0%BC" title="Нм">нм</a> технологии, что позволило уменьшить размеры кристалла с 95 до 58 мм², однако напряжение ядра не изменилось по сравнению с предшественником. Кроме того, эти процессоры получили возможность установки нестандартных множителей, таких как 2,33 или 2,66, что позволило использовать процессоры с тактовой частотой 233 и 266 МГц на системных платах с 100-МГц системной шиной<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup><sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup>.
+</p><p>В конце 1999 года планировался выпуск WinChip 2 ревизии «B» (W2B). Эти процессоры должны были производиться по 250-<a class="mw-redirect" href="/wiki/%D0%9D%D0%BC" title="Нм">нм</a> технологии, а напряжение ядра должно было быть снижено до 2,8 В (что требовало использования системных плат с раздельным напряжением питания). Однако выпуск WinChip 2B, так же, как и WinChip 3, был отменён. Существовали, однако, инженерные образцы WinChip 2B, выпущенные в ограниченных количествах<sup class="reference" id="cite_ref-spc62_3-2"><a href="#cite_note-spc62-3">[3]</a></sup>.
+</p><p>Для маркировки процессоров WinChip 2 использовался рейтинг производительности (Performance Rating, PR). Рейтинг соответствовал частоте процессора <a class="mw-redirect" href="/wiki/AMD_K6-2" title="AMD K6-2">AMD K6-2</a>, равного по производительности в тесте Winstone 99 (данный тест позволяет оценить быстродействие процессора в офисных приложениях). Так, например, процессор WinChip 2 с частотой 233 МГц (частота системной шины — 100 МГц) в тесте Winstone 99 соответствовал по производительности <a class="mw-redirect" href="/wiki/AMD_K6-2" title="AMD K6-2">AMD K6-2</a> с частотой 266 МГц, поэтому имел рейтинг PR266<sup class="reference" id="cite_ref-ixbt_c6-2_15-0"><a href="#cite_note-ixbt_c6-2-15">[15]</a></sup>.
+</p>
+<h2><span class="mw-headline" id="WinChip_3">WinChip 3</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=WinChip&amp;veaction=edit&amp;section=5" title="Редактировать раздел «WinChip 3»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=WinChip&amp;action=edit&amp;section=5" title="Редактировать код раздела «WinChip 3»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Процессор WinChip 3 планировался как дальнейшее развитие WinChip 2B с удвоенным размером кэша первого уровня. Однако, в связи с выходом недорогих и более перспективных процессоров <a href="/wiki/Intel" title="Intel">Intel</a> <a href="/wiki/Celeron" title="Celeron">Celeron</a>, а также с окончательной потерей поддержки производителями разъёма <a href="/wiki/Socket_7" title="Socket 7">Socket 7</a>, выпуск процессора WinChip 3 был отменён, а подразделение <a class="new" href="/w/index.php?title=Centaur_Technology&amp;action=edit&amp;redlink=1" title="Centaur Technology (страница отсутствует)">Centaur Technology</a> в сентябре <a href="/wiki/1999_%D0%B3%D0%BE%D0%B4" title="1999 год">1999 года</a> было продано компании <a href="/wiki/VIA_Technologies" title="VIA Technologies">VIA</a> за 51 млн долларов<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup>.
+</p>
+<h2><span id=".D0.A2.D0.B5.D1.85.D0.BD.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D1.85.D0.B0.D1.80.D0.B0.D0.BA.D1.82.D0.B5.D1.80.D0.B8.D1.81.D1.82.D0.B8.D0.BA.D0.B8"></span><span class="mw-headline" id="Технические_характеристики">Технические характеристики</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=WinChip&amp;veaction=edit&amp;section=6" title="Редактировать раздел «Технические характеристики»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=WinChip&amp;action=edit&amp;section=6" title="Редактировать код раздела «Технические характеристики»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<table cellpadding="1" class="wide" style="text-align: center;">
+<tbody><tr>
+<th rowspan="2" width="15%"><sup class="reference" id="cite_ref-spc62_3-3"><a href="#cite_note-spc62-3">[3]</a></sup><sup class="reference" id="cite_ref-datasheets_8-2"><a href="#cite_note-datasheets-8">[8]</a></sup><sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup>
+</th>
+<th colspan="1">WinChip
+</th>
+<th colspan="3">WinChip 2
+</th></tr>
+<tr>
+<td>C6
+</td>
+<td>W2
+</td>
+<td>W2A
+</td>
+<td>W2B
+</td></tr>
+<tr>
+<th colspan="5"><a class="mw-redirect" href="/wiki/%D0%A2%D0%B0%D0%BA%D1%82%D0%BE%D0%B2%D0%B0%D1%8F_%D1%87%D0%B0%D1%81%D1%82%D0%BE%D1%82%D0%B0" title="Тактовая частота">Тактовая частота</a>
+</th></tr>
+<tr>
+<th>Частота ядра, МГц
+</th>
+<td width="20%">180—240
+</td>
+<td width="20%">200—240
+</td>
+<td colspan="2" width="40%">200—250
+</td></tr>
+<tr>
+<th>Частота <a class="mw-disambig" href="/wiki/FSB" title="FSB">FSB</a>, МГц
+</th>
+<td colspan="2">60, 66, 75
+</td>
+<td>66, 100
+</td>
+<td>66
+</td></tr>
+<tr>
+<th width="15%">
+</th>
+<th width="22%">
+</th>
+<th width="21%">
+</th>
+<th width="21%">
+</th>
+<th width="21%">
+</th></tr>
+<tr>
+<th colspan="5">Характеристики ядра
+</th></tr>
+<tr>
+<th>Набор инструкций
+</th>
+<td><a class="mw-redirect" href="/wiki/IA-32" title="IA-32">IA-32</a>, <a href="/wiki/MMX" title="MMX">MMX</a>
+</td>
+<td colspan="3"><a class="mw-redirect" href="/wiki/IA-32" title="IA-32">IA-32</a>, <a href="/wiki/MMX" title="MMX">MMX</a>, <a href="/wiki/3DNow!" title="3DNow!">3DNow!</a>
+</td></tr>
+<tr>
+<th><a href="/wiki/%D0%A0%D0%B0%D0%B7%D1%80%D1%8F%D0%B4%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Разрядность">Разрядность</a> <a href="/wiki/%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80_%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%B0" title="Регистр процессора">регистров</a>
+</th>
+<td colspan="4">32 бит (целочисленные), 80 бит (вещественночисленные), 64 бит (MMX)
+</td></tr>
+<tr>
+<th>Глубина <a class="mw-redirect" href="/wiki/%D0%9A%D0%BE%D0%BD%D0%B2%D0%B5%D0%B9%D0%B5%D1%80_(%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%B0)" title="Конвейер (процессора)">конвейера</a>
+</th>
+<td colspan="4">4 стадии
+</td></tr>
+<tr>
+<th>Разрядность <a href="/wiki/%D0%A8%D0%B8%D0%BD%D0%B0_%D0%B0%D0%B4%D1%80%D0%B5%D1%81%D0%B0" title="Шина адреса">ША</a>
+</th>
+<td colspan="4">32 бит
+</td></tr>
+<tr>
+<th>Разрядность <a href="/wiki/%D0%A8%D0%B8%D0%BD%D0%B0_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85" title="Шина данных">ШД</a>
+</th>
+<td colspan="4">64 бит
+</td></tr>
+<tr>
+<th>Количество <a href="/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D0%B7%D0%B8%D1%81%D1%82%D0%BE%D1%80" title="Транзистор">транзисторов</a>, млн.
+</th>
+<td colspan="1">5,4
+</td>
+<td colspan="3">5,9
+</td></tr>
+<tr>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th></tr>
+<tr>
+<th colspan="5"><a class="mw-redirect" href="/wiki/%D0%9A%D0%B5%D1%88-%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D1%8C" title="Кеш-память">Кэш</a> L1
+</th></tr>
+<tr>
+<th>Кэш данных
+</th>
+<td colspan="1">32 Кб, 2-канальный наборно-ассоциативный, длина строки — 32 байта
+</td>
+<td colspan="3">32 Кб, 4-канальный наборно-ассоциативный, длина строки — 32 байта
+</td></tr>
+<tr>
+<th>Кэш инструкций
+</th>
+<td colspan="4">32 Кб, 2-канальный наборно-ассоциативный, длина строки — 32 байта
+</td></tr>
+<tr>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th></tr>
+<tr>
+<th colspan="5">Интерфейс
+</th></tr>
+<tr>
+<th>Разъём
+</th>
+<td colspan="4"><a href="/wiki/Socket_7" title="Socket 7">Socket 7</a>
+</td></tr>
+<tr>
+<th>Корпус
+</th>
+<td colspan="4"><a href="/wiki/Pin_grid_array" title="Pin grid array">PGA</a>
+</td></tr>
+<tr>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th></tr>
+<tr>
+<th colspan="5">Технологические, электрические и тепловые характеристики
+</th></tr>
+<tr>
+<th>Технология производства
+</th>
+<td>350 нм. <a class="mw-disambig" href="/wiki/CMOS" title="CMOS">CMOS</a> (четырёхслойный, алюминиевые соединения)
+</td>
+<td>350 нм. <a class="mw-disambig" href="/wiki/CMOS" title="CMOS">CMOS</a> (пятислойный, алюминиевые соединения)
+</td>
+<td colspan="2">250 нм. <a class="mw-disambig" href="/wiki/CMOS" title="CMOS">CMOS</a> (пятислойный, алюминиевые соединения)
+</td></tr>
+<tr>
+<th>Площадь кристалла, мм²
+</th>
+<td>88
+</td>
+<td>95
+</td>
+<td>58
+</td>
+<td>69
+</td></tr>
+<tr>
+<th>Напряжение ядра, В
+</th>
+<td colspan="3">3,3 — 3,52
+</td>
+<td>2,8
+</td></tr>
+<tr>
+<th>Напряжение цепей <a class="mw-redirect" href="/wiki/%D0%A3%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%B0_%D0%B2%D0%B2%D0%BE%D0%B4%D0%B0-%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4%D0%B0" title="Устройства ввода-вывода">I/O</a>, В
+</th>
+<td colspan="4">3,3 — 3,52
+</td></tr>
+<tr>
+<th>Максимальное тепловыделение, Вт
+</th>
+<td>13,1
+</td>
+<td>14,0
+</td>
+<td>16
+</td>
+<td> — 
+</td></tr>
+<tr>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th></tr></tbody></table>
+<h2><span id=".D0.A0.D0.B5.D0.B2.D0.B8.D0.B7.D0.B8.D0.B8_.D1.8F.D0.B4.D0.B5.D1.80_.D0.BF.D1.80.D0.BE.D1.86.D0.B5.D1.81.D1.81.D0.BE.D1.80.D0.BE.D0.B2"></span><span class="mw-headline" id="Ревизии_ядер_процессоров">Ревизии ядер процессоров</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=WinChip&amp;veaction=edit&amp;section=7" title="Редактировать раздел «Ревизии ядер процессоров»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=WinChip&amp;action=edit&amp;section=7" title="Редактировать код раздела «Ревизии ядер процессоров»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<table border="1" class="standard">
+<tbody><tr>
+<th>  Процессор  </th>
+<th>  Ревизия  </th>
+<th>  <a class="mw-redirect" href="/wiki/Cpuid" title="Cpuid">CPU Id</a><sup class="reference" id="cite_ref-datasheets_8-3"><a href="#cite_note-datasheets-8">[8]</a></sup>  
+</th></tr>
+<tr>
+<td>  WinChip  </td>
+<td>  step. 0  </td>
+<td>  0x540h  
+</td></tr>
+<tr>
+<td>  WinChip  </td>
+<td>  step. 1  </td>
+<td>  0x541h  
+</td></tr>
+<tr>
+<td>  WinChip 2  </td>
+<td>  step. 0  </td>
+<td>  0x585h  
+</td></tr>
+<tr>
+<td>  WinChip 2  </td>
+<td>  step. A  </td>
+<td>  0x587h, 0x588h, 0x589h  
+</td></tr>
+<tr>
+<td>  WinChip 2  </td>
+<td>  step. B  </td>
+<td>  0x58Ah (инженерные образцы)  
+</td></tr></tbody></table>
+<h2><span id=".D0.98.D1.81.D0.BF.D1.80.D0.B0.D0.B2.D0.BB.D0.B5.D0.BD.D0.BD.D1.8B.D0.B5_.D0.BE.D1.88.D0.B8.D0.B1.D0.BA.D0.B8"></span><span class="mw-headline" id="Исправленные_ошибки">Исправленные ошибки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=WinChip&amp;veaction=edit&amp;section=8" title="Редактировать раздел «Исправленные ошибки»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=WinChip&amp;action=edit&amp;section=8" title="Редактировать код раздела «Исправленные ошибки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Процессор представляет собой сложное микроэлектронное устройство, что не позволяет исключить вероятность его некорректной работы. Ошибки появляются на этапе проектирования и могут быть исправлены обновлениями микрокода процессора либо выпуском нвой ревизии ядра процессора. В процессорах WinChip обнаружено 33 различных ошибки, из которых 12 исправлено. В процессорах WinChip 2 — 14 ошибок, из которых 6 исправлено<sup class="reference" id="cite_ref-datasheets_8-4"><a href="#cite_note-datasheets-8">[8]</a></sup>.
+</p><p>Далее перечислены ошибки, исправленные в различных ревизиях ядер процессоров WinChip и WinChip 2. Данные ошибки присутствуют во всех ядрах, выпущенных до их исправления, если не указано обратное.
+</p>
+<h3><span class="mw-headline" id="WinChip_4">WinChip</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=WinChip&amp;veaction=edit&amp;section=9" title="Редактировать раздел «WinChip»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=WinChip&amp;action=edit&amp;section=9" title="Редактировать код раздела «WinChip»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><b>Ревизия 1</b>
+</p>
+<ul><li>Ошибка при выполнении функций FSINCOS или FCOS.</li>
+<li>Падение производительности целочисленного конвейера при некоторых операциях <a class="mw-redirect" href="/wiki/FPU" title="FPU">FPU</a>.</li>
+<li>Ошибка при нормализации псевдонормальных чисел (нормализация не выполняется).</li>
+<li>Произвольные исключения при выполнении некоторых инструкций <a class="mw-redirect" href="/wiki/FPU" title="FPU">FPU</a>.</li>
+<li>Ошибка передачи указателя инструкции после немаскируемого прерывания, вызванного <a class="mw-redirect" href="/wiki/FPU" title="FPU">FPU</a>.</li>
+<li>Ошибка при исполнении инструкции INVLPG с адресом, близким к 4 Гб (0xFFFFFFFD, 0xFFFFFFFE, 0xFFFFFFFF).</li>
+<li>Некорректное распознавание самомодифицирующегося кода.</li>
+<li>Счётчик тактов (<a class="mw-redirect" href="/wiki/TSC" title="TSC">TSC</a>) останавливается, если процессор находится в состоянии пониженного энергопотребления.</li>
+<li>Некорректная работа AHD (отключение автоматического останова). Останов производится даже в том случае, если он отключён установкой бита AHD в «1».</li>
+<li>Ошибка включения режима нестрогого упорядочения записи с помощью регистра MCR_CTRL.</li>
+<li>Работа процессора при передаче 8- и 16-битных операндов отличается от работы процессоров <a href="/wiki/Pentium" title="Pentium">Pentium</a> (что может приводить к некорректной работе с некоторыми <a href="/wiki/%D0%A7%D0%B8%D0%BF%D1%81%D0%B5%D1%82" title="Чипсет">чипсетами</a>).</li>
+<li>Некорректная работа режима CI (блокировка записи строки кэша). Включение режима игнорируется.</li></ul>
+<h3><span class="mw-headline" id="WinChip_2_2">WinChip 2</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=WinChip&amp;veaction=edit&amp;section=10" title="Редактировать раздел «WinChip 2»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=WinChip&amp;action=edit&amp;section=10" title="Редактировать код раздела «WinChip 2»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><b>W2A</b>
+</p>
+<ul><li>Некорректная обработка переполнения при выполнении инструкций FIST и FISTP.</li>
+<li>Некорректная установка флагов при сравнении денормализованных операндов.</li>
+<li>Потеря последнего значащего бита при выполнении инструкций FIST и FISTP над отрицательными ненормализованными данными.</li>
+<li>Ошибочное сообщение об ошибке при прохождении BIST (встроенная самодиагностика).</li>
+<li>Зависание при установке в «0» бита DTLOCK регистра FCR.</li></ul>
+<p><b>W2B</b>
+</p>
+<ul><li>Ошибка при извлечении квадратного корня с точностью 24 бит с помощью инструкции PFRSQRT (<a href="/wiki/3DNow!" title="3DNow!">3DNow!</a>).</li></ul>
+<h2><span id=".D0.9F.D0.BE.D0.BB.D0.BE.D0.B6.D0.B5.D0.BD.D0.B8.D0.B5_.D0.BD.D0.B0_.D1.80.D1.8B.D0.BD.D0.BA.D0.B5_.D0.B8_.D1.81.D1.80.D0.B0.D0.B2.D0.BD.D0.B5.D0.BD.D0.B8.D0.B5_.D1.81_.D0.BA.D0.BE.D0.BD.D0.BA.D1.83.D1.80.D0.B5.D0.BD.D1.82.D0.B0.D0.BC.D0.B8"></span><span class="mw-headline" id="Положение_на_рынке_и_сравнение_с_конкурентами">Положение на рынке и сравнение с конкурентами</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=WinChip&amp;veaction=edit&amp;section=11" title="Редактировать раздел «Положение на рынке и сравнение с конкурентами»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=WinChip&amp;action=edit&amp;section=11" title="Редактировать код раздела «Положение на рынке и сравнение с конкурентами»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="WinChip_5">WinChip</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=WinChip&amp;veaction=edit&amp;section=12" title="Редактировать раздел «WinChip»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=WinChip&amp;action=edit&amp;section=12" title="Редактировать код раздела «WinChip»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>IDT WinChip присутствовал на рынке с момента своего выхода в октябре <a href="/wiki/1997_%D0%B3%D0%BE%D0%B4" title="1997 год">1997 года</a> и до появления IDT WinChip 2 в сентябре <a href="/wiki/1998_%D0%B3%D0%BE%D0%B4" title="1998 год">1998 года</a>. Параллельно с WinChip существовали следующие x86-процессоры:
+</p>
+<ul><li><a class="mw-redirect" href="/wiki/AMD_K6" title="AMD K6">AMD K6</a>. Имел несколько более высокую производительность, чем WinChip.</li>
+<li><a href="/wiki/Intel" title="Intel">Intel</a> <a href="/wiki/Pentium" title="Pentium">Pentium MMX</a>. Имел несколько более высокую производительность, чем WinChip в целочисленных вычислениях, значительно превосходя его в вещественночисленных<sup class="reference" id="cite_ref-c6ipmmxtest_18-0"><a href="#cite_note-c6ipmmxtest-18">[18]</a></sup>.</li>
+<li><a href="/wiki/Intel" title="Intel">Intel</a> <a href="/wiki/Pentium_II" title="Pentium II">Pentium II</a>. Предназначался для высокопроизводительных компьютеров, имел высокую стоимость и значительно опережал WinChip во всех задачах.</li>
+<li><a href="/wiki/Intel" title="Intel">Intel</a> <a href="/wiki/Celeron" title="Celeron">Celeron</a> (Covington). Предназначался для рынка недорогих настольных компьютеров. Первоначально представлял собой Pentium II, лишённый кэш-памяти второго уровня. Значительно опережал WinChip как в целочисленных, так и в вещественночисленных вычислениях.</li>
+<li><a href="/wiki/Cyrix" title="Cyrix">Cyrix</a> <a class="new" href="/w/index.php?title=6x86MX&amp;action=edit&amp;redlink=1" title="6x86MX (страница отсутствует)">6x86MX</a> / <a class="new" href="/w/index.php?title=M-II&amp;action=edit&amp;redlink=1" title="M-II (страница отсутствует)">M-II</a>. В целочисленных вычислениях превосходил как WinChip, так и <a class="mw-redirect" href="/wiki/AMD_K6" title="AMD K6">AMD K6</a>, и <a href="/wiki/Pentium" title="Pentium">Pentium MMX</a>. В вещественночисленных вычислениях опережал WinChip, значительно уступая <a href="/wiki/Pentium" title="Pentium">Pentium MMX</a><sup class="reference" id="cite_ref-c6test_19-0"><a href="#cite_note-c6test-19">[19]</a></sup>.</li></ul>
+<h3><span class="mw-headline" id="WinChip_2_3">WinChip 2</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=WinChip&amp;veaction=edit&amp;section=13" title="Редактировать раздел «WinChip 2»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=WinChip&amp;action=edit&amp;section=13" title="Редактировать код раздела «WinChip 2»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>IDT WinChip 2 присутствовал на рынке с момента своего выхода в сентябре <a href="/wiki/1998_%D0%B3%D0%BE%D0%B4" title="1998 год">1998 года</a> и до продажи <a class="new" href="/w/index.php?title=Centaur_Technology&amp;action=edit&amp;redlink=1" title="Centaur Technology (страница отсутствует)">Centaur Technology</a> компании <a href="/wiki/VIA_Technologies" title="VIA Technologies">VIA</a>. Параллельно с WinChip 2 существовали следующие x86-процессоры:
+</p>
+<ul><li><a class="mw-redirect" href="/wiki/AMD_K6-2" title="AMD K6-2">AMD K6-2</a> и <a class="mw-redirect" href="/wiki/AMD_K6-III" title="AMD K6-III">K6-III</a>. Опережали WinChip 2 с равным рейтингом во всех задачах (часто значительно)<sup class="reference" id="cite_ref-ixbt_c6-2_15-1"><a href="#cite_note-ixbt_c6-2-15">[15]</a></sup>.</li>
+<li><a href="/wiki/AMD" title="AMD">AMD</a> <a href="/wiki/Athlon" title="Athlon">Athlon</a>. Предназначался для высокопроизводительных компьютеров, имел высокую стоимость и значительно опережал WinChip 2 во всех задачах.</li>
+<li><a href="/wiki/Intel" title="Intel">Intel</a> <a href="/wiki/Pentium_II" title="Pentium II">Pentium II</a> и <a href="/wiki/Pentium_III" title="Pentium III">Pentium III</a>. Предназначались для высокопроизводительных компьютеров, имели высокую стоимость и значительно опережали WinChip 2 во всех задачах.</li>
+<li><a href="/wiki/Intel" title="Intel">Intel</a> <a href="/wiki/Celeron" title="Celeron">Celeron</a> (Mendocino). Предназначался для рынка недорогих настольных компьютеров. Значительно опережал WinChip 2<sup class="reference" id="cite_ref-anandtest_20-0"><a href="#cite_note-anandtest-20">[20]</a></sup>.</li>
+<li><a href="/wiki/Rise_mP6" title="Rise mP6">Rise mP6</a>. Значительно уступал всем конкурентам, в том числе и WinChip 2<sup class="reference" id="cite_ref-21"><a href="#cite_note-21">[21]</a></sup>.</li>
+<li><a class="new" href="/w/index.php?title=Cyrix_M-II&amp;action=edit&amp;redlink=1" title="Cyrix M-II (страница отсутствует)">Cyrix M-II</a>. Опережал WinChip 2 во всех задачах (часто значительно).</li></ul>
+<h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Примечания">Примечания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=WinChip&amp;veaction=edit&amp;section=14" title="Редактировать раздел «Примечания»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=WinChip&amp;action=edit&amp;section=14" title="Редактировать код раздела «Примечания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.cpu-world.com/CPUs/WinchipC6/IDT-C6-DS180GAEM.html" rel="nofollow">IDT Winchip C6 (IDT C6-DS180GAEM)</a> <a class="external text" href="https://web.archive.org/web/20080724042233/http://www.cpu-world.com/CPUs/WinchipC6/IDT-C6-DS180GAEM.html" rel="nofollow">Архивная копия</a> от 24 июля 2008 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></span>
+</li>
+<li id="cite_note-ixbt_c6-2"><span class="mw-cite-backlink">↑ <a href="#cite_ref-ixbt_c6_2-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-ixbt_c6_2-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.ixbt.com/cpu/idtc6.html" rel="nofollow">IDT-C6: проще — значит лучше?</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span> Дата обращения: 13 мая 2007. <a class="external text" href="https://web.archive.org/web/20070926214513/http://www.ixbt.com/cpu/idtc6.html" rel="nofollow">Архивировано</a> 26 сентября 2007 года.</span></span>
+</li>
+<li id="cite_note-spc62-3"><span class="mw-cite-backlink">↑ <a href="#cite_ref-spc62_3-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-spc62_3-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-spc62_3-2"><sup><i><b>3</b></i></sup></a> <a href="#cite_ref-spc62_3-3"><sup><i><b>4</b></i></sup></a></span> <span class="reference-text"><a class="external text" href="http://www.sandpile.org/impl/c2.htm" rel="nofollow">IA-32 implementation: Centaur WinChip 2</a> <small><a class="external text" href="https://web.archive.org/web/20070427100243/http://sandpile.org/impl/c2.htm" rel="nofollow">Архивировано</a> 27 апреля 2007 года.</small> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.cpu-collection.de/?l0=co&amp;l1=VIA&amp;l2=Cyrix%20III/C3" rel="nofollow">The VIA Cyrix III/C3 Processor</a> <a class="external text" href="https://web.archive.org/web/20170815055046/http://www.cpu-collection.de/?l0=co&amp;l1=VIA&amp;l2=Cyrix%20III%2FC3" rel="nofollow">Архивная копия</a> от 15 августа 2017 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.x86-guide.com/en/cpu/IDT-Winchip-C6-180-cpu-no681.html" rel="nofollow">IDT Winchip C6 180</a> <a class="external text" href="https://web.archive.org/web/20160304185412/http://www.x86-guide.com/en/cpu/IDT-Winchip-C6-180-cpu-no681.html" rel="nofollow">Архивная копия</a> от 4 марта 2016 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small><br/><a class="external text" href="http://www.x86-guide.com/en/cpu/IDT-Winchip-C6-200-cpu-no682.html" rel="nofollow">IDT Winchip C6 200</a> <a class="external text" href="https://web.archive.org/web/20160304111228/http://www.x86-guide.com/en/cpu/IDT-Winchip-C6-200-cpu-no682.html" rel="nofollow">Архивная копия</a> от 4 марта 2016 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.x86-guide.com/en/cpu/IDT-Winchip-C6-225-cpu-no683.html" rel="nofollow">IDT Winchip C6 225</a> <a class="external text" href="https://web.archive.org/web/20160811152547/http://www.x86-guide.com/en/cpu/IDT-Winchip-C6-225-cpu-no683.html" rel="nofollow">Архивная копия</a> от 11 августа 2016 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small><br/><a class="external text" href="http://www.x86-guide.com/en/cpu/IDT-Winchip-C6-240-cpu-no684.html" rel="nofollow">IDT Winchip C6 240</a> <a class="external text" href="https://web.archive.org/web/20120219012521/http://www.x86-guide.com/en/cpu/IDT-Winchip-C6-240-cpu-no684.html" rel="nofollow">Архивная копия</a> от 19 февраля 2012 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.x86-guide.com/en/cpu/IDT-Winchip2-200-cpu-no685.html" rel="nofollow">IDT Winchip2 200</a> <a class="external text" href="https://web.archive.org/web/20160811145324/http://www.x86-guide.com/en/cpu/IDT-Winchip2-200-cpu-no685.html" rel="nofollow">Архивная копия</a> от 11 августа 2016 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small><br/><a class="external text" href="http://www.x86-guide.com/en/cpu/IDT-Winchip2-225-cpu-no686.html" rel="nofollow">IDT Winchip2 225</a> <a class="external text" href="https://web.archive.org/web/20160811152703/http://www.x86-guide.com/en/cpu/IDT-Winchip2-225-cpu-no686.html" rel="nofollow">Архивная копия</a> от 11 августа 2016 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small><br/><a class="external text" href="http://www.x86-guide.com/en/cpu/IDT-Winchip2-240-cpu-no687.html" rel="nofollow">IDT Winchip2 240</a> <a class="external text" href="https://web.archive.org/web/20160811200534/http://www.x86-guide.com/en/cpu/IDT-Winchip2-240-cpu-no687.html" rel="nofollow">Архивная копия</a> от 11 августа 2016 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></span>
+</li>
+<li id="cite_note-datasheets-8"><span class="mw-cite-backlink">↑ <a href="#cite_ref-datasheets_8-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-datasheets_8-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-datasheets_8-2"><sup><i><b>3</b></i></sup></a> <a href="#cite_ref-datasheets_8-3"><sup><i><b>4</b></i></sup></a> <a href="#cite_ref-datasheets_8-4"><sup><i><b>5</b></i></sup></a></span> <span class="reference-text">См. <a href="#Ссылки">официальную документацию</a> по процессорам семейства WinChip</span>
+</li>
+<li id="cite_note-cwpmmx-9"><span class="mw-cite-backlink">↑ <a href="#cite_ref-cwpmmx_9-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-cwpmmx_9-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><a class="external text" href="http://www.cpu-world.com/CPUs/Pentium/Intel-Pentium%20MMX%20200%20-%20A80503200.html" rel="nofollow">Intel Pentium MMX 200 — A80503200</a> <a class="external text" href="https://web.archive.org/web/20090211061752/http://www.cpu-world.com/CPUs/Pentium/Intel-Pentium%20MMX%20200%20-%20A80503200.html" rel="nofollow">Архивная копия</a> от 11 февраля 2009 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.cpu-world.com/CPUs/K6/AMD-K6%20200%20-%20AMD-K6-200ALR.html" rel="nofollow">AMD K6 200 — AMD-K6-200ALR</a> <a class="external text" href="https://web.archive.org/web/20081223142651/http://www.cpu-world.com/CPUs/K6/AMD-K6%20200%20-%20AMD-K6-200ALR.html" rel="nofollow">Архивная копия</a> от 23 декабря 2008 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></span>
+</li>
+<li id="cite_note-cwc6-11"><span class="mw-cite-backlink">↑ <a href="#cite_ref-cwc6_11-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-cwc6_11-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><a class="external text" href="http://www.cpu-world.com/CPUs/WinchipC6/IDT-C6-PSME200GA.html" rel="nofollow">IDT C6-PSME200GA</a> <a class="external text" href="https://web.archive.org/web/20080724122540/http://www.cpu-world.com/CPUs/WinchipC6/IDT-C6-PSME200GA.html" rel="nofollow">Архивная копия</a> от 24 июля 2008 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></span>
+</li>
+<li id="cite_note-thgc6-12"><span class="mw-cite-backlink"><a href="#cite_ref-thgc6_12-0">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.tomshardware.com/reviews/idt-winchip-c6-cpu,37.html" rel="nofollow">The IDT WinChip C6 CPU: Introduction</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><a class="external text" href="http://users.erols.com/chare/cpuspeed.htm" rel="nofollow">Processor Speed Settings</a> <small><a class="external text" href="https://web.archive.org/web/20070428051306/http://users.erols.com/chare/cpuspeed.htm" rel="nofollow">Архивировано</a> 28 апреля 2007 года.</small> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.anandtech.com/showdoc.aspx?i=643&amp;p=2" rel="nofollow">The Winchip 2-3D</a> <a class="external text" href="https://web.archive.org/web/20041231062914/http://www.anandtech.com/showdoc.aspx?i=643&amp;p=2" rel="nofollow">Архивная копия</a> от 31 декабря 2004 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></span>
+</li>
+<li id="cite_note-ixbt_c6-2-15"><span class="mw-cite-backlink">↑ <a href="#cite_ref-ixbt_c6-2_15-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-ixbt_c6-2_15-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.ixbt.com/cpu/winchip-2.html" rel="nofollow">Обзор процессора IDT Winchip 2 266</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 13 мая 2007. <a class="external text" href="https://web.archive.org/web/20080822220423/http://www.ixbt.com/cpu/winchip-2.html" rel="nofollow">Архивировано</a> 22 августа 2008 года.</span></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.osp.ru/text/print/302/37504.html#14" rel="nofollow">Via решилась на приобретение Centaur</a> <small class="ref-info">(недоступная ссылка)</small></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><a href="#cite_ref-17">↑</a></span> <span class="reference-text"><a class="external text" href="http://sandpile.org/impl/c6.htm" rel="nofollow">IA-32 implementation: Centaur WinChip</a> <a class="external text" href="https://web.archive.org/web/20070428123841/http://sandpile.org/impl/c6.htm" rel="nofollow">Архивная копия</a> от 28 апреля 2007 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></span>
+</li>
+<li id="cite_note-c6ipmmxtest-18"><span class="mw-cite-backlink"><a href="#cite_ref-c6ipmmxtest_18-0">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.ixbt.com/cpu/c6test.html" rel="nofollow">Сравнение IDT C6 200Mhz и iP MMX 200Mhz</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 27 марта 2009. <a class="external text" href="https://web.archive.org/web/20080623093712/http://www.ixbt.com/cpu/c6test.html" rel="nofollow">Архивировано</a> 23 июня 2008 года.</span></span>
+</li>
+<li id="cite_note-c6test-19"><span class="mw-cite-backlink"><a href="#cite_ref-c6test_19-0">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.ixbt.com/cpu/cyrix_c6_test.html" rel="nofollow">Сравнение процессоров IDT C6 200Mhz, Cyrix 6x86MX-PR200 и Intel Pentium MMX 200Mhz</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 22 марта 2009. <a class="external text" href="https://web.archive.org/web/20080623072500/http://www.ixbt.com/cpu/cyrix_c6_test.html" rel="nofollow">Архивировано</a> 23 июня 2008 года.</span></span>
+</li>
+<li id="cite_note-anandtest-20"><span class="mw-cite-backlink"><a href="#cite_ref-anandtest_20-0">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.anandtech.com/showdoc.aspx?i=643&amp;p=4" rel="nofollow">IDT Winchip 2-3D: Windows 98 Performance</a> <a class="external text" href="https://web.archive.org/web/20050217053516/http://www.anandtech.com/showdoc.aspx?i=643&amp;p=4" rel="nofollow">Архивная копия</a> от 17 февраля 2005 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>
+<a class="external text" href="http://www.anandtech.com/showdoc.aspx?i=643&amp;p=5" rel="nofollow">IDT Winchip 2-3D: Gaming Performance</a> <a class="external text" href="https://web.archive.org/web/20050217141635/http://www.anandtech.com/showdoc.aspx?i=643&amp;p=5" rel="nofollow">Архивная копия</a> от 17 февраля 2005 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><a href="#cite_ref-21">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.ixbt.com/cpu/rise-mp6.html" rel="nofollow">Обзор процессора Rise mP6 266</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 22 марта 2009. <a class="external text" href="https://web.archive.org/web/20080622115657/http://www.ixbt.com/cpu/rise-mp6.html" rel="nofollow">Архивировано</a> 22 июня 2008 года.</span></span>
+</li>
+</ol></div></div>
+<h2><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span><span class="mw-headline" id="Ссылки">Ссылки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=WinChip&amp;veaction=edit&amp;section=15" title="Редактировать раздел «Ссылки»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=WinChip&amp;action=edit&amp;section=15" title="Редактировать код раздела «Ссылки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div aria-label="В родственных проектах" class="ts-Родственные_проекты ruwikiWikimediaNavigation tright metadata plainlinks plainlist noprint" role="navigation"><ul><li class="ts-Родственные_проекты-item"><span class="ts-Родственные_проекты-image"><span typeof="mw:File"><span><img alt="" class="mw-file-element" data-file-height="30" data-file-width="30" decoding="async" height="24" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/24px-Notification-icon-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/36px-Notification-icon-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/48px-Notification-icon-Commons-logo.svg.png 2x" width="24"/></span></span></span><span class="ts-Родственные_проекты-label commons-ref"><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:IDT_microprocessors" title="commons:Category:IDT microprocessors">Медиафайлы на Викискладе</a></span></li></ul></div>
+<p><b>Официальная документация</b>
+</p>
+<ul><li><a class="external text" href="https://web.archive.org/web/20080723135938/http://www.centtech.com/c6_data_sheet.pdf" rel="nofollow">IDT WinChip C6 Datasheet</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><a class="external text" href="https://web.archive.org/web/20080723135946/http://www.centtech.com/wc2ds.pdf" rel="nofollow">IDT WinChip 2 Datasheet</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><a class="external text" href="https://web.archive.org/web/20111013013059/http://www.centtech.com/wc_2_datasheet_a2.pdf" rel="nofollow">IDT WinChip 2 Version A Datasheet</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><a class="external text" href="https://web.archive.org/web/20111013013103/http://www.centtech.com/w2b_datasheet.pdf" rel="nofollow">IDT WinChip 2 for WinChip 2 version B Datasheet</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><a class="external text" href="https://web.archive.org/web/20111013013051/http://www.centtech.com/winchip_3_datasheet.pdf" rel="nofollow">IDT WinChip 3 Datasheet</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li></ul>
+<p><b>Характеристики процессоров</b>
+</p>
+<ul><li><a class="external text" href="https://web.archive.org/web/20070428123841/http://sandpile.org/impl/c6.htm" rel="nofollow">Centaur WinChip</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><a class="external text" href="https://web.archive.org/web/20070528050630/http://www.sandpile.org/impl/c2.htm" rel="nofollow">Centaur WinChip 2</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><a class="external text" href="http://www.cpu-world.com/CPUs/WinchipC6/index.html" rel="nofollow">IDT Winchip C6</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><a class="external text" href="http://www.cpu-world.com/CPUs/Winchip2/index.html" rel="nofollow">IDT Winchip 2</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li></ul>
+<p><b>Обзоры и тестирование</b>
+</p>
+<ul><li><a class="external text" href="http://www.anandtech.com/showdoc.aspx?i=643" rel="nofollow">IDT Winchip 2-3D</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><a class="external text" href="http://www.thg.ru/cpu/19971009/" rel="nofollow">Тестирование IDT C6</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><a class="external text" href="https://web.archive.org/web/20071008100952/http://www.kgtu.runnet.ru/E-Library/CPU/idt.htm" rel="nofollow">Процессоры IDT</a></li>
+<li><a class="external text" href="http://www.ixbt.com/cpu/idtc6.html" rel="nofollow">IDT-C6: проще — значит лучше?</a></li>
+<li><a class="external text" href="http://www.ixbt.com/cpu/winchip-2.html" rel="nofollow">Обзор процессора IDT Winchip 2 266</a></li>
+<li><a class="external text" href="http://www.thevetbattle.com/resbrowser.php?sb=cls&amp;th=6" rel="nofollow">Результаты сравнения IDT WinChip с AMD K5 и Intel Pentium</a> <small class="ref-info">(недоступная ссылка)</small></li></ul>
+<p><b>Разное</b>
+</p>
+<ul><li><a class="external text" href="http://redhill.net.au/iu.html" rel="nofollow">Отзывы фирмы Red Hill о процессорах различных поколений</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li></ul></div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> -->
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=WinChip&amp;oldid=133648848">https://ru.wikipedia.org/w/index.php?title=WinChip&amp;oldid=133648848</a></div></div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:X86" title="Категория:X86">X86</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F_13_%D0%BE%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8F" title="Категория:События 13 октября">События 13 октября</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F_19_%D0%BC%D0%B0%D1%8F" title="Категория:События 19 мая">События 19 мая</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%BD%D0%B5_%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD_%D1%8F%D0%B7%D1%8B%D0%BA)" title="Категория:Википедия:Cite web (не указан язык)">Википедия:Cite web (не указан язык)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D0%BD%D0%B5%D1%80%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%BC%D0%B8_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8" title="Категория:Википедия:Статьи с нерабочими ссылками">Википедия:Статьи с нерабочими ссылками</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%A0%D0%9E:%D0%98%D0%A2:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:ПРО:ИТ:Статьи по алфавиту">ПРО:ИТ:Статьи по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%A0%D0%9E:%D0%98%D0%A2:%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D1%8F%D1%8F_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:_%D0%B2_%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%BE%D0%BC_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:ПРО:ИТ:Последняя правка: в прошлом году">ПРО:ИТ:Последняя правка: в прошлом году</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81%D0%BE_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8_%D0%BD%D0%B0_%D0%92%D0%B8%D0%BA%D0%B8%D1%81%D0%BA%D0%BB%D0%B0%D0%B4" title="Категория:Статьи со ссылками на Викисклад">Статьи со ссылками на Викисклад</a></li></ul></div></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Навигация</h2>
+<div id="mw-head">
+<nav aria-labelledby="p-personal-label" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" id="p-personal" role="navigation">
+<h3 class="vector-menu-heading" id="p-personal-label">
+<span class="vector-menu-heading-label">Персональные инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="pt-anonuserpage"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li class="mw-list-item" id="pt-anontalk"><a accesskey="n" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]"><span>Обсуждение</span></a></li><li class="mw-list-item" id="pt-anoncontribs"><a accesskey="y" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]"><span>Вклад</span></a></li><li class="mw-list-item" id="pt-createaccount"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=WinChip" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li class="mw-list-item" id="pt-login"><a accesskey="o" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=WinChip" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]"><span>Войти</span></a></li>
+</ul>
+</div>
+</nav>
+<div id="left-navigation">
+<nav aria-labelledby="p-namespaces-label" class="mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-namespaces" role="navigation">
+<h3 class="vector-menu-heading" id="p-namespaces-label">
+<span class="vector-menu-heading-label">Пространства имён</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-nstab-main"><a accesskey="c" href="/wiki/WinChip" title="Просмотреть контентную страницу [c]"><span>Статья</span></a></li><li class="mw-list-item" id="ca-talk"><a accesskey="t" href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:WinChip" rel="discussion" title="Обсуждение основной страницы [t]"><span>Обсуждение</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-variants-label" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" id="p-variants" role="navigation">
+<input aria-haspopup="true" aria-labelledby="p-variants-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-variants" id="p-variants-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-variants-label">
+<span class="vector-menu-heading-label">русский</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+</div>
+<div id="right-navigation">
+<nav aria-labelledby="p-views-label" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-views" role="navigation">
+<h3 class="vector-menu-heading" id="p-views-label">
+<span class="vector-menu-heading-label">Просмотры</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-view"><a href="/wiki/WinChip"><span>Читать</span></a></li><li class="mw-list-item" id="ca-ve-edit"><a accesskey="v" href="/w/index.php?title=WinChip&amp;veaction=edit" title="Редактировать данную страницу [v]"><span>Править</span></a></li><li class="collapsible mw-list-item" id="ca-edit"><a accesskey="e" href="/w/index.php?title=WinChip&amp;action=edit" title="Править исходный текст этой страницы [e]"><span>Править код</span></a></li><li class="mw-list-item" id="ca-history"><a accesskey="h" href="/w/index.php?title=WinChip&amp;action=history" title="Журнал изменений страницы [h]"><span>История</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-cactions-label" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" id="p-cactions" role="navigation" title="Больше возможностей">
+<input aria-haspopup="true" aria-labelledby="p-cactions-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-cactions" id="p-cactions-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-cactions-label">
+<span class="vector-menu-heading-label">Ещё</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+<div class="vector-search-box-vue vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box" id="p-search" role="search">
+<h3>Поиск</h3>
+<form action="/w/index.php" class="vector-search-box-form" id="searchform">
+<div class="vector-search-box-inner" data-search-loc="header-navigation" id="simpleSearch">
+<input accesskey="f" aria-label="Искать в Википедии" autocapitalize="sentences" class="vector-search-box-input" id="searchInput" name="search" placeholder="Искать в Википедии" title="Искать в Википедии [f]" type="search"/>
+<input name="title" type="hidden" value="Служебная:Поиск"/>
+<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Найти страницы, содержащие указанный текст" type="submit" value="Найти"/>
+<input class="searchButton" id="searchButton" name="go" title="Перейти к странице, имеющей в точности такое название" type="submit" value="Перейти"/>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="vector-legacy-sidebar" id="mw-panel">
+<div id="p-logo" role="banner">
+<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу"></a>
+</div>
+<nav aria-labelledby="p-navigation-label" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" id="p-navigation" role="navigation">
+<h3 class="vector-menu-heading" id="p-navigation-label">
+<span class="vector-menu-heading-label">Навигация</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-mainpage-description"><a accesskey="z" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]"><span>Заглавная страница</span></a></li><li class="mw-list-item" id="n-content"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li class="mw-list-item" id="n-featured"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li class="mw-list-item" id="n-randompage"><a accesskey="x" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]"><span>Случайная статья</span></a></li><li class="mw-list-item" id="n-currentevents"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li class="mw-list-item" id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-participation-label" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" id="p-participation" role="navigation">
+<h3 class="vector-menu-heading" id="p-participation-label">
+<span class="vector-menu-heading-label">Участие</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-bug_in_article"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li class="mw-list-item" id="n-introduction"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li class="mw-list-item" id="n-portal"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li class="mw-list-item" id="n-forum"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li class="mw-list-item" id="n-recentchanges"><a accesskey="r" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]"><span>Свежие правки</span></a></li><li class="mw-list-item" id="n-newpages"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li class="mw-list-item" id="n-help"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-tb-label" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" id="p-tb" role="navigation">
+<h3 class="vector-menu-heading" id="p-tb-label">
+<span class="vector-menu-heading-label">Инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="t-whatlinkshere"><a accesskey="j" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/WinChip" title="Список всех страниц, ссылающихся на данную [j]"><span>Ссылки сюда</span></a></li><li class="mw-list-item" id="t-recentchangeslinked"><a accesskey="k" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/WinChip" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]"><span>Связанные правки</span></a></li><li class="mw-list-item" id="t-specialpages"><a accesskey="q" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]"><span>Служебные страницы</span></a></li><li class="mw-list-item" id="t-permalink"><a href="/w/index.php?title=WinChip&amp;oldid=133648848" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li class="mw-list-item" id="t-info"><a href="/w/index.php?title=WinChip&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li class="mw-list-item" id="t-cite"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=WinChip&amp;id=133648848&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li class="mw-list-item" id="t-urlshortener"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2FWinChip"><span>Получить короткий URL</span></a></li><li class="mw-list-item" id="t-urlshortener-qrcode"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2FWinChip"><span>Скачать QR-код</span></a></li><li class="mw-list-item" id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1288314" title="Ссылка на связанный элемент репозитория данных [g]"><span>Элемент Викиданных</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-coll-print_export-label" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" id="p-coll-print_export" role="navigation">
+<h3 class="vector-menu-heading" id="p-coll-print_export-label">
+<span class="vector-menu-heading-label">Печать/экспорт</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="coll-download-as-rl"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=WinChip&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li class="mw-list-item" id="t-print"><a accesskey="p" href="/w/index.php?title=WinChip&amp;printable=yes" title="Версия этой страницы для печати [p]"><span>Версия для печати</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-wikibase-otherprojects-label" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal vector-menu" id="p-wikibase-otherprojects" role="navigation">
+<h3 class="vector-menu-heading" id="p-wikibase-otherprojects-label">
+<span class="vector-menu-heading-label">В других проектах</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:IDT_microprocessors" hreflang="en"><span>Викисклад</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-lang-label" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" id="p-lang" role="navigation">
+<h3 class="vector-menu-heading" id="p-lang-label">
+<span class="vector-menu-heading-label">На других языках</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="interlanguage-link interwiki-da mw-list-item"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/WinChip" hreflang="da" lang="da" title="WinChip — датский"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/IDT_WinChip" hreflang="de" lang="de" title="IDT WinChip — немецкий"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a class="interlanguage-link-target" href="https://en.wikipedia.org/wiki/WinChip" hreflang="en" lang="en" title="WinChip — английский"><span>English</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/WinChip" hreflang="fr" lang="fr" title="WinChip — французский"><span>Français</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/WinChip" hreflang="hr" lang="hr" title="WinChip — хорватский"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/WinChip" hreflang="hu" lang="hu" title="WinChip — венгерский"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/WinChip" hreflang="ja" lang="ja" title="WinChip — японский"><span>日本語</span></a></li><li class="interlanguage-link interwiki-sh mw-list-item"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/WinChip" hreflang="sh" lang="sh" title="WinChip — сербскохорватский"><span>Srpskohrvatski / српскохрватски</span></a></li>
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1288314#sitelinks-wikipedia" title="Править ссылки на другие языки">Править ссылки</a></span></div>
+</div>
+</nav>
+</div>
+</div>
+<footer class="mw-footer" id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 17 октября 2023 в 10:56.</li>
+<li id="footer-info-copyright">Текст доступен по <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru" rel="license">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a><a href="//creativecommons.org/licenses/by-sa/4.0/" rel="license" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br/>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org/ru/">Фонд Викимедиа (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//ru.m.wikipedia.org/w/index.php?title=WinChip&amp;mobileaction=toggle_view_mobile">Мобильная версия</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" loading="lazy" src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88"/></a></li>
+<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" loading="lazy" src="/static/images/footer/poweredby_mediawiki_88x31.png" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88"/></a></li>
+</ul>
+</footer>
+
+
+</body>
+</html>

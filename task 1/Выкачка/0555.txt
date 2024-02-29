@@ -1,0 +1,1660 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="ru">
+<head>
+<meta charset="utf-8"/>
+<title>Дискретное логарифмирование — Википедия</title>
+
+
+
+
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+
+
+<meta content="MediaWiki 1.42.0-wmf.19" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="max-image-preview:standard" name="robots"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="width=1000" name="viewport"/>
+<meta content="Дискретное логарифмирование — Википедия" property="og:title"/>
+<meta content="website" property="og:type"/>
+
+
+
+
+
+
+
+
+
+
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Дискретное_логарифмирование rootpage-Дискретное_логарифмирование skin-vector action-view"><div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators">
+</div>
+<h1 class="firstHeading mw-first-heading" id="firstHeading"><span class="mw-page-title-main">Дискретное логарифмирование</span></h1>
+<div class="vector-body" id="bodyContent">
+<div class="noprint" id="siteSub">Материал из Википедии — свободной энциклопедии</div>
+<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+<div id="contentSub2"></div>
+<div id="jump-to-nav"></div>
+<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+<div class="mw-body-content" id="mw-content-text"><div class="mw-content-ltr mw-parser-output" dir="ltr" lang="ru"><p><b>Дискре́тное логарифми́рование</b> (DLOG) — задача <a href="/wiki/%D0%9E%D0%B1%D1%80%D0%B0%D1%82%D0%BD%D0%B0%D1%8F_%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D1%8F" title="Обратная функция">обращения</a> функции <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle g^{x}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msup>
+<mi>g</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>x</mi>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle g^{x}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle g^{x}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d7ba7b5f807c49eb4aecce4653d08dbb5ec2b2c6" style="vertical-align: -0.671ex; width:2.291ex; height:2.676ex;"/></span> в некоторой конечной <a class="mw-disambig" href="/wiki/%D0%9C%D1%83%D0%BB%D1%8C%D1%82%D0%B8%D0%BF%D0%BB%D0%B8%D0%BA%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%B0%D1%8F_%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B0" title="Мультипликативная группа">мультипликативной</a> <a href="/wiki/%D0%93%D1%80%D1%83%D0%BF%D0%BF%D0%B0_(%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0)" title="Группа (математика)">группе</a> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle G}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>G</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle G}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle G}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f5f3c8921a3b352de45446a6789b104458c9f90b" style="vertical-align: -0.338ex; width:1.827ex; height:2.176ex;"/></span>.
+</p><p>Наиболее часто задачу дискретного логарифмирования рассматривают в <a href="/wiki/%D0%9C%D1%83%D0%BB%D1%8C%D1%82%D0%B8%D0%BF%D0%BB%D0%B8%D0%BA%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%B0%D1%8F_%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B0_%D0%BA%D0%BE%D0%BB%D1%8C%D1%86%D0%B0_%D0%B2%D1%8B%D1%87%D0%B5%D1%82%D0%BE%D0%B2" title="Мультипликативная группа кольца вычетов">мультипликативной группе</a> <a class="mw-redirect" href="/wiki/%D0%9A%D0%BE%D0%BB%D1%8C%D1%86%D0%BE_%D0%B2%D1%8B%D1%87%D0%B5%D1%82%D0%BE%D0%B2" title="Кольцо вычетов">кольца вычетов</a> или <a href="/wiki/%D0%9A%D0%BE%D0%BD%D0%B5%D1%87%D0%BD%D0%BE%D0%B5_%D0%BF%D0%BE%D0%BB%D0%B5" title="Конечное поле">конечного поля</a>, а также в группе точек <a href="/wiki/%D0%AD%D0%BB%D0%BB%D0%B8%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%80%D0%B8%D0%B2%D0%B0%D1%8F" title="Эллиптическая кривая">эллиптической кривой</a> над конечным полем. Эффективные алгоритмы для решения задачи дискретного логарифмирования в общем случае неизвестны.
+</p><p>Для заданных <span class="ts-math"><i>g</i></span> и <span class="ts-math"><i>a</i></span> решение <span class="ts-math"><i>x</i></span> уравнения <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle g^{x}=a}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msup>
+<mi>g</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>x</mi>
+</mrow>
+</msup>
+<mo>=</mo>
+<mi>a</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle g^{x}=a}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle g^{x}=a}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/62d417bd4ff424f19f50f541a3ca248ac00866f4" style="vertical-align: -0.671ex; width:6.619ex; height:2.676ex;"/></span> называется <b>дискретным логарифмом</b> элемента <span class="ts-math"><i>a</i></span> по основанию <span class="ts-math"><i>g</i></span>. В случае, когда <span class="ts-math"><i>G</i></span> является мультипликативной группой кольца вычетов по модулю <span class="ts-math"><i>m</i></span>, решение называют также <b>индексом</b> числа <span class="ts-math"><i>a</i></span> по основанию <span class="ts-math"><i>g</i></span>. Индекс числа <span class="ts-math"><i>a</i></span> по основанию <span class="ts-math"><i>g</i></span> гарантированно существует, если <span class="ts-math"><i>g</i></span> является <a href="/wiki/%D0%9F%D0%B5%D1%80%D0%B2%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D1%80%D0%B5%D0%BD%D1%8C_(%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F_%D1%87%D0%B8%D1%81%D0%B5%D0%BB)" title="Первообразный корень (теория чисел)">первообразным корнем</a> по модулю <span class="ts-math"><i>m</i></span>.
+</p>
+<div aria-labelledby="mw-toc-heading" class="toc" id="toc" role="navigation"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="ru"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Постановка_задачи"><span class="tocnumber">1</span> <span class="toctext">Постановка задачи</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Пример"><span class="tocnumber">2</span> <span class="toctext">Пример</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Алгоритмы_решения"><span class="tocnumber">3</span> <span class="toctext">Алгоритмы решения</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#В_произвольной_мультипликативной_группе"><span class="tocnumber">3.1</span> <span class="toctext">В произвольной мультипликативной группе</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#В_кольце_вычетов_по_простому_модулю"><span class="tocnumber">3.2</span> <span class="toctext">В кольце вычетов по простому модулю</span></a>
+<ul>
+<li class="toclevel-3 tocsection-6"><a href="#Алгоритмы_с_экспоненциальной_сложностью"><span class="tocnumber">3.2.1</span> <span class="toctext">Алгоритмы с экспоненциальной сложностью</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="#Субэкспоненциальные_алгоритмы"><span class="tocnumber">3.2.2</span> <span class="toctext">Субэкспоненциальные алгоритмы</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-8"><a href="#В_произвольном_конечном_поле"><span class="tocnumber">3.3</span> <span class="toctext">В произвольном конечном поле</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#В_группе_точек_на_эллиптической_кривой"><span class="tocnumber">3.4</span> <span class="toctext">В группе точек на эллиптической кривой</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Вычислительная_сложность_и_приложения_в_криптографии"><span class="tocnumber">4</span> <span class="toctext">Вычислительная сложность и приложения в криптографии</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Примечания"><span class="tocnumber">5</span> <span class="toctext">Примечания</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Ссылки"><span class="tocnumber">6</span> <span class="toctext">Ссылки</span></a></li>
+</ul>
+</div>
+<h2><span id=".D0.9F.D0.BE.D1.81.D1.82.D0.B0.D0.BD.D0.BE.D0.B2.D0.BA.D0.B0_.D0.B7.D0.B0.D0.B4.D0.B0.D1.87.D0.B8"></span><span class="mw-headline" id="Постановка_задачи">Постановка задачи</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%94%D0%B8%D1%81%D0%BA%D1%80%D0%B5%D1%82%D0%BD%D0%BE%D0%B5_%D0%BB%D0%BE%D0%B3%D0%B0%D1%80%D0%B8%D1%84%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;veaction=edit&amp;section=1" title="Редактировать раздел «Постановка задачи»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%94%D0%B8%D1%81%D0%BA%D1%80%D0%B5%D1%82%D0%BD%D0%BE%D0%B5_%D0%BB%D0%BE%D0%B3%D0%B0%D1%80%D0%B8%D1%84%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;action=edit&amp;section=1" title="Редактировать код раздела «Постановка задачи»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2><p>
+Пусть в некоторой конечной мультипликативной <a href="/wiki/%D0%90%D0%B1%D0%B5%D0%BB%D0%B5%D0%B2%D0%B0_%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B0" title="Абелева группа">абелевой</a> группе <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle G}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>G</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle G}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle G}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f5f3c8921a3b352de45446a6789b104458c9f90b" style="vertical-align: -0.338ex; width:1.827ex; height:2.176ex;"/></span> задано уравнение</p><div style="width:25em;">
+<table class="citation" id="math_1" style="border-bottom:none; border-top:none; background-color:#;" width="100%">
+<tbody><tr>
+<td style="vertical-align:middle; text-align:left; padding-left:1.6em" width="80"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle g^{x}=a}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msup>
+<mi>g</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>x</mi>
+</mrow>
+</msup>
+<mo>=</mo>
+<mi>a</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle g^{x}=a}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle g^{x}=a}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/62d417bd4ff424f19f50f541a3ca248ac00866f4" style="vertical-align: -0.671ex; width:6.619ex; height:2.676ex;"/></span>.
+</td>
+<td style="vertical-align:middle; text-align:right;" width="20">(1)
+</td></tr></tbody></table></div>
+<p>Решение задачи дискретного логарифмирования состоит в нахождении некоторого <a href="/wiki/%D0%A6%D0%B5%D0%BB%D0%BE%D0%B5_%D1%87%D0%B8%D1%81%D0%BB%D0%BE" title="Целое число">целого</a> неотрицательного числа <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle x}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>x</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle x}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle x}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/87f9e315fd7e2ba406057a97300593c4802b53e4" style="vertical-align: -0.338ex; width:1.33ex; height:1.676ex;"/></span>, удовлетворяющего уравнению (1). Если оно разрешимо, у него должно быть хотя бы одно <a href="/wiki/%D0%9D%D0%B0%D1%82%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D1%87%D0%B8%D1%81%D0%BB%D0%BE" title="Натуральное число">натуральное</a> решение, не превышающее порядок группы. Это сразу даёт грубую оценку сложности алгоритма поиска решений сверху — <a class="mw-redirect" href="/wiki/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC_%D0%BF%D0%BE%D0%BB%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BF%D0%B5%D1%80%D0%B5%D0%B1%D0%BE%D1%80%D0%B0" title="Алгоритм полного перебора">алгоритм полного перебора</a> нашёл бы решение за число шагов не выше порядка данной группы.
+</p><p>Чаще всего рассматривается случай, когда <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle G=\langle g\rangle }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>G</mi>
+<mo>=</mo>
+<mo fence="false" stretchy="false">⟨<!-- ⟨ --></mo>
+<mi>g</mi>
+<mo fence="false" stretchy="false">⟩<!-- ⟩ --></mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle G=\langle g\rangle }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle G=\langle g\rangle }" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1c8a7f917cabcaf458947c782cd78c52f841dd00" style="vertical-align: -0.838ex; width:7.85ex; height:2.843ex;"/></span>, то есть группа является <a href="/wiki/%D0%A6%D0%B8%D0%BA%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B0" title="Циклическая группа">циклической</a>, порождённой элементом <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle g}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>g</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle g}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle g}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d3556280e66fe2c0d0140df20935a6f057381d77" style="vertical-align: -0.671ex; width:1.116ex; height:2.009ex;"/></span>. В этом случае уравнение всегда имеет решение. В случае же произвольной группы вопрос о разрешимости задачи дискретного логарифмирования, то есть вопрос о существовании решений уравнения (1), требует отдельного рассмотрения.
+</p>
+<h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.80"></span><span class="mw-headline" id="Пример">Пример</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%94%D0%B8%D1%81%D0%BA%D1%80%D0%B5%D1%82%D0%BD%D0%BE%D0%B5_%D0%BB%D0%BE%D0%B3%D0%B0%D1%80%D0%B8%D1%84%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Пример»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%94%D0%B8%D1%81%D0%BA%D1%80%D0%B5%D1%82%D0%BD%D0%BE%D0%B5_%D0%BB%D0%BE%D0%B3%D0%B0%D1%80%D0%B8%D1%84%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;action=edit&amp;section=2" title="Редактировать код раздела «Пример»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Рассмотрим задачу дискретного логарифмирования в <a class="mw-redirect" href="/wiki/%D0%9A%D0%BE%D0%BB%D1%8C%D1%86%D0%BE_%D0%B2%D1%8B%D1%87%D0%B5%D1%82%D0%BE%D0%B2" title="Кольцо вычетов">кольце вычетов</a> по модулю простого числа. Пусть задано <a href="/wiki/%D0%A1%D1%80%D0%B0%D0%B2%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BF%D0%BE_%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8E" title="Сравнение по модулю">сравнение</a>
+</p>
+<table class="citation" style="border-bottom:none; border-top:none; background-color:#;" width="100%">
+<tbody><tr>
+<td style="vertical-align:middle; text-align:left; padding-left:1.6em" width="80"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 3^{x}\equiv 13{\pmod {17}}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msup>
+<mn>3</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>x</mi>
+</mrow>
+</msup>
+<mo>≡<!-- ≡ --></mo>
+<mn>13</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace width="1em"></mspace>
+<mo stretchy="false">(</mo>
+<mi>mod</mi>
+<mspace width="0.333em"></mspace>
+<mn>17</mn>
+<mo stretchy="false">)</mo>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle 3^{x}\equiv 13{\pmod {17}}.}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle 3^{x}\equiv 13{\pmod {17}}.}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/21fbfc308bbb92fe8919153dca4cec5411eb82ef" style="vertical-align: -0.838ex; width:20.414ex; height:2.843ex;"/></span>
+</td>
+<td style="vertical-align:middle; text-align:right;" width="20">
+</td></tr></tbody></table>
+<p>Будем решать задачу <a href="/wiki/%D0%9F%D0%BE%D0%BB%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B5%D1%80%D0%B5%D0%B1%D0%BE%D1%80" title="Полный перебор">методом перебора</a>. Выпишем таблицу всех степеней числа 3. Каждый раз мы вычисляем остаток от деления на 17 (например, 3<sup>3</sup>≡27 — остаток от деления на 17 равен 10).
+</p>
+<center>
+<table cellpadding="5" cellspacing="0" style="background:#f0f0f0" width="80%">
+<tbody><tr>
+<td align="center">3<sup>1</sup> ≡ 3
+</td>
+<td align="center">3<sup>2</sup> ≡ 9
+</td>
+<td align="center">3<sup>3</sup> ≡ 10
+</td>
+<td align="center">3<sup>4</sup> ≡ 13
+</td>
+<td align="center">3<sup>5</sup> ≡ 5
+</td>
+<td align="center">3<sup>6</sup> ≡ 15
+</td>
+<td align="center">3<sup>7</sup> ≡ 11
+</td>
+<td align="center">3<sup>8</sup> ≡ 16
+</td></tr>
+<tr>
+<td align="center">3<sup>9</sup>  ≡ 14
+</td>
+<td align="center">3<sup>10</sup> ≡ 8
+</td>
+<td align="center">3<sup>11</sup> ≡ 7
+</td>
+<td align="center">3<sup>12</sup> ≡ 4
+</td>
+<td align="center">3<sup>13</sup> ≡ 12
+</td>
+<td align="center">3<sup>14</sup> ≡ 2
+</td>
+<td align="center">3<sup>15</sup> ≡ 6
+</td>
+<td align="center">3<sup>16</sup> ≡ 1
+</td></tr></tbody></table>
+</center>
+<p>Теперь легко увидеть, что решением рассматриваемого сравнения является <span class="ts-math"><i>x</i></span> = 4, поскольку 3<sup>4</sup>≡13.
+</p><p>На практике модуль обычно является достаточно большим числом, и метод перебора является слишком медленным, поэтому возникает потребность в более быстрых алгоритмах.
+</p>
+<h2><span id=".D0.90.D0.BB.D0.B3.D0.BE.D1.80.D0.B8.D1.82.D0.BC.D1.8B_.D1.80.D0.B5.D1.88.D0.B5.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Алгоритмы_решения">Алгоритмы решения</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%94%D0%B8%D1%81%D0%BA%D1%80%D0%B5%D1%82%D0%BD%D0%BE%D0%B5_%D0%BB%D0%BE%D0%B3%D0%B0%D1%80%D0%B8%D1%84%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;veaction=edit&amp;section=3" title="Редактировать раздел «Алгоритмы решения»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%94%D0%B8%D1%81%D0%BA%D1%80%D0%B5%D1%82%D0%BD%D0%BE%D0%B5_%D0%BB%D0%BE%D0%B3%D0%B0%D1%80%D0%B8%D1%84%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;action=edit&amp;section=3" title="Редактировать код раздела «Алгоритмы решения»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id=".D0.92_.D0.BF.D1.80.D0.BE.D0.B8.D0.B7.D0.B2.D0.BE.D0.BB.D1.8C.D0.BD.D0.BE.D0.B9_.D0.BC.D1.83.D0.BB.D1.8C.D1.82.D0.B8.D0.BF.D0.BB.D0.B8.D0.BA.D0.B0.D1.82.D0.B8.D0.B2.D0.BD.D0.BE.D0.B9_.D0.B3.D1.80.D1.83.D0.BF.D0.BF.D0.B5"></span><span class="mw-headline" id="В_произвольной_мультипликативной_группе">В произвольной мультипликативной группе</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%94%D0%B8%D1%81%D0%BA%D1%80%D0%B5%D1%82%D0%BD%D0%BE%D0%B5_%D0%BB%D0%BE%D0%B3%D0%B0%D1%80%D0%B8%D1%84%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;veaction=edit&amp;section=4" title="Редактировать раздел «В произвольной мультипликативной группе»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%94%D0%B8%D1%81%D0%BA%D1%80%D0%B5%D1%82%D0%BD%D0%BE%D0%B5_%D0%BB%D0%BE%D0%B3%D0%B0%D1%80%D0%B8%D1%84%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;action=edit&amp;section=4" title="Редактировать код раздела «В произвольной мультипликативной группе»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Разрешимости и решению задачи дискретного логарифмирования в произвольной конечной <a href="/wiki/%D0%90%D0%B1%D0%B5%D0%BB%D0%B5%D0%B2%D0%B0_%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B0" title="Абелева группа">абелевой</a> группе посвящена статья J. Buchmann, M. J. Jacobson и E. Teske<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup>. В алгоритме используется таблица, состоящая из <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle O({\sqrt {|\langle g\rangle |}})}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>O</mi>
+<mo stretchy="false">(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<mo fence="false" stretchy="false">⟨<!-- ⟨ --></mo>
+<mi>g</mi>
+<mo fence="false" stretchy="false">⟩<!-- ⟩ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+</msqrt>
+</mrow>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle O({\sqrt {|\langle g\rangle |}})}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle O({\sqrt {|\langle g\rangle |}})}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fe165042eb9c318f068b3af8ddf6e873479f40a8" style="vertical-align: -1.838ex; width:10.125ex; height:4.843ex;"/></span> пар элементов и выполняется <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle O({\sqrt {|\langle g\rangle |}})}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>O</mi>
+<mo stretchy="false">(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<mo fence="false" stretchy="false">⟨<!-- ⟨ --></mo>
+<mi>g</mi>
+<mo fence="false" stretchy="false">⟩<!-- ⟩ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+</msqrt>
+</mrow>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle O({\sqrt {|\langle g\rangle |}})}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle O({\sqrt {|\langle g\rangle |}})}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fe165042eb9c318f068b3af8ddf6e873479f40a8" style="vertical-align: -1.838ex; width:10.125ex; height:4.843ex;"/></span> умножений. Данный алгоритм медленный и не пригоден для практического использования. Для конкретных групп существуют свои, более эффективные, алгоритмы.
+</p>
+<h3><span id=".D0.92_.D0.BA.D0.BE.D0.BB.D1.8C.D1.86.D0.B5_.D0.B2.D1.8B.D1.87.D0.B5.D1.82.D0.BE.D0.B2_.D0.BF.D0.BE_.D0.BF.D1.80.D0.BE.D1.81.D1.82.D0.BE.D0.BC.D1.83_.D0.BC.D0.BE.D0.B4.D1.83.D0.BB.D1.8E"></span><span class="mw-headline" id="В_кольце_вычетов_по_простому_модулю">В кольце вычетов по простому модулю</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%94%D0%B8%D1%81%D0%BA%D1%80%D0%B5%D1%82%D0%BD%D0%BE%D0%B5_%D0%BB%D0%BE%D0%B3%D0%B0%D1%80%D0%B8%D1%84%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;veaction=edit&amp;section=5" title="Редактировать раздел «В кольце вычетов по простому модулю»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%94%D0%B8%D1%81%D0%BA%D1%80%D0%B5%D1%82%D0%BD%D0%BE%D0%B5_%D0%BB%D0%BE%D0%B3%D0%B0%D1%80%D0%B8%D1%84%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;action=edit&amp;section=5" title="Редактировать код раздела «В кольце вычетов по простому модулю»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3><p>
+Рассмотрим сравнение</p><div style="width:25em;">
+<table class="citation" id="math_2" style="border-bottom:none; border-top:none; background-color:#;" width="100%">
+<tbody><tr>
+<td style="vertical-align:middle; text-align:left; padding-left:1.6em" width="80"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle a^{x}\equiv b{\pmod {p}},}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msup>
+<mi>a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>x</mi>
+</mrow>
+</msup>
+<mo>≡<!-- ≡ --></mo>
+<mi>b</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace width="1em"></mspace>
+<mo stretchy="false">(</mo>
+<mi>mod</mi>
+<mspace width="0.333em"></mspace>
+<mi>p</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle a^{x}\equiv b{\pmod {p}},}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle a^{x}\equiv b{\pmod {p}},}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/68cb988119b41cc9ac24b9b8ff99078eba531ba1" style="vertical-align: -0.838ex; width:17.999ex; height:2.843ex;"/></span>
+</td>
+<td style="vertical-align:middle; text-align:right;" width="20">(2)
+</td></tr></tbody></table></div>
+<p>где <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle p}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>p</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle p}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle p}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/81eac1e205430d1f40810df36a0edffdc367af36" style="vertical-align: -0.671ex; margin-left: -0.089ex; width:1.259ex; height:2.009ex;"/></span> — <a href="/wiki/%D0%9F%D1%80%D0%BE%D1%81%D1%82%D0%BE%D0%B5_%D1%87%D0%B8%D1%81%D0%BB%D0%BE" title="Простое число">простое</a>, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle b}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>b</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle b}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle b}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f11423fbb2e967f986e36804a8ae4271734917c3" style="vertical-align: -0.338ex; width:0.998ex; height:2.176ex;"/></span> не делится на <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle p}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>p</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle p}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle p}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/81eac1e205430d1f40810df36a0edffdc367af36" style="vertical-align: -0.671ex; margin-left: -0.089ex; width:1.259ex; height:2.009ex;"/></span> без остатка. Если <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle a}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>a</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle a}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle a}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ffd2487510aa438433a2579450ab2b3d557e5edc" style="vertical-align: -0.338ex; width:1.23ex; height:1.676ex;"/></span> является образующим элементом группы <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbb {Z} /p\mathbb {Z} }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="double-struck">Z</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mi>p</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="double-struck">Z</mi>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbb {Z} /p\mathbb {Z} }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbb {Z} /p\mathbb {Z} }" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/57869a3a3c4c431cc49c4c7ab1d9c7ea692b517b" style="vertical-align: -0.838ex; width:5.433ex; height:2.843ex;"/></span>, то уравнение (2) имеет решение при любых <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle b}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>b</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle b}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle b}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f11423fbb2e967f986e36804a8ae4271734917c3" style="vertical-align: -0.338ex; width:0.998ex; height:2.176ex;"/></span>. Такие числа <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle a}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>a</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle a}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle a}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ffd2487510aa438433a2579450ab2b3d557e5edc" style="vertical-align: -0.338ex; width:1.23ex; height:1.676ex;"/></span> называются ещё <a href="/wiki/%D0%9F%D0%B5%D1%80%D0%B2%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D1%80%D0%B5%D0%BD%D1%8C_(%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F_%D1%87%D0%B8%D1%81%D0%B5%D0%BB)" title="Первообразный корень (теория чисел)">первообразными корнями</a>, и их количество равно <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \phi (p-1)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>ϕ<!-- ϕ --></mi>
+<mo stretchy="false">(</mo>
+<mi>p</mi>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \phi (p-1)}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \phi (p-1)}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7a7f6636b5e50a1b2ea3f96070530e20c5cd7dbd" style="vertical-align: -0.838ex; width:8.367ex; height:2.843ex;"/></span>, где <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \phi }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>ϕ<!-- ϕ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \phi }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \phi }" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/72b1f30316670aee6270a28334bdf4f5072cdde4" style="vertical-align: -0.671ex; width:1.385ex; height:2.509ex;"/></span> — <a href="/wiki/%D0%A4%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D1%8F_%D0%AD%D0%B9%D0%BB%D0%B5%D1%80%D0%B0" title="Функция Эйлера">функция Эйлера</a>. Решение уравнения (2) можно находить по формуле:
+</p>
+<table class="citation" style="border-bottom:none; border-top:none; background-color:#;" width="100%">
+<tbody><tr>
+<td style="vertical-align:middle; text-align:left; padding-left:1.6em" width="80"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle x\equiv \sum \limits _{i=1}^{p-2}(1-a^{i})^{-1}b^{i}{\pmod {p}}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>x</mi>
+<mo>≡<!-- ≡ --></mo>
+<munderover>
+<mo movablelimits="false">∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+<mo>=</mo>
+<mn>1</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>p</mi>
+<mo>−<!-- − --></mo>
+<mn>2</mn>
+</mrow>
+</munderover>
+<mo stretchy="false">(</mo>
+<mn>1</mn>
+<mo>−<!-- − --></mo>
+<msup>
+<mi>a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msup>
+<msup>
+<mo stretchy="false">)</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+</msup>
+<msup>
+<mi>b</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace width="1em"></mspace>
+<mo stretchy="false">(</mo>
+<mi>mod</mi>
+<mspace width="0.333em"></mspace>
+<mi>p</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle x\equiv \sum \limits _{i=1}^{p-2}(1-a^{i})^{-1}b^{i}{\pmod {p}}.}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle x\equiv \sum \limits _{i=1}^{p-2}(1-a^{i})^{-1}b^{i}{\pmod {p}}.}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fbe88df0d86e1178793357db75eb295ab095881e" style="vertical-align: -3.005ex; width:31.255ex; height:7.343ex;"/></span>
+</td>
+<td style="vertical-align:middle; text-align:right;" width="20">
+</td></tr></tbody></table>
+<p>Однако сложность вычисления по этой формуле хуже, чем сложность перебора.
+</p><p>Следующий алгоритм имеет сложность <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle O({\sqrt {p}}\cdot \log {p})}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>O</mi>
+<mo stretchy="false">(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mi>p</mi>
+</msqrt>
+</mrow>
+<mo>⋅<!-- ⋅ --></mo>
+<mi>log</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>p</mi>
+</mrow>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle O({\sqrt {p}}\cdot \log {p})}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle O({\sqrt {p}}\cdot \log {p})}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/43e979098cb363e84d9b9d73bc2df71d7a401124" style="vertical-align: -1.171ex; width:12.895ex; height:3.176ex;"/></span>.
+</p>
+<dl><dt>Алгоритм</dt></dl>
+<ol><li>Присвоить <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle H:=\left\lfloor {\sqrt {p}}\right\rfloor +1}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>H</mi>
+<mo>:=</mo>
+<mrow>
+<mo>⌊</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mi>p</mi>
+</msqrt>
+</mrow>
+<mo>⌋</mo>
+</mrow>
+<mo>+</mo>
+<mn>1</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle H:=\left\lfloor {\sqrt {p}}\right\rfloor +1}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle H:=\left\lfloor {\sqrt {p}}\right\rfloor +1}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f2e4250fe39eb4ec6dc5f20949d56f2125a459f5" style="vertical-align: -1.171ex; width:15.112ex; height:3.343ex;"/></span></li>
+<li>Вычислить <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle c=a^{H}{\bmod {p}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>c</mi>
+<mo>=</mo>
+<msup>
+<mi>a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>H</mi>
+</mrow>
+</msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mo lspace="thickmathspace" rspace="thickmathspace">mod</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>p</mi>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle c=a^{H}{\bmod {p}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle c=a^{H}{\bmod {p}}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6815f66267fac10251e00827c59bd5232e5f0789" style="vertical-align: -0.671ex; width:13.877ex; height:3.009ex;"/></span></li>
+<li>Составить таблицу значений <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle c^{u}{\bmod {p}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msup>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>u</mi>
+</mrow>
+</msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mo lspace="thickmathspace" rspace="thickmathspace">mod</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>p</mi>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle c^{u}{\bmod {p}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle c^{u}{\bmod {p}}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d370977a8d950827b4a4190e05ccd31e3982d2f5" style="vertical-align: -0.671ex; width:9.03ex; height:2.676ex;"/></span> для <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 1\leq u\leq H}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mn>1</mn>
+<mo>≤<!-- ≤ --></mo>
+<mi>u</mi>
+<mo>≤<!-- ≤ --></mo>
+<mi>H</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle 1\leq u\leq H}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle 1\leq u\leq H}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/96dc202d3b851a4eae2c50ff3e5dabfa668d6607" style="vertical-align: -0.505ex; width:10.753ex; height:2.343ex;"/></span> и отсортировать её.</li>
+<li>Составить таблицу значений <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle b\cdot a^{v}{\bmod {p}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>b</mi>
+<mo>⋅<!-- ⋅ --></mo>
+<msup>
+<mi>a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>v</mi>
+</mrow>
+</msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mo lspace="thickmathspace" rspace="thickmathspace">mod</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>p</mi>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle b\cdot a^{v}{\bmod {p}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle b\cdot a^{v}{\bmod {p}}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3819166d0a41af11a3479879414acc43299e5344" style="vertical-align: -0.671ex; width:11.787ex; height:2.676ex;"/></span> для <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 0\leq v\leq H}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mn>0</mn>
+<mo>≤<!-- ≤ --></mo>
+<mi>v</mi>
+<mo>≤<!-- ≤ --></mo>
+<mi>H</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle 0\leq v\leq H}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle 0\leq v\leq H}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5cfb011a5e2249085c451318cdbf7269d2556d24" style="vertical-align: -0.505ex; width:10.551ex; height:2.343ex;"/></span> и отсортировать её.</li>
+<li>Найти общие элементы в таблицах. Для них <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle c^{u}\equiv b\cdot a^{v}{\pmod {p}},}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msup>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>u</mi>
+</mrow>
+</msup>
+<mo>≡<!-- ≡ --></mo>
+<mi>b</mi>
+<mo>⋅<!-- ⋅ --></mo>
+<msup>
+<mi>a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>v</mi>
+</mrow>
+</msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace width="1em"></mspace>
+<mo stretchy="false">(</mo>
+<mi>mod</mi>
+<mspace width="0.333em"></mspace>
+<mi>p</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle c^{u}\equiv b\cdot a^{v}{\pmod {p}},}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle c^{u}\equiv b\cdot a^{v}{\pmod {p}},}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/24f0e788905c8aa412d487d87ba4e2c5f418b7b0" style="vertical-align: -0.838ex; width:21.714ex; height:2.843ex;"/></span> откуда <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle a^{Hu-v}\equiv b{\pmod {p}}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msup>
+<mi>a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>H</mi>
+<mi>u</mi>
+<mo>−<!-- − --></mo>
+<mi>v</mi>
+</mrow>
+</msup>
+<mo>≡<!-- ≡ --></mo>
+<mi>b</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace width="1em"></mspace>
+<mo stretchy="false">(</mo>
+<mi>mod</mi>
+<mspace width="0.333em"></mspace>
+<mi>p</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle a^{Hu-v}\equiv b{\pmod {p}}.}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle a^{Hu-v}\equiv b{\pmod {p}}.}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6e5de9d1122cb90bc1bafb7bf206a0744fb2fd81" style="vertical-align: -0.838ex; width:21.534ex; height:3.176ex;"/></span></li>
+<li>Выдать <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle Hu-v}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>H</mi>
+<mi>u</mi>
+<mo>−<!-- − --></mo>
+<mi>v</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle Hu-v}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle Hu-v}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9383cba653bdcf5cd9397412d7dcebaef3c3ce27" style="vertical-align: -0.505ex; width:7.361ex; height:2.343ex;"/></span>.</li></ol>
+<p>Существует также множество других алгоритмов для решения задачи дискретного логарифмирования в поле вычетов. Их принято разделять на экспоненциальные и субэкспоненциальные. Полиномиального алгоритма для решения этой задачи пока не существует.
+</p>
+<h4><span id=".D0.90.D0.BB.D0.B3.D0.BE.D1.80.D0.B8.D1.82.D0.BC.D1.8B_.D1.81_.D1.8D.D0.BA.D1.81.D0.BF.D0.BE.D0.BD.D0.B5.D0.BD.D1.86.D0.B8.D0.B0.D0.BB.D1.8C.D0.BD.D0.BE.D0.B9_.D1.81.D0.BB.D0.BE.D0.B6.D0.BD.D0.BE.D1.81.D1.82.D1.8C.D1.8E"></span><span class="mw-headline" id="Алгоритмы_с_экспоненциальной_сложностью">Алгоритмы с экспоненциальной сложностью</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%94%D0%B8%D1%81%D0%BA%D1%80%D0%B5%D1%82%D0%BD%D0%BE%D0%B5_%D0%BB%D0%BE%D0%B3%D0%B0%D1%80%D0%B8%D1%84%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;veaction=edit&amp;section=6" title="Редактировать раздел «Алгоритмы с экспоненциальной сложностью»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%94%D0%B8%D1%81%D0%BA%D1%80%D0%B5%D1%82%D0%BD%D0%BE%D0%B5_%D0%BB%D0%BE%D0%B3%D0%B0%D1%80%D0%B8%D1%84%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;action=edit&amp;section=6" title="Редактировать код раздела «Алгоритмы с экспоненциальной сложностью»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<ol><li><a class="mw-redirect" href="/wiki/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC_%D0%A8%D0%B5%D0%BD%D0%BA%D1%81%D0%B0" title="Алгоритм Шенкса">Алгоритм Шенкса</a> (<i>алгоритм больших и малых шагов</i>, <i>baby-step giant-step</i>)</li>
+<li><a href="/wiki/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC_%D0%9F%D0%BE%D0%BB%D0%B8%D0%B3%D0%B0_%E2%80%94_%D0%A5%D0%B5%D0%BB%D0%BB%D0%BC%D0%B0%D0%BD%D0%B0" title="Алгоритм Полига — Хеллмана">Алгоритм Полига — Хеллмана</a> работает, если известно разложение числа <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle p-1=\prod \limits _{i=1}^{s}q_{i}^{\alpha _{i}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>p</mi>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+<mo>=</mo>
+<munderover>
+<mo movablelimits="false">∏<!-- ∏ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+<mo>=</mo>
+<mn>1</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>s</mi>
+</mrow>
+</munderover>
+<msubsup>
+<mi>q</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mi>α<!-- α --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+</mrow>
+</msubsup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle p-1=\prod \limits _{i=1}^{s}q_{i}^{\alpha _{i}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle p-1=\prod \limits _{i=1}^{s}q_{i}^{\alpha _{i}}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fa3ac630315993227b7c47661d9757e711e6882d" style="vertical-align: -3.005ex; margin-left: -0.089ex; width:14.705ex; height:6.843ex;"/></span> на простые множители. Сложность: <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle O(\sum \limits _{i=1}^{s}\alpha _{i}(\log {p}+q_{i}))}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>O</mi>
+<mo stretchy="false">(</mo>
+<munderover>
+<mo movablelimits="false">∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+<mo>=</mo>
+<mn>1</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>s</mi>
+</mrow>
+</munderover>
+<msub>
+<mi>α<!-- α --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>log</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>p</mi>
+</mrow>
+<mo>+</mo>
+<msub>
+<mi>q</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle O(\sum \limits _{i=1}^{s}\alpha _{i}(\log {p}+q_{i}))}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle O(\sum \limits _{i=1}^{s}\alpha _{i}(\log {p}+q_{i}))}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5dd990406d5c0ff03a11f7b755f46aa4923ecef3" style="vertical-align: -3.005ex; width:20.627ex; height:6.843ex;"/></span>. Если множители, на которые раскладывается <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle p-1}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>p</mi>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle p-1}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle p-1}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f356ae51988add41a7da343e6b6d48fa968da162" style="vertical-align: -0.671ex; margin-left: -0.089ex; width:5.262ex; height:2.509ex;"/></span>, достаточно маленькие, то алгоритм очень эффективен<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup>.</li>
+<li><a class="mw-redirect" href="/wiki/%CE%A1-%D0%BC%D0%B5%D1%82%D0%BE%D0%B4_%D0%9F%D0%BE%D0%BB%D0%BB%D0%B0%D1%80%D0%B4%D0%B0_%D0%B4%D0%B8%D1%81%D0%BA%D1%80%D0%B5%D1%82%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BB%D0%BE%D0%B3%D0%B0%D1%80%D0%B8%D1%84%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F" title="Ρ-метод Полларда дискретного логарифмирования"><span class="ts-math">ρ</span>-Метод Полларда</a> имеет эвристическую оценку сложности <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle O(p^{\frac {1}{2}})}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>O</mi>
+<mo stretchy="false">(</mo>
+<msup>
+<mi>p</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</mrow>
+</msup>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle O(p^{\frac {1}{2}})}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle O(p^{\frac {1}{2}})}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fa5462ee58c13fdde1affc836c843c332924de7d" style="vertical-align: -0.838ex; width:6.488ex; height:4.009ex;"/></span><sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup>.</li></ol>
+<h4><span id=".D0.A1.D1.83.D0.B1.D1.8D.D0.BA.D1.81.D0.BF.D0.BE.D0.BD.D0.B5.D0.BD.D1.86.D0.B8.D0.B0.D0.BB.D1.8C.D0.BD.D1.8B.D0.B5_.D0.B0.D0.BB.D0.B3.D0.BE.D1.80.D0.B8.D1.82.D0.BC.D1.8B"></span><span class="mw-headline" id="Субэкспоненциальные_алгоритмы">Субэкспоненциальные алгоритмы</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%94%D0%B8%D1%81%D0%BA%D1%80%D0%B5%D1%82%D0%BD%D0%BE%D0%B5_%D0%BB%D0%BE%D0%B3%D0%B0%D1%80%D0%B8%D1%84%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;veaction=edit&amp;section=7" title="Редактировать раздел «Субэкспоненциальные алгоритмы»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%94%D0%B8%D1%81%D0%BA%D1%80%D0%B5%D1%82%D0%BD%D0%BE%D0%B5_%D0%BB%D0%BE%D0%B3%D0%B0%D1%80%D0%B8%D1%84%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;action=edit&amp;section=7" title="Редактировать код раздела «Субэкспоненциальные алгоритмы»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>В <a href="/wiki/L-%D0%BD%D0%BE%D1%82%D0%B0%D1%86%D0%B8%D1%8F" title="L-нотация">L-нотации</a> вычислительная сложность данных алгоритмов оценивается как <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle L_{p}[d,c]}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>L</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>p</mi>
+</mrow>
+</msub>
+<mo stretchy="false">[</mo>
+<mi>d</mi>
+<mo>,</mo>
+<mi>c</mi>
+<mo stretchy="false">]</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle L_{p}[d,c]}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle L_{p}[d,c]}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0d44a4d93f2a450d7c0bca6824a72aab3915de3b" style="vertical-align: -1.005ex; width:7.192ex; height:3.009ex;"/></span> арифметических операций, где <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle c}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>c</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle c}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle c}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/86a67b81c2de995bd608d5b2df50cd8cd7d92455" style="vertical-align: -0.338ex; width:1.007ex; height:1.676ex;"/></span> и <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 0\leq d&lt;1}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mn>0</mn>
+<mo>≤<!-- ≤ --></mo>
+<mi>d</mi>
+<mo>&lt;</mo>
+<mn>1</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle 0\leq d&lt;1}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle 0\leq d&lt;1}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9ee1fca89d76230396a0b51d441ead163f9bd293" style="vertical-align: -0.505ex; width:9.738ex; height:2.343ex;"/></span> — некоторые константы. Эффективность алгоритма во многом зависит от близости величин <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle c}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>c</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle c}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle c}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/86a67b81c2de995bd608d5b2df50cd8cd7d92455" style="vertical-align: -0.338ex; width:1.007ex; height:1.676ex;"/></span> и <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle d}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>d</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle d}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle d}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e85ff03cbe0c7341af6b982e47e9f90d235c66ab" style="vertical-align: -0.338ex; width:1.216ex; height:2.176ex;"/></span> к 1 и 0, соответственно.
+</p>
+<ol><li><a href="/wiki/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC_%D0%90%D0%B4%D0%BB%D0%B5%D0%BC%D0%B0%D0%BD%D0%B0" title="Алгоритм Адлемана">Алгоритм Адлемана</a> появился в <a href="/wiki/1979_%D0%B3%D0%BE%D0%B4" title="1979 год">1979 году</a><sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup>. Это был первый субэкспоненциалный алгоритм дискретного логарифмирования. На практике он всё же недостаточно эффективен. В этом алгоритме <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle d={\frac {1}{2}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>d</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle d={\frac {1}{2}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle d={\frac {1}{2}}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c03da7dfabaf34ba3face380043673b9d2198cb7" style="vertical-align: -1.838ex; width:6.313ex; height:5.176ex;"/></span>.</li>
+<li><a href="/wiki/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC_COS" title="Алгоритм COS">Алгоритм COS</a> был предложен в <a href="/wiki/1986_%D0%B3%D0%BE%D0%B4" title="1986 год">1986 году</a> математиками <a href="/wiki/%D0%9A%D0%BE%D0%BF%D0%BF%D0%B5%D1%80%D1%81%D0%BC%D0%B8%D1%82,_%D0%94%D0%BE%D0%BD" title="Копперсмит, Дон">Копперсмитом</a> (Don Coppersmith), <a class="new" href="/w/index.php?title=%D0%9E%D0%B4%D0%BB%D1%8B%D0%B6%D0%BA%D0%BE,_%D0%AD%D0%BD%D0%B4%D1%80%D1%8E&amp;action=edit&amp;redlink=1" title="Одлыжко, Эндрю (страница отсутствует)">Одлыжко</a> (Andrew Odlyzko) и <a class="new" href="/w/index.php?title=%D0%A8%D1%80%D0%B5%D0%BF%D0%BF%D0%B5%D0%BB%D1%8C,_%D0%A0%D0%B8%D1%87%D0%B0%D1%80%D0%B4&amp;action=edit&amp;redlink=1" title="Шреппель, Ричард (страница отсутствует)">Шреппелем</a> (Richard Schroeppel)<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup>. В этом алгоритме константа <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle c=1}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>c</mi>
+<mo>=</mo>
+<mn>1</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle c=1}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle c=1}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3e3467f9e219a5ea38a30da5c3a02c2c23f61a79" style="vertical-align: -0.338ex; width:5.268ex; height:2.176ex;"/></span>, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle d={\frac {1}{2}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>d</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle d={\frac {1}{2}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle d={\frac {1}{2}}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c03da7dfabaf34ba3face380043673b9d2198cb7" style="vertical-align: -1.838ex; width:6.313ex; height:5.176ex;"/></span>. В 1991 году с помощью этого метода было проведено логарифмирование по модулю <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle p\approx 10^{58}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>p</mi>
+<mo>≈<!-- ≈ --></mo>
+<msup>
+<mn>10</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>58</mn>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle p\approx 10^{58}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle p\approx 10^{58}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3736aa2f8800f627c8485a1e7f283f458369c3c8" style="vertical-align: -0.671ex; margin-left: -0.089ex; width:8.558ex; height:3.009ex;"/></span>. В 1997 году Вебер провёл дискретное логарифмирование по модулю <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle p\approx 10^{85}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>p</mi>
+<mo>≈<!-- ≈ --></mo>
+<msup>
+<mn>10</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>85</mn>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle p\approx 10^{85}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle p\approx 10^{85}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d59e656db5c30a4c238a8ffaaad7216bdd7508a7" style="vertical-align: -0.671ex; margin-left: -0.089ex; width:8.558ex; height:3.009ex;"/></span> с помощью некоторой версии данного алгоритма. Экспериментально показано, что при <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle p\leq 10^{90}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>p</mi>
+<mo>≤<!-- ≤ --></mo>
+<msup>
+<mn>10</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>90</mn>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle p\leq 10^{90}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle p\leq 10^{90}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/37c622c57b9f85928de502332e0561590451d342" style="vertical-align: -0.671ex; margin-left: -0.089ex; width:8.558ex; height:3.009ex;"/></span> алгоритм COS лучше решета числового поля.</li>
+<li>Дискретное логарифмирование при помощи <a href="/wiki/%D0%9E%D0%B1%D1%89%D0%B8%D0%B9_%D0%BC%D0%B5%D1%82%D0%BE%D0%B4_%D1%80%D0%B5%D1%88%D0%B5%D1%82%D0%B0_%D1%87%D0%B8%D1%81%D0%BB%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE_%D0%BF%D0%BE%D0%BB%D1%8F" title="Общий метод решета числового поля">решета числового поля</a> было применено к дискретному логарифмированию позднее, чем к факторизации чисел. Первые идеи появились в 1990-х годах. Алгоритм, предложенный Д. Гордоном в <a href="/wiki/1993_%D0%B3%D0%BE%D0%B4" title="1993 год">1993 году</a>, имел эвристическую сложность <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle L_{p}\left[{\tfrac {1}{3}},3^{3/2}\right]}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>L</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>p</mi>
+</mrow>
+</msub>
+<mrow>
+<mo>[</mo>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mn>1</mn>
+<mn>3</mn>
+</mfrac>
+</mstyle>
+</mrow>
+<mo>,</mo>
+<msup>
+<mn>3</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+<mo>]</mo>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle L_{p}\left[{\tfrac {1}{3}},3^{3/2}\right]}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle L_{p}\left[{\tfrac {1}{3}},3^{3/2}\right]}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a3189b3b724e41e927809e2dcef45f3d71ce02c7" style="vertical-align: -1.838ex; width:11.777ex; height:4.843ex;"/></span><sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup>, но оказался достаточно непрактичным. Позднее было предложено множество различных улучшений данного алгоритма. Было показано, что при <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle p\geq 10^{100}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>p</mi>
+<mo>≥<!-- ≥ --></mo>
+<msup>
+<mn>10</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>100</mn>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle p\geq 10^{100}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle p\geq 10^{100}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/297bd3a290a61e5256318aa9a24732f438d9642c" style="vertical-align: -0.671ex; margin-left: -0.089ex; width:9.38ex; height:3.009ex;"/></span> решето числового поля быстрее, чем COS. Современные рекорды в дискретном логарифмировании получены именно с помощью этого метода.</li></ol>
+<p>Наилучшими параметрами в оценке сложности на данный момент является <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle c=(92+26{\sqrt {13}})^{\frac {1}{3}}/3\approx 1{,}902}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>c</mi>
+<mo>=</mo>
+<mo stretchy="false">(</mo>
+<mn>92</mn>
+<mo>+</mo>
+<mn>26</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mn>13</mn>
+</msqrt>
+</mrow>
+<msup>
+<mo stretchy="false">)</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mn>3</mn>
+</mfrac>
+</mrow>
+</msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mn>3</mn>
+<mo>≈<!-- ≈ --></mo>
+<mn>1,902</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle c=(92+26{\sqrt {13}})^{\frac {1}{3}}/3\approx 1{,}902}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle c=(92+26{\sqrt {13}})^{\frac {1}{3}}/3\approx 1{,}902}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1201ba6e6df10826c0916714b41783b470f0d14a" style="vertical-align: -0.838ex; width:30.121ex; height:4.009ex;"/></span>, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle d={\frac {1}{3}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>d</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mn>3</mn>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle d={\frac {1}{3}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle d={\frac {1}{3}}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c0ef6502a17d31bed2d25b64fce352c5d023792a" style="vertical-align: -1.838ex; width:6.313ex; height:5.176ex;"/></span><sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup>.
+</p><p>Для чисел специального вида результат можно улучшить. В некоторых случаях можно построить алгоритм, для которого константы будут <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle c\approx 1{,}00475}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>c</mi>
+<mo>≈<!-- ≈ --></mo>
+<mn>1,004</mn>
+<mn>75</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle c\approx 1{,}00475}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle c\approx 1{,}00475}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3b4cd9948f98e9fec8dc666f25e7f37a353585c6" style="vertical-align: -0.671ex; width:11.727ex; height:2.509ex;"/></span>, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle d={\frac {2}{5}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>d</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>2</mn>
+<mn>5</mn>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle d={\frac {2}{5}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle d={\frac {2}{5}}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5ef329d929267a4453c7143e5cfb6cb3bf98c782" style="vertical-align: -1.838ex; width:6.313ex; height:5.176ex;"/></span>. За счёт того, что константа <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle c}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>c</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle c}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle c}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/86a67b81c2de995bd608d5b2df50cd8cd7d92455" style="vertical-align: -0.338ex; width:1.007ex; height:1.676ex;"/></span> достаточно близка к 1, подобные алгоритмы могут обогнать алгоритм с <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle d={\frac {1}{3}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>d</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mn>3</mn>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle d={\frac {1}{3}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle d={\frac {1}{3}}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c0ef6502a17d31bed2d25b64fce352c5d023792a" style="vertical-align: -1.838ex; width:6.313ex; height:5.176ex;"/></span>.
+</p>
+<h3><span id=".D0.92_.D0.BF.D1.80.D0.BE.D0.B8.D0.B7.D0.B2.D0.BE.D0.BB.D1.8C.D0.BD.D0.BE.D0.BC_.D0.BA.D0.BE.D0.BD.D0.B5.D1.87.D0.BD.D0.BE.D0.BC_.D0.BF.D0.BE.D0.BB.D0.B5"></span><span class="mw-headline" id="В_произвольном_конечном_поле">В произвольном конечном поле</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%94%D0%B8%D1%81%D0%BA%D1%80%D0%B5%D1%82%D0%BD%D0%BE%D0%B5_%D0%BB%D0%BE%D0%B3%D0%B0%D1%80%D0%B8%D1%84%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;veaction=edit&amp;section=8" title="Редактировать раздел «В произвольном конечном поле»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%94%D0%B8%D1%81%D0%BA%D1%80%D0%B5%D1%82%D0%BD%D0%BE%D0%B5_%D0%BB%D0%BE%D0%B3%D0%B0%D1%80%D0%B8%D1%84%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;action=edit&amp;section=8" title="Редактировать код раздела «В произвольном конечном поле»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Задача рассматривается в <a href="/wiki/%D0%9A%D0%BE%D0%BD%D0%B5%D1%87%D0%BD%D0%BE%D0%B5_%D0%BF%D0%BE%D0%BB%D0%B5" title="Конечное поле">поле <i>GF(q)</i></a>, где <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle q=p^{n}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>q</mi>
+<mo>=</mo>
+<msup>
+<mi>p</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>n</mi>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle q=p^{n}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle q=p^{n}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7b95f6525025c9ae1432ea9bd50c3c1cab4b7c6c" style="vertical-align: -0.671ex; width:6.556ex; height:2.676ex;"/></span>, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle p}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>p</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle p}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle p}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/81eac1e205430d1f40810df36a0edffdc367af36" style="vertical-align: -0.671ex; margin-left: -0.089ex; width:1.259ex; height:2.009ex;"/></span> — простое.
+</p>
+<ol><li><a class="mw-redirect" href="/wiki/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC_%D0%B8%D1%81%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B8%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%D0%BE%D0%B2" title="Алгоритм исчисления индексов">Алгоритм исчисления индексов</a> (<i>index-calculus</i>) эффективен, если <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle p}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>p</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle p}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle p}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/81eac1e205430d1f40810df36a0edffdc367af36" style="vertical-align: -0.671ex; margin-left: -0.089ex; width:1.259ex; height:2.009ex;"/></span> невелико. В этом случае он имеет эвристическую оценку сложности <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle L_{p}\left[{\tfrac {1}{2}},c\right]}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>L</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>p</mi>
+</mrow>
+</msub>
+<mrow>
+<mo>[</mo>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</mstyle>
+</mrow>
+<mo>,</mo>
+<mi>c</mi>
+</mrow>
+<mo>]</mo>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle L_{p}\left[{\tfrac {1}{2}},c\right]}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle L_{p}\left[{\tfrac {1}{2}},c\right]}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6af735baf51dc7fc07f4f89683b2524df6085874" style="vertical-align: -1.171ex; width:8.667ex; height:3.509ex;"/></span>.</li>
+<li><a class="new" href="/w/index.php?title=%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC_%D0%AD%D0%BB%D1%8C-%D0%93%D0%B0%D0%BC%D0%B0%D0%BB%D1%8F&amp;action=edit&amp;redlink=1" title="Алгоритм Эль-Гамаля (страница отсутствует)">Алгоритм Эль-Гамаля</a>, появившийся в 1985 году, применим при <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle n=2}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>n</mi>
+<mo>=</mo>
+<mn>2</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle n=2}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle n=2}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a02c8bd752d2cc859747ca1f3a508281bdbc3b34" style="vertical-align: -0.338ex; width:5.656ex; height:2.176ex;"/></span> и имеет сложность <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle L_{p}\left[{\tfrac {1}{2}},c\right]}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>L</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>p</mi>
+</mrow>
+</msub>
+<mrow>
+<mo>[</mo>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</mstyle>
+</mrow>
+<mo>,</mo>
+<mi>c</mi>
+</mrow>
+<mo>]</mo>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle L_{p}\left[{\tfrac {1}{2}},c\right]}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle L_{p}\left[{\tfrac {1}{2}},c\right]}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6af735baf51dc7fc07f4f89683b2524df6085874" style="vertical-align: -1.171ex; width:8.667ex; height:3.509ex;"/></span> арифметических операций.</li>
+<li><a class="new" href="/w/index.php?title=%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC_%D0%9A%D0%BE%D0%BF%D0%BF%D0%B5%D1%80%D1%81%D0%BC%D0%B8%D1%82%D0%B0&amp;action=edit&amp;redlink=1" title="Алгоритм Копперсмита (страница отсутствует)">Алгоритм Копперсмита</a> дискретного логарифмирования в конечном поле характеристики 2 стал первым субэкспоненциальным алгоритмом дискретного логарифмирования с константой <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle d={\frac {1}{3}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>d</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mn>3</mn>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle d={\frac {1}{3}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle d={\frac {1}{3}}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c0ef6502a17d31bed2d25b64fce352c5d023792a" style="vertical-align: -1.838ex; width:6.313ex; height:5.176ex;"/></span> в оценке сложности <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle L_{p}[d,c]}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>L</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>p</mi>
+</mrow>
+</msub>
+<mo stretchy="false">[</mo>
+<mi>d</mi>
+<mo>,</mo>
+<mi>c</mi>
+<mo stretchy="false">]</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle L_{p}[d,c]}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle L_{p}[d,c]}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0d44a4d93f2a450d7c0bca6824a72aab3915de3b" style="vertical-align: -1.005ex; width:7.192ex; height:3.009ex;"/></span>. Данный алгоритм появился в <a href="/wiki/1984_%D0%B3%D0%BE%D0%B4" title="1984 год">1984 году</a> — до изобретения решета числового поля<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup>.</li></ol>
+<h3><span id=".D0.92_.D0.B3.D1.80.D1.83.D0.BF.D0.BF.D0.B5_.D1.82.D0.BE.D1.87.D0.B5.D0.BA_.D0.BD.D0.B0_.D1.8D.D0.BB.D0.BB.D0.B8.D0.BF.D1.82.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.BE.D0.B9_.D0.BA.D1.80.D0.B8.D0.B2.D0.BE.D0.B9"></span><span class="mw-headline" id="В_группе_точек_на_эллиптической_кривой">В группе точек на эллиптической кривой</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%94%D0%B8%D1%81%D0%BA%D1%80%D0%B5%D1%82%D0%BD%D0%BE%D0%B5_%D0%BB%D0%BE%D0%B3%D0%B0%D1%80%D0%B8%D1%84%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;veaction=edit&amp;section=9" title="Редактировать раздел «В группе точек на эллиптической кривой»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%94%D0%B8%D1%81%D0%BA%D1%80%D0%B5%D1%82%D0%BD%D0%BE%D0%B5_%D0%BB%D0%BE%D0%B3%D0%B0%D1%80%D0%B8%D1%84%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;action=edit&amp;section=9" title="Редактировать код раздела «В группе точек на эллиптической кривой»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable">Основная статья: <b><a href="/wiki/%D0%94%D0%B8%D1%81%D0%BA%D1%80%D0%B5%D1%82%D0%BD%D0%BE%D0%B5_%D0%BB%D0%BE%D0%B3%D0%B0%D1%80%D0%B8%D1%84%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BD%D0%B0_%D1%8D%D0%BB%D0%BB%D0%B8%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B9_%D0%BA%D1%80%D0%B8%D0%B2%D0%BE%D0%B9" title="Дискретное логарифмирование на эллиптической кривой">Дискретное логарифмирование на эллиптической кривой</a></b></div>
+<p>Рассматривается группа точек <a href="/wiki/%D0%AD%D0%BB%D0%BB%D0%B8%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%80%D0%B8%D0%B2%D0%B0%D1%8F" title="Эллиптическая кривая">эллиптической кривой</a> над конечным полем. В данной группе определена операция сложения двух точек. Тогда <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle mP}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>m</mi>
+<mi>P</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle mP}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle mP}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8660d16a88040423d65c06eadf2903a9c1ef8bc3" style="vertical-align: -0.338ex; width:3.786ex; height:2.176ex;"/></span> — это <sub><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \underbrace {P+\ldots +P} \limits _{m}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<munder>
+<mrow class="MJX-TeXAtom-OP MJX-fixedlimits">
+<munder>
+<mrow>
+<mi>P</mi>
+<mo>+</mo>
+<mo>…<!-- … --></mo>
+<mo>+</mo>
+<mi>P</mi>
+</mrow>
+<mo>⏟<!-- ⏟ --></mo>
+</munder>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>m</mi>
+</mrow>
+</munder>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \underbrace {P+\ldots +P} \limits _{m}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \underbrace {P+\ldots +P} \limits _{m}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6e7148b8346907aeb247cc55f25040b62792addd" style="vertical-align: -3.838ex; margin-left: -0.137ex; width:12.032ex; height:5.676ex;"/></span></sub>. Решением задачи дискретного логарифмирования на эллиптической кривой является нахождение такого натурального числа <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle m}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>m</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle m}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle m}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0a07d98bb302f3856cbabc47b2b9016692e3f7bc" style="vertical-align: -0.338ex; width:2.04ex; height:1.676ex;"/></span>, что <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle mP=A}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>m</mi>
+<mi>P</mi>
+<mo>=</mo>
+<mi>A</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle mP=A}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle mP=A}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f78ca4f3ca0687b992fe0d3fa00a50fec402c0e5" style="vertical-align: -0.338ex; width:8.627ex; height:2.176ex;"/></span> для заданных точек <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>P</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle P}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle P}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b4dc73bf40314945ff376bd363916a738548d40a" style="vertical-align: -0.338ex; width:1.745ex; height:2.176ex;"/></span> и <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle A.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>A</mi>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle A.}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle A.}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8a71bf21ad35b8fe05555041d54d1e17eeb0f490" style="vertical-align: -0.338ex; width:2.39ex; height:2.176ex;"/></span>
+</p><p>До <a href="/wiki/1990_%D0%B3%D0%BE%D0%B4" title="1990 год">1990 года</a> не существовало алгоритмов дискретного логарифмирования, учитывающих особенностей строения группы точек эллиптической кривой. Впоследствии, <a class="mw-redirect" href="/wiki/%D0%90%D0%BB%D1%8C%D1%84%D1%80%D0%B5%D0%B4_%D0%9C%D0%B5%D0%BD%D0%B5%D0%B7%D0%B5%D1%81" title="Альфред Менезес">Альфред Менезес</a>, <span data-interwiki-article="Tatsuaki Okamoto" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=%D0%9E%D0%BA%D0%B0%D0%BC%D0%BE%D1%82%D0%BE,_%D0%A2%D0%B0%D1%86%D1%83%D0%B0%D0%BA%D0%B8&amp;action=edit&amp;redlink=1" title="Окамото, Тацуаки (страница отсутствует)">Тацуаки Окамото</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://en.wikipedia.org/wiki/Tatsuaki_Okamoto" title="en:Tatsuaki Okamoto"><span title="Tatsuaki Okamoto — версия статьи «Окамото, Тацуаки» на английском языке">[en]</span></a></sup></span> и <a class="mw-redirect" href="/wiki/%D0%A1%D0%BA%D0%BE%D1%82%D1%82_%D0%92%D0%B0%D0%BD%D1%81%D1%82%D0%BE%D1%83%D0%BD" title="Скотт Ванстоун">Скотт Ванстоун</a> предложили алгоритм, использующий <a class="new" href="/w/index.php?title=%D0%A1%D0%BF%D0%B0%D1%80%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%92%D0%B5%D0%B9%D0%BB%D1%8F&amp;action=edit&amp;redlink=1" title="Спаривание Вейля (страница отсутствует)">спаривание Вейля</a><sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup>. Для эллиптической кривой, определённой над полем <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle GF(q)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>G</mi>
+<mi>F</mi>
+<mo stretchy="false">(</mo>
+<mi>q</mi>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle GF(q)}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle GF(q)}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7632e02672649089c63c998757aa3afc0782a0f3" style="vertical-align: -0.838ex; width:6.446ex; height:2.843ex;"/></span>, данный алгоритм сводит задачу дискретного логарифмирования к аналогичной задаче в поле <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle GF(q^{k})}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>G</mi>
+<mi>F</mi>
+<mo stretchy="false">(</mo>
+<msup>
+<mi>q</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>k</mi>
+</mrow>
+</msup>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle GF(q^{k})}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle GF(q^{k})}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2ef78d73c1e514efa438d0d2a4a60dd4d2e61358" style="vertical-align: -0.838ex; width:7.545ex; height:3.176ex;"/></span>. Однако, данное сведение полезно, только если степень <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle k}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>k</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle k}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle k}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c3c9a2c7b599b37105512c5d570edc034056dd40" style="vertical-align: -0.338ex; width:1.211ex; height:2.176ex;"/></span> мала. Это условие выполняется, в основном, для <a class="new" href="/w/index.php?title=%D0%A1%D1%83%D0%BF%D0%B5%D1%80%D1%81%D0%B8%D0%BD%D0%B3%D1%83%D0%BB%D1%8F%D1%80%D0%BD%D0%B0%D1%8F_%D1%8D%D0%BB%D0%BB%D0%B8%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%80%D0%B8%D0%B2%D0%B0%D1%8F&amp;action=edit&amp;redlink=1" title="Суперсингулярная эллиптическая кривая (страница отсутствует)">суперсингулярных</a> эллиптических кривых. В остальных случаях подобное сведение практически никогда не приводит к субэкспоненциальным алгоритмам.
+</p>
+<h2><span id=".D0.92.D1.8B.D1.87.D0.B8.D1.81.D0.BB.D0.B8.D1.82.D0.B5.D0.BB.D1.8C.D0.BD.D0.B0.D1.8F_.D1.81.D0.BB.D0.BE.D0.B6.D0.BD.D0.BE.D1.81.D1.82.D1.8C_.D0.B8_.D0.BF.D1.80.D0.B8.D0.BB.D0.BE.D0.B6.D0.B5.D0.BD.D0.B8.D1.8F_.D0.B2_.D0.BA.D1.80.D0.B8.D0.BF.D1.82.D0.BE.D0.B3.D1.80.D0.B0.D1.84.D0.B8.D0.B8"></span><span class="mw-headline" id="Вычислительная_сложность_и_приложения_в_криптографии">Вычислительная сложность и приложения в криптографии</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%94%D0%B8%D1%81%D0%BA%D1%80%D0%B5%D1%82%D0%BD%D0%BE%D0%B5_%D0%BB%D0%BE%D0%B3%D0%B0%D1%80%D0%B8%D1%84%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;veaction=edit&amp;section=10" title="Редактировать раздел «Вычислительная сложность и приложения в криптографии»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%94%D0%B8%D1%81%D0%BA%D1%80%D0%B5%D1%82%D0%BD%D0%BE%D0%B5_%D0%BB%D0%BE%D0%B3%D0%B0%D1%80%D0%B8%D1%84%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;action=edit&amp;section=10" title="Редактировать код раздела «Вычислительная сложность и приложения в криптографии»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Задача дискретного логарифмирования является одной из основных задач, на которых базируется <a class="mw-redirect" href="/wiki/%D0%9A%D1%80%D0%B8%D0%BF%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D1%81_%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D0%BC_%D0%BA%D0%BB%D1%8E%D1%87%D0%BE%D0%BC" title="Криптографическая система с открытым ключом">криптография с открытым ключом</a>. Классическими криптографическими схемами на её основе являются схема выработки общего ключа <a class="mw-redirect" href="/wiki/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC_%D0%94%D0%B8%D1%84%D1%84%D0%B8-%D0%A5%D0%B5%D0%BB%D0%BB%D0%BC%D0%B0%D0%BD%D0%B0" title="Алгоритм Диффи-Хеллмана">Диффи-Хеллмана</a><sup class="reference" id="cite_ref-_08b07f1facd8ea80_10-0"><a href="#cite_note-_08b07f1facd8ea80-10">[10]</a></sup>, <a href="/wiki/%D0%A1%D1%85%D0%B5%D0%BC%D0%B0_%D0%AD%D0%BB%D1%8C-%D0%93%D0%B0%D0%BC%D0%B0%D0%BB%D1%8F" title="Схема Эль-Гамаля">схема электронной подписи Эль-Гамаля</a><sup class="reference" id="cite_ref-_1e0a99d83fe29b44_11-0"><a href="#cite_note-_1e0a99d83fe29b44-11">[11]</a></sup><sup class="reference" id="cite_ref-_9096049fb2527be9_12-0"><a href="#cite_note-_9096049fb2527be9-12">[12]</a></sup>, <a class="mw-redirect" href="/wiki/%D0%9A%D1%80%D0%B8%D0%BF%D1%82%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D0%9C%D1%8D%D1%81%D1%81%D0%B8-%D0%9E%D0%BC%D1%83%D1%80%D1%8B" title="Криптосистема Мэсси-Омуры">криптосистема Мэсси-Омуры</a><sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup> для передачи сообщений. Их криптостойкость основывается на предположительно высокой <a href="/wiki/%D0%92%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Вычислительная сложность">вычислительной сложности</a> обращения показательной функции. Хотя сама показательная функция вычисляется достаточно эффективно, даже самые современные алгоритмы вычисления дискретного логарифма имеют очень высокую сложность, которая сравнима со сложностью наиболее быстрых алгоритмов <a href="/wiki/%D0%A4%D0%B0%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F_%D1%86%D0%B5%D0%BB%D1%8B%D1%85_%D1%87%D0%B8%D1%81%D0%B5%D0%BB" title="Факторизация целых чисел">разложения чисел на множители</a>.
+</p><p>Другая возможность эффективного решения задачи вычисления дискретного логарифма связана с <a href="/wiki/%D0%9A%D0%B2%D0%B0%D0%BD%D1%82%D0%BE%D0%B2%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80" title="Квантовый компьютер">квантовыми вычислениями</a>. Теоретически доказано, что с помощью <a href="/wiki/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC_%D0%A8%D0%BE%D1%80%D0%B0" title="Алгоритм Шора">алгоритма Шора</a> дискретный логарифм можно вычислить за полиномиальное время<sup class="reference" id="cite_ref-_2fbb03e82ec651aa_14-0"><a href="#cite_note-_2fbb03e82ec651aa-14">[14]</a></sup><sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup><sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup>. В любом случае, если полиномиальный алгоритм вычисления дискретного логарифма будет реализован, это будет означать практическую непригодность криптосистем на его основе для долговременной защиты данных. Рассматривается ряд идей для создания <a href="/wiki/%D0%9F%D0%BE%D1%81%D1%82%D0%BA%D0%B2%D0%B0%D0%BD%D1%82%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F" title="Постквантовая криптография">новых алгоритмов с открытым ключом</a>.
+</p>
+<h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Примечания">Примечания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%94%D0%B8%D1%81%D0%BA%D1%80%D0%B5%D1%82%D0%BD%D0%BE%D0%B5_%D0%BB%D0%BE%D0%B3%D0%B0%D1%80%D0%B8%D1%84%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;veaction=edit&amp;section=11" title="Редактировать раздел «Примечания»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%94%D0%B8%D1%81%D0%BA%D1%80%D0%B5%D1%82%D0%BD%D0%BE%D0%B5_%D0%BB%D0%BE%D0%B3%D0%B0%D1%80%D0%B8%D1%84%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;action=edit&amp;section=11" title="Редактировать код раздела «Примечания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><span class="citation"><i>Buchmann J., Jacobson M. J., Teske E.</i> <a class="external text" href="http://www.ams.org/journals/mcom/1997-66-220/S0025-5718-97-00880-6/S0025-5718-97-00880-6.pdf" rel="nofollow">On some computational problems in finite abelian groups</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small> // <a class="extiw" href="https://en.wikipedia.org/wiki/Mathematics_of_Computation" title="en:Mathematics of Computation"><span title="Mathematics of Computation — версия статьи «Mathematics of Computation» на английском языке">Mathematics of Computation</span></a><span class="noprint" style="font-style:normal; font-weight:normal;"> <span style="display:inline-block; font-size:80%; position:relative;"><span style="font-size:117.6%; margin-left:-0.43em; position:relative; top:0.28em;"> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></span><span class="link-ru metadata" style="margin-left:-0.43em; position:absolute; left:0; z-index:1; margin-top:-0.35em;"><span style="visibility:hidden; margin-right:0.099em;"> (</span><span data-interwiki-article="Mathematics of Computation" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=Mathematics_of_Computation&amp;action=edit&amp;redlink=1" title="Mathematics of Computation (страница отсутствует)">рус.</a></span></span></span></span> : journal. — 1997. — <span class="nowrap">Vol. 66</span>. — <span class="nowrap">P. 1663—1687</span>. — <a class="mw-redirect" href="/wiki/Doi" title="Doi">doi</a>:<a class="external text" href="https://dx.doi.org/10.1090%2FS0025-5718-97-00880-6" rel="nofollow">10.1090/S0025-5718-97-00880-6</a>. <small><a class="external text" href="https://web.archive.org/web/20160304110354/http://www.ams.org/journals/mcom/1997-66-220/S0025-5718-97-00880-6/S0025-5718-97-00880-6.pdf" rel="nofollow">Архивировано</a> 4 марта 2016 года.</small></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><span class="citation"><i>S. Pohlig, M. Hellman.</i> <a class="external text" href="http://ieeexplore.ieee.org/document/1055817/" rel="nofollow">An improved algorithm for computing logarithms over and its cryptographic significance (Corresp.)</a> // IEEE Transactions on Information Theory. — 1978. — Январь (<span class="nowrap">т. 24</span>, <span class="nowrap">вып. 1</span>). — <span class="nowrap">С. 106—110</span>. — <a class="mw-redirect" href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D0%BD%D1%8B%D0%B9_%D1%81%D0%B5%D1%80%D0%B8%D0%B9%D0%BD%D1%8B%D0%B9_%D0%BD%D0%BE%D0%BC%D0%B5%D1%80" title="Международный стандартный серийный номер">ISSN</a> <a class="external text" href="//www.worldcat.org/search?fq=x0:jrnl&amp;q=n2:0018-9448" rel="nofollow">0018-9448</a>. — <a class="mw-redirect" href="/wiki/Doi" title="Doi">doi</a>:<a class="external text" href="https://dx.doi.org/10.1109%2FTIT.1978.1055817" rel="nofollow">10.1109/TIT.1978.1055817</a>. <small><a class="external text" href="https://web.archive.org/web/20180621230545/https://ieeexplore.ieee.org/document/1055817/" rel="nofollow">Архивировано</a> 21 июня 2018 года.</small></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><span class="citation"><i>Pollard J. M.</i> <a class="external text" href="http://www.ams.org/mcom/1978-32-143/S0025-5718-1978-0491431-9/" rel="nofollow">Monte Carlo methods for index computation (mod p)</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small> // Mathematics of Computation. — 1978. — <span class="nowrap">Vol. 32</span>, <span class="nowrap">iss. 143</span>. — <span class="nowrap">P. 918—924</span>. — <a class="mw-redirect" href="/wiki/Doi" title="Doi">doi</a>:<a class="external text" href="https://dx.doi.org/10.1090%2FS0025-5718-1978-0491431-9" rel="nofollow">10.1090/S0025-5718-1978-0491431-9</a>.</span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><span class="citation"><i>Adleman L.</i> <a class="external text" href="http://ieeexplore.ieee.org/document/4568001/" rel="nofollow">A subexponential algorithm for the discrete logarithm problem with applications to cryptography</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small> // 20th Annual Symposium on Foundations of Computer Science. — 1979. — <span class="nowrap">P. 55—60</span>. — <a class="mw-redirect" href="/wiki/Doi" title="Doi">doi</a>:<a class="external text" href="https://dx.doi.org/10.1109%2FSFCS.1979.2" rel="nofollow">10.1109/SFCS.1979.2</a>. <small><a class="external text" href="https://web.archive.org/web/20170510165226/http://ieeexplore.ieee.org/document/4568001/" rel="nofollow">Архивировано</a> 10 мая 2017 года.</small></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><span class="citation"><i>Coppersmith D., Odlzyko A. M., Schroeppel R.</i> <a class="external text" href="https://link.springer.com/article/10.1007/BF01840433" rel="nofollow">Discrete logarithms inGF(p)</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small> // Algorithmica. — 1986. — <span class="nowrap">Vol. 1</span>, <span class="nowrap">iss. 1—4</span>. — <span class="nowrap">P. 1—15</span>. — <a class="mw-redirect" href="/wiki/Doi" title="Doi">doi</a>:<a class="external text" href="https://dx.doi.org/10.1007%2FBF01840433" rel="nofollow">10.1007/BF01840433</a>. <small><a class="external text" href="https://web.archive.org/web/20180413185804/https://link.springer.com/article/10.1007/BF01840433" rel="nofollow">Архивировано</a> 13 апреля 2018 года.</small></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><span class="citation"><i>Gordon D. M.</i> <a class="external text" href="http://epubs.siam.org/doi/pdf/10.1137/0406010" rel="nofollow">Discrete Logarithms in GF(p) Using the Number Field Sieve</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small> // SIAM Journal on Discrete Mathematics. — 1993. — <span class="nowrap">Vol. 6</span>, <span class="nowrap">iss. 1</span>. — <span class="nowrap">P. 124—138</span>. — <a class="mw-redirect" href="/wiki/Doi" title="Doi">doi</a>:<a class="external text" href="https://dx.doi.org/10.1137%2F0406010" rel="nofollow">10.1137/0406010</a>.</span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><span class="citation"><i>Coppersmith D.</i> <a class="external text" href="https://link.springer.com/article/10.1007/BF00198464" rel="nofollow">Modifications to the Number Field Sieve</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small> // Journal of Cryptology. — 1993. — <span class="nowrap">Vol. 6</span>, <span class="nowrap">iss. 3</span>. — <span class="nowrap">P. 169—180</span>. — <a class="mw-redirect" href="/wiki/Doi" title="Doi">doi</a>:<a class="external text" href="https://dx.doi.org/10.1007%2FBF00198464" rel="nofollow">10.1007/BF00198464</a>. <small><a class="external text" href="https://web.archive.org/web/20180619043257/https://link.springer.com/article/10.1007%2FBF00198464" rel="nofollow">Архивировано</a> 19 июня 2018 года.</small></span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><span class="citation"><i>Coppersmith D.</i> <a class="external text" href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=1056941" rel="nofollow">Fast evaluation of logarithms in fields of characteristic two</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small> // IEEE Transactions on Information Theory. — 1984. — <span class="nowrap">Vol. 30</span>, <span class="nowrap">iss. 4</span>. — <span class="nowrap">P. 587—594</span>. — <a class="mw-redirect" href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D0%BD%D1%8B%D0%B9_%D1%81%D0%B5%D1%80%D0%B8%D0%B9%D0%BD%D1%8B%D0%B9_%D0%BD%D0%BE%D0%BC%D0%B5%D1%80" title="Международный стандартный серийный номер">ISSN</a> <a class="external text" href="//www.worldcat.org/search?fq=x0:jrnl&amp;q=n2:0018-9448" rel="nofollow">0018-9448</a>. — <a class="mw-redirect" href="/wiki/Doi" title="Doi">doi</a>:<a class="external text" href="https://dx.doi.org/10.1109%2FTIT.1984.1056941" rel="nofollow">10.1109/TIT.1984.1056941</a>.</span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><span class="citation"><i>Menezes A. J., Okamoto T., Vanstone S. A.</i> <a class="external text" href="http://ieeexplore.ieee.org/document/259647/" rel="nofollow">Reducing elliptic curve logarithms to logarithms in a finite field</a> // IEEE Transactions on Information Theory. — 1993. — <span class="nowrap">Т. 39</span>, <span class="nowrap">вып. 5</span>. — <span class="nowrap">С. 1639—1646</span>. — <a class="mw-redirect" href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D0%BD%D1%8B%D0%B9_%D1%81%D0%B5%D1%80%D0%B8%D0%B9%D0%BD%D1%8B%D0%B9_%D0%BD%D0%BE%D0%BC%D0%B5%D1%80" title="Международный стандартный серийный номер">ISSN</a> <a class="external text" href="//www.worldcat.org/search?fq=x0:jrnl&amp;q=n2:0018-9448" rel="nofollow">0018-9448</a>. — <a class="mw-redirect" href="/wiki/Doi" title="Doi">doi</a>:<a class="external text" href="https://dx.doi.org/10.1109%2F18.259647" rel="nofollow">10.1109/18.259647</a>. <small><a class="external text" href="https://web.archive.org/web/20170702153820/http://ieeexplore.ieee.org/document/259647/" rel="nofollow">Архивировано</a> 2 июля 2017 года.</small></span></span>
+</li>
+<li id="cite_note-_08b07f1facd8ea80-10"><span class="mw-cite-backlink"><a href="#cite_ref-_08b07f1facd8ea80_10-0">↑</a></span> <span class="reference-text"><a href="#CITEREFDiffie,_Hellman1976">Diffie, Hellman, 1976</a>.</span>
+</li>
+<li id="cite_note-_1e0a99d83fe29b44-11"><span class="mw-cite-backlink"><a href="#cite_ref-_1e0a99d83fe29b44_11-0">↑</a></span> <span class="reference-text"><a href="#CITEREFElgamal1984">Elgamal, 1984</a>.</span>
+</li>
+<li id="cite_note-_9096049fb2527be9-12"><span class="mw-cite-backlink"><a href="#cite_ref-_9096049fb2527be9_12-0">↑</a></span> <span class="reference-text"><a href="#CITEREFElgamal1985">Elgamal, 1985</a>.</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><span class="citation"><i>Massey J. L., Omura J. K.</i> <span lang="und"><a class="external text" href="http://www.google.com/patents/US4567600" rel="nofollow">Method and apparatus for maintaining the privacy of digital messages conveyed by public transmission</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span> (28 января 1986). <a class="external text" href="https://web.archive.org/web/20161020090625/http://www.google.com/patents/US4567600" rel="nofollow">Архивировано</a> 20 октября 2016 года.</span></span>
+</li>
+<li id="cite_note-_2fbb03e82ec651aa-14"><span class="mw-cite-backlink"><a href="#cite_ref-_2fbb03e82ec651aa_14-0">↑</a></span> <span class="reference-text"><a href="#CITEREFShor1994">Shor, 1994</a>.</span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text"><span class="citation" id="CITEREFShor1997"><i><a href="/wiki/%D0%A8%D0%BE%D1%80,_%D0%9F%D0%B8%D1%82%D0%B5%D1%80" title="Шор, Питер">Shor P. W.</a></i> Polynomial-Time Algorithms for Prime Factorization and Discrete Logarithms on a Quantum Computer // Foundations of Computer Science : Conference Publications. — 1997. — P. 1484–1509.</span></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text"><a class="external text" href="https://web.archive.org/web/20160304095739/http://cs.mipt.ru/docs/comp/rus/develop/other/quantum_comp" rel="nofollow">CompuTerra Online #224 — Квантовые компьютеры и квантовые вычисления… Беседа с кандидатом физико-математических наук, специалистом по теории алгоритмов Михаилом Вялым (Вычислительный центр РАН)</a></span>
+</li>
+</ol></div></div>
+<h2><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span><span class="mw-headline" id="Ссылки">Ссылки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%94%D0%B8%D1%81%D0%BA%D1%80%D0%B5%D1%82%D0%BD%D0%BE%D0%B5_%D0%BB%D0%BE%D0%B3%D0%B0%D1%80%D0%B8%D1%84%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;veaction=edit&amp;section=12" title="Редактировать раздел «Ссылки»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%94%D0%B8%D1%81%D0%BA%D1%80%D0%B5%D1%82%D0%BD%D0%BE%D0%B5_%D0%BB%D0%BE%D0%B3%D0%B0%D1%80%D0%B8%D1%84%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;action=edit&amp;section=12" title="Редактировать код раздела «Ссылки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="citation" id="CITEREFDiffie,_Hellman1976"><span class="wikidata_cite citetype_Q13442814" data-entity-id="Q27178858"><i class="wef_low_priority_links"><a href="/wiki/%D0%94%D0%B8%D1%84%D1%84%D0%B8,_%D0%A3%D0%B8%D1%82%D1%84%D0%B8%D0%BB%D0%B4" title="Диффи, Уитфилд">Diffie W.</a>, <a href="/wiki/%D0%A5%D0%B5%D0%BB%D0%BB%D0%BC%D0%B0%D0%BD,_%D0%9C%D0%B0%D1%80%D1%82%D0%B8%D0%BD" title="Хеллман, Мартин">Hellman M. E.</a></i> <a class="external text" href="https://www-ee.stanford.edu/~hellman/publications/24.pdf" rel="nofollow">New Directions in Cryptography</a> <span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span> // <i><a class="extiw" href="https://en.wikipedia.org/wiki/IEEE_Transactions_on_Information_Theory" title="en:IEEE Transactions on Information Theory">IEEE Transactions on Information Theory</a></i><span class="wef_low_priority_links"> / <a class="extiw" href="https://en.wikipedia.org/wiki/Frank_Kschischang" title="en:Frank Kschischang">F. Kschischang</a> — <a href="/wiki/%D0%98%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82_%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%BE%D0%B2_%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B8_%D0%B8_%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8" title="Институт инженеров электротехники и электроники">IEEE</a>, 1976. — Vol. 22, Iss. 6. — P. 644—654. — ISSN <a class="external text" href="https://www.worldcat.org/issn/0018-9448" rel="nofollow">0018-9448</a>; <a class="external text" href="https://www.worldcat.org/issn/1557-9654" rel="nofollow">1557-9654</a> — <a class="external text" href="https://dx.doi.org/10.1109/TIT.1976.1055638" rel="nofollow">doi:10.1109/TIT.1976.1055638</a></span></span></span></li>
+<li><span class="citation" id="CITEREFElgamal1984"><span class="wikidata_cite citetype_Q191067 citetype_Q23927052" data-entity-id="Q52601238"><i class="wef_low_priority_links"><a href="/wiki/%D0%A2%D0%B0%D1%85%D0%B5%D1%80_%D0%AD%D0%BB%D1%8C-%D0%93%D0%B0%D0%BC%D0%B0%D0%BB%D1%8C" title="Тахер Эль-Гамаль">Elgamal T.</a></i> <a class="external text" href="http://caislab.kaist.ac.kr/lecture/2010/spring/cs548/basic/B02.pdf" rel="nofollow">A Public-Key Cryptosystem and a Signature Scheme Based on Discrete Logarithms, A Public Key Cryptosystem and a Signature Scheme Based on Discrete Logarithms</a> <span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span> // <i><a class="extiw" href="https://en.wikipedia.org/wiki/IEEE_Transactions_on_Information_Theory" title="en:IEEE Transactions on Information Theory">IEEE Transactions on Information Theory</a></i><span class="wef_low_priority_links"> / <a class="extiw" href="https://en.wikipedia.org/wiki/Frank_Kschischang" title="en:Frank Kschischang">F. Kschischang</a> — <a href="/wiki/%D0%98%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82_%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%BE%D0%B2_%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B8_%D0%B8_%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8" title="Институт инженеров электротехники и электроники">IEEE</a>, 1985. — P. 10—18. — ISSN <a class="external text" href="https://www.worldcat.org/issn/0018-9448" rel="nofollow">0018-9448</a>; <a class="external text" href="https://www.worldcat.org/issn/1557-9654" rel="nofollow">1557-9654</a> — <a class="external text" href="https://dx.doi.org/10.1109/TIT.1985.1057074" rel="nofollow">doi:10.1109/TIT.1985.1057074</a>; <a class="external text" href="https://dx.doi.org/10.1007/3-540-39568-7_2" rel="nofollow">doi:10.1007/3-540-39568-7_2</a></span></span></span></li>
+<li><span class="citation" id="CITEREFElgamal1985"><span class="wikidata_cite citetype_Q191067 citetype_Q23927052" data-entity-id="Q52600627"><i class="wef_low_priority_links"><a href="/wiki/%D0%A2%D0%B0%D1%85%D0%B5%D1%80_%D0%AD%D0%BB%D1%8C-%D0%93%D0%B0%D0%BC%D0%B0%D0%BB%D1%8C" title="Тахер Эль-Гамаль">Elgamal T.</a></i> <a class="external text" href="http://caislab.kaist.ac.kr/lecture/2010/spring/cs548/basic/B02.pdf" rel="nofollow">A Public-Key Cryptosystem and a Signature Scheme Based on Discrete Logarithms, A Public Key Cryptosystem and a Signature Scheme Based on Discrete Logarithms</a> <span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span> // <i><a class="extiw" href="https://en.wikipedia.org/wiki/IEEE_Transactions_on_Information_Theory" title="en:IEEE Transactions on Information Theory">IEEE Transactions on Information Theory</a></i><span class="wef_low_priority_links"> / <a class="extiw" href="https://en.wikipedia.org/wiki/Frank_Kschischang" title="en:Frank Kschischang">F. Kschischang</a> — <a href="/wiki/%D0%98%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82_%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%BE%D0%B2_%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B8_%D0%B8_%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8" title="Институт инженеров электротехники и электроники">IEEE</a>, 1985. — P. 10—18. — ISSN <a class="external text" href="https://www.worldcat.org/issn/0018-9448" rel="nofollow">0018-9448</a>; <a class="external text" href="https://www.worldcat.org/issn/1557-9654" rel="nofollow">1557-9654</a> — <a class="external text" href="https://dx.doi.org/10.1109/TIT.1985.1057074" rel="nofollow">doi:10.1109/TIT.1985.1057074</a>; <a class="external text" href="https://dx.doi.org/10.1007/3-540-39568-7_2" rel="nofollow">doi:10.1007/3-540-39568-7_2</a></span></span></span></li>
+<li><span class="citation" id="CITEREFShor1994"><span class="wikidata_cite citetype_Q191067" data-entity-id="Q42308003"><i class="wef_low_priority_links"><a href="/wiki/%D0%A8%D0%BE%D1%80,_%D0%9F%D0%B8%D1%82%D0%B5%D1%80" title="Шор, Питер">Shor P.</a></i> <a class="external text" href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.53.4485&amp;rep=rep1&amp;type=pdf" rel="nofollow">Algorithms for Quantum Computation: Discrete Logarithms and Factoring</a> <span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span> // <i><a class="extiw" href="https://www.wikidata.org/wiki/Q42308002" title="d:Q42308002">Foundations of Computer Science, 1994 Proceedings., 35th Annual Symposium on</a></i><span class="wef_low_priority_links"> — <a href="/wiki/%D0%98%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82_%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%BE%D0%B2_%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B8_%D0%B8_%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8" title="Институт инженеров электротехники и электроники">IEEE</a>, 1994. — P. 124–134. — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/0818665807">ISBN 0-8186-6580-7</a> — <a class="external text" href="https://dx.doi.org/10.1109/SFCS.1994.365700" rel="nofollow">doi:10.1109/SFCS.1994.365700</a></span></span></span></li>
+<li><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>Василенко О. Н.</i> <a class="external text" href="http://www.ict.edu.ru/ft/002416/book.pdf" rel="nofollow">Теоретико-числовые алгоритмы в криптографии</a>. — Москва: <a class="mw-redirect" href="/wiki/%D0%9C%D0%A6%D0%9D%D0%9C%D0%9E" title="МЦНМО">МЦНМО</a>, 2003. — 328 с. — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/5940571034">ISBN 5-94057-103-4</a>.</span> <a class="external text" href="https://web.archive.org/web/20070127053816/http://www.ict.edu.ru/ft/002416/book.pdf" rel="nofollow">Архивная копия</a> от 27 января 2007 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></li>
+<li><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>Коблиц Н.</i> Курс теории чисел и криптографии. — Москва: ТВПб, 2001. — 254 с. — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/5854840146">ISBN 5-85484-014-6</a>.</span></li>
+<li><span class="citation"><i>Odlyzko A. M.</i> <a class="external text" href="http://www.dtc.umn.edu/~odlyzko/doc/arch/discrete.logs.pdf" rel="nofollow">Discrete logarithms in finite fields and their cryptographic significance</a> // <span data-interwiki-article="Lecture Notes in Computer Science" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=Lecture_Notes_in_Computer_Science&amp;action=edit&amp;redlink=1" title="Lecture Notes in Computer Science (страница отсутствует)">LNCS</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://en.wikipedia.org/wiki/Lecture_Notes_in_Computer_Science" title="en:Lecture Notes in Computer Science"><span title="Lecture Notes in Computer Science — версия статьи «Lecture Notes in Computer Science» на английском языке">[en]</span></a></sup></span>. — 1984. — <span class="nowrap">Т. 209</span>. — <span class="nowrap">С. 224—316</span>.</span></li>
+<li><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>Нестеренко Ю. В.</i> <span data-wikidata-qualifier-id="P248"><a class="external text" href="http://nature.web.ru/db/msg.html?mid=1157083&amp;uri=node36.html" rel="nofollow">Глава 4.8. Дискретное логарифмирование</a></span> // <a class="external text" href="http://nature.web.ru/db/msg.html?mid=1157083&amp;uri=book.html" rel="nofollow">Введение в криптографию</a> / Под ред. В. В. Ященко. — Питер, 2001. — 288 с. — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/5318004431">ISBN 5-318-00443-1</a>.</span></li>
+<li><a class="external text" href="http://www.cs.toronto.edu/~cvs/dlog/research_paper.pdf" rel="nofollow">Обзор методов вычисления дискретного логарифма</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><span class="citation"><i>Нечаев В.И.</i> <a class="external text" href="https://www.mathnet.ru/links/0706c819aa4f5736579c70e93afb6c45/mzm2145.pdf" rel="nofollow">К вопросу о сложности детерминированного алгоритма для дискретного логарифма</a> // <a href="/wiki/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%B7%D0%B0%D0%BC%D0%B5%D1%82%D0%BA%D0%B8" title="Математические заметки">Математические заметки</a>. — 1994. — Февраль (<span class="nowrap">т. 55</span>, <span class="nowrap">вып. 2</span>). — <span class="nowrap">С. 91—101</span>.</span></li></ul>
+<div aria-labelledby="Ссылки_на_внешние_ресурсы" class="navbox" data-name="External links" role="navigation" style="padding-top:1px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup" style="display:none"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:External_links" title="Перейти к шаблону «External links»"><img alt="Перейти к шаблону «External links»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span></span><div id="Ссылки_на_внешние_ресурсы" style="font-size:114%;margin:0 5em">Ссылки на внешние ресурсы</div></th></tr><tr><th class="navbox-group" scope="row" style="width:1px"><div style="padding: 0 35px 0 0; width: 100%;"><div style="float: left;"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8" title="Перейти к шаблону «Внешние ссылки»"><img alt="Перейти к шаблону «Внешние ссылки»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span>  <span typeof="mw:File"><a href="https://www.wikidata.org/wiki/Q864003#identifiers" title="Перейти к элементу Викиданных"><img alt="Перейти к элементу Викиданных" class="mw-file-element" data-file-height="20" data-file-width="20" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/14px-OOjs_UI_icon_edit-ltr-progressive.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/21px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/28px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" width="14"/></a></span></div>  Тематические сайты</div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="external text" href="https://mathworld.wolfram.com/DiscreteLogarithm.html" rel="nofollow">MathWorld</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Словари и энциклопедии</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="external text" href="https://old.bigenc.ru/text/2008259" rel="nofollow">Большая российская (старая версия)</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐7bc865cbcb‐nmfjl
+Cached time: 20240224154419
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.567 seconds
+Real time usage: 0.907 seconds
+Preprocessor visited node count: 10956/1000000
+Post‐expand include size: 56423/2097152 bytes
+Template argument size: 14607/2097152 bytes
+Highest expansion depth: 17/100
+Expensive parser function count: 5/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 25422/5000000 bytes
+Lua time usage: 0.227/10.000 seconds
+Lua memory usage: 3938376/52428800 bytes
+Number of Wikibase entities loaded: 12/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  683.176      1 -total
+ 41.27%  281.949      4 Шаблон:Source
+ 23.60%  161.206      1 Шаблон:Примечания
+ 23.56%  160.943     12 Шаблон:Статья
+ 10.57%   72.185     29 Шаблон:Бсокр
+  9.01%   61.555      1 Шаблон:Внешние_ссылки
+  6.36%   43.433      3 Шаблон:Книга
+  5.21%   35.571     29 Шаблон:Nobr
+  4.08%   27.864      4 Шаблон:Sfn
+  3.15%   21.534      4 Шаблон:EF
+-->
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:648580-0!canonical and timestamp 20240224154419 and revision id 132373763. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> -->
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Дискретное_логарифмирование&amp;oldid=132373763">https://ru.wikipedia.org/w/index.php?title=Дискретное_логарифмирование&amp;oldid=132373763</a></div></div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A2%D0%B5%D0%BE%D1%80%D0%B8%D1%8F_%D1%87%D0%B8%D1%81%D0%B5%D0%BB" title="Категория:Теория чисел">Теория чисел</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A2%D0%B5%D0%BE%D1%80%D0%B8%D1%8F_%D0%B3%D1%80%D1%83%D0%BF%D0%BF" title="Категория:Теория групп">Теория групп</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D1%80%D0%B8%D0%BF%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F" title="Категория:Криптография">Криптография</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%BE%D0%B3%D0%B0%D1%80%D0%B8%D1%84%D0%BC%D1%8B" title="Категория:Логарифмы">Логарифмы</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%94%D0%BE%D0%BF%D1%83%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE_%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9_%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8" title="Категория:Допущения о вычислительной сложности">Допущения о вычислительной сложности</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%BD%D0%B5_%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD_%D1%8F%D0%B7%D1%8B%D0%BA)" title="Категория:Википедия:Cite web (не указан язык)">Википедия:Cite web (не указан язык)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B,_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D0%B2%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_ISBN" title="Категория:Страницы, использующие волшебные ссылки ISBN">Страницы, использующие волшебные ссылки ISBN</a></li></ul></div></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Навигация</h2>
+<div id="mw-head">
+<nav aria-labelledby="p-personal-label" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" id="p-personal" role="navigation">
+<h3 class="vector-menu-heading" id="p-personal-label">
+<span class="vector-menu-heading-label">Персональные инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="pt-anonuserpage"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li class="mw-list-item" id="pt-anontalk"><a accesskey="n" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]"><span>Обсуждение</span></a></li><li class="mw-list-item" id="pt-anoncontribs"><a accesskey="y" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]"><span>Вклад</span></a></li><li class="mw-list-item" id="pt-createaccount"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%94%D0%B8%D1%81%D0%BA%D1%80%D0%B5%D1%82%D0%BD%D0%BE%D0%B5+%D0%BB%D0%BE%D0%B3%D0%B0%D1%80%D0%B8%D1%84%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li class="mw-list-item" id="pt-login"><a accesskey="o" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%94%D0%B8%D1%81%D0%BA%D1%80%D0%B5%D1%82%D0%BD%D0%BE%D0%B5+%D0%BB%D0%BE%D0%B3%D0%B0%D1%80%D0%B8%D1%84%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]"><span>Войти</span></a></li>
+</ul>
+</div>
+</nav>
+<div id="left-navigation">
+<nav aria-labelledby="p-namespaces-label" class="mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-namespaces" role="navigation">
+<h3 class="vector-menu-heading" id="p-namespaces-label">
+<span class="vector-menu-heading-label">Пространства имён</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-nstab-main"><a accesskey="c" href="/wiki/%D0%94%D0%B8%D1%81%D0%BA%D1%80%D0%B5%D1%82%D0%BD%D0%BE%D0%B5_%D0%BB%D0%BE%D0%B3%D0%B0%D1%80%D0%B8%D1%84%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" title="Просмотреть контентную страницу [c]"><span>Статья</span></a></li><li class="mw-list-item" id="ca-talk"><a accesskey="t" href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%94%D0%B8%D1%81%D0%BA%D1%80%D0%B5%D1%82%D0%BD%D0%BE%D0%B5_%D0%BB%D0%BE%D0%B3%D0%B0%D1%80%D0%B8%D1%84%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" rel="discussion" title="Обсуждение основной страницы [t]"><span>Обсуждение</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-variants-label" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" id="p-variants" role="navigation">
+<input aria-haspopup="true" aria-labelledby="p-variants-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-variants" id="p-variants-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-variants-label">
+<span class="vector-menu-heading-label">русский</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+</div>
+<div id="right-navigation">
+<nav aria-labelledby="p-views-label" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-views" role="navigation">
+<h3 class="vector-menu-heading" id="p-views-label">
+<span class="vector-menu-heading-label">Просмотры</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-view"><a href="/wiki/%D0%94%D0%B8%D1%81%D0%BA%D1%80%D0%B5%D1%82%D0%BD%D0%BE%D0%B5_%D0%BB%D0%BE%D0%B3%D0%B0%D1%80%D0%B8%D1%84%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5"><span>Читать</span></a></li><li class="mw-list-item" id="ca-ve-edit"><a accesskey="v" href="/w/index.php?title=%D0%94%D0%B8%D1%81%D0%BA%D1%80%D0%B5%D1%82%D0%BD%D0%BE%D0%B5_%D0%BB%D0%BE%D0%B3%D0%B0%D1%80%D0%B8%D1%84%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;veaction=edit" title="Редактировать данную страницу [v]"><span>Править</span></a></li><li class="collapsible mw-list-item" id="ca-edit"><a accesskey="e" href="/w/index.php?title=%D0%94%D0%B8%D1%81%D0%BA%D1%80%D0%B5%D1%82%D0%BD%D0%BE%D0%B5_%D0%BB%D0%BE%D0%B3%D0%B0%D1%80%D0%B8%D1%84%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;action=edit" title="Править исходный текст этой страницы [e]"><span>Править код</span></a></li><li class="mw-list-item" id="ca-history"><a accesskey="h" href="/w/index.php?title=%D0%94%D0%B8%D1%81%D0%BA%D1%80%D0%B5%D1%82%D0%BD%D0%BE%D0%B5_%D0%BB%D0%BE%D0%B3%D0%B0%D1%80%D0%B8%D1%84%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;action=history" title="Журнал изменений страницы [h]"><span>История</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-cactions-label" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" id="p-cactions" role="navigation" title="Больше возможностей">
+<input aria-haspopup="true" aria-labelledby="p-cactions-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-cactions" id="p-cactions-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-cactions-label">
+<span class="vector-menu-heading-label">Ещё</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+<div class="vector-search-box-vue vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box" id="p-search" role="search">
+<h3>Поиск</h3>
+<form action="/w/index.php" class="vector-search-box-form" id="searchform">
+<div class="vector-search-box-inner" data-search-loc="header-navigation" id="simpleSearch">
+<input accesskey="f" aria-label="Искать в Википедии" autocapitalize="sentences" class="vector-search-box-input" id="searchInput" name="search" placeholder="Искать в Википедии" title="Искать в Википедии [f]" type="search"/>
+<input name="title" type="hidden" value="Служебная:Поиск"/>
+<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Найти страницы, содержащие указанный текст" type="submit" value="Найти"/>
+<input class="searchButton" id="searchButton" name="go" title="Перейти к странице, имеющей в точности такое название" type="submit" value="Перейти"/>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="vector-legacy-sidebar" id="mw-panel">
+<div id="p-logo" role="banner">
+<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу"></a>
+</div>
+<nav aria-labelledby="p-navigation-label" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" id="p-navigation" role="navigation">
+<h3 class="vector-menu-heading" id="p-navigation-label">
+<span class="vector-menu-heading-label">Навигация</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-mainpage-description"><a accesskey="z" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]"><span>Заглавная страница</span></a></li><li class="mw-list-item" id="n-content"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li class="mw-list-item" id="n-featured"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li class="mw-list-item" id="n-randompage"><a accesskey="x" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]"><span>Случайная статья</span></a></li><li class="mw-list-item" id="n-currentevents"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li class="mw-list-item" id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-participation-label" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" id="p-participation" role="navigation">
+<h3 class="vector-menu-heading" id="p-participation-label">
+<span class="vector-menu-heading-label">Участие</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-bug_in_article"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li class="mw-list-item" id="n-introduction"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li class="mw-list-item" id="n-portal"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li class="mw-list-item" id="n-forum"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li class="mw-list-item" id="n-recentchanges"><a accesskey="r" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]"><span>Свежие правки</span></a></li><li class="mw-list-item" id="n-newpages"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li class="mw-list-item" id="n-help"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-tb-label" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" id="p-tb" role="navigation">
+<h3 class="vector-menu-heading" id="p-tb-label">
+<span class="vector-menu-heading-label">Инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="t-whatlinkshere"><a accesskey="j" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%94%D0%B8%D1%81%D0%BA%D1%80%D0%B5%D1%82%D0%BD%D0%BE%D0%B5_%D0%BB%D0%BE%D0%B3%D0%B0%D1%80%D0%B8%D1%84%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" title="Список всех страниц, ссылающихся на данную [j]"><span>Ссылки сюда</span></a></li><li class="mw-list-item" id="t-recentchangeslinked"><a accesskey="k" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%94%D0%B8%D1%81%D0%BA%D1%80%D0%B5%D1%82%D0%BD%D0%BE%D0%B5_%D0%BB%D0%BE%D0%B3%D0%B0%D1%80%D0%B8%D1%84%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]"><span>Связанные правки</span></a></li><li class="mw-list-item" id="t-specialpages"><a accesskey="q" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]"><span>Служебные страницы</span></a></li><li class="mw-list-item" id="t-permalink"><a href="/w/index.php?title=%D0%94%D0%B8%D1%81%D0%BA%D1%80%D0%B5%D1%82%D0%BD%D0%BE%D0%B5_%D0%BB%D0%BE%D0%B3%D0%B0%D1%80%D0%B8%D1%84%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;oldid=132373763" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li class="mw-list-item" id="t-info"><a href="/w/index.php?title=%D0%94%D0%B8%D1%81%D0%BA%D1%80%D0%B5%D1%82%D0%BD%D0%BE%D0%B5_%D0%BB%D0%BE%D0%B3%D0%B0%D1%80%D0%B8%D1%84%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li class="mw-list-item" id="t-cite"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%94%D0%B8%D1%81%D0%BA%D1%80%D0%B5%D1%82%D0%BD%D0%BE%D0%B5_%D0%BB%D0%BE%D0%B3%D0%B0%D1%80%D0%B8%D1%84%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;id=132373763&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li class="mw-list-item" id="t-urlshortener"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%2594%25D0%25B8%25D1%2581%25D0%25BA%25D1%2580%25D0%25B5%25D1%2582%25D0%25BD%25D0%25BE%25D0%25B5_%25D0%25BB%25D0%25BE%25D0%25B3%25D0%25B0%25D1%2580%25D0%25B8%25D1%2584%25D0%25BC%25D0%25B8%25D1%2580%25D0%25BE%25D0%25B2%25D0%25B0%25D0%25BD%25D0%25B8%25D0%25B5"><span>Получить короткий URL</span></a></li><li class="mw-list-item" id="t-urlshortener-qrcode"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%2594%25D0%25B8%25D1%2581%25D0%25BA%25D1%2580%25D0%25B5%25D1%2582%25D0%25BD%25D0%25BE%25D0%25B5_%25D0%25BB%25D0%25BE%25D0%25B3%25D0%25B0%25D1%2580%25D0%25B8%25D1%2584%25D0%25BC%25D0%25B8%25D1%2580%25D0%25BE%25D0%25B2%25D0%25B0%25D0%25BD%25D0%25B8%25D0%25B5"><span>Скачать QR-код</span></a></li><li class="mw-list-item" id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q864003" title="Ссылка на связанный элемент репозитория данных [g]"><span>Элемент Викиданных</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-coll-print_export-label" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" id="p-coll-print_export" role="navigation">
+<h3 class="vector-menu-heading" id="p-coll-print_export-label">
+<span class="vector-menu-heading-label">Печать/экспорт</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="coll-download-as-rl"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%94%D0%B8%D1%81%D0%BA%D1%80%D0%B5%D1%82%D0%BD%D0%BE%D0%B5_%D0%BB%D0%BE%D0%B3%D0%B0%D1%80%D0%B8%D1%84%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li class="mw-list-item" id="t-print"><a accesskey="p" href="/w/index.php?title=%D0%94%D0%B8%D1%81%D0%BA%D1%80%D0%B5%D1%82%D0%BD%D0%BE%D0%B5_%D0%BB%D0%BE%D0%B3%D0%B0%D1%80%D0%B8%D1%84%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;printable=yes" title="Версия этой страницы для печати [p]"><span>Версия для печати</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-lang-label" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" id="p-lang" role="navigation">
+<h3 class="vector-menu-heading" id="p-lang-label">
+<span class="vector-menu-heading-label">На других языках</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="interlanguage-link interwiki-bg mw-list-item"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%94%D0%B8%D1%81%D0%BA%D1%80%D0%B5%D1%82%D0%B5%D0%BD_%D0%BB%D0%BE%D0%B3%D0%B0%D1%80%D0%B8%D1%82%D1%8A%D0%BC" hreflang="bg" lang="bg" title="Дискретен логаритъм — болгарский"><span>Български</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Logaritme_discret" hreflang="ca" lang="ca" title="Logaritme discret — каталанский"><span>Català</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Diskr%C3%A9tn%C3%AD_logaritmus" hreflang="cs" lang="cs" title="Diskrétní logaritmus — чешский"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Diskreter_Logarithmus" hreflang="de" lang="de" title="Diskreter Logarithmus — немецкий"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a class="interlanguage-link-target" href="https://en.wikipedia.org/wiki/Discrete_logarithm" hreflang="en" lang="en" title="Discrete logarithm — английский"><span>English</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Diskreta_logaritmo" hreflang="eo" lang="eo" title="Diskreta logaritmo — эсперанто"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Logaritmo_discreto" hreflang="es" lang="es" title="Logaritmo discreto — испанский"><span>Español</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%84%DA%AF%D8%A7%D8%B1%DB%8C%D8%AA%D9%85_%DA%AF%D8%B3%D8%B3%D8%AA%D9%87" hreflang="fa" lang="fa" title="لگاریتم گسسته — персидский"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Logarithme_discret" hreflang="fr" lang="fr" title="Logarithme discret — французский"><span>Français</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%91%D7%A2%D7%99%D7%99%D7%AA_%D7%94%D7%9C%D7%95%D7%92%D7%A8%D7%99%D7%AA%D7%9D_%D7%94%D7%91%D7%93%D7%99%D7%93" hreflang="he" lang="he" title="בעיית הלוגריתם הבדיד — иврит"><span>עברית</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Logaritma_diskret" hreflang="id" lang="id" title="Logaritma diskret — индонезийский"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Logaritmo_discreto" hreflang="it" lang="it" title="Logaritmo discreto — итальянский"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E9%9B%A2%E6%95%A3%E5%AF%BE%E6%95%B0" hreflang="ja" lang="ja" title="離散対数 — японский"><span>日本語</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%82%B0_%EB%A1%9C%EA%B7%B8" hreflang="ko" lang="ko" title="이산 로그 — корейский"><span>한국어</span></a></li><li class="interlanguage-link interwiki-lmo mw-list-item"><a class="interlanguage-link-target" href="https://lmo.wikipedia.org/wiki/Logaritm_discrett" hreflang="lmo" lang="lmo" title="Logaritm discrett — Lombard"><span>Lombard</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Discrete_logaritme" hreflang="nl" lang="nl" title="Discrete logaritme — нидерландский"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Logarytm_dyskretny" hreflang="pl" lang="pl" title="Logarytm dyskretny — польский"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Logaritmo_discreto" hreflang="pt" lang="pt" title="Logaritmo discreto — португальский"><span>Português</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Logaritm_discret" hreflang="ro" lang="ro" title="Logaritm discret — румынский"><span>Română</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Ayr%C4%B1k_logaritma" hreflang="tr" lang="tr" title="Ayrık logaritma — турецкий"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%94%D0%B8%D1%81%D0%BA%D1%80%D0%B5%D1%82%D0%BD%D0%B8%D0%B9_%D0%BB%D0%BE%D0%B3%D0%B0%D1%80%D0%B8%D1%84%D0%BC" hreflang="uk" lang="uk" title="Дискретний логарифм — украинский"><span>Українська</span></a></li><li class="interlanguage-link interwiki-ur mw-list-item"><a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%D9%85%D8%AA%D9%81%D8%B1%D8%AF_%D9%84%D8%A7%DA%AF%D8%B1%D8%AA%DA%BE%D9%85" hreflang="ur" lang="ur" title="متفرد لاگرتھم — урду"><span>اردو</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/L%C3%B4garit_r%E1%BB%9Di_r%E1%BA%A1c" hreflang="vi" lang="vi" title="Lôgarit rời rạc — вьетнамский"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E7%A6%BB%E6%95%A3%E5%AF%B9%E6%95%B0" hreflang="zh" lang="zh" title="离散对数 — китайский"><span>中文</span></a></li>
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q864003#sitelinks-wikipedia" title="Править ссылки на другие языки">Править ссылки</a></span></div>
+</div>
+</nav>
+</div>
+</div>
+<footer class="mw-footer" id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 15 августа 2023 в 14:14.</li>
+<li id="footer-info-copyright">Текст доступен по <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru" rel="license">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a><a href="//creativecommons.org/licenses/by-sa/4.0/" rel="license" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br/>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org/ru/">Фонд Викимедиа (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//ru.m.wikipedia.org/w/index.php?title=%D0%94%D0%B8%D1%81%D0%BA%D1%80%D0%B5%D1%82%D0%BD%D0%BE%D0%B5_%D0%BB%D0%BE%D0%B3%D0%B0%D1%80%D0%B8%D1%84%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;mobileaction=toggle_view_mobile">Мобильная версия</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" loading="lazy" src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88"/></a></li>
+<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" loading="lazy" src="/static/images/footer/poweredby_mediawiki_88x31.png" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88"/></a></li>
+</ul>
+</footer>
+
+
+</body>
+</html>

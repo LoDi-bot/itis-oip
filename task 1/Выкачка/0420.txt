@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="ru">
+<head>
+<meta charset="utf-8"/>
+<title>Hunt the Wumpus — Википедия</title>
+
+
+
+
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+
+
+<meta content="MediaWiki 1.42.0-wmf.19" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="max-image-preview:standard" name="robots"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="width=1000" name="viewport"/>
+<meta content="Hunt the Wumpus — Википедия" property="og:title"/>
+<meta content="website" property="og:type"/>
+
+
+
+
+
+
+
+
+
+
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Hunt_the_Wumpus rootpage-Hunt_the_Wumpus skin-vector action-view"><div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators">
+</div>
+<h1 class="firstHeading mw-first-heading" id="firstHeading"><span class="mw-page-title-main">Hunt the Wumpus</span></h1>
+<div class="vector-body" id="bodyContent">
+<div class="noprint" id="siteSub">Материал из Википедии — свободной энциклопедии</div>
+<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+<div id="contentSub2"></div>
+<div id="jump-to-nav"></div>
+<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+<div class="mw-body-content" id="mw-content-text"><div class="mw-content-ltr mw-parser-output" dir="ltr" lang="ru"><figure typeof="mw:File/Frame"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Wumpus.jpg"><img class="mw-file-element" data-file-height="145" data-file-width="101" decoding="async" height="145" src="//upload.wikimedia.org/wikipedia/ru/9/9f/Wumpus.jpg" width="101"/></a><figcaption>Так был изображён Вампус в 1976 году в статье Грегори Йоба — создателя этой игры</figcaption></figure>
+<p><b>Hunt the Wumpus</b> («Охота на Вампуса») — классическая текстовая <a href="/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0" title="Компьютерная игра">компьютерная игра</a>, написанная <span data-interwiki-article="Gregory Yob" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=%D0%99%D0%BE%D0%B1,_%D0%93%D1%80%D0%B5%D0%B3%D0%BE%D1%80%D0%B8&amp;action=edit&amp;redlink=1" title="Йоб, Грегори (страница отсутствует)">Грегори Йобом</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://en.wikipedia.org/wiki/Gregory_Yob" title="en:Gregory Yob"><span title="Gregory Yob — версия статьи «Йоб, Грегори» на английском языке">[en]</span></a></sup></span> в <a href="/wiki/1972_%D0%B3%D0%BE%D0%B4" title="1972 год">1972 году</a>. Цель этой игры заключалась в том, чтобы, путешествуя по лабиринту, найти Вампуса и застрелить его. Часто саму игру называют просто «Вампусом».
+</p><p>Вампус — фантастический большой и опасный монстр, обитающий в <a href="/wiki/%D0%9F%D0%B5%D1%89%D0%B5%D1%80%D0%B0" title="Пещера">пещерах</a>. Вампус источает отвратительный запах, имеет крайне чувствительный слух и питается людьми. Известно также, что Вампус очень тяжёл, ноги его имеют присоски, а сам он большую часть времени проводит в спячке<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup>.
+</p>
+<div aria-labelledby="mw-toc-heading" class="toc" id="toc" role="navigation"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="ru"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Суть_игры"><span class="tocnumber">1</span> <span class="toctext">Суть игры</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Мир_игры"><span class="tocnumber">1.1</span> <span class="toctext">Мир игры</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Цель"><span class="tocnumber">1.2</span> <span class="toctext">Цель</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Оружие"><span class="tocnumber">1.3</span> <span class="toctext">Оружие</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Опасности"><span class="tocnumber">1.4</span> <span class="toctext">Опасности</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Вампус"><span class="tocnumber">1.5</span> <span class="toctext">Вампус</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Особенности_игры"><span class="tocnumber">2</span> <span class="toctext">Особенности игры</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Пример_интерфейса"><span class="tocnumber">3</span> <span class="toctext">Пример интерфейса</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#См._также"><span class="tocnumber">4</span> <span class="toctext">См. также</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Примечания"><span class="tocnumber">5</span> <span class="toctext">Примечания</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Ссылки"><span class="tocnumber">6</span> <span class="toctext">Ссылки</span></a></li>
+</ul>
+</div>
+<h2><span id=".D0.A1.D1.83.D1.82.D1.8C_.D0.B8.D0.B3.D1.80.D1.8B"></span><span class="mw-headline" id="Суть_игры">Суть игры</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Hunt_the_Wumpus&amp;veaction=edit&amp;section=1" title="Редактировать раздел «Суть игры»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Hunt_the_Wumpus&amp;action=edit&amp;section=1" title="Редактировать код раздела «Суть игры»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Dodecahedron.png"><img class="mw-file-element" data-file-height="951" data-file-width="984" decoding="async" height="145" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Dodecahedron.png/150px-Dodecahedron.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Dodecahedron.png/225px-Dodecahedron.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/33/Dodecahedron.png/300px-Dodecahedron.png 2x" width="150"/></a><figcaption>Лабиринт игры «Hunt the Wumpus». Точки — это комнаты в пещере</figcaption></figure>
+<h3><span id=".D0.9C.D0.B8.D1.80_.D0.B8.D0.B3.D1.80.D1.8B"></span><span class="mw-headline" id="Мир_игры">Мир игры</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Hunt_the_Wumpus&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Мир игры»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Hunt_the_Wumpus&amp;action=edit&amp;section=2" title="Редактировать код раздела «Мир игры»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Мир «Hunt the Wumpus» — это пещера из 20 пронумерованных комнат, каждая из которых соединена тоннелями с тремя другими, т. е. пещера представляет собой расплющенный <a class="mw-redirect" href="/wiki/%D0%94%D0%BE%D0%B4%D0%B5%D0%BA%D0%B0%D1%8D%D0%B4%D1%80" title="Додекаэдр">додекаэдр</a> (в последующих версиях используются <a href="/wiki/%D0%A2%D0%BE%D0%BF%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Топология">топологии</a>, основанные на <a href="/wiki/%D0%98%D0%BA%D0%BE%D1%81%D0%B0%D1%8D%D0%B4%D1%80" title="Икосаэдр">икосаэдре</a>, <a class="mw-redirect" href="/wiki/%D0%9B%D0%B8%D1%81%D1%82_%D0%9C%D1%91%D0%B1%D0%B8%D1%83%D1%81%D0%B0" title="Лист Мёбиуса">листе Мёбиуса</a>, <a href="/wiki/%D0%9F%D1%87%D0%B5%D0%BB%D0%B8%D0%BD%D1%8B%D0%B5_%D1%81%D0%BE%D1%82%D1%8B" title="Пчелиные соты">пчелиных сотах</a> и др.)<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup>. В начале игры персонаж случайным образом оказывается в одной из комнат пещеры. За ход он может либо выстрелить в одну из трёх соседних комнат, либо перейти в какую-нибудь из них.
+</p>
+<h3><span id=".D0.A6.D0.B5.D0.BB.D1.8C"></span><span class="mw-headline" id="Цель">Цель</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Hunt_the_Wumpus&amp;veaction=edit&amp;section=3" title="Редактировать раздел «Цель»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Hunt_the_Wumpus&amp;action=edit&amp;section=3" title="Редактировать код раздела «Цель»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>В какой-то из комнат спит Вампус. Задача игрока — найти Вампуса и убить его. В некоторых поздних версиях игры игрок также собирал золото, которое встречалось в некоторых комнатах пещеры (каждая собранная порция золота давала 1000 очков, а 10 000 очков — дополнительную «жизнь» игроку)<sup class="ts-fix-template noprint">[<i><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D0%BD%D0%B0_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8" title="Википедия:Ссылки на источники"><span title="нет источника (5 сентября 2022)">источник не указан 541 день</span></a></i>]</sup>.
+</p>
+<h3><span id=".D0.9E.D1.80.D1.83.D0.B6.D0.B8.D0.B5"></span><span class="mw-headline" id="Оружие">Оружие</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Hunt_the_Wumpus&amp;veaction=edit&amp;section=4" title="Редактировать раздел «Оружие»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Hunt_the_Wumpus&amp;action=edit&amp;section=4" title="Редактировать код раздела «Оружие»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Игрок имеет <a href="/wiki/%D0%9B%D1%83%D0%BA_(%D0%BE%D1%80%D1%83%D0%B6%D0%B8%D0%B5)" title="Лук (оружие)">лук</a> с пятью <a href="/wiki/%D0%A1%D1%82%D1%80%D0%B5%D0%BB%D0%B0" title="Стрела">стрелами</a>. Для убийства Вампуса достаточно и одной стрелы. Если стрела попала в Вампуса, то игрок победил и игра окончена. В последующих версиях игры Вампус мог оказаться просто раненым, и при этом становился очень злым<sup class="ts-fix-template noprint">[<i><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D0%BD%D0%B0_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8" title="Википедия:Ссылки на источники"><span title="нет источника (5 сентября 2022)">источник не указан 541 день</span></a></i>]</sup>.
+</p><p>Стрелы у игрока не простые, а волшебные — они могут делать повороты во время полёта. Каждая стрела может пролететь 5 соседних комнат.
+</p><p>Путешествуя по лабиринту, игрок в ходе игры составляет представление о том, как связаны друг с другом комнаты в пещере. Стреляя, игрок должен указать номера комнат, через которые пролетит его стрела. Если он ошибётся с номерами комнат и, к примеру, укажет комнаты, не связанные общим тоннелем, то стрела начнёт летать по пещере случайным образом и может даже попасть в самого игрока. Если это произошло, то он проиграл.
+</p><p>Игрок проигрывает и в том случае, если он истратит все 5 стрел, но так и не убьёт Вампуса.
+</p>
+<h3><span id=".D0.9E.D0.BF.D0.B0.D1.81.D0.BD.D0.BE.D1.81.D1.82.D0.B8"></span><span class="mw-headline" id="Опасности">Опасности</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Hunt_the_Wumpus&amp;veaction=edit&amp;section=5" title="Редактировать раздел «Опасности»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Hunt_the_Wumpus&amp;action=edit&amp;section=5" title="Редактировать код раздела «Опасности»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Попав в какую-либо комнату, игрок мог почувствовать отвратительный <a href="/wiki/%D0%97%D0%B0%D0%BF%D0%B0%D1%85" title="Запах">запах</a>, услышать <a href="/wiki/%D0%A8%D1%83%D0%BC" title="Шум">шум</a> или почувствовать <a href="/wiki/%D0%A1%D0%BA%D0%B2%D0%BE%D0%B7%D0%BD%D1%8F%D0%BA" title="Сквозняк">сквозняк</a>.
+</p><p>Источником отвратительного запаха является спящий Вампус. Запах чувствуется, если Вампус находится в какой-то из соседних комнат.
+</p><p>Сквозняк и шум всегда доносятся из соседней комнаты, но неизвестно, из какой именно.
+</p><p>В комнатах, откуда идёт сквозняк, находятся бездонные ямы, попав в которые, игрок погибает и, соответственно, проигрывает. Из 20 комнат в пещере две имеют ямы.
+</p><p>В комнатах, откуда доносится шум (таких комнат в пещере тоже две), обитают гигантские <a class="mw-redirect" href="/wiki/%D0%9B%D0%B5%D1%82%D1%83%D1%87%D0%B0%D1%8F_%D0%BC%D1%8B%D1%88%D1%8C" title="Летучая мышь">летучие мыши</a> («super bats»). Если игрок зашёл в комнату к этим мышам, то они хватают его и случайным образом переносят в любую другую комнату в пещере. В том числе, не исключён вариант, что мыши перенесут игрока в комнату с ямой или сбросят его на голову Вампусу (впрочем, в некоторых поздних вариантах игры они это больше не делают). Также в ряде версий игры летучие мыши получили возможность мигрировать по пещере.
+</p><p>В последующих версиях игры, кроме колоний гигантских летучих мышей, бездонных ям и Вампуса, появились и другие опасности. В частности, «анаэробные <a href="/wiki/%D0%A2%D0%B5%D1%80%D0%BC%D0%B8%D1%82%D1%8B" title="Термиты">термиты</a>», которые съедали стрелы, и <a href="/wiki/%D0%97%D0%B5%D0%BC%D0%BB%D0%B5%D1%82%D1%80%D1%8F%D1%81%D0%B5%D0%BD%D0%B8%D0%B5" title="Землетрясение">землетрясения</a>, которые произвольным образом меняли расположение ям<sup class="ts-fix-template noprint">[<i><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D0%BD%D0%B0_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8" title="Википедия:Ссылки на источники"><span title="нет источника (5 сентября 2022)">источник не указан 541 день</span></a></i>]</sup>.
+</p>
+<h3><span id=".D0.92.D0.B0.D0.BC.D0.BF.D1.83.D1.81"></span><span class="mw-headline" id="Вампус">Вампус</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Hunt_the_Wumpus&amp;veaction=edit&amp;section=6" title="Редактировать раздел «Вампус»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Hunt_the_Wumpus&amp;action=edit&amp;section=6" title="Редактировать код раздела «Вампус»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Wumpus2.png"><img class="mw-file-element" data-file-height="248" data-file-width="193" decoding="async" height="248" src="//upload.wikimedia.org/wikipedia/ru/1/18/Wumpus2.png" width="193"/></a><figcaption>Так был изображён Вампус в статье «Wumpus 2», написанной Грегори Йобом в 1977</figcaption></figure>
+<p>Вампуса можно разбудить только двумя способами: войдя в комнату, где он спит, или выстрелив из лука в любой из комнат в пещере.
+</p><p>Если игрок окажется в одной комнате с Вампусом, то он проиграл — Вампус съедает его. Если же Вампус проснулся от звуков выстрела в пещере, то у игрока ещё есть шансы.
+</p><p>Проснувшись, Вампус может либо заснуть снова (с <a href="/wiki/%D0%92%D0%B5%D1%80%D0%BE%D1%8F%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Вероятность">вероятностью</a> 0,25), либо перейти спать в одну из соседних комнат. Комнаты с ямами и летучими мышами Вампусу не вредят. У него на ногах есть присоски, с помощью которых он выбирается из любой ямы, а его огромный вес не даёт гигантским летучим мышам его переносить. Если Вампус отправляется спать в комнату, где находится игрок, то игрок проигрывает.
+</p>
+<h2><span id=".D0.9E.D1.81.D0.BE.D0.B1.D0.B5.D0.BD.D0.BD.D0.BE.D1.81.D1.82.D0.B8_.D0.B8.D0.B3.D1.80.D1.8B"></span><span class="mw-headline" id="Особенности_игры">Особенности игры</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Hunt_the_Wumpus&amp;veaction=edit&amp;section=7" title="Редактировать раздел «Особенности игры»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Hunt_the_Wumpus&amp;action=edit&amp;section=7" title="Редактировать код раздела «Особенности игры»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>«Охота на Вампуса» — первая в истории текстовая, а также первая <a class="mw-redirect" href="/wiki/%D0%9A%D0%B2%D0%B5%D1%81%D1%82" title="Квест">приключенческая</a> игра. Она была чрезвычайно популярна в <a class="mw-redirect" href="/wiki/1970-%D0%B5" title="1970-е">1970</a>—<a class="mw-redirect" href="/wiki/1980-%D0%B5" title="1980-е">1980-е</a> годы. Программистам эта игра так полюбилась, что, пользуясь её размером (около 200 <a href="/wiki/%D0%9A%D0%BE%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE_%D1%81%D1%82%D1%80%D0%BE%D0%BA_%D0%BA%D0%BE%D0%B4%D0%B0" title="Количество строк кода">строк кода</a>, половину из которых занимают вывод на экран и комментарии), они встраивали её в различные программы. Известно, что в корпоративной операционной системе <a class="mw-redirect" href="/wiki/R%26D" title="R&amp;D">R&amp;D</a> была <i>системная</i> команда «to Wumpus», запускавшая игру<sup class="ts-fix-template noprint">[<i><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D0%BD%D0%B0_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8" title="Википедия:Ссылки на источники"><span title="нет источника (5 сентября 2022)">источник не указан 541 день</span></a></i>]</sup>.
+</p><p>«Hunt the Wumpus» — это и первая игра, в которой используется строение карты по принципу <a href="/wiki/%D0%93%D1%80%D0%B0%D1%84_(%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0)" title="Граф (математика)">графов</a> (в отличие от простой прямоугольной сетки как в старых играх типа <a href="/wiki/Star_Trek_(%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0)" title="Star Trek (текстовая игра)">Star Trek</a>). В этом отношении, а также по размещению ловушек и тем остроумным сообщениям, которые используются в этой игре, она послужила прототипом для <a class="mw-redirect" href="/wiki/ADVENT" title="ADVENT">ADVENT</a> и <a href="/wiki/Zork" title="Zork">Zork</a> (Zork, в частности, унаследовал от неё колонии гигантских летучих мышей).
+</p><p>Позже появились и графические версии этой игры, отличающиеся от оригинальной другими лабиринтами и ловушками. В настоящее время версии «Hunt the Wumpus» доступны в Интернете для большинства операционных систем и устройств, включая <a class="mw-redirect" href="/wiki/GNU/Linux" title="GNU/Linux">GNU/Linux</a>, <a href="/wiki/Commodore" title="Commodore">Commodore</a>, <a class="mw-redirect" href="/wiki/Sinclair_ZX_Spectrum" title="Sinclair ZX Spectrum">Sinclair ZX Spectrum</a>, <a href="/wiki/SunOS" title="SunOS">SunOS</a>, <a href="/wiki/Macintosh" title="Macintosh">Macintosh</a>, <a class="mw-redirect" href="/wiki/Palm_Pilot" title="Palm Pilot">Palm Pilot</a> и <a class="mw-redirect" href="/wiki/%D0%9C%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%82%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD" title="Мобильный телефон">мобильные телефоны</a>. Существуют также боты для <a href="/wiki/IRC" title="IRC">IRC</a>, позволяющие играть в эту игру<sup class="ts-fix-template noprint">[<i><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D0%BD%D0%B0_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8" title="Википедия:Ссылки на источники"><span title="нет источника (5 сентября 2022)">источник не указан 541 день</span></a></i>]</sup>.
+</p><p>Вампус встречается во многих карточных играх <a href="/wiki/Magic:_The_Gathering" title="Magic: The Gathering">Magic: The Gathering</a>. В <a class="mw-redirect" href="/wiki/Mercadian_Masques" title="Mercadian Masques">Mercadian Masques</a> есть <a class="external text" href="http://gatherer.wizards.com/gathererlookup.asp?name=hunted_wumpus" rel="nofollow">Hunted Wumpus</a> <small class="ref-info">(недоступная ссылка)</small> и <a class="external text" href="http://gatherer.wizards.com/gathererlookup.asp?name=thrashing_wumpus" rel="nofollow">Thrashing Wumpus</a> <small class="ref-info">(недоступная ссылка)</small>. <a class="new" href="/w/index.php?title=Planar_Chaos&amp;action=edit&amp;redlink=1" title="Planar Chaos (страница отсутствует)">Planar Chaos</a> содержит <a class="external text" href="http://gatherer.wizards.com/gathererlookup.asp?name=shivan_wumpus" rel="nofollow">Shivan Wumpus</a> <small class="ref-info">(недоступная ссылка)</small>.
+</p><p>Вампуса можно также встретить в знаменитой <a href="/wiki/Roguelike" title="Roguelike">Rogue-игре</a> <a href="/wiki/NetHack" title="NetHack">NetHack</a><sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup><sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> и <a class="new" href="/w/index.php?title=M.U.L.E&amp;action=edit&amp;redlink=1" title="M.U.L.E (страница отсутствует)">M.U.L.E</a>, в которой захват Вампуса в поздней части игры приводит к призу для игрока<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup>.
+</p><p>Вампус фигурирует в написанной <a class="new" href="/w/index.php?title=%D0%9F%D0%BB%D0%BE%D1%82%D0%BA%D0%B8%D0%BD,_%D0%AD%D0%BD%D0%B4%D1%80%D1%8E&amp;action=edit&amp;redlink=1" title="Плоткин, Эндрю (страница отсутствует)">Эндрю Плоткиным</a> <a class="mw-redirect" href="/wiki/Interactive_Fiction" title="Interactive Fiction">Interactive Fiction</a>-игре «<a class="new" href="/w/index.php?title=Hunter,_In_Darkness&amp;action=edit&amp;redlink=1" title="Hunter, In Darkness (страница отсутствует)">Hunter, In Darkness</a>».
+</p><p>В <a class="mw-redirect" href="/wiki/2005" title="2005">2005</a> некто Muffy St. Bernard выпустил <a href="/wiki/%D0%A0%D0%B5%D0%BC%D0%B5%D0%B9%D0%BA_(%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D1%8B%D0%B5_%D0%B8%D0%B3%D1%80%D1%8B)" title="Ремейк (компьютерные игры)">ремейк</a> «Hunt The Wumpus» — <a class="external text" href="http://www.dangermuff.com/n_wumpus2k.html" rel="nofollow">Wumpus 2000</a> <small><a class="external text" href="https://web.archive.org/web/20081006211049/http://www.dangermuff.com/n_wumpus2k.html" rel="nofollow">Архивировано</a> 6 октября 2008 года.</small>.
+</p><p>В игре <a class="external text" href="http://bethewumpus.sourceforge.net/" rel="nofollow">Be The Wumpus</a> игроку предлагается сыграть за самого Вампуса. При этом игра полностью аудиальная и пользователь должен ориентироваться только по звуку.
+</p>
+<h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.80_.D0.B8.D0.BD.D1.82.D0.B5.D1.80.D1.84.D0.B5.D0.B9.D1.81.D0.B0"></span><span class="mw-headline" id="Пример_интерфейса">Пример интерфейса</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Hunt_the_Wumpus&amp;veaction=edit&amp;section=8" title="Редактировать раздел «Пример интерфейса»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Hunt_the_Wumpus&amp;action=edit&amp;section=8" title="Редактировать код раздела «Пример интерфейса»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Ниже приведён пример текстового <a href="/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81" title="Интерфейс">интерфейса</a> одной из первых версий игры:
+</p>
+<pre> HUNT THE WUMPUS
+</pre>
+<pre> BATS NEARBY!<br/>
+ YOU ARE IN ROOM   2<br/>
+ TUNNELS LEAD TO   1   3   10
+</pre>
+<pre> SHOOT OR MOVE? (S-M)?   M<br/>
+ WHERE TO?   1<br/>
+ ZAP—SUPER BAT SNATCH! ELSEWHEREVILLE FOR YOU!<br/>
+ YYYIIIIEEEE . . . FELL IN PIT<br/>
+ HA-HA-HA YOU LOSE!<br/>
+ SAME SET-UP (Y-N)?   Y
+</pre>
+<pre> HUNT THE WUMPUS
+</pre>
+<pre> BATS NEARBY!<br/>
+ YOU ARE IN ROOM   2<br/>
+ TUNNELS LEAD TO   1   3   10
+</pre>
+<pre> SHOOT OR MOVE? (S-M)?   M<br/>
+ WHERE TO?   3
+</pre>
+<pre> YOU ARE IN ROOM   3<br/>
+ TUNNELS LEAD TO   2   4   12
+</pre>
+<p>и так далее…
+</p>
+<h2><span id=".D0.A1.D0.BC._.D1.82.D0.B0.D0.BA.D0.B6.D0.B5"></span><span class="mw-headline" id="См._также">См. также</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Hunt_the_Wumpus&amp;veaction=edit&amp;section=9" title="Редактировать раздел «См. также»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Hunt_the_Wumpus&amp;action=edit&amp;section=9" title="Редактировать код раздела «См. также»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="mw-redirect" href="/wiki/ADVENT" title="ADVENT">ADVENT</a></li>
+<li><a class="mw-redirect" href="/wiki/MUD" title="MUD">MUD</a></li>
+<li><a href="/wiki/Digger" title="Digger">Digger</a></li>
+<li><a class="mw-redirect" href="/wiki/Tetris" title="Tetris">Tetris</a></li>
+<li><a href="/wiki/Zork" title="Zork">Zork</a></li></ul>
+<h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Примечания">Примечания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Hunt_the_Wumpus&amp;veaction=edit&amp;section=10" title="Редактировать раздел «Примечания»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Hunt_the_Wumpus&amp;action=edit&amp;section=10" title="Редактировать код раздела «Примечания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.atariarchives.org/bcc1/showpage.php?page=247" rel="nofollow">Hunt The Wumpus (BASIC computer game, genesis of Wumpus, history), The Best of Creative Computing Vol. 1 (1976)</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 5 октября 2004. <a class="external text" href="https://web.archive.org/web/20171220171337/http://www.atariarchives.org/bcc1/showpage.php?page=247" rel="nofollow">Архивировано</a> 20 декабря 2017 года.</span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.atariarchives.org/morebasicgames/showpage.php?page=181" rel="nofollow">More BASIC Computer Games (1979)</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 25 октября 2008. <a class="external text" href="https://web.archive.org/web/20051027185017/http://www.atariarchives.org/morebasicgames/showpage.php?page=181" rel="nofollow">Архивировано</a> 27 октября 2005 года.</span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.spod-central.org/~psmith/nh/gazetteer/quest/ran.html#locate" rel="nofollow">Пещера Вампуса в Nethack</a> <small><a class="external text" href="https://web.archive.org/web/20080905215437/http://www.spod-central.org/~psmith/nh/gazetteer/quest/ran.html" rel="nofollow">Архивировано</a> 5 сентября 2008 года.</small></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.steelypips.org/nethack/experience-spoiler.html#t3" rel="nofollow">«Спойлер» NetHack</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 25 октября 2008. <a class="external text" href="https://web.archive.org/web/20180511151726/http://www.steelypips.org/nethack/experience-spoiler.html#t3" rel="nofollow">Архивировано</a> 11 мая 2018 года.</span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.mobygames.com/game/c64/mule" rel="nofollow">MULE на сайте Mobygames</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 25 октября 2008. <a class="external text" href="https://web.archive.org/web/20170824220655/http://www.mobygames.com/game/c64/mule" rel="nofollow">Архивировано</a> 24 августа 2017 года.</span></span>
+</li>
+</ol></div></div>
+<h2><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span><span class="mw-headline" id="Ссылки">Ссылки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Hunt_the_Wumpus&amp;veaction=edit&amp;section=11" title="Редактировать раздел «Ссылки»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Hunt_the_Wumpus&amp;action=edit&amp;section=11" title="Редактировать код раздела «Ссылки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="http://www.atariarchives.org/bcc1/showpage.php?page=247" rel="nofollow">Gregory Yob. «Hunt the Wumpus»</a> — статья создателя Вампуса в «The Best of Creative Computing», Vol. 1, 1976. Дан исходный код игры (на бейсике). Показан очень подробный пример игры.</li>
+<li><a class="external text" href="https://web.archive.org/web/20041010214018/http://www.taylor.org/~patrick/wumpus/" rel="nofollow">Классический текстовый вариант игры</a></li>
+<li><a class="external text" href="https://web.archive.org/web/20080109184058/http://bnewtz.cannet.com/wumpus/index.php" rel="nofollow">Онлайн-реализация Hunt the Wumpus</a></li>
+<li><a class="external text" href="http://www.kr.tuwien.ac.at/students/prak_wumpusjava/simulator/Welcome.html" rel="nofollow">Охота на Вампуса, написанная на JAVA</a>. Можно сыграть в режиме on-line. Графический вариант.</li>
+<li><a class="external text" href="http://scv.bu.edu/cgi-bin/wcl" rel="nofollow">Web Wumpus</a> — многопользовательский вариант «Hunt the Wumpus». Можно попробовать сыграть on-line.</li>
+<li><a class="external text" href="https://search.cpan.org/~cwest/ppt-0.14/bin/wump" rel="nofollow">Реализация Hunt the Wumpus</a> на <a href="/wiki/Perl" title="Perl">Perl</a></li>
+<li><a class="external text" href="http://slideme.org/application/wumpus" rel="nofollow">Hunt the Wumpus для ОС Android</a> — мобильная версия игры</li>
+<li><a class="external text" href="http://urq.plut.info/node/356" rel="nofollow">Охота на Вампуса</a> <a class="external text" href="https://web.archive.org/web/20120620082521/http://urq.plut.info/node/356" rel="nofollow">Архивная копия</a> от 20 июня 2012 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> на движке для текстовых игр <a href="/wiki/URQ" title="URQ">URQ</a> — русскоязычный ремейк 2010 года</li></ul>
+<div aria-labelledby="Ссылки_на_внешние_ресурсы" class="navbox" data-name="External links" role="navigation" style="padding-top:1px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup" style="display:none"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:External_links" title="Перейти к шаблону «External links»"><img alt="Перейти к шаблону «External links»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span></span><div id="Ссылки_на_внешние_ресурсы" style="font-size:114%;margin:0 5em">Ссылки на внешние ресурсы</div></th></tr><tr><th class="navbox-group" scope="row" style="width:1px"><div style="padding: 0 35px 0 0; width: 100%;"><div style="float: left;"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8" title="Перейти к шаблону «Внешние ссылки»"><img alt="Перейти к шаблону «Внешние ссылки»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span>  <span typeof="mw:File"><a href="https://www.wikidata.org/wiki/Q1638078#identifiers" title="Перейти к элементу Викиданных"><img alt="Перейти к элементу Викиданных" class="mw-file-element" data-file-height="20" data-file-width="20" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/14px-OOjs_UI_icon_edit-ltr-progressive.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/21px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/28px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" width="14"/></a></span></div>  Тематические сайты</div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="external text" href="https://www.imdb.com/title/tt1982707" rel="nofollow">Internet Movie Database</a></li>
+<li><a class="external text" href="https://howlongtobeat.com/game.php?id=20668" rel="nofollow">HowLongToBeat</a></li>
+<li><a class="external text" href="https://www.igdb.com/games/hunt-the-wumpus" rel="nofollow">IGDB</a></li>
+<li><a class="external text" href="https://www.mobygames.com/game/16103/" rel="nofollow">MobyGames</a></li>
+<li><a class="external text" href="https://www.mobygames.com/game/63723/" rel="nofollow">MobyGames</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Словари и энциклопедии</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="external text" href="https://www.britannica.com/topic/Hunt-the-Wumpus" rel="nofollow">Britannica (онлайн)</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.canary‐6d876fb566‐c65lw
+Cached time: 20240228184526
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.209 seconds
+Real time usage: 0.291 seconds
+Preprocessor visited node count: 1801/1000000
+Post‐expand include size: 27543/2097152 bytes
+Template argument size: 1498/2097152 bytes
+Highest expansion depth: 13/100
+Expensive parser function count: 5/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 7119/5000000 bytes
+Lua time usage: 0.120/10.000 seconds
+Lua memory usage: 3282778/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  247.996      1 -total
+ 38.28%   94.927      5 Шаблон:Нет_АИ
+ 28.45%   70.554      1 Шаблон:Внешние_ссылки
+ 21.96%   54.467      5 Шаблон:Сортировка:_статьи_без_источников
+ 13.20%   32.726      1 Шаблон:Примечания
+ 12.34%   30.601      1 Шаблон:Нп5
+ 10.70%   26.531      5 Шаблон:Сортировка:_по_типам
+ 10.38%   25.733      5 Шаблон:Сортировка:_по_странам
+  9.59%   23.776      4 Шаблон:Cite_web
+  4.47%   11.079      3 Шаблон:Недоступная_ссылка
+-->
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:13485-0!canonical and timestamp 20240228184526 and revision id 127987960. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> -->
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Hunt_the_Wumpus&amp;oldid=127987960">https://ru.wikipedia.org/w/index.php?title=Hunt_the_Wumpus&amp;oldid=127987960</a></div></div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D1%8B%D0%B5_%D0%B8%D0%B3%D1%80%D1%8B_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Компьютерные игры по алфавиту">Компьютерные игры по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:Interactive_fiction" title="Категория:Interactive fiction">Interactive fiction</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D1%8B%D0%B5_%D0%B8%D0%B3%D1%80%D1%8B_1972_%D0%B3%D0%BE%D0%B4%D0%B0" title="Категория:Компьютерные игры 1972 года">Компьютерные игры 1972 года</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%B3%D1%80%D1%8B_%D0%B4%D0%BB%D1%8F_TI-99/4A" title="Категория:Игры для TI-99/4A">Игры для TI-99/4A</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D1%8B%D0%B5_%D0%B8%D0%B3%D1%80%D1%8B,_%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%B2_%D0%A1%D0%A8%D0%90" title="Категория:Компьютерные игры, разработанные в США">Компьютерные игры, разработанные в США</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%BD%D0%B5_%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD_%D1%8F%D0%B7%D1%8B%D0%BA)" title="Категория:Википедия:Cite web (не указан язык)">Википедия:Cite web (не указан язык)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%B1%D0%B5%D0%B7_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_(%D0%BD%D0%B5_%D1%80%D0%B0%D1%81%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D0%BE_%D1%82%D0%B8%D0%BF%D0%B0%D0%BC)" title="Категория:Википедия:Статьи без источников (не распределённые по типам)">Википедия:Статьи без источников (не распределённые по типам)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9D%D0%B5%D1%82_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D1%81_%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8F_2022" title="Категория:Википедия:Нет источников с сентября 2022">Википедия:Нет источников с сентября 2022</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D1%83%D1%82%D0%B2%D0%B5%D1%80%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%D0%BC%D0%B8_%D0%B1%D0%B5%D0%B7_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%B1%D0%BE%D0%BB%D0%B5%D0%B5_14_%D0%B4%D0%BD%D0%B5%D0%B9" title="Категория:Википедия:Статьи с утверждениями без источников более 14 дней">Википедия:Статьи с утверждениями без источников более 14 дней</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D0%BD%D0%B5%D1%80%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%BC%D0%B8_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8" title="Категория:Википедия:Статьи с нерабочими ссылками">Википедия:Статьи с нерабочими ссылками</a></li></ul></div></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Навигация</h2>
+<div id="mw-head">
+<nav aria-labelledby="p-personal-label" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" id="p-personal" role="navigation">
+<h3 class="vector-menu-heading" id="p-personal-label">
+<span class="vector-menu-heading-label">Персональные инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="pt-anonuserpage"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li class="mw-list-item" id="pt-anontalk"><a accesskey="n" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]"><span>Обсуждение</span></a></li><li class="mw-list-item" id="pt-anoncontribs"><a accesskey="y" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]"><span>Вклад</span></a></li><li class="mw-list-item" id="pt-createaccount"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=Hunt+the+Wumpus" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li class="mw-list-item" id="pt-login"><a accesskey="o" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=Hunt+the+Wumpus" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]"><span>Войти</span></a></li>
+</ul>
+</div>
+</nav>
+<div id="left-navigation">
+<nav aria-labelledby="p-namespaces-label" class="mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-namespaces" role="navigation">
+<h3 class="vector-menu-heading" id="p-namespaces-label">
+<span class="vector-menu-heading-label">Пространства имён</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-nstab-main"><a accesskey="c" href="/wiki/Hunt_the_Wumpus" title="Просмотреть контентную страницу [c]"><span>Статья</span></a></li><li class="mw-list-item" id="ca-talk"><a accesskey="t" href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:Hunt_the_Wumpus" rel="discussion" title="Обсуждение основной страницы [t]"><span>Обсуждение</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-variants-label" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" id="p-variants" role="navigation">
+<input aria-haspopup="true" aria-labelledby="p-variants-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-variants" id="p-variants-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-variants-label">
+<span class="vector-menu-heading-label">русский</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+</div>
+<div id="right-navigation">
+<nav aria-labelledby="p-views-label" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-views" role="navigation">
+<h3 class="vector-menu-heading" id="p-views-label">
+<span class="vector-menu-heading-label">Просмотры</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-view"><a href="/wiki/Hunt_the_Wumpus"><span>Читать</span></a></li><li class="mw-list-item" id="ca-ve-edit"><a accesskey="v" href="/w/index.php?title=Hunt_the_Wumpus&amp;veaction=edit" title="Редактировать данную страницу [v]"><span>Править</span></a></li><li class="collapsible mw-list-item" id="ca-edit"><a accesskey="e" href="/w/index.php?title=Hunt_the_Wumpus&amp;action=edit" title="Править исходный текст этой страницы [e]"><span>Править код</span></a></li><li class="mw-list-item" id="ca-history"><a accesskey="h" href="/w/index.php?title=Hunt_the_Wumpus&amp;action=history" title="Журнал изменений страницы [h]"><span>История</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-cactions-label" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" id="p-cactions" role="navigation" title="Больше возможностей">
+<input aria-haspopup="true" aria-labelledby="p-cactions-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-cactions" id="p-cactions-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-cactions-label">
+<span class="vector-menu-heading-label">Ещё</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+<div class="vector-search-box-vue vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box" id="p-search" role="search">
+<h3>Поиск</h3>
+<form action="/w/index.php" class="vector-search-box-form" id="searchform">
+<div class="vector-search-box-inner" data-search-loc="header-navigation" id="simpleSearch">
+<input accesskey="f" aria-label="Искать в Википедии" autocapitalize="sentences" class="vector-search-box-input" id="searchInput" name="search" placeholder="Искать в Википедии" title="Искать в Википедии [f]" type="search"/>
+<input name="title" type="hidden" value="Служебная:Поиск"/>
+<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Найти страницы, содержащие указанный текст" type="submit" value="Найти"/>
+<input class="searchButton" id="searchButton" name="go" title="Перейти к странице, имеющей в точности такое название" type="submit" value="Перейти"/>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="vector-legacy-sidebar" id="mw-panel">
+<div id="p-logo" role="banner">
+<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу"></a>
+</div>
+<nav aria-labelledby="p-navigation-label" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" id="p-navigation" role="navigation">
+<h3 class="vector-menu-heading" id="p-navigation-label">
+<span class="vector-menu-heading-label">Навигация</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-mainpage-description"><a accesskey="z" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]"><span>Заглавная страница</span></a></li><li class="mw-list-item" id="n-content"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li class="mw-list-item" id="n-featured"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li class="mw-list-item" id="n-randompage"><a accesskey="x" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]"><span>Случайная статья</span></a></li><li class="mw-list-item" id="n-currentevents"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li class="mw-list-item" id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-participation-label" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" id="p-participation" role="navigation">
+<h3 class="vector-menu-heading" id="p-participation-label">
+<span class="vector-menu-heading-label">Участие</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-bug_in_article"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li class="mw-list-item" id="n-introduction"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li class="mw-list-item" id="n-portal"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li class="mw-list-item" id="n-forum"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li class="mw-list-item" id="n-recentchanges"><a accesskey="r" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]"><span>Свежие правки</span></a></li><li class="mw-list-item" id="n-newpages"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li class="mw-list-item" id="n-help"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-tb-label" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" id="p-tb" role="navigation">
+<h3 class="vector-menu-heading" id="p-tb-label">
+<span class="vector-menu-heading-label">Инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="t-whatlinkshere"><a accesskey="j" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/Hunt_the_Wumpus" title="Список всех страниц, ссылающихся на данную [j]"><span>Ссылки сюда</span></a></li><li class="mw-list-item" id="t-recentchangeslinked"><a accesskey="k" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/Hunt_the_Wumpus" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]"><span>Связанные правки</span></a></li><li class="mw-list-item" id="t-specialpages"><a accesskey="q" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]"><span>Служебные страницы</span></a></li><li class="mw-list-item" id="t-permalink"><a href="/w/index.php?title=Hunt_the_Wumpus&amp;oldid=127987960" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li class="mw-list-item" id="t-info"><a href="/w/index.php?title=Hunt_the_Wumpus&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li class="mw-list-item" id="t-cite"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=Hunt_the_Wumpus&amp;id=127987960&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li class="mw-list-item" id="t-urlshortener"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2FHunt_the_Wumpus"><span>Получить короткий URL</span></a></li><li class="mw-list-item" id="t-urlshortener-qrcode"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2FHunt_the_Wumpus"><span>Скачать QR-код</span></a></li><li class="mw-list-item" id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1638078" title="Ссылка на связанный элемент репозитория данных [g]"><span>Элемент Викиданных</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-coll-print_export-label" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" id="p-coll-print_export" role="navigation">
+<h3 class="vector-menu-heading" id="p-coll-print_export-label">
+<span class="vector-menu-heading-label">Печать/экспорт</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="coll-download-as-rl"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=Hunt_the_Wumpus&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li class="mw-list-item" id="t-print"><a accesskey="p" href="/w/index.php?title=Hunt_the_Wumpus&amp;printable=yes" title="Версия этой страницы для печати [p]"><span>Версия для печати</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-wikibase-otherprojects-label" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal vector-menu" id="p-wikibase-otherprojects" role="navigation">
+<h3 class="vector-menu-heading" id="p-wikibase-otherprojects-label">
+<span class="vector-menu-heading-label">В других проектах</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Hunt_the_Wumpus" hreflang="en"><span>Викисклад</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-lang-label" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" id="p-lang" role="navigation">
+<h3 class="vector-menu-heading" id="p-lang-label">
+<span class="vector-menu-heading-label">На других языках</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="interlanguage-link interwiki-ar mw-list-item"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%A7%D8%B5%D8%B7%D9%8A%D8%A7%D8%AF_%D8%A7%D9%84%D9%88%D9%88%D9%85%D8%A8%D8%B3" hreflang="ar" lang="ar" title="اصطياد الوومبس — арабский"><span>العربية</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Hunt_the_Wumpus" hreflang="de" lang="de" title="Hunt the Wumpus — немецкий"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-en badge-Q17437798 badge-goodarticle mw-list-item" title="хорошая статья"><a class="interlanguage-link-target" href="https://en.wikipedia.org/wiki/Hunt_the_Wumpus" hreflang="en" lang="en" title="Hunt the Wumpus — английский"><span>English</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%B4%DA%A9%D8%A7%D8%B1_%D9%88%D9%85%D9%BE%D8%B3" hreflang="fa" lang="fa" title="شکار ومپس — персидский"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Hunt_the_Wumpus" hreflang="fi" lang="fi" title="Hunt the Wumpus — финский"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Chasse_au_Wumpus" hreflang="fr" lang="fr" title="Chasse au Wumpus — французский"><span>Français</span></a></li><li class="interlanguage-link interwiki-is mw-list-item"><a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/Hunt_the_Wumpus" hreflang="is" lang="is" title="Hunt the Wumpus — исландский"><span>Íslenska</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Hunt_the_Wumpus" hreflang="it" lang="it" title="Hunt the Wumpus — итальянский"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Hunt_the_wumpus_(computerspel)" hreflang="nl" lang="nl" title="Hunt the wumpus (computerspel) — нидерландский"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Hunt_the_Wumpus" hreflang="ro" lang="ro" title="Hunt the Wumpus — румынский"><span>Română</span></a></li><li class="interlanguage-link interwiki-sl mw-list-item"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Hunt_the_Wumpus" hreflang="sl" lang="sl" title="Hunt the Wumpus — словенский"><span>Slovenščina</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/Hunt_the_Wumpus" hreflang="zh" lang="zh" title="Hunt the Wumpus — китайский"><span>中文</span></a></li>
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1638078#sitelinks-wikipedia" title="Править ссылки на другие языки">Править ссылки</a></span></div>
+</div>
+</nav>
+</div>
+</div>
+<footer class="mw-footer" id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 20 января 2023 в 13:34.</li>
+<li id="footer-info-copyright">Текст доступен по <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru" rel="license">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a><a href="//creativecommons.org/licenses/by-sa/4.0/" rel="license" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br/>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org/ru/">Фонд Викимедиа (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//ru.m.wikipedia.org/w/index.php?title=Hunt_the_Wumpus&amp;mobileaction=toggle_view_mobile">Мобильная версия</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" loading="lazy" src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88"/></a></li>
+<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" loading="lazy" src="/static/images/footer/poweredby_mediawiki_88x31.png" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88"/></a></li>
+</ul>
+</footer>
+
+
+</body>
+</html>

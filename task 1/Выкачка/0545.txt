@@ -1,0 +1,519 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="ru">
+<head>
+<meta charset="utf-8"/>
+<title>Кумари — Википедия</title>
+
+
+
+
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+
+
+<meta content="MediaWiki 1.42.0-wmf.19" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="max-image-preview:standard" name="robots"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Nepal_Kumari.jpg/1200px-Nepal_Kumari.jpg" property="og:image"/>
+<meta content="1200" property="og:image:width"/>
+<meta content="1600" property="og:image:height"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Nepal_Kumari.jpg/800px-Nepal_Kumari.jpg" property="og:image"/>
+<meta content="800" property="og:image:width"/>
+<meta content="1067" property="og:image:height"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Nepal_Kumari.jpg/640px-Nepal_Kumari.jpg" property="og:image"/>
+<meta content="640" property="og:image:width"/>
+<meta content="853" property="og:image:height"/>
+<meta content="width=1000" name="viewport"/>
+<meta content="Кумари — Википедия" property="og:title"/>
+<meta content="website" property="og:type"/>
+
+
+
+
+
+
+
+
+
+
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Кумари rootpage-Кумари skin-vector action-view"><div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators">
+</div>
+<h1 class="firstHeading mw-first-heading" id="firstHeading"><span class="mw-page-title-main">Кумари</span></h1>
+<div class="vector-body" id="bodyContent">
+<div class="noprint" id="siteSub">Материал из Википедии — свободной энциклопедии</div>
+<div id="contentSub"><div id="mw-content-subtitle"><div class="plainlinks flaggedrevs_preview" id="mw-fr-reviewnotice">Текущая версия страницы пока <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9/%D0%9F%D0%BE%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BB%D1%8F_%D1%87%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9" title="Википедия:Проверка статей/Пояснение для читателей">не проверялась</a> опытными участниками и может значительно отличаться от <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9A%D1%83%D0%BC%D0%B0%D1%80%D0%B8&amp;stable=1">версии</a>, проверенной 31 июля 2020 года; проверки требуют <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9A%D1%83%D0%BC%D0%B0%D1%80%D0%B8&amp;oldid=108468013&amp;diff=cur&amp;diffonly=0">8 правок</a>.</div><div class="flaggedrevs_short flaggedrevs_draft_notsynced plainlinks noprint" id="mw-fr-revisiontag"><div class="flaggedrevs_short_basic"><span class="flaggedrevs-icon oo-ui-widget oo-ui-widget-enabled oo-ui-iconElement-icon oo-ui-icon-block oo-ui-iconElement oo-ui-labelElement-invisible oo-ui-iconWidget" title="Текущая версия"></span><span class="fr-toggle-arrow oo-ui-widget oo-ui-widget-enabled oo-ui-indicatorElement-indicator oo-ui-indicator-down oo-ui-indicatorElement oo-ui-labelElement-invisible oo-ui-indicatorWidget" id="mw-fr-revisiontoggle" title="показать/скрыть подробности"></span></div>
+<div id="mw-fr-revisiondetails-wrapper" style="position:relative;"><div class="flaggedrevs_short_details" id="mw-fr-revisiondetails" style="display:none">Текущая версия страницы пока <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9/%D0%9F%D0%BE%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BB%D1%8F_%D1%87%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9" title="Википедия:Проверка статей/Пояснение для читателей">не проверялась</a> опытными участниками и может значительно отличаться от <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9A%D1%83%D0%BC%D0%B0%D1%80%D0%B8&amp;stable=1">версии</a>, проверенной 31 июля 2020 года; проверки требуют <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9A%D1%83%D0%BC%D0%B0%D1%80%D0%B8&amp;oldid=108468013&amp;diff=cur&amp;diffonly=0">8 правок</a>.</div>
+</div>
+</div>
+</div></div>
+<div id="contentSub2"></div>
+<div id="jump-to-nav"></div>
+<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+<div class="mw-body-content" id="mw-content-text"><div class="mw-content-ltr mw-parser-output" dir="ltr" lang="ru"><div class="hatnote navigation-not-searchable noprint dabhide">У этого термина существуют и другие значения, см. <a class="mw-disambig" href="/wiki/%D0%9A%D1%83%D0%BC%D0%B0%D1%80%D0%B8_(%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D1%8F)" title="Кумари (значения)">Кумари (значения)</a>.</div>
+<div class="hatnote navigation-not-searchable dabhide">Не следует путать с <a href="/wiki/%D0%9A%D1%83%D0%BC%D0%B0%D1%80%D1%8B" title="Кумары">Кумары</a>.</div>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Nepal_Kumari.jpg"><img class="mw-file-element" data-file-height="2848" data-file-width="2136" decoding="async" height="293" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/30/Nepal_Kumari.jpg/220px-Nepal_Kumari.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/30/Nepal_Kumari.jpg/330px-Nepal_Kumari.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/30/Nepal_Kumari.jpg/440px-Nepal_Kumari.jpg 2x" width="220"/></a><figcaption>Кумари, Катманду, март 2007</figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Ktm2006-1.JPG"><img class="mw-file-element" data-file-height="528" data-file-width="704" decoding="async" height="188" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Ktm2006-1.JPG/250px-Ktm2006-1.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Ktm2006-1.JPG/375px-Ktm2006-1.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Ktm2006-1.JPG/500px-Ktm2006-1.JPG 2x" width="250"/></a><figcaption>Храм на площади Дурбар в Катманду рядом со дворцом Кумари</figcaption></figure>
+<p><b>Кума́ри</b>, или <b>Кумари Деви</b> (<a href="/wiki/%D0%9D%D0%B5%D0%BF%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Непальский язык">неп.</a> <i>«девочка»</i>) — живое <a href="/wiki/%D0%98%D0%BD%D0%B4%D1%83%D0%B8%D0%B7%D0%BC" title="Индуизм">индуистское</a> <a href="/wiki/%D0%91%D0%BE%D0%B3" title="Бог">божество</a> в <a href="/wiki/%D0%9D%D0%B5%D0%BF%D0%B0%D0%BB" title="Непал">Непале</a>. Кумари становится девочка, не достигшая половой зрелости, выбираемая из <a href="/wiki/%D0%9A%D0%B0%D1%81%D1%82%D0%B0" title="Каста">касты</a> <a href="/wiki/%D0%A8%D0%B0%D0%BA%D1%8C%D1%8F" title="Шакья">Шакья</a> народа <a class="mw-redirect" href="/wiki/%D0%9D%D0%B5%D0%B2%D0%B0%D1%80%D1%86%D1%8B" title="Неварцы">неваров</a>. Хотя Кумари и индуистское божество, она почитается по всей стране и индуистами, и <a href="/wiki/%D0%91%D1%83%D0%B4%D0%B4%D0%B8%D0%B7%D0%BC" title="Буддизм">буддистами</a>.
+</p><p>В <a href="/wiki/%D0%9D%D0%B5%D0%BF%D0%B0%D0%BB" title="Непал">Непале</a> имеется несколько Кумари, но наиболее известна <b>Королевская Кумари</b>, живущая в <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%BC%D0%B0%D0%BD%D0%B4%D1%83" title="Катманду">Катманду</a>. Избрание Королевской Кумари предполагает прохождение особенно строгих ритуалов, после которых она поселяется во дворце <a class="new" href="/w/index.php?title=%D0%9A%D1%83%D0%BC%D0%B0%D1%80%D0%B8_%D0%93%D1%85%D0%B0%D1%80&amp;action=edit&amp;redlink=1" title="Кумари Гхар (страница отсутствует)">Кумари Гхар</a> в центре города. Бывшая Королевская Кумари, Матани Шакья, прошла <a href="/wiki/%D0%A0%D1%83%D0%BA%D0%BE%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5" title="Рукоположение">ординацию</a> в <a href="/wiki/2008_%D0%B3%D0%BE%D0%B4" title="2008 год">2008 году</a> в возрасте трёх лет.
+</p><p>Кумари — единственная, кто имеет право поставить <a href="/wiki/%D0%A2%D0%B8%D0%BB%D0%B0%D0%BA%D0%B0" title="Тилака">тилаку</a> (красную точку на лбу при обрядовом посвящении) королю и которой поклоняется король. Происходит это раз в году во время праздника
+Кумариджатра. В этот день король прибывает в храм для совершения <a href="/wiki/%D0%9F%D1%83%D0%B4%D0%B6%D0%B0" title="Пуджа">пуджи</a> (индуистского ритуала), и
+богиня Кумари благословляет его тикой, что означает продление его власти на
+годичный срок, до праздника в будущем году. После свержения короля и установления республики кумари стала утверждаться правительством.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup><sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup>
+</p><p>Считается, что Кумари — телесное <a href="/wiki/%D0%A0%D0%B5%D0%B8%D0%BD%D0%BA%D0%B0%D1%80%D0%BD%D0%B0%D1%86%D0%B8%D1%8F" title="Реинкарнация">воплощение</a> богини <a class="new" href="/w/index.php?title=%D0%A2%D0%B0%D0%BB%D0%B5%D0%B4%D0%B6%D1%83&amp;action=edit&amp;redlink=1" title="Таледжу (страница отсутствует)">Таледжу</a>. Как только наступает первая <a href="/wiki/%D0%9C%D0%B5%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%B0%D1%86%D0%B8%D1%8F" title="Менструация">менструация</a>, богиня покидает тело девочки.
+</p>
+<div aria-labelledby="mw-toc-heading" class="toc" id="toc" role="navigation"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="ru"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#История"><span class="tocnumber">1</span> <span class="toctext">История</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Процедура_избрания_Кумари"><span class="tocnumber">2</span> <span class="toctext">Процедура избрания Кумари</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Жизнь_Королевской_Кумари"><span class="tocnumber">3</span> <span class="toctext">Жизнь Королевской Кумари</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Судьба_бывших_Кумари"><span class="tocnumber">4</span> <span class="toctext">Судьба бывших Кумари</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Поездка_Кумари_в_США"><span class="tocnumber">5</span> <span class="toctext">Поездка Кумари в США</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Критика_традиции"><span class="tocnumber">6</span> <span class="toctext">Критика традиции</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Упоминания_в_литературе"><span class="tocnumber">7</span> <span class="toctext">Упоминания в литературе</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Литература"><span class="tocnumber">8</span> <span class="toctext">Литература</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Примечания"><span class="tocnumber">9</span> <span class="toctext">Примечания</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Ссылки"><span class="tocnumber">10</span> <span class="toctext">Ссылки</span></a></li>
+</ul>
+</div>
+<h2><span id=".D0.98.D1.81.D1.82.D0.BE.D1.80.D0.B8.D1.8F"></span><span class="mw-headline" id="История">История</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9A%D1%83%D0%BC%D0%B0%D1%80%D0%B8&amp;veaction=edit&amp;section=1" title="Редактировать раздел «История»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9A%D1%83%D0%BC%D0%B0%D1%80%D0%B8&amp;action=edit&amp;section=1" title="Редактировать код раздела «История»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Обычай почитания живой богини Кумари возник достаточно поздно, в <a href="/wiki/XVII_%D0%B2%D0%B5%D0%BA" title="XVII век">XVII веке</a>, хотя ритуалы, связанные с Кумари (<a class="new" href="/w/index.php?title=%D0%9F%D1%83%D0%B4%D0%B6%D0%B8&amp;action=edit&amp;redlink=1" title="Пуджи (страница отсутствует)">пуджи</a> девочек) существовали значительно раньше. В Индии имеются сведения о таких пуджах, относящиеся к периоду более 2600 лет тому назад, а в <a href="/wiki/%D0%9D%D0%B5%D0%BF%D0%B0%D0%BB" title="Непал">Непале</a>, скорее всего, этот обряд появился в <a href="/wiki/VI_%D0%B2%D0%B5%D0%BA" title="VI век">VI веке</a>. Письменные свидетельства о пуджах (ритуалах) с описанием выбора, украшений и ритуала Кумари относятся к <a href="/wiki/XIII_%D0%B2%D0%B5%D0%BA" title="XIII век">XIII веку</a>.
+</p>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Taleju.jpg"><img class="mw-file-element" data-file-height="1224" data-file-width="1632" decoding="async" height="263" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Taleju.jpg/350px-Taleju.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Taleju.jpg/525px-Taleju.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/85/Taleju.jpg/700px-Taleju.jpg 2x" width="350"/></a><figcaption>У входа в девятиярусную пагоду — храм Таледжу, Катманду</figcaption></figure>
+<p>По одной из легенд, король <a href="/wiki/%D0%94%D0%B6%D0%B0%D1%8F%D0%BF%D1%80%D0%B0%D0%BA%D0%B0%D1%88_%D0%9C%D0%B0%D0%BB%D0%BB%D0%B0" title="Джаяпракаш Малла">Джаяпракаш Малла</a>, последний правитель династии <a href="/wiki/%D0%9C%D0%B0%D0%BB%D0%BB%D0%B0_(%D0%B4%D0%B8%D0%BD%D0%B0%D1%81%D1%82%D0%B8%D1%8F)" title="Малла (династия)">Малла</a>, увидел, как красная змея проникла в опочивальню короля, когда он играл с богиней <a class="new" href="/w/index.php?title=%D0%A2%D0%B0%D0%BB%D0%B5%D0%B4%D0%B6%D1%83&amp;action=edit&amp;redlink=1" title="Таледжу (страница отсутствует)">Таледжу</a>. Король обратил внимание на красоту богини, покровительницы королевской династии, и подумал, что она превосходит красоту его жены. Однако богиня прочла его мысли и решила наказать короля. Она постановила, что теперь король сможет её видеть только в облике девочки из низкой касты. После этого король стал искать среди девочек ту, в которую вселился дух богини <a class="new" href="/w/index.php?title=%D0%A2%D0%B0%D0%BB%D0%B5%D0%B4%D0%B6%D1%83&amp;action=edit&amp;redlink=1" title="Таледжу (страница отсутствует)">Таледжу</a>.
+До сегодняшнего дня существенным при поиске Кумари является сон матери о красной змее. Раз в году король Непала просит благословения у Кумари во время праздника <a class="new" href="/w/index.php?title=%D0%98%D0%BD%D0%B4%D1%80%D0%B0_%D0%94%D0%B6%D0%B0%D1%82%D1%80%D0%B0&amp;action=edit&amp;redlink=1" title="Индра Джатра (страница отсутствует)">Индра Джатра</a>.
+Эту же легенду рассказывают о другом короле, <a class="new" href="/w/index.php?title=%D0%93%D1%83%D0%BD%D0%BA%D0%B0%D0%BC_%D0%94%D0%B5%D0%B2&amp;action=edit&amp;redlink=1" title="Гункам Дев (страница отсутствует)">Гункам Деве</a>, предке <a href="/wiki/%D0%94%D0%B6%D0%B0%D1%8F%D0%BF%D1%80%D0%B0%D0%BA%D0%B0%D1%88_%D0%9C%D0%B0%D0%BB%D0%BB%D0%B0" title="Джаяпракаш Малла">Джаяпракаш Малла</a>.
+</p><p>По другой легенде, король <a href="/wiki/%D0%94%D0%B6%D0%B0%D1%8F%D0%BF%D1%80%D0%B0%D0%BA%D0%B0%D1%88_%D0%9C%D0%B0%D0%BB%D0%BB%D0%B0" title="Джаяпракаш Малла">Джаяпракаш Малла</a> имел сексуальную связь с <a href="/wiki/%D0%9F%D0%B5%D0%B4%D0%BE%D1%84%D0%B8%D0%BB%D0%B8%D1%8F" title="Педофилия">неполовозрелой девочкой</a>, в результате чего она умерла. Чувствуя вину и раскаяние, король стал также видеть сны, по которым ему следовало искать снова инкарнации богини <a class="new" href="/w/index.php?title=%D0%A2%D0%B0%D0%BB%D0%B5%D0%B4%D0%B6%D1%83&amp;action=edit&amp;redlink=1" title="Таледжу (страница отсутствует)">Таледжу</a>. Каждый год он должен проводить специальные ритуалы и просить благословения от Кумари.
+</p><p>По третьей легенде, во время правления короля <a href="/wiki/%D0%94%D0%B6%D0%B0%D1%8F%D0%BF%D1%80%D0%B0%D0%BA%D0%B0%D1%88_%D0%9C%D0%B0%D0%BB%D0%BB%D0%B0" title="Джаяпракаш Малла">Джаяпракаш Малла</a> девочку выгнали из города, потому что боялись, что в неё вселился дух кровожадной богини <a href="/wiki/%D0%94%D1%83%D1%80%D0%B3%D0%B0" title="Дурга">Дурги</a>. Королева, узнав про это, заставила короля разыскать девочку и почитать её как инкарнацию богини <a href="/wiki/%D0%94%D1%83%D1%80%D0%B3%D0%B0" title="Дурга">Дурги</a>.
+</p>
+<h2><span id=".D0.9F.D1.80.D0.BE.D1.86.D0.B5.D0.B4.D1.83.D1.80.D0.B0_.D0.B8.D0.B7.D0.B1.D1.80.D0.B0.D0.BD.D0.B8.D1.8F_.D0.9A.D1.83.D0.BC.D0.B0.D1.80.D0.B8"></span><span class="mw-headline" id="Процедура_избрания_Кумари">Процедура избрания Кумари</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9A%D1%83%D0%BC%D0%B0%D1%80%D0%B8&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Процедура избрания Кумари»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9A%D1%83%D0%BC%D0%B0%D1%80%D0%B8&amp;action=edit&amp;section=2" title="Редактировать код раздела «Процедура избрания Кумари»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Как только богиня <a class="new" href="/w/index.php?title=%D0%A2%D0%B0%D0%BB%D0%B5%D0%B4%D0%B6%D1%83&amp;action=edit&amp;redlink=1" title="Таледжу (страница отсутствует)">Таледжу</a> покидает тело Кумари, начинается процесс поиска её новой инкарнации. В чём-то этот процесс похож на поиск новых воплощений <a href="/wiki/%D0%94%D0%B0%D0%BB%D0%B0%D0%B9-%D0%BB%D0%B0%D0%BC%D0%B0" title="Далай-лама">Далай-ламы</a> или <a href="/wiki/%D0%9F%D0%B0%D0%BD%D1%87%D0%B5%D0%BD-%D0%BB%D0%B0%D0%BC%D0%B0" title="Панчен-лама">Панчен-ламы</a> в <a href="/wiki/%D0%A2%D0%B8%D0%B1%D0%B5%D1%82" title="Тибет">Тибете</a>. Приглашаются высшие буддийские монахи — <a class="new" href="/w/index.php?title=%D0%92%D0%B0%D0%B4%D0%B6%D1%80%D0%B0%D1%87%D0%B0%D1%80%D1%8C%D1%8F&amp;action=edit&amp;redlink=1" title="Ваджрачарья (страница отсутствует)">ваджрачарья</a> и <a href="/wiki/%D0%90%D1%81%D1%82%D1%80%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Астрология">астрологи</a>. Король и высшие буддийские монахи информируются о ходе поисков. Кумари ищут в рамках определённой <a href="/wiki/%D0%9A%D0%B0%D1%81%D1%82%D0%B0" title="Каста">касты</a> ювелиров.
+</p><p>Перед тем, как допустить девочек в возрасте от 3 до 5 лет к конкурсу, жюри должно убедиться, что у них ни разу не выступала на теле кровь, в целостности все зубы, и все они соответствующего происхождения. Проверяется всё — здоровье, тело, голос, внешний вид, <a href="/wiki/%D0%93%D0%BE%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF" title="Гороскоп">гороскоп</a> на совместимость с гороскопами королей.
+</p>
+<h2><span id=".D0.96.D0.B8.D0.B7.D0.BD.D1.8C_.D0.9A.D0.BE.D1.80.D0.BE.D0.BB.D0.B5.D0.B2.D1.81.D0.BA.D0.BE.D0.B9_.D0.9A.D1.83.D0.BC.D0.B0.D1.80.D0.B8"></span><span class="mw-headline" id="Жизнь_Королевской_Кумари">Жизнь Королевской Кумари</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9A%D1%83%D0%BC%D0%B0%D1%80%D0%B8&amp;veaction=edit&amp;section=3" title="Редактировать раздел «Жизнь Королевской Кумари»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9A%D1%83%D0%BC%D0%B0%D1%80%D0%B8&amp;action=edit&amp;section=3" title="Редактировать код раздела «Жизнь Королевской Кумари»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>После <a href="/wiki/%D0%A2%D0%B0%D0%BD%D1%82%D1%80%D0%B0" title="Тантра">тантрических</a> ритуалов очищения Кумари переносят на белых простынях из храма во дворец <a class="new" href="/w/index.php?title=%D0%9A%D1%83%D0%BC%D0%B0%D1%80%D0%B8_%D0%93%D1%85%D0%B0%D1%80&amp;action=edit&amp;redlink=1" title="Кумари Гхар (страница отсутствует)">Кумари Гхар</a>, где она и живет. Девочка может покидать дворец только в связи с особыми <a href="/wiki/%D0%9E%D0%B1%D1%80%D1%8F%D0%B4" title="Обряд">ритуалами</a> и <a class="mw-disambig" href="/wiki/%D0%A6%D0%B5%D1%80%D0%B5%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F" title="Церемония">церемониями</a>. Члены семьи могут навещать её редко и по официальному поводу. Она не может работать и посещать школу. Кумари дружит и играет с ограниченным количеством детей из своей <a href="/wiki/%D0%9A%D0%B0%D1%81%D1%82%D0%B0" title="Каста">касты</a>, принадлежащих, как и она, к народности <a class="mw-redirect" href="/wiki/%D0%9D%D0%B5%D0%B2%D0%B0%D1%80%D1%86%D1%8B" title="Неварцы">невари</a>. Она одевается только в красное, завязывает волосы и носит на лбу «огненный глаз» (agni chakchuu) как символ особой духовной силы.
+</p><p>Поселившись во дворце, Кумари освобождается от повседневных забот, но начинает выполнять особую ритуальную роль. Она должна всем своим поведением соответствовать богине, любые её поступки начинают приобретать мистическое значение, а если она приходит в дурное настроение, это рассматривается как неблагоприятное знамение для тех, кто приходит к ней с просьбами.
+</p><p>Пока дух богини пребывает в Кумари, она не имеет права касаться земли за пределами дворца, а при необходимости перемещаться её несут в <a href="/wiki/%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%BE" title="Золото">золотом</a> <a href="/wiki/%D0%9F%D0%B0%D0%BB%D0%B0%D0%BD%D0%BA%D0%B8%D0%BD" title="Паланкин">паланкине</a>. Её ноги, равно как и все её тело, становится священным, и просители, прикасаясь к её ногам, надеются избавиться от своих трудностей и болезней. Когда король приходит раз в год просить у неё благословения, он целует её ноги. Она никогда не носит обуви, хотя иногда надевает красные чулки.
+</p><p>Верят, что Кумари обладает большой духовной силой, и один её взгляд может изменить судьбу к лучшему. Много людей ждут во дворе Кумари Човк, пока она не выглянет в окно, надеясь, что она на них взглянет. Даже если она выглядывает на несколько секунд, настроение людей, ждущих во дворе, изменяется, они наполняются радостью и надеждой.
+</p><p>К Кумари ходят также просители, которых она принимает, восседая на <a href="/wiki/%D0%A2%D1%80%D0%BE%D0%BD" title="Трон">троне</a> с золотыми львами. Многие посетители страдают болезнями крови или расстройством <a href="/wiki/%D0%9C%D0%B5%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%B0%D1%86%D0%B8%D1%8F" title="Менструация">менструации</a> и обращаются к ней, потому как считается, что Кумари обладает особой силой лечить эти болезни. Кумари посещают также чиновники и государственные деятели. Просители обычно приносят подарки, которые Кумари принимает в тишине. Потом она позволяет прикоснуться к своим стопам или поцеловать их (в виде посвящения). Во время аудиенций за Кумари пристально наблюдают. Вот пример интерпретаций её поведения:
+</p>
+<ul><li>Когда она кричит или плачет — серьёзная болезнь или смерть;</li>
+<li>Когда она в слезах или потирает глаза — скорая смерть;</li>
+<li>Когда она дрожит — тюремное заключение;</li>
+<li>Когда она хлопает в ладоши — следует бояться Короля;</li>
+<li>Когда она подбирает остатки предложенной еды — денежные потери.</li></ul>
+<p>Если же Кумари остаётся спокойной и бесстрастной во время аудиенции, просители уходят в хорошем настроении: это означает, что их просьбы будут удовлетворены.
+</p><p>Служащие при Кумари (<a class="new" href="/w/index.php?title=%D0%9A%D1%83%D0%BC%D0%B0%D1%80%D0%B8%D0%BC%D0%B8&amp;action=edit&amp;redlink=1" title="Кумарими (страница отсутствует)">кумарими</a>) во главе с <a class="new" href="/w/index.php?title=%D0%A7%D0%B8%D1%82%D0%B0%D0%B9%D0%B4%D0%B0%D1%80&amp;action=edit&amp;redlink=1" title="Читайдар (страница отсутствует)">читайдаром</a> должны выполнять все её желания и наставлять её в выполнении ритуала. Трудность этой профессии в том, что они не имеют права давать ей прямые приказания, но должны при этом вести и направлять её. Они несут ответственность за её одежду, купания, украшения, организацию приёма посетителей и другие церемонии.
+</p><p>По традиции, Кумари не получает образования, потому что изначально почитается всезнающей. В последнее время для Кумари ввели персональные уроки с учителем, а после возвращения к светской жизни ей предлагается получить образование. Её учителя, однако, не имеют права требовать от неё что-либо, поэтому они пытаются заинтересовать её изучать предмет.
+</p><p>Её тщательно отобранные друзья по детским играм также должны её почитать. Так как все желания Кумари должны быть исполнены, они должны и во время игр подчиняться её желаниям.
+</p>
+<h2><span id=".D0.A1.D1.83.D0.B4.D1.8C.D0.B1.D0.B0_.D0.B1.D1.8B.D0.B2.D1.88.D0.B8.D1.85_.D0.9A.D1.83.D0.BC.D0.B0.D1.80.D0.B8"></span><span class="mw-headline" id="Судьба_бывших_Кумари">Судьба бывших Кумари</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9A%D1%83%D0%BC%D0%B0%D1%80%D0%B8&amp;veaction=edit&amp;section=4" title="Редактировать раздел «Судьба бывших Кумари»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9A%D1%83%D0%BC%D0%B0%D1%80%D0%B8&amp;action=edit&amp;section=4" title="Редактировать код раздела «Судьба бывших Кумари»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Кумари теряет божественное присутствие неожиданно (обычно при первой менструации, выпадении первого зуба, или болезни, связанной с потерей крови), и становится такой же, как и простые смертные. Как только будет выбрана новая Кумари, старая Кумари проходит через определённые ритуалы и слагает с себя божественный статус.
+</p><p>Бывшие Кумари получают от государства пенсию 6000 <a href="/wiki/%D0%9D%D0%B5%D0%BF%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D1%83%D0%BF%D0%B8%D1%8F" title="Непальская рупия">рупий</a> в месяц (около 80 <a href="/wiki/%D0%94%D0%BE%D0%BB%D0%BB%D0%B0%D1%80_%D0%A1%D0%A8%D0%90" title="Доллар США">долларов</a> <a href="/wiki/%D0%A1%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D0%A8%D1%82%D0%B0%D1%82%D1%8B_%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B8" title="Соединённые Штаты Америки">США</a>). Это вдвое выше официального прожиточного минимума и в четыре разa выше среднего дохода непальца. Иногда её продолжают называть Кумари, а не по её имени, данном от рождения. Конечно, Кумари испытывают огромные трудности, связанные с возвратом из мистического мира в обычный быт.
+</p><p>В народе считают, что тот, кто женится на Кумари, должен умереть через полгода от кровавого кашля. Однако большинство Кумари практически не имели проблем с поиском мужа: все бывшие Кумари, кроме самых последних, уже вышли замуж.
+</p>
+<table class="standard">
+<tbody><tr>
+<th>Имя</th>
+<th>Город</th>
+<th>Дата пребывания в статусе Кумари</th>
+<th>Семейное положение
+</th></tr>
+<tr>
+<td>Хира Майя Шакья</td>
+<td>Воту</td>
+<td><a class="mw-redirect" href="/wiki/1922" title="1922">1922</a>—<a class="mw-redirect" href="/wiki/1923" title="1923">1923</a></td>
+<td>замужем, нет детей
+</td></tr>
+<tr>
+<td>Чини Шова Шакья*</td>
+<td>Лаган</td>
+<td><a class="mw-redirect" href="/wiki/1923" title="1923">1923</a>—<a class="mw-redirect" href="/wiki/1931" title="1931">1931</a></td>
+<td>замужем, 2 дочери
+</td></tr>
+<tr>
+<td>Чанлра Дэви Шакья*</td>
+<td>Асончука</td>
+<td><a class="mw-redirect" href="/wiki/1931" title="1931">1931</a>—<a class="mw-redirect" href="/wiki/1933" title="1933">1933</a></td>
+<td>замужем, 2 дочери
+</td></tr>
+<tr>
+<td>Дил Кумари Шакья</td>
+<td>Лаган</td>
+<td><a class="mw-redirect" href="/wiki/1933" title="1933">1933</a>—<a class="mw-redirect" href="/wiki/1942" title="1942">1942</a></td>
+<td>замужем, 3 сына,1 дочь
+</td></tr>
+<tr>
+<td>Нани Шова Шакья</td>
+<td>Омбахал</td>
+<td><a class="mw-redirect" href="/wiki/1942" title="1942">1942</a>—<a class="mw-redirect" href="/wiki/1949" title="1949">1949</a></td>
+<td>замужем, 4 сына, 2 дочери
+</td></tr>
+<tr>
+<td>Кайо Майджу Шакья*</td>
+<td>Квахити</td>
+<td><a class="mw-redirect" href="/wiki/1949" title="1949">1949</a>—<a class="mw-redirect" href="/wiki/1955" title="1955">1955</a></td>
+<td>замужем, 1 сын, 1 дочь
+</td></tr>
+<tr>
+<td>Харша Лакшми Шакья</td>
+<td>Нагхал</td>
+<td><a class="mw-redirect" href="/wiki/1955" title="1955">1955</a>—<a class="mw-redirect" href="/wiki/1961" title="1961">1961</a></td>
+<td>замужем, 2 сына
+</td></tr>
+<tr>
+<td>Нани Майджу Шакья</td>
+<td>Нагхал</td>
+<td><a class="mw-redirect" href="/wiki/1961" title="1961">1961</a>—<a class="mw-redirect" href="/wiki/1969" title="1969">1969</a></td>
+<td>замужем, 1 сын, 2 дочери
+</td></tr>
+<tr>
+<td>Сунина Шакья</td>
+<td>Омбахал</td>
+<td><a class="mw-redirect" href="/wiki/1969" title="1969">1969</a>—<a class="mw-redirect" href="/wiki/1978" title="1978">1978</a></td>
+<td>замужем, 1 сын, 1 дочь
+</td></tr>
+<tr>
+<td>Анита Шакья</td>
+<td>Сикамобахал</td>
+<td><a class="mw-redirect" href="/wiki/1978" title="1978">1978</a>—<a class="mw-redirect" href="/wiki/1984" title="1984">1984</a></td>
+<td>не замужем
+</td></tr>
+<tr>
+<td>Рашмила Шакья</td>
+<td>Квахити</td>
+<td><a class="mw-redirect" href="/wiki/1984" title="1984">1984</a>—<a class="mw-redirect" href="/wiki/1991" title="1991">1991</a></td>
+<td>замужем
+</td></tr>
+<tr>
+<td>Амита Шакья</td>
+<td>Асанбахал</td>
+<td><a class="mw-redirect" href="/wiki/1991" title="1991">1991</a>—<a class="mw-redirect" href="/wiki/2001" title="2001">2001</a></td>
+<td>не замужем
+</td></tr>
+<tr>
+<td>Преети Шакья</td>
+<td>Итумбахал</td>
+<td><a class="mw-redirect" href="/wiki/2001" title="2001">2001</a>—<a class="mw-redirect" href="/wiki/2008" title="2008">2008</a></td>
+<td>не замужем
+</td></tr>
+<tr>
+<td>Матина Шакья<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup></td>
+<td><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%BC%D0%B0%D0%BD%D0%B4%D1%83" title="Катманду">Катманду</a></td>
+<td><a class="mw-redirect" href="/wiki/2008" title="2008">2008</a>—<a class="mw-redirect" href="/wiki/2017" title="2017">2017</a></td>
+<td>не замужем
+</td></tr>
+<tr>
+<td>Тришна Шакья</td>
+<td>Катманду</td>
+<td><a class="mw-redirect" href="/wiki/2017" title="2017">2017</a>—</td>
+<td>не замужем
+</td></tr></tbody></table>
+<p>(* = умершие)
+</p>
+<h2><span id=".D0.9F.D0.BE.D0.B5.D0.B7.D0.B4.D0.BA.D0.B0_.D0.9A.D1.83.D0.BC.D0.B0.D1.80.D0.B8_.D0.B2_.D0.A1.D0.A8.D0.90"></span><span class="mw-headline" id="Поездка_Кумари_в_США">Поездка Кумари в США</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9A%D1%83%D0%BC%D0%B0%D1%80%D0%B8&amp;veaction=edit&amp;section=5" title="Редактировать раздел «Поездка Кумари в США»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9A%D1%83%D0%BC%D0%B0%D1%80%D0%B8&amp;action=edit&amp;section=5" title="Редактировать код раздела «Поездка Кумари в США»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Bhaktapur_Kumari.jpg"><img class="mw-file-element" data-file-height="1024" data-file-width="1280" decoding="async" height="200" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/Bhaktapur_Kumari.jpg/250px-Bhaktapur_Kumari.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/Bhaktapur_Kumari.jpg/375px-Bhaktapur_Kumari.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/74/Bhaktapur_Kumari.jpg/500px-Bhaktapur_Kumari.jpg 2x" width="250"/></a><figcaption>Саджари Шакья, Кумари города <a href="/wiki/%D0%91%D1%85%D0%B0%D0%BA%D1%82%D0%B0%D0%BF%D1%83%D1%80" title="Бхактапур">Бхактапура</a>, 2007</figcaption></figure>
+<p>3 июля <a class="mw-redirect" href="/wiki/2007" title="2007">2007</a> кумари города <a href="/wiki/%D0%91%D1%85%D0%B0%D0%BA%D1%82%D0%B0%D0%BF%D1%83%D1%80" title="Бхактапур">Бхактапура</a> Саджари Шакья утратила свой статус после поездки в США для презентации фильма <b><a class="new" href="/w/index.php?title=%D0%96%D0%B8%D0%B2%D0%B0%D1%8F_%D0%91%D0%BE%D0%B3%D0%B8%D0%BD%D1%8F_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)&amp;action=edit&amp;redlink=1" title="Живая Богиня (фильм) (страница отсутствует)">Живая Богиня</a></b> (<a class="extiw" href="https://en.wikipedia.org/wiki/Living_Goddess_(film)" title="en:Living Goddess (film)">Living Goddess</a>) в Сильвердокском фестивале документальных фильмов телеканала <a class="mw-redirect" href="/wiki/%D0%94%D0%B8%D1%81%D0%BA%D0%B0%D0%B2%D0%B5%D1%80%D0%B8_(%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB)" title="Дискавери (телеканал)">Дискавери</a>. Согласно традициям, Кумари не должна покидать Непал, поэтому поездка привела к осквернению её чистоты<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup>. Однако через несколько недель руководство храма заявило, что с неё не будет снят титул, потому что она готова пройти очистительные церемонии, снимающие осквернения, связанные с путешествием<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup>.
+</p>
+<h2><span id=".D0.9A.D1.80.D0.B8.D1.82.D0.B8.D0.BA.D0.B0_.D1.82.D1.80.D0.B0.D0.B4.D0.B8.D1.86.D0.B8.D0.B8"></span><span class="mw-headline" id="Критика_традиции">Критика традиции</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9A%D1%83%D0%BC%D0%B0%D1%80%D0%B8&amp;veaction=edit&amp;section=6" title="Редактировать раздел «Критика традиции»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9A%D1%83%D0%BC%D0%B0%D1%80%D0%B8&amp;action=edit&amp;section=6" title="Редактировать код раздела «Критика традиции»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Традиция Кумари критикуется защитниками прав детей за то, что из-за неё у детей отбирают детство и эксплуатируют во имя культурных традиций, что запрещено подписанной Непалом <a href="/wiki/%D0%9A%D0%BE%D0%BD%D0%B2%D0%B5%D0%BD%D1%86%D0%B8%D1%8F_%D0%BE_%D0%BF%D1%80%D0%B0%D0%B2%D0%B0%D1%85_%D1%80%D0%B5%D0%B1%D1%91%D0%BD%D0%BA%D0%B0" title="Конвенция о правах ребёнка">Конвенцией о правах ребёнка</a>. Девочки вынуждены расти отдельно от своей семьи и сверстников, сталкиваются с большим количеством ограничений, участвуют в длительных и утомительных церемониях. Необходимость возвращения к обычной жизни после нескольких лет в статусе «живой богини», их неподготовленность к жизни становятся для бывших Кумари психологически травмирующим опытом. Их взрослой жизни также мешают бытующие в обществе предрассудки<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup><sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup>.
+</p><p>После того, как в 2005 году Рашмила Шакья (единственная бывшая Кумари, получившая высшее образование) опубликовала автобиографическую книгу «Из богини в смертные: настоящая история бывшей королевской Кумари», правительство Непала ввело некоторые изменения. В частности, для Кумари было введено обязательное домашнее обучение, а после лишения статуса живой богини — образовательная стипендия в 3000 рупий (около 50 долларов) в месяц. Кроме того, бывшие Кумари могут рассчитывать на единовременный платёж в размере 50 000 рупий (около 830 долларов) для покрытия расходов на свадьбу<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup>.
+</p>
+<h2><span id=".D0.A3.D0.BF.D0.BE.D0.BC.D0.B8.D0.BD.D0.B0.D0.BD.D0.B8.D1.8F_.D0.B2_.D0.BB.D0.B8.D1.82.D0.B5.D1.80.D0.B0.D1.82.D1.83.D1.80.D0.B5"></span><span class="mw-headline" id="Упоминания_в_литературе">Упоминания в литературе</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9A%D1%83%D0%BC%D0%B0%D1%80%D0%B8&amp;veaction=edit&amp;section=7" title="Редактировать раздел «Упоминания в литературе»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9A%D1%83%D0%BC%D0%B0%D1%80%D0%B8&amp;action=edit&amp;section=7" title="Редактировать код раздела «Упоминания в литературе»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Поэма <a href="/wiki/%D0%93%D0%B0%D0%BC%D0%B7%D0%B0%D1%82%D0%BE%D0%B2,_%D0%A0%D0%B0%D1%81%D1%83%D0%BB_%D0%93%D0%B0%D0%BC%D0%B7%D0%B0%D1%82%D0%BE%D0%B2%D0%B8%D1%87" title="Гамзатов, Расул Гамзатович">Расула Гамзатова</a> «Живая богиня Кумари».</li></ul>
+<h2><span id=".D0.9B.D0.B8.D1.82.D0.B5.D1.80.D0.B0.D1.82.D1.83.D1.80.D0.B0"></span><span class="mw-headline" id="Литература">Литература</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9A%D1%83%D0%BC%D0%B0%D1%80%D0%B8&amp;veaction=edit&amp;section=8" title="Редактировать раздел «Литература»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9A%D1%83%D0%BC%D0%B0%D1%80%D0%B8&amp;action=edit&amp;section=8" title="Редактировать код раздела «Литература»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Kooij, K. R. <i>Religion in Nepal</i>. Brill Academic Publishers, 1978. <a class="mw-redirect" href="/wiki/ISBN" title="ISBN">ISBN</a> 9004058273.</li></ul>
+<h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Примечания">Примечания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9A%D1%83%D0%BC%D0%B0%D1%80%D0%B8&amp;veaction=edit&amp;section=9" title="Редактировать раздел «Примечания»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9A%D1%83%D0%BC%D0%B0%D1%80%D0%B8&amp;action=edit&amp;section=9" title="Редактировать код раздела «Примечания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.telegraph.co.uk/news/worldnews/1533196/Goddess-status-may-violate-girls-rights-says-court.html" rel="nofollow">Goddess status may violate girls' rights, says court</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 19 мая 2017. <a class="external text" href="https://web.archive.org/web/20170405002051/http://www.telegraph.co.uk/news/worldnews/1533196/Goddess-status-may-violate-girls-rights-says-court.html" rel="nofollow">Архивировано</a> 5 апреля 2017 года.</span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://ngm.nationalgeographic.com/2015/06/nepal-kumaris/sinclair-photography#/03-kumari-patan-on-throne-580v.jpg" rel="nofollow">Living Goddesses of Nepal – Photo Gallery</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 19 мая 2017. <a class="external text" href="https://web.archive.org/web/20170530093322/http://ngm.nationalgeographic.com/2015/06/nepal-kumaris/sinclair-photography#/03-kumari-patan-on-throne-580v.jpg" rel="nofollow">Архивировано</a> 30 мая 2017 года.</span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://turist.rbc.ru/news/08/10/2008/129442" rel="nofollow">В Непале выбрали божество</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 15 апреля 2009. <a class="external text" href="https://web.archive.org/web/20130611074224/http://turist.rbc.ru/news/08/10/2008/129442" rel="nofollow">Архивировано</a> 11 июня 2013 года.</span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a class="external text" href="http://news.bbc.co.uk/2/hi/south_asia/6264014.stm" rel="nofollow">'Goddess' sacked for visiting US</a> <a class="external text" href="https://web.archive.org/web/20100106073833/http://news.bbc.co.uk/2/hi/south_asia/6264014.stm" rel="nofollow">Архивная копия</a> от 6 января 2010 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. <i>BBC News</i>. 2007-07-03.</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><a class="external text" href="http://news.bbc.co.uk/2/hi/south_asia/6907007.stm" rel="nofollow">Nepalese 'goddess' is reinstated</a> <a class="external text" href="https://web.archive.org/web/20090116042929/http://news.bbc.co.uk/2/hi/south_asia/6907007.stm" rel="nofollow">Архивная копия</a> от 16 января 2009 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. <i>BBC News</i>. 2008-07-19.</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><span class="citation"><i>Harding, Luke.</i> <span lang="und"><a class="external text" href="https://www.theguardian.com/world/2001/jun/23/lukeharding" rel="nofollow">Calls to kill off living goddess. Critics attack Nepalese custom that 'steals childhood' from young girls</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. The Guardian (22 июля 2001). Дата обращения: 8 апреля 2020. <a class="external text" href="https://web.archive.org/web/20190831023525/https://www.theguardian.com/world/2001/jun/23/lukeharding" rel="nofollow">Архивировано</a> 31 августа 2019 года.</span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><span class="citation"><i>Osborne, Zoe.</i> <span lang="und"><a class="external text" href="https://www.abc.net.au/news/2019-01-19/-i-was-a-living-goddess-kumari-nepal/10717398" rel="nofollow">Growing up as a living goddess</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. ABC Australia (19 января 2019). Дата обращения: 8 апреля 2020. <a class="external text" href="https://web.archive.org/web/20190408070815/https://www.abc.net.au/news/2019-01-19/-i-was-a-living-goddess-kumari-nepal/10717398" rel="nofollow">Архивировано</a> 8 апреля 2019 года.</span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><span class="citation"><i>Martinez Cantera, Angel L.</i> <span lang="und"><a class="external text" href="https://www.vice.com/en_au/article/5gkwka/the-human-rights-of-the-kumari-living-goddesses" rel="nofollow">Meeting Nepal's Living Goddesses</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Vice (1 июля 2014). Дата обращения: 8 апреля 2020. <a class="external text" href="https://web.archive.org/web/20200226134153/https://www.vice.com/en_au/article/5gkwka/the-human-rights-of-the-kumari-living-goddesses" rel="nofollow">Архивировано</a> 26 февраля 2020 года.</span></span>
+</li>
+</ol></div></div>
+<h2><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span><span class="mw-headline" id="Ссылки">Ссылки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9A%D1%83%D0%BC%D0%B0%D1%80%D0%B8&amp;veaction=edit&amp;section=10" title="Редактировать раздел «Ссылки»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9A%D1%83%D0%BC%D0%B0%D1%80%D0%B8&amp;action=edit&amp;section=10" title="Редактировать код раздела «Ссылки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div aria-label="В родственных проектах" class="ts-Родственные_проекты ruwikiWikimediaNavigation tright metadata plainlinks plainlist noprint" role="navigation"><ul><li class="ts-Родственные_проекты-item"><span class="ts-Родственные_проекты-image"><span typeof="mw:File"><span><img alt="" class="mw-file-element" data-file-height="30" data-file-width="30" decoding="async" height="24" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/24px-Notification-icon-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/36px-Notification-icon-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/48px-Notification-icon-Commons-logo.svg.png 2x" width="24"/></span></span></span><span class="ts-Родственные_проекты-label commons-ref"><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Kumari" title="commons:Category:Kumari">Медиафайлы на Викискладе</a></span></li></ul></div>
+<ul><li><a class="external text" href="https://web.archive.org/web/20040810160756/http://www.nepalnews.com.np/contents/englishweekly/sundaypost/2001/jul/jul29/head.htm" rel="nofollow">Статья из Sunday Post</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><a class="external text" href="http://www.catmando.com/casinosnepal/july/kumari.htm" rel="nofollow">Kumari — The Living Goddess.</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><a class="external text" href="http://www.visitnepal.com/nepal_information/kumari.htm" rel="nofollow">Nepal Information: Details about Kumari Devi.</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><a class="external text" href="https://web.archive.org/web/20051201162635/http://www.mypage.bluewin.ch/raonline/pages/np/npkumari.html" rel="nofollow">Kumari — The Living Goddess (RAOnline).</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><a class="external text" href="http://www.nepal.ru/nepal/dif/kumari.shtml" rel="nofollow">Богиня Кумари.</a></li></ul>
+<table class="mbox-Нет_ссылок plainlinks metadata ambox ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><span><img alt="" class="mw-file-element" data-file-height="204" data-file-width="262" decoding="async" height="37" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Question_book-4.svg/48px-Question_book-4.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Question_book-4.svg/72px-Question_book-4.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/64/Question_book-4.svg/96px-Question_book-4.svg.png 2x" width="48"/></span></span></div></td><td class="mbox-text"><div class="mbox-text-div">В статье <b>не хватает <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D0%BD%D0%B0_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8" title="Википедия:Ссылки на источники">ссылок на источники</a></b> (см. <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2" title="Википедия:Поиск источников">рекомендации по поиску</a>).</div><div class="mbox-textsmall-div hide-when-compact" style="font-size:85%"><span class="hide-when-compact"> Информация должна быть <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D1%8F%D0%B5%D0%BC%D0%BE%D1%81%D1%82%D1%8C" title="Википедия:Проверяемость">проверяема</a>, иначе она может быть удалена. Вы можете <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9A%D1%83%D0%BC%D0%B0%D1%80%D0%B8&amp;action=edit">отредактировать</a> статью, добавив ссылки на <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D1%82%D0%BD%D1%8B%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8" title="Википедия:Авторитетные источники">авторитетные источники</a> в виде <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BD%D0%BE%D1%81%D0%BA%D0%B8" title="Википедия:Сноски">сносок</a>.</span> <span class="mbox-date"><i>(<span class="date">31 июля 2020</span>)</i></span></div></td></tr></tbody></table>
+<div aria-labelledby="Ссылки_на_внешние_ресурсы" class="navbox" data-name="External links" role="navigation" style="padding-top:1px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup" style="display:none"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:External_links" title="Перейти к шаблону «External links»"><img alt="Перейти к шаблону «External links»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span></span><div id="Ссылки_на_внешние_ресурсы" style="font-size:114%;margin:0 5em">Ссылки на внешние ресурсы</div></th></tr><tr><th class="navbox-group" scope="row" style="width:1px"><div style="padding: 0 35px 0 0; width: 100%;"><div style="float: left;"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8" title="Перейти к шаблону «Внешние ссылки»"><img alt="Перейти к шаблону «Внешние ссылки»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span>  <span typeof="mw:File"><a href="https://www.wikidata.org/wiki/Q1064555#identifiers" title="Перейти к элементу Викиданных"><img alt="Перейти к элементу Викиданных" class="mw-file-element" data-file-height="20" data-file-width="20" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/14px-OOjs_UI_icon_edit-ltr-progressive.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/21px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/28px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" width="14"/></a></span></div>  В библиографических каталогах</div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Gemeinsame_Normdatei" title="Gemeinsame Normdatei">GND</a>: <a class="external text" href="https://d-nb.info/gnd/11935831X" rel="nofollow">11935831X</a></li>
+<li><a href="/wiki/VIAF" title="VIAF">VIAF</a>: <a class="external text" href="https://viaf.org/viaf/19307944/" rel="nofollow">19307944</a></li>
+<li><a href="/wiki/WorldCat" title="WorldCat">WorldCat VIAF</a>: <a class="external text" href="https://www.worldcat.org/identities/containsVIAFID/19307944" rel="nofollow">19307944</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Индуизм" class="navbox" data-name="Индуизм" role="navigation"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="3" scope="colgroup" style="background-color:#ffcf69;"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%98%D0%BD%D0%B4%D1%83%D0%B8%D0%B7%D0%BC" title="Перейти к шаблону «Индуизм»"><img alt="Перейти к шаблону «Индуизм»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span></span><div id="Индуизм" style="font-size:114%;margin:0 5em"><a href="/wiki/%D0%98%D0%BD%D0%B4%D1%83%D0%B8%D0%B7%D0%BC" title="Индуизм">Индуизм</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="3" style="background-color:#ffcf69;"><div>
+<ul><li><a href="/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%B8%D0%BD%D0%B4%D1%83%D0%B8%D0%B7%D0%BC%D0%B0" title="История индуизма">История</a></li>
+<li><a href="/wiki/%D0%98%D0%BD%D0%B4%D1%83%D0%B8%D1%81%D1%82%D1%81%D0%BA%D0%B8%D0%B5_%D0%B1%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B0" title="Индуистские божества">Пантеон</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="background-color:#ffcf69;;width:1px"><a href="/wiki/%D0%9D%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B8%D0%BD%D0%B4%D1%83%D0%B8%D0%B7%D0%BC%D0%B0" title="Направления индуизма">Направления</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%92%D0%B8%D1%88%D0%BD%D1%83%D0%B8%D0%B7%D0%BC" title="Вишнуизм">Вишнуизм</a></li>
+<li><a href="/wiki/%D0%A8%D0%B8%D0%B2%D0%B0%D0%B8%D0%B7%D0%BC" title="Шиваизм">Шиваизм</a></li>
+<li><a href="/wiki/%D0%A8%D0%B0%D0%BA%D1%82%D0%B8%D0%B7%D0%BC" title="Шактизм">Шактизм</a></li>
+<li><a href="/wiki/%D0%A1%D0%BC%D0%B0%D1%80%D1%82%D0%B8%D0%B7%D0%BC" title="Смартизм">Смартизм</a></li>
+<li><a href="/wiki/%D0%A1%D0%B0%D1%83%D1%80%D0%B0_(%D0%B8%D0%BD%D0%B4%D1%83%D0%B8%D0%B7%D0%BC)" title="Саура (индуизм)">Сурьяизм</a></li>
+<li><a href="/wiki/%D0%93%D0%B0%D0%BD%D0%B0%D0%BF%D0%B0%D1%82%D1%8C%D1%8F" title="Ганапатья">Ганапатизм</a></li>
+<li><a href="/wiki/%D0%91%D0%B0%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%B8%D0%BD%D0%B4%D1%83%D0%B8%D0%B7%D0%BC" title="Балийский индуизм">Индонезийский Индуизм</a></li>
+<li><a href="/wiki/%D0%A8%D1%80%D0%B0%D1%83%D1%82%D0%B0" title="Шраута">Шраутизм</a></li>
+<li><a href="/wiki/%D0%9A%D0%B0%D1%83%D0%BC%D0%B0%D1%80%D0%B0" title="Каумара">Каумаризм</a></li>
+<li><a href="/wiki/%D0%94%D0%B0%D1%82%D1%82%D0%B0%D1%82%D1%80%D0%B5%D1%8F" title="Даттатрея">Даттатреизм</a></li></ul>
+</div></td><td class="navbox-image" rowspan="4" style="width:1px;padding:0px 0px 0px 7px"><div><span typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Om_symbol.svg" title="Aum"><img alt="Aum" class="mw-file-element" data-file-height="367" data-file-width="356" decoding="async" height="93" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Om_symbol.svg/90px-Om_symbol.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Om_symbol.svg/135px-Om_symbol.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Om_symbol.svg/180px-Om_symbol.svg.png 2x" width="90"/></a></span></div></td></tr><tr><th class="navbox-group" scope="row" style="background-color:#ffcf69;;width:1px"><a href="/wiki/%D0%A4%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84%D0%B8%D1%8F_%D0%B8%D0%BD%D0%B4%D1%83%D0%B8%D0%B7%D0%BC%D0%B0" title="Философия индуизма">Верования и практики</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%94%D1%85%D0%B0%D1%80%D0%BC%D0%B0" title="Дхарма">Дхарма</a></li>
+<li><a href="/wiki/%D0%90%D1%80%D1%82%D1%85%D0%B0" title="Артха">Артха</a></li>
+<li><a href="/wiki/%D0%9A%D0%B0%D0%BC%D0%B0_(%D0%B8%D0%BD%D0%B4%D1%83%D0%B8%D0%B7%D0%BC)" title="Кама (индуизм)">Кама</a></li>
+<li><a href="/wiki/%D0%9C%D0%BE%D0%BA%D1%88%D0%B0_(%D1%84%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84%D0%B8%D1%8F)" title="Мокша (философия)">Мокша</a></li>
+<li><a href="/wiki/%D0%9A%D0%B0%D1%80%D0%BC%D0%B0" title="Карма">Карма</a></li>
+<li><a href="/wiki/%D0%A1%D0%B0%D0%BD%D1%81%D0%B0%D1%80%D0%B0" title="Сансара">Сансара</a></li>
+<li><a href="/wiki/%D0%99%D0%BE%D0%B3%D0%B0" title="Йога">Йога</a></li>
+<li><a href="/wiki/%D0%91%D1%85%D0%B0%D0%BA%D1%82%D0%B8" title="Бхакти">Бхакти</a></li>
+<li><a href="/wiki/%D0%9C%D0%B0%D0%B9%D1%8F_(%D1%84%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84%D0%B8%D1%8F)" title="Майя (философия)">Майя</a></li>
+<li><a href="/wiki/%D0%9F%D1%83%D0%B4%D0%B6%D0%B0" title="Пуджа">Пуджа</a></li>
+<li><a href="/wiki/%D0%9A%D0%B8%D1%80%D1%82%D0%B0%D0%BD" title="Киртан">Киртан</a></li>
+<li><a href="/wiki/%D0%98%D0%BD%D0%B4%D1%83%D0%B8%D1%81%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D1%80%D0%B0%D0%BC" title="Индуистский храм">Мандир</a></li>
+<li><a href="/wiki/%D0%A2%D0%B8%D1%80%D1%82%D1%85%D0%B0_%D0%B8_%D0%BA%D1%88%D0%B5%D1%82%D1%80%D0%B0" title="Тиртха и кшетра">Тиртха и кшетра</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="background-color:#ffcf69;;width:1px"><a href="/wiki/%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0_%D0%B8%D0%BD%D0%B4%D1%83%D0%B8%D0%B7%D0%BC%D0%B0" title="Литература индуизма">Священные писания</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%92%D0%B5%D0%B4%D1%8B" title="Веды">Веды</a></li>
+<li><a href="/wiki/%D0%A3%D0%BF%D0%B0%D0%BD%D0%B8%D1%88%D0%B0%D0%B4%D1%8B" title="Упанишады">Упанишады</a></li>
+<li><a href="/wiki/%D0%90%D0%B3%D0%B0%D0%BC%D0%B0_(%D0%B8%D0%BD%D0%B4%D1%83%D0%B8%D0%B7%D0%BC)" title="Агама (индуизм)">Агамы</a> и <a href="/wiki/%D0%A2%D0%B0%D0%BD%D1%82%D1%80%D1%8B_(%D1%82%D0%B5%D0%BA%D1%81%D1%82%D1%8B)" title="Тантры (тексты)">тантры</a></li>
+<li><a href="/wiki/%D0%A0%D0%B0%D0%BC%D0%B0%D1%8F%D0%BD%D0%B0" title="Рамаяна">Рамаяна</a></li>
+<li><a href="/wiki/%D0%9C%D0%B0%D1%85%D0%B0%D0%B1%D1%85%D0%B0%D1%80%D0%B0%D1%82%D0%B0" title="Махабхарата">Махабхарата</a></li>
+<li><a href="/wiki/%D0%91%D1%85%D0%B0%D0%B3%D0%B0%D0%B2%D0%B0%D0%B4%D0%B3%D0%B8%D1%82%D0%B0" title="Бхагавадгита">Бхагавадгита</a></li>
+<li><a href="/wiki/%D0%9F%D1%83%D1%80%D0%B0%D0%BD%D1%8B" title="Пураны">Пураны</a></li>
+<li><a href="/wiki/%D0%A1%D1%83%D1%82%D1%80%D0%B0" title="Сутра">Сутры</a></li>
+<li><i><a class="new" href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%81%D0%B2%D1%8F%D1%89%D0%B5%D0%BD%D0%BD%D1%8B%D1%85_%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B9_%D0%B8%D0%BD%D0%B4%D1%83%D0%B8%D0%B7%D0%BC%D0%B0&amp;action=edit&amp;redlink=1" title="Список священных писаний индуизма (страница отсутствует)">другие</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="background-color:#ffcf69;;width:1px">Родственные темы</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%98%D0%BD%D0%B4%D1%83%D0%B8%D0%B7%D0%BC_%D0%BF%D0%BE_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B0%D0%BC" title="Индуизм по странам">Индуизм по странам</a></li>
+<li><a href="/wiki/%D0%98%D0%BD%D0%B4%D1%83%D0%B8%D1%81%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0" title="Индуистская архитектура">Архитектура</a></li>
+<li><a href="/wiki/%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B5%D0%B8%D0%BD%D0%B4%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C" title="Древнеиндийский календарь">Календарь</a></li>
+<li><a href="/wiki/%D0%9F%D1%80%D0%B0%D0%B7%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8_%D0%B8%D0%BD%D0%B4%D1%83%D0%B8%D0%B7%D0%BC%D0%B0" title="Праздники индуизма">Праздники</a></li>
+<li><a href="/wiki/%D0%9A%D1%80%D0%B5%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B8%D0%B7%D0%BC_%D0%B2_%D0%B8%D0%BD%D0%B4%D1%83%D0%B8%D0%B7%D0%BC%D0%B5" title="Креационизм в индуизме">Креационизм</a></li>
+<li><a href="/wiki/%D0%9C%D0%BE%D0%BD%D0%BE%D1%82%D0%B5%D0%B8%D0%B7%D0%BC_%D0%B2_%D0%B8%D0%BD%D0%B4%D1%83%D0%B8%D0%B7%D0%BC%D0%B5" title="Монотеизм в индуизме">Монотеизм</a></li>
+<li><a href="/wiki/%D0%9D%D0%B8%D1%80%D0%B8%D1%88%D0%B2%D0%B0%D1%80%D0%B0%D0%B2%D0%B0%D0%B4%D0%B0" title="Ниришваравада">Атеизм</a></li>
+<li><a href="/wiki/%D0%9E%D0%B1%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B2_%D0%B8%D0%BD%D0%B4%D1%83%D0%B8%D0%B7%D0%BC" title="Обращение в индуизм">Обращение в индуизм</a></li>
+<li><a href="/wiki/%D0%90%D1%8E%D1%80%D0%B2%D0%B5%D0%B4%D0%B0" title="Аюрведа">Аюрведа</a></li>
+<li><a href="/wiki/%D0%94%D0%B6%D1%8C%D0%BE%D1%82%D0%B8%D1%88%D0%B0" title="Джьотиша">Джьотиша</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="3" style="background-color:#ffcf69;"><div><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%98%D0%BD%D0%B4%D1%83%D0%B8%D0%B7%D0%BC" title="Портал:Индуизм">Портал: Индуизм</a></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1414
+Cached time: 20240226122947
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.208 seconds
+Real time usage: 0.328 seconds
+Preprocessor visited node count: 1438/1000000
+Post‐expand include size: 39181/2097152 bytes
+Template argument size: 1455/2097152 bytes
+Highest expansion depth: 15/100
+Expensive parser function count: 4/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 8019/5000000 bytes
+Lua time usage: 0.110/10.000 seconds
+Lua memory usage: 3764344/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  260.768      1 -total
+ 22.87%   59.629      1 Шаблон:Навигация
+ 19.71%   51.405      1 Шаблон:Внешние_ссылки
+ 19.22%   50.129      1 Шаблон:Нет_ссылок
+ 17.68%   46.094      1 Шаблон:Примечания
+ 13.50%   35.216      6 Шаблон:Cite_web
+ 11.93%   31.107      2 Шаблон:Другое_значение
+ 10.38%   27.067      1 Шаблон:Ambox
+  9.73%   25.365      1 Шаблон:Значения
+  6.70%   17.466      1 Шаблон:Сортировка:_статьи_без_источников
+-->
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:92809-0!canonical and timestamp 20240226122947 and revision id 128813919. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> -->
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Кумари&amp;oldid=128813919">https://ru.wikipedia.org/w/index.php?title=Кумари&amp;oldid=128813919</a></div></div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0_%D0%9D%D0%B5%D0%BF%D0%B0%D0%BB%D0%B0" title="Категория:Культура Непала">Культура Непала</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%91%D0%BE%D0%B3%D0%B8%D0%BD%D0%B8_%D0%B8%D0%BD%D0%B4%D1%83%D0%B8%D0%B7%D0%BC%D0%B0" title="Категория:Богини индуизма">Богини индуизма</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9E%D0%B1%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%BB%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D0%B4%D0%B5%D1%82%D0%B8" title="Категория:Обожествлённые дети">Обожествлённые дети</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%BD%D0%B5_%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD_%D1%8F%D0%B7%D1%8B%D0%BA)" title="Категория:Википедия:Cite web (не указан язык)">Википедия:Cite web (не указан язык)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81%D0%BE_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8_%D0%BD%D0%B0_%D0%92%D0%B8%D0%BA%D0%B8%D1%81%D0%BA%D0%BB%D0%B0%D0%B4" title="Категория:Статьи со ссылками на Викисклад">Статьи со ссылками на Викисклад</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%B1%D0%B5%D0%B7_%D1%81%D1%81%D1%8B%D0%BB%D0%BE%D0%BA_%D0%BD%D0%B0_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D1%81_%D0%B8%D1%8E%D0%BB%D1%8F_2020_%D0%B3%D0%BE%D0%B4%D0%B0" title="Категория:Википедия:Статьи без ссылок на источники с июля 2020 года">Википедия:Статьи без ссылок на источники с июля 2020 года</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%B1%D0%B5%D0%B7_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_(%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B0:_%D0%9D%D0%B5%D0%BF%D0%B0%D0%BB)" title="Категория:Википедия:Статьи без источников (страна: Непал)">Википедия:Статьи без источников (страна: Непал)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%B1%D0%B5%D0%B7_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_(%D1%82%D0%B8%D0%BF:_%D0%B1%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%BE)" title="Категория:Википедия:Статьи без источников (тип: божество)">Википедия:Статьи без источников (тип: божество)</a></li></ul></div></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Навигация</h2>
+<div id="mw-head">
+<nav aria-labelledby="p-personal-label" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" id="p-personal" role="navigation">
+<h3 class="vector-menu-heading" id="p-personal-label">
+<span class="vector-menu-heading-label">Персональные инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="pt-anonuserpage"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li class="mw-list-item" id="pt-anontalk"><a accesskey="n" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]"><span>Обсуждение</span></a></li><li class="mw-list-item" id="pt-anoncontribs"><a accesskey="y" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]"><span>Вклад</span></a></li><li class="mw-list-item" id="pt-createaccount"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%9A%D1%83%D0%BC%D0%B0%D1%80%D0%B8" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li class="mw-list-item" id="pt-login"><a accesskey="o" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%9A%D1%83%D0%BC%D0%B0%D1%80%D0%B8" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]"><span>Войти</span></a></li>
+</ul>
+</div>
+</nav>
+<div id="left-navigation">
+<nav aria-labelledby="p-namespaces-label" class="mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-namespaces" role="navigation">
+<h3 class="vector-menu-heading" id="p-namespaces-label">
+<span class="vector-menu-heading-label">Пространства имён</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-nstab-main"><a accesskey="c" href="/wiki/%D0%9A%D1%83%D0%BC%D0%B0%D1%80%D0%B8" title="Просмотреть контентную страницу [c]"><span>Статья</span></a></li><li class="mw-list-item" id="ca-talk"><a accesskey="t" href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%9A%D1%83%D0%BC%D0%B0%D1%80%D0%B8" rel="discussion" title="Обсуждение основной страницы [t]"><span>Обсуждение</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-variants-label" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" id="p-variants" role="navigation">
+<input aria-haspopup="true" aria-labelledby="p-variants-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-variants" id="p-variants-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-variants-label">
+<span class="vector-menu-heading-label">русский</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+</div>
+<div id="right-navigation">
+<nav aria-labelledby="p-views-label" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-views" role="navigation">
+<h3 class="vector-menu-heading" id="p-views-label">
+<span class="vector-menu-heading-label">Просмотры</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="ca-view"><a href="/w/index.php?title=%D0%9A%D1%83%D0%BC%D0%B0%D1%80%D0%B8&amp;stable=1"><span>Читать</span></a></li><li class="collapsible selected mw-list-item" id="ca-current"><a accesskey="v" href="/w/index.php?title=%D0%9A%D1%83%D0%BC%D0%B0%D1%80%D0%B8&amp;stable=0&amp;redirect=no" title="Показать текущую версию этой страницы [v]"><span>Текущая версия</span></a></li><li class="mw-list-item" id="ca-ve-edit"><a accesskey="v" href="/w/index.php?title=%D0%9A%D1%83%D0%BC%D0%B0%D1%80%D0%B8&amp;veaction=edit" title="Редактировать данную страницу [v]"><span>Править</span></a></li><li class="collapsible mw-list-item" id="ca-edit"><a accesskey="e" href="/w/index.php?title=%D0%9A%D1%83%D0%BC%D0%B0%D1%80%D0%B8&amp;action=edit" title="Править исходный текст этой страницы [e]"><span>Править код</span></a></li><li class="mw-list-item" id="ca-history"><a accesskey="h" href="/w/index.php?title=%D0%9A%D1%83%D0%BC%D0%B0%D1%80%D0%B8&amp;action=history" title="Журнал изменений страницы [h]"><span>История</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-cactions-label" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" id="p-cactions" role="navigation" title="Больше возможностей">
+<input aria-haspopup="true" aria-labelledby="p-cactions-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-cactions" id="p-cactions-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-cactions-label">
+<span class="vector-menu-heading-label">Ещё</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+<div class="vector-search-box-vue vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box" id="p-search" role="search">
+<h3>Поиск</h3>
+<form action="/w/index.php" class="vector-search-box-form" id="searchform">
+<div class="vector-search-box-inner" data-search-loc="header-navigation" id="simpleSearch">
+<input accesskey="f" aria-label="Искать в Википедии" autocapitalize="sentences" class="vector-search-box-input" id="searchInput" name="search" placeholder="Искать в Википедии" title="Искать в Википедии [f]" type="search"/>
+<input name="title" type="hidden" value="Служебная:Поиск"/>
+<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Найти страницы, содержащие указанный текст" type="submit" value="Найти"/>
+<input class="searchButton" id="searchButton" name="go" title="Перейти к странице, имеющей в точности такое название" type="submit" value="Перейти"/>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="vector-legacy-sidebar" id="mw-panel">
+<div id="p-logo" role="banner">
+<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу"></a>
+</div>
+<nav aria-labelledby="p-navigation-label" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" id="p-navigation" role="navigation">
+<h3 class="vector-menu-heading" id="p-navigation-label">
+<span class="vector-menu-heading-label">Навигация</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-mainpage-description"><a accesskey="z" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]"><span>Заглавная страница</span></a></li><li class="mw-list-item" id="n-content"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li class="mw-list-item" id="n-featured"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li class="mw-list-item" id="n-randompage"><a accesskey="x" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]"><span>Случайная статья</span></a></li><li class="mw-list-item" id="n-currentevents"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li class="mw-list-item" id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-participation-label" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" id="p-participation" role="navigation">
+<h3 class="vector-menu-heading" id="p-participation-label">
+<span class="vector-menu-heading-label">Участие</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-bug_in_article"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li class="mw-list-item" id="n-introduction"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li class="mw-list-item" id="n-portal"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li class="mw-list-item" id="n-forum"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li class="mw-list-item" id="n-recentchanges"><a accesskey="r" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]"><span>Свежие правки</span></a></li><li class="mw-list-item" id="n-newpages"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li class="mw-list-item" id="n-help"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-tb-label" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" id="p-tb" role="navigation">
+<h3 class="vector-menu-heading" id="p-tb-label">
+<span class="vector-menu-heading-label">Инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="t-whatlinkshere"><a accesskey="j" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%9A%D1%83%D0%BC%D0%B0%D1%80%D0%B8" title="Список всех страниц, ссылающихся на данную [j]"><span>Ссылки сюда</span></a></li><li class="mw-list-item" id="t-recentchangeslinked"><a accesskey="k" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%9A%D1%83%D0%BC%D0%B0%D1%80%D0%B8" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]"><span>Связанные правки</span></a></li><li class="mw-list-item" id="t-specialpages"><a accesskey="q" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]"><span>Служебные страницы</span></a></li><li class="mw-list-item" id="t-permalink"><a href="/w/index.php?title=%D0%9A%D1%83%D0%BC%D0%B0%D1%80%D0%B8&amp;oldid=128813919" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li class="mw-list-item" id="t-info"><a href="/w/index.php?title=%D0%9A%D1%83%D0%BC%D0%B0%D1%80%D0%B8&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li class="mw-list-item" id="t-cite"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%9A%D1%83%D0%BC%D0%B0%D1%80%D0%B8&amp;id=128813919&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li class="mw-list-item" id="t-urlshortener"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%259A%25D1%2583%25D0%25BC%25D0%25B0%25D1%2580%25D0%25B8"><span>Получить короткий URL</span></a></li><li class="mw-list-item" id="t-urlshortener-qrcode"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%259A%25D1%2583%25D0%25BC%25D0%25B0%25D1%2580%25D0%25B8"><span>Скачать QR-код</span></a></li><li class="mw-list-item" id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1064555" title="Ссылка на связанный элемент репозитория данных [g]"><span>Элемент Викиданных</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-coll-print_export-label" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" id="p-coll-print_export" role="navigation">
+<h3 class="vector-menu-heading" id="p-coll-print_export-label">
+<span class="vector-menu-heading-label">Печать/экспорт</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="coll-download-as-rl"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%9A%D1%83%D0%BC%D0%B0%D1%80%D0%B8&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li class="mw-list-item" id="t-print"><a accesskey="p" href="/w/index.php?title=%D0%9A%D1%83%D0%BC%D0%B0%D1%80%D0%B8&amp;printable=yes" title="Версия этой страницы для печати [p]"><span>Версия для печати</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-wikibase-otherprojects-label" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal vector-menu" id="p-wikibase-otherprojects" role="navigation">
+<h3 class="vector-menu-heading" id="p-wikibase-otherprojects-label">
+<span class="vector-menu-heading-label">В других проектах</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Kumari" hreflang="en"><span>Викисклад</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-lang-label" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" id="p-lang" role="navigation">
+<h3 class="vector-menu-heading" id="p-lang-label">
+<span class="vector-menu-heading-label">На других языках</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="interlanguage-link interwiki-as mw-list-item"><a class="interlanguage-link-target" href="https://as.wikipedia.org/wiki/%E0%A6%95%E0%A7%81%E0%A6%AE%E0%A6%BE%E0%A7%B0%E0%A7%80_(%E0%A6%A6%E0%A7%87%E0%A7%B1%E0%A7%80)" hreflang="as" lang="as" title="কুমাৰী (দেৱী) — ассамский"><span>অসমীয়া</span></a></li><li class="interlanguage-link interwiki-az mw-list-item"><a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/Kumari" hreflang="az" lang="az" title="Kumari — азербайджанский"><span>Azərbaycanca</span></a></li><li class="interlanguage-link interwiki-be mw-list-item"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%9A%D1%83%D0%BC%D0%B0%D1%80%D1%8B_(%D0%B1%D0%B0%D0%B3%D1%96%D0%BD%D1%8F)" hreflang="be" lang="be" title="Кумары (багіня) — белорусский"><span>Беларуская</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%9A%D1%83%D0%BC%D0%B0%D1%80%D0%B8" hreflang="bg" lang="bg" title="Кумари — болгарский"><span>Български</span></a></li><li class="interlanguage-link interwiki-bn mw-list-item"><a class="interlanguage-link-target" href="https://bn.wikipedia.org/wiki/%E0%A6%95%E0%A7%81%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%80_%E0%A6%AA%E0%A7%82%E0%A6%9C%E0%A6%BE" hreflang="bn" lang="bn" title="কুমারী পূজা — бенгальский"><span>বাংলা</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Kumari" hreflang="ca" lang="ca" title="Kumari — каталанский"><span>Català</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Kum%C3%A1r%C3%AD" hreflang="cs" lang="cs" title="Kumárí — чешский"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Kumari" hreflang="de" lang="de" title="Kumari — немецкий"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%9A%CE%BF%CF%85%CE%BC%CE%AC%CF%81%CE%B9_(%CE%B8%CE%B5%CE%AC)" hreflang="el" lang="el" title="Κουμάρι (θεά) — греческий"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a class="interlanguage-link-target" href="https://en.wikipedia.org/wiki/Kumari_(goddess)" hreflang="en" lang="en" title="Kumari (goddess) — английский"><span>English</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Kumari" hreflang="es" lang="es" title="Kumari — испанский"><span>Español</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Kumari" hreflang="et" lang="et" title="Kumari — эстонский"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%DA%A9%D9%88%D9%85%D8%A7%D8%B1%DB%8C_(%D8%A7%D9%84%D9%87%D9%87)" hreflang="fa" lang="fa" title="کوماری (الهه) — персидский"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Kumari_(d%C3%A9esse)" hreflang="fr" lang="fr" title="Kumari (déesse) — французский"><span>Français</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%A7%D7%95%D7%9E%D7%90%D7%A8%D7%99" hreflang="he" lang="he" title="קומארי — иврит"><span>עברית</span></a></li><li class="interlanguage-link interwiki-is mw-list-item"><a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/Kumari" hreflang="is" lang="is" title="Kumari — исландский"><span>Íslenska</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Kumari" hreflang="it" lang="it" title="Kumari — итальянский"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%9E%E3%83%AA" hreflang="ja" lang="ja" title="クマリ — японский"><span>日本語</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%BF%A0%EB%A7%88%EB%A6%AC" hreflang="ko" lang="ko" title="쿠마리 — корейский"><span>한국어</span></a></li><li class="interlanguage-link interwiki-ne mw-list-item"><a class="interlanguage-link-target" href="https://ne.wikipedia.org/wiki/%E0%A4%95%E0%A5%81%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%80_(%E0%A4%9C%E0%A5%80%E0%A4%B5%E0%A4%BF%E0%A4%A4_%E0%A4%A6%E0%A5%87%E0%A4%B5%E0%A5%80)" hreflang="ne" lang="ne" title="कुमारी (जीवित देवी) — непальский"><span>नेपाली</span></a></li><li class="interlanguage-link interwiki-new mw-list-item"><a class="interlanguage-link-target" href="https://new.wikipedia.org/wiki/%E0%A4%95%E0%A5%81%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%80" hreflang="new" lang="new" title="कुमारी — неварский"><span>नेपाल भाषा</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Kumari_Dewi" hreflang="pl" lang="pl" title="Kumari Dewi — польский"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Kumari" hreflang="pt" lang="pt" title="Kumari — португальский"><span>Português</span></a></li><li class="interlanguage-link interwiki-sd mw-list-item"><a class="interlanguage-link-target" href="https://sd.wikipedia.org/wiki/%DA%AA%D9%85%D8%A7%D8%B1%D9%8A_(%D8%AF%D9%8A%D9%88%D9%8A)" hreflang="sd" lang="sd" title="ڪماري (ديوي) — синдхи"><span>سنڌي</span></a></li><li class="interlanguage-link interwiki-sl mw-list-item"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Kumari_(boginja)" hreflang="sl" lang="sl" title="Kumari (boginja) — словенский"><span>Slovenščina</span></a></li><li class="interlanguage-link interwiki-ta mw-list-item"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%95%E0%AF%81%E0%AE%AE%E0%AE%BE%E0%AE%B0%E0%AE%BF_%E0%AE%A4%E0%AF%87%E0%AE%B5%E0%AE%BF" hreflang="ta" lang="ta" title="குமாரி தேவி — тамильский"><span>தமிழ்</span></a></li><li class="interlanguage-link interwiki-th mw-list-item"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B8%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B8%B5" hreflang="th" lang="th" title="กุมารี — тайский"><span>ไทย</span></a></li><li class="interlanguage-link interwiki-tt mw-list-item"><a class="interlanguage-link-target" href="https://tt.wikipedia.org/wiki/%D0%9A%D1%83%D0%BC%D0%B0%D1%80%D0%B8" hreflang="tt" lang="tt" title="Кумари — татарский"><span>Татарча / tatarça</span></a></li><li class="interlanguage-link interwiki-ur mw-list-item"><a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%DA%A9%D9%85%D8%A7%D8%B1%DB%8C_(%D8%AF%DB%8C%D9%88%DB%8C)" hreflang="ur" lang="ur" title="کماری (دیوی) — урду"><span>اردو</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Kumari_(n%E1%BB%AF_th%E1%BA%A7n)" hreflang="vi" lang="vi" title="Kumari (nữ thần) — вьетнамский"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%BA%93%E7%8E%9B%E4%B8%BD" hreflang="zh" lang="zh" title="库玛丽 — китайский"><span>中文</span></a></li>
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1064555#sitelinks-wikipedia" title="Править ссылки на другие языки">Править ссылки</a></span></div>
+</div>
+</nav>
+</div>
+</div>
+<footer class="mw-footer" id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 28 февраля 2023 в 21:33.</li>
+<li id="footer-info-copyright">Текст доступен по <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru" rel="license">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a><a href="//creativecommons.org/licenses/by-sa/4.0/" rel="license" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br/>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org/ru/">Фонд Викимедиа (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//ru.m.wikipedia.org/w/index.php?title=%D0%9A%D1%83%D0%BC%D0%B0%D1%80%D0%B8&amp;mobileaction=toggle_view_mobile">Мобильная версия</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" loading="lazy" src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88"/></a></li>
+<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" loading="lazy" src="/static/images/footer/poweredby_mediawiki_88x31.png" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88"/></a></li>
+</ul>
+</footer>
+
+
+</body>
+</html>

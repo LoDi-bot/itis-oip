@@ -11,7 +11,7 @@
 <meta content="" name="ResourceLoaderDynamicStyles"/>
 
 
-<meta content="MediaWiki 1.42.0-wmf.18" name="generator"/>
+<meta content="MediaWiki 1.42.0-wmf.19" name="generator"/>
 <meta content="origin" name="referrer"/>
 <meta content="origin-when-cross-origin" name="referrer"/>
 <meta content="max-image-preview:standard" name="robots"/>
@@ -77,13 +77,13 @@
 </td></tr></tbody></table>
 <!-- 
 NewPP limit report
-Parsed by mw2303
-Cached time: 20240125090220
+Parsed by mw1416
+Cached time: 20240224091328
 Cache expiry: 2592000
 Reduced expiry: false
 Complications: []
-CPU time usage: 0.036 seconds
-Real time usage: 0.048 seconds
+CPU time usage: 0.041 seconds
+Real time usage: 0.058 seconds
 Preprocessor visited node count: 231/1000000
 Post‐expand include size: 10788/2097152 bytes
 Template argument size: 691/2097152 bytes
@@ -92,20 +92,20 @@ Expensive parser function count: 0/500
 Unstrip recursion depth: 0/20
 Unstrip post‐expand size: 661/5000000 bytes
 Lua time usage: 0.003/10.000 seconds
-Lua memory usage: 686822/52428800 bytes
+Lua memory usage: 696661/52428800 bytes
 Number of Wikibase entities loaded: 0/400
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%   33.653      1 -total
-100.00%   33.653      1 Шаблон:Неоднозначность
- 64.94%   21.854      3 Шаблон:Неоднозначность/данные
- 53.43%   17.980      3 Шаблон:Неоднозначность/вывод
- 40.62%   13.671      2 Шаблон:Без_уточнения
-  3.00%    1.010      3 Шаблон:!-
-  2.98%    1.002      3 Шаблон:!!
+100.00%   36.767      1 -total
+100.00%   36.767      1 Шаблон:Неоднозначность
+ 64.76%   23.811      3 Шаблон:Неоднозначность/данные
+ 53.60%   19.706      3 Шаблон:Неоднозначность/вывод
+ 40.42%   14.860      2 Шаблон:Без_уточнения
+  3.59%    1.320      3 Шаблон:!-
+  3.00%    1.102      3 Шаблон:!!
 -->
-<!-- Saved in parser cache with key ruwiki:pcache:idhash:8180851-0!canonical and timestamp 20240125090220 and revision id 133839672. Rendering was triggered because: page-view
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:8180851-0!canonical and timestamp 20240224091328 and revision id 133839672. Rendering was triggered because: page-view
  -->
 </div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> -->
 <div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Аэрофлот&amp;oldid=133839672">https://ru.wikipedia.org/w/index.php?title=Аэрофлот&amp;oldid=133839672</a></div></div>

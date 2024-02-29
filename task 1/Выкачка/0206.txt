@@ -11,7 +11,7 @@
 <meta content="" name="ResourceLoaderDynamicStyles"/>
 
 
-<meta content="MediaWiki 1.42.0-wmf.18" name="generator"/>
+<meta content="MediaWiki 1.42.0-wmf.19" name="generator"/>
 <meta content="origin" name="referrer"/>
 <meta content="origin-when-cross-origin" name="referrer"/>
 <meta content="max-image-preview:standard" name="robots"/>
@@ -146,7 +146,7 @@
 <li><a class="external text" href="https://web.archive.org/web/20070310163558/http://library.riverships.ru/Books/River/26.htm" rel="nofollow">ПОЯВЛЕНИЕ КОННО-МАШИННЫХ СУДОВ, глава из книги «Речное судоходство в России»</a></li>
 <li><a class="external text" href="http://www.nasw.org/users/sperkins/hrsferry.html" rel="nofollow">When Horses Really Walked On Water</a>  <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small> — об устройстве коноводных судов и истории их применения в <a class="mw-redirect" href="/wiki/%D0%A1%D0%A8%D0%90" title="США">США</a> и других странах.</li>
 <li><a class="external text" href="https://web.archive.org/web/20140417130103/http://www.lcmm.org/shipwrecks_history/uhp/horse_ferry.htm" rel="nofollow">Burlington Bay Horse Ferry</a>  <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small> — конный паром, затонувший на озере <a class="mw-redirect" href="/wiki/%D0%A8%D0%B0%D0%BC%D0%BF%D0%BB%D0%B5%D0%B9%D0%BD_(%D0%BE%D0%B7%D0%B5%D1%80%D0%BE)" title="Шамплейн (озеро)">Шамплейн</a>, штат <a href="/wiki/%D0%92%D0%B5%D1%80%D0%BC%D0%BE%D0%BD%D1%82" title="Вермонт">Вермонт</a>, в первой половине XIX века.</li></ul>
-<div aria-labelledby="Классификация_судов" class="navbox" data-name="Корабли" role="navigation"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%9A%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D0%B8" title="Перейти к шаблону «Корабли»"><img alt="Перейти к шаблону «Корабли»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span> </span><div id="Классификация_судов" style="font-size:114%;margin:0 5em">Классификация <a href="/wiki/%D0%A1%D1%83%D0%B4%D0%BD%D0%BE" title="Судно">судов</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1px">Суда по устройству двигателя</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<div aria-labelledby="Классификация_судов" class="navbox" data-name="Корабли" role="navigation"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%9A%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D0%B8" title="Перейти к шаблону «Корабли»"><img alt="Перейти к шаблону «Корабли»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span></span><div id="Классификация_судов" style="font-size:114%;margin:0 5em">Классификация <a href="/wiki/%D0%A1%D1%83%D0%B4%D0%BD%D0%BE" title="Судно">судов</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1px">Суда по устройству двигателя</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
 <ul><li><a href="/wiki/%D0%9F%D0%B0%D1%80%D1%83%D1%81%D0%BD%D0%BE%D0%B5_%D1%81%D1%83%D0%B4%D0%BD%D0%BE" title="Парусное судно">Парусное</a></li>
 <li><a href="/wiki/%D0%93%D1%80%D0%B5%D0%B1%D0%BD%D0%BE%D0%B5_%D1%81%D1%83%D0%B4%D0%BD%D0%BE" title="Гребное судно">Гребное</a></li>
 <li><a class="mw-selflink selflink">Коноводное</a> (кабестанное)</li>
@@ -184,38 +184,38 @@
 </div></td></tr></tbody></table></div>
 <!-- 
 NewPP limit report
-Parsed by mw‐web.eqiad.main‐7cc97dcfbc‐ht65d
-Cached time: 20240218064958
+Parsed by mw2438
+Cached time: 20240226180543
 Cache expiry: 2592000
 Reduced expiry: false
 Complications: [show‐toc]
-CPU time usage: 0.117 seconds
-Real time usage: 0.388 seconds
-Preprocessor visited node count: 575/1000000
-Post‐expand include size: 15332/2097152 bytes
-Template argument size: 485/2097152 bytes
+CPU time usage: 0.084 seconds
+Real time usage: 0.140 seconds
+Preprocessor visited node count: 552/1000000
+Post‐expand include size: 15141/2097152 bytes
+Template argument size: 457/2097152 bytes
 Highest expansion depth: 13/100
 Expensive parser function count: 0/500
 Unstrip recursion depth: 0/20
 Unstrip post‐expand size: 3206/5000000 bytes
-Lua time usage: 0.036/10.000 seconds
-Lua memory usage: 2105827/52428800 bytes
+Lua time usage: 0.025/10.000 seconds
+Lua memory usage: 1932228/52428800 bytes
 Number of Wikibase entities loaded: 3/400
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  140.863      1 -total
- 54.22%   76.380      1 Шаблон:Примечания
- 32.94%   46.394      1 Шаблон:Source
- 22.86%   32.203      1 Шаблон:Не_путать
- 21.54%   30.335      1 Шаблон:Другое_значение
- 16.23%   22.862      1 Шаблон:Cite_web
- 11.88%   16.738      1 Шаблон:Корабли
- 10.55%   14.855      1 Шаблон:Навигационная_таблица
-  6.93%    9.766      1 Шаблон:Начало_цитаты
-  4.07%    5.730      1 Шаблон:В_2_кв._скобках
+100.00%  100.393      1 -total
+ 54.32%   54.531      1 Шаблон:Примечания
+ 29.96%   30.076      1 Шаблон:Source
+ 24.04%   24.137      1 Шаблон:Не_путать
+ 22.78%   22.872      1 Шаблон:Другое_значение
+ 18.84%   18.912      1 Шаблон:Cite_web
+  9.13%    9.167      1 Шаблон:Корабли
+  7.66%    7.687      1 Шаблон:Начало_цитаты
+  7.01%    7.038      1 Шаблон:Навигационная_таблица
+  3.99%    4.005      1 Шаблон:В_2_кв._скобках
 -->
-<!-- Saved in parser cache with key ruwiki:pcache:idhash:279993-0!canonical and timestamp 20240218064958 and revision id 129700779. Rendering was triggered because: page-view
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:279993-0!canonical and timestamp 20240226180543 and revision id 129700779. Rendering was triggered because: page-view
  -->
 </div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> -->
 <div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Коноводное_судно&amp;oldid=129700779">https://ru.wikipedia.org/w/index.php?title=Коноводное_судно&amp;oldid=129700779</a></div></div>

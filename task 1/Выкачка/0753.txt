@@ -1,0 +1,821 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="ru">
+<head>
+<meta charset="utf-8"/>
+<title>NetBurst — Википедия</title>
+
+
+
+
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+
+
+<meta content="MediaWiki 1.42.0-wmf.19" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="max-image-preview:standard" name="robots"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="width=1000" name="viewport"/>
+<meta content="NetBurst — Википедия" property="og:title"/>
+<meta content="website" property="og:type"/>
+
+
+
+
+
+
+
+
+
+
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-NetBurst rootpage-NetBurst skin-vector action-view"><div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators">
+</div>
+<h1 class="firstHeading mw-first-heading" id="firstHeading"><span class="mw-page-title-main">NetBurst</span></h1>
+<div class="vector-body" id="bodyContent">
+<div class="noprint" id="siteSub">Материал из Википедии — свободной энциклопедии</div>
+<div id="contentSub"><div id="mw-content-subtitle"><div class="flaggedrevs_short flaggedrevs_stable_synced plainlinks noprint" id="mw-fr-revisiontag"><div class="flaggedrevs_short_basic"><span class="flaggedrevs-icon oo-ui-widget oo-ui-widget-enabled oo-ui-iconElement-icon oo-ui-icon-articleSearch oo-ui-iconElement oo-ui-labelElement-invisible oo-ui-iconWidget" title="Правки этой страницы требуют проверки."></span><span class="flaggedrevs-icon oo-ui-widget oo-ui-widget-enabled oo-ui-iconElement-icon oo-ui-icon-eye oo-ui-iconElement oo-ui-labelElement-invisible oo-ui-iconWidget" title="Это отпатрулированная версия страницы"></span><span class="fr-toggle-arrow oo-ui-widget oo-ui-widget-enabled oo-ui-indicatorElement-indicator oo-ui-indicator-down oo-ui-indicatorElement oo-ui-labelElement-invisible oo-ui-indicatorWidget" id="mw-fr-revisiontoggle" title="показать/скрыть подробности"></span></div>
+<div id="mw-fr-revisiondetails-wrapper" style="position:relative;"><div class="flaggedrevs_short_details" id="mw-fr-revisiondetails" style="display:none">Это <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%B0%D1%82%D1%80%D1%83%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" title="Википедия:Патрулирование">стабильная версия</a>, <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB%D1%8B&amp;type=review&amp;page=NetBurst">отпатрулированная</a> <i>15 октября 2023</i>.</div>
+</div>
+</div>
+</div></div>
+<div id="contentSub2"></div>
+<div id="jump-to-nav"></div>
+<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+<div class="mw-body-content" id="mw-content-text"><div class="mw-content-ltr mw-parser-output" dir="ltr" lang="ru"><table class="infobox infobox-9dbef2040c9c8d76" data-name="Центральный процессор" style=""><tbody><tr><th class="infobox-above" colspan="2" scope="colgroup" style="">NetBurst</th></tr><tr><td class="" colspan="2" style="text-align:center;"><i><a href="/wiki/%D0%A6%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80" title="Центральный процессор">Центральный процессор</a></i></td></tr>
+<tr>
+<th class="plainlist" scope="row">Производство</th>
+<td class="plainlist">
+Ноябрь 20, 2000</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Разработчик</th>
+<td class="plainlist">
+<span class="wikidata-claim" data-wikidata-claim-id="Q1062113$317b2cd7-454b-12b3-486f-39aeabe9fc0e" data-wikidata-property-id="P178"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/Intel" title="Intel">Intel</a></span></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Производитель</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P176"></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Частота <a href="/wiki/%D0%A6%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80" title="Центральный процессор">ЦП</a></th>
+<td class="plainlist">
+1,30—3,80 <a class="mw-redirect" href="/wiki/%D0%93%D0%93%D1%86" title="ГГц">ГГц</a></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Частота <a href="/wiki/Front_Side_Bus" title="Front Side Bus">FSB</a></th>
+<td class="plainlist">
+400—1066 <a class="mw-redirect" href="/wiki/%D0%9C%D0%93%D1%86" title="МГц">МГц</a></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Технология производства</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P2079">180—65 <a class="mw-redirect" href="/wiki/%D0%9D%D0%BC" title="Нм">нм</a></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row"><a href="/wiki/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4" title="Система команд">Наборы инструкций</a></th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P1068"><a href="/wiki/X86" title="X86">x86</a>, <a href="/wiki/X86-64" title="X86-64">x86-64</a>, <a href="/wiki/MMX" title="MMX">MMX</a>, <a href="/wiki/SSE" title="SSE">SSE</a>, <a href="/wiki/SSE2" title="SSE2">SSE2</a>, <a href="/wiki/SSE3" title="SSE3">SSE3</a>, <a href="/wiki/SSSE3" title="SSSE3">SSSE3</a></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row"><a href="/wiki/%D0%9C%D0%BD%D0%BE%D0%B3%D0%BE%D1%8F%D0%B4%D0%B5%D1%80%D0%BD%D1%8B%D0%B9_%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80" title="Многоядерный процессор">Число ядер</a></th>
+<td class="plainlist">
+1-2 (2-4),<br/> 2-6 (2-6) (Xeon)</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">L1-<a href="/wiki/%D0%9A%D1%8D%D1%88" title="Кэш">кэш</a></th>
+<td class="plainlist">
+8 KB to 16 KB per core</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">L2-<a href="/wiki/%D0%9A%D1%8D%D1%88" title="Кэш">кэш</a></th>
+<td class="plainlist">
+128 KB to 2048 KB<br/>256 KB to 2048 KB (Xeon)</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">L3-<a href="/wiki/%D0%9A%D1%8D%D1%88" title="Кэш">кэш</a></th>
+<td class="plainlist">
+4 MB to 16 MB shared</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row"><a class="mw-redirect" href="/wiki/%D0%A0%D0%B0%D0%B7%D1%8A%D1%91%D0%BC_%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%B0_%D0%BF%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%B0" title="Разъём процессора персонального компьютера">Разъёмы</a></th>
+<td class="plainlist">
+<div><ul><li><a href="/wiki/Socket_423" title="Socket 423">Socket 423</a></li><li><a href="/wiki/Socket_478" title="Socket 478">Socket 478</a></li><li><a href="/wiki/Socket_603" title="Socket 603">Socket 603</a></li><li><a href="/wiki/Socket_604" title="Socket 604">Socket 604</a></li><li><a href="/wiki/LGA_771" title="LGA 771">LGA 771</a></li><li><a href="/wiki/LGA_775" title="LGA 775">LGA 775</a></li></ul></div></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row"><a href="/wiki/%D0%AF%D0%B4%D1%80%D0%BE_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%B0" title="Ядро микропроцессора">Ядра</a></th>
+<td class="plainlist">
+</td>
+</tr><tr><td class="infobox-below" colspan="2" style=";"><div aria-label="Хронология" class="ts-Карточка-хронология plainlist"><div aria-label="Предыдущий" class="ts-Карточка-хронология-prev is-local"><a href="/wiki/Intel_P6" title="Intel P6">Intel P6</a></div><div aria-label="Следующий" class="ts-Карточка-хронология-next is-local"><a href="/wiki/Core_(%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0)" title="Core (микроархитектура)">Core (микроархитектура)</a></div></div></td></tr>
+</tbody></table>
+<p><b>NetBurst</b> (рабочее название — <i>P68</i>) — <a href="/wiki/%D0%A1%D1%83%D0%BF%D0%B5%D1%80%D1%81%D0%BA%D0%B0%D0%BB%D1%8F%D1%80%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Суперскалярность">суперскалярная</a> <a href="/wiki/%D0%92%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BD%D0%B2%D0%B5%D0%B9%D0%B5%D1%80" title="Вычислительный конвейер">гиперконвейерная</a> <a href="/wiki/%D0%9C%D0%B8%D0%BA%D1%80%D0%BE%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0" title="Микроархитектура">микроархитектура</a>, разработанная компанией <a href="/wiki/Intel" title="Intel">Intel</a> и лежавшая в основе <a href="/wiki/%D0%9C%D0%B8%D0%BA%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80" title="Микропроцессор">микропроцессоров</a> <a href="/wiki/Pentium_4" title="Pentium 4">Pentium 4</a>, <a href="/wiki/Pentium_D" title="Pentium D">Pentium D</a>, <a href="/wiki/Celeron" title="Celeron">Celeron</a> и <a href="/wiki/Xeon" title="Xeon">Xeon</a> в 2000-2007 годах.
+</p>
+<div aria-labelledby="mw-toc-heading" class="toc" id="toc" role="navigation"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="ru"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#История"><span class="tocnumber">1</span> <span class="toctext">История</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Особенности_микроархитектуры"><span class="tocnumber">2</span> <span class="toctext">Особенности микроархитектуры</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Гиперконвейеризация"><span class="tocnumber">2.1</span> <span class="toctext">Гиперконвейеризация</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Кэш_последовательностей_микроопераций"><span class="tocnumber">2.2</span> <span class="toctext">Кэш последовательностей микроопераций</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#АЛУ_и_механизм_ускоренного_исполнения_целочисленных_операций"><span class="tocnumber">2.3</span> <span class="toctext">АЛУ и механизм ускоренного исполнения целочисленных операций</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Система_повторного_исполнения_микроопераций"><span class="tocnumber">2.4</span> <span class="toctext">Система повторного исполнения микроопераций</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Достоинства"><span class="tocnumber">2.5</span> <span class="toctext">Достоинства</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Недостатки"><span class="tocnumber">2.6</span> <span class="toctext">Недостатки</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Описание_функциональных_блоков"><span class="tocnumber">3</span> <span class="toctext">Описание функциональных блоков</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Исполнительные_устройства"><span class="tocnumber">3.1</span> <span class="toctext">Исполнительные устройства</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Устройства_организации_внеочередного_исполнения"><span class="tocnumber">3.2</span> <span class="toctext">Устройства организации внеочередного исполнения</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Устройства_входного_блока"><span class="tocnumber">3.3</span> <span class="toctext">Устройства входного блока</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Интерфейс_памяти"><span class="tocnumber">3.4</span> <span class="toctext">Интерфейс памяти</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#Описание_работы"><span class="tocnumber">4</span> <span class="toctext">Описание работы</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Процессоры_архитектуры_NetBurst"><span class="tocnumber">5</span> <span class="toctext">Процессоры архитектуры NetBurst</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#Примечания"><span class="tocnumber">6</span> <span class="toctext">Примечания</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#Ссылки"><span class="tocnumber">7</span> <span class="toctext">Ссылки</span></a></li>
+</ul>
+</div>
+<h2><span id=".D0.98.D1.81.D1.82.D0.BE.D1.80.D0.B8.D1.8F"></span><span class="mw-headline" id="История">История</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=NetBurst&amp;veaction=edit&amp;section=1" title="Редактировать раздел «История»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=NetBurst&amp;action=edit&amp;section=1" title="Редактировать код раздела «История»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Архитектура NetBurst пришла на смену архитектуре <a href="/wiki/Intel_P6" title="Intel P6">P6</a> на рынке процессоров для <a href="/wiki/%D0%9D%D0%B0%D1%81%D1%82%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80" title="Настольный компьютер">настольных</a> и <a href="/wiki/%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80_(%D0%B0%D0%BF%D0%BF%D0%B0%D1%80%D0%B0%D1%82%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)" title="Сервер (аппаратное обеспечение)">серверных</a> систем. Она не являлась развитием архитектуры P6, а представляла собой принципиально новую по сравнению со всеми предшественниками архитектуру.
+</p><p>Первые процессоры архитектуры NetBurst были анонсированы <a href="/wiki/20_%D0%BD%D0%BE%D1%8F%D0%B1%D1%80%D1%8F" title="20 ноября">20 ноября</a> <a href="/wiki/2000_%D0%B3%D0%BE%D0%B4" title="2000 год">2000 года</a>.
+<a href="/wiki/8_%D0%B0%D0%B2%D0%B3%D1%83%D1%81%D1%82%D0%B0" title="8 августа">8 августа</a> <a href="/wiki/2007_%D0%B3%D0%BE%D0%B4" title="2007 год">2007 года</a> компания Intel объявила о начале действия программы по снятию с производства всех процессоров этой архитектуры<sup class="reference" id="cite_ref-ixbt-arc_1-0"><a href="#cite_note-ixbt-arc-1">[1]</a></sup><sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup>. На смену процессорам архитектуры NetBurst в 2006 году пришли процессоры семейства <a href="/wiki/Core_2" title="Core 2">Core 2</a> (Duo/Quad), <a href="/wiki/Core_(%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0)" title="Core (микроархитектура)">архитектура которых</a> представляет собой развитие более ранней архитектуры P6.
+</p>
+<h2><span id=".D0.9E.D1.81.D0.BE.D0.B1.D0.B5.D0.BD.D0.BD.D0.BE.D1.81.D1.82.D0.B8_.D0.BC.D0.B8.D0.BA.D1.80.D0.BE.D0.B0.D1.80.D1.85.D0.B8.D1.82.D0.B5.D0.BA.D1.82.D1.83.D1.80.D1.8B"></span><span class="mw-headline" id="Особенности_микроархитектуры">Особенности микроархитектуры</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=NetBurst&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Особенности микроархитектуры»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=NetBurst&amp;action=edit&amp;section=2" title="Редактировать код раздела «Особенности микроархитектуры»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable" style="float: right; margin-left: 1.5em; margin-right: 0; margin-top: 0;">
+<tbody><tr>
+<th>Revision
+</th>
+<th>Processor Brand(s)
+</th>
+<th>Pipeline stages
+</th></tr>
+<tr>
+<td>Willamette (180 nm)
+</td>
+<td>Celeron, Pentium 4
+</td>
+<td>20
+</td></tr>
+<tr>
+<td>Northwood (130 nm)
+</td>
+<td>Celeron, Pentium 4, Pentium 4 HT
+</td>
+<td>20
+</td></tr>
+<tr>
+<td>Gallatin (130 nm)
+</td>
+<td>Pentium 4 HT Extreme Edition, Xeon
+</td>
+<td>20
+</td></tr>
+<tr>
+<td>Prescott (90 nm)
+</td>
+<td>Celeron D, Pentium 4, Pentium 4 HT,<br/>Pentium 4 Extreme Edition
+</td>
+<td>31
+</td></tr>
+<tr>
+<td>Cedar Mill (65 nm)
+</td>
+<td>Celeron D, Pentium 4
+</td>
+<td>31
+</td></tr>
+<tr>
+<td>Smithfield (90 nm)
+</td>
+<td>Pentium D
+</td>
+<td>31
+</td></tr>
+<tr>
+<td>Presler (65 nm)
+</td>
+<td>Pentium D
+</td>
+<td>31
+</td></tr></tbody></table>
+<p>Архитектура NetBurst разрабатывалась, в первую очередь, с целью достижения высоких <a class="mw-redirect" href="/wiki/%D0%A2%D0%B0%D0%BA%D1%82%D0%BE%D0%B2%D0%B0%D1%8F_%D1%87%D0%B0%D1%81%D1%82%D0%BE%D1%82%D0%B0" title="Тактовая частота">тактовых частот</a> процессоров. Характерными особенностями архитектуры NetBurst являются гиперконвейеризация и применение <i><a href="/wiki/%D0%9A%D1%8D%D1%88" title="Кэш">кэша</a> последовательностей</i> <a class="mw-redirect" href="/wiki/%D0%9C%D0%B8%D0%BA%D1%80%D0%BE%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F" title="Микрооперация">микроопераций</a> вместо традиционного кэша инструкций. <a class="mw-redirect" href="/wiki/%D0%90%D0%9B%D0%A3" title="АЛУ">АЛУ</a> процессоров архитектуры NetBurst также имеет существенные отличия от АЛУ процессоров других архитектур. Также возможно применение технологии <a class="mw-redirect" href="/wiki/Hyper-threading" title="Hyper-threading">Hyper-threading</a><sup class="reference" id="cite_ref-ixbt-arc_1-1"><a href="#cite_note-ixbt-arc-1">[1]</a></sup>.
+</p>
+<h3><span id=".D0.93.D0.B8.D0.BF.D0.B5.D1.80.D0.BA.D0.BE.D0.BD.D0.B2.D0.B5.D0.B9.D0.B5.D1.80.D0.B8.D0.B7.D0.B0.D1.86.D0.B8.D1.8F"></span><span class="mw-headline" id="Гиперконвейеризация">Гиперконвейеризация</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=NetBurst&amp;veaction=edit&amp;section=3" title="Редактировать раздел «Гиперконвейеризация»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=NetBurst&amp;action=edit&amp;section=3" title="Редактировать код раздела «Гиперконвейеризация»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>(<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">Hyper Pipelining</span>)
+</p><p>Процессоры Pentium 4 на ядрах Willamette и Northwood имеют <a class="mw-redirect" href="/wiki/%D0%9A%D0%BE%D0%BD%D0%B2%D0%B5%D0%B9%D0%B5%D1%80_(%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80)" title="Конвейер (процессор)">конвейер</a> глубиной 20 стадий, а процессоры на ядрах Prescott и Cedar Mill — 31 стадию. При этом стадии декодирования инструкций не учитываются: в связи с применением кэша последовательностей микроопераций декодер (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">Instruction decoder</span>) вынесен за пределы конвейера. Это позволяет процессорам Pentium 4 достигать более высоких тактовых частот по сравнению с процессорами, имеющими более короткий конвейер при одинаковой технологии производства. Так, например, максимальная тактовая частота процессоров <a href="/wiki/Pentium_III" title="Pentium III">Pentium III</a> на ядре Coppermine (180 <a class="mw-redirect" href="/wiki/%D0%9D%D0%BC" title="Нм">нм</a>. технология) составляет 1133 <a class="mw-redirect" href="/wiki/%D0%9C%D0%93%D1%86" title="МГц">МГц</a>, а процессоры Pentium 4 на ядре Willamette способны работать на частоте, превышающей 2000 МГц<sup class="reference" id="cite_ref-ixbt-arc_1-2"><a href="#cite_note-ixbt-arc-1">[1]</a></sup>.
+</p><p>Для минимизации влияния неверно предсказанных переходов в процессорах архитектуры NetBurst используется увеличенный по сравнению с предшественниками буфер предсказания ветвлений (BTB, <a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">branch target buffer</span>) и новый алгоритм предсказания ветвлений, что позволило достичь высокой точности предсказания (около 94 %) в процессорах на ядре Willamette. В последующих ядрах механизм предсказания ветвлений подвергался модернизациям, повышавшим точность предсказания<sup class="reference" id="cite_ref-ixbt-arc_1-3"><a href="#cite_note-ixbt-arc-1">[1]</a></sup><sup class="reference" id="cite_ref-ixbt-pres_3-0"><a href="#cite_note-ixbt-pres-3">[3]</a></sup>.
+</p>
+<h3><span id=".D0.9A.D1.8D.D1.88_.D0.BF.D0.BE.D1.81.D0.BB.D0.B5.D0.B4.D0.BE.D0.B2.D0.B0.D1.82.D0.B5.D0.BB.D1.8C.D0.BD.D0.BE.D1.81.D1.82.D0.B5.D0.B9_.D0.BC.D0.B8.D0.BA.D1.80.D0.BE.D0.BE.D0.BF.D0.B5.D1.80.D0.B0.D1.86.D0.B8.D0.B9"></span><span class="mw-headline" id="Кэш_последовательностей_микроопераций">Кэш последовательностей микроопераций</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=NetBurst&amp;veaction=edit&amp;section=4" title="Редактировать раздел «Кэш последовательностей микроопераций»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=NetBurst&amp;action=edit&amp;section=4" title="Редактировать код раздела «Кэш последовательностей микроопераций»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>(<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">Execution Trace Cache</span>)
+</p><p>Процессоры архитектуры NetBurst, как и большинство современных <a href="/wiki/X86" title="X86">x86</a>-совместимых процессоров, являются <a href="/wiki/CISC" title="CISC">CISC</a>-процессорами с <a href="/wiki/RISC" title="RISC">RISC</a>-ядром: перед исполнением сложные инструкции x86 преобразуются в более простой набор внутренних инструкций (микроопераций), что позволяет повысить скорость обработки команд. Однако, вследствие того, что инструкции x86 имеют переменную длину и не имеют фиксированного формата, их декодирование связано с существенными временными затратами<sup class="reference" id="cite_ref-fcenter-trace_4-0"><a href="#cite_note-fcenter-trace-4">[4]</a></sup>.
+</p><p>В связи с этим, при разработке архитектуры NetBurst было принято решение отказаться от традиционной кэш-памяти инструкций первого уровня, хранящей команды x86, в пользу кэша последовательностей микроопераций, хранящего последовательности микроопераций в соответствии с предполагаемым порядком их исполнения. Ёмкость trace cache составляла около 12 тыс. микроопераций. Такая организация кэш-памяти позволила также снизить временные затраты на выполнение условных переходов и на выборку инструкций.
+</p>
+<h3><span id=".D0.90.D0.9B.D0.A3_.D0.B8_.D0.BC.D0.B5.D1.85.D0.B0.D0.BD.D0.B8.D0.B7.D0.BC_.D1.83.D1.81.D0.BA.D0.BE.D1.80.D0.B5.D0.BD.D0.BD.D0.BE.D0.B3.D0.BE_.D0.B8.D1.81.D0.BF.D0.BE.D0.BB.D0.BD.D0.B5.D0.BD.D0.B8.D1.8F_.D1.86.D0.B5.D0.BB.D0.BE.D1.87.D0.B8.D1.81.D0.BB.D0.B5.D0.BD.D0.BD.D1.8B.D1.85_.D0.BE.D0.BF.D0.B5.D1.80.D0.B0.D1.86.D0.B8.D0.B9"></span><span class="mw-headline" id="АЛУ_и_механизм_ускоренного_исполнения_целочисленных_операций">АЛУ и механизм ускоренного исполнения целочисленных операций</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=NetBurst&amp;veaction=edit&amp;section=5" title="Редактировать раздел «АЛУ и механизм ускоренного исполнения целочисленных операций»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=NetBurst&amp;action=edit&amp;section=5" title="Редактировать код раздела «АЛУ и механизм ускоренного исполнения целочисленных операций»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>(<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">Rapid Execution Engine</span>)
+</p><p>Так как основной целью разработки архитектуры NetBurst было повышение производительности за счёт достижения высоких тактовых частот, возникла необходимость увеличения темпа выполнения основных целочисленных операций. Для достижения этой цели АЛУ процессоров архитектуры NetBurst разделено на несколько блоков: «медленное АЛУ» (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">slow ALU</span>), способное выполнять большое количество целочисленных операций, и два «быстрых АЛУ» (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">2X ALU</span>), выполняющих только простейшие целочисленные операции (например, сложение). Выполнение операций на «быстрых АЛУ» происходит последовательно в три этапа: сначала вычисляются младшие разряды результата, затем старшие, после чего могут быть получены флаги.
+</p><p>«Быстрые АЛУ», обслуживающие их планировщики (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">Fast scheduler</span>), а также регистровый файл (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">Integer register file</span>) синхронизируются по половине такта процессора, таким образом, эффективная частота их работы вдвое превышает частоту ядра. Эти блоки образуют механизм ускоренного выполнения целочисленных операций.
+</p><p>В процессорах на ядрах Willamette и Norhtwood «быстрые АЛУ» способны выполнять лишь те операции, которые обрабатывают операнды в направлении от младших разрядов к старшим. При этом результат вычисления младших разрядов может быть получен через половину такта. Таким образом, эффективная задержка составляет половину такта. В процессорах на ядрах Willamette и Norhtwood отсутствуют блоки целочисленного умножения и сдвига, а данные операции выполняются другими блоками (в частности, блоком инструкций <a href="/wiki/MMX" title="MMX">MMX</a>).
+</p><p>В процессорах на ядре Prescott (а также более новых ядрах) присутствует блок целочисленного умножения, а «быстрые АЛУ» способны выполнять операции сдвига. Эффективная задержка операций, исполняемых «быстрыми АЛУ», возросла по сравнению с процессорами на ядре Norhtwood и составляет один такт<sup class="reference" id="cite_ref-fcenter-alu_5-0"><a href="#cite_note-fcenter-alu-5">[5]</a></sup>.
+</p>
+<h3><span id=".D0.A1.D0.B8.D1.81.D1.82.D0.B5.D0.BC.D0.B0_.D0.BF.D0.BE.D0.B2.D1.82.D0.BE.D1.80.D0.BD.D0.BE.D0.B3.D0.BE_.D0.B8.D1.81.D0.BF.D0.BE.D0.BB.D0.BD.D0.B5.D0.BD.D0.B8.D1.8F_.D0.BC.D0.B8.D0.BA.D1.80.D0.BE.D0.BE.D0.BF.D0.B5.D1.80.D0.B0.D1.86.D0.B8.D0.B9"></span><span class="mw-headline" id="Система_повторного_исполнения_микроопераций">Система повторного исполнения микроопераций</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=NetBurst&amp;veaction=edit&amp;section=6" title="Редактировать раздел «Система повторного исполнения микроопераций»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=NetBurst&amp;action=edit&amp;section=6" title="Редактировать код раздела «Система повторного исполнения микроопераций»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>(<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">Replay System</span>)<sup class="reference" id="cite_ref-fcenter-replay_6-0"><a href="#cite_note-fcenter-replay-6">[6]</a></sup>
+</p><p>Основной задачей планировщиков микроопераций является определение готовности микроопераций к исполнению и передача их на конвейер. Вследствие большого числа стадий конвейера планировщики вынуждены отправлять микрооперации на исполнительные блоки до того, как завершится выполнение предыдущих микроопераций. Это обеспечивает оптимальную загрузку исполнительных блоков процессора и позволяет избежать потери производительности в том случае, если данные, необходимые для выполнения микрооперации, находятся в кэш-памяти первого уровня, регистровом файле или могут быть переданы, минуя регистровый файл.
+</p><p>При определении готовности новых микроопераций к передаче на исполнительные блоки планировщику необходимо определить время выполнения тех предыдущих микроопераций, результатом которых являются данные, необходимые для выполнения новых микроопераций. В том случае, если время выполнения заранее не определено, планировщик для его определения использует наименьшее время её выполнения (так, например, если для выполнения некоторой микрооперации необходимо загрузить данные из памяти, планировщик при передаче этой микрооперации на конвейер будет исходить из предположения, что необходимые данные находятся в кэш-памяти данных первого уровня и будут получены через количество тактов, равное сумме латентности кэш-памяти первого уровня и количества тактов, которое займёт передача микрооперации от планировщика до исполнительного блока).
+</p><p>Если оценка времени, необходимого для получения данных, оказалась верной, микрооперация выполняется успешно. В том случае, если данные не были получены вовремя, проверка корректности результата заканчивается неудачей. При этом микрооперация, результат выполнения которой оказался некорректен, ставится в специальную очередь (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">replay queue</span>), а затем вновь направляется планировщиком на исполнение.
+</p><p>Существуют такие неблагоприятные ситуации, в которых повторное исполнение микроопераций может привести к <a href="/wiki/%D0%92%D0%B7%D0%B0%D0%B8%D0%BC%D0%BD%D0%B0%D1%8F_%D0%B1%D0%BB%D0%BE%D0%BA%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0" title="Взаимная блокировка">взаимоблокировкам</a>. Выход из таких ситуаций осуществляется прекращением передачи новых микроопераций на исполнительные блоки и направлением переисполняемых микроопераций в специальный буфер для того, чтобы они могли освободить конвейер.
+</p><p>Несмотря на то, что повторное исполнение микроопераций приводит к значительным потерям производительности, применение данного механизма позволяет в случае ошибочного исполнения микроопераций избежать останова и сброса конвейера, который приводил бы к более серьёзным потерям.
+</p>
+<h3><span id=".D0.94.D0.BE.D1.81.D1.82.D0.BE.D0.B8.D0.BD.D1.81.D1.82.D0.B2.D0.B0"></span><span class="mw-headline" id="Достоинства">Достоинства</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=NetBurst&amp;veaction=edit&amp;section=7" title="Редактировать раздел «Достоинства»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=NetBurst&amp;action=edit&amp;section=7" title="Редактировать код раздела «Достоинства»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Основным достоинством процессоров архитектуры NetBurst является возможность работы на высоких тактовых частотах. Это позволяет достичь высокой производительности в оптимизированных задачах и компенсировать низкую удельную производительность. Кроме того, высокая <a class="mw-redirect" href="/wiki/%D0%A2%D0%B0%D0%BA%D1%82%D0%BE%D0%B2%D0%B0%D1%8F_%D1%87%D0%B0%D1%81%D1%82%D0%BE%D1%82%D0%B0" title="Тактовая частота">тактовая частота</a> даёт <a href="/wiki/%D0%9C%D0%B0%D1%80%D0%BA%D0%B5%D1%82%D0%B8%D0%BD%D0%B3" title="Маркетинг">маркетинговые</a> преимущества: потребители склонны выбирать процессоры с большей тактовой частотой («<a href="/wiki/%D0%9C%D0%B8%D1%84_%D0%BE_%D0%BC%D0%B5%D0%B3%D0%B0%D0%B3%D0%B5%D1%80%D1%86%D0%B0%D1%85" title="Миф о мегагерцах">покупают мегагерцы</a>»). К достоинствам процессоров архитектуры NetBurst можно также отнести высокую пропускную способность памяти<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup>.
+</p><p>Поддержка технологии <a class="mw-redirect" href="/wiki/Hyper-threading" title="Hyper-threading">HyperThreading</a> некоторыми процессорами архитектуры NetBurst позволяла поднять производительность в задачах, поддерживающих <a href="/wiki/%D0%9C%D0%BD%D0%BE%D0%B3%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Многопроцессорность">многопроцессорность</a>, однако существуют некоторые задачи, при выполнении которых производительность может снижаться<sup class="reference" id="cite_ref-fcenter-replay_6-1"><a href="#cite_note-fcenter-replay-6">[6]</a></sup><sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup>.
+</p><p>Благодаря удачной маркетинговой и <a href="/wiki/%D0%A0%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D0%B0" title="Реклама">рекламной политике</a> компании Intel процессоры архитектуры NetBurst были популярны среди пользователей, что позволяло компании Intel удерживать значительную долю рынка микропроцессоров (больше 70 %) и получать прибыль, в отличие от основного <a class="mw-redirect mw-disambig" href="/wiki/%D0%9A%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D0%B5%D0%BD%D1%82" title="Конкурент">конкурента</a> — компании <a href="/wiki/AMD" title="AMD">AMD</a><sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup><sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup>.
+</p>
+<h3><span id=".D0.9D.D0.B5.D0.B4.D0.BE.D1.81.D1.82.D0.B0.D1.82.D0.BA.D0.B8"></span><span class="mw-headline" id="Недостатки">Недостатки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=NetBurst&amp;veaction=edit&amp;section=8" title="Редактировать раздел «Недостатки»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=NetBurst&amp;action=edit&amp;section=8" title="Редактировать код раздела «Недостатки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Основными недостатками длинного конвейера являются уменьшение <a href="/wiki/%D0%92%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BC%D0%BE%D1%89%D0%BD%D0%BE%D1%81%D1%82%D1%8C_%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%B0" title="Вычислительная мощность компьютера">удельной производительности</a> по сравнению с коротким конвейером (за один такт выполняется меньшее количество инструкций), а также серьёзные потери производительности при некорректном выполнении инструкций (например, при неверно предсказанном условном переходе или кэш-промахе)<sup class="reference" id="cite_ref-ixbt-arc_1-4"><a href="#cite_note-ixbt-arc-1">[1]</a></sup><sup class="reference" id="cite_ref-fcenter-replay_6-2"><a href="#cite_note-fcenter-replay-6">[6]</a></sup>. Так, например, процессор Pentium 4 с частотой 1700 МГц в неоптимизированных под архитектуру NetBurst задачах уступал процессорам с частотой 1333 МГц<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup>.
+</p><p>Кроме того, работа процессоров на высоких частотах была связана с высоким <a class="mw-redirect" href="/wiki/TDP" title="TDP">тепловыделением</a>. Несмотря на то, что процессоры на ядре Cedar Mill были способны работать на частотах, превышавших 7 <a class="mw-redirect" href="/wiki/%D0%93%D0%93%D1%86" title="ГГц">ГГц</a>, с использованием экстремального охлаждения (обычно использовался стакан с жидким азотом), максимальная тактовая частота серийных процессоров Pentium 4 составила 3800 МГц. При этом типичное тепловыделение превышало 100 <a href="/wiki/%D0%92%D0%B0%D1%82%D1%82" title="Ватт">Вт</a>, а максимальное — 150 Вт<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup><sup class="reference" id="cite_ref-sandpile_13-0"><a href="#cite_note-sandpile-13">[13]</a></sup><sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup>.
+</p><p>Из-за невозможности дальнейшего наращивания тактовой частоты компания Intel была вынуждена предложить иной способ повышения производительности. Этим способом стал переход от одноядерных процессоров к многоядерным.
+</p><p><a href="/wiki/%D0%9C%D0%BD%D0%BE%D0%B3%D0%BE%D1%8F%D0%B4%D0%B5%D1%80%D0%BD%D1%8B%D0%B9_%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80" title="Многоядерный процессор">Двухъядерные процессоры</a> архитектуры NetBurst для <a href="/wiki/%D0%9D%D0%B0%D1%81%D1%82%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80" title="Настольный компьютер">настольных компьютеров</a> (<a href="/wiki/Pentium_D" title="Pentium D">Pentium D</a>) представляли собой два ядра Prescott (процессоры на ядре Smithfield), находящиеся на одном кристалле, или Cedar Mill (Presler), находящиеся в одном корпусе (по сути, два отдельных процессора в одном корпусе). Так как процессоры архитектуры NetBurst изначально разрабатывались как одноядерные, обмен данными между ядрами осуществлялся через <a class="mw-redirect" href="/wiki/%D0%9E%D0%97%D0%A3" title="ОЗУ">оперативную память</a>, что приводило к потерям производительности (для сравнения, конкурирующие процессоры <a href="/wiki/Athlon_64" title="Athlon 64">Athlon 64 X2</a> разрабатывались с расчётом на многоядерность, поэтому имеют специальный блок, позволяющий осуществлять обмен данными, минуя оперативную память<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup>)<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup>.
+</p>
+<h2><span id=".D0.9E.D0.BF.D0.B8.D1.81.D0.B0.D0.BD.D0.B8.D0.B5_.D1.84.D1.83.D0.BD.D0.BA.D1.86.D0.B8.D0.BE.D0.BD.D0.B0.D0.BB.D1.8C.D0.BD.D1.8B.D1.85_.D0.B1.D0.BB.D0.BE.D0.BA.D0.BE.D0.B2"></span><span class="mw-headline" id="Описание_функциональных_блоков">Описание функциональных блоков</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=NetBurst&amp;veaction=edit&amp;section=9" title="Редактировать раздел «Описание функциональных блоков»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=NetBurst&amp;action=edit&amp;section=9" title="Редактировать код раздела «Описание функциональных блоков»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Architettura_Pentium_4.png"><img class="mw-file-element" data-file-height="1712" data-file-width="2337" decoding="async" height="293" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Architettura_Pentium_4.png/400px-Architettura_Pentium_4.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Architettura_Pentium_4.png/600px-Architettura_Pentium_4.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/01/Architettura_Pentium_4.png/800px-Architettura_Pentium_4.png 2x" width="400"/></a><figcaption>Функциональная схема процессора <a href="/wiki/Pentium_4" title="Pentium 4">Pentium 4</a> на ядре Willamette</figcaption></figure>
+<p>Процессоры архитектуры NetBurst состоят из четырёх основных структурных блоков:
+</p>
+<ul><li>Исполнительные устройства (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">execution unit</span>), осуществляющие выполнение инструкций, а также устройства, обеспечивающие взаимодействие исполнительных устройств.</li>
+<li>Входной блок (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">front end</span>), отвечающий за предвыборку данных, <a class="mw-redirect" href="/wiki/Branch_Prediction_Unit" title="Branch Prediction Unit">предсказание ветвлений</a> и декодирование инструкций (преобразование сложных инструкций <a href="/wiki/X86" title="X86">x86</a> в простые внутренние инструкции — микрооперации).</li>
+<li>Устройства организации внеочередного исполнения (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">out-of-order buffering logic</span>), обеспечивающие оптимальный порядок исполнения микроопераций.</li>
+<li><a href="/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81" title="Интерфейс">Интерфейс</a> памяти (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">memory subsystem</span>), представляющий собой группу устройств, обеспечивающих взаимодействие процессора с подсистемой памяти.</li></ul>
+<h3><span id=".D0.98.D1.81.D0.BF.D0.BE.D0.BB.D0.BD.D0.B8.D1.82.D0.B5.D0.BB.D1.8C.D0.BD.D1.8B.D0.B5_.D1.83.D1.81.D1.82.D1.80.D0.BE.D0.B9.D1.81.D1.82.D0.B2.D0.B0"></span><span class="mw-headline" id="Исполнительные_устройства">Исполнительные устройства</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=NetBurst&amp;veaction=edit&amp;section=10" title="Редактировать раздел «Исполнительные устройства»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=NetBurst&amp;action=edit&amp;section=10" title="Редактировать код раздела «Исполнительные устройства»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>К исполнительным устройствам относятся:
+</p>
+<ul><li>Целочисленный регистровый файл и логика, обеспечивающая непосредственную передачу данных между блоками <a class="mw-redirect" href="/wiki/%D0%90%D0%9B%D0%A3" title="АЛУ">АЛУ</a> (Integer Register File / Bypass Network). Регистровый файл обеспечивает хранение результатов операций, однако при этом данные могут передаваться между исполнительными блоками, минуя регистровый файл.</li>
+<li>Блоки генерации адреса чтения и записи (AGU). Предназначены для взаимодействия с кэшем данных. Формируют адреса, по которым производятся операции чтения и записи.</li>
+<li>АЛУ (ALU). Осуществляют выполнение целочисленных операций.</li>
+<li>Целочисленный регистровый файл и логика, обеспечивающая непосредственную передачу данных между блоком обработки чисел с плавающей запятой, обеспечивающим выполнение инструкций <a href="/wiki/X87" title="X87">x87</a>, <a href="/wiki/MMX" title="MMX">MMX</a>, <a href="/wiki/SSE" title="SSE">SSE</a> и <a href="/wiki/SSE2" title="SSE2">SSE2</a> (FP Register / Bypass).</li>
+<li>Блоки обработки чисел с плавающей запятой (FP / MMX / SSE / SSE2, FP Move). Осуществляют выполнение операций над вещественными числами, в том числе операции чтения и записи (блок FP Move).</li></ul>
+<p>В процессорах на ядре Prescott и более новых блок обработки чисел с плавающей запятой получил поддержку инструкций <a href="/wiki/SSE3" title="SSE3">SSE3</a>.
+</p>
+<h3><span id=".D0.A3.D1.81.D1.82.D1.80.D0.BE.D0.B9.D1.81.D1.82.D0.B2.D0.B0_.D0.BE.D1.80.D0.B3.D0.B0.D0.BD.D0.B8.D0.B7.D0.B0.D1.86.D0.B8.D0.B8_.D0.B2.D0.BD.D0.B5.D0.BE.D1.87.D0.B5.D1.80.D0.B5.D0.B4.D0.BD.D0.BE.D0.B3.D0.BE_.D0.B8.D1.81.D0.BF.D0.BE.D0.BB.D0.BD.D0.B5.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Устройства_организации_внеочередного_исполнения">Устройства организации внеочередного исполнения</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=NetBurst&amp;veaction=edit&amp;section=11" title="Редактировать раздел «Устройства организации внеочередного исполнения»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=NetBurst&amp;action=edit&amp;section=11" title="Редактировать код раздела «Устройства организации внеочередного исполнения»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Внеочередное исполнение позволяет ускорить работу за счёт изменения порядка выполнения микроопераций в тех случаях, когда это изменение не приведёт к изменению результата. К устройствам организации внеочередного исполнения относятся:
+</p>
+<ul><li>Диспетчер ресурсов (Allocator / Register Renamer). Осуществляет распределение вычислительных ресурсов, <a href="/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D0%B8%D0%BC%D0%B5%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%BE%D0%B2" title="Переименование регистров">переименование регистров</a> (установление соответствия между логическими <a href="/wiki/%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80_%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%B0" title="Регистр процессора">регистрами</a> <a href="/wiki/X86" title="X86">x86</a> и некоторыми физическими регистрами, выделенными специально для выполняемой инструкции), а также отслеживает состояние всех микроопераций, находящихся в обработке.</li>
+<li>Очереди микроопераций (Memory uop Queue и Integer/Floating Point uop Queue). Содержат микрооперации, которые необходимо выполнить. При этом микрооперации, осуществляющие взаимодействие с памятью (чтение и запись), отделены от всех остальных и размещаются в специальной очереди (Memory uop Queue).</li>
+<li>Планировщики микроопераций (Memory Scheduler, Fast, Slow/General FP Scheduler, Simple FP). Определяют готовность микроопераций, находящихся в очередях, к исполнению и направляют их на выполнение в соответствующие исполнительные блоки.</li></ul>
+<h3><span id=".D0.A3.D1.81.D1.82.D1.80.D0.BE.D0.B9.D1.81.D1.82.D0.B2.D0.B0_.D0.B2.D1.85.D0.BE.D0.B4.D0.BD.D0.BE.D0.B3.D0.BE_.D0.B1.D0.BB.D0.BE.D0.BA.D0.B0"></span><span class="mw-headline" id="Устройства_входного_блока">Устройства входного блока</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=NetBurst&amp;veaction=edit&amp;section=12" title="Редактировать раздел «Устройства входного блока»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=NetBurst&amp;action=edit&amp;section=12" title="Редактировать код раздела «Устройства входного блока»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>К устройствам входного блока относятся:
+</p>
+<ul><li>Модуль и <a href="/wiki/%D0%91%D1%83%D1%84%D0%B5%D1%80_(%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0)" title="Буфер (информатика)">буфера</a> <a class="mw-redirect" href="/wiki/Branch_Prediction_Unit" title="Branch Prediction Unit">предсказания ветвлений</a> (Front end BTB и Trace cache BTB). Осуществляют предсказание ветвлений и хранят таблицу истории переходов. Для предсказания ветвлений используется как динамический, так и статический методы. Последний используется в том случае, если динамическое предсказание невозможно (в буфере переходов отсутствует необходимая информация).</li>
+<li>Кэш последовательностей микроопераций (Trace cache). Хранит последовательности микроопераций в соответствии с предполагаемым порядком их исполнения.</li>
+<li>Декодер инструкций (Instruction decoder). Осуществляет преобразование <a href="/wiki/CISC" title="CISC">CISC</a>-инструкций x86 в последовательность <a href="/wiki/RISC" title="RISC">RISC</a>-микроопераций, исполняемых процессором.</li>
+<li>Блок предвыборки инструкций (Prefetcher). Осуществляет предварительную выборку инструкций на основании таблиц предсказания ветвлений и преобразование программного адреса инструкции в физический с помощью таблицы трансляции адресов (I-TLB).</li>
+<li><a href="/wiki/%D0%9F%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%BD%D0%BE%D0%B5_%D0%B7%D0%B0%D0%BF%D0%BE%D0%BC%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B5%D0%B5_%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE" title="Постоянное запоминающее устройство">ПЗУ</a> микрокода (Microcode ROM). Используется кэшем последовательностей микроопераций при преобразовании сложных инструкций x86 в последовательность микроопераций.</li>
+<li>Очередь микроопераций (uop Queue). Содержит микрооперации, поступающие на конвейер процессора.</li></ul>
+<h3><span id=".D0.98.D0.BD.D1.82.D0.B5.D1.80.D1.84.D0.B5.D0.B9.D1.81_.D0.BF.D0.B0.D0.BC.D1.8F.D1.82.D0.B8"></span><span class="mw-headline" id="Интерфейс_памяти">Интерфейс памяти</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=NetBurst&amp;veaction=edit&amp;section=13" title="Редактировать раздел «Интерфейс памяти»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=NetBurst&amp;action=edit&amp;section=13" title="Редактировать код раздела «Интерфейс памяти»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Интерфейс памяти осуществляет взаимодействие с оперативной памятью. К этому блоку относятся:
+</p>
+<ul><li><a href="/wiki/%D0%9A%D1%8D%D1%88_%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%B0" title="Кэш процессора">Кэш-память</a> данных первого уровня (L1 Data Cache). Память объёмом 8 (Willamette и Northwood) или 16 <a href="/wiki/%D0%9A%D0%B8%D0%BB%D0%BE%D0%B1%D0%B0%D0%B9%D1%82" title="Килобайт">КБ</a> с малым временем доступа (латентность составляет 2 такта для Northwood и 5 тактов для Prescott).</li>
+<li>Кэш-память второго уровня (L2 Cache). Память объёмом 128 (Willamette-128, Northwood-128), 256 (Willamette, Prescott-256), 512 (Northwood), 1024 (Prescott) или 2048 <a href="/wiki/%D0%9A%D0%B8%D0%BB%D0%BE%D0%B1%D0%B0%D0%B9%D1%82" title="Килобайт">КБ</a> с малым временем доступа (латентность составляет 7 тактов для Northwood и 18 тактов для Prescott). Соединяется с кэшем первого уровня шиной шириной 256 <a href="/wiki/%D0%91%D0%B8%D1%82" title="Бит">бит</a>.</li>
+<li>Блок шинного интерфейса (Bus Interface Unit). Осуществляет управление системной шиной.</li></ul>
+<p>Некоторые процессоры содержали также <a href="/wiki/%D0%9A%D1%8D%D1%88_%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%B0" title="Кэш процессора">кэш-память</a> третьего уровня объёмом 2, 4 или 8 <a href="/wiki/%D0%9C%D0%B5%D0%B3%D0%B0%D0%B1%D0%B0%D0%B9%D1%82" title="Мегабайт">МБ</a>.
+</p>
+<h2><span id=".D0.9E.D0.BF.D0.B8.D1.81.D0.B0.D0.BD.D0.B8.D0.B5_.D1.80.D0.B0.D0.B1.D0.BE.D1.82.D1.8B"></span><span class="mw-headline" id="Описание_работы">Описание работы</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=NetBurst&amp;veaction=edit&amp;section=14" title="Редактировать раздел «Описание работы»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=NetBurst&amp;action=edit&amp;section=14" title="Редактировать код раздела «Описание работы»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div style="width:300px; float:right; background-color:#DDDDDD;margin:5px;padding:4px;border:#000000 1px SOLID">
+<center><b>Конвейер процессора на ядре Northwood</b></center>
+<p>Конвейер состоит из 20 стадий:
+</p>
+<ul><li>TC, NI (1, 2) — поиск микроопераций, на которые указывает последняя выполненная инструкция.</li>
+<li>TR, F (3, 4) — выборка микроопераций.</li>
+<li>D (5) — перемещение микроопераций.</li>
+<li>AR (6 — 8) — резервирование ресурсов процессора, переименование регистров.</li>
+<li>Q (9) — постановка микроопераций в очереди.</li>
+<li>S (10 — 12) — изменение порядка исполнения.</li>
+<li>D (13 — 14) — подготовка к исполнению, выборка операндов.</li>
+<li>R (15 — 16) — чтение операндов из регистрового файла.</li>
+<li>E (17) — исполнение.</li>
+<li>F (18) — вычисление флагов.</li>
+<li>BC, D (19, 20) — проверка корректности результата.</li></ul>
+</div>
+<p>Выполнение инструкции начинается с её выборки и декодирования. В том случае, если соответствующая ей последовательность микроопераций отсутствует в кэше последовательностей микроопераций, инструкция считывается из кэш-памяти второго уровня и декодируется. Так как инструкции, хранящиеся в кэш-памяти, имеют физические адреса, для осуществления выборки блоком трансляции адресов производится преобразование виртуального адреса в физический.
+</p><p>Микрооперации, полученные в результате декодирования, помещаются в кэш последовательностей микроопераций. В том случае, если встречается инструкция условного перехода, последовательность микроопераций формируется на основании предсказания перехода, осуществляемого <a href="/wiki/%D0%9F%D1%80%D0%B5%D0%B4%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D1%8C_%D0%BF%D0%B5%D1%80%D0%B5%D1%85%D0%BE%D0%B4%D0%BE%D0%B2" title="Предсказатель переходов">соответствующим блоком</a>. Если инструкция не может быть преобразована в последовательность длиной до четырёх микроопераций, она заменяется на подпрограмму, хранящуюся в ПЗУ микрокода и формирующую такие последовательности. При этом в кэше последовательностей хранятся не сами микрооперации, а адрес этой подпрограммы. Микрооперации, хранящиеся в кэше последовательностей, помещаются в очередь микроопераций.
+</p><p>После подготовки процессора к выполнению микроопераций (резервирование ресурсов, переименование регистров) они помещаются в соответствующие их типам очереди: микрооперации, осуществляющие взаимодействие с памятью, помещаются в отдельную очередь длиной 16 микроопераций, а все остальные — в общую очередь (32 микрооперации). После определения порядка выполнения микроопераций (порядок может быть изменён в зависимости от готовности данных для выполнения микроопераций, от наличия переисполняемых инструкций, наличия свободных вычислительных ресурсов и т. п.), планировщики отправляют микрооперации на выполнение в соответствующие исполнительные блоки: микрооперации, взаимодействующие с памятью, отправляются в блоки генерации адреса, целочисленные операции — в блоки АЛУ, а вещественночисленные — в блоки обработки чисел с плавающей запятой. При этом операнды, необходимые для выполнения микроопераций, либо считываются из регистрового файла, либо передаются как результат выполнения предыдущей микрооперации. После выполнения микроопераций происходит формирование <a href="/wiki/%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80_%D1%84%D0%BB%D0%B0%D0%B3%D0%BE%D0%B2" title="Регистр флагов">флагов</a> и проверка корректности результатов. В том случае, если результаты корректны, происходит отставка (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">retirement</span>) микроопераций, а результаты помещаются в регистровый файл. Если же результаты выполнения микрооперации некорректны (например, был неверно предсказан переход или необходимые данные не были вовремя получены), эта микрооперация отправляется на повторное исполнение<sup class="reference" id="cite_ref-fcenter-trace_4-1"><a href="#cite_note-fcenter-trace-4">[4]</a></sup><sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup>.
+</p>
+<h2><span id=".D0.9F.D1.80.D0.BE.D1.86.D0.B5.D1.81.D1.81.D0.BE.D1.80.D1.8B_.D0.B0.D1.80.D1.85.D0.B8.D1.82.D0.B5.D0.BA.D1.82.D1.83.D1.80.D1.8B_NetBurst"></span><span class="mw-headline" id="Процессоры_архитектуры_NetBurst">Процессоры архитектуры NetBurst</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=NetBurst&amp;veaction=edit&amp;section=15" title="Редактировать раздел «Процессоры архитектуры NetBurst»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=NetBurst&amp;action=edit&amp;section=15" title="Редактировать код раздела «Процессоры архитектуры NetBurst»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<table border="1" cellpadding="1" class="wide">
+<tbody><tr>
+<th>Процессор
+</th>
+<th>Ядро
+</th>
+<th>Технология производства
+</th>
+<th>Годы выпуска
+</th></tr>
+<tr>
+<td><a href="/wiki/Pentium_4" title="Pentium 4">Pentium 4</a>
+</td>
+<td>Willamette, Northwood, Gallatin, Prescott, Cedar Mill
+</td>
+<td><a href="/wiki/%D0%9A%D0%9C%D0%9E%D0%9F" title="КМОП">КМОП</a>, 180—65 <a class="mw-redirect" href="/wiki/%D0%9D%D0%BC" title="Нм">нм</a>
+</td>
+<td align="center"><a href="/wiki/2000_%D0%B3%D0%BE%D0%B4" title="2000 год">2000</a>—<a href="/wiki/2007_%D0%B3%D0%BE%D0%B4" title="2007 год">2007</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Pentium_D" title="Pentium D">Pentium D</a>
+</td>
+<td>Smithfield, Presler
+</td>
+<td>КМОП, 90—65 нм
+</td>
+<td align="center"><a href="/wiki/2005_%D0%B3%D0%BE%D0%B4" title="2005 год">2005</a>—2007
+</td></tr>
+<tr>
+<td><a href="/wiki/Celeron" title="Celeron">Celeron</a>
+</td>
+<td>Willamette-128, Northwood-128
+</td>
+<td>КМОП, 180—130 нм
+</td>
+<td align="center"><a href="/wiki/2001_%D0%B3%D0%BE%D0%B4" title="2001 год">2001</a>—2005
+</td></tr>
+<tr>
+<td><a href="/wiki/Celeron" title="Celeron">Celeron D</a>
+</td>
+<td>Prescott-256, Cedar Mill-512
+</td>
+<td>КМОП, 90—65 нм
+</td>
+<td align="center"><a href="/wiki/2004_%D0%B3%D0%BE%D0%B4" title="2004 год">2004</a>—2007
+</td></tr>
+<tr>
+<td><a href="/wiki/Xeon" title="Xeon">Xeon</a>
+</td>
+<td>Foster, Prestonia, Gallatin, Potomac, Cranford, Irwindale, Nocona, Paxville, Dempsey, Tulsa
+</td>
+<td>КМОП, 180—65 нм
+</td>
+<td align="center">2001—2007
+</td></tr></tbody></table>
+<table class="wide">
+<caption>
+</caption>
+<tbody><tr>
+<th><span typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Pentium4_northwood.png" title="Pentium 4 (Northwood)"><img alt="Pentium 4 (Northwood)" class="mw-file-element" data-file-height="268" data-file-width="300" decoding="async" height="107" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Pentium4_northwood.png/120px-Pentium4_northwood.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Pentium4_northwood.png/180px-Pentium4_northwood.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Pentium4_northwood.png/240px-Pentium4_northwood.png 2x" width="120"/></a></span>
+</th>
+<th><span typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Pentium_d_820.jpg" title="Pentium D (Smithfield)"><img alt="Pentium D (Smithfield)" class="mw-file-element" data-file-height="357" data-file-width="331" decoding="async" height="129" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/Pentium_d_820.jpg/120px-Pentium_d_820.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/Pentium_d_820.jpg/180px-Pentium_d_820.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/74/Pentium_d_820.jpg/240px-Pentium_d_820.jpg 2x" width="120"/></a></span>
+</th>
+<th><span typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Ic-photo-intel-celeron-2GHZ-128-400-1.525V.png" title="Celeron (Northwood-128)"><img alt="Celeron (Northwood-128)" class="mw-file-element" data-file-height="435" data-file-width="453" decoding="async" height="115" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Ic-photo-intel-celeron-2GHZ-128-400-1.525V.png/120px-Ic-photo-intel-celeron-2GHZ-128-400-1.525V.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Ic-photo-intel-celeron-2GHZ-128-400-1.525V.png/180px-Ic-photo-intel-celeron-2GHZ-128-400-1.525V.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Ic-photo-intel-celeron-2GHZ-128-400-1.525V.png/240px-Ic-photo-intel-celeron-2GHZ-128-400-1.525V.png 2x" width="120"/></a></span>
+</th>
+<th><span typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Intel_Celeron_D.jpg" title="Celeron D (Prescott-256)"><img alt="Celeron D (Prescott-256)" class="mw-file-element" data-file-height="933" data-file-width="939" decoding="async" height="119" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Intel_Celeron_D.jpg/120px-Intel_Celeron_D.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Intel_Celeron_D.jpg/180px-Intel_Celeron_D.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/36/Intel_Celeron_D.jpg/240px-Intel_Celeron_D.jpg 2x" width="120"/></a></span>
+</th>
+<th><span typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Intel_xeon_dp.jpg" title="Xeon DP (Foster)"><img alt="Xeon DP (Foster)" class="mw-file-element" data-file-height="1026" data-file-width="1059" decoding="async" height="116" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Intel_xeon_dp.jpg/120px-Intel_xeon_dp.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Intel_xeon_dp.jpg/180px-Intel_xeon_dp.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Intel_xeon_dp.jpg/240px-Intel_xeon_dp.jpg 2x" width="120"/></a></span>
+</th></tr>
+<tr>
+<th width="20%">Pentium 4 (Northwood)
+</th>
+<th width="20%">Pentium D (Smithfield)
+</th>
+<th width="20%">Celeron (Northwood-128)
+</th>
+<th width="20%">Celeron D (Prescott-256)
+</th>
+<th width="20%">Xeon DP (Foster)
+</th></tr></tbody></table>
+<h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Примечания">Примечания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=NetBurst&amp;veaction=edit&amp;section=16" title="Редактировать раздел «Примечания»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=NetBurst&amp;action=edit&amp;section=16" title="Редактировать код раздела «Примечания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-ixbt-arc-1"><span class="mw-cite-backlink">↑ <a href="#cite_ref-ixbt-arc_1-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-ixbt-arc_1-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-ixbt-arc_1-2"><sup><i><b>3</b></i></sup></a> <a href="#cite_ref-ixbt-arc_1-3"><sup><i><b>4</b></i></sup></a> <a href="#cite_ref-ixbt-arc_1-4"><sup><i><b>5</b></i></sup></a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.ixbt.com/cpu/pentium4-2.html" rel="nofollow">Willamette — как будет работать новоиспеченный флагман от Intel…</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span> Дата обращения: 19 марта 2008. <a class="external text" href="https://www.webcitation.org/61BUW7gg8?url=http://www.ixbt.com/cpu/pentium4-2.html" rel="nofollow">Архивировано</a> 24 августа 2011 года.</span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.overclockers.ru/hardnews/26502.shtml" rel="nofollow">Intel снимает с производства последние Pentium 4 и Pentium D</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 19 марта 2008. <a class="external text" href="https://web.archive.org/web/20121107112331/http://www.overclockers.ru/hardnews/26502.shtml" rel="nofollow">Архивировано</a> 7 ноября 2012 года.</span></span>
+</li>
+<li id="cite_note-ixbt-pres-3"><span class="mw-cite-backlink"><a href="#cite_ref-ixbt-pres_3-0">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.ixbt.com/cpu/intel-prescott.shtml" rel="nofollow">Intel Pentium 4 «Prescott»: полшага вперед</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 19 марта 2008. <a class="external text" href="https://www.webcitation.org/61BUZd9vE?url=http://www.ixbt.com/cpu/intel-prescott.shtml" rel="nofollow">Архивировано</a> 24 августа 2011 года.</span></span>
+</li>
+<li id="cite_note-fcenter-trace-4"><span class="mw-cite-backlink">↑ <a href="#cite_ref-fcenter-trace_4-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-fcenter-trace_4-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://www.webcitation.org/61BUcva4s?url=http://www.fcenter.ru/online.shtml?articles%2Fhardware%2Fprocessors%2F13736" rel="nofollow">Pentium 4: Мистический и загадочный Trace-кэш</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 23 января 2022. Архивировано из <a class="external text" href="http://www.fcenter.ru/online.shtml?articles%2Fhardware%2Fprocessors%2F13736" rel="nofollow">оригинала</a> 24 августа 2011 года.</span></span>
+</li>
+<li id="cite_note-fcenter-alu-5"><span class="mw-cite-backlink"><a href="#cite_ref-fcenter-alu_5-0">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.fcenter.ru/online.shtml?articles%2Fhardware%2Fprocessors%2F11289" rel="nofollow">Prescott: Последний из могикан? (Pentium 4: от Willamette до Prescott). Часть 2</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 15 мая 2022. <a class="external text" href="https://web.archive.org/web/20061009061628/http://www.fcenter.ru/online.shtml?articles%2Fhardware%2Fprocessors%2F11289" rel="nofollow">Архивировано</a> 9 октября 2006 года.</span></span>
+</li>
+<li id="cite_note-fcenter-replay-6"><span class="mw-cite-backlink">↑ <a href="#cite_ref-fcenter-replay_6-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-fcenter-replay_6-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-fcenter-replay_6-2"><sup><i><b>3</b></i></sup></a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://www.webcitation.org/61BUXA9DL?url=http://www.fcenter.ru/online.shtml?articles%2Fhardware%2Fprocessors%2F12033" rel="nofollow">Replay: неизвестные особенности функционирования ядра Netburst</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 23 января 2022. Архивировано из <a class="external text" href="http://www.fcenter.ru/online.shtml?articles%2Fhardware%2Fprocessors%2F12033" rel="nofollow">оригинала</a> 24 августа 2011 года.</span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.ixbt.com/cpu/pentium4-32ghz-ee.shtml" rel="nofollow">Pentium 4 Extreme Edition и Athlon 64 FX: битва двух рыцарей с участием оруженосцев</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 21 марта 2008. <a class="external text" href="https://web.archive.org/web/20080304013212/http://www.ixbt.com/cpu/pentium4-32ghz-ee.shtml" rel="nofollow">Архивировано</a> 4 марта 2008 года.</span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.ixbt.com/cpu/pentium4-3ghz-ht.shtml" rel="nofollow">Intel Pentium 4 3,06 ГГц с поддержкой технологии Hyper-Threading</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 21 марта 2008. <a class="external text" href="https://www.webcitation.org/61BVDtSWH?url=http://www.ixbt.com/cpu/pentium4-3ghz-ht.shtml" rel="nofollow">Архивировано</a> 24 августа 2011 года.</span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://web.archive.org/web/20121013125152/http://www.hwworld.ru/contents/articles/marketing.htm" rel="nofollow">Сага о маркетинге в исполнении Intel</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 23 марта 2008. Архивировано из <a class="external text" href="http://www.hwworld.ru/contents/articles/marketing.htm" rel="nofollow">оригинала</a> 13 октября 2012 года.</span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.3dnews.ru/editorial/itogy2003-year/" rel="nofollow">IТоги года `2003</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 23 марта 2008. <a class="external text" href="https://web.archive.org/web/20211230125434/https://3dnews.ru/editorial/itogy2003-year/" rel="nofollow">Архивировано</a> 30 декабря 2021 года.</span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.ixbt.com/cpu/pentium4-17.shtml" rel="nofollow">Прогнозы, которые подтверждаются: Pentium 4 1.7 GHz и его производительность</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 19 марта 2008. <a class="external text" href="https://web.archive.org/web/20120127152552/http://www.ixbt.com/cpu/pentium4-17.shtml" rel="nofollow">Архивировано</a> 27 января 2012 года.</span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.overclockers.ru/hardnews/19735.shtml" rel="nofollow">Pentium 4 670: теперь на частоте 7.3 ГГц и 18 секунд в Super PI</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 19 марта 2008. <a class="external text" href="https://web.archive.org/web/20080528095037/http://www.overclockers.ru/hardnews/19735.shtml" rel="nofollow">Архивировано</a> 28 мая 2008 года.</span></span>
+</li>
+<li id="cite_note-sandpile-13"><span class="mw-cite-backlink"><a href="#cite_ref-sandpile_13-0">↑</a></span> <span class="reference-text"><a class="external text" href="http://sandpile.org/impl/p4.htm" rel="nofollow">IA-32 implementation: Intel P4 (incl. Celeron and Xeon)</a> <a class="external text" href="https://web.archive.org/web/20080411043027/http://sandpile.org/impl/p4.htm" rel="nofollow">Архивная копия</a> от 11 апреля 2008 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.cpu-world.com/CPUs/Pentium_4/Intel-Pentium%204%20570-570J%203.8%20GHz%20-%20JM80547PG1121M%20(BX80547PG3800E).html" rel="nofollow">Intel Pentium 4 570/570J 3.8 GHz — JM80547PG1121M (BX80547PG3800E)</a> <a class="external text" href="https://web.archive.org/web/20080405070802/http://www.cpu-world.com/CPUs/Pentium_4/Intel-Pentium%204%20570-570J%203.8%20GHz%20-%20JM80547PG1121M%20(BX80547PG3800E).html" rel="nofollow">Архивная копия</a> от 5 апреля 2008 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.ixbt.com/cpu/amd-athlon-64-x2-4800.shtml" rel="nofollow">Athlon 64 X2 4800+: самый быстрый двухъядерный x86 из существующих на данный момент</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 2 апреля 2008. <a class="external text" href="https://web.archive.org/web/20080404002000/http://www.ixbt.com/cpu/amd-athlon-64-x2-4800.shtml" rel="nofollow">Архивировано</a> 4 апреля 2008 года.</span></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.overclockers.ru/hardnews/20309.shtml" rel="nofollow">Presler против Smithfield: новый раунд тестов</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 21 марта 2008. <a class="external text" href="https://web.archive.org/web/20080623095258/http://www.overclockers.ru/hardnews/20309.shtml" rel="nofollow">Архивировано</a> 23 июня 2008 года.</span></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><a href="#cite_ref-17">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://old.computerra.ru/2005/609/233266/" rel="nofollow">Архитектура CPU Автор: Сергей Озеров Опубликовано в журнале «Компьютерра» № 37 от 13 октября 2005 года</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 25 августа 2016. <a class="external text" href="https://web.archive.org/web/20161228060725/http://old.computerra.ru/2005/609/233266/" rel="nofollow">Архивировано</a> 28 декабря 2016 года.</span></span>
+</li>
+</ol></div></div>
+<h2><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span><span class="mw-headline" id="Ссылки">Ссылки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=NetBurst&amp;veaction=edit&amp;section=17" title="Редактировать раздел «Ссылки»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=NetBurst&amp;action=edit&amp;section=17" title="Редактировать код раздела «Ссылки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><b>Официальная информация</b>
+</p>
+<ul><li><a class="external text" href="http://www.intel.com/technology/itj/q12001/pdf/art_2.pdf" rel="nofollow">Описание архитектуры NetBurst</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><a class="external text" href="http://developer.intel.com/design/Pentium4/documentation.htm" rel="nofollow">Техническая документация по процессорам Pentium 4</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><a class="external text" href="http://www.intel.com/design/PentiumD/documentation.htm" rel="nofollow">Техническая документация по процессорам Pentium D</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><a class="external text" href="http://www.intel.com/technology/hyperthread/" rel="nofollow">Обзор технологии HyperThreading на сайте компании Intel</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><a class="external text" href="https://web.archive.org/web/20080224023922/http://download.intel.com/technology/itj/2002/volume06issue01/vol6iss1_hyper_threading_technology.pdf" rel="nofollow">Техническое описание технологии Hyper-threading на сайте Intel</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><a class="external text" href="https://web.archive.org/web/20070127044105/http://msdn.microsoft.com/msdnmag/issues/05/06/HyperThreading/" rel="nofollow">Обзор реализации HyperThreading на сайте MSDN компании Microsoft</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li></ul>
+<p><b>Характеристики процессоров архитектуры NetBurst</b>
+</p>
+<ul><li><a class="external text" href="http://www.cpu-world.com/CPUs/Pentium_4/index.html" rel="nofollow">Intel Pentium 4 processor family</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><a class="external text" href="http://www.cpu-world.com/CPUs/Pentium_Extreme_Edition/index.html" rel="nofollow">Intel Pentium Extreme Edition microprocessor family</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><a class="external text" href="http://www.cpu-world.com/CPUs/Pentium_D/index.html" rel="nofollow">Intel Pentium D microprocessor family</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><a class="external text" href="http://www.cpu-world.com/CPUs/Celeron/TYPE-Desktop%20Celeron%20Willamette.html" rel="nofollow">Intel Desktop Celeron Willamette processor</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><a class="external text" href="http://www.cpu-world.com/CPUs/Celeron/TYPE-Desktop%20Celeron%20Northwood.html" rel="nofollow">Intel Desktop Celeron Northwood processor</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><a class="external text" href="http://www.cpu-world.com/CPUs/Celeron_D/index.html" rel="nofollow">Intel Celeron D processor family</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li></ul>
+<p><b>Обзоры процессоров и описания архитектуры</b>
+</p>
+<ul><li><a class="external text" href="http://fcenter.ru/online/hardarticles/processors/11103" rel="nofollow">Pentium 4: от Willamette до Prescott. Часть 1</a></li>
+<li><a class="external text" href="http://fcenter.ru/online/hardarticles/processors/11289" rel="nofollow">Pentium 4: от Willamette до Prescott. Часть 2</a></li>
+<li><a class="external text" href="http://fcenter.ru/online/hardarticles/processors/12664" rel="nofollow">Pentium 4: от Willamette до Prescott. Часть 3</a></li>
+<li><a class="external text" href="http://fcenter.ru/online/hardarticles/processors/12032" rel="nofollow">Pentium 4: от Willamette до Prescott. Часть 4</a></li>
+<li><a class="external text" href="http://fcenter.ru/online/hardarticles/processors/12033" rel="nofollow">Replay: неизвестные особенности функционирования ядра Netburst</a></li>
+<li><a class="external text" href="http://fcenter.ru/online/hardarticles/processors/13736" rel="nofollow">Pentium 4: Мистический и загадочный Trace-кэш</a> <small><a class="external text" href="https://www.webcitation.org/61BUcva4s?url=http://www.fcenter.ru/online.shtml?articles%2Fhardware%2Fprocessors%2F13736" rel="nofollow">Архивировано</a> 24 августа 2011 года.</small></li>
+<li><a class="external text" href="http://fcenter.ru/online/hardarticles/processors/8473" rel="nofollow">Intel Prescott: в погоне за частотой</a> <small><a class="external text" href="https://www.webcitation.org/61BUb6F7I?url=http://www.fcenter.ru/online.shtml?articles%2Fhardware%2Fprocessors%2F8473" rel="nofollow">Архивировано</a> 24 августа 2011 года.</small></li>
+<li><a class="external text" href="http://fcenter.ru/online/hardarticles/processors/6111" rel="nofollow">Развитие технологии SSE в новых процессорах Intel Prescott</a> <small><a class="external text" href="https://www.webcitation.org/61BVOtePI?url=http://www.fcenter.ru/online.shtml?articles%2Fhardware%2Fprocessors%2F6111" rel="nofollow">Архивировано</a> 24 августа 2011 года.</small></li>
+<li><a class="external text" href="http://www.fcenter.ru/online.shtml?articles/hardware/processors/5081" rel="nofollow">Обзор процессора Pentium 4 3.06 с технологией Hyper-Threading</a></li></ul>
+<div aria-labelledby="Процессоры_Intel" class="navbox" data-name="Процессоры Intel" role="navigation"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%9F%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D1%8B_Intel" title="Перейти к шаблону «Процессоры Intel»"><img alt="Перейти к шаблону «Процессоры Intel»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span></span><div id="Процессоры_Intel" style="font-size:114%;margin:0 5em"><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BE%D0%B2_Intel" title="Список микропроцессоров Intel">Процессоры Intel</a></div></th></tr><tr><td class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1px">Актуальные</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:12em;"><a href="/wiki/64_%D0%B1%D0%B8%D1%82%D0%B0" title="64 бита">64 бита</a> (<a href="/wiki/X86-64" title="X86-64">x86-64/EM64T</a>)</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Intel_Atom" title="Intel Atom">Atom (после 2014 года)</a></li>
+<li><a href="/wiki/Celeron" title="Celeron">Celeron</a></li>
+<li><a href="/wiki/Pentium" title="Pentium">Pentium</a></li>
+<li><a href="/wiki/Intel_Core" title="Intel Core">Core</a>
+<ul><li><a href="/wiki/Core_i3" title="Core i3">i3</a></li>
+<li><a href="/wiki/Core_i5" title="Core i5">i5</a></li>
+<li><a href="/wiki/Core_i7" title="Core i7">i7</a></li>
+<li><a href="/wiki/Core_i9" title="Core i9">i9</a></li></ul></li>
+<li><a href="/wiki/Xeon" title="Xeon">Xeon</a>
+<ul><li>E3, E5, E7, D, W, X, L, E, Platinum, Gold, Silver, Bronze</li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Больше не<br/>производятся</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:12em;"><span data-interwiki-article="4-bit computing" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=4_%D0%B1%D0%B8%D1%82%D0%B0&amp;action=edit&amp;redlink=1" title="4 бита (страница отсутствует)">4 бита</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://en.wikipedia.org/wiki/4-bit_computing" title="en:4-bit computing"><span title="4-bit computing — версия статьи «4 бита» на английском языке">[en]</span></a></sup></span></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Intel_4004" title="Intel 4004">4004</a></li>
+<li><a href="/wiki/Intel_4040" title="Intel 4040">4040</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:12em;"><a href="/wiki/8_%D0%B1%D0%B8%D1%82_(%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%8F_%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0)" title="8 бит (компьютерная архитектура)">8 бит</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-redirect" href="/wiki/8008" title="8008">8008</a></li>
+<li><a class="mw-redirect" href="/wiki/8080" title="8080">8080</a></li>
+<li><a class="mw-redirect" href="/wiki/8085" title="8085">8085</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:12em;"><a href="/wiki/16_%D0%B1%D0%B8%D1%82" title="16 бит">16 бит</a> (<a href="/wiki/X86" title="X86">x86-16</a>)</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-redirect" href="/wiki/8086" title="8086">8086</a></li>
+<li><a class="mw-redirect" href="/wiki/8088" title="8088">8088</a></li>
+<li><a class="mw-redirect" href="/wiki/80186" title="80186">80186</a></li>
+<li><a class="mw-redirect" href="/wiki/80188" title="80188">80188</a></li>
+<li><a class="mw-redirect" href="/wiki/80286" title="80286">80286</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:12em;"><a href="/wiki/32_%D0%B1%D0%B8%D1%82%D0%B0" title="32 бита">32 бита</a> (<a class="mw-redirect" href="/wiki/IA-32" title="IA-32">x86-32/IA-32</a>)</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Intel_80386" title="Intel 80386">80386</a></li>
+<li><a class="mw-redirect" href="/wiki/80486" title="80486">80486</a></li>
+<li><a href="/wiki/Pentium" title="Pentium">Pentium</a>
+<ul><li><a href="/wiki/Pentium_OverDrive" title="Pentium OverDrive">OverDrive</a></li>
+<li><a href="/wiki/Pentium_Pro" title="Pentium Pro">Pro</a></li>
+<li><a class="mw-redirect" href="/wiki/Pentium_MMX" title="Pentium MMX">MMX</a></li>
+<li><a href="/wiki/Pentium_II" title="Pentium II">II</a></li>
+<li><a href="/wiki/Pentium_II_OverDrive" title="Pentium II OverDrive">II OverDrive</a></li>
+<li><a href="/wiki/Pentium_III" title="Pentium III">III</a></li>
+<li><a href="/wiki/Pentium_4" title="Pentium 4">4</a></li>
+<li><a href="/wiki/Pentium_M" title="Pentium M">M</a></li></ul></li>
+<li><a href="/wiki/Celeron" title="Celeron">Celeron</a>
+<ul><li><a class="mw-redirect" href="/wiki/Celeron_M" title="Celeron M">M</a></li>
+<li><a class="mw-redirect" href="/wiki/Celeron_D" title="Celeron D">D</a></li></ul></li>
+<li><a class="mw-redirect" href="/wiki/Core" title="Core">Core</a></li>
+<li><a href="/wiki/Intel_A100" title="Intel A100">A100/A110</a></li>
+<li><a href="/wiki/Tolapai" title="Tolapai">EP80579</a></li>
+<li><a href="/wiki/Intel_Quark" title="Intel Quark">Quark</a></li>
+<li><a href="/wiki/Intel_Atom" title="Intel Atom">Atom</a>
+<ul><li><a href="/wiki/Atom_(%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D0%BD%D0%B0_%D0%BA%D1%80%D0%B8%D1%81%D1%82%D0%B0%D0%BB%D0%BB%D0%B5)" title="Atom (система на кристалле)">SoC</a></li></ul></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:12em;"><a href="/wiki/X87" title="X87">x87</a> (внешний <a href="/wiki/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80" title="Математический сопроцессор">FPU</a>)</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-redirect" href="/wiki/8087" title="8087">8087</a></li>
+<li><a class="mw-redirect" href="/wiki/80187" title="80187">80187</a></li>
+<li><a class="mw-redirect" href="/wiki/80287" title="80287">80287</a></li>
+<li><a class="mw-redirect" href="/wiki/80387" title="80387">80387</a></li>
+<li><a class="mw-redirect" href="/wiki/80487" title="80487">80487</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:12em;"><a href="/wiki/64_%D0%B1%D0%B8%D1%82%D0%B0" title="64 бита">64 бита</a> (<a href="/wiki/X86-64" title="X86-64">x86-64/EM64T</a>)</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Pentium_4" title="Pentium 4">некоторые Pentium 4</a></li>
+<li><a href="/wiki/Pentium_D" title="Pentium D">Pentium D</a></li>
+<li><a href="/wiki/Pentium_Extreme_Edition" title="Pentium Extreme Edition">Pentium EE</a></li>
+<li><a class="mw-redirect" href="/wiki/Celeron_D" title="Celeron D">некоторые Celeron D</a></li>
+<li><a href="/wiki/Celeron" title="Celeron">Celeron</a></li>
+<li><a href="/wiki/Pentium_Dual-Core" title="Pentium Dual-Core">Pentium Dual-Core</a></li>
+<li><a class="mw-redirect" href="/wiki/Core" title="Core">Core</a>
+<ul><li><a href="/wiki/Core_2" title="Core 2">2</a></li></ul></li>
+<li><a href="/wiki/Xeon_Phi" title="Xeon Phi">Xeon Phi</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:12em;">Прочие</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<dl><dt><a href="/wiki/CISC" title="CISC">CISC</a></dt>
+<dd><a class="mw-redirect" href="/wiki/Intel_iAPX_432" title="Intel iAPX 432">iAPX 432</a></dd>
+<dt><a href="/wiki/EPIC_(%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%B0)" title="EPIC (архитектура микропроцессора)">EPIC</a></dt>
+<dd><a href="/wiki/Itanium" title="Itanium">Itanium</a></dd>
+<dt><a href="/wiki/RISC" title="RISC">RISC</a></dt>
+<dd><a href="/wiki/Intel_i860" title="Intel i860">i860</a></dd>
+<dd><a href="/wiki/Intel_i960" title="Intel i960">i960</a></dd>
+<dd><a href="/wiki/StrongARM" title="StrongARM">StrongARM</a></dd>
+<dd><a class="mw-redirect" href="/wiki/XScale" title="XScale">XScale</a></dd></dl>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Списки</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-redirect" href="/wiki/%D0%A0%D0%B0%D0%B7%D1%8A%D1%91%D0%BC_%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%B0" title="Разъём процессора">Разъём процессора</a></li>
+<li><a href="/wiki/%D0%A2%D0%B8%D0%BF%D1%8B_%D0%BA%D0%BE%D1%80%D0%BF%D1%83%D1%81%D0%BE%D0%B2_%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BE%D0%B2" title="Типы корпусов процессоров">Типы корпусов</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BA%D0%BE%D0%B4%D0%BE%D0%B2%D1%8B%D1%85_%D0%B8%D0%BC%D1%91%D0%BD_%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%86%D0%B8%D0%B8_Intel" title="Список кодовых имён продукции Intel">Кодовые имена</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%87%D0%B8%D0%BF%D1%81%D0%B5%D1%82%D0%BE%D0%B2_Intel" title="Список чипсетов Intel">Чипсеты</a></li></ul>
+<ul><li><i>По маркам:</i></li>
+<li><a href="/wiki/Intel_Atom" title="Intel Atom">Atom</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BE%D0%B2_Celeron" title="Список микропроцессоров Celeron">Celeron</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BE%D0%B2_Pentium" title="Список микропроцессоров Pentium">Pentium</a>
+<ul><li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BE%D0%B2_Pentium_II" title="Список микропроцессоров Pentium II">II</a></li>
+<li><a href="/wiki/Pentium_III" title="Pentium III">III</a></li>
+<li><a href="/wiki/Pentium_M" title="Pentium M">M</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BE%D0%B2_Pentium_4" title="Список микропроцессоров Pentium 4">4</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BE%D0%B2_Pentium_D_%D0%B8_Extreme_Edition" title="Список микропроцессоров Pentium D и Extreme Edition">D и EE</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BE%D0%B2_Pentium_Dual-Core_%D0%B8_%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D1%83%D1%8E%D1%89%D0%B8%D1%85" title="Список микропроцессоров Pentium Dual-Core и последующих">Dual-Core и последующие</a></li></ul></li>
+<li><a class="mw-redirect" href="/wiki/Core" title="Core">Core</a>
+<ul><li><a href="/wiki/Core_2" title="Core 2">2</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BE%D0%B2_Core_i3" title="Список микропроцессоров Core i3">i3</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BE%D0%B2_Core_i5" title="Список микропроцессоров Core i5">i5</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BE%D0%B2_Core_i7" title="Список микропроцессоров Core i7">i7</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BE%D0%B2_Core_i9&amp;action=edit&amp;redlink=1" title="Список микропроцессоров Core i9 (страница отсутствует)">i9</a></li></ul></li>
+<li><a href="/wiki/Xeon" title="Xeon">Xeon</a></li>
+<li><a href="/wiki/Itanium" title="Itanium">Itanium</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup" style=""><div id="Микроархитектуры_и_технологический_процесс" style="font-size:114%;margin:0 5em"><a href="/wiki/%D0%9C%D0%B8%D0%BA%D1%80%D0%BE%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0" title="Микроархитектура">Микроархитектуры</a> и <a href="/wiki/%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81_%D0%B2_%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D0%BE%D0%B9_%D0%BF%D1%80%D0%BE%D0%BC%D1%8B%D1%88%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8" title="Технологический процесс в электронной промышленности">технологический процесс</a></div></th></tr><tr><td class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1px">P5</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i>800 нм:</i> <a class="mw-redirect" href="/wiki/P5" title="P5">P5</a></li>
+<li><i>600 нм:</i> <a class="mw-redirect" href="/wiki/P54C" title="P54C">P54C</a></li>
+<li><i>350 нм:</i> <a class="mw-redirect" href="/wiki/P54CS" title="P54CS">P54CS</a></li>
+<li><a class="mw-redirect" href="/wiki/P55C" title="P55C">P55C</a></li>
+<li><i>250 нм:</i> <a class="mw-redirect" href="/wiki/Tillamook" title="Tillamook">Tillamook</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/Intel_P6" title="Intel P6">P6</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i>500 нм:</i> <a href="/wiki/Pentium_Pro" title="Pentium Pro">P6</a></li>
+<li><i>350 нм:</i> <a class="mw-redirect" href="/wiki/Klamath" title="Klamath">Klamath</a></li>
+<li><i>250 нм:</i> <a class="mw-redirect" href="/wiki/Mendocino" title="Mendocino">Mendocino</a></li>
+<li><a class="new" href="/w/index.php?title=Dixon&amp;action=edit&amp;redlink=1" title="Dixon (страница отсутствует)">Dixon</a></li>
+<li><a class="mw-redirect" href="/wiki/Tonga" title="Tonga">Tonga</a></li>
+<li><a class="mw-redirect" href="/wiki/Covington" title="Covington">Covington</a></li>
+<li><a class="mw-redirect" href="/wiki/Deschutes" title="Deschutes">Deschutes</a></li>
+<li><a class="mw-redirect" href="/wiki/Katmai" title="Katmai">Katmai</a></li>
+<li><a class="new" href="/w/index.php?title=Drake_(%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80)&amp;action=edit&amp;redlink=1" title="Drake (процессор) (страница отсутствует)">Drake</a></li>
+<li><a class="new" href="/w/index.php?title=Tanner&amp;action=edit&amp;redlink=1" title="Tanner (страница отсутствует)">Tanner</a></li>
+<li><i>180 нм:</i> <a href="/wiki/Pentium_III#Coppermine" title="Pentium III">Coppermine</a></li>
+<li><a class="mw-redirect" href="/wiki/Coppermine_T" title="Coppermine T">Coppermine T</a></li>
+<li><a class="new" href="/w/index.php?title=Cascades&amp;action=edit&amp;redlink=1" title="Cascades (страница отсутствует)">Cascades</a></li>
+<li><i>130 нм:</i> <a class="mw-redirect" href="/wiki/Tualatin" title="Tualatin">Tualatin</a></li>
+<li><a class="mw-redirect" href="/wiki/Banias" title="Banias">Banias</a></li>
+<li><i>90 нм:</i> <a class="mw-redirect" href="/wiki/Dothan" title="Dothan">Dothan</a></li>
+<li><a class="mw-redirect" href="/wiki/Stealey" title="Stealey">Stealey</a></li>
+<li><i>65 нм:</i> <a href="/wiki/Tolapai" title="Tolapai">Tolapai</a></li>
+<li><a class="mw-redirect" href="/wiki/Yonah" title="Yonah">Yonah</a></li>
+<li><a class="new" href="/w/index.php?title=Sossaman_(%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80)&amp;action=edit&amp;redlink=1" title="Sossaman (процессор) (страница отсутствует)">Sossaman</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a class="mw-selflink selflink">NetBurst</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i>180 нм:</i> <a class="mw-redirect" href="/wiki/Willamette" title="Willamette">Willamette</a></li>
+<li><a class="new" href="/w/index.php?title=Foster_(%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80)&amp;action=edit&amp;redlink=1" title="Foster (процессор) (страница отсутствует)">Foster</a></li>
+<li><i>130 нм:</i> <a class="mw-redirect" href="/wiki/Northwood" title="Northwood">Northwood</a></li>
+<li><a class="new" href="/w/index.php?title=Gallatin&amp;action=edit&amp;redlink=1" title="Gallatin (страница отсутствует)">Gallatin</a></li>
+<li><a class="new" href="/w/index.php?title=Prestonia&amp;action=edit&amp;redlink=1" title="Prestonia (страница отсутствует)">Prestonia</a></li>
+<li><i>90 нм:</i> <a class="new" href="/w/index.php?title=Tejas_%D0%B8_Jayhawk&amp;action=edit&amp;redlink=1" title="Tejas и Jayhawk (страница отсутствует)">Tejas и Jayhawk</a></li>
+<li><a class="mw-redirect" href="/wiki/Prescott" title="Prescott">Prescott</a></li>
+<li><a class="mw-redirect" href="/wiki/Smithfield" title="Smithfield">Smithfield</a></li>
+<li><a class="new" href="/w/index.php?title=Nocona&amp;action=edit&amp;redlink=1" title="Nocona (страница отсутствует)">Nocona</a></li>
+<li><a class="new" href="/w/index.php?title=Irwindale&amp;action=edit&amp;redlink=1" title="Irwindale (страница отсутствует)">Irwindale</a></li>
+<li><a class="new" href="/w/index.php?title=Cranford&amp;action=edit&amp;redlink=1" title="Cranford (страница отсутствует)">Cranford</a></li>
+<li><a class="new" href="/w/index.php?title=Potomac&amp;action=edit&amp;redlink=1" title="Potomac (страница отсутствует)">Potomac</a></li>
+<li><a class="new" href="/w/index.php?title=Paxville&amp;action=edit&amp;redlink=1" title="Paxville (страница отсутствует)">Paxville</a></li>
+<li><i>65 нм:</i> <a class="mw-redirect" href="/wiki/Cedar_Mill" title="Cedar Mill">Cedar Mill</a></li>
+<li><a class="mw-redirect" href="/wiki/Presler" title="Presler">Presler</a></li>
+<li><a class="mw-redirect mw-disambig" href="/wiki/Dempsey" title="Dempsey">Dempsey</a></li>
+<li><a class="new" href="/w/index.php?title=Tulsa&amp;action=edit&amp;redlink=1" title="Tulsa (страница отсутствует)">Tulsa</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/Core_(%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0)" title="Core (микроархитектура)">Core</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i>65 нм:</i> <a class="new" href="/w/index.php?title=Merom-L&amp;action=edit&amp;redlink=1" title="Merom-L (страница отсутствует)">Merom-L</a></li>
+<li><a href="/wiki/Merom" title="Merom">Merom</a></li>
+<li><a class="new" href="/w/index.php?title=Conroe-L&amp;action=edit&amp;redlink=1" title="Conroe-L (страница отсутствует)">Conroe-L</a></li>
+<li><a class="new" href="/w/index.php?title=Allendale&amp;action=edit&amp;redlink=1" title="Allendale (страница отсутствует)">Allendale</a></li>
+<li><a class="mw-redirect" href="/wiki/Conroe" title="Conroe">Conroe</a></li>
+<li><a class="mw-redirect" href="/wiki/Kentsfield" title="Kentsfield">Kentsfield</a></li>
+<li><a class="new" href="/w/index.php?title=Woodcrest&amp;action=edit&amp;redlink=1" title="Woodcrest (страница отсутствует)">Woodcrest</a></li>
+<li><a class="new" href="/w/index.php?title=Clovertown&amp;action=edit&amp;redlink=1" title="Clovertown (страница отсутствует)">Clovertown</a></li>
+<li><a class="new" href="/w/index.php?title=Tigerton&amp;action=edit&amp;redlink=1" title="Tigerton (страница отсутствует)">Tigerton</a></li>
+<li><i>45 нм:</i> <a href="/wiki/Penryn" title="Penryn">Penryn</a></li>
+<li><a class="new" href="/w/index.php?title=Penryn-QC&amp;action=edit&amp;redlink=1" title="Penryn-QC (страница отсутствует)">Penryn-QC</a></li>
+<li><a class="mw-redirect" href="/wiki/Wolfdale" title="Wolfdale">Wolfdale</a></li>
+<li><a class="mw-redirect" href="/wiki/Yorkfield" title="Yorkfield">Yorkfield</a></li>
+<li><a class="new" href="/w/index.php?title=Wolfdale-DP&amp;action=edit&amp;redlink=1" title="Wolfdale-DP (страница отсутствует)">Wolfdale-DP</a></li>
+<li><a class="new" href="/w/index.php?title=Harpertown&amp;action=edit&amp;redlink=1" title="Harpertown (страница отсутствует)">Harpertown</a></li>
+<li><a class="new" href="/w/index.php?title=Dunnington&amp;action=edit&amp;redlink=1" title="Dunnington (страница отсутствует)">Dunnington</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/Nehalem" title="Nehalem">Nehalem</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i>45 нм:</i> <a class="new" href="/w/index.php?title=Clarksfield&amp;action=edit&amp;redlink=1" title="Clarksfield (страница отсутствует)">Clarksfield</a></li>
+<li><a class="new" href="/w/index.php?title=Lynnfield&amp;action=edit&amp;redlink=1" title="Lynnfield (страница отсутствует)">Lynnfield</a></li>
+<li><a class="new" href="/w/index.php?title=Jasper_Forest&amp;action=edit&amp;redlink=1" title="Jasper Forest (страница отсутствует)">Jasper Forest</a></li>
+<li><a class="mw-redirect" href="/wiki/Bloomfield" title="Bloomfield">Bloomfield</a></li>
+<li><a class="new" href="/w/index.php?title=Gainestown&amp;action=edit&amp;redlink=1" title="Gainestown (страница отсутствует)">Gainestown</a> (Nehalem-EP)</li>
+<li><a class="new" href="/w/index.php?title=Beckton&amp;action=edit&amp;redlink=1" title="Beckton (страница отсутствует)">Beckton</a> (Nehalem-EX)</li>
+<li><i>32 нм (<a class="mw-redirect" href="/wiki/Westmere" title="Westmere">Westmere</a>):</i> <a class="new" href="/w/index.php?title=Arrandale&amp;action=edit&amp;redlink=1" title="Arrandale (страница отсутствует)">Arrandale</a></li>
+<li><a class="mw-redirect" href="/wiki/Clarkdale" title="Clarkdale">Clarkdale</a></li>
+<li><a class="mw-redirect" href="/wiki/Gulftown" title="Gulftown">Gulftown</a> (Westmere-EP)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Bridge</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i>32 нм:</i> <a href="/wiki/Sandy_Bridge" title="Sandy Bridge">Sandy Bridge</a></li>
+<li><i>22 нм:</i> <a href="/wiki/Ivy_Bridge" title="Ivy Bridge">Ivy Bridge</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/Haswell" title="Haswell">Haswell</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i>22 нм:</i> <a href="/wiki/Haswell" title="Haswell">Haswell</a></li>
+<li><i>14 нм:</i> <a href="/wiki/Broadwell" title="Broadwell">Broadwell</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/Skylake" title="Skylake">Skylake</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i>14 нм:</i> <a href="/wiki/Skylake" title="Skylake">Skylake</a></li>
+<li><a href="/wiki/Kaby_Lake" title="Kaby Lake">Kaby Lake</a></li>
+<li><a href="/wiki/Coffee_Lake" title="Coffee Lake">Coffee Lake</a></li>
+<li><a href="/wiki/Whiskey_Lake" title="Whiskey Lake">Whiskey Lake</a></li>
+<li><a href="/wiki/Comet_Lake" title="Comet Lake">Comet Lake</a></li>
+<li><a class="new" href="/w/index.php?title=Cascade_Lake&amp;action=edit&amp;redlink=1" title="Cascade Lake (страница отсутствует)">Cascade Lake</a></li>
+<li><a href="/wiki/Cooper_Lake" title="Cooper Lake">Cooper Lake</a></li>
+<li><i>10 нм:</i> <a href="/wiki/Cannon_Lake" title="Cannon Lake">Cannon Lake</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Sunny Cove</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i>10 нм:</i> <a href="/wiki/Ice_Lake" title="Ice Lake">Ice Lake</a></li>
+<li><i>14 нм:</i> <a href="/wiki/Rocket_Lake" title="Rocket Lake">Rocket Lake</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Willow Cove</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i>10 нм:</i> <a href="/wiki/Tiger_Lake" title="Tiger Lake">Tiger Lake</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Golden Cove</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i>Intel 7 (10 нм):</i> <a href="/wiki/Alder_Lake" title="Alder Lake">Alder Lake</a></li>
+<li><a href="/wiki/Raptor_Lake" title="Raptor Lake">Raptor Lake</a></li>
+<li><a class="new" href="/w/index.php?title=Sapphire_Rapids&amp;action=edit&amp;redlink=1" title="Sapphire Rapids (страница отсутствует)">Sapphire Rapids</a></li>
+<li><a class="new" href="/w/index.php?title=Emerald_Rapids&amp;action=edit&amp;redlink=1" title="Emerald Rapids (страница отсутствует)">Emerald Rapids</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Redwood Cove</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i>Intel 4:</i> <a href="/wiki/Meteor_Lake" title="Meteor Lake">Meteor Lake</a></li>
+<li><i>Intel 3:</i> <a class="new" href="/w/index.php?title=Granite_Rapids&amp;action=edit&amp;redlink=1" title="Granite Rapids (страница отсутствует)">Granite Rapids</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/Intel_Atom" title="Intel Atom">Atom</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i>45 нм:</i> <a href="/wiki/Intel_Bonnell" title="Intel Bonnell">Bonnell</a></li>
+<li><i>32 нм:</i> <a href="/wiki/Intel_Saltwell" title="Intel Saltwell">Saltwell</a></li>
+<li><i>22 нм:</i> <a href="/wiki/Intel_Silvermont" title="Intel Silvermont">Silvermont</a></li>
+<li><i>14 нм:</i> <a class="new" href="/w/index.php?title=Intel_Airmont&amp;action=edit&amp;redlink=1" title="Intel Airmont (страница отсутствует)">Airmont</a></li>
+<li><a class="new" href="/w/index.php?title=Intel_Goldmont&amp;action=edit&amp;redlink=1" title="Intel Goldmont (страница отсутствует)">Goldmont</a></li>
+<li><a class="new" href="/w/index.php?title=Intel_Goldmont_Plus&amp;action=edit&amp;redlink=1" title="Intel Goldmont Plus (страница отсутствует)">Goldmont Plus</a></li>
+<li><i>10 нм:</i> <a class="new" href="/w/index.php?title=Intel_Tremont&amp;action=edit&amp;redlink=1" title="Intel Tremont (страница отсутствует)">Tremont</a></li>
+<li><i>Intel 7:</i> <a class="new" href="/w/index.php?title=Intel_Gracemont&amp;action=edit&amp;redlink=1" title="Intel Gracemont (страница отсутствует)">Gracemont</a></li>
+<li><i>Intel 4:</i> <a class="new" href="/w/index.php?title=Intel_Crestmont&amp;action=edit&amp;redlink=1" title="Intel Crestmont (страница отсутствует)">Crestmont</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Отменённые</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Larrabee" title="Larrabee">Larrabee</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr></tbody></table></div></div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> -->
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=NetBurst&amp;oldid=133612096">https://ru.wikipedia.org/w/index.php?title=NetBurst&amp;oldid=133612096</a></div></div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9C%D0%B8%D0%BA%D1%80%D0%BE%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D1%8B_Intel" title="Категория:Микроархитектуры Intel">Микроархитектуры Intel</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:X86" title="Категория:X86">X86</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8_%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BE%D0%B2" title="Категория:Технологии процессоров">Технологии процессоров</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D0%B8%D1%82%D1%8C_webcitation-%D0%B0%D1%80%D1%85%D0%B8%D0%B2:_deadlink_no)" title="Категория:Википедия:Cite web (заменить webcitation-архив: deadlink no)">Википедия:Cite web (заменить webcitation-архив: deadlink no)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%BD%D0%B5_%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD_%D1%8F%D0%B7%D1%8B%D0%BA)" title="Категория:Википедия:Cite web (не указан язык)">Википедия:Cite web (не указан язык)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D0%B8%D1%82%D1%8C_webcitation-%D0%B0%D1%80%D1%85%D0%B8%D0%B2:_deadlink_yes)" title="Категория:Википедия:Cite web (заменить webcitation-архив: deadlink yes)">Википедия:Cite web (заменить webcitation-архив: deadlink yes)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%A0%D0%9E:%D0%98%D0%A2:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:ПРО:ИТ:Статьи по алфавиту">ПРО:ИТ:Статьи по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%A0%D0%9E:%D0%98%D0%A2:%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D1%8F%D1%8F_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:_%D0%B2_%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%BE%D0%BC_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:ПРО:ИТ:Последняя правка: в прошлом году">ПРО:ИТ:Последняя правка: в прошлом году</a></li></ul></div></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Навигация</h2>
+<div id="mw-head">
+<nav aria-labelledby="p-personal-label" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" id="p-personal" role="navigation">
+<h3 class="vector-menu-heading" id="p-personal-label">
+<span class="vector-menu-heading-label">Персональные инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="pt-anonuserpage"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li class="mw-list-item" id="pt-anontalk"><a accesskey="n" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]"><span>Обсуждение</span></a></li><li class="mw-list-item" id="pt-anoncontribs"><a accesskey="y" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]"><span>Вклад</span></a></li><li class="mw-list-item" id="pt-createaccount"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=NetBurst" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li class="mw-list-item" id="pt-login"><a accesskey="o" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=NetBurst" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]"><span>Войти</span></a></li>
+</ul>
+</div>
+</nav>
+<div id="left-navigation">
+<nav aria-labelledby="p-namespaces-label" class="mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-namespaces" role="navigation">
+<h3 class="vector-menu-heading" id="p-namespaces-label">
+<span class="vector-menu-heading-label">Пространства имён</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-nstab-main"><a accesskey="c" href="/wiki/NetBurst" title="Просмотреть контентную страницу [c]"><span>Статья</span></a></li><li class="mw-list-item" id="ca-talk"><a accesskey="t" href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:NetBurst" rel="discussion" title="Обсуждение основной страницы [t]"><span>Обсуждение</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-variants-label" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" id="p-variants" role="navigation">
+<input aria-haspopup="true" aria-labelledby="p-variants-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-variants" id="p-variants-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-variants-label">
+<span class="vector-menu-heading-label">русский</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+</div>
+<div id="right-navigation">
+<nav aria-labelledby="p-views-label" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-views" role="navigation">
+<h3 class="vector-menu-heading" id="p-views-label">
+<span class="vector-menu-heading-label">Просмотры</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-view"><a href="/wiki/NetBurst"><span>Читать</span></a></li><li class="mw-list-item" id="ca-ve-edit"><a accesskey="v" href="/w/index.php?title=NetBurst&amp;veaction=edit" title="Редактировать данную страницу [v]"><span>Править</span></a></li><li class="collapsible mw-list-item" id="ca-edit"><a accesskey="e" href="/w/index.php?title=NetBurst&amp;action=edit" title="Править исходный текст этой страницы [e]"><span>Править код</span></a></li><li class="mw-list-item" id="ca-history"><a accesskey="h" href="/w/index.php?title=NetBurst&amp;action=history" title="Журнал изменений страницы [h]"><span>История</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-cactions-label" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" id="p-cactions" role="navigation" title="Больше возможностей">
+<input aria-haspopup="true" aria-labelledby="p-cactions-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-cactions" id="p-cactions-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-cactions-label">
+<span class="vector-menu-heading-label">Ещё</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+<div class="vector-search-box-vue vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box" id="p-search" role="search">
+<h3>Поиск</h3>
+<form action="/w/index.php" class="vector-search-box-form" id="searchform">
+<div class="vector-search-box-inner" data-search-loc="header-navigation" id="simpleSearch">
+<input accesskey="f" aria-label="Искать в Википедии" autocapitalize="sentences" class="vector-search-box-input" id="searchInput" name="search" placeholder="Искать в Википедии" title="Искать в Википедии [f]" type="search"/>
+<input name="title" type="hidden" value="Служебная:Поиск"/>
+<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Найти страницы, содержащие указанный текст" type="submit" value="Найти"/>
+<input class="searchButton" id="searchButton" name="go" title="Перейти к странице, имеющей в точности такое название" type="submit" value="Перейти"/>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="vector-legacy-sidebar" id="mw-panel">
+<div id="p-logo" role="banner">
+<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу"></a>
+</div>
+<nav aria-labelledby="p-navigation-label" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" id="p-navigation" role="navigation">
+<h3 class="vector-menu-heading" id="p-navigation-label">
+<span class="vector-menu-heading-label">Навигация</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-mainpage-description"><a accesskey="z" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]"><span>Заглавная страница</span></a></li><li class="mw-list-item" id="n-content"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li class="mw-list-item" id="n-featured"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li class="mw-list-item" id="n-randompage"><a accesskey="x" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]"><span>Случайная статья</span></a></li><li class="mw-list-item" id="n-currentevents"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li class="mw-list-item" id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-participation-label" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" id="p-participation" role="navigation">
+<h3 class="vector-menu-heading" id="p-participation-label">
+<span class="vector-menu-heading-label">Участие</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-bug_in_article"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li class="mw-list-item" id="n-introduction"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li class="mw-list-item" id="n-portal"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li class="mw-list-item" id="n-forum"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li class="mw-list-item" id="n-recentchanges"><a accesskey="r" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]"><span>Свежие правки</span></a></li><li class="mw-list-item" id="n-newpages"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li class="mw-list-item" id="n-help"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-tb-label" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" id="p-tb" role="navigation">
+<h3 class="vector-menu-heading" id="p-tb-label">
+<span class="vector-menu-heading-label">Инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="t-whatlinkshere"><a accesskey="j" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/NetBurst" title="Список всех страниц, ссылающихся на данную [j]"><span>Ссылки сюда</span></a></li><li class="mw-list-item" id="t-recentchangeslinked"><a accesskey="k" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/NetBurst" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]"><span>Связанные правки</span></a></li><li class="mw-list-item" id="t-specialpages"><a accesskey="q" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]"><span>Служебные страницы</span></a></li><li class="mw-list-item" id="t-permalink"><a href="/w/index.php?title=NetBurst&amp;oldid=133612096" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li class="mw-list-item" id="t-info"><a href="/w/index.php?title=NetBurst&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li class="mw-list-item" id="t-cite"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=NetBurst&amp;id=133612096&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li class="mw-list-item" id="t-urlshortener"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2FNetBurst"><span>Получить короткий URL</span></a></li><li class="mw-list-item" id="t-urlshortener-qrcode"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2FNetBurst"><span>Скачать QR-код</span></a></li><li class="mw-list-item" id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1062113" title="Ссылка на связанный элемент репозитория данных [g]"><span>Элемент Викиданных</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-coll-print_export-label" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" id="p-coll-print_export" role="navigation">
+<h3 class="vector-menu-heading" id="p-coll-print_export-label">
+<span class="vector-menu-heading-label">Печать/экспорт</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="coll-download-as-rl"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=NetBurst&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li class="mw-list-item" id="t-print"><a accesskey="p" href="/w/index.php?title=NetBurst&amp;printable=yes" title="Версия этой страницы для печати [p]"><span>Версия для печати</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-lang-label" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" id="p-lang" role="navigation">
+<h3 class="vector-menu-heading" id="p-lang-label">
+<span class="vector-menu-heading-label">На других языках</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="interlanguage-link interwiki-ca mw-list-item"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/NetBurst" hreflang="ca" lang="ca" title="NetBurst — каталанский"><span>Català</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/NetBurst" hreflang="cs" lang="cs" title="NetBurst — чешский"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Intel-NetBurst-Mikroarchitektur" hreflang="de" lang="de" title="Intel-NetBurst-Mikroarchitektur — немецкий"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%9C%CE%B9%CE%BA%CF%81%CE%BF%CE%B1%CF%81%CF%87%CE%B9%CF%84%CE%B5%CE%BA%CF%84%CE%BF%CE%BD%CE%B9%CE%BA%CE%AE_NetBurst" hreflang="el" lang="el" title="Μικροαρχιτεκτονική NetBurst — греческий"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a class="interlanguage-link-target" href="https://en.wikipedia.org/wiki/NetBurst" hreflang="en" lang="en" title="NetBurst — английский"><span>English</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/NetBurst" hreflang="es" lang="es" title="NetBurst — испанский"><span>Español</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/NetBurst" hreflang="fi" lang="fi" title="NetBurst — финский"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/NetBurst" hreflang="fr" lang="fr" title="NetBurst — французский"><span>Français</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/NetBurst" hreflang="it" lang="it" title="NetBurst — итальянский"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/NetBurst%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3" hreflang="ja" lang="ja" title="NetBurstマイクロアーキテクチャ — японский"><span>日本語</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EB%84%B7%EB%B2%84%EC%8A%A4%ED%8A%B8" hreflang="ko" lang="ko" title="넷버스트 — корейский"><span>한국어</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/NetBurst" hreflang="nl" lang="nl" title="NetBurst — нидерландский"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/NetBurst" hreflang="pl" lang="pl" title="NetBurst — польский"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/NetBurst" hreflang="pt" lang="pt" title="NetBurst — португальский"><span>Português</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/NetBurst" hreflang="sk" lang="sk" title="NetBurst — словацкий"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/NetBurst" hreflang="sv" lang="sv" title="NetBurst — шведский"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/NetBurst_(mikromimari)" hreflang="tr" lang="tr" title="NetBurst (mikromimari) — турецкий"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/Intel_NetBurst_(%D0%BC%D1%96%D0%BA%D1%80%D0%BE%D0%B0%D1%80%D1%85%D1%96%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0)" hreflang="uk" lang="uk" title="Intel NetBurst (мікроархітектура) — украинский"><span>Українська</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/NetBurst%E5%BE%AE%E6%9E%B6%E6%A7%8B" hreflang="zh" lang="zh" title="NetBurst微架構 — китайский"><span>中文</span></a></li>
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1062113#sitelinks-wikipedia" title="Править ссылки на другие языки">Править ссылки</a></span></div>
+</div>
+</nav>
+</div>
+</div>
+<footer class="mw-footer" id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 15 октября 2023 в 11:14.</li>
+<li id="footer-info-copyright">Текст доступен по <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru" rel="license">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a><a href="//creativecommons.org/licenses/by-sa/4.0/" rel="license" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br/>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org/ru/">Фонд Викимедиа (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//ru.m.wikipedia.org/w/index.php?title=NetBurst&amp;mobileaction=toggle_view_mobile">Мобильная версия</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" loading="lazy" src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88"/></a></li>
+<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" loading="lazy" src="/static/images/footer/poweredby_mediawiki_88x31.png" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88"/></a></li>
+</ul>
+</footer>
+
+
+</body>
+</html>

@@ -11,7 +11,7 @@
 <meta content="" name="ResourceLoaderDynamicStyles"/>
 
 
-<meta content="MediaWiki 1.42.0-wmf.18" name="generator"/>
+<meta content="MediaWiki 1.42.0-wmf.19" name="generator"/>
 <meta content="origin" name="referrer"/>
 <meta content="origin-when-cross-origin" name="referrer"/>
 <meta content="max-image-preview:standard" name="robots"/>
@@ -1999,7 +1999,7 @@
 <p>Фазовые характеристики фильтра Чебышёва II рода — фазо-частотная характеристика и фазовая задержка представлены на рисунке. Фазо-частотная характеристика показывает зависимость от частоты фазовый сдвиг выходного сигнала относительно входного. Фазовая задержка определяется как частное от деления фазового сдвига на частоту и характеризует частотную зависимость временно́го запаздывания выходного сигнала относительно входного.
 </p>
 <h2><span id=".D0.A6.D0.B8.D1.84.D1.80.D0.BE.D0.B2.D1.8B.D0.B5_.D1.84.D0.B8.D0.BB.D1.8C.D1.82.D1.80.D1.8B_.D0.A7.D0.B5.D0.B1.D1.8B.D1.88.D1.91.D0.B2.D0.B0"></span><span class="mw-headline" id="Цифровые_фильтры_Чебышёва">Цифровые фильтры Чебышёва</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80_%D0%A7%D0%B5%D0%B1%D1%8B%D1%88%D1%91%D0%B2%D0%B0&amp;veaction=edit&amp;section=12" title="Редактировать раздел «Цифровые фильтры Чебышёва»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80_%D0%A7%D0%B5%D0%B1%D1%8B%D1%88%D1%91%D0%B2%D0%B0&amp;action=edit&amp;section=12" title="Редактировать код раздела «Цифровые фильтры Чебышёва»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>Фильтры Чебышёва часто реализуются в цифровой форме. Для того, чтобы от аналогового фильтра перейти к цифровому, необходимо над передаточной функцией каждого каскада записанной для аналогового фильтра осуществить <a href="/wiki/%D0%91%D0%B8%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" title="Билинейное преобразование">билинейное преобразование</a>. Результирующий фильтр получается путём последовательного соединения каскадов. Простой пример фильтра Чебышёва низких частот I рода чётного порядка<sup class="ts-fix-template noprint">[<i><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D0%BD%D0%B0_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8" title="Википедия:Ссылки на источники"><span title="нет источника (21 декабря 2016)">источник не указан 2615 дней</span></a></i>]</sup>:
+<p>Фильтры Чебышёва часто реализуются в цифровой форме. Для того, чтобы от аналогового фильтра перейти к цифровому, необходимо над передаточной функцией каждого каскада записанной для аналогового фильтра осуществить <a href="/wiki/%D0%91%D0%B8%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" title="Билинейное преобразование">билинейное преобразование</a>. Результирующий фильтр получается путём последовательного соединения каскадов. Простой пример фильтра Чебышёва низких частот I рода чётного порядка<sup class="ts-fix-template noprint">[<i><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D0%BD%D0%B0_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8" title="Википедия:Ссылки на источники"><span title="нет источника (21 декабря 2016)">источник не указан 2625 дней</span></a></i>]</sup>:
 </p><p><a href="/wiki/Z-%D0%BF%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" title="Z-преобразование"><i>Z</i>-преобразование</a> каждого каскада:
 </p>
 <dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle S(Z)={\frac {a(Z)}{b(Z)}}={\frac {\alpha _{0}+\alpha _{1}\cdot Z^{-1}+\alpha _{2}\cdot Z^{-2}}{1+\beta _{1}\cdot Z^{-1}+\beta _{2}\cdot Z^{-2}}}.}" xmlns="http://www.w3.org/1998/Math/MathML">
@@ -2245,7 +2245,7 @@
 </mrow>
 <annotation encoding="application/x-tex">{\displaystyle b_{i}}</annotation>
 </semantics>
-</math></span><img alt="{\displaystyle b_{i}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/40a8c2db2990a53c683e75961826167c5adac7c3" style="vertical-align: -0.671ex; width:1.797ex; height:2.509ex;"/></span><sup class="ts-fix-template noprint">[<i><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D0%BD%D0%B0_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8" title="Википедия:Ссылки на источники"><span title="нет источника (21 декабря 2016)">источник не указан 2615 дней</span></a></i>]</sup>:
+</math></span><img alt="{\displaystyle b_{i}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/40a8c2db2990a53c683e75961826167c5adac7c3" style="vertical-align: -0.671ex; width:1.797ex; height:2.509ex;"/></span><sup class="ts-fix-template noprint">[<i><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D0%BD%D0%B0_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8" title="Википедия:Ссылки на источники"><span title="нет источника (21 декабря 2016)">источник не указан 2625 дней</span></a></i>]</sup>:
 </p>
 <dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle K=\mathop {\mathrm {tg} } \left(\pi {\frac {\mbox{Frequency}}{\mbox{SampleRate}}}\right),}" xmlns="http://www.w3.org/1998/Math/MathML">
 <semantics>
@@ -2750,13 +2750,13 @@
 </td></tr></tbody></table>
 <!-- 
 NewPP limit report
-Parsed by mw1413
-Cached time: 20240218012532
+Parsed by mw1370
+Cached time: 20240228164547
 Cache expiry: 2592000
 Reduced expiry: false
 Complications: [show‐toc]
-CPU time usage: 0.398 seconds
-Real time usage: 0.626 seconds
+CPU time usage: 0.452 seconds
+Real time usage: 0.625 seconds
 Preprocessor visited node count: 15654/1000000
 Post‐expand include size: 44340/2097152 bytes
 Template argument size: 18878/2097152 bytes
@@ -2764,24 +2764,24 @@ Highest expansion depth: 17/100
 Expensive parser function count: 1/500
 Unstrip recursion depth: 1/20
 Unstrip post‐expand size: 15174/5000000 bytes
-Lua time usage: 0.103/10.000 seconds
-Lua memory usage: 3429544/52428800 bytes
+Lua time usage: 0.113/10.000 seconds
+Lua memory usage: 3316128/52428800 bytes
 Number of Wikibase entities loaded: 1/400
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  361.357      1 -total
- 39.78%  143.760     21 Шаблон:Публикация
- 24.95%   90.154      2 Шаблон:Примечания
- 16.61%   60.020      2 Шаблон:Нет_АИ
- 11.86%   42.847      1 Шаблон:Навигация
- 10.52%   38.029      7 Шаблон:Cite_web
-  8.80%   31.791      1 Шаблон:БСЭ3
-  8.56%   30.920      2 Шаблон:Сортировка:_статьи_без_источников
-  8.35%   30.191      1 Шаблон:Линейные_электронные_фильтры
-  7.39%   26.687      1 Шаблон:Боковая_навигационная_таблица
+100.00%  390.661      1 -total
+ 43.07%  168.275     21 Шаблон:Публикация
+ 26.14%  102.100      2 Шаблон:Примечания
+ 15.77%   61.588      2 Шаблон:Нет_АИ
+ 11.67%   45.586      1 Шаблон:Навигация
+  9.37%   36.604      7 Шаблон:Cite_web
+  9.04%   35.330      1 Шаблон:БСЭ3
+  7.92%   30.945      1 Шаблон:Линейные_электронные_фильтры
+  7.42%   28.979      1 Шаблон:Боковая_навигационная_таблица
+  7.35%   28.731      2 Шаблон:Сортировка:_статьи_без_источников
 -->
-<!-- Saved in parser cache with key ruwiki:pcache:idhash:312562-0!canonical and timestamp 20240218012532 and revision id 133372197. Rendering was triggered because: page-view
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:312562-0!canonical and timestamp 20240228164547 and revision id 133372197. Rendering was triggered because: page-view
  -->
 </div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> -->
 <div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Фильтр_Чебышёва&amp;oldid=133372197">https://ru.wikipedia.org/w/index.php?title=Фильтр_Чебышёва&amp;oldid=133372197</a></div></div>

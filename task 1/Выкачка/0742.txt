@@ -1,0 +1,1082 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="ru">
+<head>
+<meta charset="utf-8"/>
+<title>Своя игра — Википедия</title>
+
+
+
+
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+
+
+<meta content="MediaWiki 1.42.0-wmf.19" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="max-image-preview:standard" name="robots"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/b/b3/%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0_%D1%82%D0%B5%D0%BB%D0%B5%D0%B8%D0%B3%D1%80%D0%B0_%D0%B7%D0%B0%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0.jpg" property="og:image"/>
+<meta content="1200" property="og:image:width"/>
+<meta content="668" property="og:image:height"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/b/b3/%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0_%D1%82%D0%B5%D0%BB%D0%B5%D0%B8%D0%B3%D1%80%D0%B0_%D0%B7%D0%B0%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0.jpg" property="og:image"/>
+<meta content="800" property="og:image:width"/>
+<meta content="445" property="og:image:height"/>
+<meta content="640" property="og:image:width"/>
+<meta content="356" property="og:image:height"/>
+<meta content="width=1000" name="viewport"/>
+<meta content="Своя игра — Википедия" property="og:title"/>
+<meta content="website" property="og:type"/>
+
+
+
+
+
+
+
+
+
+
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Своя_игра rootpage-Своя_игра skin-vector action-view"><div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators">
+</div>
+<h1 class="firstHeading mw-first-heading" id="firstHeading"><span class="mw-page-title-main">Своя игра</span></h1>
+<div class="vector-body" id="bodyContent">
+<div class="noprint" id="siteSub">Материал из Википедии — свободной энциклопедии</div>
+<div id="contentSub"><div id="mw-content-subtitle"><div class="plainlinks flaggedrevs_preview" id="mw-fr-reviewnotice">Текущая версия страницы пока <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9/%D0%9F%D0%BE%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BB%D1%8F_%D1%87%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9" title="Википедия:Проверка статей/Пояснение для читателей">не проверялась</a> опытными участниками и может значительно отличаться от <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0&amp;stable=1">версии</a>, проверенной 20 августа 2023 года; проверки требуют <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0&amp;oldid=132407772&amp;diff=cur&amp;diffonly=0">97 правок</a>.</div><div class="flaggedrevs_short flaggedrevs_draft_notsynced plainlinks noprint" id="mw-fr-revisiontag"><div class="flaggedrevs_short_basic"><span class="flaggedrevs-icon oo-ui-widget oo-ui-widget-enabled oo-ui-iconElement-icon oo-ui-icon-block oo-ui-iconElement oo-ui-labelElement-invisible oo-ui-iconWidget" title="Текущая версия"></span><span class="fr-toggle-arrow oo-ui-widget oo-ui-widget-enabled oo-ui-indicatorElement-indicator oo-ui-indicator-down oo-ui-indicatorElement oo-ui-labelElement-invisible oo-ui-indicatorWidget" id="mw-fr-revisiontoggle" title="показать/скрыть подробности"></span></div>
+<div id="mw-fr-revisiondetails-wrapper" style="position:relative;"><div class="flaggedrevs_short_details" id="mw-fr-revisiondetails" style="display:none">Текущая версия страницы пока <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9/%D0%9F%D0%BE%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BB%D1%8F_%D1%87%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9" title="Википедия:Проверка статей/Пояснение для читателей">не проверялась</a> опытными участниками и может значительно отличаться от <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0&amp;stable=1">версии</a>, проверенной 20 августа 2023 года; проверки требуют <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0&amp;oldid=132407772&amp;diff=cur&amp;diffonly=0">97 правок</a>.</div>
+</div>
+</div>
+</div></div>
+<div id="contentSub2"></div>
+<div id="jump-to-nav"></div>
+<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+<div class="mw-body-content" id="mw-content-text"><div class="mw-content-ltr mw-parser-output" dir="ltr" lang="ru"><table class="infobox infobox-be1bee9bf762a793" data-name="Телепередача" style=""><tbody><tr><th class="infobox-above" colspan="2" scope="colgroup" style="">Своя игра</th></tr><tr><td class="infobox-image" colspan="2" style=""> <span class="no-wikidata" data-wikidata-property-id="P18"><span typeof="mw:File/Frameless"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0_%D1%82%D0%B5%D0%BB%D0%B5%D0%B8%D0%B3%D1%80%D0%B0_%D0%B7%D0%B0%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0.jpg" title="Логотип программы с 6 апреля 2013 года"><img alt="Логотип программы с 6 апреля 2013 года" class="mw-file-element" data-file-height="267" data-file-width="480" decoding="async" height="152" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0_%D1%82%D0%B5%D0%BB%D0%B5%D0%B8%D0%B3%D1%80%D0%B0_%D0%B7%D0%B0%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0.jpg/274px-%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0_%D1%82%D0%B5%D0%BB%D0%B5%D0%B8%D0%B3%D1%80%D0%B0_%D0%B7%D0%B0%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0_%D1%82%D0%B5%D0%BB%D0%B5%D0%B8%D0%B3%D1%80%D0%B0_%D0%B7%D0%B0%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0.jpg/411px-%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0_%D1%82%D0%B5%D0%BB%D0%B5%D0%B8%D0%B3%D1%80%D0%B0_%D0%B7%D0%B0%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/b/b3/%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0_%D1%82%D0%B5%D0%BB%D0%B5%D0%B8%D0%B3%D1%80%D0%B0_%D0%B7%D0%B0%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0.jpg 2x" width="274"/></a></span><br/><span class="media-caption" data-wikidata-qualifier-id="P2096" style="display:block">Логотип программы с 6 апреля 2013 года</span></span> </td></tr>
+<tr>
+<th class="plainlist" scope="row">Жанр</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P136">Телеигра-викторина</span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Создатели</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P170"><a href="/wiki/%D0%9F%D0%B5%D1%85%D0%BB%D0%B5%D1%86%D0%BA%D0%B8%D0%B9,_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87" title="Пехлецкий, Сергей Николаевич">Сергей Пехлецкий</a><br/>Сергей Бражников</span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">На основе</th>
+<td class="plainlist">
+<span class="wikidata-claim" data-wikidata-claim-id="Q15271009$c726c3ae-4027-0ca1-22af-ea81979b9713" data-wikidata-property-id="P144"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/Jeopardy!" title="Jeopardy!">Jeopardy!</a></span></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Ведущий</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P371"><a href="/wiki/%D0%9A%D1%83%D0%BB%D0%B5%D1%88%D0%BE%D0%B2,_%D0%9F%D1%91%D1%82%D1%80_%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B2%D0%B8%D1%87" title="Кулешов, Пётр Борисович">Пётр Кулешов</a></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Композиторы</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P86">Александр Иванов (1994—2001)<br/><a class="mw-redirect" href="/wiki/%D0%9E%D0%BB%D0%B5%D0%B3_%D0%9B%D0%B8%D1%82%D0%B2%D0%B8%D1%88%D0%BA%D0%BE" title="Олег Литвишко">Олег Литвишко</a> (2001—2013), обработка музыки А. Иванова<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup><br/>Иван Баландин (с 2013 года)</span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Страна производства</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P495"><span class="nowrap" data-sort-value="Россия"><span class="flagicon"><span class="mw-image-border noresize" typeof="mw:File"><span><img alt="" class="mw-file-element" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/22px-Flag_of_Russia.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/33px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/44px-Flag_of_Russia.svg.png 2x" width="22"/></span></span></span> <a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F" title="Россия"><span class="wrap">Россия</span></a></span></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Язык</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P364"><a href="/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Русский язык">Русский</a></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Число сезонов</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P2437">31</span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Число выпусков</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P1113">2099+2 неигровых (на 03.03.2024)<sup class="reference" id="cite_ref-1500Igr_2-0"><a href="#cite_note-1500Igr-2">[2]</a></sup></span></td>
+</tr>
+<tr>
+<th class="infobox-header" colspan="2" scope="colgroup" style="">Производство</th>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Режиссёры</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P57">Юрий Первушин (1994—2017)<br/>Евгений Козлов (с 2017 года)</span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Продюсеры</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P162"><a href="/wiki/%D0%9B%D0%B5%D1%81%D0%B8%D0%BD,_%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB_%D0%AE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87" title="Лесин, Михаил Юрьевич">Михаил Лесин</a><br/>(1994)<br/>Юрий Заполь и <a href="/wiki/%D0%93%D1%83%D1%80%D0%B5%D0%B2%D0%B8%D1%87,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%92%D0%B8%D1%82%D0%B0%D0%BB%D1%8C%D0%B5%D0%B2%D0%B8%D1%87" title="Гуревич, Александр Витальевич">Александр Гуревич</a><br/>(1994—1998)<br/><a href="/wiki/%D0%9F%D0%B5%D1%85%D0%BB%D0%B5%D1%86%D0%BA%D0%B8%D0%B9,_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87" title="Пехлецкий, Сергей Николаевич">Сергей Пехлецкий</a> (с июня 1998 года)</span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Студия</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P272"><a href="/wiki/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%88%D0%BD%D0%BB" title="Видео Интернешнл">Компания «Video International»</a> (1994—1998)<br/><a href="/wiki/2V_Media" title="2V Media">Продюсерский центр «Видео Интернешнл» / Студия 2В / 2V Media</a> (с 1998 года)</span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Места съёмок</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P915"><a href="/wiki/%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0" title="Москва">Москва</a>:<br/><a href="/wiki/%D0%97%D1%83%D0%B1%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%B1%D1%83%D0%BB%D1%8C%D0%B2%D0%B0%D1%80" title="Зубовский бульвар">Зубовский бульвар</a>, д. 4 (1994—1998)<br/><a href="/wiki/%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B8%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82_%D0%BA%D0%B8%D0%BD%D0%B5%D0%BC%D0%B0%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%B8_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%A1._%D0%90._%D0%93%D0%B5%D1%80%D0%B0%D1%81%D0%B8%D0%BC%D0%BE%D0%B2%D0%B0" title="Всероссийский государственный институт кинематографии имени С. А. Герасимова">ВГИК</a>, 1-й павильон, <a href="/wiki/%D0%A3%D0%BB%D0%B8%D1%86%D0%B0_%D0%92%D0%B8%D0%BB%D1%8C%D0%B3%D0%B5%D0%BB%D1%8C%D0%BC%D0%B0_%D0%9F%D0%B8%D0%BA%D0%B0_(%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0)" title="Улица Вильгельма Пика (Москва)">ул. Вильгельма Пика</a>, д. 3 (1998, 1999—2000)<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup><br/><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BE%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D0%B5%D0%BB%D0%B5%D1%86%D0%B5%D0%BD%D1%82%D1%80" title="Шаболовский телецентр">Шаболовский телецентр</a> (1998—1999)<br/><a href="/wiki/%D0%9E%D1%81%D1%82%D0%B0%D0%BD%D0%BA%D0%B8%D0%BD%D0%BE_(%D1%82%D0%B5%D0%BB%D0%B5%D1%86%D0%B5%D0%BD%D1%82%D1%80)" title="Останкино (телецентр)">телецентр «Останкино»</a>, 5-я студия (2001—2013)<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup><br/><a href="/wiki/%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82" title="Ленинградский проспект">Ленинградский проспект</a>, дом 68, строение 20 (с 2013 года)</span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Камера</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P4312">Многокамерная</span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Длина одного выпуска</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P2047">25 минут (1994—2000)<br/>45 минут (с 2001 года)</span></td>
+</tr>
+<tr>
+<th class="infobox-header" colspan="2" scope="colgroup" style="">Трансляция</th>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Статус</th>
+<td class="plainlist">
+<b>в эфире</b></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Телеканалы</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P449"><a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1" title="Россия-1">РТР</a> (1994—1997)<br/><a href="/wiki/%D0%9D%D0%A2%D0%92" title="НТВ">НТВ</a> (1997—1999, с 2001)<br/><a href="/wiki/%D0%A2%D0%92-6" title="ТВ-6">ТВ-6</a> (2000)</span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Период трансляции</th>
+<td class="plainlist">
+<span class="nowrap"><span class="no-wikidata" data-wikidata-property-id="P580">7 апреля 1994 года</span></span> — <span class="nowrap"><span class="no-wikidata" data-wikidata-property-id="P582">настоящее время</span></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Повторные показы</th>
+<td class="plainlist">
+<p>2004—2005  <br/>
+<span class="nowrap" data-sort-value="Украина"><span class="flagicon"><span class="mw-image-border noresize" typeof="mw:File"><span><img alt="" class="mw-file-element" data-file-height="800" data-file-width="1200" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/22px-Flag_of_Ukraine.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/33px-Flag_of_Ukraine.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/44px-Flag_of_Ukraine.svg.png 2x" width="22"/></span></span></span> <a href="/wiki/%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0" title="Украина"><span class="wrap">Украина</span></a></span>, <a href="/wiki/%D0%A1%D0%A2%D0%91" title="СТБ">СТБ</a>
+<br/>
+2009—2010, 2013—2014  <br/>
+</p>
+<span class="nowrap" data-sort-value="Россия"><span class="flagicon"><span class="mw-image-border noresize" typeof="mw:File"><span><img alt="" class="mw-file-element" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/22px-Flag_of_Russia.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/33px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/44px-Flag_of_Russia.svg.png 2x" width="22"/></span></span></span> <a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F" title="Россия"><span class="wrap">Россия</span></a></span>, Вопросы и ответы</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Формат изображения</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P2061"><a href="/wiki/%D0%A1%D0%BE%D0%BE%D1%82%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%B8%D0%B5_%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD_%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0" title="Соотношение сторон экрана">4:3</a> (с 7 апреля 1994 по 30 марта 2013 года)<br/><a class="mw-redirect" href="/wiki/16:9" title="16:9">16:9</a> (с 6 апреля 2013 года)<br/><a class="mw-redirect" href="/wiki/HDTV" title="HDTV">HDTV</a> (c 6 июня 2015 года)</span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Формат звука</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P7501"><a href="/wiki/%D0%9C%D0%BE%D0%BD%D0%BE%D1%84%D0%BE%D0%BD%D0%B8%D1%8F" title="Монофония">Моно</a> (с 7 апреля 1994 по 30 марта 2013 года)<br/><a href="/wiki/%D0%A1%D1%82%D0%B5%D1%80%D0%B5%D0%BE%D1%84%D0%BE%D0%BD%D0%B8%D1%8F" title="Стереофония">Стерео</a> (с 6 апреля 2013 года)</span></td>
+</tr>
+<tr>
+<th class="infobox-header" colspan="2" scope="colgroup" style="">Хронология</th>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Похожие передачи</th>
+<td class="plainlist">
+<a href="/wiki/%D0%A7%D1%82%D0%BE%3F_%D0%93%D0%B4%D0%B5%3F_%D0%9A%D0%BE%D0%B3%D0%B4%D0%B0%3F" title="Что? Где? Когда?">Что? Где? Когда?</a><br/><a href="/wiki/%D0%A1%D0%B0%D0%BC%D1%8B%D0%B9_%D1%83%D0%BC%D0%BD%D1%8B%D0%B9" title="Самый умный">Самый умный</a></td>
+</tr>
+<tr>
+<th class="infobox-header" colspan="2" scope="colgroup" style="">Ссылки</th>
+</tr>
+<tr>
+<th class="plainlist" scope="row"><a href="/wiki/Internet_Movie_Database" title="Internet Movie Database">IMDb</a></th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P345"><a class="extiw" href="https://www.imdb.com/title/tt1381017/" title="imdbtitle:1381017">ID 1381017</a></span></td>
+</tr><tr><td class="infobox-below" colspan="2" style=";"><span class="no-wikidata" data-wikidata-property-id="P856"><a class="external text" href="http://www.ntv.ru/peredacha/svoya_igra" rel="nofollow">Страница телеигры на сайте НТВ</a></span></td></tr>
+</tbody></table>
+<p><b>«Своя́ игра́»</b> — <a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F" title="Россия">российская</a> <a href="/wiki/%D0%A2%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Телевидение">теле</a><a href="/wiki/%D0%98%D0%B3%D1%80%D0%B0" title="Игра">игра</a>-<a href="/wiki/%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D0%BD%D0%B0" title="Викторина">викторина</a>, транслируемая на <a href="/wiki/%D0%9D%D0%A2%D0%92" title="НТВ">НТВ</a>; производится по лицензии и является одной из локализованных версий <a class="mw-redirect" href="/wiki/%D0%A1%D0%A8%D0%90" title="США">американской</a> телевикторины <i><a href="/wiki/Jeopardy!" title="Jeopardy!">Jeopardy!</a></i> («Рискуй!»). Ведущим программы является <a href="/wiki/%D0%9A%D1%83%D0%BB%D0%B5%D1%88%D0%BE%D0%B2,_%D0%9F%D1%91%D1%82%D1%80_%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B2%D0%B8%D1%87" title="Кулешов, Пётр Борисович">Пётр Кулешов</a>. Первый выпуск вышел в эфире <a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1" title="Россия-1">РТР</a> 7 апреля 1994 года. Выходит в эфире НТВ по выходным в 15:00.
+</p><p>В каждом выпуске программы место за игровыми пультами занимают три игрока, задачей которых являются ответы на вопросы из различных областей знаний в течение трёх основных и финального раундов. Каждый основной раунд состоит из шести тем, каждая из которых, в свою очередь, состоит из пяти вопросов, стоимость которых повышается сообразно повышению их сложности. Финальный раунд состоит из одного вопроса, стоимость которого определяется ставкой, которую делает сам игрок исходя из суммы, имеющейся у него на игровом счёте. Если участник даёт верный ответ, сумма переходит к нему на счёт, если ошибается — очки снимаются. Игрок, набравший по итогам игры наибольшее количество очков, объявляется победителем и получает <a class="mw-selflink-fragment" href="#Призы">денежный приз</a>.
+</p>
+<div aria-labelledby="mw-toc-heading" class="toc" id="toc" role="navigation"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="ru"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#О_программе"><span class="tocnumber">1</span> <span class="toctext">О программе</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#История"><span class="tocnumber">1.1</span> <span class="toctext">История</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Съёмочная_группа"><span class="tocnumber">1.2</span> <span class="toctext">Съёмочная группа</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Спонсоры"><span class="tocnumber">1.3</span> <span class="toctext">Спонсоры</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Рекорды_результативности"><span class="tocnumber">1.4</span> <span class="toctext">Рекорды результативности</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Призы"><span class="tocnumber">1.5</span> <span class="toctext">Призы</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Традиционные_типы_тем"><span class="tocnumber">2</span> <span class="toctext">Традиционные типы тем</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Ход_игры"><span class="tocnumber">3</span> <span class="toctext">Ход игры</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Первый_раунд"><span class="tocnumber">3.1</span> <span class="toctext">Первый раунд</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Второй_и_третий_раунды"><span class="tocnumber">3.2</span> <span class="toctext">Второй и третий раунды</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Финальный_раунд"><span class="tocnumber">3.3</span> <span class="toctext">Финальный раунд</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Специальные_вопросы"><span class="tocnumber">3.4</span> <span class="toctext">Специальные вопросы</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Вопросы_от_спонсора"><span class="tocnumber">3.5</span> <span class="toctext">Вопросы от спонсора</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Перестрелка"><span class="tocnumber">3.6</span> <span class="toctext">Перестрелка</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#Спецпроекты"><span class="tocnumber">4</span> <span class="toctext">Спецпроекты</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#Вещание"><span class="tocnumber">5</span> <span class="toctext">Вещание</span></a>
+<ul>
+<li class="toclevel-2 tocsection-17"><a href="#Несостоявшееся_закрытие_проекта"><span class="tocnumber">5.1</span> <span class="toctext">Несостоявшееся закрытие проекта</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-18"><a href="#Награды"><span class="tocnumber">6</span> <span class="toctext">Награды</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#Основные_турниры[48]"><span class="tocnumber">7</span> <span class="toctext">Основные турниры<sup>[48]</sup></span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#Спортивная_версия"><span class="tocnumber">8</span> <span class="toctext">Спортивная версия</span></a></li>
+<li class="toclevel-1 tocsection-21"><a href="#Пародии"><span class="tocnumber">9</span> <span class="toctext">Пародии</span></a></li>
+<li class="toclevel-1 tocsection-22"><a href="#Примечания"><span class="tocnumber">10</span> <span class="toctext">Примечания</span></a></li>
+<li class="toclevel-1 tocsection-23"><a href="#Ссылки"><span class="tocnumber">11</span> <span class="toctext">Ссылки</span></a></li>
+</ul>
+</div>
+<h2><span id=".D0.9E_.D0.BF.D1.80.D0.BE.D0.B3.D1.80.D0.B0.D0.BC.D0.BC.D0.B5"></span><span class="mw-headline" id="О_программе">О программе</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0&amp;veaction=edit&amp;section=1" title="Редактировать раздел «О программе»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0&amp;action=edit&amp;section=1" title="Редактировать код раздела «О программе»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Основной процесс в игре — ответы на вопросы. Вопросы в игре сформулированы, как правило, в виде утверждений, где искомое слово заменено местоимением. Игроки должны догадаться, о чём идёт речь в вопросе, и дать ответ, также сформулированный в виде утверждения (в отличие от <i>Jeopardy!</i>, где на вопрос, сформулированный в виде утверждения, игроки должны дать ответ в виде вопроса, ответом на который является это утверждение):
+</p><p>
+</p>
+<blockquote class="ts-Начало_цитаты-quote">
+<p>Вопрос: Этот писатель владел имением «<a href="/wiki/%D0%AF%D1%81%D0%BD%D0%B0%D1%8F_%D0%9F%D0%BE%D0%BB%D1%8F%D0%BD%D0%B0" title="Ясная Поляна">Ясная Поляна</a>».
+</p><p>
+Ответ: Кто такой <a href="/wiki/%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B9,_%D0%9B%D0%B5%D0%B2_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87" title="Толстой, Лев Николаевич">Лев Толстой</a>?</p><div class="ts-Конец_цитаты-source">— <cite>«Jeopardy!»</cite></div></blockquote>
+<p>
+</p>
+<blockquote class="ts-Начало_цитаты-quote">
+<p>Вопрос: Этот писатель владел имением «Ясная Поляна».
+</p><p>
+Ответ: Лев Толстой.</p><div class="ts-Конец_цитаты-source">— <cite>«Своя игра»</cite></div></blockquote>
+<h3><span id=".D0.98.D1.81.D1.82.D0.BE.D1.80.D0.B8.D1.8F"></span><span class="mw-headline" id="История">История</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0&amp;veaction=edit&amp;section=2" title="Редактировать раздел «История»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0&amp;action=edit&amp;section=2" title="Редактировать код раздела «История»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>В закупке и появлении программы на российском телевидении непосредственное участие принимал директор продюсерского центра <a href="/wiki/%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B7%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B8_%D1%80%D0%B0%D0%B4%D0%B8%D0%BE%D0%B2%D0%B5%D1%89%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F" title="Всероссийская государственная телевизионная и радиовещательная компания">ВГТРК</a> <a href="/wiki/%D0%9A%D0%BE%D1%80%D1%87%D0%B0%D0%B3%D0%B8%D0%BD,_%D0%9F%D0%B0%D0%B2%D0%B5%D0%BB_%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Корчагин, Павел Петрович">Павел Корчагин</a> (в 1993—1994 годах он занимал должность президента компании «Video International», будущего производителя программы)<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup><sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup>.
+</p><p>Пётр Кулешов впоследствии вспоминал:
+
+</p>
+<blockquote class="ts-Начало_цитаты-quote">
+<p>
+В период, когда все западные программы российское телевидение либо воровало, либо переделывало, компания «Video International» стала их покупать. Первой приобрели передачу «<a href="/wiki/%D0%A3%D1%81%D1%82%D0%B0%D0%BC%D0%B8_%D0%BC%D0%BB%D0%B0%D0%B4%D0%B5%D0%BD%D1%86%D0%B0" title="Устами младенца">Устами младенца</a>» с ведущим <a href="/wiki/%D0%93%D1%83%D1%80%D0%B5%D0%B2%D0%B8%D1%87,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%92%D0%B8%D1%82%D0%B0%D0%BB%D1%8C%D0%B5%D0%B2%D0%B8%D1%87" title="Гуревич, Александр Витальевич">Александром Гуревичем</a>, а второй — как раз «Свою игру». Тогдашние руководители <span class="ts-comment-commentedText" title="так в тексте по ссылке; очевидно, речь идёт о периоде, когда программу выкупали для канала РТР">НТВ</span> подолгу бывали за рубежом и, когда у них спросили, хотели бы они иметь <i><a href="/wiki/Jeopardy!" title="Jeopardy!">Jeopardy!</a></i> на русском языке, они ответили положительно<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup>.
+</p>
+</blockquote>
+<p>Первые 12 пилотных выпусков (на тот момент программа ещё не получила названия)<sup class="reference" id="cite_ref-mjcc_8-0"><a href="#cite_note-mjcc-8">[8]</a></sup> по очереди провели члены клуба «<a href="/wiki/%D0%A7%D1%82%D0%BE%3F_%D0%93%D0%B4%D0%B5%3F_%D0%9A%D0%BE%D0%B3%D0%B4%D0%B0%3F" title="Что? Где? Когда?">Что? Где? Когда?</a>» <a class="mw-redirect" href="/wiki/%D0%91%D0%BE%D1%80%D0%B8%D1%81_%D0%91%D1%83%D1%80%D0%B4%D0%B0" title="Борис Бурда">Борис Бурда</a>, Сергей Царьков и Владимир Белкин<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup><sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup><sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup>. Последний постоянно путался в правилах, вследствие чего было принято решение пригласить другого, более молодого ведущего, которым и стал <a href="/wiki/%D0%9A%D1%83%D0%BB%D0%B5%D1%88%D0%BE%D0%B2,_%D0%9F%D1%91%D1%82%D1%80_%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B2%D0%B8%D1%87" title="Кулешов, Пётр Борисович">Пётр Кулешов</a>, на тот момент работавший в сценарном отделе компании «Video International». Он провёл пробный 1-й раунд, во 2-м раунде поменялся местами с Владимиром Белкиным и обыграл двоих докторов наук, после чего на постоянной основе стал бессменным ведущим телеигры<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup>.
+</p><p>Первые игроки на передачу приходили из других интеллектуальных командных игр — «<a href="/wiki/%D0%A7%D1%82%D0%BE%3F_%D0%93%D0%B4%D0%B5%3F_%D0%9A%D0%BE%D0%B3%D0%B4%D0%B0%3F" title="Что? Где? Когда?">Что? Где? Когда?</a>» и «<a href="/wiki/%D0%91%D1%80%D0%B5%D0%B9%D0%BD-%D1%80%D0%B8%D0%BD%D0%B3" title="Брейн-ринг">Брейн-ринг</a>» — и поначалу не могли отделаться от привычки советоваться с соперниками. Российская игра решила отступить от стандартов <i><a href="/wiki/Jeopardy!" title="Jeopardy!">Jeopardy!</a></i>, так как создатели столкнулись с проблемой слишком разномастной одежды игроков<sup class="reference" id="cite_ref-sovsek_13-0"><a href="#cite_note-sovsek-13">[13]</a></sup>. Были придуманы мантии, фиолетовые (впоследствии серые) — для новых игроков, и золотые (хотя они больше напоминали жёлтые) — для выигравших предыдущие игры. До 2001 года игроки носили ещё и академические конфедератки цветов мантий. Были придуманы вопросы с музыкальными фрагментами и картинками, вопросы-видеоролики. Понятия <a class="mw-selflink-fragment" href="#Специальные_вопросы">«Вопрос-аукцион» и «Кот в мешке»</a> также возникли в России<sup class="reference" id="cite_ref-bulvar_14-0"><a href="#cite_note-bulvar-14">[14]</a></sup>. По мнению первого главного редактора передачи Бориса Бурды, в российской версии вопросы были рассчитаны не столько на чистое знание, а скорее на умение логически мыслить, что также отличало её от американского оригинала<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup>.
+</p><p>Тем не менее при запуске передачи в России была необходима схожесть с оригинальной американской версией<sup class="reference" id="cite_ref-bulvar_14-1"><a href="#cite_note-bulvar-14">[14]</a></sup>. Так, выпуски с 1994 по 2000 год были относительно небольшими по хронометражу и обязательно делились на 3 части: «Синий раунд», «Красный раунд» и «Своя игра» (финальный раунд), по аналогии с раундами «Jeopardy», «Double Jeopardy» и «Final Jeopardy» — они проводились в студии, подсвечиваемой синим, красным и фиолетовым цветами соответственно. Помимо этого, студийные декорации передачи в 1994—1998 годах были практически идентичны тем, что использовались в США с 1991 по 1997 год. Начиная с выпуска от 13 июня 1998 года (восьмая игра шестого цикла первой «Золотой дюжины») передача с разрешения правообладателей формата снимается в собственной студии.
+</p><p>С осени 2001 года игра стала больше на один раунд, было введено звуковое сопровождение при представлении участников (с декабря того же года — и тем каждого раунда), а академические конфедератки были отменены<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup>.
+</p><p>Три игровых серии, проводившиеся в 2001—2002 годах, были примечательны тем, что команды из наиболее известных игроков за 7 лет существования передачи («гроссмейстеров») должны были продержаться 50 игр подряд, чтобы завоевать главный приз — 7/14/21 килограмм денег (сумма выигрыша не разглашалась, хотя, по словам ведущего, точную сумму в принципе затруднялись назвать и в съёмочной группе). Эти серии имели название «Кубок вызова»<sup class="reference" id="cite_ref-trud_17-0"><a href="#cite_note-trud-17">[17]</a></sup>. За этот период были показаны игры, вошедшие в историю передачи: в частности, программа от 27 января 2002 года представляла собой ток-шоу на тему того, правильно ли ответил <a href="/wiki/%D0%92%D0%B0%D1%81%D1%81%D0%B5%D1%80%D0%BC%D0%B0%D0%BD,_%D0%90%D0%BD%D0%B0%D1%82%D0%BE%D0%BB%D0%B8%D0%B9_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Вассерман, Анатолий Александрович">Анатолий Вассерман</a> на финальный вопрос прошлой игры<sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup>, а в выпуске от 21 апреля того же года московский математик Игорь Барышев был дисквалифицирован ближе к концу третьего раунда за своё чересчур раскованное и провоцирующее поведение по ходу игры<sup class="reference" id="cite_ref-trud_17-1"><a href="#cite_note-trud-17">[17]</a></sup>.
+</p><p>С выпуска от 8 августа 2015 года и до конца 2018 года схема проведения программы была приближена к оригинальной версии: победитель очередной игры переходит в следующую и так далее, пока не потерпит поражение<sup class="reference" id="cite_ref-19"><a href="#cite_note-19">[19]</a></sup>. Также увеличилось число <a class="mw-selflink-fragment" href="#Специальные_выпуски">спецвыпусков</a>, приуроченных к государственным праздникам и прочим памятным датам (<a href="/wiki/%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Новый год в России">Новый год</a>, <a class="mw-redirect" href="/wiki/%D0%94%D0%B5%D0%BD%D1%8C_%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%BD%D0%B8%D0%BA%D0%B0_%D0%BE%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B0" title="День защитника отечества">23 февраля</a>, <a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B5%D0%BD%D1%8C" title="Международный женский день">8 марта</a>, <a href="/wiki/%D0%94%D0%B5%D0%BD%D1%8C_%D0%9F%D0%BE%D0%B1%D0%B5%D0%B4%D1%8B" title="День Победы">День Победы</a> и т. д.), в которых участвуют люди, прежде не появлявшиеся в передаче, в том числе и знаменитости<sup class="reference" id="cite_ref-20"><a href="#cite_note-20">[20]</a></sup>. До 2015 года игры подобного плана проводились крайне редко: в частности, в 2003 году была показана игра к 10-летию НТВ с участием ведущих телеканала<sup class="reference" id="cite_ref-21"><a href="#cite_note-21">[21]</a></sup><sup class="reference" id="cite_ref-22"><a href="#cite_note-22">[22]</a></sup>, а в 2012 году — игры, приуроченные к <a href="/wiki/%D0%94%D0%B5%D0%BD%D1%8C_%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D0%B8%D0%BA%D0%B8" title="День космонавтики">Дню космонавтики</a> и <a href="/wiki/%D0%9E%D0%B1%D1%89%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B5%D0%BD%D1%8C_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA" title="Общероссийский день библиотек">Общероссийскому дню библиотек</a>.
+</p>
+<h3><span id=".D0.A1.D1.8A.D1.91.D0.BC.D0.BE.D1.87.D0.BD.D0.B0.D1.8F_.D0.B3.D1.80.D1.83.D0.BF.D0.BF.D0.B0"></span><span class="mw-headline" id="Съёмочная_группа">Съёмочная группа</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0&amp;veaction=edit&amp;section=3" title="Редактировать раздел «Съёмочная группа»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0&amp;action=edit&amp;section=3" title="Редактировать код раздела «Съёмочная группа»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Бессменным режиссёром программы до своей смерти в 2017 году являлся Юрий Первушин, с 2017 года — Евгений Козлов. Редакторами — авторами вопросов в настоящее время являются Дмитрий Борок (с 2011 года)<sup class="reference" id="cite_ref-23"><a href="#cite_note-23">[23]</a></sup> и Александр Коробейников (с 2017 года)<sup class="reference" id="cite_ref-24"><a href="#cite_note-24">[24]</a></sup>, сами ранее участвовавшие в телевикторине в качестве игроков. В прошлом в редакторскую группу «Своей игры» входили и другие её экс-участники: <a href="/wiki/%D0%9C%D0%BE%D0%BB%D1%87%D0%B0%D0%BD%D0%BE%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D0%BE%D0%B2%D0%B8%D1%87" title="Молчанов, Владимир Константинович">Владимир Молчанов</a> (исполнял обязанности главного редактора программы с 1994 по 2009 год), <a href="/wiki/%D0%91%D1%83%D1%80%D0%B4%D0%B0,_%D0%91%D0%BE%D1%80%D0%B8%D1%81_%D0%9E%D1%81%D0%BA%D0%B0%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Бурда, Борис Оскарович">Борис Бурда</a>, <a href="/wiki/%D0%A2%D1%8E%D1%80%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0,_%D0%98%D1%80%D0%B8%D0%BD%D0%B0_%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D0%BE%D0%B2%D0%BD%D0%B0" title="Тюрикова, Ирина Константиновна">Ирина Тюрикова</a>, Максим Руссо, <a href="/wiki/%D0%91%D0%B5%D1%80,_%D0%98%D0%BB%D1%8C%D1%8F_%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4%D0%BE%D0%B2%D0%B8%D1%87" title="Бер, Илья Леонидович">Илья Бер</a> и другие. Редактором по работе с игроками с 2002 года является Ольга Хворова<sup class="reference" id="cite_ref-25"><a href="#cite_note-25">[25]</a></sup>.
+</p><p>С момента своего возникновения передача завершается демонстрацией титров с указанием всей съёмочной группы (в играх, выпущенных в период с марта 1995 по май 1998 года, число упомянутых людей могло варьироваться в зависимости от количества спонсоров программы, иногда ограничиваясь упоминанием лишь авторов передачи, продюсеров и ведущего). Изначально для них был выделен отдельный сегмент продолжительностью 1-1,5 минуты, с 33-й игры первого «Кубка вызова» (выпуск от 19 января 2002 года) титры проигрываются ускоренно, с пятой игры третьего круга Юбилейных игр 10-летия (выпуск от 30 октября 2004 года) информация демонстрируется в бегущей строке во время подведения итогов ведущим.
+</p>
+<h3><span id=".D0.A1.D0.BF.D0.BE.D0.BD.D1.81.D0.BE.D1.80.D1.8B"></span><span class="mw-headline" id="Спонсоры">Спонсоры</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0&amp;veaction=edit&amp;section=4" title="Редактировать раздел «Спонсоры»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0&amp;action=edit&amp;section=4" title="Редактировать код раздела «Спонсоры»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Компанией, являвшейся основным спонсором «Своей игры» в течение самого длительного времени (с 27 октября 2002 по 27 декабря 2015 года, более 13 лет), являлась фирма-производитель канцелярских принадлежностей <a href="/wiki/Erich_Krause" title="Erich Krause">Erich Krause</a><sup class="reference" id="cite_ref-26"><a href="#cite_note-26">[26]</a></sup><sup class="reference" id="cite_ref-27"><a href="#cite_note-27">[27]</a></sup>. Самым первым спонсором викторины являлся «Московский городской банк». Кроме того, спонсорами в разные годы были «Мост-банк», ярмарка ТИАС, ЦМК «Политэк» (позднее — «Парта»), магазин «Мир кожи в Сокольниках», ИД «<a href="/wiki/%D0%90%D0%B2%D0%B0%D0%BD%D1%82%D0%B0%2B" title="Аванта+">Аванта+</a>», Вексельный дом ТЭК, «Genius iRU» (ныне «iru»), <a href="/wiki/%D0%A1%D0%B8%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D1%81" title="Ситроникс">Sitronics</a>, <a href="/wiki/Microsoft" title="Microsoft">Microsoft</a>, «<a href="/wiki/%D0%A0%D0%B0%D0%B9%D1%84%D1%84%D0%B0%D0%B9%D0%B7%D0%B5%D0%BD%D0%B1%D0%B0%D0%BD%D0%BA" title="Райффайзенбанк">Райффайзенбанк</a>», «<a href="/wiki/%D0%A1%D1%82%D0%BE%D0%BB%D0%BE%D1%82%D0%BE" title="Столото">Столото</a>». Текущим спонсором (с начала 2024 года) является банк «<a href="/wiki/%D0%A3%D1%80%D0%B0%D0%BB%D1%81%D0%B8%D0%B1_(%D0%B1%D0%B0%D0%BD%D0%BA)" title="Уралсиб (банк)">Уралсиб</a>». Последним по времени задающим <a class="mw-selflink-fragment" href="#Вопросы_от_спонсора">вопросы</a> спонсором являлись <a href="/wiki/%D0%9F%D1%80%D0%B8%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D1%82%D0%BD%D1%8B%D0%B5_%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B" title="Приоритетные национальные проекты">Национальные проекты России</a> (до конца 2023 года).
+</p>
+<h3><span id=".D0.A0.D0.B5.D0.BA.D0.BE.D1.80.D0.B4.D1.8B_.D1.80.D0.B5.D0.B7.D1.83.D0.BB.D1.8C.D1.82.D0.B0.D1.82.D0.B8.D0.B2.D0.BD.D0.BE.D1.81.D1.82.D0.B8"></span><span class="mw-headline" id="Рекорды_результативности">Рекорды результативности</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0&amp;veaction=edit&amp;section=5" title="Редактировать раздел «Рекорды результативности»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0&amp;action=edit&amp;section=5" title="Редактировать код раздела «Рекорды результативности»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>В истории телеигры максимальное количество очков за одну игру (120 001) набрал <a href="/wiki/%D0%94%D1%80%D1%83%D0%B7%D1%8C,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%90%D0%B1%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B8%D1%87" title="Друзь, Александр Абрамович">Александр Друзь</a> (в игре восьмого круга четвёртого «Кубка вызова», вышедшей в эфир 25 октября 2003 года). По ходу игры счёт на табло перевалил за 100 000 ещё до окончания третьего раунда, и Петру Кулешову пришлось приклеить под игровым табло Друзя бумажку с написанным на ней маркером числом «+100 000», а счёт на табло начал вестись с нуля, так как создатели передачи не рассчитывали, что кому-то удастся набрать более 100 000 очков. Набрав рекордную сумму, Друзь превзошёл свой же результат, достигнутый ранее, в предыдущем круге того же кубка, 20 сентября 2003 года (80 074 очка)<sup class="reference" id="cite_ref-28"><a href="#cite_note-28">[28]</a></sup>. После этого игровые табло были заменены на шестизначные, однако с тех пор в течение более чем 20 лет никому не удавалось достичь результата, равного или превышающего 100 000 очков (единственное исключение — команда Москвы во время розыгрыша Открытого командного турнира 2012 года, по итогам трёх третьфинальных игр суммарно набравшая 117 199 очков). Рубеж был вновь преодолён только 23 декабря 2023 года, когда в третьем третьфинале турнира «Золотая середина» Геннадий Яковлев сумел набрать ровно 100 000 очков по итогам финального раунда, став, таким образом, вторым по результату, набранному в одной игре, участником викторины за всю её историю.
+</p>
+<h3><span id=".D0.9F.D1.80.D0.B8.D0.B7.D1.8B"></span><span class="mw-headline" id="Призы">Призы</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0&amp;veaction=edit&amp;section=6" title="Редактировать раздел «Призы»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0&amp;action=edit&amp;section=6" title="Редактировать код раздела «Призы»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>В настоящее время единственным призом по итогам каждой игры является рублёвый эквивалент количества набранных очков, который получает (за минусом суммы <a href="/wiki/%D0%9F%D0%BE%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D0%BD%D0%B0%D0%BB%D0%BE%D0%B3" title="Подоходный налог">НДФЛ</a>) победитель каждого выпуска телевикторины; игроки, занявшие второе и третье места, призов не получают (в отличие от оригинальной американской версии <i>Jeopardy!</i>, где игроки, занявшие второе и третье место, с 16 мая 2002 года получают утешительные призы в 2 000 и 1 000 <a href="/wiki/%D0%94%D0%BE%D0%BB%D0%BB%D0%B0%D1%80_%D0%A1%D0%A8%D0%90" title="Доллар США">долларов США</a> соответственно<sup class="reference" id="cite_ref-29"><a href="#cite_note-29">[29]</a></sup>). Победителям финалов года традиционно вручаются памятные кубки.
+</p>
+<h2><span id=".D0.A2.D1.80.D0.B0.D0.B4.D0.B8.D1.86.D0.B8.D0.BE.D0.BD.D0.BD.D1.8B.D0.B5_.D1.82.D0.B8.D0.BF.D1.8B_.D1.82.D0.B5.D0.BC"></span><span class="mw-headline" id="Традиционные_типы_тем">Традиционные типы тем</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0&amp;veaction=edit&amp;section=7" title="Редактировать раздел «Традиционные типы тем»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0&amp;action=edit&amp;section=7" title="Редактировать код раздела «Традиционные типы тем»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Обычные темы, вопросы в которых сгруппированы по принадлежности к одной и той же области знаний, в большинстве случаев имеют названия, тем или иным образом иллюстрирующие эту область, например:
+</p>
+<ul><li><b>«Кушать подано!»</b>, <b>«Вам, гурманы»</b> (вопросы о кулинарии и еде)</li>
+<li><b>«Дела духовные»</b> (вопросы о религиях и верованиях)</li>
+<li><b>«Что у нас на голове?»</b> (вопросы о головных уборах)</li>
+<li><b>«Ошибочка вышла!»</b> (вопросы об ошибках и опровергнутых заблуждениях)</li>
+<li><b>«Ну ты сказал!»</b> (вопросы об афоризмах, цитатах и крылатых выражениях)</li>
+<li><b>«Как вас теперь называть?»</b> (вопросы о прозвищах, псевдонимах и изменении имён известных личностей)</li>
+<li><b>«Достойный ответ»</b> (вопросы о неожиданных и/или остроумных ответах известных исторических персонажей на вопросы) и т. д.</li></ul>
+<p>Помимо обычных тем, также традиционно используются:
+</p><p>А) Темы, в которых необходимо дать ответ, используя ту или иную буквенную маску (обычно присутствуют в первом раунде выпусков «Своей игры»): 
+</p>
+<ul><li><b>«Матричные» темы</b> (к примеру, <i>«…УСТА…»)</i>: в таких темах в ответе на каждый вопрос должна присутствовать одна и та же комбинация букв — «матрица» (если ответ состоит из нескольких слов, то обычно «матрица» присутствует только в одном из них).</li>
+<li><b>«Инициальные» темы</b> (к примеру, <i>«Б.Н.»</i>): в таких темах ответ на каждый вопрос должен состоять из двух слов, первое из которых начинается на первую букву заголовка темы, а второе — на вторую.</li>
+<li>Темы <b>«N.N.»</b>: развитие «инициальных» тем — в таких темах ответ на каждый вопрос должен состоять из двух слов, начинающихся на одну и ту же букву, причем в каждом ответе буквы могут быть разными.</li>
+<li>Темы <b>«От N до М»</b> (к примеру, <i>«От А до О»</i>): в таких темах ответ на каждый вопрос должен начинаться и заканчиваться на указанные в теме вопроса буквы (если ответ состоит из нескольких слов, то начинаться на N должно первое из них, а заканчиваться на М — последнее).</li>
+<li>Темы <b>«Гласные (согласные) только N»</b> (к примеру, <i>«Гласные только Е»</i>): в таких темах ответ на каждый вопрос должен содержать одинаковые гласные или согласные буквы, соответствующие маске, упомянутой в заголовке темы (к примеру, для темы <i>«Гласные только Е»</i> ответом может служить слово <i>«Перепел»</i>).</li></ul>
+<p>Б) Прочие часто встречающиеся темы, не относящиеся к одной области знаний:
+</p>
+<ul><li>Темы <b>«50 на 50»</b>: в таких темах игрок должен выбрать правильную реалию из двух, очевидно наиболее подходящих под форму вопроса.</li>
+<li>Темы <b>«Один из N»</b>: развитие типа тем «50 на 50» — в таких темах игрок игрок должен выбрать правильную реалию из N, очевидно наиболее подходящих под форму вопроса (обычно не более четырёх).</li>
+<li>Темы <b>«Туда-сюда»</b>: в таких темах ответами на вопросы являются <a href="/wiki/%D0%9F%D0%B0%D0%BB%D0%B8%D0%BD%D0%B4%D1%80%D0%BE%D0%BC" title="Палиндром">палиндромы</a>, состоящие как из одного, так и из нескольких слов..</li>
+<li>Темы <b>«От 2 до 5»</b>: в таких темах ответом во всех вопросах является числительное от двух до пяти.</li>
+<li>Темы <b>«Объект на фото»</b> (к примеру, <i>«Башни на фото»</i>): в таких темах все вопросы относятся к одному и тому же типу архитектурных объектов (башни, мосты, ворота и т. д.), и каждый вопрос сопровождается соответствующей иллюстрацией. Также в данную категорию можно отнести темы <b>«Где эта улица?»</b> и <b>«Где этот дом?»</b>.</li>
+<li>Темы <b>«Не только &lt;название реалии&gt;»</b>: в таких темах ответами во всех вопросах являются понятия, представляющие собой омонимы (в случае с людьми — имена тёзок или однофамильцев) определённых реалий (в случае с людьми — исторических персонажей). К примеру, ответом на вопрос темы «Не только <a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%BE%D0%B2_%D0%A1%D0%A8%D0%90" title="Список президентов США">президенты США</a>» может являться «<a href="/wiki/%D0%9A%D0%B0%D1%80%D1%82%D0%B5%D1%80,_%D0%93%D0%BE%D0%B2%D0%B0%D1%80%D0%B4" title="Картер, Говард">Говард Картер</a>» (являющийся однофамильцем президента США <a href="/wiki/%D0%9A%D0%B0%D1%80%D1%82%D0%B5%D1%80,_%D0%94%D0%B6%D0%B8%D0%BC%D0%BC%D0%B8" title="Картер, Джимми">Джимми Картера</a>).</li>
+<li>Темы <b>«Вокруг &lt;названия реалии&gt;»</b>: в таких темах ответами во всех вопросах являются факты, только косвенно связанные с определённой реалией. К примеру, ответом на вопрос темы «<i>Вокруг футбола</i>» может являться название города, в котором находится <a href="/wiki/%D0%94%D0%B6%D1%83%D0%B7%D0%B5%D0%BF%D0%BF%D0%B5_%D0%9C%D0%B5%D0%B0%D1%86%D1%86%D0%B0_(%D1%81%D1%82%D0%B0%D0%B4%D0%B8%D0%BE%D0%BD)" title="Джузеппе Меацца (стадион)">футбольный стадион имени знаменитого итальянского нападающего Джузеппе Меаццы</a> (<a href="/wiki/%D0%9C%D0%B8%D0%BB%D0%B0%D0%BD" title="Милан">Милан</a>).</li>
+<li>Темы <b>«Зачинается рассказ»</b>: в таких темах необходимо по процитированному началу литературного произведения угадать и воспроизвести его название.</li>
+<li>Темы <b>«Тут и сказочке конец»</b>: в таких темах необходимо по процитированному финалу литературного произведения угадать и воспроизвести его название.</li>
+<li>Темы <b>«Вопросы от…»</b>: в таких темах вопросы самостоятельно задают знаменитости (певцы, актёры, шоумены и другие известные личности), люди необычных или редких профессий, а также представители общественных организаций (<a href="/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B5_%D0%B3%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="Русское географическое общество">Русского географического общества</a>, <a href="/wiki/%D0%9F%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%91._%D0%9D._%D0%95%D0%BB%D1%8C%D1%86%D0%B8%D0%BD%D0%B0" title="Президентская библиотека имени Б. Н. Ельцина">Президентской библиотеки</a> и т. д.), игрокам же демонстрируется соответствующая видеозапись. Первичный выбор темы «Вопросы от…» обычно сопровождается репликой игрока «Давайте посмотрим, от кого сегодня вопросы», в дальнейшем для выбора вопроса игрок называет тему в стиле «Вопросы от &lt;имя / название / профессия задающего вопросы&gt;» (к примеру, <i>«Вопросы от <a href="/wiki/%D0%9D%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0_%D1%84%D0%BE%D1%80%D1%82%D0%B5%D0%BF%D0%B8%D0%B0%D0%BD%D0%BE" title="Настройка фортепиано">настройщика роялей</a>», «Вопросы от <a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B5_%D0%B2%D0%BE%D0%B5%D0%BD%D0%BD%D0%BE-%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="Российское военно-историческое общество">Российского военно-исторического общества</a>»</i> и т. д.). За редчайшими исключениями тема «Вопросы от…» присутствует во втором раунде каждого выпуска «Своей игры».</li></ul>
+<p>Ведущий программы Пётр Кулешов не раз говорил в передаче, что у игроков традиционно вызывают затруднения вопросы, связанные с поп-культурой и шоу-бизнесом<sup class="reference" id="cite_ref-30"><a href="#cite_note-30">[30]</a></sup>.
+</p>
+<h2><span id=".D0.A5.D0.BE.D0.B4_.D0.B8.D0.B3.D1.80.D1.8B"></span><span class="mw-headline" id="Ход_игры">Ход игры</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0&amp;veaction=edit&amp;section=8" title="Редактировать раздел «Ход игры»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0&amp;action=edit&amp;section=8" title="Редактировать код раздела «Ход игры»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id=".D0.9F.D0.B5.D1.80.D0.B2.D1.8B.D0.B9_.D1.80.D0.B0.D1.83.D0.BD.D0.B4"></span><span class="mw-headline" id="Первый_раунд">Первый раунд</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0&amp;veaction=edit&amp;section=9" title="Редактировать раздел «Первый раунд»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0&amp;action=edit&amp;section=9" title="Редактировать код раздела «Первый раунд»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Перед началом первого раунда игрокам в течение 5 секунд на главном мониторе демонстрируются все темы предстоящей игры (кроме тем <a class="mw-selflink-fragment" href="#Финальный_раунд">финального раунда</a>). Далее ведущий зачитывает названия шести тем, разыгрывающихся в текущем раунде.
+</p><p>В подавляющем большинстве случаев выбор темы и стоимости вопроса первым осуществляет игрок за центральным столом, однако в случае, если в игре участвует женщина, не занимающая центральный стол, право выбора первого вопроса отдают ей. В начале игры все участники имеют на счету 0 очков (в 1994-1996 годах игра начиналась с 50 очков, при этом 1 очко соответствовало 1000 неденоминированных рублей).
+</p><p>После выбора темы и стоимости вопроса его текст появляется на главном студийном мониторе (кроме <a class="mw-selflink-fragment" href="#Специальные_вопросы">специальных вопросов</a>), а ведущий зачитывает вопрос вслух.
+</p><p>После того, как ведущий зачитал вопрос, игрок, желающий дать ответ, должен быстрее соперников заявить об этом, нажав на кнопку, расположенную на столе игрока под электронным пультом (стол игрока, получившего право ответа на вопрос, выделяется световой индикацией); если его ответ верный, то на его счёт переходят очки, составляющие стоимость вопроса. При неправильном ответе на вопрос эта же сумма снимается со счёта игрока, и право ответа переходит соперникам вплоть до истечения времени, доступного для ответа на вопрос (5 секунд), по окончании которого звучит специальный трёхтоновый звуковой сигнал. В случае если никто из игроков не дал правильного ответа, его озвучивает ведущий.
+</p><p>В качестве индикатора начала приёма ответов на вопросы используется специальная лампа, расположенная слева от главного монитора (видимая для игроков, но невидимая для телезрителей), включаемая техническим специалистом съёмочной группы сразу после окончания чтения вопроса ведущим. Нажатие кнопки на игровом столе ранее включения этой лампы (равно как и одновременное нажатие кнопки несколькими игроками) считается <a href="/wiki/%D0%A4%D0%B0%D0%BB%D1%8C%D1%81%D1%82%D0%B0%D1%80%D1%82" title="Фальстарт">фальстартом</a> и блокирует приём сигналов с таких кнопок на 3 секунды.
+</p><p>Игрок, давший правильный ответ на вопрос, получает право выбора следующего вопроса. В случае, если никто из игроков не дал правильного ответа, право выбора следующего вопроса остается у игрока, выбиравшего предыдущий вопрос (кроме случаев с ответами на <a class="mw-selflink-fragment" href="#Специальные_вопросы">специальные вопросы</a>).
+</p><p>Стоимость ответов в первом раунде — 100, 200, 300, 400 и 500 рублей.
+</p><p>На розыгрыш раунда отводится 10 минут, по истечении которых он прерывается, даже если не все вопросы в темах успели разыграть (также в этом случае в студии звучит специальный сигнал — гонг)<sup class="reference" id="cite_ref-31"><a href="#cite_note-31">[31]</a></sup>.
+</p><p>В ходе первого раунда студия подсвечивается синим цветом.
+</p>
+<h3><span id=".D0.92.D1.82.D0.BE.D1.80.D0.BE.D0.B9_.D0.B8_.D1.82.D1.80.D0.B5.D1.82.D0.B8.D0.B9_.D1.80.D0.B0.D1.83.D0.BD.D0.B4.D1.8B"></span><span class="mw-headline" id="Второй_и_третий_раунды">Второй и третий раунды</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0&amp;veaction=edit&amp;section=10" title="Редактировать раздел «Второй и третий раунды»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0&amp;action=edit&amp;section=10" title="Редактировать код раздела «Второй и третий раунды»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Правила те же, что и в первом раунде, за исключением того, что раунд начинает игрок с наименьшим на начало раунда количеством очков на игровом счёте.
+</p><p>Стоимость ответов во втором раунде — 200, 400, 600, 800 и 1000 рублей; в третьем — 300, 600, 900, 1200 и 1500 рублей.
+</p><p>В ходе второго раунда студия подсвечивается золотисто-коричневым цветом, в ходе третьего — зелёным.
+</p>
+<h3><span id=".D0.A4.D0.B8.D0.BD.D0.B0.D0.BB.D1.8C.D0.BD.D1.8B.D0.B9_.D1.80.D0.B0.D1.83.D0.BD.D0.B4"></span><span class="mw-headline" id="Финальный_раунд">Финальный раунд</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0&amp;veaction=edit&amp;section=11" title="Редактировать раздел «Финальный раунд»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0&amp;action=edit&amp;section=11" title="Редактировать код раздела «Финальный раунд»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Если у кого-либо из игроков перед финальным раундом сумма на игровом счёте отрицательная или равна нулю, он покидает игру и терпит досрочное поражение (соответственно, в финале могут участвовать два или даже один игрок).
+</p><p>В начале финального раунда ведущий предлагает игрокам семь тем, далее игроки поочерёдно (начиная с игрока, имеющего наименьшую сумму на счёте) убирают темы из списка, оставляя одну, вопрос из которой и разыгрывается.
+</p><p>После выбора темы игроки делают ставки, записывая их на электронном пульте. Ведущий зачитывает вопрос, после чего игроки в течение 30 секунд должны дать на него ответ, также записав его на электронном пульте (в продолжение выделенного на ответ времени в студии звучит музыкальная тема). После того, как все игроки дали свои ответы, ведущий зачитывает ответ каждого игрока (начиная с игрока, имеющего наименьшую сумму на счёте), его ставку и сумму на счёте, сформировавшуюся по результатам финального раунда (при этом ответ игрока, его ставка и финальная сумма также демонстрируются на мониторе). В случае, если никто из игроков не дал правильного ответа на вопрос финального раунда, ведущий озвучивает его сам после объявления результатов игры. Игрок с наибольшим количеством очков на игровом счёте по результатам финального раунда объявляется победителем игры. В случае равенства очков у двух или трёх игроков после окончания финального раунда для выявления победителя устраивается дополнительная <a class="mw-selflink-fragment" href="#Перестрелка">перестрелка</a>.
+</p><p>Для исключения копирования ответа на вопрос у соперников и манипуляции ставками в ходе финального раунда перед его началом между столами игроков на студийную декорацию устанавливаются разделители, скрывающие электронный пульт каждого игрока от его соседей.
+</p><p>В ходе финального раунда студия подсвечивается фиолетовым цветом.
+</p>
+<h3><span id=".D0.A1.D0.BF.D0.B5.D1.86.D0.B8.D0.B0.D0.BB.D1.8C.D0.BD.D1.8B.D0.B5_.D0.B2.D0.BE.D0.BF.D1.80.D0.BE.D1.81.D1.8B"></span><span class="mw-headline" id="Специальные_вопросы">Специальные вопросы</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0&amp;veaction=edit&amp;section=12" title="Редактировать раздел «Специальные вопросы»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0&amp;action=edit&amp;section=12" title="Редактировать код раздела «Специальные вопросы»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Помимо обычных вопросов, в игре присутствуют и специальные, с типами «Кот в мешке» и «Вопрос-аукцион» (при выборе игроком таких вопросов на главном мониторе появляется логотип типа специального вопроса и звучит соответствующий типу вопроса короткий музыкальный фрагмент). Местоположение таких вопросов внутри тем заранее неизвестно; обычно в одном раунде разыгрываются два «Кота в мешке» и два аукциона (во втором раунде — один аукцион). Вне зависимости от правильности ответа игрок, отвечавший на специальный вопрос, получает право выбора следующего вопроса. Тексты специальных вопросов (в отличие от обычных) на главном мониторе не демонстрируются.
+</p><p>«<b>Кот в мешке»</b> — ситуация в игре, когда, выбрав вопрос в теме, игрок обязан передать его любому сопернику, который, в свою очередь, обязан дать на него ответ (молчание приравнивается к неправильному ответу). Игроку, получившему «Кота», предоставляется тема вопроса (обычно отличная от темы, в которой был выбран вопрос, оказавшийся «Котом в мешке») и возможность самостоятельно назначить ставку, выбрав её из двух возможных вариантов, представляющих собой минимальную и максимальную стоимость вопроса в текущем раунде (в первом раунде — 100 или 500 рублей, во втором — 200 или 1000 рублей, в третьем — 300 или 1500 рублей). С <a href="/wiki/2000_%D0%B3%D0%BE%D0%B4" title="2000 год">2000 года</a> «Коты в мешке» всегда связаны с изображениями (редко — со звуком). «Кота в мешке», согласно давней игровой традиции, наиболее часто передают тому из соперников, у которого в текущий момент меньше сумма очков на игровом счёте.
+</p><p>«<b>Вопрос-аукцион»</b> — ситуация в игре, когда, выбрав вопрос, игрок может изменить его стоимость, сделав ставку в пределах текущей суммы на его счёте (при этом минимальная ставка составляет номинальную стоимость выбранного вопроса). Далее начинаются торги, в ходе которых двое других игроков при желании могут перебить эту ставку большей (при наличии у них необходимой суммы на счёте). В любой момент торгов (кроме назначения первоначальной ставки) любой игрок может произнести слово «Пас» и таким образом отказаться от дальнейшего участия в торгах. Ставка, составляющая полную сумму очков на счёте игрока, носит название «Ва-банк» и может быть перебита только ещё большим по сумме «Ва-банком» (в этом случае, дав неправильный ответ, игрок теряет все деньги на счёте). Если у всех трех игроков сумма на счёте меньше или равна номинальной стоимости вопроса-аукциона, он автоматически достается выбравшему его игроку и играется за номинальную стоимость.
+</p>
+<h3><span id=".D0.92.D0.BE.D0.BF.D1.80.D0.BE.D1.81.D1.8B_.D0.BE.D1.82_.D1.81.D0.BF.D0.BE.D0.BD.D1.81.D0.BE.D1.80.D0.B0"></span><span class="mw-headline" id="Вопросы_от_спонсора">Вопросы от спонсора</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0&amp;veaction=edit&amp;section=13" title="Редактировать раздел «Вопросы от спонсора»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0&amp;action=edit&amp;section=13" title="Редактировать код раздела «Вопросы от спонсора»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Выбрав в игре «Вопрос от спонсора» (местоположение подобных вопросов внутри тем также неизвестно), игроки вместо вопроса, соответствующего теме, отвечают на вопрос, предоставленный спонсором игры (за ту же стоимость), при этом логотип и название спонсора озвучиваются ведущим и демонстрируются на главном мониторе. Последние по времени «Вопросы от спонсора» (в 2021—2023 годах) задавались от имени <a href="/wiki/%D0%9F%D1%80%D0%B8%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D1%82%D0%BD%D1%8B%D0%B5_%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B" title="Приоритетные национальные проекты">Национальных проектов России</a> и присутствовали в выпусках «Своей игры» нерегулярно.
+</p>
+<h3><span id=".D0.9F.D0.B5.D1.80.D0.B5.D1.81.D1.82.D1.80.D0.B5.D0.BB.D0.BA.D0.B0"></span><span class="mw-headline" id="Перестрелка">Перестрелка</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0&amp;veaction=edit&amp;section=14" title="Редактировать раздел «Перестрелка»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0&amp;action=edit&amp;section=14" title="Редактировать код раздела «Перестрелка»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Перестрелка — мини-раунд для выявления победителя в тех случаях, когда у двух или трёх игроков по окончании финального раунда на счетах оказалось одинаковое количество очков.
+</p><p>В этом случае между такими игроками разыгрывается одна дополнительная тема, состоящая из пяти вопросов стоимостью 100, 200, 300, 400 и 500 рублей. Если по итогам розыгрыша первой темы победитель всё ещё не определён, разыгрывается следующая тема (и так далее, до того момента, пока не определится победитель игры; единственный известный случай двухраундовой перестрелки зафиксирован 28 августа 1996 года).
+</p><p>Победителем игры объявляется игрок, набравший по результатам перестрелки наибольшее количество очков. В командных турнирах правило перестрелки не используется, а победителями объявляются два или три игрока с одинаковыми результатами (что и произошло, например, в игре от 29 сентября 2013 года).
+</p><p>Всего было зафиксировано 12 случаев использования двойной перестрелки (список может быть неполон из-за нехватки данных за 1995-1996 годы), случаи тройных перестрелок неизвестны.
+</p>
+<h2><span id=".D0.A1.D0.BF.D0.B5.D1.86.D0.BF.D1.80.D0.BE.D0.B5.D0.BA.D1.82.D1.8B"></span><span class="mw-headline" id="Спецпроекты">Спецпроекты</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0&amp;veaction=edit&amp;section=15" title="Редактировать раздел «Спецпроекты»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0&amp;action=edit&amp;section=15" title="Редактировать код раздела «Спецпроекты»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>За всю историю «Своей игры» 27 игр было выпущено в формате специальных проектов, то есть тематических игр со специально подобранными игроками, приуроченных к тем или иным памятным датам. В некоторых спецпроектах (в основном в играх, посвящённых Международному женскому дню)<sup class="reference" id="cite_ref-32"><a href="#cite_note-32">[32]</a></sup> специальный подбор игроков не проводился.
+</p>
+<table class="wikitable sortable">
+<tbody><tr>
+<th>Памятное событие / дата</th>
+<th>Год проведения спецпроекта
+</th></tr>
+<tr>
+<td><a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B5%D0%BD%D1%8C" title="Международный женский день">Международный женский день</a></td>
+<td>1995, 1996, 2000, 2005, 2012, 2016, 2017, 2018
+</td></tr>
+<tr>
+<td>10-летие <a href="/wiki/%D0%9D%D0%A2%D0%92" title="НТВ">телеканала НТВ</a></td>
+<td>2003
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%94%D0%B5%D0%BD%D1%8C_%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D0%B8%D0%BA%D0%B8" title="День космонавтики">День космонавтики</a></td>
+<td>2012
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9E%D0%B1%D1%89%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B5%D0%BD%D1%8C_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA" title="Общероссийский день библиотек">Общероссийский день библиотек</a></td>
+<td>2012
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%94%D0%B5%D0%BD%D1%8C_%D1%81%D0%B5%D0%BC%D1%8C%D0%B8,_%D0%BB%D1%8E%D0%B1%D0%B2%D0%B8_%D0%B8_%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D1%81%D1%82%D0%B8" title="День семьи, любви и верности">День семьи, любви и верности</a></td>
+<td>2015
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%94%D0%B5%D0%BD%D1%8C_%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B9" title="День знаний">День знаний</a></td>
+<td>2015
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B5%D1%80%D0%B0,_%D0%9D%D0%B0%D0%B4%D0%B5%D0%B6%D0%B4%D0%B0,_%D0%9B%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C_%D0%B8_%D0%B8%D1%85_%D0%BC%D0%B0%D1%82%D1%8C_%D0%A1%D0%BE%D1%84%D0%B8%D1%8F" title="Вера, Надежда, Любовь и их мать София">День памяти Веры, Надежды, Любови и матери их Софии</a></td>
+<td>2015
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%94%D0%B5%D0%BD%D1%8C_%D1%8E%D1%80%D0%B8%D1%81%D1%82%D0%B0" title="День юриста">День юриста</a></td>
+<td>2015
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%94%D0%B5%D0%BD%D1%8C_%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%BD%D0%B8%D0%BA%D0%B0_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B0" title="День защитника Отечества">День защитника Отечества</a></td>
+<td>2016, 2017, 2018
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%94%D0%B5%D0%BD%D1%8C_%D0%9F%D0%BE%D0%B1%D0%B5%D0%B4%D1%8B" title="День Победы">День Победы</a></td>
+<td>2016, 2017, 2018
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D0%B4%D0%B5%D0%BD%D1%8C_%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D1%8B_%D0%B4%D0%B5%D1%82%D0%B5%D0%B9" title="Международный день защиты детей">День защиты детей</a></td>
+<td>2016
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%94%D0%B5%D0%BD%D1%8C_%D1%83%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8F" title="День учителя">День учителя</a></td>
+<td>2016
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Новый год в России">Новый год</a></td>
+<td>2016
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%94%D0%B5%D0%BD%D1%8C_%D1%81%D0%BC%D0%B5%D1%85%D0%B0" title="День смеха">День смеха</a></td>
+<td>2017
+</td></tr>
+<tr>
+<td>Начало <a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%BC%D0%B8%D1%80%D0%B0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2018" title="Чемпионат мира по футболу 2018">Чемпионата мира по футболу в России</a></td>
+<td>2018
+</td></tr>
+<tr>
+<td>175-летие <a href="/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B5_%D0%B3%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="Русское географическое общество">Русского географического общества</a></td>
+<td>2020
+</td></tr></tbody></table>
+<p>Кроме этого, за всю историю программы два её спецвыпуска были неигровыми:
+</p>
+<ul><li>27 января 2002 года вышел выпуск, представлявший собой ток-шоу, посвящëнное разбору неоднозначного ответа Анатолия Вассермана в финальном раунде игры от 26 января того же года, который едва не прервал рекордную беспроигрышную серию игрока.</li>
+<li>21 августа 2004 года вышел выпуск, посвящëнный 10-летию передачи, в котором был анонсирован юбилейный турнир с участием лучших игроков за всю историю программы, а также рассказывалось о её истории.</li></ul>
+<h2><span id=".D0.92.D0.B5.D1.89.D0.B0.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Вещание">Вещание</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0&amp;veaction=edit&amp;section=16" title="Редактировать раздел «Вещание»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0&amp;action=edit&amp;section=16" title="Редактировать код раздела «Вещание»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Премьера программы состоялась 7 апреля 1994 года на <a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1" title="Россия-1">РТР</a>, последний эфир на РТР состоялся 3 января 1997 года. С 12 января 1997 по 25 декабря 1999 года транслировалась по выходным дням на <a href="/wiki/%D0%9D%D0%A2%D0%92" title="НТВ">НТВ</a><sup class="reference" id="cite_ref-33"><a href="#cite_note-33">[33]</a></sup>. Показ передачи на данном телеканале был прекращён после того, как у группы компаний «Video International» истёк срок договора с ним<sup class="reference" id="cite_ref-34"><a href="#cite_note-34">[34]</a></sup> (по другим данным — в связи с появлением на НТВ игры «<a href="/wiki/%D0%9A%D1%82%D0%BE_%D1%85%D0%BE%D1%87%D0%B5%D1%82_%D1%81%D1%82%D0%B0%D1%82%D1%8C_%D0%BC%D0%B8%D0%BB%D0%BB%D0%B8%D0%BE%D0%BD%D0%B5%D1%80%D0%BE%D0%BC%3F" title="Кто хочет стать миллионером?">О, счастливчик!</a>»)<sup class="reference" id="cite_ref-35"><a href="#cite_note-35">[35]</a></sup>.
+</p><p>С 5 февраля по 29 декабря 2000 года телеигра выходила на <a href="/wiki/%D0%A2%D0%92-6" title="ТВ-6">ТВ-6</a> — тогдашнем партнёре «Video International»<sup class="reference" id="cite_ref-36"><a href="#cite_note-36">[36]</a></sup>. Но в связи с тем, что телеканал не продлил <a href="/wiki/%D0%94%D0%B5%D0%BB%D0%BE_%D0%9D%D0%A2%D0%92" title="Дело НТВ">контракт</a> с творческой группой передачи, с января по сентябрь 2001 года она вообще не выходила в эфир<sup class="reference" id="cite_ref-37"><a href="#cite_note-37">[37]</a></sup><sup class="reference" id="cite_ref-38"><a href="#cite_note-38">[38]</a></sup>. С 16 сентября 2001 телеигра снова транслируется на НТВ по выходным дням, чему поспособствовал тогдашний главный продюсер канала <a href="/wiki/%D0%9E%D0%BB%D0%B5%D0%B9%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%90%D0%BD%D0%B0%D1%82%D0%BE%D0%BB%D1%8C%D0%B5%D0%B2%D0%B8%D1%87" title="Олейников, Александр Анатольевич">Александр Олейников</a><sup class="reference" id="cite_ref-39"><a href="#cite_note-39">[39]</a></sup>. До 2002 года в сетках вещания и НТВ, и ТВ-6 присутствовали повторы выпусков игры в утреннее или дневное время по будням.
+</p><p>С 2002 года программа уходит в летний отпуск. Исключением стал 2012 год, на протяжении которого телеигра выходила без перерывов. Также небольшой летний перерыв в эфире имел место с 7 августа по 4 сентября 1999 года.
+</p><p>По словам Петра Кулешова, 13 января 2019 года, в день старта юбилейного 25-го сезона «Своей игры» и начала розыгрыша «Кубка 25-летия», в эфир вышел 1500-й выпуск игры на НТВ<sup class="reference" id="cite_ref-1500Igr_2-1"><a href="#cite_note-1500Igr-2">[2]</a></sup>.
+</p>
+<h3><span id=".D0.9D.D0.B5.D1.81.D0.BE.D1.81.D1.82.D0.BE.D1.8F.D0.B2.D1.88.D0.B5.D0.B5.D1.81.D1.8F_.D0.B7.D0.B0.D0.BA.D1.80.D1.8B.D1.82.D0.B8.D0.B5_.D0.BF.D1.80.D0.BE.D0.B5.D0.BA.D1.82.D0.B0"></span><span class="mw-headline" id="Несостоявшееся_закрытие_проекта">Несостоявшееся закрытие проекта</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0&amp;veaction=edit&amp;section=17" title="Редактировать раздел «Несостоявшееся закрытие проекта»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0&amp;action=edit&amp;section=17" title="Редактировать код раздела «Несостоявшееся закрытие проекта»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>19 ноября 2012 года стало известно, что НТВ не продлило контракта со «<a class="mw-redirect" href="/wiki/%D0%A1%D1%82%D1%83%D0%B4%D0%B8%D1%8F_2%D0%92" title="Студия 2В">Студией 2В</a>», производящей «Свою игру»<sup class="reference" id="cite_ref-40"><a href="#cite_note-40">[40]</a></sup><sup class="reference" id="cite_ref-41"><a href="#cite_note-41">[41]</a></sup>. Среди возможных причин называли: снижение бюджета, который телеканал выделял на производство передачи, последующее изменение периодичности трансляции (с 14 июля 2012 по 29 сентября 2013 года телеигра чаще всего шла в один выходной день недели вместо двух), а также конфликт, связанный с требованием со стороны НТВ перехода программы в формат 16:9 и построения новых декораций<sup class="reference" id="cite_ref-sovsek_13-1"><a href="#cite_note-sovsek-13">[13]</a></sup>.
+</p><p>Однако вскоре решение телекомпании было изменено: после шквала критики<sup class="reference" id="cite_ref-sovsek_13-2"><a href="#cite_note-sovsek-13">[13]</a></sup> 7 декабря 2012 года в прессе появилась информация, что передача продолжит выходить на НТВ<sup class="reference" id="cite_ref-42"><a href="#cite_note-42">[42]</a></sup><sup class="reference" id="cite_ref-43"><a href="#cite_note-43">[43]</a></sup>, а на сайте «Студии 2В» появилась информация о смене декораций и переходе на широкоэкранный формат<sup class="reference" id="cite_ref-44"><a href="#cite_note-44">[44]</a></sup>.
+</p>
+<h2><span id=".D0.9D.D0.B0.D0.B3.D1.80.D0.B0.D0.B4.D1.8B"></span><span class="mw-headline" id="Награды">Награды</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0&amp;veaction=edit&amp;section=18" title="Редактировать раздел «Награды»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0&amp;action=edit&amp;section=18" title="Редактировать код раздела «Награды»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>В 2003, 2015 и 2017 годах<sup class="reference" id="cite_ref-45"><a href="#cite_note-45">[45]</a></sup><sup class="reference" id="cite_ref-46"><a href="#cite_note-46">[46]</a></sup> программа получила премию <a href="/wiki/%D0%A2%D0%AD%D0%A4%D0%98" title="ТЭФИ">ТЭФИ</a> в номинации «Телевизионная игра», а в 2005 году бессменный ведущий «Своей игры» <a href="/wiki/%D0%9A%D1%83%D0%BB%D0%B5%D1%88%D0%BE%D0%B2,_%D0%9F%D1%91%D1%82%D1%80_%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B2%D0%B8%D1%87" title="Кулешов, Пётр Борисович">Пётр Кулешов</a> получил ТЭФИ в номинации «Ведущий телевизионной игры»<sup class="reference" id="cite_ref-47"><a href="#cite_note-47">[47]</a></sup>.
+</p>
+<h2><span id=".D0.9E.D1.81.D0.BD.D0.BE.D0.B2.D0.BD.D1.8B.D0.B5_.D1.82.D1.83.D1.80.D0.BD.D0.B8.D1.80.D1.8B.5B48.5D"></span><span class="mw-headline" id="Основные_турниры[48]">Основные турниры<sup class="reference" id="cite_ref-48"><a href="#cite_note-48">[48]</a></sup></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0&amp;veaction=edit&amp;section=19" title="Редактировать раздел «Основные турниры[48]»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0&amp;action=edit&amp;section=19" title="Редактировать код раздела «Основные турниры[48]»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable sortable">
+<tbody><tr>
+<th>Год (-ы)
+</th>
+<th>Названия турниров
+</th>
+<th>Краткие правила игры
+</th>
+<th>Список обладателей главного приза
+</th></tr>
+<tr>
+<td>1994—1996
+</td>
+<td>Автомобильный кубок
+</td>
+<td>Для того, чтобы выиграть главный приз игры — автомобиль <a href="/wiki/Peugeot_605" title="Peugeot 605">Peugeout 605</a>, игрок должен был выиграть 5 игр подряд. Победитель каждой игры оказывался перед выбором: забрать выигранные деньги (игроки, занявшие 2-е и 3-е места, получали их в любом случае) и покинуть студию или же рискнуть и сыграть ещё раз. В этом случае выигранная сумма «замораживалась» и, в случае проигрыша, терялась безвозвратно. Если же рискнувшему удавалось победить снова, выигранные им во всех играх суммы складывались. Также игроку после третьей игры предлагалась «взятка» в виде сертификатов от банка-спонсора на сумму 500 тысяч рублей (неденоминированных) за то, чтобы он согласился играть дальше.
+</td>
+<td>Юрий Черушев, <a class="mw-redirect" href="/wiki/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%94%D1%80%D1%83%D0%B7%D1%8C" title="Александр Друзь">Александр Друзь</a>, <a class="mw-redirect" href="/wiki/%D0%91%D0%BE%D1%80%D0%B8%D1%81_%D0%91%D1%83%D1%80%D0%B4%D0%B0" title="Борис Бурда">Борис Бурда</a>, Юрий Хашимов
+</td></tr>
+<tr>
+<td>1996—2000
+</td>
+<td>Золотая дюжина (1-13 циклы)
+</td>
+<td>Команда из двенадцати игроков, уже зарекомендовавших себя в предыдущих играх, — «Золотая дюжина» — соревновалась с претендентами. Каждый игровой цикл состоял из шести отборочных пар игр, третьфиналов и финала. В первой отборочной игре претенденты соревновались между собой, во второй отборочной игре победитель первой игры встречался с двумя членами «Золотой дюжины», по результатам которой в «Золотую дюжину» входили (или оставались в ней) игроки, занявшие первое и второе места, игрок же, занявший третье место — выбывал. В третьфиналы цикла выходили девять членов «Золотой дюжины», набравшие наибольшее количество очков в отборочных играх, победители же третьфиналов встречались в финале, по итогам которого и определялся победитель цикла. В конце года проводился «Суперфинал», в который выходили три победителя циклов, набравшие наибольшее количество очков.
+<p>В циклах 1996-1997 годов использовалась схема, согласно которой двое членов «Золотой дюжины» соревновались с одним претендентом, являвшимся победителем предыдущей отборочной игры. Членство в дюжине получали игроки, занявшее первое и второе места в игре, далее девять игроков с лучшими результатами разыгрывали третьфинальные и финальные игры.
+</p>
+</td>
+<td><a class="mw-redirect" href="/wiki/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%9B%D0%B8%D0%B1%D0%B5%D1%80" title="Александр Либер">Александр Либер</a> (циклы 1 — <i>финал 1996 года</i>, 2, 8, 10), Татьяна Беспалова (циклы 3, 5), <a href="/wiki/%D0%91%D0%B5%D0%BB%D0%BA%D0%B8%D0%BD,_%D0%90%D0%BD%D0%B0%D1%82%D0%BE%D0%BB%D0%B8%D0%B9_%D0%A0%D0%B0%D1%84%D0%B0%D0%B8%D0%BB%D0%BE%D0%B2%D0%B8%D1%87" title="Белкин, Анатолий Рафаилович">Анатолий Белкин</a> (цикл 4, <i>суперфинал 1997</i> <i>года</i>), <a class="mw-redirect" href="/wiki/%D0%AF%D0%BA%D0%BE%D0%B2_%D0%9F%D0%BE%D0%B4%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9" title="Яков Подольный">Яков Подольный</a> (циклы 6, 7), Михаил Сахаров (цикл 13 — <i>финал 2000 года</i>; <i>суперфинал 1998 года</i>), Юрий Бершидский (циклы 9, 11; <i>суперфинал 1999 года</i>), Андрей Жданов (цикл 12)
+</td></tr>
+<tr>
+<td>2001—2002
+</td>
+<td>Кубок вызова — 1
+</td>
+<td>Команда из семи элитных игроков — «гроссмейстеров» — должна была продержаться 50 игр против претендентов. Если гроссмейстер проигрывал претенденту, он выбывал из «ложи гроссмейстеров». Если бы по окончании 50-й игры хотя бы один гроссмейстер остался в ложе (непобеждённым), команда гроссмейстеров получила бы главный приз — 7 килограммов денег. В первой же игре неожиданно проиграл капитан команды гроссмейстеров и сильнейший игрок по итогам всех циклов «Золотой дюжины» Александр Либер. Довольно быстро из игры выбыло ещё трое гроссмейстеров, а дальше Анатолий Вассерман установил рекорд по количеству игр, выигранных одним игроком подряд (15), но до победы в турнире продержаться не смог.
+</td>
+<td><i>без победителя</i>
+</td></tr>
+<tr>
+<td>2002
+</td>
+<td>Кубок вызова — 2
+</td>
+<td>Команда из семи элитных игроков — «гроссмейстеров» — должна была продержаться 50 игр против претендентов. Если гроссмейстер проигрывал претенденту, он выбывал из «ложи гроссмейстеров». Если бы по окончании 50-й игры хотя бы один гроссмейстер остался в ложе (непобеждённым), команда гроссмейстеров получила бы главный приз — 14 килограммов денег (при проигрыше каждой команды на счёт добавляется ещё 7 килограммов денег). Тем не менее, после быстрого вылета двух ведущих игроков — Михаила Сахарова и Анатолия Белкина — у команды гроссмейстеров возникли большие проблемы, справиться с которыми в итоге не удалось: после 23-й игры Юрий Бершидский остался один, и, хотя он выиграл ещё пять игр подряд (а всего — 10), рекордная серия Вассермана из «Кубка вызова -1» осталась непревзойдённой, а второй «Кубок вызова» завершился после 29 игр.
+</td>
+<td><i>без победителя</i>
+</td></tr>
+<tr>
+<td>2002
+</td>
+<td>Кубок вызова — 3
+</td>
+<td>Команда из семи элитных игроков — «гроссмейстеров» — должна была продержаться 50 игр против претендентов. Если гроссмейстер проигрывал претенденту, он выбывал из «ложи гроссмейстеров». Если по окончании 50-й игры хотя бы один гроссмейстер оставался в ложе (непобеждённым), команда гроссмейстеров получала главный приз — 21 килограмм денег (при проигрыше каждой команды на счёт добавляется ещё 7 килограммов денег). В третьем «Кубке вызова» было введено новое правило: в случае неудачной игры гроссмейстера команда имела право перед началом третьего раунда заменить его другим гроссмейстером. Однако воспользоваться этим правилом не пришлось ни разу: хотя две дамы из числа гроссмейстеров проиграли довольно быстро, остальные пятеро играли достаточно уверенно, доведя розыгрыш до успешного завершения (несмотря на то, что под конец года против гроссмейстеров стали выпускать сильных претендентов, проявивших себя в первом и втором «Кубках вызова», в том числе и «терминаторов», уже выбивавших гроссмейстеров из игры, в результате чего ещё двое гроссмейстеров третьей семёрки потерпели поражения) — после 48-й игры в ложе гроссмейстеров осталось трое игроков (Хашимов, Друзь и Белявский), что означало досрочный выигрыш главного приза.
+</td>
+<td>Юрий Хашимов, <a class="mw-redirect" href="/wiki/%D0%AF%D0%BA%D0%BE%D0%B2_%D0%9F%D0%BE%D0%B4%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9" title="Яков Подольный">Яков Подольный</a>, Ирина Соболевская, Дмитрий Белявский, Александр Эдигер, <a class="mw-redirect" href="/wiki/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%94%D1%80%D1%83%D0%B7%D1%8C" title="Александр Друзь">Александр Друзь</a>, Ольга Берёзкина.
+</td></tr>
+<tr>
+<td>2003
+</td>
+<td>Кубок вызова — 4
+</td>
+<td>В ложе гроссмейстеров теперь 9 игроков. В каждой игре один гроссмейстер играл против двух претендентов. Если претендент обыгрывал гроссмейстера, он занимал его место в ложе. В конце года всем гроссмейстерам, проигравшим по ходу розыгрыша (таковых набралось 20 человек), была дана возможность реабилитироваться, сыграв круг реваншей, после чего 9 игроков, оставшихся в ложе гроссмейстеров, разыграли главный приз по не совсем обычной схеме: в первой финальной игре встретились 3 игрока с наименьшими рейтингами (7, 8 и 9), худший из них вылетел, к двум оставшимся в следующей игре присоединился игрок с 6-м рейтингом, после этой игры худший также вылетал, и т. д. до шестой игры, занявшие 1 и 2 места в которой вышли в суперфинал, где к ним присоединился игрок с наивысшим рейтингом по ходу всего турнира (им стал Александр Друзь). Главный приз, доставшийся победителю суперфинальных игр (их было три, причём вторая игра началась со счёта первой игры, а третья игра — со счёта второй игры), складывался из сумм победителей всех игр сезона.
+</td>
+<td><a class="mw-redirect" href="/wiki/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%94%D1%80%D1%83%D0%B7%D1%8C" title="Александр Друзь">Александр Друзь</a> (1 797 462 рублей)
+</td></tr>
+<tr>
+<td>2004
+</td>
+<td>Автомобильный кубок
+</td>
+<td>Победитель каждой игры имел выбор: продолжить играть (при этом он рисковал своим выигрышем — при поражении в очередной игре весь его выигрыш в предыдущей игре/играх сгорал) либо забрать выигрыш (за все выигранные подряд игры) и попытать счастья в выигрыше главного приза — автомобиля (при этом игрок заканчивал участие в играх независимо от того, выиграл он главный приз или нет). Выглядело это так: в центре студии находился вращающийся подиум, в котором находилось 30 ячеек, в одной из которых содержался брелок с ключом от автомобиля. Если игрок выигрывал одну игру — он мог открыть только одну ячейку. Если победил дважды — три ячейки, и далее за каждую N-ю победу добавляется N ячеек (например, после пяти побед можно открыть 1+2+3+4+5 = 15 ячеек). При этом игрок имел право «купить» возможность открыть одну или несколько дополнительных ячеек, исходя из полной суммы своего выигрыша или его части (право открыть каждую дополнительную ячейку стоило 10 000 рублей). Соответствующая сумма списывалась со счёта игрока.
+</td>
+<td>Юрий Васильев
+</td></tr>
+<tr>
+<td>2004
+</td>
+<td>Игры 10-летия
+</td>
+<td>Во второй половине 2004 года прошли Юбилейные игры, посвящённые 10-летию «Своей игры». В них приняли участие 27 сильнейших игроков за всю историю телепередачи. Главный приз (опять-таки автомобиль) был разыгран в финале из четырёх игр.
+</td>
+<td><a class="mw-redirect" href="/wiki/%D0%90%D0%BD%D0%B0%D1%82%D0%BE%D0%BB%D0%B8%D0%B9_%D0%92%D0%B0%D1%81%D1%81%D0%B5%D1%80%D0%BC%D0%B0%D0%BD" title="Анатолий Вассерман">Анатолий Вассерман</a>
+</td></tr>
+<tr>
+<td>2005
+</td>
+<td>Комбинированные кубки
+</td>
+<td>Победитель каждой игры мог либо забрать выигрыш (за все выигранные подряд игры), либо продолжить игру (но в случае его поражения в очередной игре весь его выигрыш сгорал, и он не получал ничего). По итогам каждого из полугодий по 9 лучших игроков (лучших по количеству выигранных игр, а при равном количестве побед — по набранным суммам очков, вне зависимости от того, был ли игрок обыгран или ушёл непобеждённым) приняли участие в финальных играх (третья треть финала и финал), победители которых стали обладателями накопительного призового фонда (составленного из сумм выигрышей победителей всех игр полугодия).
+</td>
+<td>Александр Успанов (первое полугодие), Андрей Жданов (второе полугодие)
+</td></tr>
+<tr>
+<td>2006—2007
+</td>
+<td>Золотая дюжина (1—10 циклы)
+</td>
+<td>Игры проводились по той же схеме, что и в 1998—2000 гг.: в каждом цикле 16 игр (12 отборочных, три третьфинала и финал; трое членов «Золотой дюжины» с наихудшими результатами в текущем цикле в третьфиналах не участвовали), в каждой из отборочных игр член «Золотой дюжины» играл с двумя претендентами (в первом цикле все участники отборочных игр формально являлись претендентами), в случае победы претендента он входил в «Золотую дюжину» вместо обыгранного им игрока. Порядок отборочных игр (начиная со второго цикла) на этот раз определялся результатами членов «Золотой дюжины» в предыдущем цикле: от наименьшего к наибольшему. Победитель каждого цикла получал накопительный призовой фонд, равный сумме выигрышей победителей 15 предыдущих игр того же цикла. В конце года был разыгран финальный турнир, в котором приняли участие финалисты всех пяти циклов (включая и тех, кто по ходу розыгрыша вылетел из «Золотой дюжины»).
+</td>
+<td>Юрий Хашимов (цикл 1), Станислав Мереминский (цикл 2), Валерий Овчинников (цикл 3), Владислав Пристинский (цикл 4), Андрей Штефан (цикл 5), Андрей Жданов (<i>финал 2006 года</i>), Дмитрий Лурье (циклы 6, 8), <a href="/wiki/%D0%91%D0%B5%D0%BB%D0%BA%D0%B8%D0%BD,_%D0%90%D0%BD%D0%B0%D1%82%D0%BE%D0%BB%D0%B8%D0%B9_%D0%A0%D0%B0%D1%84%D0%B0%D0%B8%D0%BB%D0%BE%D0%B2%D0%B8%D1%87" title="Белкин, Анатолий Рафаилович">Анатолий Белкин</a> (цикл 7), Ольга Успанова (цикл 9), <a class="mw-redirect" href="/wiki/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%9B%D0%B8%D0%B1%D0%B5%D1%80" title="Александр Либер">Александр Либер</a> (цикл 10, <i>финал 2007 года</i>)
+</td></tr>
+<tr>
+<td>2008—2009
+</td>
+<td>Автомобильный кубок
+</td>
+<td>Снова главный приз в программе — автомобиль. Снова в центре студии вращающийся подиум, но теперь в нём не 30 ячеек, как было в 2004 году, а 22, а в одной из ячеек — ключ от автомобиля. Теперь в каждой игре победитель имел шанс выиграть автомобиль: после первой победы игрок получает право проверить одну ячейку из 22, после второй победы — ещё две, после третьей — ещё три, и т. д. Если игрок находил ключ от автомобиля, он становился обладателем автомобиля и покидал игру, в противном же случае — принимал участие в следующей игре. Теперь игроки не рисковали потерять денежные выигрыши — деньги выплачивались победителю каждой игры (вне зависимости от того, выиграл игрок автомобиль или нет).
+<p>Нетрудно подсчитать, что 6 побед подряд практически гарантировали выигрыш автомобиля (1+2+3+4+5+6=21, а всего ячеек 22). Анатолию Вассерману потребовалось сыграть все шесть игр, и лишь после шестой победы ему попался брелок с ключом от автомобиля, а Михаилу Сахарову повезло вытащить заветный ключ после первой же победы (имея 1 шанс из 22). Ещё трём участникам за 2009 год повезло вытянуть ключ от автомобиля с первой же попытки — Алексею Паевскому, Роману Немучинскому и Кириллу Богловскому.
+</p>
+</td>
+<td>Алексей Маркин, <a class="mw-redirect" href="/wiki/%D0%90%D0%BD%D0%B0%D1%82%D0%BE%D0%BB%D0%B8%D0%B9_%D0%92%D0%B0%D1%81%D1%81%D0%B5%D1%80%D0%BC%D0%B0%D0%BD" title="Анатолий Вассерман">Анатолий Вассерман</a>, Андрей Чернявский, Борис Брукман, Михаил Сахаров, Алексей Паевский, Дмитрий Борок, Максим Руссо, Вадим Карлинский, Николай Самусь, Роман Немучинский, Кирилл Богловский
+</td></tr>
+<tr>
+<td>2009
+</td>
+<td>Игры 15-летия
+</td>
+<td>Юбилейные игры, посвящённые 15-летию «Своей игры». В них принял участие 81 игрок по схеме с выбыванием (в каждой игре в следующий круг выходил лишь победитель). Таким образом, после первого круга осталось 27 участников, после второго — 9, победители трёх третьфиналов вышли в финал, где в двух играх определили чемпиона, вице-чемпиона и финалиста. Впервые было сформировано три призовых фонда.
+</td>
+<td>I — Станислав Мереминский; II — Дмитрий Борок; III — Алексей Маркин
+</td></tr>
+<tr>
+<td>2010
+</td>
+<td>Автомобильный кубок
+</td>
+<td>По-прежнему, как и в 2008—2009 годах, в специальном вращающемся подиуме 22 ячейки, в одной из которых — брелок с ключом от автомобиля, но теперь игрок после победы в игре (как и в 2004 году) должен делать выбор: либо попытаться вытянуть брелок с ключом от автомобиля, либо продолжить игру. Продолжая игру, игрок не рисковал выигранными в предыдущей игре (или играх) деньгами, получая выигрыш в любом случае. Если же игрок выходил к подиуму, то, в зависимости от количества выигранных подряд игр, он получал право вскрыть определённое количество ячеек: после одной победы — одну ячейку, после двух побед — 3 (1+2) ячейки, после трёх побед — 6 (1+2+3) ячейки, и т. д. Нетрудно подсчитать, что шесть побед подряд практически гарантируют игроку выигрыш автомобиля (1+2+3+4+5+6 = 21, а ячеек в подиуме 22), впрочем, до шестой игры никто в 2010 году не дотянул.
+</td>
+<td>Александр Мартынов, Инна Грановская
+</td></tr>
+<tr>
+<td>2010
+</td>
+<td>Кубок нового поколения
+</td>
+<td>Победители девяти игр первого круга вышли в третьфиналы, победители третьфиналов вышли в финал, победитель которого получил главный приз «Кубка нового поколения» — опять-таки автомобиль.
+</td>
+<td>Борис Котлов
+</td></tr>
+<tr>
+<td>2010
+</td>
+<td>Кубок трёх поколений
+</td>
+<td>В конце года состоялся мини-турнир — «Кубок трёх поколений», в котором приняли участие: трое сильнейших игроков, участвующих в «Своей игре» ещё с 1990-х («старшее поколение»), трое финалистов «Игр 15-летия» 2009 года («среднее поколение») и три лучших игрока 2010 года («молодое поколение»). После четырёх игр (трёх третьфиналов и финала) был определён победитель, получивший главный приз: круиз по тёплым морям на две персоны.
+</td>
+<td>Юрий Хашимов
+</td></tr>
+<tr>
+<td>2011
+</td>
+<td>Автомобильный кубок
+</td>
+<td>Подиум с 22 ячейками по-прежнему в центре студии, но теперь его назначение изменилось. Победитель каждой игры получает свой выигрыш и принимает участие в следующей игре, а игрок, занявший второе место, также может продолжить игру, если вытянет брелок с ключом: если игрок занял второе место впервые, 17 из 22 брелоков в подиуме — с ключом. Если игрок занял второе место во второй раз — «счастливых брелоков» 12 из 22. Если игрок занял второе место в третий (или четвёртый, или более) раз — шансы продолжить игру сокращаются до 7 из 22. Игрок, занявший третье место, прекращал игру в любом случае. Игрок, продержавшийся в течение 10 игр, получал главный приз — автомобиль.
+</td>
+<td>Андрей Жданов
+</td></tr>
+<tr>
+<td>2011
+</td>
+<td>Новогодний мини-турнир
+</td>
+<td>Новогодний турнир с участием девяти сильных игроков разных лет.
+</td>
+<td>Дмитрий Лурье
+</td></tr>
+<tr>
+<td>2012
+</td>
+<td>Первый открытый командный турнир
+</td>
+<td>В турнире приняла участие 21 команда из разных городов, регионов и стран. В каждой команде — три участника. На первом этапе 21 команду разделили на 7 групп по 3 команды — в каждой группе состоялись три игры между всеми участниками команд. Во второй этап прошли 15 команд — все, занявшие 1 и 2 места на первом этапе, а также лучшая (по сумме очков) из команд, занявших третьи места.
+<p>На втором этапе 15 команд были разделены на 5 групп по 3 команды, на этот раз в следующий этап прошли только 6 команд — победители групп, а также лучшая из команд, занявших вторые места. В полуфиналах 6 команд были разбиты на две тройки, в финал вышли три команды: победители двух полуфиналов, а также лучшая из команд, занявших вторые места.
+</p>
+</td>
+<td>I — Москва (Юрий Васильев, Александр Эдигер, Юрий Хашимов); II — Поволжье (Михаил Иванов, Евгений Калюков, Андрей Жданов); III — Ростовская область (Алексей Прохин, Андрей Абрамов, Даниил Пахомов)
+</td></tr>
+<tr>
+<td>2012
+</td>
+<td>Индивидуальный чемпионат
+</td>
+<td>Индивидуальный чемпионат по системе плей-офф, в котором приняли участие 42 игрока. В первом круге прошло 14 игр, после которых 14 победителей, а также 13 игроков, занявших вторые места (за исключением игрока с худшим результатом среди занявших вторые места), прошли во второй круг. В дальнейшем в следующий круг выходили только победители игр. Победитель финальной игры получил главный приз — автомобиль.
+</td>
+<td><a class="mw-redirect" href="/wiki/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%9B%D0%B8%D0%B1%D0%B5%D1%80" title="Александр Либер">Александр Либер</a>
+</td></tr>
+<tr>
+<td>2013
+</td>
+<td>Открытие сезона
+</td>
+<td>В первом круге состоялись пять игр, победители которых (вместе с четырьмя игроками из числа занявших вторые места в своих играх) вышли в третьфиналы. Победители третьфиналов встретились в финале, победитель которого получил выигрыш, равный сумме выигрышей победителей всех игр турнира («чемодан денег»).
+</td>
+<td>Владислав Пристинский
+</td></tr>
+<tr>
+<td>2013
+</td>
+<td>Второй открытый командный турнир
+</td>
+<td>В турнире приняла участие 21 команда из разных городов, регионов и стран. Семь команд-победительниц троек первого круга, а также две лучшие команды из числа остальных вышли в третьфиналы, в которых определились три команды-участницы финала.
+</td>
+<td>I — Москва (Вадим Карлинский, Валерий Овчинников, Андрей Чернявский); II — Украина (Максим Анфинагенов, Владислав Пристинский, Алексей Паевский); III — Санкт-Петербург (Александр Лихтшангоф, Пётр Казённов, <a class="mw-redirect" href="/wiki/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%9B%D0%B8%D0%B1%D0%B5%D1%80" title="Александр Либер">Александр Либер</a>)
+</td></tr>
+<tr>
+<td>2013
+</td>
+<td>Суперфинал Второго открытого командного турнира
+</td>
+<td>Короткая игра участников одержавшей победу во Втором открытом командном турнире команды Москвы между собой.
+</td>
+<td>Андрей Чернявский
+</td></tr>
+<tr>
+<td>2014
+</td>
+<td>Игры 20-летия
+</td>
+<td>Юбилейные игры, посвящённые 20-летию «Своей игры». Как и в 2009 году, в них принял участие 81 игрок по схеме с выбыванием: в каждой игре в следующий круг выходит лишь победитель. После первого круга в игре остались 27 участников, после второго — 9, победители трёх третьфиналов вышли в финал, где и определился чемпион «Игр 20-летия».
+</td>
+<td>Максим Руссо
+</td></tr>
+<tr>
+<td>2014—2015
+</td>
+<td>Золотая дюжина (1—3 циклы)
+</td>
+<td>Как и в турнире 2006—2007 гг., каждый цикл состоял из 16 игр (12 отборочных, трёх третьфиналов и финала), в каждой из 12 отборочных игр член «Золотой дюжины» играл с двумя претендентами (в первом цикле все участники отборочных игр являлись претендентами), в случае победы претендента он входил в «Золотую дюжину» вместо обыгранного им игрока. Трое членов «Золотой дюжины» (из 12 победителей отборочных игр) с наихудшими результатами в текущем цикле в третьфиналах не участвовали, но (после того, как в третьфиналах и финале определялся чемпион текущего цикла) вместе с остальными девятью отстаивали звания членов «Золотой дюжины» в следующем цикле.
+</td>
+<td>Александр Коробейников (циклы 1, 2), Тимур Кафиатуллин (цикл 3)
+</td></tr>
+<tr>
+<td>2015—2018
+</td>
+<td>Игры на выносливость (цикл бесконечных побед, «игра в линейку»)
+</td>
+<td>Во втором полугодии 2015 года начались игры по традиционной «линейной» схеме <i>Jeopardy!</i>, когда победитель игры принимает участие в следующей игре (и играет до тех пор, пока не проиграет), а проигравшие выбывают. В конце года проводилась финальная игра, в которой принимают участие трое игроков, одержавших наибольшее количество побед в году. В конце 2018 года прошёл турнир среди игроков, одержавших наибольшее количество побед за всё время цикла.
+</td>
+<td>Тимур Кафиатуллин (2015 год), <a class="mw-redirect" href="/wiki/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%9B%D0%B8%D0%B1%D0%B5%D1%80" title="Александр Либер">Александр Либер</a> (2016 год, <i>победитель финальной серии «Игр на выносливость»</i> 2018 года), Александр Беляев (2017 год)
+</td></tr>
+<tr>
+<td>2019
+</td>
+<td>Игры 25-летия
+</td>
+<td>Юбилейные игры, посвящённые 25-летию «Своей игры». Как и в предыдущих юбилейных играх 2009 и 2014 гг., в них принял участие 81 игрок по схеме с выбыванием: в каждой игре в следующий круг выходит лишь победитель. После первого круга в игре остались 27 участников, после второго — 9, победители трёх третьфиналов вышли в финал, где и определился чемпион «Игр 25-летия».
+</td>
+<td>Иван Семушин
+</td></tr>
+<tr>
+<td>2019
+</td>
+<td>Командный мини-турнир
+</td>
+<td>Командный мини-турнир с участием команд из трёх регионов, которые представляли финалисты прошедших Юбилейных игр.
+</td>
+<td>I — Киров (Иван Семушин, Наталья Комар, Юрий Чудиновских); II — Ростовская область (Алексей Прохин, Дмитрий Пономарёв, Даниил Пахомов); III — Москва (Владимир Полозов, Валерий Овчинников, Юрий Хашимов)
+</td></tr>
+<tr>
+<td>2019
+</td>
+<td>25+
+</td>
+<td>Во втором полугодии 2019 года проходил турнир «25+», состоявший из 5 мини-циклов. Каждый цикл состоял из 7 игр. В первых двух играх принимали участие новички «Своей игры», победители этих игр затем противостояли более опытному игроку (игра № 3), в следующих двух играх вновь участвовали новички, победители этих двух игр затем играли против другого опытного игрока (игра № 6). В последней, 7-й игре мини-цикла победители игр № 3 и № 6 играли против гроссмейстера «Своей игры». Участники каждого цикла в следующих циклах участия не принимали. В конце года состоялась финальная игра турнира «25+», в которой сыграли трое из пяти победителей мини-циклов.
+</td>
+<td>Борис Чигидин, Иван Беляев (<i>победитель финальной игры турнира</i>), Сергей Спешков, Константин Шлыков, Николай Краснов
+</td></tr>
+<tr>
+<td>2020
+</td>
+<td>Через тернии к звёздам
+</td>
+<td>В течение года состоялось 15 мини-циклов. Каждый цикл состоял из 5 игр. В первой игре принимали участие игроки, ранее не побеждавшие (в том числе новички «Своей игры»), победитель этой игры затем (игра № 2) противостоял двум игрокам из «лиги победителей» (имеющих опыт побед ранее), в следующей игре (игра № 3) вновь участвовали представители «лиги новичков», победитель этой игры затем играл против двух игроков «лиги победителей» (игра № 4). Победители игр № 2 и № 4 играли затем против гроссмейстера «Своей игры» в финале мини-цикла. Участники каждого цикла в следующих циклах участия не принимали. В конце года состоялся финальный турнир, в котором сыграли 9 из 15 победителей мини-циклов (победивших в финалах своих циклов с наибольшими результатами).
+</td>
+<td>Леонид Эдлин, Александр Рождествин, Евгений Калюков (<i>победитель финальной игры турнира</i>), Инна Грановская, Лариса Архипова, Александр Беляев, Михаил Вершков, Глеб Агапов, Алексей Дуболазов, Георгий Коколия, Владимир Полозов, Максим Иванов, Максим Руссо, Виталий Егоров, Денис Песков
+</td></tr>
+<tr>
+<td>2021—2022
+</td>
+<td>Золотая девятка
+</td>
+<td>Команда из девяти игроков, уже зарекомендовавших себя в предыдущих играх, — «Золотая девятка» — соревновалась с претендентами. В течение года проходило восемь игровых циклов. Каждый цикл (кроме восьмого) состоял из 10 игр (9 отборочных и финала), в каждой из отборочных игр один из девяти членов «Девятки» играл с двумя претендентами; в случае победы претендента он входил в «Девятку» вместо обыгранного им игрока и участвовал в следующем цикле уже в качестве члена «Золотой девятки». В финал каждого цикла выходили трое из девяти победителей отборочных игр, одержавшие победы с максимальными результатами. В восьмом (безномерном) цикле, проходившем в ноябре-декабре, игроки, ранее вылетевшие из «Золотой девятки», получали возможность для реванша и участвовали в шести играх в качестве претендентов; затем проходили три третьфинала, в которых принимали участие трое победителей 1-7 циклов, набравшие по их итогам наибольшее количество очков (такие игроки не принимали участие в отборочных играх восьмого цикла), а также победители шести отборочных игр-реваншей; победители третьфиналов встречались в финале. Победителем по итогам года считался игрок, одержавший победу в финале восьмого цикла.
+</td>
+<td>Александр Монвиж-Монтвид (цикл 1), Виталий Фёдоров (цикл 2), Юрий Хашимов (циклы 3, 4, 9, 12, <i>финал 2022 года</i>), Игорь Мокин (циклы 5, 7, <i>финал 2021 года</i>, 11), Глеб Агапов (цикл 6), Евгений Калюков (циклы 8, 13, 14), Сергей Ильин (цикл 10)
+</td></tr>
+<tr>
+<td>2023
+</td>
+<td>Золотая середина («циклическая игра в линейку»)
+</td>
+<td>Схема розыгрыша во многом напоминала классический «линейный» турнир: в каждой игре место за центральным игровым столом занимал игрок, победивший в предыдущей игре (игроки же, занявшие второе и третье места, выбывали из турнира). Различие с классической схемой состояло в разделении турнира на циклы, каждый из которых состоял из десяти игр. Десятая игра каждого цикла — финальная, в ней принимали участие победитель девятой игры (он играл за центральным игровым столом) и ещё два игрока, одержавшие наибольшее количество побед в отборочных играх текущего цикла (но игроки могли попасть в финал, одержав и одну победу, если количество очков было большим и если победители менялись несколько раз). Победитель финала цикла занимал место за центральным игровым столом в первой игре следующего цикла, а игроки, которые заняли второе и третье места, так же, как и в обычных играх, выбывали из турнира.
+<p>Финальный (безномерной) цикл также состоял из десяти игр, поделенных на три мини-этапа: в первом этапе (игры 1-3) встречались победители циклов, набравшие наименьшее количество очков, и игроки, выигравшие 1-2 игры, но не ставшие победителями циклов; победители этих игр выходили во второй этап (игры 4-6), где к ним присоединялись средние по результативности победители циклов и игроки, выигравшие 3-4 игры, но не ставшие победителями циклов; победители этих игр в третьфиналах (игры 7-9) встречались с наиболее результативными победителями циклов; игроки, одержавшие победы в третьфиналах, встретились в финале (игра 10), где и определился победитель по итогам года. 
+</p>
+</td>
+<td>Дмитрий Еловенко (циклы 1, 2<sup class="reference" id="cite_ref-49"><a href="#cite_note-49">[49]</a></sup>), Андрей Судаков (цикл 3), Геннадий Яковлев (цикл 4), Андрей Кругов (цикл 5), Александр Аверин (цикл 6), Дмитрий Сахаров (цикл 7), Иван Ильин (<i>победитель финальной игры турнира</i>)
+</td></tr>
+<tr>
+<td>2024
+</td>
+<td>Возвращение к истокам (или «Назад к истокам»)
+</td>
+<td>Классический «линейный» турнир, посвящённый 30-летию викторины: в каждой игре место за центральным игровым столом занимает игрок, победивший в предыдущей игре (игроки же, занявшие второе и третье места, выбывают из турнира), количество побед не ограничено<sup class="reference" id="cite_ref-50"><a href="#cite_note-50">[50]</a></sup>.
+</td>
+<td>Виктор Абдураманов (3 игры), Евгений Быстров (1 игра), Виктория Штратникова (1 игра), Роман Чехович (1 игра), Артём Горячев (1 игра), Александр Монвиж-Монтвид (4 игры), Давид Эджибия
+</td></tr></tbody></table>
+<h2><span id=".D0.A1.D0.BF.D0.BE.D1.80.D1.82.D0.B8.D0.B2.D0.BD.D0.B0.D1.8F_.D0.B2.D0.B5.D1.80.D1.81.D0.B8.D1.8F"></span><span class="mw-headline" id="Спортивная_версия">Спортивная версия</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0&amp;veaction=edit&amp;section=20" title="Редактировать раздел «Спортивная версия»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0&amp;action=edit&amp;section=20" title="Редактировать код раздела «Спортивная версия»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>С начала 2000-х широкое распространение получил спортивный вариант «Своей игры», соревнования по которому проводятся во многих клубах интеллектуальных игр и на фестивалях по спортивной версии «Что? Где? Когда?». Слово «спортивный» используется, чтобы отличать данный вариант от телевизионной «Своей игры». Для игр используют кнопочные системы, подходящие также для «Брейн-ринга». В общих чертах правила спортивной «Своей игры» таковы:
+</p><p>В каждой игре участвуют как правило 3 или 4 игрока.
+Количество тем в игре может быть различным — чаще всего от 5 до 12. Каждая тема состоит из 5 вопросов стоимостью от 10 до 50 баллов — по возрастанию сложности. 10 баллов «стоит» самый простой вопрос темы, 50 — самый трудный.
+Вопросы каждой темы отыгрываются последовательно, от более лёгких к более сложным, без перескакиваний на другие темы. После окончания чтения вопроса на обдумывание обычно даётся 5-7 секунд. При отсутствии ответов ведущий переходит к следующему вопросу.
+После нажатия на кнопку игроку даётся 3-5 секунд на обдумывание, после чего должен прозвучать ответ или считается, что игрок ответил неправильно.
+Правила розыгрыша вопросов отличаются от телевизионных — чаще всего в «спортивный свояк» играют без фальстартов: кнопку можно нажимать в любой момент во время чтения вопроса, при нажатии кнопки одним из игроков чтение вопроса прекращается, и игрок даёт ответ, основываясь на той части вопроса, которую успел услышать. В некоторых турнирах при этом можно уточнять формулировку вопроса. В ряде городов также проводятся чемпионаты с фальстартами — по правилам, близким к телевизионным: кнопку можно нажимать только по сигналу после того, как вопрос был дочитан до конца; при фальстарте кнопка блокируется на несколько секунд.
+В спортивном варианте, как правило, отсутствуют специальные вопросы (коты в мешке, аукционы) и финальный раунд.
+Во многих крупных городах России и стран бывшего СССР регулярно (обычно раз в году) проводятся чемпионаты городов или регионов.
+С середины 2000-х проводятся также интернет-турниры по спортивной «Своей игре» (первоначально в текстовом варианте, в основном в IRC-чатах, с начала 2010-х — в Skype).<sup class="reference" id="cite_ref-51"><a href="#cite_note-51">[51]</a></sup>
+</p>
+<h2><span id=".D0.9F.D0.B0.D1.80.D0.BE.D0.B4.D0.B8.D0.B8"></span><span class="mw-headline" id="Пародии">Пародии</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0&amp;veaction=edit&amp;section=21" title="Редактировать раздел «Пародии»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0&amp;action=edit&amp;section=21" title="Редактировать код раздела «Пародии»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Передача пародировались во втором выпуске программы «<a href="/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F_%D1%80%D0%B0%D0%B7%D0%BD%D0%B8%D1%86%D0%B0" title="Большая разница">Большая разница</a>» на <a href="/wiki/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB_(%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F)" title="Первый канал (Россия)">Первом канале</a><sup class="reference" id="cite_ref-52"><a href="#cite_note-52">[52]</a></sup>.</li>
+<li>Передача пародировались под названием «Твоя — Моя игра» в программе <a href="/wiki/%D0%9E.%D0%A1.%D0%9F.-%D1%81%D1%82%D1%83%D0%B4%D0%B8%D1%8F" title="О.С.П.-студия">О.С.П.-студия</a>, в пародии принимал участие сам Пётр Кулешов в качестве ведущего<sup class="reference" id="cite_ref-53"><a href="#cite_note-53">[53]</a></sup>.</li>
+<li>Передача пародировались под названием «Твоя игра» в программе <a href="/wiki/Comedy_Club" title="Comedy Club">Comedy Club</a> на <a href="/wiki/%D0%A2%D0%9D%D0%A2" title="ТНТ">ТНТ</a>, в пародии участвовали <a href="/wiki/%D0%A5%D0%B0%D1%80%D0%BB%D0%B0%D0%BC%D0%BE%D0%B2,_%D0%93%D0%B0%D1%80%D0%B8%D0%BA" title="Харламов, Гарик">Гарик Харламов</a>, <a href="/wiki/%D0%91%D0%B0%D1%82%D1%80%D1%83%D1%82%D0%B4%D0%B8%D0%BD%D0%BE%D0%B2,_%D0%A2%D0%B8%D0%BC%D1%83%D1%80_%D0%A2%D0%B0%D1%85%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Батрутдинов, Тимур Тахирович">Тимур Батрутдинов</a>, Андрей Скороход и <a href="/wiki/%D0%94%D0%B5%D0%BC%D0%B8%D1%81_%D0%9A%D0%B0%D1%80%D0%B8%D0%B1%D0%B8%D0%B4%D0%B8%D1%81" title="Демис Карибидис">Демис Карибидис</a><sup class="reference" id="cite_ref-54"><a href="#cite_note-54">[54]</a></sup><sup class="reference" id="cite_ref-55"><a href="#cite_note-55">[55]</a></sup>.</li></ul>
+<h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Примечания">Примечания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0&amp;veaction=edit&amp;section=22" title="Редактировать раздел «Примечания»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0&amp;action=edit&amp;section=22" title="Редактировать код раздела «Примечания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://rao.ru/information/reestry/reestr-rossijskogo-pravoobladatelya/50/?author_id=495B9EB3-36FA-45B9-A4D3-EC305F8D0958&amp;searchword=Литвишко" rel="nofollow">Своя игра</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. <i>РАО. Российское авторское общество</i>. Дата обращения: 31 июля 2018. <a class="external text" href="https://web.archive.org/web/20210506214657/https://rao.ru/information/reestry/reestr-rossijskogo-pravoobladatelya/50/?author_id=495B9EB3-36FA-45B9-A4D3-EC305F8D0958&amp;searchword=Литвишко" rel="nofollow">Архивировано</a> 6 мая 2021 года.</span></span>
+</li>
+<li id="cite_note-1500Igr-2"><span class="mw-cite-backlink">↑ <a href="#cite_ref-1500Igr_2-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-1500Igr_2-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text">В <a class="external text" href="https://www.youtube.com/watch?v=a0vEuNcRfSE" rel="nofollow">выпуске от 13 января 2019 года (0:22)</a> <a class="external text" href="https://web.archive.org/web/20221016061839/https://www.youtube.com/watch?v=a0vEuNcRfSE" rel="nofollow">Архивная копия</a> от 16 октября 2022 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> ведущий говорит, что на НТВ вышло 1500 программ</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://web.archive.org/web/20181019205640/http://his.1september.ru/article.php?ID=200404206" rel="nofollow">Впечатления участника передачи «Своя игра»</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Первое сентября. Дата обращения: 2 марта 2020. Архивировано 19 октября 2018 года.</span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://www.newsko.ru/articles/nk-324039.html" rel="nofollow">МОЯ ИГРА. Обозреватель «Нового компаньона» Юлия Баталина приняла участие в телепрограмме «Своя игра» на НТВ</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Новый компаньон (6 декабря 2005). Дата обращения: 4 ноября 2017. <a class="external text" href="https://web.archive.org/web/20171107003401/https://www.newsko.ru/articles/nk-324039.html" rel="nofollow">Архивировано</a> 7 ноября 2017 года.</span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://web.archive.org/web/20181217125017/http://2002.novayagazeta.ru/nomer/2002/76n/n76n-s33.shtml" rel="nofollow">ЗА ЧТО ТОТ НАРОД, КОТОРЫЙ ПРОТИВ?</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span> <a href="/wiki/%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B3%D0%B0%D0%B7%D0%B5%D1%82%D0%B0" title="Новая газета">Новая газета</a> (14 октября 2002). Дата обращения: 14 января 2020. Архивировано 17 декабря 2018 года.</span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.santa-barbara.ru/history.php?art=kor" rel="nofollow">Павел КОРЧАГИН: «Санта-Барбара» – одна из самых лучших мыльных опер</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Капитал (3 июня 1998). Дата обращения: 4 февраля 2018. <a class="external text" href="https://web.archive.org/web/20191123103204/http://www.santa-barbara.ru/history.php?art=kor" rel="nofollow">Архивировано</a> 23 ноября 2019 года.</span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://lenizdat.ru/articles/1034625/" rel="nofollow">Петр Кулешов: «Моя голова — помойная яма»</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. <a href="/wiki/%D0%9B%D0%B5%D0%BD%D0%B8%D0%B7%D0%B4%D0%B0%D1%82" title="Лениздат">Лениздат</a> (12 октября 2005). Дата обращения: 28 ноября 2018. <a class="external text" href="https://web.archive.org/web/20190504050152/https://lenizdat.ru/articles/1034625/" rel="nofollow">Архивировано</a> 4 мая 2019 года.</span></span>
+</li>
+<li id="cite_note-mjcc-8"><span class="mw-cite-backlink"><a href="#cite_ref-mjcc_8-0">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://mjcc.ru/news/petr-kuleshov-o-evreyskoy-mame-i-o-sebe/" rel="nofollow">ПЕТР КУЛЕШОВ. О ЕВРЕЙСКОЙ МАМЕ И О СЕБЕ</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. <a href="/wiki/%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%B5%D0%B2%D1%80%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%BE%D0%B1%D1%89%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9_%D1%86%D0%B5%D0%BD%D1%82%D1%80" title="Московский еврейский общинный центр">Московский еврейский общинный центр</a> (27 ноября 2017). Дата обращения: 1 февраля 2018. <a class="external text" href="https://web.archive.org/web/20180202190124/https://mjcc.ru/news/petr-kuleshov-o-evreyskoy-mame-i-o-sebe/" rel="nofollow">Архивировано</a> 2 февраля 2018 года.</span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://kinoart.ru/archive/1997/04/n4-article6" rel="nofollow">Петр Кулешов: «Я — интертейнер, зарабатываю на жизнь публичными выступлениями»</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. <a href="/wiki/%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%BE_%D0%BA%D0%B8%D0%BD%D0%BE" title="Искусство кино">Искусство кино</a> (1 апреля 1997). Дата обращения: 6 февраля 2016. <a class="external text" href="https://web.archive.org/web/20130317062940/http://kinoart.ru/archive/1997/04/n4-article6" rel="nofollow">Архивировано</a> 17 марта 2013 года.</span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://www.kp.ru/daily/23210/26409/" rel="nofollow">«Мисс вселенная» учила поговорки, а Асет Вацуева скрывала от Парфенова своего сына</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. <a href="/wiki/%D0%9A%D0%BE%D0%BC%D1%81%D0%BE%D0%BC%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D1%80%D0%B0%D0%B2%D0%B4%D0%B0" title="Комсомольская правда">Комсомольская правда</a> (5 февраля 2004). Дата обращения: 2 февраля 2018. <a class="external text" href="https://web.archive.org/web/20210510052625/https://www.kp.ru/daily/23210/26409/" rel="nofollow">Архивировано</a> 10 мая 2021 года.</span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://web.archive.org/web/20180201133854/http://zbulvar.ru/archive/chem-chudovischna-svoya-igra/" rel="nofollow">Чем чудовищна «Своя игра»</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Звёздный бульвар (13 мая 2006). Дата обращения: 4 мая 2018. Архивировано 1 февраля 2018 года.</span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://web.archive.org/web/20161221113850/http://www.jewish.ru/culture/events/2011/12/news994303163.php" rel="nofollow">Его игра</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Jewish.Ru (23 декабря 2011). Архивировано из <a class="external text" href="http://www.jewish.ru/culture/events/2011/12/news994303163.php" rel="nofollow">оригинала</a> 21 декабря 2016 года.</span></span>
+</li>
+<li id="cite_note-sovsek-13"><span class="mw-cite-backlink">↑ <a href="#cite_ref-sovsek_13-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-sovsek_13-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-sovsek_13-2"><sup><i><b>3</b></i></sup></a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.sovsekretno.ru/articles/id/3137/" rel="nofollow">«Своя игра»: хроника объявленной жизни</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Совершенно секретно (4 января 2013). Дата обращения: 1 февраля 2018. <a class="external text" href="https://web.archive.org/web/20180201192828/http://www.sovsekretno.ru/articles/id/3137/" rel="nofollow">Архивировано</a> 1 февраля 2018 года.</span></span>
+</li>
+<li id="cite_note-bulvar-14"><span class="mw-cite-backlink">↑ <a href="#cite_ref-bulvar_14-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-bulvar_14-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://web.archive.org/web/20201020232642/https://www.womanhit.ru/archive/117878-igryi-razuma.html" rel="nofollow">Игры разума</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. МК-Бульвар (15 марта 2004). Дата обращения: 14 ноября 2021. Архивировано 20 октября 2020 года.</span></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://mr7.ru/articles/58846/" rel="nofollow">Борис Бурда: "Государственная религия ведет к распаду государства"</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. <i>Мой район</i> (24 августа 2012). Дата обращения: 11 ноября 2018. <a class="external text" href="https://web.archive.org/web/20181111215358/https://mr7.ru/articles/58846/" rel="nofollow">Архивировано</a> 11 ноября 2018 года.</span></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text"><cite class="citation news cs1"><a class="external text" href="http://www.alefmagazine.com/news803.html" rel="nofollow">"Программе «Своя игра» 15 лет"</a>. 2009-05-08. <a class="external text" href="https://web.archive.org/web/20090511062740/http://www.alefmagazine.com/news803.html" rel="nofollow">Архивировано</a> из оригинала <span class="date">11 мая 2009</span><span class="reference-accessdate">. Дата обращения: <span class="date">19 августа 2009</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B5+%C2%AB%D0%A1%D0%B2%D0%BE%D1%8F+%D0%B8%D0%B3%D1%80%D0%B0%C2%BB+15+%D0%BB%D0%B5%D1%82&amp;rft.date=2009-05-08&amp;rft_id=http%3A%2F%2Fwww.alefmagazine.com%2Fnews803.html&amp;rfr_id=info%3Asid%2Fru.wikipedia.org%3A%D0%A1%D0%B2%D0%BE%D1%8F+%D0%B8%D0%B3%D1%80%D0%B0"></span></span>
+</li>
+<li id="cite_note-trud-17"><span class="mw-cite-backlink">↑ <a href="#cite_ref-trud_17-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-trud_17-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.trud.ru/article/20-06-2002/42149_intellekt_igrokov_vesit_21_kg_deneg.html" rel="nofollow">ИНТЕЛЛЕКТ ИГРОКОВ ВЕСИТ 21 КГ. ДЕНЕГ</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. <a href="/wiki/%D0%A2%D1%80%D1%83%D0%B4_(%D0%B3%D0%B0%D0%B7%D0%B5%D1%82%D0%B0)" title="Труд (газета)">Труд</a> (20 июня 2002). Дата обращения: 1 октября 2018. <a class="external text" href="https://web.archive.org/web/20181002020131/http://www.trud.ru/article/20-06-2002/42149_intellekt_igrokov_vesit_21_kg_deneg.html" rel="nofollow">Архивировано</a> 2 октября 2018 года.</span></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><a href="#cite_ref-18">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://iz.ru/news/257422" rel="nofollow">Реакция на Вассермана</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. <a href="/wiki/%D0%98%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%8F" title="Известия">Известия</a> (25 января 2002). Дата обращения: 7 июня 2019. <a class="external text" href="https://web.archive.org/web/20190607094234/https://iz.ru/news/257422" rel="nofollow">Архивировано</a> 7 июня 2019 года.</span></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><a href="#cite_ref-19">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://baikal24.ru/text/23-04-2017/chimit_darmaev/" rel="nofollow">Чимит Дармаев из Бурятии победил в интеллектуальном шоу «Своя игра» на НТВ</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Байкал24 (23 апреля 2017). Дата обращения: 1 октября 2018. <a class="external text" href="https://web.archive.org/web/20181002020229/https://baikal24.ru/text/23-04-2017/chimit_darmaev/" rel="nofollow">Архивировано</a> 2 октября 2018 года.</span></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><a href="#cite_ref-20">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://www.ntv.ru/novosti/1732118/" rel="nofollow">НТВ 31 декабря подарит зрителям 2 миллиарда чудес</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. НТВ (13 декабря 2016). Дата обращения: 1 октября 2018. <a class="external text" href="https://web.archive.org/web/20181001220518/https://www.ntv.ru/novosti/1732118/" rel="nofollow">Архивировано</a> 1 октября 2018 года.</span></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><a href="#cite_ref-21">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://web.archive.org/web/20040122122147/http://www.sobesednik.ru/weekly/202/tv/5831.phtml" rel="nofollow">Только бы не облажаться, заклинали телезвезды перед «Своей игрой»</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. <i><a class="mw-redirect" href="/wiki/%D0%A1%D0%BE%D0%B1%D0%B5%D1%81%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA" title="Собеседник">Собеседник</a></i> (7 октября 2003). Дата обращения: 2 августа 2022. Архивировано 22 января 2004 года.</span></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><a href="#cite_ref-22">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://web.archive.org/web/20181002020207/http://www.chelpress.ru/newspapers/dil/archive/02-10-2003/4/ADA.shtml" rel="nofollow">"СВОЯ ИГРА" ТЕЛЕЗВЕЗД НТВ</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Городской дилижанс (2 октября 2003). Дата обращения: 6 мая 2019. Архивировано 2 октября 2018 года.</span></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><a href="#cite_ref-23">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://svoya-igra.org/%D0%B1%D0%BE%D1%80%D0%BE%D0%BA/" rel="nofollow">Своя Игра - Борок Дмитрий Владимирович</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. <i>svoya-igra.org</i>. Дата обращения: 24 декабря 2022. <a class="external text" href="https://web.archive.org/web/20221224104724/http://svoya-igra.org/%D0%B1%D0%BE%D1%80%D0%BE%D0%BA/" rel="nofollow">Архивировано</a> 24 декабря 2022 года.</span></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><a href="#cite_ref-24">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://svoya-igra.org/%D0%9A%D0%BE%D1%80%D0%BE%D0%B1%D0%B5%D0%B9%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%20%D0%93%D0%B5%D0%BD%D0%BD%D0%B0%D0%B4%D1%8C%D0%B5%D0%B2%D0%B8%D1%87/" rel="nofollow">Своя Игра - Коробейников Александр Геннадьевич</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. <i>svoya-igra.org</i>. Дата обращения: 24 декабря 2022. <a class="external text" href="https://web.archive.org/web/20221224104722/http://svoya-igra.org/%D0%9A%D0%BE%D1%80%D0%BE%D0%B1%D0%B5%D0%B9%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%20%D0%93%D0%B5%D0%BD%D0%BD%D0%B0%D0%B4%D1%8C%D0%B5%D0%B2%D0%B8%D1%87/" rel="nofollow">Архивировано</a> 24 декабря 2022 года.</span></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><a href="#cite_ref-25">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://svoya-igra.org/%D1%85%D0%B2%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/" rel="nofollow">Своя Игра - Хворова Ольга Михайловна</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. <i>svoya-igra.org</i>. Дата обращения: 24 декабря 2022. <a class="external text" href="https://web.archive.org/web/20221224104722/http://svoya-igra.org/%D1%85%D0%B2%D0%BE%D1%80%D0%BE%D0%B2%D0%B0/" rel="nofollow">Архивировано</a> 24 декабря 2022 года.</span></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><a href="#cite_ref-26">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.kommersant.ru/doc.aspx?DocsID=858337" rel="nofollow">Дошли до ручки</a> // <a href="/wiki/%D0%9A%D0%BE%D0%BC%D0%BC%D0%B5%D1%80%D1%81%D0%B0%D0%BD%D1%82%D1%8A_(%D0%B8%D0%B7%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%BE%D0%BC)" title="Коммерсантъ (издательский дом)">Секрет фирмы</a>, № 11 (194), 26.03.2007. «…в итоге остановилась на „Своей игре“, ведущий которой Пётр Кулешов стал лицом марки […] „Офис премьер“ сейчас крупнейший рекламодатель на этом рынке»</span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><a href="#cite_ref-27">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://www.rbc.ru/economics/08/07/2019/5d2317139a794771e92801f6" rel="nofollow">Спонсора «Своей игры» уличили в выводе денег в офшор</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. <a href="/wiki/%D0%A0%D0%91%D0%9A" title="РБК">РБК</a> (8 июля 2019). Дата обращения: 19 ноября 2021. <a class="external text" href="https://web.archive.org/web/20211119054301/https://www.rbc.ru/economics/08/07/2019/5d2317139a794771e92801f6" rel="nofollow">Архивировано</a> 19 ноября 2021 года.</span></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><a href="#cite_ref-28">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://www.youtube.com/watch?v=dsr_WjkAJB4" rel="nofollow">Своя игра (НТВ, 25.10.2003) Александр Друзь устанавливает рекорд</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 23 сентября 2019. <a class="external text" href="https://web.archive.org/web/20170624204544/https://www.youtube.com/watch?v=dsr_WjkAJB4" rel="nofollow">Архивировано</a> 24 июня 2017 года.</span></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><a href="#cite_ref-29">↑</a></span> <span class="reference-text">'Show No. 4089 (Ronnie O’Rourke vs. Ben Tritle vs. Allison Owens)'. Jeopardy!. Syndicated.</span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><a href="#cite_ref-30">↑</a></span> <span class="reference-text"><span typeof="mw:File"><a href="/wiki/YouTube" title="YouTube"><img alt="Логотип YouTube" class="mw-file-element" data-file-height="358" data-file-width="512" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/20px-YouTube_full-color_icon_%282017%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/30px-YouTube_full-color_icon_%282017%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/40px-YouTube_full-color_icon_%282017%29.svg.png 2x" width="20"/></a></span> <a class="external text" href="https://www.youtube.com/watch?v=zotIG61i2Do" rel="nofollow">Своя игра. Ихсанов - Кузьмина - Коноваленко (22.05.2005)</a></span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><a href="#cite_ref-31">↑</a></span> <span class="reference-text">Для соблюдения хронометража программы при обеспечении розыгрыша всех вопросов раунда также практикуется удаление из эфира розыгрыша вопросов, на которые никто не дал правильного ответа.</span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><a href="#cite_ref-32">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://gameshows.ru/wiki/%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0#.D0.A1.D0.BF.D0.B5.D1.86.D0.B8.D0.B0.D0.BB.D1.8C.D0.BD.D1.8B.D0.B5_.D0.BF.D1.80.D0.BE.D0.B5.D0.BA.D1.82.D1.8B" rel="nofollow">Своя игра — GameSHOWS.ru</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 5 декабря 2022. <a class="external text" href="https://web.archive.org/web/20220511233322/http://gameshows.ru/wiki/%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0#.D0.A1.D0.BF.D0.B5.D1.86.D0.B8.D0.B0.D0.BB.D1.8C.D0.BD.D1.8B.D0.B5_.D0.BF.D1.80.D0.BE.D0.B5.D0.BA.D1.82.D1.8B" rel="nofollow">Архивировано</a> 11 мая 2022 года.</span></span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><a href="#cite_ref-33">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://dlib.eastview.com/browse/doc/6683038" rel="nofollow">На диване перед телевизором МЫ ГОРАЗДО УМНЕЕ</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. <a href="/wiki/%D0%9A%D0%BE%D0%BC%D1%81%D0%BE%D0%BC%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D1%80%D0%B0%D0%B2%D0%B4%D0%B0" title="Комсомольская правда">Комсомольская правда</a> (29 мая 2000). Дата обращения: 1 января 2019. <a class="external text" href="https://web.archive.org/web/20190102002327/https://dlib.eastview.com/browse/doc/6683038" rel="nofollow">Архивировано</a> 2 января 2019 года.</span></span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><a href="#cite_ref-34">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://lenta.ru/news/1999/12/01/video/" rel="nofollow">Video International уходит с НТВ на ОРТ</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. <a href="/wiki/Lenta.ru" title="Lenta.ru">Lenta.ru</a> (2 декабря 1999). Дата обращения: 4 мая 2019. <a class="external text" href="https://web.archive.org/web/20190504051717/https://lenta.ru/news/1999/12/01/video/" rel="nofollow">Архивировано</a> 4 мая 2019 года.</span></span>
+</li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><a href="#cite_ref-35">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://dlib.eastview.com/browse/doc/3228285" rel="nofollow">ТЕЛЕСТРАСТИ. Кто приютит "Свою игру"?</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span> <a href="/wiki/%D0%9A%D0%BE%D0%BC%D1%81%D0%BE%D0%BC%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D1%80%D0%B0%D0%B2%D0%B4%D0%B0" title="Комсомольская правда">Комсомольская правда</a> (25 октября 2000). Дата обращения: 3 августа 2019. <a class="external text" href="https://web.archive.org/web/20190803143811/https://dlib.eastview.com/browse/doc/3228285" rel="nofollow">Архивировано</a> 3 августа 2019 года.</span></span>
+</li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><a href="#cite_ref-36">↑</a></span> <span class="reference-text"><span class="citation"><i>Нонна Кицмаришвили.</i> <span lang="und"><a class="external text" href="https://web.archive.org/web/20180710010632/http://2000.novayagazeta.ru/nomer/2000/04d/n04d-s09.shtml" rel="nofollow">Лицом к лицу канал не угадать</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. <a href="/wiki/%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B3%D0%B0%D0%B7%D0%B5%D1%82%D0%B0" title="Новая газета">Новая газета</a> (3 февраля 2000). Дата обращения: 10 марта 2019. Архивировано 10 июля 2018 года.</span></span>
+</li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><a href="#cite_ref-37">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://archive.today/20120714075740/http://silvert.ru/115/77" rel="nofollow">Телемагнаты тормозят программы ТВ</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. <a class="mw-redirect" href="/wiki/%D0%9A%D1%83%D0%B1%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%B2%D0%B5%D0%B4%D0%BE%D0%BC%D0%BE%D1%81%D1%82%D0%B8" title="Кубанские ведомости">Кубанские ведомости</a> (19 января 2001). Дата обращения: 30 сентября 2017. Архивировано 14 июля 2012 года.</span></span>
+</li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><a href="#cite_ref-38">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://web.archive.org/web/20190329161249/http://www.chelpress.ru/newspapers/dil/archive/18-01-2001/16/ZONA.shtml" rel="nofollow">НАРОД НЕ ПОШЕЛ В "РУБЛЕВУЮ ЗОНУ". В 2001 году телезритель не найдет в эфире нескольких программ</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Городской дилижанс (18 января 2001). Дата обращения: 6 мая 2019. Архивировано 29 марта 2019 года.</span></span>
+</li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><a href="#cite_ref-39">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://laertsky.com/pub/2001_mk.htm" rel="nofollow">Александр Олейников: Мы буржуинские</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. <a href="/wiki/%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%BC%D1%81%D0%BE%D0%BC%D0%BE%D0%BB%D0%B5%D1%86" title="Московский комсомолец">Московский комсомолец</a> (23 августа 2001). Дата обращения: 6 февраля 2018. <a class="external text" href="https://web.archive.org/web/20210225000004/http://www.laertsky.com/pub/2001_mk.htm" rel="nofollow">Архивировано</a> 25 февраля 2021 года.</span></span>
+</li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><a href="#cite_ref-40">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://rusplt.ru/review/news/social/social_4306.html" rel="nofollow">Телевидение отказывается от интеллектуальных игр</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 19 ноября 2012. <a class="external text" href="https://web.archive.org/web/20150403002825/http://rusplt.ru/review/news/social/social_4306.html" rel="nofollow">Архивировано</a> 3 апреля 2015 года.</span></span>
+</li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><a href="#cite_ref-41">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://web.archive.org/web/20121121161804/http://top.rbc.ru/society/19/11/2012/825738.shtml" rel="nofollow">«Своя игра» исчезнет из эфира</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 19 ноября 2012. Архивировано из <a class="external text" href="http://top.rbc.ru/society/19/11/2012/825738.shtml" rel="nofollow">оригинала</a> 21 ноября 2012 года.</span></span>
+</li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><a href="#cite_ref-42">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.polit.ru/news/2012/12/07/maximum/" rel="nofollow">Вместо «Своей игры» НТВ закроет «Программу максимум»</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 8 декабря 2012. <a class="external text" href="https://web.archive.org/web/20130321175228/http://polit.ru/news/2012/12/07/maximum/" rel="nofollow">Архивировано</a> 21 марта 2013 года.</span></span>
+</li>
+<li id="cite_note-43"><span class="mw-cite-backlink"><a href="#cite_ref-43">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://slon.ru/fast/russia/ntv-odumalos-svoya-igra-ostaetsya-programma-maksimum-zakryvaetsya-861725.xhtml" rel="nofollow">НТВ одумалось? «Своя игра» остаётся, «Программа максимум» закрывается</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 8 декабря 2012. <a class="external text" href="https://web.archive.org/web/20130920201418/http://slon.ru/fast/russia/ntv-odumalos-svoya-igra-ostaetsya-programma-maksimum-zakryvaetsya-861725.xhtml" rel="nofollow">Архивировано</a> 20 сентября 2013 года.</span></span>
+</li>
+<li id="cite_note-44"><span class="mw-cite-backlink"><a href="#cite_ref-44">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.studio2v.ru/news/v-2013-godu-svoya-igra-smenit-dekoratsii/?sphrase_id=1059" rel="nofollow">В 2013 году «Своя игра» сменит декорации</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 22 мая 2016. <a class="external text" href="https://web.archive.org/web/20160804021920/http://www.studio2v.ru/news/v-2013-godu-svoya-igra-smenit-dekoratsii/?sphrase_id=1059" rel="nofollow">Архивировано</a> 4 августа 2016 года.</span></span>
+</li>
+<li id="cite_note-45"><span class="mw-cite-backlink"><a href="#cite_ref-45">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.tefi.ru/ru/tefi/tefi-vict2003/" rel="nofollow">Победители конкурса «ТЭФИ-2003»</a> <small><a class="external text" href="https://web.archive.org/web/20080221095858/http://www.tefi.ru/ru/tefi/tefi-vict2003/" rel="nofollow">Архивировано</a> 21 февраля 2008 года.</small></span>
+</li>
+<li id="cite_note-46"><span class="mw-cite-backlink"><a href="#cite_ref-46">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.interfax.ru/culture/449695" rel="nofollow">Жюри ТЭФИ-2015 назвало лучшие программы дневного эфира</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. <a href="/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B0%D0%BA%D1%81" title="Интерфакс">Интерфакс</a> (25 июня 2015). — Культура. Дата обращения: 25 июня 2015. <a class="external text" href="https://web.archive.org/web/20190324204431/https://www.interfax.ru/culture/449695" rel="nofollow">Архивировано</a> 24 марта 2019 года.</span></span>
+</li>
+<li id="cite_note-47"><span class="mw-cite-backlink"><a href="#cite_ref-47">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.tefi.ru/ru/tefi/Tefi_2005/pob-t-05/" rel="nofollow">Победители конкурса «ТЭФИ-2005»</a> <small><a class="external text" href="https://web.archive.org/web/20160102132004/http://www.tefi.ru/ru/tefi/Tefi_2005/pob-t-05/" rel="nofollow">Архивировано</a> 2 января 2016 года.</small></span>
+</li>
+<li id="cite_note-48"><span class="mw-cite-backlink"><a href="#cite_ref-48">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://svoya-igra.org/" rel="nofollow">Названия турниров Своей игры</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 31 июля 2013. <a class="external text" href="https://web.archive.org/web/20130729183742/http://svoya-igra.org/" rel="nofollow">Архивировано</a> 29 июля 2013 года.</span></span>
+</li>
+<li id="cite_note-49"><span class="mw-cite-backlink"><a href="#cite_ref-49">↑</a></span> <span class="reference-text">Во втором цикле выиграл все девять отборочных игр, по причине чего объявлен победителем досрочно.</span>
+</li>
+<li id="cite_note-50"><span class="mw-cite-backlink"><a href="#cite_ref-50">↑</a></span> <span class="reference-text">Турнир был заявлен как проводящийся по правилам, аналогичным самым первым правилам викторины, применявшимся в 1994 году. Однако это не совсем так: трансляция «Своей игры» в апреле 1994 года началась с «Автомобильного кубка», простая же «линейная» схема проведения игр без дополнений использовалась в 2015-2018 годах.</span>
+</li>
+<li id="cite_note-51"><span class="mw-cite-backlink"><a href="#cite_ref-51">↑</a></span> <span class="reference-text"><span class="citation"><span lang="ru-RU"><a class="external text" href="http://svoya-igra.org/sportsi/" rel="nofollow">Своя игра - Спортивная Своя игра</a></span> <small class="ref-info" style="cursor:help;" title="на русском языке">(рус.)</small>. Дата обращения: 6 сентября 2023. <a class="external text" href="https://web.archive.org/web/20230906191125/http://svoya-igra.org/sportsi/" rel="nofollow">Архивировано</a> 6 сентября 2023 года.</span></span>
+</li>
+<li id="cite_note-52"><span class="mw-cite-backlink"><a href="#cite_ref-52">↑</a></span> <span class="reference-text"><span class="citation"><span lang="ru-RU"><a class="external text" href="https://www.youtube.com/watch?v=xHtuAcEzLgQ" rel="nofollow">Сергей Бурунов - пародия на программу "Своя игра"</a></span> <small class="ref-info" style="cursor:help;" title="на русском языке">(рус.)</small>. Дата обращения: 25 декабря 2022. <a class="external text" href="https://web.archive.org/web/20221225101818/https://www.youtube.com/watch?v=xHtuAcEzLgQ" rel="nofollow">Архивировано</a> 25 декабря 2022 года.</span></span>
+</li>
+<li id="cite_note-53"><span class="mw-cite-backlink"><a href="#cite_ref-53">↑</a></span> <span class="reference-text"><span class="citation"><span lang="ru-RU"><a class="external text" href="https://www.youtube.com/watch?v=pgk2E0kqRSs" rel="nofollow">ОСП. Твоя Моя игра.</a></span> <small class="ref-info" style="cursor:help;" title="на русском языке">(рус.)</small>. Дата обращения: 25 декабря 2022. <a class="external text" href="https://web.archive.org/web/20221225101812/https://www.youtube.com/watch?v=pgk2E0kqRSs" rel="nofollow">Архивировано</a> 25 декабря 2022 года.</span></span>
+</li>
+<li id="cite_note-54"><span class="mw-cite-backlink"><a href="#cite_ref-54">↑</a></span> <span class="reference-text"><span class="citation"><span lang="ru-RU"><a class="external text" href="https://www.youtube.com/watch?v=O-_sIkd92no" rel="nofollow">Камеди Клаб «Твоя игра» Харламов Батрутдинов Карибидис Скороход</a></span> <small class="ref-info" style="cursor:help;" title="на русском языке">(рус.)</small>. Дата обращения: 25 декабря 2022. <a class="external text" href="https://web.archive.org/web/20221225103258/https://www.youtube.com/watch?v=O-_sIkd92no" rel="nofollow">Архивировано</a> 25 декабря 2022 года.</span></span>
+</li>
+<li id="cite_note-55"><span class="mw-cite-backlink"><a href="#cite_ref-55">↑</a></span> <span class="reference-text"><span class="citation"><span lang="ru-RU"><a class="external text" href="https://www.topnews.ru/news_id_142219.html" rel="nofollow">"Зачему? Потомукто!": пародия Comedy Club на "Свою игру" стала хитом в Сети (ВИДЕО) - TOPNews.RU</a></span> <small class="ref-info" style="cursor:help;" title="на русском языке">(рус.)</small>. <i><a class="external free" href="https://www.topnews.ru/" rel="nofollow">https://www.topnews.ru/</a></i>. Дата обращения: 9 августа 2021. <a class="external text" href="https://web.archive.org/web/20210809191046/https://www.topnews.ru/news_id_142219.html" rel="nofollow">Архивировано</a> 9 августа 2021 года.</span></span>
+</li>
+</ol></div></div>
+<h2><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span><span class="mw-headline" id="Ссылки">Ссылки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0&amp;veaction=edit&amp;section=23" title="Редактировать раздел «Ссылки»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0&amp;action=edit&amp;section=23" title="Редактировать код раздела «Ссылки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="http://www.ntv.ru/peredacha/svoya_igra/" rel="nofollow">Страница</a> передачи «Своя игра» на сайте НТВ</li>
+<li><a class="external text" href="http://studio2v.ru/projects/programmy/svoya-igra/" rel="nofollow">Страницы</a> передачи на сайте «Студии 2В».</li>
+<li><a class="external text" href="http://si.alex-utah.org" rel="nofollow">Своя игра unofficial</a> — обзоры «Своей игры» 2005—2010 годов от Александра Успанова</li>
+<li><a class="external text" href="http://www.gameshows.ru/wiki/Своя_игра" rel="nofollow">Статистика всех игр передачи на сайте gameshows.ru</a></li>
+<li><a class="external text" href="http://svoya-igra.org" rel="nofollow">Своя игра</a> — подробная статистика по всем игрокам, когда-либо принимавшим участие в «Своей игре»</li>
+<li><span class="nowrap"><a class="external text" href="https://razbor_sv_igry.livejournal.com/" rel="nofollow">razbor_sv_igry</a></span> — <a class="mw-redirect" href="/wiki/%D0%96%D0%B8%D0%B2%D0%BE%D0%B9_%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB" title="Живой журнал">ЖЖ</a>-сообщество, посвящённое разбору вопросов телепередачи «Своя игра» и ошибок в них</li></ul>
+<div aria-labelledby="Ссылки_на_внешние_ресурсы" class="navbox" data-name="External links" role="navigation" style="padding-top:1px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup" style="display:none"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:External_links" title="Перейти к шаблону «External links»"><img alt="Перейти к шаблону «External links»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span></span><div id="Ссылки_на_внешние_ресурсы" style="font-size:114%;margin:0 5em">Ссылки на внешние ресурсы</div></th></tr><tr><th class="navbox-group" scope="row" style="width:1px"><div style="padding: 0 35px 0 0; width: 100%;"><div style="float: left;"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8" title="Перейти к шаблону «Внешние ссылки»"><img alt="Перейти к шаблону «Внешние ссылки»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span>  <span typeof="mw:File"><a href="https://www.wikidata.org/wiki/Q15271009#identifiers" title="Перейти к элементу Викиданных"><img alt="Перейти к элементу Викиданных" class="mw-file-element" data-file-height="20" data-file-width="20" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/14px-OOjs_UI_icon_edit-ltr-progressive.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/21px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/28px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" width="14"/></a></span></div>  В социальных сетях</div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="external text" href="https://vk.com/svoja_igra" rel="nofollow">ВКонтакте</a></li>
+<li><a class="external text" href="https://vk.com/voprosi.svoya.igra" rel="nofollow">ВКонтакте</a></li>
+<li><a class="external text" href="https://t.me/svoyaigraofficial" rel="nofollow">Telegram</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Фото, видео и аудио</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="external text" href="https://rutube.ru/channel/23624325/" rel="nofollow">Rutube</a></li>
+<li><a class="external text" href="https://www.youtube.com/channel/UCctti9h6BjOO-76YDdRyLzA" rel="nofollow">YouTube</a></li>
+<li><a class="external text" href="https://dzen.ru/id/622d5ee0c6dcb744ff025fbd" rel="nofollow">Дзен</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Тематические сайты</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="external text" href="https://www.imdb.com/title/tt1381017" rel="nofollow">Internet Movie Database</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1450
+Cached time: 20240229103107
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.879 seconds
+Real time usage: 1.064 seconds
+Preprocessor visited node count: 9046/1000000
+Post‐expand include size: 133293/2097152 bytes
+Template argument size: 25175/2097152 bytes
+Highest expansion depth: 20/100
+Expensive parser function count: 44/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 54571/5000000 bytes
+Lua time usage: 0.615/10.000 seconds
+Lua memory usage: 12926775/52428800 bytes
+Number of Wikibase entities loaded: 37/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  968.177      1 -total
+ 62.49%  605.007      1 Шаблон:Телепередача
+ 60.95%  590.123      1 Шаблон:Карточка
+ 27.05%  261.866      1 Шаблон:Примечания
+ 20.08%  194.377     21 Шаблон:Wikidata
+ 13.88%  134.402     45 Шаблон:Cite_web
+ 11.50%  111.356     23 Шаблон:Wikidata_plural_switch
+  8.53%   82.538      1 Шаблон:Cite_news
+  6.60%   63.899      4 Шаблон:Replace
+  5.82%   56.308      1 Шаблон:Диапазон_дат
+-->
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:127765-0!canonical and timestamp 20240229103107 and revision id 136424373. Rendering was triggered because: api-parse
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> -->
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Своя_игра&amp;oldid=136424373">https://ru.wikipedia.org/w/index.php?title=Своя_игра&amp;oldid=136424373</a></div></div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A2%D0%B5%D0%BB%D0%B5%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%B0%D1%87%D0%B8_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Телепередачи по алфавиту">Телепередачи по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A2%D0%B5%D0%BB%D0%B5%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%B0%D1%87%D0%B8_%D0%9D%D0%A2%D0%92" title="Категория:Телепередачи НТВ">Телепередачи НТВ</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A2%D0%B5%D0%BB%D0%B5%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%B0%D1%87%D0%B8_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Категория:Телепередачи России">Телепередачи России</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A2%D0%B5%D0%BB%D0%B5%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%B0%D1%87%D0%B8_%C2%AB%D0%A1%D1%82%D1%83%D0%B4%D0%B8%D0%B8_2%D0%92%C2%BB" title="Категория:Телепередачи «Студии 2В»">Телепередачи «Студии 2В»</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A2%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B7%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5_%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%B8%D0%B3%D1%80%D1%8B" title="Категория:Телевизионные интеллектуальные игры">Телевизионные интеллектуальные игры</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D1%82%D0%B5%D0%BB%D0%B5%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B" title="Категория:Интернациональные телепроекты">Интернациональные телепроекты</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%B0%D1%83%D1%80%D0%B5%D0%B0%D1%82%D1%8B_%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D0%B8_%D0%A2%D0%AD%D0%A4%D0%98" title="Категория:Лауреаты премии ТЭФИ">Лауреаты премии ТЭФИ</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0" title="Категория:Своя игра">Своя игра</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A2%D0%B5%D0%BB%D0%B5%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%B0%D1%87%D0%B8_%D0%92%D0%93%D0%A2%D0%A0%D0%9A" title="Категория:Телепередачи ВГТРК">Телепередачи ВГТРК</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%B5%D1%80%D0%B5%D0%B4%D0%B0%D1%87%D0%B8_%D0%A2%D0%92-6" title="Категория:Передачи ТВ-6">Передачи ТВ-6</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A2%D0%B5%D0%BB%D0%B5%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%B0%D1%87%D0%B8_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%C2%AB%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1%C2%BB" title="Категория:Телепередачи телеканала «Россия-1»">Телепередачи телеканала «Россия-1»</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A2%D0%B5%D0%BB%D0%B5%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%B0%D1%87%D0%B8,_%D0%B7%D0%B0%D0%BF%D1%83%D1%89%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D0%B2_1994_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:Телепередачи, запущенные в 1994 году">Телепередачи, запущенные в 1994 году</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%BD%D0%B5_%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD_%D1%8F%D0%B7%D1%8B%D0%BA)" title="Категория:Википедия:Cite web (не указан язык)">Википедия:Cite web (не указан язык)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D0%BD%D0%B5%D1%80%D0%B0%D1%81%D0%BF%D0%BE%D0%B7%D0%BD%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC_%D1%8F%D0%B7%D1%8B%D0%BA%D0%BE%D0%BC_(ref)" title="Категория:Википедия:Статьи с нераспознанным языком (ref)">Википедия:Статьи с нераспознанным языком (ref)</a></li></ul></div></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Навигация</h2>
+<div id="mw-head">
+<nav aria-labelledby="p-personal-label" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" id="p-personal" role="navigation">
+<h3 class="vector-menu-heading" id="p-personal-label">
+<span class="vector-menu-heading-label">Персональные инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="pt-anonuserpage"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li class="mw-list-item" id="pt-anontalk"><a accesskey="n" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]"><span>Обсуждение</span></a></li><li class="mw-list-item" id="pt-anoncontribs"><a accesskey="y" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]"><span>Вклад</span></a></li><li class="mw-list-item" id="pt-createaccount"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%A1%D0%B2%D0%BE%D1%8F+%D0%B8%D0%B3%D1%80%D0%B0" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li class="mw-list-item" id="pt-login"><a accesskey="o" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%A1%D0%B2%D0%BE%D1%8F+%D0%B8%D0%B3%D1%80%D0%B0" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]"><span>Войти</span></a></li>
+</ul>
+</div>
+</nav>
+<div id="left-navigation">
+<nav aria-labelledby="p-namespaces-label" class="mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-namespaces" role="navigation">
+<h3 class="vector-menu-heading" id="p-namespaces-label">
+<span class="vector-menu-heading-label">Пространства имён</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-nstab-main"><a accesskey="c" href="/wiki/%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0" title="Просмотреть контентную страницу [c]"><span>Статья</span></a></li><li class="mw-list-item" id="ca-talk"><a accesskey="t" href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0" rel="discussion" title="Обсуждение основной страницы [t]"><span>Обсуждение</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-variants-label" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" id="p-variants" role="navigation">
+<input aria-haspopup="true" aria-labelledby="p-variants-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-variants" id="p-variants-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-variants-label">
+<span class="vector-menu-heading-label">русский</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+</div>
+<div id="right-navigation">
+<nav aria-labelledby="p-views-label" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-views" role="navigation">
+<h3 class="vector-menu-heading" id="p-views-label">
+<span class="vector-menu-heading-label">Просмотры</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="ca-view"><a href="/w/index.php?title=%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0&amp;stable=1"><span>Читать</span></a></li><li class="collapsible selected mw-list-item" id="ca-current"><a accesskey="v" href="/w/index.php?title=%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0&amp;stable=0&amp;redirect=no" title="Показать текущую версию этой страницы [v]"><span>Текущая версия</span></a></li><li class="mw-list-item" id="ca-ve-edit"><a accesskey="v" href="/w/index.php?title=%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0&amp;veaction=edit" title="Редактировать данную страницу [v]"><span>Править</span></a></li><li class="collapsible mw-list-item" id="ca-edit"><a accesskey="e" href="/w/index.php?title=%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0&amp;action=edit" title="Править исходный текст этой страницы [e]"><span>Править код</span></a></li><li class="mw-list-item" id="ca-history"><a accesskey="h" href="/w/index.php?title=%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0&amp;action=history" title="Журнал изменений страницы [h]"><span>История</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-cactions-label" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" id="p-cactions" role="navigation" title="Больше возможностей">
+<input aria-haspopup="true" aria-labelledby="p-cactions-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-cactions" id="p-cactions-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-cactions-label">
+<span class="vector-menu-heading-label">Ещё</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+<div class="vector-search-box-vue vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box" id="p-search" role="search">
+<h3>Поиск</h3>
+<form action="/w/index.php" class="vector-search-box-form" id="searchform">
+<div class="vector-search-box-inner" data-search-loc="header-navigation" id="simpleSearch">
+<input accesskey="f" aria-label="Искать в Википедии" autocapitalize="sentences" class="vector-search-box-input" id="searchInput" name="search" placeholder="Искать в Википедии" title="Искать в Википедии [f]" type="search"/>
+<input name="title" type="hidden" value="Служебная:Поиск"/>
+<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Найти страницы, содержащие указанный текст" type="submit" value="Найти"/>
+<input class="searchButton" id="searchButton" name="go" title="Перейти к странице, имеющей в точности такое название" type="submit" value="Перейти"/>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="vector-legacy-sidebar" id="mw-panel">
+<div id="p-logo" role="banner">
+<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу"></a>
+</div>
+<nav aria-labelledby="p-navigation-label" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" id="p-navigation" role="navigation">
+<h3 class="vector-menu-heading" id="p-navigation-label">
+<span class="vector-menu-heading-label">Навигация</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-mainpage-description"><a accesskey="z" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]"><span>Заглавная страница</span></a></li><li class="mw-list-item" id="n-content"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li class="mw-list-item" id="n-featured"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li class="mw-list-item" id="n-randompage"><a accesskey="x" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]"><span>Случайная статья</span></a></li><li class="mw-list-item" id="n-currentevents"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li class="mw-list-item" id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-participation-label" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" id="p-participation" role="navigation">
+<h3 class="vector-menu-heading" id="p-participation-label">
+<span class="vector-menu-heading-label">Участие</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-bug_in_article"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li class="mw-list-item" id="n-introduction"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li class="mw-list-item" id="n-portal"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li class="mw-list-item" id="n-forum"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li class="mw-list-item" id="n-recentchanges"><a accesskey="r" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]"><span>Свежие правки</span></a></li><li class="mw-list-item" id="n-newpages"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li class="mw-list-item" id="n-help"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-tb-label" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" id="p-tb" role="navigation">
+<h3 class="vector-menu-heading" id="p-tb-label">
+<span class="vector-menu-heading-label">Инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="t-whatlinkshere"><a accesskey="j" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0" title="Список всех страниц, ссылающихся на данную [j]"><span>Ссылки сюда</span></a></li><li class="mw-list-item" id="t-recentchangeslinked"><a accesskey="k" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]"><span>Связанные правки</span></a></li><li class="mw-list-item" id="t-specialpages"><a accesskey="q" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]"><span>Служебные страницы</span></a></li><li class="mw-list-item" id="t-permalink"><a href="/w/index.php?title=%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0&amp;oldid=136424373" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li class="mw-list-item" id="t-info"><a href="/w/index.php?title=%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li class="mw-list-item" id="t-cite"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0&amp;id=136424373&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li class="mw-list-item" id="t-urlshortener"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%25A1%25D0%25B2%25D0%25BE%25D1%258F_%25D0%25B8%25D0%25B3%25D1%2580%25D0%25B0"><span>Получить короткий URL</span></a></li><li class="mw-list-item" id="t-urlshortener-qrcode"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%25A1%25D0%25B2%25D0%25BE%25D1%258F_%25D0%25B8%25D0%25B3%25D1%2580%25D0%25B0"><span>Скачать QR-код</span></a></li><li class="mw-list-item" id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q15271009" title="Ссылка на связанный элемент репозитория данных [g]"><span>Элемент Викиданных</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-coll-print_export-label" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" id="p-coll-print_export" role="navigation">
+<h3 class="vector-menu-heading" id="p-coll-print_export-label">
+<span class="vector-menu-heading-label">Печать/экспорт</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="coll-download-as-rl"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li class="mw-list-item" id="t-print"><a accesskey="p" href="/w/index.php?title=%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0&amp;printable=yes" title="Версия этой страницы для печати [p]"><span>Версия для печати</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-lang-label" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" id="p-lang" role="navigation">
+<h3 class="vector-menu-heading" id="p-lang-label">
+<span class="vector-menu-heading-label">На других языках</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="interlanguage-link interwiki-bg mw-list-item"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0" hreflang="bg" lang="bg" title="Своя игра — болгарский"><span>Български</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B3%D1%80%D0%B0" hreflang="uk" lang="uk" title="Своя гра — украинский"><span>Українська</span></a></li>
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q15271009#sitelinks-wikipedia" title="Править ссылки на другие языки">Править ссылки</a></span></div>
+</div>
+</nav>
+</div>
+</div>
+<footer class="mw-footer" id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 29 февраля 2024 в 10:31.</li>
+<li id="footer-info-copyright">Текст доступен по <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru" rel="license">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a><a href="//creativecommons.org/licenses/by-sa/4.0/" rel="license" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br/>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org/ru/">Фонд Викимедиа (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//ru.m.wikipedia.org/w/index.php?title=%D0%A1%D0%B2%D0%BE%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0&amp;mobileaction=toggle_view_mobile">Мобильная версия</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" loading="lazy" src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88"/></a></li>
+<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" loading="lazy" src="/static/images/footer/poweredby_mediawiki_88x31.png" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88"/></a></li>
+</ul>
+</footer>
+
+
+</body>
+</html>

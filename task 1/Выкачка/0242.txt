@@ -11,7 +11,7 @@
 <meta content="" name="ResourceLoaderDynamicStyles"/>
 
 
-<meta content="MediaWiki 1.42.0-wmf.18" name="generator"/>
+<meta content="MediaWiki 1.42.0-wmf.19" name="generator"/>
 <meta content="origin" name="referrer"/>
 <meta content="origin-when-cross-origin" name="referrer"/>
 <meta content="max-image-preview:standard" name="robots"/>
@@ -854,7 +854,7 @@
 <h2><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span><span class="mw-headline" id="Ссылки">Ссылки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9E%D1%81%D0%B5%D0%B2%D0%B0%D1%8F_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0_%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B0&amp;veaction=edit&amp;section=16" title="Редактировать раздел «Ссылки»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9E%D1%81%D0%B5%D0%B2%D0%B0%D1%8F_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0_%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B0&amp;action=edit&amp;section=16" title="Редактировать код раздела «Ссылки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
 <ul><li><a class="extiw" href="https://en.wikipedia.org/wiki/Whyte_notation" title="en:Whyte notation">Осевые формулы в американской системе Уайта</a>  <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small>.</li>
 <li><a class="extiw" href="https://en.wikipedia.org/wiki/UIC_classification" title="en:UIC classification">Осевые формулы в европейской системе UIC</a>  <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small>.</li></ul>
-<div aria-labelledby="Осевые_формулы_паровозов" class="navbox" data-name="Осевые формулы паровозов" role="navigation"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%9E%D1%81%D0%B5%D0%B2%D1%8B%D0%B5_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D1%8B_%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%BE%D0%B2" title="Перейти к шаблону «Осевые формулы паровозов»"><img alt="Перейти к шаблону «Осевые формулы паровозов»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span> </span><div id="Осевые_формулы_паровозов" style="font-size:114%;margin:0 5em"><a class="mw-selflink selflink">Осевые формулы</a> <a href="/wiki/%D0%9F%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7" title="Паровоз">паровозов</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1px">Однодвигательные модели</th><td class="navbox-list navbox-odd hlist hlist-items-nowrap" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<div aria-labelledby="Осевые_формулы_паровозов" class="navbox" data-name="Осевые формулы паровозов" role="navigation"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%9E%D1%81%D0%B5%D0%B2%D1%8B%D0%B5_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D1%8B_%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%BE%D0%B2" title="Перейти к шаблону «Осевые формулы паровозов»"><img alt="Перейти к шаблону «Осевые формулы паровозов»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span></span><div id="Осевые_формулы_паровозов" style="font-size:114%;margin:0 5em"><a class="mw-selflink selflink">Осевые формулы</a> <a href="/wiki/%D0%9F%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7" title="Паровоз">паровозов</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1px">Однодвигательные модели</th><td class="navbox-list navbox-odd hlist hlist-items-nowrap" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
 <ul><li><a href="/wiki/0-1-1" title="0-1-1">0-1-1</a></li>
 <li><a href="/wiki/1-1-0" title="1-1-0">1-1-0</a></li>
 <li><a href="/wiki/1-1-1" title="1-1-1">1-1-1</a></li>
@@ -946,38 +946,38 @@
 <table class="mbox-Нет_сносок plainlinks metadata ambox ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Emblem-important.svg"><img alt="" class="mw-file-element" data-file-height="48" data-file-width="48" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Emblem-important.svg/40px-Emblem-important.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Emblem-important.svg/60px-Emblem-important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Emblem-important.svg/80px-Emblem-important.svg.png 2x" width="40"/></a></span></div></td><td class="mbox-text"><div class="mbox-text-div">В статье есть список <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D1%82%D0%BD%D1%8B%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8" title="Википедия:Авторитетные источники">источников</a>, но <b>не хватает <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BD%D0%BE%D1%81%D0%BA%D0%B8" title="Википедия:Сноски">сносок</a></b>.</div><div class="mbox-textsmall-div hide-when-compact" style="font-size:85%"><span class="hide-when-compact"> Без сносок сложно <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D1%8F%D0%B5%D0%BC%D0%BE%D1%81%D1%82%D1%8C" title="Википедия:Проверяемость">определить, из какого источника</a> взято каждое отдельное утверждение. Вы можете улучшить статью, проставив <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D0%BD%D0%B0_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8" title="Википедия:Ссылки на источники">сноски на источники</a>, подтверждающие информацию. Сведения без сносок <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D1%82%D0%BD%D1%8B%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8#Материал_без_источников" title="Википедия:Авторитетные источники">могут быть удалены</a>.</span> <span class="mbox-date"><i>(<span class="date">3 июня 2011</span>)</i></span></div></td></tr></tbody></table>
 <!-- 
 NewPP limit report
-Parsed by mw‐api‐int.codfw.main‐c8bf9fb8b‐mbs4v
-Cached time: 20240207180829
+Parsed by mw1429
+Cached time: 20240226125626
 Cache expiry: 2592000
 Reduced expiry: false
 Complications: [show‐toc]
-CPU time usage: 0.174 seconds
-Real time usage: 0.224 seconds
-Preprocessor visited node count: 709/1000000
-Post‐expand include size: 20482/2097152 bytes
-Template argument size: 1268/2097152 bytes
+CPU time usage: 0.131 seconds
+Real time usage: 0.196 seconds
+Preprocessor visited node count: 686/1000000
+Post‐expand include size: 20227/2097152 bytes
+Template argument size: 1176/2097152 bytes
 Highest expansion depth: 11/100
 Expensive parser function count: 1/500
 Unstrip recursion depth: 0/20
 Unstrip post‐expand size: 1628/5000000 bytes
-Lua time usage: 0.033/10.000 seconds
-Lua memory usage: 1404678/52428800 bytes
+Lua time usage: 0.023/10.000 seconds
+Lua memory usage: 1281395/52428800 bytes
 Number of Wikibase entities loaded: 0/400
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  125.964      1 -total
- 27.47%   34.600      1 Шаблон:Нет_сносок
- 25.87%   32.582      1 Шаблон:Книга:Железнодорожный_транспорт:_Энциклопедия
- 23.82%   30.009      1 Шаблон:Ambox
- 23.49%   29.587      1 Шаблон:Книга
- 22.98%   28.952      1 Шаблон:Main
- 14.54%   18.309      1 Шаблон:Осевые_формулы_паровозов
- 13.10%   16.501      1 Шаблон:Навигационная_таблица
-  3.25%    4.097      2 Шаблон:Ref-en
-  2.24%    2.822      3 Шаблон:Lang-de
+100.00%  108.307      1 -total
+ 30.68%   33.226      1 Шаблон:Нет_сносок
+ 26.79%   29.020      1 Шаблон:Ambox
+ 26.31%   28.494      1 Шаблон:Книга:Железнодорожный_транспорт:_Энциклопедия
+ 23.77%   25.743      1 Шаблон:Книга
+ 23.56%   25.518      1 Шаблон:Main
+ 10.73%   11.618      1 Шаблон:Осевые_формулы_паровозов
+  8.47%    9.172      1 Шаблон:Навигационная_таблица
+  3.28%    3.558      2 Шаблон:Ref-en
+  2.29%    2.485      3 Шаблон:Lang-de
 -->
-<!-- Saved in parser cache with key ruwiki:pcache:idhash:356839-0!canonical and timestamp 20240207180829 and revision id 132601306. Rendering was triggered because: api-parse
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:356839-0!canonical and timestamp 20240226125626 and revision id 132601306. Rendering was triggered because: page-view
  -->
 </div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> -->
 <div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Осевая_формула_паровоза&amp;oldid=132601306">https://ru.wikipedia.org/w/index.php?title=Осевая_формула_паровоза&amp;oldid=132601306</a></div></div>

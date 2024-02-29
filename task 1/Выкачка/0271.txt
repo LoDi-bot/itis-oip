@@ -11,7 +11,7 @@
 <meta content="" name="ResourceLoaderDynamicStyles"/>
 
 
-<meta content="MediaWiki 1.42.0-wmf.18" name="generator"/>
+<meta content="MediaWiki 1.42.0-wmf.19" name="generator"/>
 <meta content="origin" name="referrer"/>
 <meta content="origin-when-cross-origin" name="referrer"/>
 <meta content="max-image-preview:standard" name="robots"/>
@@ -93,32 +93,32 @@
 <tr>
 <th class="plainlist" scope="row">Статей</th>
 <td class="plainlist">
-<span class="nowrap">2 883 229 шт. (3-е место)</span></td>
+<span class="nowrap">2 886 548 шт. (3-е место)</span></td>
 </tr>
 <tr>
 <th class="plainlist" scope="row">Файлов</th>
 <td class="plainlist">
-129 320 шт.</td>
+129 031 шт.</td>
 </tr>
 <tr>
 <th class="plainlist" scope="row">Страниц</th>
 <td class="plainlist">
-7 949 474 шт.</td>
+7 958 039 шт.</td>
 </tr>
 <tr>
 <th class="plainlist" scope="row">Число правок</th>
 <td class="plainlist">
-240 715 041 шт.</td>
+241 059 070 шт.</td>
 </tr>
 <tr>
 <th class="plainlist" scope="row">Участников с учётными записями</th>
 <td class="plainlist">
-4 315 708 чел.</td>
+4 322 137 чел.</td>
 </tr>
 <tr>
 <th class="plainlist" scope="row">Активных участников</th>
 <td class="plainlist">
-18 750 чел.</td>
+18 683 чел.</td>
 </tr>
 <tr>
 <th class="plainlist" scope="row">Администраторов</th>
@@ -134,7 +134,7 @@
 <p><b>Неме́цкая Википе́дия</b> — раздел <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F" title="Википедия">Википедии</a> на <a href="/wiki/%D0%9D%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Немецкий язык">немецком языке</a>. Создан 16 марта 2001 года. Первая статья появилась на следующий день, 17 марта.
 </p><p>Второй по числу статей (без <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%91%D0%BE%D1%82%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F" title="Википедия:Ботопедия">ботопедий</a>) и правок раздел после <a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">английского</a>. Третий по посещаемости после английского и японского. Крупнейшая полностью европейская Википедия<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup>. 
 </p><p>23 ноября 2006 года была написана <a class="extiw" href="https://de.wikipedia.org/wiki/Wikipedia:Meilensteine" title="de:Wikipedia:Meilensteine">полумиллионная статья</a> — о польской конькобежке <a href="/wiki/%D0%9A%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%86%D0%BA%D0%B0%D1%8F,_%D0%AF%D0%BD%D0%B8%D0%BD%D0%B0" title="Коровицкая, Янина">Янине Коровицкой</a>, а 23 декабря 2009 года — <a class="extiw" href="https://de.wikipedia.org/wiki/Wikipedia:Meilensteine" title="de:Wikipedia:Meilensteine">миллионная статья</a> об американском ботанике Эрни Вассоне (<a class="extiw" href="https://de.wikipedia.org/wiki/Ernie_Wasson" title="de:Ernie Wasson">Ernie Wasson</a>), 18 ноября 2012 года — <a class="extiw" href="https://de.wikipedia.org/wiki/Wikipedia:Meilensteine" title="de:Wikipedia:Meilensteine">полуторамиллионная статья</a> о <a class="extiw" href="https://de.wikipedia.org/wiki/Baracke_Wilhelmine" title="de:Baracke Wilhelmine">Baracke Wilhelmine</a>, 19 ноября 2016 года — <a class="extiw" href="https://de.wikipedia.org/wiki/Wikipedia:Meilensteine" title="de:Wikipedia:Meilensteine">двухмиллионная статья</a> о минерале <span data-interwiki-article="Michenerit" data-interwiki-lang="de"><a class="new" href="/w/index.php?title=%D0%9C%D0%B0%D0%B9%D1%87%D0%BD%D0%B5%D1%80%D0%B8%D1%82&amp;action=edit&amp;redlink=1" title="Майчнерит (страница отсутствует)">Майчнерите</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://de.wikipedia.org/wiki/Michenerit" title="de:Michenerit"><span title="Michenerit — версия статьи «Майчнерит» на немецком языке">[de]</span></a></sup></span>. 
-</p><p>На сегодняшний день количество статей в немецкой Википедии составляет 2 883 229<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup>, это третье место среди всех разделов. Всего зарегистрировано 4 315 708 участников (4-е место), из них 18 750 активных участников (2-е место).
+</p><p>На сегодняшний день количество статей в немецкой Википедии составляет 2 886 548<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup>, это третье место среди всех разделов. Всего зарегистрировано 4 322 137 участников (4-е место), из них 18 683 активных участников (2-е место).
 </p>
 <div aria-labelledby="mw-toc-heading" class="toc" id="toc" role="navigation"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="ru"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
 <ul>
@@ -174,7 +174,7 @@
 <h2><span id=".D0.A0.D0.B0.D0.B7.D0.BC.D0.B5.D1.80_.D0.B8_.D0.B4.D1.80.D1.83.D0.B3.D0.B8.D0.B5_.D1.85.D0.B0.D1.80.D0.B0.D0.BA.D1.82.D0.B5.D1.80.D0.B8.D1.81.D1.82.D0.B8.D0.BA.D0.B8"></span><span class="mw-headline" id="Размер_и_другие_характеристики">Размер и другие характеристики</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9D%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%B0%D1%8F_%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F&amp;veaction=edit&amp;section=1" title="Редактировать раздел «Размер и другие характеристики»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9D%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%B0%D1%8F_%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F&amp;action=edit&amp;section=1" title="Редактировать код раздела «Размер и другие характеристики»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
 <p>По состоянию на октябрь 2021 года в немецком разделе Википедии содержится более 2,6 млн статей, четвёртое место после <a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F" title="Английская Википедия">английского раздела</a>, <a href="/wiki/%D0%A1%D0%B5%D0%B1%D1%83%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F" title="Себуанская Википедия">себуанской</a> и <a href="/wiki/%D0%A8%D0%B2%D0%B5%D0%B4%D1%81%D0%BA%D0%B0%D1%8F_%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F" title="Шведская Википедия">шведской</a> Википедий (последние две обогнали её в результате <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%91%D0%BE%D1%82%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F" title="Википедия:Ботопедия">ботозаливки</a> 18 июля 2014 года).
 </p><p>По состоянию на ноябрь 2009 года в немецком разделе 97 % статей содержали более чем 200 символов<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup>, 89 % статей больше 512 <a href="/wiki/%D0%91%D0%B0%D0%B9%D1%82" title="Байт">байтов</a><sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup>, 51 % статей больше 2 кб<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup>, средний размер статьи составлял 3634 байта<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup>. По большинству этих параметров немецкая Википедия находится на первом-втором месте среди больших Википедий<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup>.
-</p><p>Причина этому<sup class="ts-fix-template noprint">[<i><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D0%BD%D0%B0_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8" title="Википедия:Ссылки на источники"><span title="нет источника (20 сентября 2012)">источник не указан 4168 дней</span></a></i>]</sup> — жёсткая политика удалений и политика неприятия коротких статей. По общему количеству правок и числу правок в день немецкая Википедия также стоит на втором месте, число правок на сегодняшний день составило 240 715 041.
+</p><p>Причина этому<sup class="ts-fix-template noprint">[<i><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D0%BD%D0%B0_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8" title="Википедия:Ссылки на источники"><span title="нет источника (20 сентября 2012)">источник не указан 4178 дней</span></a></i>]</sup> — жёсткая политика удалений и политика неприятия коротких статей. По общему количеству правок и числу правок в день немецкая Википедия также стоит на втором месте, число правок на сегодняшний день составило 241 059 070.
 </p><p>Оценивая качество статей в немецкой Википедии в 2009 году, основатель Википедии <a href="/wiki/%D0%A3%D1%8D%D0%B9%D0%BB%D1%81,_%D0%94%D0%B6%D0%B8%D0%BC%D0%BC%D0%B8" title="Уэйлс, Джимми">Джимми Уэйлс</a> отметил: «Я нахожу, что немецкая Википедия имеет лучшее качество по сравнению с англоязычной, а её авторы — аккуратнее и чётче в формулировках»<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup>.
 </p>
 <h2><span id=".D0.AF.D0.B7.D1.8B.D0.BA"></span><span class="mw-headline" id="Язык">Язык</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9D%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%B0%D1%8F_%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Язык»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9D%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%B0%D1%8F_%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F&amp;action=edit&amp;section=2" title="Редактировать код раздела «Язык»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
@@ -360,7 +360,7 @@
 </ol></div></div>
 <h2><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span><span class="mw-headline" id="Ссылки">Ссылки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9D%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%B0%D1%8F_%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F&amp;veaction=edit&amp;section=19" title="Редактировать раздел «Ссылки»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9D%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%B0%D1%8F_%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F&amp;action=edit&amp;section=19" title="Редактировать код раздела «Ссылки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
 <ul><li><a class="external text" href="https://stats.wikimedia.org/RU/ChartsWikipediaDE.htm">Диаграммы статистики немецкой Википедии</a> <a class="external text" href="https://web.archive.org/web/20110408060657/http://stats.wikimedia.org/RU/ChartsWikipediaDE.htm" rel="nofollow">Архивная копия</a> от 8 апреля 2011 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></li></ul>
-<div aria-labelledby="Разделы_Википедии,_содержащие_более_100_000_статей_(по_количеству_статей)" class="navbox" data-name="Крупнейшие Википедии" role="navigation"><table class="nowraplinks hlist hlist-items-nowrap collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="3" scope="colgroup"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%9A%D1%80%D1%83%D0%BF%D0%BD%D0%B5%D0%B9%D1%88%D0%B8%D0%B5_%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D0%B8" title="Перейти к шаблону «Крупнейшие Википедии»"><img alt="Перейти к шаблону «Крупнейшие Википедии»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span> </span><div id="Разделы_Википедии,_содержащие_более_100_000_статей_(по_количеству_статей)" style="font-size:114%;margin:0 5em"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D0%B9" title="Википедия:Список Википедий">Разделы</a> <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F" title="Википедия">Википедии</a>, содержащие более 100 000 статей (по количеству статей)</div></th></tr><tr><th class="navbox-group" scope="row" style="width:1px">5 000 000+</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<div aria-labelledby="Разделы_Википедии,_содержащие_более_100_000_статей_(по_количеству_статей)" class="navbox" data-name="Крупнейшие Википедии" role="navigation"><table class="nowraplinks hlist hlist-items-nowrap collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="3" scope="colgroup"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%9A%D1%80%D1%83%D0%BF%D0%BD%D0%B5%D0%B9%D1%88%D0%B8%D0%B5_%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D0%B8" title="Перейти к шаблону «Крупнейшие Википедии»"><img alt="Перейти к шаблону «Крупнейшие Википедии»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span></span><div id="Разделы_Википедии,_содержащие_более_100_000_статей_(по_количеству_статей)" style="font-size:114%;margin:0 5em"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D0%B9" title="Википедия:Список Википедий">Разделы</a> <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F" title="Википедия">Википедии</a>, содержащие более 100 000 статей (по количеству статей)</div></th></tr><tr><th class="navbox-group" scope="row" style="width:1px">5 000 000+</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
 <ul><li><a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F" title="Английская Википедия">Английский</a> (<a class="extiw" href="https://en.wikipedia.org/wiki/" title="en:">en</a>)</li>
 <li><a href="/wiki/%D0%A1%D0%B5%D0%B1%D1%83%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F" title="Себуанская Википедия">Себуанский</a> (<a class="extiw" href="https://ceb.wikipedia.org/wiki/" title="ceb:">ceb</a>)</li></ul>
 </div></td><td class="navbox-image" rowspan="6" style="width:1px;padding:0px 0px 0px 7px"><div><span typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Wikipedia-logo-v2.svg" title="Логотип Википедии"><img alt="Логотип Википедии" class="mw-file-element" data-file-height="94" data-file-width="103" decoding="async" height="55" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/60px-Wikipedia-logo-v2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/90px-Wikipedia-logo-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/120px-Wikipedia-logo-v2.svg.png 2x" width="60"/></a></span></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">2 500 000+</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
@@ -442,7 +442,7 @@
 <li><b><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D0%B8_1000%E2%80%9410000" title="Шаблон:Википедии 1000—10000">от 1000 до 10 000 статей</a></b></li>
 <li><b><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D0%B8_10000%E2%80%94100000" title="Шаблон:Википедии 10000—100000">от 10 000 до 100 000 статей</a></b></li></ul>
 </div></td></tr></tbody></table></div>
-<div aria-labelledby="Германские_Википедии" class="navbox" data-name="Германские Википедии" role="navigation"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D0%B8" title="Перейти к шаблону «Германские Википедии»"><img alt="Перейти к шаблону «Германские Википедии»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span> </span><div id="Германские_Википедии" style="font-size:114%;margin:0 5em"><a href="/wiki/%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8" title="Германские языки">Германские</a> <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D0%B9" title="Википедия:Список Википедий">Википедии</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%BE-%D1%84%D1%80%D0%B8%D0%B7%D1%81%D0%BA%D0%B8%D0%B5_%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8" title="Англо-фризские языки">Англо-фризские</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<div aria-labelledby="Германские_Википедии" class="navbox" data-name="Германские Википедии" role="navigation"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D0%B8" title="Перейти к шаблону «Германские Википедии»"><img alt="Перейти к шаблону «Германские Википедии»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span></span><div id="Германские_Википедии" style="font-size:114%;margin:0 5em"><a href="/wiki/%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8" title="Германские языки">Германские</a> <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D0%B9" title="Википедия:Список Википедий">Википедии</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%BE-%D1%84%D1%80%D0%B8%D0%B7%D1%81%D0%BA%D0%B8%D0%B5_%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8" title="Англо-фризские языки">Англо-фризские</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
 <ul><li><a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F" title="Английская Википедия">Английская</a> (<a class="extiw" href="https://en.wikipedia.org/wiki/" title="en:">en</a>)</li>
 <li><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F_%D0%BD%D0%B0_%D1%83%D0%BF%D1%80%D0%BE%D1%89%D1%91%D0%BD%D0%BD%D0%BE%D0%BC_%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%BC_%D1%8F%D0%B7%D1%8B%D0%BA%D0%B5" title="Википедия на упрощённом английском языке">Упрощённый английский</a> (<a class="extiw" href="https://simple.wikipedia.org/wiki/" title="simple:">simple</a>)</li>
 <li><span data-interwiki-article="Q2602203" data-interwiki-lang="d"><a class="new" href="/w/index.php?title=%D0%97%D0%B0%D0%BF%D0%B0%D0%B4%D0%BD%D0%BE%D1%84%D1%80%D0%B8%D0%B7%D1%81%D0%BA%D0%B0%D1%8F_%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F&amp;action=edit&amp;redlink=1" title="Западнофризская Википедия (страница отсутствует)">Западнофризская</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://www.wikidata.org/wiki/Q2602203#sitelinks-wikipedia" title="d:Q2602203"><span title="Элемент статьи «Западнофризская Википедия» в Викиданных">[d]</span></a></sup></span> (<a class="extiw" href="https://fy.wikipedia.org/wiki/" title="fy:">fy</a>)</li>
@@ -478,38 +478,38 @@
 </div></td></tr></tbody></table></div>
 <!-- 
 NewPP limit report
-Parsed by mw‐api‐int.codfw.main‐5cbdb975d8‐8gng8
-Cached time: 20240218012959
+Parsed by mw1369
+Cached time: 20240228164119
 Cache expiry: 2592000
 Reduced expiry: false
 Complications: [show‐toc]
-CPU time usage: 0.578 seconds
-Real time usage: 0.778 seconds
-Preprocessor visited node count: 4837/1000000
-Post‐expand include size: 130364/2097152 bytes
-Template argument size: 10107/2097152 bytes
+CPU time usage: 0.683 seconds
+Real time usage: 0.931 seconds
+Preprocessor visited node count: 4791/1000000
+Post‐expand include size: 129882/2097152 bytes
+Template argument size: 9951/2097152 bytes
 Highest expansion depth: 15/100
 Expensive parser function count: 10/500
 Unstrip recursion depth: 0/20
 Unstrip post‐expand size: 18561/5000000 bytes
-Lua time usage: 0.335/10.000 seconds
-Lua memory usage: 8662518/52428800 bytes
+Lua time usage: 0.402/10.000 seconds
+Lua memory usage: 7939369/52428800 bytes
 Number of Wikibase entities loaded: 5/400
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  653.462      1 -total
- 53.99%  352.790      1 Шаблон:Раздел_Википедии
- 51.29%  335.173      1 Шаблон:Карточка
- 21.30%  139.216     26 Шаблон:Wikidata
- 14.99%   97.959     18 Шаблон:NUMBEROF
-  7.98%   52.141      1 Шаблон:Карточка/оригинал_названия
-  7.71%   50.364      2 Шаблон:Навигационная_таблица
-  6.09%   39.827      1 Шаблон:Нет_АИ
-  5.65%   36.889      1 Шаблон:Германские_Википедии
-  5.57%   36.389      1 Шаблон:Ориссный_раздел
+100.00%  781.539      1 -total
+ 47.24%  369.225      1 Шаблон:Раздел_Википедии
+ 45.58%  356.216      1 Шаблон:Карточка
+ 15.42%  120.479     18 Шаблон:NUMBEROF
+ 15.17%  118.583     26 Шаблон:Wikidata
+ 11.79%   92.149      2 Шаблон:Навигационная_таблица
+  8.76%   68.453      1 Шаблон:Германские_Википедии
+  7.57%   59.128     11 Шаблон:Iw
+  6.48%   50.645      1 Шаблон:Нет_АИ
+  6.43%   50.264      1 Шаблон:Ориссный_раздел
 -->
-<!-- Saved in parser cache with key ruwiki:pcache:idhash:277982-0!canonical and timestamp 20240218012959 and revision id 134077382. Rendering was triggered because: api-parse
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:277982-0!canonical and timestamp 20240228164119 and revision id 134077382. Rendering was triggered because: page-view
  -->
 </div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> -->
 <div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Немецкая_Википедия&amp;oldid=134077382">https://ru.wikipedia.org/w/index.php?title=Немецкая_Википедия&amp;oldid=134077382</a></div></div>

@@ -11,7 +11,7 @@
 <meta content="" name="ResourceLoaderDynamicStyles"/>
 
 
-<meta content="MediaWiki 1.42.0-wmf.18" name="generator"/>
+<meta content="MediaWiki 1.42.0-wmf.19" name="generator"/>
 <meta content="origin" name="referrer"/>
 <meta content="origin-when-cross-origin" name="referrer"/>
 <meta content="max-image-preview:standard" name="robots"/>
@@ -160,13 +160,13 @@
 <li><a class="external text" href="http://www.sfcovers.net/Magazines/ASF/navbar.htm" rel="nofollow">Галерея обложек журнала на sfcovers.net</a></li></ul>
 <!-- 
 NewPP limit report
-Parsed by mw‐web.codfw.main‐7db646ff48‐h2wzn
-Cached time: 20240218073157
+Parsed by mw‐web.codfw.main‐6c48d7fb95‐hkmgw
+Cached time: 20240224012213
 Cache expiry: 2592000
 Reduced expiry: false
 Complications: [vary‐revision‐sha1, show‐toc]
-CPU time usage: 0.591 seconds
-Real time usage: 0.872 seconds
+CPU time usage: 0.588 seconds
+Real time usage: 0.797 seconds
 Preprocessor visited node count: 3154/1000000
 Post‐expand include size: 37852/2097152 bytes
 Template argument size: 6479/2097152 bytes
@@ -174,24 +174,24 @@ Highest expansion depth: 23/100
 Expensive parser function count: 17/500
 Unstrip recursion depth: 0/20
 Unstrip post‐expand size: 6987/5000000 bytes
-Lua time usage: 0.417/10.000 seconds
-Lua memory usage: 10212848/52428800 bytes
+Lua time usage: 0.406/10.000 seconds
+Lua memory usage: 10724849/52428800 bytes
 Number of Wikibase entities loaded: 15/400
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  816.137      1 -total
- 74.77%  610.193      1 Шаблон:Журнал
- 69.96%  570.956      1 Шаблон:Карточка
- 14.59%  119.041      1 Шаблон:Нет_источников
-  8.29%   67.671      1 Шаблон:Сортировка:_статьи_без_источников
-  8.08%   65.914      2 Шаблон:Курсив_или_нет
-  7.82%   63.831      6 Шаблон:Wikidata
-  7.47%   60.926      1 Шаблон:Сортировка:_по_странам
-  5.81%   47.430      3 Шаблон:Книга
-  4.35%   35.499      1 Шаблон:Ambox
+100.00%  741.053      1 -total
+ 76.35%  565.769      1 Шаблон:Журнал
+ 70.53%  522.689      1 Шаблон:Карточка
+ 12.92%   95.713      6 Шаблон:Wikidata
+ 12.61%   93.455      2 Шаблон:Курсив_или_нет
+ 11.98%   88.784      1 Шаблон:Нет_источников
+  8.26%   61.182      1 Шаблон:Карточка/оригинал_названия_произведения
+  6.33%   46.935      3 Шаблон:Книга
+  5.39%   39.924      1 Шаблон:Сортировка:_статьи_без_источников
+  4.71%   34.930      1 Шаблон:Ambox
 -->
-<!-- Saved in parser cache with key ruwiki:pcache:idhash:133039-0!canonical and timestamp 20240218073157 and revision id 135334469. Rendering was triggered because: page-view
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:133039-0!canonical and timestamp 20240224012213 and revision id 135334469. Rendering was triggered because: page-view
  -->
 </div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> -->
 <div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Analog_Science_Fiction_and_Fact&amp;oldid=135334469">https://ru.wikipedia.org/w/index.php?title=Analog_Science_Fiction_and_Fact&amp;oldid=135334469</a></div></div>

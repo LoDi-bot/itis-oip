@@ -11,7 +11,7 @@
 <meta content="" name="ResourceLoaderDynamicStyles"/>
 
 
-<meta content="MediaWiki 1.42.0-wmf.18" name="generator"/>
+<meta content="MediaWiki 1.42.0-wmf.19" name="generator"/>
 <meta content="origin" name="referrer"/>
 <meta content="origin-when-cross-origin" name="referrer"/>
 <meta content="max-image-preview:standard" name="robots"/>
@@ -319,7 +319,7 @@
 </td>
 <td align="center" width="30%">Следующий полёт:<br/><b><a class="mw-redirect" href="/wiki/%D0%90%D1%82%D0%BB%D0%B0%D0%BD%D1%82%D0%B8%D1%81_STS-115" title="Атлантис STS-115">Атлантис STS-115</a></b>
 </td></tr></tbody></table>
-<div aria-labelledby="Пилотируемые_космические_полёты_к_Международной_космической_станции" class="navbox" data-name="Пилотируемые полёты к МКС" role="navigation"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%9F%D0%B8%D0%BB%D0%BE%D1%82%D0%B8%D1%80%D1%83%D0%B5%D0%BC%D1%8B%D0%B5_%D0%BF%D0%BE%D0%BB%D1%91%D1%82%D1%8B_%D0%BA_%D0%9C%D0%9A%D0%A1" title="Перейти к шаблону «Пилотируемые полёты к МКС»"><img alt="Перейти к шаблону «Пилотируемые полёты к МКС»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span> </span><div id="Пилотируемые_космические_полёты_к_Международной_космической_станции" style="font-size:114%;margin:0 5em"><a href="/wiki/%D0%9F%D0%B8%D0%BB%D0%BE%D1%82%D0%B8%D1%80%D1%83%D0%B5%D0%BC%D1%8B%D0%B9_%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%BE%D0%BB%D1%91%D1%82" title="Пилотируемый космический полёт">Пилотируемые космические полёты</a> к <a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F" title="Международная космическая станция">Международной космической станции</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1px">1998—2004</th><td class="navbox-list navbox-odd hlist hlist-items-nowrap" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<div aria-labelledby="Пилотируемые_космические_полёты_к_Международной_космической_станции" class="navbox" data-name="Пилотируемые полёты к МКС" role="navigation"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%9F%D0%B8%D0%BB%D0%BE%D1%82%D0%B8%D1%80%D1%83%D0%B5%D0%BC%D1%8B%D0%B5_%D0%BF%D0%BE%D0%BB%D1%91%D1%82%D1%8B_%D0%BA_%D0%9C%D0%9A%D0%A1" title="Перейти к шаблону «Пилотируемые полёты к МКС»"><img alt="Перейти к шаблону «Пилотируемые полёты к МКС»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span></span><div id="Пилотируемые_космические_полёты_к_Международной_космической_станции" style="font-size:114%;margin:0 5em"><a href="/wiki/%D0%9F%D0%B8%D0%BB%D0%BE%D1%82%D0%B8%D1%80%D1%83%D0%B5%D0%BC%D1%8B%D0%B9_%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%BE%D0%BB%D1%91%D1%82" title="Пилотируемый космический полёт">Пилотируемые космические полёты</a> к <a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F" title="Международная космическая станция">Международной космической станции</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1px">1998—2004</th><td class="navbox-list navbox-odd hlist hlist-items-nowrap" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
 <ul><li>1998
 <ul><li><a href="/wiki/STS-88" title="STS-88">STS-88</a></li></ul></li>
 <li>1999
@@ -480,7 +480,7 @@
 <ul><li><a class="mw-redirect" href="/wiki/SpaceX_Crew-10" title="SpaceX Crew-10">SpaceX Crew-10</a></li>
 <li><a href="/wiki/Boeing_Starliner-1" title="Boeing Starliner-1">Boeing Starliner-1</a></li></ul></li></ul>
 </div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>Текущие полёты выделены <b>полужирным</b> начертанием, <span style="background-color: pink; color: ; text-decoration: inherit; -moz-text-decoration-color: ; text-decoration-color: ; font-size: {{{4}}}%">розовым</span> — не достигшие МКС корабли</div></td></tr></tbody></table></div>
-<div aria-labelledby="Полёты_многоразовых_космических_кораблей_«Спейс_шаттл»" class="navbox" data-name="Серия КА Спейс шаттл" role="navigation"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%A1%D0%B5%D1%80%D0%B8%D1%8F_%D0%9A%D0%90_%D0%A1%D0%BF%D0%B5%D0%B9%D1%81_%D1%88%D0%B0%D1%82%D1%82%D0%BB" title="Перейти к шаблону «Серия КА Спейс шаттл»"><img alt="Перейти к шаблону «Серия КА Спейс шаттл»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span> </span><div id="Полёты_многоразовых_космических_кораблей_«Спейс_шаттл»" style="font-size:114%;margin:0 5em"><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D0%BE%D0%BB%D1%91%D1%82%D0%BE%D0%B2_%D0%BF%D0%BE_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B5_%C2%AB%D0%A1%D0%BF%D0%B5%D0%B9%D1%81_%D0%A8%D0%B0%D1%82%D1%82%D0%BB%C2%BB" title="Список полётов по программе «Спейс Шаттл»">Полёты</a> <a class="mw-redirect" href="/wiki/%D0%9C%D0%BD%D0%BE%D0%B3%D0%BE%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9_%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C" title="Многоразовый транспортный космический корабль">многоразовых космических кораблей</a> «<a href="/wiki/%D0%A1%D0%BF%D0%B5%D0%B9%D1%81_%D1%88%D0%B0%D1%82%D1%82%D0%BB" title="Спейс шаттл">Спейс шаттл</a>»</div></th></tr><tr><th class="navbox-group" scope="row" style="width:1px">1981—1986</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<div aria-labelledby="Полёты_многоразовых_космических_кораблей_«Спейс_шаттл»" class="navbox" data-name="Серия КА Спейс шаттл" role="navigation"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%A1%D0%B5%D1%80%D0%B8%D1%8F_%D0%9A%D0%90_%D0%A1%D0%BF%D0%B5%D0%B9%D1%81_%D1%88%D0%B0%D1%82%D1%82%D0%BB" title="Перейти к шаблону «Серия КА Спейс шаттл»"><img alt="Перейти к шаблону «Серия КА Спейс шаттл»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span></span><div id="Полёты_многоразовых_космических_кораблей_«Спейс_шаттл»" style="font-size:114%;margin:0 5em"><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D0%BE%D0%BB%D1%91%D1%82%D0%BE%D0%B2_%D0%BF%D0%BE_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B5_%C2%AB%D0%A1%D0%BF%D0%B5%D0%B9%D1%81_%D0%A8%D0%B0%D1%82%D1%82%D0%BB%C2%BB" title="Список полётов по программе «Спейс Шаттл»">Полёты</a> <a class="mw-redirect" href="/wiki/%D0%9C%D0%BD%D0%BE%D0%B3%D0%BE%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9_%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C" title="Многоразовый транспортный космический корабль">многоразовых космических кораблей</a> «<a href="/wiki/%D0%A1%D0%BF%D0%B5%D0%B9%D1%81_%D1%88%D0%B0%D1%82%D1%82%D0%BB" title="Спейс шаттл">Спейс шаттл</a>»</div></th></tr><tr><th class="navbox-group" scope="row" style="width:1px">1981—1986</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
 <ul><li><a href="/wiki/STS-1" title="STS-1">STS-1</a></li>
 <li><a href="/wiki/STS-2" title="STS-2">STS-2</a></li>
 <li><a href="/wiki/STS-3" title="STS-3">STS-3</a></li>
@@ -622,7 +622,7 @@
 <li><a href="/wiki/STS-134" title="STS-134">STS-134</a></li>
 <li><a href="/wiki/STS-135" title="STS-135">STS-135</a></li></ul>
 </div></td></tr></tbody></table></div>
-<div aria-labelledby="*_←_2005_*_Космические_запуски_в_2006_году_*_2007_→" class="navbox" data-name="Космические запуски в 2006" role="navigation"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%9A%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D0%BA%D0%B8_%D0%B2_2006" title="Перейти к шаблону «Космические запуски в 2006»"><img alt="Перейти к шаблону «Космические запуски в 2006»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span> </span><div id="*_←_2005_*_Космические_запуски_в_2006_году_*_2007_→" style="font-size:114%;margin:0 5em"><div class="hlist">
+<div aria-labelledby="*_←_2005_*_Космические_запуски_в_2006_году_*_2007_→" class="navbox" data-name="Космические запуски в 2006" role="navigation"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%9A%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D0%BA%D0%B8_%D0%B2_2006" title="Перейти к шаблону «Космические запуски в 2006»"><img alt="Перейти к шаблону «Космические запуски в 2006»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span></span><div id="*_←_2005_*_Космические_запуски_в_2006_году_*_2007_→" style="font-size:114%;margin:0 5em"><div class="hlist">
 <ul><li><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%9A%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D0%BA%D0%B8_%D0%B2_2005" title="Шаблон:Космические запуски в 2005">← <small>2005</small></a></li>
 <li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85_%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D0%BA%D0%BE%D0%B2_%D0%B2_2006_%D0%B3%D0%BE%D0%B4%D1%83" title="Список космических запусков в 2006 году">Космические запуски в 2006 году</a></li>
 <li><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%9A%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D0%BA%D0%B8_%D0%B2_2007" title="Шаблон:Космические запуски в 2007"><small>2007</small> →</a></li></ul></div></div></th></tr><tr><td class="navbox-list navbox-odd hlist hlist-items-nowrap" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
@@ -694,38 +694,38 @@
 </div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><span style="display:inline-block"> Аппараты, выведенные одной ракетой, разделены запятой (<span style="padding:0 2px;"><b>,</b></span>), запуски — интерпунктом (<span style="padding:0 2px;">·</span>). </span><span style="display:inline-block"><b>Пилотируемые полёты</b> выделены жирным начертанием. </span><span style="display:inline-block"><i>Неудачные запуски</i> выделены наклонным начертанием. </span></div></td></tr></tbody></table></div>
 <!-- 
 NewPP limit report
-Parsed by mw‐web.codfw.main‐7db646ff48‐mk67t
-Cached time: 20240218185030
+Parsed by mw‐api‐int.codfw.main‐6466bc5b57‐pvk5z
+Cached time: 20240227022549
 Cache expiry: 2592000
 Reduced expiry: false
 Complications: [vary‐revision‐sha1, show‐toc]
-CPU time usage: 0.406 seconds
-Real time usage: 0.571 seconds
-Preprocessor visited node count: 2849/1000000
-Post‐expand include size: 100053/2097152 bytes
-Template argument size: 9560/2097152 bytes
+CPU time usage: 0.360 seconds
+Real time usage: 0.521 seconds
+Preprocessor visited node count: 2780/1000000
+Post‐expand include size: 99306/2097152 bytes
+Template argument size: 9302/2097152 bytes
 Highest expansion depth: 20/100
 Expensive parser function count: 12/500
 Unstrip recursion depth: 0/20
 Unstrip post‐expand size: 6750/5000000 bytes
-Lua time usage: 0.184/10.000 seconds
-Lua memory usage: 5417700/52428800 bytes
+Lua time usage: 0.155/10.000 seconds
+Lua memory usage: 5658336/52428800 bytes
 Number of Wikibase entities loaded: 11/400
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  411.427      1 -total
- 60.31%  248.119      1 Шаблон:Космическая_экспедиция
- 58.50%  240.692      1 Шаблон:Карточка
- 17.02%   70.025      8 Шаблон:Wikidata
- 10.65%   43.811      1 Шаблон:Примечания
-  9.09%   37.415      3 Шаблон:Навигационная_таблица
-  8.75%   36.015      5 Шаблон:Cite_web
-  7.15%   29.431      1 Шаблон:Значения
-  6.87%   28.273      1 Шаблон:Навигация
-  6.26%   25.758      1 Шаблон:Другое_значение
+100.00%  374.918      1 -total
+ 56.82%  213.026      1 Шаблон:Космическая_экспедиция
+ 55.20%  206.946      1 Шаблон:Карточка
+ 16.16%   60.601      8 Шаблон:Wikidata
+ 10.54%   39.519      1 Шаблон:Примечания
+  8.59%   32.213      5 Шаблон:Cite_web
+  8.08%   30.298      1 Шаблон:Навигация
+  7.95%   29.791      3 Шаблон:Навигационная_таблица
+  7.13%   26.739      1 Шаблон:Значения
+  6.29%   23.591      1 Шаблон:Другое_значение
 -->
-<!-- Saved in parser cache with key ruwiki:pcache:idhash:162729-0!canonical and timestamp 20240218185030 and revision id 127854593. Rendering was triggered because: page-view
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:162729-0!canonical and timestamp 20240227022549 and revision id 127854593. Rendering was triggered because: api-parse
  -->
 </div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> -->
 <div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=STS-121&amp;oldid=127854593">https://ru.wikipedia.org/w/index.php?title=STS-121&amp;oldid=127854593</a></div></div>

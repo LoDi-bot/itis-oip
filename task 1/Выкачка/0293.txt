@@ -11,7 +11,7 @@
 <meta content="" name="ResourceLoaderDynamicStyles"/>
 
 
-<meta content="MediaWiki 1.42.0-wmf.18" name="generator"/>
+<meta content="MediaWiki 1.42.0-wmf.19" name="generator"/>
 <meta content="origin" name="referrer"/>
 <meta content="origin-when-cross-origin" name="referrer"/>
 <meta content="max-image-preview:standard" name="robots"/>
@@ -443,14 +443,14 @@
 <h2><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span><span class="mw-headline" id="Ссылки">Ссылки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9D%D0%B8%D0%B1%D0%B5%D0%BB%D1%83%D0%BD%D0%B3%D0%B8_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1924)&amp;veaction=edit&amp;section=25" title="Редактировать раздел «Ссылки»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9D%D0%B8%D0%B1%D0%B5%D0%BB%D1%83%D0%BD%D0%B3%D0%B8_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1924)&amp;action=edit&amp;section=25" title="Редактировать код раздела «Ссылки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
 <ul><li><a class="extiw" href="https://www.imdb.com/title/tt0015175/" title="imdbtitle:0015175"><i>Die Nibelungen: Siegfried</i></a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small> на сайте <a href="/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
 <li><a class="extiw" href="https://www.imdb.com/title/tt0015174/" title="imdbtitle:0015174"><i>Die Nibelungen: Kriemhilds Rache</i></a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small> на сайте <a href="/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li></ul>
-<div aria-labelledby="Ссылки_на_внешние_ресурсы" class="navbox" data-name="External links" role="navigation" style="padding-top:1px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup" style="display:none"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:External_links" title="Перейти к шаблону «External links»"><img alt="Перейти к шаблону «External links»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span> </span><div id="Ссылки_на_внешние_ресурсы" style="font-size:114%;margin:0 5em">Ссылки на внешние ресурсы</div></th></tr><tr><th class="navbox-group" scope="row" style="width:1px"><div style="padding: 0 35px 0 0; width: 100%;"><div style="float: left;"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8" title="Перейти к шаблону «Внешние ссылки»"><img alt="Перейти к шаблону «Внешние ссылки»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span>  <span typeof="mw:File"><a href="https://www.wikidata.org/wiki/Q460163#identifiers" title="Перейти к элементу Викиданных"><img alt="Перейти к элементу Викиданных" class="mw-file-element" data-file-height="20" data-file-width="20" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/14px-OOjs_UI_icon_edit-ltr-progressive.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/21px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/28px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" width="14"/></a></span></div>  Тематические сайты</div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<div aria-labelledby="Ссылки_на_внешние_ресурсы" class="navbox" data-name="External links" role="navigation" style="padding-top:1px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup" style="display:none"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:External_links" title="Перейти к шаблону «External links»"><img alt="Перейти к шаблону «External links»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span></span><div id="Ссылки_на_внешние_ресурсы" style="font-size:114%;margin:0 5em">Ссылки на внешние ресурсы</div></th></tr><tr><th class="navbox-group" scope="row" style="width:1px"><div style="padding: 0 35px 0 0; width: 100%;"><div style="float: left;"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8" title="Перейти к шаблону «Внешние ссылки»"><img alt="Перейти к шаблону «Внешние ссылки»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span>  <span typeof="mw:File"><a href="https://www.wikidata.org/wiki/Q460163#identifiers" title="Перейти к элементу Викиданных"><img alt="Перейти к элементу Викиданных" class="mw-file-element" data-file-height="20" data-file-width="20" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/14px-OOjs_UI_icon_edit-ltr-progressive.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/21px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/28px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" width="14"/></a></span></div>  Тематические сайты</div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
 <ul><li><a class="external text" href="https://www.filmportal.de/5d5eb20f9cee4a7caa647996dfd4cab1" rel="nofollow">Filmportal</a></li></ul>
 </div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Словари и энциклопедии</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
 <ul><li><a class="external text" href="https://www.britannica.com/topic/Die-Nibelungen-film-by-Lang" rel="nofollow">Britannica (онлайн)</a></li></ul>
 </div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">В библиографических каталогах</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
 <ul><li><a href="/wiki/Gemeinsame_Normdatei" title="Gemeinsame Normdatei">GND</a>: <a class="external text" href="https://d-nb.info/gnd/4209654-6" rel="nofollow">4209654-6</a></li></ul>
 </div></td></tr></tbody></table></div>
-<div aria-labelledby="Фильмы_Фрица_Ланга" class="navbox" data-name="Фильмы Фрица Ланга" role="navigation"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%A4%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B_%D0%A4%D1%80%D0%B8%D1%86%D0%B0_%D0%9B%D0%B0%D0%BD%D0%B3%D0%B0" title="Перейти к шаблону «Фильмы Фрица Ланга»"><img alt="Перейти к шаблону «Фильмы Фрица Ланга»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span> </span><div id="Фильмы_Фрица_Ланга" style="font-size:114%;margin:0 5em">Фильмы <a href="/wiki/%D0%9B%D0%B0%D0%BD%D0%B3,_%D0%A4%D1%80%D0%B8%D1%86" title="Ланг, Фриц">Фрица Ланга</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1px">1910-е</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<div aria-labelledby="Фильмы_Фрица_Ланга" class="navbox" data-name="Фильмы Фрица Ланга" role="navigation"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%A4%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B_%D0%A4%D1%80%D0%B8%D1%86%D0%B0_%D0%9B%D0%B0%D0%BD%D0%B3%D0%B0" title="Перейти к шаблону «Фильмы Фрица Ланга»"><img alt="Перейти к шаблону «Фильмы Фрица Ланга»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span></span><div id="Фильмы_Фрица_Ланга" style="font-size:114%;margin:0 5em">Фильмы <a href="/wiki/%D0%9B%D0%B0%D0%BD%D0%B3,_%D0%A4%D1%80%D0%B8%D1%86" title="Ланг, Фриц">Фрица Ланга</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1px">1910-е</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
 <ul><li><span data-interwiki-article="Halbblut (1919)" data-interwiki-lang="de"><a class="new" href="/w/index.php?title=%D0%9F%D0%BE%D0%BB%D1%83%D0%BA%D1%80%D0%BE%D0%B2%D0%BA%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)&amp;action=edit&amp;redlink=1" title="Полукровка (фильм) (страница отсутствует)">Полукровка</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://de.wikipedia.org/wiki/Halbblut_(1919)" title="de:Halbblut (1919)"><span title="Halbblut (1919) — версия статьи «Полукровка (фильм)» на немецком языке">[de]</span></a></sup></span> (1919)</li>
 <li><span data-interwiki-article="Der Herr der Liebe" data-interwiki-lang="de"><a class="new" href="/w/index.php?title=%D0%92%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D0%BB%D0%B8%D0%BD_%D0%BB%D1%8E%D0%B1%D0%B2%D0%B8_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1919)&amp;action=edit&amp;redlink=1" title="Властелин любви (фильм, 1919) (страница отсутствует)">Властелин любви</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://de.wikipedia.org/wiki/Der_Herr_der_Liebe" title="de:Der Herr der Liebe"><span title="Der Herr der Liebe — версия статьи «Властелин любви (фильм, 1919)» на немецком языке">[de]</span></a></sup></span> (1919)</li>
 <li><a href="/wiki/%D0%A5%D0%B0%D1%80%D0%B0%D0%BA%D0%B8%D1%80%D0%B8_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1919)" title="Харакири (фильм, 1919)">Харакири</a> (1919)</li>
@@ -500,38 +500,38 @@
 </div></td></tr></tbody></table></div>
 <!-- 
 NewPP limit report
-Parsed by mw2433
-Cached time: 20240218091902
+Parsed by mw1401
+Cached time: 20240228173710
 Cache expiry: 2592000
 Reduced expiry: false
 Complications: [vary‐revision‐sha1, show‐toc]
-CPU time usage: 0.638 seconds
-Real time usage: 0.837 seconds
-Preprocessor visited node count: 5497/1000000
-Post‐expand include size: 143697/2097152 bytes
-Template argument size: 19282/2097152 bytes
+CPU time usage: 0.774 seconds
+Real time usage: 1.234 seconds
+Preprocessor visited node count: 5437/1000000
+Post‐expand include size: 143450/2097152 bytes
+Template argument size: 19132/2097152 bytes
 Highest expansion depth: 16/100
 Expensive parser function count: 46/500
 Unstrip recursion depth: 1/20
 Unstrip post‐expand size: 14466/5000000 bytes
-Lua time usage: 0.447/10.000 seconds
-Lua memory usage: 13293499/52428800 bytes
+Lua time usage: 0.545/10.000 seconds
+Lua memory usage: 13996846/52428800 bytes
 Number of Wikibase entities loaded: 21/400
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  754.549      1 -total
- 67.27%  507.550      2 Шаблон:Фильм
- 63.16%  476.589      2 Шаблон:Карточка
- 23.74%  179.143     18 Шаблон:Wikidata
- 15.28%  115.299     24 Шаблон:Wikidata_plural_switch
-  6.11%   46.069      1 Шаблон:ВС
-  5.09%   38.370      2 Шаблон:Карточка/оригинал_названия_произведения
-  4.90%   36.998      5 Шаблон:Книга
-  4.71%   35.550      1 Шаблон:Нет_ссылок
-  3.64%   27.495      1 Шаблон:Примечания
+100.00%  904.787      1 -total
+ 67.80%  613.444      2 Шаблон:Фильм
+ 62.78%  568.018      2 Шаблон:Карточка
+ 24.48%  221.468     18 Шаблон:Wikidata
+ 14.73%  133.299     24 Шаблон:Wikidata_plural_switch
+  5.98%   54.097      1 Шаблон:ВС
+  4.75%   43.000      5 Шаблон:Книга
+  4.68%   42.354      1 Шаблон:Нет_ссылок
+  4.64%   41.993      2 Шаблон:Карточка/оригинал_названия_произведения
+  3.91%   35.332      1 Шаблон:Фильмы_Фрица_Ланга
 -->
-<!-- Saved in parser cache with key ruwiki:pcache:idhash:211675-0!canonical and timestamp 20240218091902 and revision id 136070834. Rendering was triggered because: page-view
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:211675-0!canonical and timestamp 20240228173710 and revision id 136070834. Rendering was triggered because: page-view
  -->
 </div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> -->
 <div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Нибелунги_(фильм,_1924)&amp;oldid=136070834">https://ru.wikipedia.org/w/index.php?title=Нибелунги_(фильм,_1924)&amp;oldid=136070834</a></div></div>

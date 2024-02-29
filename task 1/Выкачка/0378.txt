@@ -1,0 +1,1096 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="ru">
+<head>
+<meta charset="utf-8"/>
+<title>Тессеракт — Википедия</title>
+
+
+
+
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+
+
+<meta content="MediaWiki 1.42.0-wmf.19" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="max-image-preview:standard" name="robots"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/a/a2/Schlegel_wireframe_8-cell.png" property="og:image"/>
+<meta content="1200" property="og:image:width"/>
+<meta content="1200" property="og:image:height"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Schlegel_wireframe_8-cell.png/800px-Schlegel_wireframe_8-cell.png" property="og:image"/>
+<meta content="800" property="og:image:width"/>
+<meta content="800" property="og:image:height"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Schlegel_wireframe_8-cell.png/640px-Schlegel_wireframe_8-cell.png" property="og:image"/>
+<meta content="640" property="og:image:width"/>
+<meta content="640" property="og:image:height"/>
+<meta content="width=1000" name="viewport"/>
+<meta content="Тессеракт — Википедия" property="og:title"/>
+<meta content="website" property="og:type"/>
+
+
+
+
+
+
+
+
+
+
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Тессеракт rootpage-Тессеракт skin-vector action-view"><div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators">
+</div>
+<h1 class="firstHeading mw-first-heading" id="firstHeading"><span class="mw-page-title-main">Тессеракт</span></h1>
+<div class="vector-body" id="bodyContent">
+<div class="noprint" id="siteSub">Материал из Википедии — свободной энциклопедии</div>
+<div id="contentSub"><div id="mw-content-subtitle"><div class="plainlinks flaggedrevs_preview" id="mw-fr-reviewnotice">Текущая версия страницы пока <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9/%D0%9F%D0%BE%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BB%D1%8F_%D1%87%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9" title="Википедия:Проверка статей/Пояснение для читателей">не проверялась</a> опытными участниками и может значительно отличаться от <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%A2%D0%B5%D1%81%D1%81%D0%B5%D1%80%D0%B0%D0%BA%D1%82&amp;stable=1">версии</a>, проверенной 2 августа 2023 года; проверки требуют <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%A2%D0%B5%D1%81%D1%81%D0%B5%D1%80%D0%B0%D0%BA%D1%82&amp;oldid=128020461&amp;diff=cur&amp;diffonly=0">5 правок</a>.</div><div class="flaggedrevs_short flaggedrevs_draft_notsynced plainlinks noprint" id="mw-fr-revisiontag"><div class="flaggedrevs_short_basic"><span class="flaggedrevs-icon oo-ui-widget oo-ui-widget-enabled oo-ui-iconElement-icon oo-ui-icon-block oo-ui-iconElement oo-ui-labelElement-invisible oo-ui-iconWidget" title="Текущая версия"></span><span class="fr-toggle-arrow oo-ui-widget oo-ui-widget-enabled oo-ui-indicatorElement-indicator oo-ui-indicator-down oo-ui-indicatorElement oo-ui-labelElement-invisible oo-ui-indicatorWidget" id="mw-fr-revisiontoggle" title="показать/скрыть подробности"></span></div>
+<div id="mw-fr-revisiondetails-wrapper" style="position:relative;"><div class="flaggedrevs_short_details" id="mw-fr-revisiondetails" style="display:none">Текущая версия страницы пока <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9/%D0%9F%D0%BE%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BB%D1%8F_%D1%87%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9" title="Википедия:Проверка статей/Пояснение для читателей">не проверялась</a> опытными участниками и может значительно отличаться от <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%A2%D0%B5%D1%81%D1%81%D0%B5%D1%80%D0%B0%D0%BA%D1%82&amp;stable=1">версии</a>, проверенной 2 августа 2023 года; проверки требуют <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%A2%D0%B5%D1%81%D1%81%D0%B5%D1%80%D0%B0%D0%BA%D1%82&amp;oldid=128020461&amp;diff=cur&amp;diffonly=0">5 правок</a>.</div>
+</div>
+</div>
+</div></div>
+<div id="contentSub2"></div>
+<div id="jump-to-nav"></div>
+<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+<div class="mw-body-content" id="mw-content-text"><div class="mw-content-ltr mw-parser-output" dir="ltr" lang="ru"><table class="wikitable" style="float:right; margin-left:10px" width="250">
+<tbody><tr>
+<th colspan="2" style="background-color:#e7dcc3">Тессеракт
+</th></tr>
+<tr>
+<td align="center" colspan="2"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Schlegel_wireframe_8-cell.png"><img class="mw-file-element" data-file-height="1000" data-file-width="1000" decoding="async" height="250" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Schlegel_wireframe_8-cell.png/250px-Schlegel_wireframe_8-cell.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Schlegel_wireframe_8-cell.png/375px-Schlegel_wireframe_8-cell.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Schlegel_wireframe_8-cell.png/500px-Schlegel_wireframe_8-cell.png 2x" width="250"/></a></span>
+</td></tr>
+<tr>
+<td style="background-color:#e7dcc3">Тип
+</td>
+<td><a class="mw-redirect" href="/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D1%87%D0%B5%D1%82%D1%8B%D1%80%D1%91%D1%85%D0%BC%D0%B5%D1%80%D0%BD%D1%8B%D0%B5_%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8" title="Правильные четырёхмерные многогранники">Правильный четырёхмерный политоп</a>
+</td></tr>
+<tr>
+<td style="background-color:#e7dcc3">Символ Шлефли
+</td>
+<td>{4,3,3}
+</td></tr>
+<tr>
+<td style="background-color:#e7dcc3">Ячеек</td>
+<td>8
+</td></tr>
+<tr>
+<td style="background-color:#e7dcc3">Граней</td>
+<td>24
+</td></tr>
+<tr>
+<td style="background-color:#e7dcc3">Рёбер</td>
+<td>32
+</td></tr>
+<tr>
+<td style="background-color:#e7dcc3">Вершин</td>
+<td>16
+</td></tr>
+<tr>
+<td style="background-color:#e7dcc3">Вершинная фигура</td>
+<td><a href="/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%82%D0%B5%D1%82%D1%80%D0%B0%D1%8D%D0%B4%D1%80" title="Правильный тетраэдр">Правильный тетраэдр</a>
+</td></tr>
+<tr>
+<td style="background-color:#e7dcc3"><a href="/wiki/%D0%94%D0%B2%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%BD%D0%B8%D0%BA" title="Двойственный многогранник">Двойственный политоп</a>
+</td>
+<td><a class="mw-redirect" href="/wiki/16-%D1%8F%D1%87%D0%B5%D0%B9%D0%BD%D0%B8%D0%BA" title="16-ячейник">16-ячейник</a>
+</td></tr></tbody></table>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Tesseract.gif"><img class="mw-file-element" data-file-height="256" data-file-width="256" decoding="async" height="256" src="//upload.wikimedia.org/wikipedia/commons/5/55/Tesseract.gif" width="256"/></a><figcaption>Анимированная проекция вращающегося тессеракта</figcaption></figure>
+<p><b>Тессера́кт</b> (от <a href="/wiki/%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B5%D0%B3%D1%80%D0%B5%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Древнегреческий язык">др.-греч.</a> <span lang="grc"><span style="font-family: palatino linotype, new athena unicode, athena, gentium, code2000, serif; font-size: 105%;">τέσσαρες ἀκτῖνες</span></span> — «четыре луча») — четырёхмерный <a href="/wiki/%D0%93%D0%B8%D0%BF%D0%B5%D1%80%D0%BA%D1%83%D0%B1" title="Гиперкуб">гиперкуб</a>, аналог обычного трёхмерного <a class="mw-redirect" href="/wiki/%D0%9A%D1%83%D0%B1_(%D0%B3%D0%B5%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%8F)" title="Куб (геометрия)">куба</a> в <a href="/wiki/%D0%A7%D0%B5%D1%82%D1%8B%D1%80%D1%91%D1%85%D0%BC%D0%B5%D1%80%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE" title="Четырёхмерное пространство">четырёхмерном пространстве</a>. Другие названия: <b>4-куб</b>, <b>тетраку́б</b>, <b>восьмияче́йник</b><sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup>, <b>октахо́р</b> (от <a href="/wiki/%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B5%D0%B3%D1%80%D0%B5%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Древнегреческий язык">др.-греч.</a> <span lang="grc"><span style="font-family: palatino linotype, new athena unicode, athena, gentium, code2000, serif; font-size: 105%;">οκτώ</span></span> «восемь» + <span lang="grc"><span style="font-family: palatino linotype, new athena unicode, athena, gentium, code2000, serif; font-size: 105%;">χώρος</span></span> «место, пространство»), <b><a href="/wiki/%D0%93%D0%B8%D0%BF%D0%B5%D1%80%D0%BA%D1%83%D0%B1" title="Гиперкуб">гиперкуб</a></b> (если число измерений не оговаривается). Тессеракт — один из шести <a href="/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%D0%BC%D0%B5%D1%80%D0%BD%D1%8B%D0%B5_%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8" title="Правильные многомерные многогранники">правильных многоячейников</a> в четырёхмерном пространстве.
+</p><p>Согласно <a class="mw-redirect" href="/wiki/%D0%9E%D0%BA%D1%81%D1%84%D0%BE%D1%80%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C" title="Оксфордский словарь">Оксфордскому словарю</a>, слово «тессеракт» было придумано <a href="/wiki/%D0%A5%D0%B8%D0%BD%D1%82%D0%BE%D0%BD,_%D0%A7%D0%B0%D1%80%D0%BB%D1%8C%D0%B7_%D0%93%D0%BE%D0%B2%D0%B0%D1%80%D0%B4" title="Хинтон, Чарльз Говард">Чарльзом Говардом Хинтоном</a> (1853—1907) и впервые использовано в 1888 году в его книге «Новая эра мысли».
+</p>
+<div aria-labelledby="mw-toc-heading" class="toc" id="toc" role="navigation"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="ru"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Геометрия"><span class="tocnumber">1</span> <span class="toctext">Геометрия</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Популярное_описание"><span class="tocnumber">2</span> <span class="toctext">Популярное описание</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Развёртки_тессеракта"><span class="tocnumber">3</span> <span class="toctext">Развёртки тессеракта</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Проекции"><span class="tocnumber">4</span> <span class="toctext">Проекции</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#На_двумерное_пространство"><span class="tocnumber">4.1</span> <span class="toctext">На двумерное пространство</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#На_трёхмерное_пространство"><span class="tocnumber">4.2</span> <span class="toctext">На трёхмерное пространство</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Стереопара"><span class="tocnumber">4.3</span> <span class="toctext">Стереопара</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Тессеракт_в_культуре"><span class="tocnumber">5</span> <span class="toctext">Тессеракт в культуре</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Примечания"><span class="tocnumber">6</span> <span class="toctext">Примечания</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Литература"><span class="tocnumber">7</span> <span class="toctext">Литература</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Ссылки"><span class="tocnumber">8</span> <span class="toctext">Ссылки</span></a></li>
+</ul>
+</div>
+<h2><span id=".D0.93.D0.B5.D0.BE.D0.BC.D0.B5.D1.82.D1.80.D0.B8.D1.8F"></span><span class="mw-headline" id="Геометрия">Геометрия</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A2%D0%B5%D1%81%D1%81%D0%B5%D1%80%D0%B0%D0%BA%D1%82&amp;veaction=edit&amp;section=1" title="Редактировать раздел «Геометрия»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A2%D0%B5%D1%81%D1%81%D0%B5%D1%80%D0%B0%D0%BA%D1%82&amp;action=edit&amp;section=1" title="Редактировать код раздела «Геометрия»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Обычный тессеракт в евклидовом четырёхмерном пространстве определяется как <a href="/wiki/%D0%92%D1%8B%D0%BF%D1%83%D0%BA%D0%BB%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BE%D0%BB%D0%BE%D1%87%D0%BA%D0%B0" title="Выпуклая оболочка">выпуклая оболочка</a> точек (±1, ±1, ±1, ±1). Иначе говоря, он может быть представлен в виде следующего множества:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle [-1,1]^{4}\equiv \{(x_{1},x_{2},x_{3},x_{4})\,:\,-1\leq x_{i}\leq 1\}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo stretchy="false">[</mo>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+<mo>,</mo>
+<mn>1</mn>
+<msup>
+<mo stretchy="false">]</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>4</mn>
+</mrow>
+</msup>
+<mo>≡<!-- ≡ --></mo>
+<mo fence="false" stretchy="false">{</mo>
+<mo stretchy="false">(</mo>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>,</mo>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mo>,</mo>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msub>
+<mo>,</mo>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>4</mn>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+<mspace width="thinmathspace"></mspace>
+<mo>:</mo>
+<mspace width="thinmathspace"></mspace>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+<mo>≤<!-- ≤ --></mo>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo>≤<!-- ≤ --></mo>
+<mn>1</mn>
+<mo fence="false" stretchy="false">}</mo>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle [-1,1]^{4}\equiv \{(x_{1},x_{2},x_{3},x_{4})\,:\,-1\leq x_{i}\leq 1\}.}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle [-1,1]^{4}\equiv \{(x_{1},x_{2},x_{3},x_{4})\,:\,-1\leq x_{i}\leq 1\}.}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/665becf62e2d86571b1bd369e56a104356f43080" style="vertical-align: -0.838ex; width:43.203ex; height:3.176ex;"/></span></dd></dl>
+<p>Тессеракт ограничен восемью <a href="/wiki/%D0%93%D0%B8%D0%BF%D0%B5%D1%80%D0%BF%D0%BB%D0%BE%D1%81%D0%BA%D0%BE%D1%81%D1%82%D1%8C" title="Гиперплоскость">гиперплоскостями</a> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle x_{i}=\pm 1,\;i=1,2,3,4}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mo>±<!-- ± --></mo>
+<mn>1</mn>
+<mo>,</mo>
+<mspace width="thickmathspace"></mspace>
+<mi>i</mi>
+<mo>=</mo>
+<mn>1</mn>
+<mo>,</mo>
+<mn>2</mn>
+<mo>,</mo>
+<mn>3</mn>
+<mo>,</mo>
+<mn>4</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle x_{i}=\pm 1,\;i=1,2,3,4}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle x_{i}=\pm 1,\;i=1,2,3,4}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/68f71db77cc0a1afd819ba2dcdd8475a6524814f" style="vertical-align: -0.671ex; width:21.53ex; height:2.509ex;"/></span>, пересечение которых с самим тессерактом задаёт его трёхмерные грани (являющиеся обычными кубами). Каждая пара непараллельных трёхмерных граней пересекается, образуя двумерные грани (квадраты), и так далее. Окончательно, тессеракт обладает 8 трёхмерными гранями, 24 двумерными, 32 рёбрами и 16 вершинами.
+</p><p>Четырёхмерный <a href="/wiki/%D0%93%D0%B8%D0%BF%D0%B5%D1%80%D0%BE%D0%B1%D1%8A%D1%91%D0%BC" title="Гиперобъём">гиперобъём</a> тессеракта со стороной длины <b>a</b> рассчитывается по формуле: <br/>
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle V_{4}=a^{4}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>4</mn>
+</mrow>
+</msub>
+<mo>=</mo>
+<msup>
+<mi>a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>4</mn>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle V_{4}=a^{4}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle V_{4}=a^{4}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/010809cf10c8537ede1760d0291d7603d564cdb9" style="vertical-align: -0.671ex; width:7.792ex; height:3.009ex;"/></span>
+</p><p>Объём же гиперповерхности тессеракта можно найти по формуле:
+<br/>
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle V_{3}({\text{hypersurface}})=8a^{3}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>hypersurface</mtext>
+</mrow>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mn>8</mn>
+<msup>
+<mi>a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle V_{3}({\text{hypersurface}})=8a^{3}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle V_{3}({\text{hypersurface}})=8a^{3}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b41bd1d47d714cea5ab1f8796abf8482079425c2" style="vertical-align: -0.838ex; width:23.58ex; height:3.176ex;"/></span>
+</p><p>Радиус описанной гиперсферы:
+<br/>
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle R=a}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>R</mi>
+<mo>=</mo>
+<mi>a</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle R=a}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle R=a}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/16061071cea37c68ec3ca4a7dab9a931a07f8267" style="vertical-align: -0.338ex; width:6.092ex; height:2.176ex;"/></span>
+</p><p>Радиус вписанной гиперсферы:
+<br/>
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle r={\frac {a}{2}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>r</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>a</mi>
+<mn>2</mn>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle r={\frac {a}{2}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle r={\frac {a}{2}}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/808d93b47f31d9ccdac78b5494d9dbbb2dbd1259" style="vertical-align: -1.838ex; width:6.213ex; height:4.676ex;"/></span>
+</p>
+<h2><span id=".D0.9F.D0.BE.D0.BF.D1.83.D0.BB.D1.8F.D1.80.D0.BD.D0.BE.D0.B5_.D0.BE.D0.BF.D0.B8.D1.81.D0.B0.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Популярное_описание">Популярное описание</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A2%D0%B5%D1%81%D1%81%D0%B5%D1%80%D0%B0%D0%BA%D1%82&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Популярное описание»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A2%D0%B5%D1%81%D1%81%D0%B5%D1%80%D0%B0%D0%BA%D1%82&amp;action=edit&amp;section=2" title="Редактировать код раздела «Популярное описание»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Попытаемся представить себе, как будет выглядеть гиперкуб, не выходя из <a href="/wiki/%D0%A2%D1%80%D1%91%D1%85%D0%BC%D0%B5%D1%80%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE" title="Трёхмерное пространство">трёхмерного пространства</a>.
+</p><p>В одномерном «пространстве» — на линии — выделим <a href="/wiki/%D0%9E%D1%82%D1%80%D0%B5%D0%B7%D0%BE%D0%BA" title="Отрезок">отрезок</a> АВ длиной L.
+На двумерной <a class="mw-redirect" href="/wiki/%D0%9F%D0%BB%D0%BE%D1%81%D0%BA%D0%BE%D1%81%D1%82%D1%8C_(%D0%B3%D0%B5%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%8F)" title="Плоскость (геометрия)">плоскости</a> на расстоянии L от АВ нарисуем параллельный ему отрезок DC и соединим их концы. Получится <a href="/wiki/%D0%9A%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82" title="Квадрат">квадрат</a> CDBA. Повторив эту операцию с плоскостью, получим трёхмерный <a href="/wiki/%D0%9A%D1%83%D0%B1" title="Куб">куб</a> CDBAEGHF. А сдвинув куб в четвёртом измерении (перпендикулярно первым трём) на расстояние L, мы получим <a href="/wiki/%D0%93%D0%B8%D0%BF%D0%B5%D1%80%D0%BA%D1%83%D0%B1" title="Гиперкуб">гиперкуб</a> CDBAGHFEKLJIOPNM.
+</p>
+<figure class="mw-halign-left" typeof="mw:File/Frame"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%9F%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%B8%D0%B5_%D1%82%D0%B5%D1%81%D1%81%D0%B5%D1%80%D0%B0%D0%BA%D1%82%D0%B0.PNG"><img class="mw-file-element" data-file-height="205" data-file-width="721" decoding="async" height="205" src="//upload.wikimedia.org/wikipedia/commons/1/13/%D0%9F%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%B8%D0%B5_%D1%82%D0%B5%D1%81%D1%81%D0%B5%D1%80%D0%B0%D0%BA%D1%82%D0%B0.PNG" width="721"/></a><figcaption>Построение тессеракта на плоскости</figcaption></figure>
+<figure class="mw-halign-right" typeof="mw:File/Frame"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Tesseract2.svg"><img class="mw-file-element" data-file-height="239" data-file-width="188" decoding="async" height="239" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Tesseract2.svg/188px-Tesseract2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Tesseract2.svg/282px-Tesseract2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Tesseract2.svg/376px-Tesseract2.svg.png 2x" width="188"/></a><figcaption>Развёртка тессеракта</figcaption></figure>
+<p>Одномерный отрезок АВ служит стороной двумерного квадрата CDBA, квадрат — стороной куба CDBAEGHF, который, в свою очередь, будет стороной четырёхмерного гиперкуба. <a href="/wiki/%D0%9E%D1%82%D1%80%D0%B5%D0%B7%D0%BE%D0%BA" title="Отрезок">Отрезок</a> прямой имеет две граничные точки, <a href="/wiki/%D0%9A%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82" title="Квадрат">квадрат</a> — четыре вершины, <a href="/wiki/%D0%9A%D1%83%D0%B1" title="Куб">куб</a> — восемь. В четырёхмерном гиперкубе, таким образом, окажется 16 вершин: 8 вершин исходного куба и 8 сдвинутого в четвёртом измерении. Он имеет 32 ребра — по 12 дают начальное и конечное положения исходного куба, и ещё 8 рёбер «нарисуют» восемь его вершин, переместившихся в четвёртое измерение. Те же рассуждения можно проделать и для граней гиперкуба. В двумерном пространстве она одна (сам квадрат), у куба их 6 (по две грани от переместившегося квадрата и ещё четыре опишут его стороны). Четырёхмерный гиперкуб имеет 24 квадратные грани — 12 квадратов исходного куба в двух положениях и 12 квадратов от двенадцати его рёбер.
+</p><p>Как сторонами квадрата являются 4 одномерных отрезка, а сторонами (гранями) куба являются 6 двухмерных квадратов, так и для «четырёхмерного куба» (тессеракта) сторонами являются 8 трёхмерных кубов. Пространства противоположных пар кубов тессеракта (то есть трёхмерные пространства, которым эти кубы принадлежат) параллельны. На рисунке это кубы: CDBAEGHF и KLJIMOPN, CDBAKLJI и GHFEOPNM, EFBAMNJI и GHDCOPLK, CKIAGOME и DLJBHPNF.
+</p><p>Аналогичным образом можно продолжить рассуждения для гиперкубов большего числа измерений, но гораздо интереснее посмотреть, как для нас, жителей трёхмерного пространства, будет выглядеть четырёхмерный гиперкуб. Воспользуемся для этого уже знакомым методом аналогий.
+</p><p>Возьмём проволочный куб ABCDHEFG и поглядим на него одним глазом со стороны грани. Мы увидим и можем нарисовать на плоскости два квадрата (ближнюю и дальнюю его грани), соединённые четырьмя линиями — боковыми рёбрами. Аналогичным образом четырёхмерный гиперкуб в пространстве трёх измерений будет выглядеть как два кубических «ящика», вставленных друг в друга и соединённых восемью рёбрами. При этом сами «ящики» — трёхмерные грани — будут проецироваться на «наше» пространство, а линии, их соединяющие, протянутся в направлении четвёртой оси. Можно попытаться также представить себе куб не в проекции, а в пространственном изображении.
+</p><p>Подобно тому, как трёхмерный куб образуется квадратом, сдвинутым на длину грани, куб, сдвинутый в четвёртое измерение, сформирует гиперкуб. Его ограничивают восемь кубов, которые в перспективе будут выглядеть как некая довольно сложная фигура. Сам же четырёхмерный гиперкуб состоит из бесконечного количества кубов, подобно тому как трёхмерный куб можно «нарезать» на бесконечное количество плоских квадратов.
+</p><p>Разрезав шесть граней трёхмерного куба, можно разложить его в плоскую фигуру — <a class="mw-redirect" href="/wiki/%D0%A0%D0%B0%D0%B7%D0%B2%D1%91%D1%80%D1%82%D0%BA%D0%B0" title="Развёртка">развёртку</a>. Она будет иметь по квадрату с каждой стороны исходной грани плюс ещё один — грань, ей противоположную. А трёхмерная развёртка четырёхмерного гиперкуба будет состоять из исходного куба, шести кубов, «вырастающих» из него, плюс ещё одного — конечной «гиперграни».
+</p><p>Свойства тессеракта представляют собой продолжение свойств геометрических фигур меньшей размерности в четырёхмерное пространство.
+</p>
+<h2><span id=".D0.A0.D0.B0.D0.B7.D0.B2.D1.91.D1.80.D1.82.D0.BA.D0.B8_.D1.82.D0.B5.D1.81.D1.81.D0.B5.D1.80.D0.B0.D0.BA.D1.82.D0.B0"></span><span class="mw-headline" id="Развёртки_тессеракта">Развёртки тессеракта</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A2%D0%B5%D1%81%D1%81%D0%B5%D1%80%D0%B0%D0%BA%D1%82&amp;veaction=edit&amp;section=3" title="Редактировать раздел «Развёртки тессеракта»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A2%D0%B5%D1%81%D1%81%D0%B5%D1%80%D0%B0%D0%BA%D1%82&amp;action=edit&amp;section=3" title="Редактировать код раздела «Развёртки тессеракта»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Net_of_tesseract.gif"><img class="mw-file-element" data-file-height="400" data-file-width="355" decoding="async" height="248" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Net_of_tesseract.gif/220px-Net_of_tesseract.gif" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Net_of_tesseract.gif/330px-Net_of_tesseract.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/e/ef/Net_of_tesseract.gif 2x" width="220"/></a><figcaption>Разворачивание поверхности тессеракта в трёхмерное пространство</figcaption></figure>
+<p>Аналогично тому, как поверхность куба может быть <a href="/wiki/%D0%A0%D0%B0%D0%B7%D0%B2%D1%91%D1%80%D1%82%D0%BA%D0%B0_%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%BD%D0%B8%D0%BA%D0%B0" title="Развёртка многогранника">развёрнута</a> в <a href="/wiki/%D0%93%D0%B5%D0%BA%D1%81%D0%B0%D0%BC%D0%B8%D0%BD%D0%BE" title="Гексамино">многоугольник, состоящий из шести квадратов</a>, поверхность тессеракта может быть развёрнута в трёхмерное <a href="/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D0%BA%D1%83%D0%B1" title="Поликуб">тело, состоящее из восьми кубов</a><sup class="reference" id="cite_ref-_b5e9dff276753b18_2-0"><a href="#cite_note-_b5e9dff276753b18-2">[2]</a></sup>.
+</p><p>Существует 261 развёртка тессеракта<sup class="reference" id="cite_ref-_ef419127aeb60121_3-0"><a href="#cite_note-_ef419127aeb60121-3">[3]</a></sup>.
+Развёртки гиперкуба могут быть найдены перечислением «сдвоенных деревьев», где «сдвоенное дерево» (<i>paired tree</i>) — это <a href="/wiki/%D0%94%D0%B5%D1%80%D0%B5%D0%B2%D0%BE_(%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F_%D0%B3%D1%80%D0%B0%D1%84%D0%BE%D0%B2)" title="Дерево (теория графов)">дерево</a> с чётным числом вершин, которые разбиты на пары так, что ни одна пара не состоит из двух смежных вершин. Между «сдвоенными деревьями» с 8 вершинами и развёртками тессеракта существует <a href="/wiki/%D0%91%D0%B8%D0%B5%D0%BA%D1%86%D0%B8%D1%8F" title="Биекция">взаимно однозначное соответствие</a>. Всего существует 23 дерева с 8 вершинами, при разбиении вершин которых на пары несмежных вершин получается 261 «сдвоенное дерево» с 8 вершинами<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup>.
+</p><p>Крестообразная развёртка тессеракта является элементом картины <a href="/wiki/%D0%94%D0%B0%D0%BB%D0%B8,_%D0%A1%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%80" title="Дали, Сальвадор">Сальвадора Дали</a> «<a class="mw-redirect" href="/wiki/%D0%A0%D0%B0%D1%81%D0%BF%D1%8F%D1%82%D0%B8%D0%B5_%D0%B8%D0%BB%D0%B8_%D0%93%D0%B8%D0%BF%D0%B5%D1%80%D0%BA%D1%83%D0%B1%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D1%82%D0%B5%D0%BB%D0%BE" title="Распятие или Гиперкубическое тело">Corpus Hypercubus</a>» (1954)<sup class="reference" id="cite_ref-_0dc583a0ec2a0b90_5-0"><a href="#cite_note-_0dc583a0ec2a0b90-5">[5]</a></sup>.
+</p><p>В рассказе <a href="/wiki/%D0%A5%D0%B0%D0%B9%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD,_%D0%A0%D0%BE%D0%B1%D0%B5%D1%80%D1%82" title="Хайнлайн, Роберт">Роберта Хайнлайна</a> «<a href="/wiki/%D0%94%D0%BE%D0%BC,_%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%B9_%D0%BF%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B8%D0%BB_%D0%A2%D0%B8%D0%BB" title="Дом, который построил Тил">Дом, который построил Тил</a>» калифорнийский архитектор Квинтус Тил строит дом в форме развёртки гиперкуба, который во время землетрясения складывается в тессеракт<sup class="reference" id="cite_ref-_0dc583a0ec2a0b90_5-1"><a href="#cite_note-_0dc583a0ec2a0b90-5">[5]</a></sup>.
+</p>
+<h2><span id=".D0.9F.D1.80.D0.BE.D0.B5.D0.BA.D1.86.D0.B8.D0.B8"></span><span class="mw-headline" id="Проекции">Проекции</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A2%D0%B5%D1%81%D1%81%D0%B5%D1%80%D0%B0%D0%BA%D1%82&amp;veaction=edit&amp;section=4" title="Редактировать раздел «Проекции»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A2%D0%B5%D1%81%D1%81%D0%B5%D1%80%D0%B0%D0%BA%D1%82&amp;action=edit&amp;section=4" title="Редактировать код раздела «Проекции»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id=".D0.9D.D0.B0_.D0.B4.D0.B2.D1.83.D0.BC.D0.B5.D1.80.D0.BD.D0.BE.D0.B5_.D0.BF.D1.80.D0.BE.D1.81.D1.82.D1.80.D0.B0.D0.BD.D1.81.D1.82.D0.B2.D0.BE"></span><span class="mw-headline" id="На_двумерное_пространство">На двумерное пространство</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A2%D0%B5%D1%81%D1%81%D0%B5%D1%80%D0%B0%D0%BA%D1%82&amp;veaction=edit&amp;section=5" title="Редактировать раздел «На двумерное пространство»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A2%D0%B5%D1%81%D1%81%D0%B5%D1%80%D0%B0%D0%BA%D1%82&amp;action=edit&amp;section=5" title="Редактировать код раздела «На двумерное пространство»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Данная структура сложна для воображения, но возможно спроецировать тессеракт в <a class="mw-redirect" href="/wiki/%D0%9F%D0%BB%D0%BE%D1%81%D0%BA%D0%BE%D1%81%D1%82%D1%8C_(%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0)" title="Плоскость (математика)">двумерные</a> или <a href="/wiki/%D0%A2%D1%80%D1%91%D1%85%D0%BC%D0%B5%D1%80%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE" title="Трёхмерное пространство">трёхмерные пространства</a>. Кроме того, <a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_(%D0%B3%D0%B5%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%8F)" title="Проекция (геометрия)">проецирование</a> на плоскость позволяет легко понять расположение вершин гиперкуба. Таким образом, можно получить изображения, которые больше не отражают пространственные отношения в пределах тессеракта, но которые иллюстрируют структуру связи вершин, как в предыдущих примерах:
+</p>
+<table align="center">
+<tbody><tr valign="top">
+<td><figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Hypercubecubes.svg"><img class="mw-file-element" data-file-height="325" data-file-width="434" decoding="async" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Hypercubecubes.svg/220px-Hypercubecubes.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Hypercubecubes.svg/330px-Hypercubecubes.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Hypercubecubes.svg/440px-Hypercubecubes.svg.png 2x" width="220"/></a><figcaption>Первая картинка показывает, как тессеракт получен в результате комбинирования двух кубов. Схема подобна построению куба от двух квадратов</figcaption></figure>
+</td>
+<td><figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Hypercubestar.svg"><img class="mw-file-element" data-file-height="330" data-file-width="330" decoding="async" height="220" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Hypercubestar.svg/220px-Hypercubestar.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Hypercubestar.svg/330px-Hypercubestar.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Hypercubestar.svg/440px-Hypercubestar.svg.png 2x" width="220"/></a><figcaption>Вторая картинка иллюстрирует тот факт, что все рёбра тессеракта имеют одинаковую длину. Она примечательна тем, что все восемь кубов имеют одинаковый вид.</figcaption></figure>
+</td>
+<td><figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Hypercubeorder.svg"><img class="mw-file-element" data-file-height="325" data-file-width="300" decoding="async" height="238" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Hypercubeorder.svg/220px-Hypercubeorder.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Hypercubeorder.svg/330px-Hypercubeorder.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/Hypercubeorder.svg/440px-Hypercubeorder.svg.png 2x" width="220"/></a><figcaption>Третья картинка демонстрирует тессеракт в <a href="/wiki/%D0%98%D0%B7%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%86%D0%B8%D1%8F" title="Изометрическая проекция">изометрии</a>, относительно точки построения. Это изображение представляет интерес при использовании тессеракта как основания для топологической сети, чтобы связать многократные процессоры в параллельных вычислениях.</figcaption></figure>
+</td></tr></tbody></table>
+<div style="clear:both;"></div>
+<h3><span id=".D0.9D.D0.B0_.D1.82.D1.80.D1.91.D1.85.D0.BC.D0.B5.D1.80.D0.BD.D0.BE.D0.B5_.D0.BF.D1.80.D0.BE.D1.81.D1.82.D1.80.D0.B0.D0.BD.D1.81.D1.82.D0.B2.D0.BE"></span><span class="mw-headline" id="На_трёхмерное_пространство">На трёхмерное пространство</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A2%D0%B5%D1%81%D1%81%D0%B5%D1%80%D0%B0%D0%BA%D1%82&amp;veaction=edit&amp;section=6" title="Редактировать раздел «На трёхмерное пространство»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A2%D0%B5%D1%81%D1%81%D0%B5%D1%80%D0%B0%D0%BA%D1%82&amp;action=edit&amp;section=6" title="Редактировать код раздела «На трёхмерное пространство»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:8-cell.gif"><img class="mw-file-element" data-file-height="255" data-file-width="255" decoding="async" height="220" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/8-cell.gif/220px-8-cell.gif" srcset="//upload.wikimedia.org/wikipedia/commons/d/d7/8-cell.gif 1.5x" width="220"/></a><figcaption>Вращающаяся модель тессеракта. Эта модель показывает грани тессеракта — равные кубы</figcaption></figure>
+<p>Одна из проекций тессеракта на трёхмерное пространство представляет собой два вложенных трёхмерных куба, соответствующие вершины которых соединены между собой отрезками.
+Внутренний и внешний кубы имеют разные размеры в трёхмерном пространстве, но в четырёхмерном пространстве это равные кубы. Для понимания равности всех кубов тессеракта была создана вращающаяся модель тессеракта.
+</p>
+<ul><li>Шесть усечённых пирамид по краям тессеракта — это изображения равных шести кубов. Однако эти кубы для тессеракта — как квадраты (грани) для куба. Но на самом деле тессеракт можно разделить на бесконечное количество кубов, как куб — на бесконечное количество квадратов, или квадрат — на бесконечное число отрезков.</li></ul>
+<p>Ещё одна интересная проекция тессеракта на трёхмерное пространство представляет собой <a href="/wiki/%D0%A0%D0%BE%D0%BC%D0%B1%D0%BE%D0%B4%D0%BE%D0%B4%D0%B5%D0%BA%D0%B0%D1%8D%D0%B4%D1%80" title="Ромбододекаэдр">ромбододекаэдр</a> с проведёнными четырьмя его диагоналями, соединяющими пары противоположных вершин при больших углах ромбов. При этом 14 из 16 вершин тессеракта проецируются в 14 вершин <a href="/wiki/%D0%A0%D0%BE%D0%BC%D0%B1%D0%BE%D0%B4%D0%BE%D0%B4%D0%B5%D0%BA%D0%B0%D1%8D%D0%B4%D1%80" title="Ромбододекаэдр">ромбододекаэдра</a>, а проекции 2 оставшихся совпадают в его центре. В такой проекции на трёхмерное пространство сохраняются равенство и параллельность всех одномерных, двухмерных и трёхмерных сторон.
+</p>
+<div style="clear:both;"></div>
+<h3><span id=".D0.A1.D1.82.D0.B5.D1.80.D0.B5.D0.BE.D0.BF.D0.B0.D1.80.D0.B0"></span><span class="mw-headline" id="Стереопара"><a href="/wiki/%D0%A1%D1%82%D0%B5%D1%80%D0%B5%D0%BE%D0%BF%D0%B0%D1%80%D0%B0" title="Стереопара">Стереопара</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A2%D0%B5%D1%81%D1%81%D0%B5%D1%80%D0%B0%D0%BA%D1%82&amp;veaction=edit&amp;section=7" title="Редактировать раздел «Стереопара»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A2%D0%B5%D1%81%D1%81%D0%B5%D1%80%D0%B0%D0%BA%D1%82&amp;action=edit&amp;section=7" title="Редактировать код раздела «Стереопара»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Стереопара тессеракта изображается как две проекции на плоскость одного из вариантов трёхмерного представления тессеракта. Стереопара рассматривается так, чтобы каждый глаз видел только одно из этих изображений, возникает стереоскопический эффект, позволяющий лучше воспринять проекцию тессеракта на трёхмерное пространство.
+</p>
+<figure class="mw-halign-center" typeof="mw:File/Frameless"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:44444tes.png"><img class="mw-file-element" data-file-height="323" data-file-width="640" decoding="async" height="216" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/44444tes.png/428px-44444tes.png" srcset="//upload.wikimedia.org/wikipedia/commons/0/0c/44444tes.png 1.5x" width="428"/></a><figcaption></figcaption></figure>
+<figure class="mw-halign-center" typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:3D_stereographic_projection_tesseract.PNG"><img class="mw-file-element" data-file-height="260" data-file-width="520" decoding="async" height="216" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/3D_stereographic_projection_tesseract.PNG/432px-3D_stereographic_projection_tesseract.PNG" srcset="//upload.wikimedia.org/wikipedia/commons/2/22/3D_stereographic_projection_tesseract.PNG 1.5x" width="432"/></a><figcaption></figcaption></figure>
+<h2><span id=".D0.A2.D0.B5.D1.81.D1.81.D0.B5.D1.80.D0.B0.D0.BA.D1.82_.D0.B2_.D0.BA.D1.83.D0.BB.D1.8C.D1.82.D1.83.D1.80.D0.B5"></span><span class="mw-headline" id="Тессеракт_в_культуре">Тессеракт в культуре</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A2%D0%B5%D1%81%D1%81%D0%B5%D1%80%D0%B0%D0%BA%D1%82&amp;veaction=edit&amp;section=8" title="Редактировать раздел «Тессеракт в культуре»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A2%D0%B5%D1%81%D1%81%D0%B5%D1%80%D0%B0%D0%BA%D1%82&amp;action=edit&amp;section=8" title="Редактировать код раздела «Тессеракт в культуре»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>В рассказе «<a href="/wiki/%D0%94%D0%BE%D0%BC,_%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%B9_%D0%BF%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B8%D0%BB_%D0%A2%D0%B8%D0%BB" title="Дом, который построил Тил">Дом, который построил Тил</a>» (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">And He Built a Crooked House</span>; «И построил он себе скрюченный домишко») <a href="/wiki/%D0%A5%D0%B0%D0%B9%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD,_%D0%A0%D0%BE%D0%B1%D0%B5%D1%80%D1%82" title="Хайнлайн, Роберт">Роберта Хайнлайна</a> описан восьмикомнатный дом в форме развёрнутого тессеракта.</li>
+<li>Рассказ <a class="mw-redirect" href="/wiki/%D0%93%D0%B5%D0%BD%D1%80%D0%B8_%D0%9A%D0%B0%D1%82%D1%82%D0%BD%D0%B5%D1%80" title="Генри Каттнер">Генри Каттнера</a> «<a href="/wiki/%D0%92%D1%81%D0%B5_%D1%82%D0%B5%D0%BD%D0%B0%D0%BB%D0%B8_%D0%B1%D0%BE%D1%80%D0%BE%D0%B3%D0%BE%D0%B2%D1%8B" title="Все тенали бороговы">Все тенали бороговы</a>» (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">Mimsy Were the Borogoves</span>) описывает развивающую игрушку для детей из далёкого будущего, по строению похожую на тессеракт.</li>
+<li>В рассказе <a href="/wiki/%D0%A8%D0%B5%D0%BA%D0%BB%D0%B8,_%D0%A0%D0%BE%D0%B1%D0%B5%D1%80%D1%82" title="Шекли, Роберт">Роберта Шекли</a> «Мисс Мышка и четвёртое измерение» писатель-эзотерик, знакомец автора, пытается увидеть тессеракт, часами глядя на сконструированный им прибор: шар на ножке с воткнутыми в него стержнями, на которые насажены кубы, обклеенные всеми подряд эзотерическими символами. В рассказе упоминается труд Хинтона.</li>
+<li>В фантастическом рассказе <a href="/wiki/%D0%9A%D0%BB%D0%B8%D1%84%D1%82%D0%BE%D0%BD,_%D0%9C%D0%B0%D1%80%D0%BA" title="Клифтон, Марк">Марка Клифтона</a> «На ленте Мёбиуса» дети-вундеркинды путешествуют через пространство и время, используя модели <a href="/wiki/%D0%9B%D0%B5%D0%BD%D1%82%D0%B0_%D0%9C%D1%91%D0%B1%D0%B8%D1%83%D1%81%D0%B0" title="Лента Мёбиуса">ленты Мёбиуса</a>, <a href="/wiki/%D0%91%D1%83%D1%82%D1%8B%D0%BB%D0%BA%D0%B0_%D0%9A%D0%BB%D0%B5%D0%B9%D0%BD%D0%B0" title="Бутылка Клейна">бутылки Клейна</a> и тессеракта.</li>
+<li>В <a href="/wiki/%D0%9A%D0%B8%D0%BD%D0%B5%D0%BC%D0%B0%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B2%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_Marvel" title="Кинематографическая вселенная Marvel">Кинематографической вселенной Marvel</a> <b><a href="/wiki/%D0%A2%D0%B5%D1%81%D1%81%D0%B5%D1%80%D0%B0%D0%BA%D1%82_(%D0%9A%D0%B8%D0%BD%D0%B5%D0%BC%D0%B0%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B2%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_Marvel)" title="Тессеракт (Кинематографическая вселенная Marvel)">Тессеракт</a></b> является артефактом-носителем одного из шести <a href="/wiki/%D0%9A%D0%B0%D0%BC%D0%BD%D0%B8_%D0%91%D0%B5%D1%81%D0%BA%D0%BE%D0%BD%D0%B5%D1%87%D0%BD%D0%BE%D1%81%D1%82%D0%B8" title="Камни Бесконечности">Камней Бесконечности</a>.</li>
+<li>Сюжет фильма <a class="mw-redirect" href="/wiki/%D0%90%D0%BD%D0%B4%D0%B6%D0%B5%D0%B9_%D0%A1%D0%B5%D0%BA%D1%83%D0%BB%D0%B0" title="Анджей Секула">Анджея Секулы</a> «<a href="/wiki/%D0%9A%D1%83%D0%B1_2:_%D0%93%D0%B8%D0%BF%D0%B5%D1%80%D0%BA%D1%83%D0%B1" title="Куб 2: Гиперкуб">Куб 2: Гиперкуб</a>» разворачивается внутри лабиринта из комнат, помещённого в гиперкуб.</li>
+<li>В научно-фантастическом фильме «<a href="/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D1%81%D1%82%D0%B5%D0%BB%D0%BB%D0%B0%D1%80" title="Интерстеллар">Интерстеллар</a>» главный герой Джозеф Купер и робот ТАРС после пересечения <a href="/wiki/%D0%93%D0%BE%D1%80%D0%B8%D0%B7%D0%BE%D0%BD%D1%82_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D0%B9" title="Горизонт событий">горизонта событий</a> Гаргантюа – <a href="/wiki/%D0%A1%D0%B2%D0%B5%D1%80%D1%85%D0%BC%D0%B0%D1%81%D1%81%D0%B8%D0%B2%D0%BD%D0%B0%D1%8F_%D1%87%D1%91%D1%80%D0%BD%D0%B0%D1%8F_%D0%B4%D1%8B%D1%80%D0%B0" title="Сверхмассивная чёрная дыра">сверхмассивной чёрной дыры</a> – оказываются внутри массивного тессеракта, построенного людьми будущего.</li>
+<li>Британская <a class="mw-redirect" href="/wiki/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B8%D0%B2-%D1%80%D0%BE%D0%BA" title="Прогрессив-рок">прогрессив-рок</a> группа <a href="/wiki/Tesseract_(%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B0)" title="Tesseract (группа)">Tesseract</a>, считающаяся одним из пионеров <a class="mw-redirect" href="/wiki/%D0%94%D0%B6%D0%B5%D0%BD%D1%82" title="Джент">джент</a>-направления в прогрессивном метале, отличается сложными композициями со сменяющимися ритмами.</li></ul>
+<h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Примечания">Примечания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A2%D0%B5%D1%81%D1%81%D0%B5%D1%80%D0%B0%D0%BA%D1%82&amp;veaction=edit&amp;section=9" title="Редактировать раздел «Примечания»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A2%D0%B5%D1%81%D1%81%D0%B5%D1%80%D0%B0%D0%BA%D1%82&amp;action=edit&amp;section=9" title="Редактировать код раздела «Примечания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343" id="CITEREFД._К._Бобылёв1890—1907"><i><a href="/wiki/%D0%91%D0%BE%D0%B1%D1%8B%D0%BB%D1%91%D0%B2,_%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9_%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D0%BE%D0%B2%D0%B8%D1%87" title="Бобылёв, Дмитрий Константинович">Д. К. Бобылёв</a>.</i> <span data-wikidata-qualifier-id="P248"><a class="extiw" href="https://ru.wikisource.org/wiki/%D0%AD%D0%A1%D0%91%D0%95/%D0%A7%D0%B5%D1%82%D1%8B%D1%80%D0%B5%D1%85%D0%BC%D0%B5%D1%80%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE" title="s:ЭСБЕ/Четырехмерное пространство">Четырехмерное пространство</a></span> // <a href="/wiki/%D0%AD%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C_%D0%91%D1%80%D0%BE%D0%BA%D0%B3%D0%B0%D1%83%D0%B7%D0%B0_%D0%B8_%D0%95%D1%84%D1%80%D0%BE%D0%BD%D0%B0" title="Энциклопедический словарь Брокгауза и Ефрона">Энциклопедический словарь Брокгауза и Ефрона</a> : в 86 т. (82 т. и 4 доп.). — <abbr title="Санкт-Петербург">СПб.</abbr>, 1890—1907.</span></span>
+</li>
+<li id="cite_note-_b5e9dff276753b18-2"><span class="mw-cite-backlink"><a href="#cite_ref-_b5e9dff276753b18_2-0">↑</a></span> <span class="reference-text"><a href="#CITEREFGardner1989">Gardner, 1989</a>, pp. 48—50.</span>
+</li>
+<li id="cite_note-_ef419127aeb60121-3"><span class="mw-cite-backlink"><a href="#cite_ref-_ef419127aeb60121_3-0">↑</a></span> <span class="reference-text"><a href="#CITEREFGardner1989">Gardner, 1989</a>, p. 272: «Peter Turney, in his 1984 paper „Unfolding the Tesseract“, uses graph theory to show that there are 261 distinct unfoldings.».</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><span class="citation"><i>Peter Turney.</i> <a class="external text" href="http://unfolding.apperceptual.com/" rel="nofollow">Unfolding the Tesseract</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small> // <a href="/wiki/Journal_of_Recreational_Mathematics" title="Journal of Recreational Mathematics">Journal of Recreational Mathematics</a> : journal. — 1984-85. — <span class="nowrap">Vol. 17</span>, <span class="nowrap">no. 1</span>. <small><a class="external text" href="https://web.archive.org/web/20180725215409/http://unfolding.apperceptual.com/" rel="nofollow">Архивировано</a> 25 июля 2018 года.</small></span></span>
+</li>
+<li id="cite_note-_0dc583a0ec2a0b90-5"><span class="mw-cite-backlink">↑ <a href="#cite_ref-_0dc583a0ec2a0b90_5-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-_0dc583a0ec2a0b90_5-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFGardner1989">Gardner, 1989</a>, p. 50.</span>
+</li>
+</ol></div></div>
+<h2><span id=".D0.9B.D0.B8.D1.82.D0.B5.D1.80.D0.B0.D1.82.D1.83.D1.80.D0.B0"></span><span class="mw-headline" id="Литература">Литература</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A2%D0%B5%D1%81%D1%81%D0%B5%D1%80%D0%B0%D0%BA%D1%82&amp;veaction=edit&amp;section=10" title="Редактировать раздел «Литература»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A2%D0%B5%D1%81%D1%81%D0%B5%D1%80%D0%B0%D0%BA%D1%82&amp;action=edit&amp;section=10" title="Редактировать код раздела «Литература»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Charles H. Hinton. Fourth Dimension, 1904. <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/0405079532">ISBN 0-405-07953-2</a></li>
+<li><span class="citation no-wikidata" data-wikidata-property-id="P1343" id="CITEREFGardner1989"><i><a href="/wiki/%D0%93%D0%B0%D1%80%D0%B4%D0%BD%D0%B5%D1%80,_%D0%9C%D0%B0%D1%80%D1%82%D0%B8%D0%BD" title="Гарднер, Мартин">Gardner M.</a></i> <a class="external text" href="https://archive.org/details/mathematicalcarn0000gard/page/41" rel="nofollow">Mathematical Carnival</a>. — Washington, D.C.: <a class="mw-redirect" href="/wiki/Mathematical_Association_of_America" title="Mathematical Association of America">MAA</a>, 1989. — P. 41—54, 272. — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/0883854481">ISBN 0-88385-448-1</a>.</span></li>
+<li>Ian Stewart, Concepts of Modern Mathematics, 1995. <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/0486284247">ISBN 0-486-28424-7</a></li>
+<li><span class="citation no-wikidata" data-wikidata-property-id="P1343" id="CITEREFГальперин2015"><i><a href="/wiki/%D0%93%D0%B0%D0%BB%D1%8C%D0%BF%D0%B5%D1%80%D0%B8%D0%BD,_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B9_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Гальперин, Григорий Александрович">Гальперин Г.А.</a></i> Многомерный куб. — <abbr title="Москва">М.</abbr>: <a class="mw-redirect" href="/wiki/%D0%9C%D0%A6%D0%9D%D0%9C%D0%9E" title="МЦНМО">МЦНМО</a>, 2015. — 80 с. — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9785443902968">ISBN 978-5-4439-0296-8</a>.</span></li>
+<li><span class="citation"><i>Дужин С., Рубцов В.</i> <a class="external text" href="http://kvant.mccme.ru/1986/06/chetyrehmernyj_kub.htm" rel="nofollow">Четырехмерный куб</a> // <a href="/wiki/%D0%9A%D0%B2%D0%B0%D0%BD%D1%82_(%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB)" title="Квант (журнал)">Квант</a>. — 1986. — <span class="nowrap">№ 6</span>. — <span class="nowrap">С. 3—7</span>.</span></li></ul>
+<h2><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span><span class="mw-headline" id="Ссылки">Ссылки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A2%D0%B5%D1%81%D1%81%D0%B5%D1%80%D0%B0%D0%BA%D1%82&amp;veaction=edit&amp;section=11" title="Редактировать раздел «Ссылки»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A2%D0%B5%D1%81%D1%81%D0%B5%D1%80%D0%B0%D0%BA%D1%82&amp;action=edit&amp;section=11" title="Редактировать код раздела «Ссылки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl><dt>На русском языке</dt></dl>
+<ul><li><a class="external text" href="http://multator.ru/toon/gsaj1gfeel61" rel="nofollow">Получение из развертки</a></li>
+<li><a class="external text" href="http://im-possible.info/russian/articles/hypercube/index.html" rel="nofollow">Гиперкуб</a></li>
+<li><a class="external text" href="http://damateur.narod.ru/t" rel="nofollow">Программа Transformator4D. Формирование моделей трёхмерных проекций четырёхмерных объектов (в том числе и Гиперкуба).</a></li>
+<li><a class="external text" href="http://aa-shi.narod.ru/graphics/afin4d/" rel="nofollow">Программа, реализующая построение тессеракта и все его аффинные преобразования, с исходниками на C++.</a></li>
+<li><a class="external text" href="http://elsper.ru/stereokartinki-giperkuby-stereo-giperkuby" rel="nofollow">Стереопара тессеракта с ребрами одинаковой длины.</a></li>
+<li><a class="external text" href="https://www.youtube.com/watch?v=bIv2pDVZOrs" rel="nofollow">Вращение тессеракта — проекция в трёхмерном пространстве</a></li></ul>
+<dl><dt>На английском языке</dt></dl>
+<ul><li><a class="external text" href="http://mathworld.wolfram.com/Tesseract.html" rel="nofollow">Tesseract</a></li>
+<li><a class="external text" href="https://web.archive.org/web/20001026042753/http://www.maa.org/editorial/knot/tesseract.html" rel="nofollow">Cut The Knot! The Tesseract</a></li>
+<li><a class="external text" href="http://users.ox.ac.uk/~kch/ballmath/victorian.html#hinton" rel="nofollow">Charles Howard Hinton</a></li>
+<li><a class="external text" href="https://web.archive.org/web/20070208075504/http://home.rochester.rr.com/jbxroads/4cube.html" rel="nofollow">A four dimensional version of Rubik’s Cube</a></li>
+<li><a class="external text" href="http://tetraspace.alkaline.org/introduction.htm" rel="nofollow">Fourth Dimension: Tetraspace</a></li>
+<li><a class="external text" href="https://web.archive.org/web/20080604042356/http://www.mushware.com/" rel="nofollow">Mushware Limited</a> — программа вывода тессеракта (<span lang="en" style="font-style:italic;">Tesseract Trainer</span>, лицензия совместима с GPLv2) и шутер от первого лица в четырёхмерном пространстве (<span lang="en" style="font-style:italic;">Adanaxis</span>; графика, в основном, трёхмерная; есть версия под GPL в репозиториях ОС).</li></ul>
+<table class="navbox collapsible">
+<tbody><tr>
+<th colspan="13" style="background:lightsteelblue;">Основные выпуклые правильные и однородные политопы в размерностях 2—10
+</th></tr>
+<tr style="text-align:center;">
+<th class="navbox-group" style="background:gainsboro;"><a class="new" href="/w/index.php?title=Coxeter_group&amp;action=edit&amp;redlink=1" title="Coxeter group (страница отсутствует)">Семейство</a>
+</th>
+<td style="background:gainsboro;"><a href="/wiki/%D0%9F%D1%80%D0%BE%D1%81%D1%82%D0%B0%D1%8F_%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B0_%D0%9B%D0%B8" title="Простая группа Ли">A<sub>n</sub></a>
+</td>
+<td style="background:gainsboro;"><a href="/wiki/%D0%9F%D1%80%D0%BE%D1%81%D1%82%D0%B0%D1%8F_%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B0_%D0%9B%D0%B8" title="Простая группа Ли">B<sub>n</sub></a>
+</td>
+<td style="background:gainsboro;"><span style="background-color: #f0f0e0">I₂(p)</span> / <a href="/wiki/%D0%9F%D1%80%D0%BE%D1%81%D1%82%D0%B0%D1%8F_%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B0_%D0%9B%D0%B8" title="Простая группа Ли">D<sub>n</sub></a>
+</td>
+<td style="background:gainsboro;"><span style="background-color: #f0e0e0"><a href="/wiki/E%E2%82%86_(%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0)" title="E₆ (математика)">E₆</a> / <a class="new" href="/w/index.php?title=E%E2%82%87_(%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0)&amp;action=edit&amp;redlink=1" title="E₇ (математика) (страница отсутствует)">E₇</a> / <a href="/wiki/E%E2%82%88_(%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0)" title="E₈ (математика)">E₈</a></span> / <span style="background-color: #e0f0e0"><a href="/wiki/F%E2%82%84_(%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0)" title="F₄ (математика)">F₄</a></span> / <span style="background-color: #e0e0f0"><a class="mw-redirect" href="/wiki/G%E2%82%82_(%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0)" title="G₂ (математика)">G₂</a></span>
+</td>
+<td style="background:gainsboro;"><a class="new" href="/w/index.php?title=H%E2%82%84_(%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0)&amp;action=edit&amp;redlink=1" title="H₄ (математика) (страница отсутствует)">H₄</a>
+</td></tr>
+<tr style="text-align:center;">
+<th class="navbox-group" style="background:gainsboro;"><a href="/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA" title="Правильный многоугольник">Правильный многоугольник</a>
+</th>
+<td><a class="mw-redirect" href="/wiki/%D0%A0%D0%B0%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9_%D1%82%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA" title="Равносторонний треугольник">Правильный треугольник</a>
+</td>
+<td><a href="/wiki/%D0%9A%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82" title="Квадрат">Квадрат</a>
+</td>
+<td style="background:#f0f0e0;"><a href="/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA" title="Правильный многоугольник">Правильный <br/> p-угольник</a>
+</td>
+<td style="background:#e0e0f0;"><a href="/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%88%D0%B5%D1%81%D1%82%D0%B8%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA" title="Правильный шестиугольник">Правильный шестиугольник</a>
+</td>
+<td><a href="/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BF%D1%8F%D1%82%D0%B8%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA" title="Правильный пятиугольник">Правильный пятиугольник</a>
+</td></tr>
+<tr style="text-align:center;">
+<th class="navbox-group" style="background:gainsboro;"><a href="/wiki/%D0%9E%D0%B4%D0%BD%D0%BE%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%BD%D0%B8%D0%BA" title="Однородный многогранник">Однородный многогранник</a>
+</th>
+<td style="background:whitesmoke;"><a href="/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%82%D0%B5%D1%82%D1%80%D0%B0%D1%8D%D0%B4%D1%80" title="Правильный тетраэдр">Правильный тетраэдр</a>
+</td>
+<td style="background:whitesmoke;"><a class="mw-redirect" href="/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BE%D0%BA%D1%82%D0%B0%D1%8D%D0%B4%D1%80" title="Правильный октаэдр">Правильный октаэдр</a> • <a href="/wiki/%D0%9A%D1%83%D0%B1" title="Куб">Куб</a>
+</td>
+<td style="background:whitesmoke;"><a href="/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%82%D0%B5%D1%82%D1%80%D0%B0%D1%8D%D0%B4%D1%80" title="Правильный тетраэдр">Полукуб</a>
+</td>
+<td style="background:whitesmoke;">
+</td>
+<td style="background:whitesmoke;"><a class="mw-redirect" href="/wiki/%D0%94%D0%BE%D0%B4%D0%B5%D0%BA%D0%B0%D1%8D%D0%B4%D1%80" title="Додекаэдр">Правильный додекаэдр</a> • <a href="/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B8%D0%BA%D0%BE%D1%81%D0%B0%D1%8D%D0%B4%D1%80" title="Правильный икосаэдр">Правильный икосаэдр</a>
+</td></tr>
+<tr style="text-align:center;">
+<th class="navbox-group" style="background:gainsboro;"><a class="new" href="/w/index.php?title=%D0%9E%D0%B4%D0%BD%D0%BE%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%D1%8F%D1%87%D0%B5%D0%B9%D0%BD%D0%B8%D0%BA&amp;action=edit&amp;redlink=1" title="Однородный многоячейник (страница отсутствует)">Однородный многоячейник</a>
+</th>
+<td><a href="/wiki/%D0%9F%D1%8F%D1%82%D0%B8%D1%8F%D1%87%D0%B5%D0%B9%D0%BD%D0%B8%D0%BA" title="Пятиячейник">Пятиячейник</a>
+</td>
+<td><a class="mw-redirect" href="/wiki/16-%D1%8F%D1%87%D0%B5%D0%B9%D0%BD%D0%B8%D0%BA" title="16-ячейник">16-ячейник</a> • <a class="mw-selflink selflink">Тессеракт</a>
+</td>
+<td><a class="mw-redirect" href="/wiki/16-%D1%8F%D1%87%D0%B5%D0%B9%D0%BD%D0%B8%D0%BA" title="16-ячейник">Полутессеракт</a>
+</td>
+<td style="background:#e0f0e0;"><a class="mw-redirect" href="/wiki/24-%D1%8F%D1%87%D0%B5%D0%B9%D0%BD%D0%B8%D0%BA" title="24-ячейник">24-ячейник</a>
+</td>
+<td><a class="mw-redirect" href="/wiki/120-%D1%8F%D1%87%D0%B5%D0%B9%D0%BD%D0%B8%D0%BA" title="120-ячейник">120-ячейник</a> • <a class="mw-redirect" href="/wiki/600-%D1%8F%D1%87%D0%B5%D0%B9%D0%BD%D0%B8%D0%BA" title="600-ячейник">600-ячейник</a>
+</td></tr>
+<tr style="text-align:center;">
+<th class="navbox-group" style="background:gainsboro;"><a class="new" href="/w/index.php?title=%D0%9E%D0%B4%D0%BD%D0%BE%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_5-%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%BE%D0%BF&amp;action=edit&amp;redlink=1" title="Однородный 5-политоп (страница отсутствует)">Однородный 5-политоп</a>
+</th>
+<td style="background:whitesmoke;"><a class="mw-redirect" href="/wiki/%D0%93%D0%B5%D0%BA%D1%81%D0%B0%D1%82%D0%B5%D1%80%D0%BE%D0%BD" title="Гексатерон">Правильный 5-симплекс</a>
+</td>
+<td style="background:whitesmoke;"><a href="/wiki/5-%D0%BE%D1%80%D1%82%D0%BE%D0%BF%D0%BB%D0%B5%D0%BA%D1%81" title="5-ортоплекс">5-ортоплекс</a> • <a href="/wiki/%D0%9F%D0%B5%D0%BD%D1%82%D0%B5%D1%80%D0%B0%D0%BA%D1%82" title="Пентеракт">5-гиперкуб</a>
+</td>
+<td style="background:whitesmoke;"><a href="/wiki/5-%D0%BF%D0%BE%D0%BB%D1%83%D0%B3%D0%B8%D0%BF%D0%B5%D1%80%D0%BA%D1%83%D0%B1" title="5-полугиперкуб">5-полугиперкуб</a>
+</td>
+<td style="background:whitesmoke;">
+</td>
+<td style="background:whitesmoke;">
+</td></tr>
+<tr style="text-align:center;">
+<th class="navbox-group" style="background:gainsboro;"><a class="new" href="/w/index.php?title=%D0%9E%D0%B4%D0%BD%D0%BE%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_6-%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%BE%D0%BF&amp;action=edit&amp;redlink=1" title="Однородный 6-политоп (страница отсутствует)">Однородный 6-политоп</a>
+</th>
+<td><a href="/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_6-%D1%81%D0%B8%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81" title="Правильный 6-симплекс">Правильный 6-симплекс</a>
+</td>
+<td><a href="/wiki/6-%D0%BE%D1%80%D1%82%D0%BE%D0%BF%D0%BB%D0%B5%D0%BA%D1%81" title="6-ортоплекс">6-ортоплекс</a> • <a href="/wiki/%D0%93%D0%B5%D0%BA%D1%81%D0%B5%D1%80%D0%B0%D0%BA%D1%82" title="Гексеракт">6-гиперкуб</a>
+</td>
+<td><a class="new" href="/w/index.php?title=6-%D0%BF%D0%BE%D0%BB%D1%83%D0%B3%D0%B8%D0%BF%D0%B5%D1%80%D0%BA%D1%83%D0%B1&amp;action=edit&amp;redlink=1" title="6-полугиперкуб (страница отсутствует)">6-полугиперкуб</a>
+</td>
+<td style="background:#f0e0e0;"><a class="new" href="/w/index.php?title=1_22_%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%BE%D0%BF&amp;action=edit&amp;redlink=1" title="1 22 политоп (страница отсутствует)">1<sub>22</sub></a> • <a class="new" href="/w/index.php?title=2_21_%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%BE%D0%BF&amp;action=edit&amp;redlink=1" title="2 21 политоп (страница отсутствует)">2<sub>21</sub></a>
+</td>
+<td>
+</td></tr>
+<tr style="text-align:center;">
+<th class="navbox-group" style="background:gainsboro;"><a class="new" href="/w/index.php?title=%D0%9E%D0%B4%D0%BD%D0%BE%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_7-%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%BE%D0%BF&amp;action=edit&amp;redlink=1" title="Однородный 7-политоп (страница отсутствует)">Однородный 7-политоп</a>
+</th>
+<td style="background:whitesmoke;"><a href="/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_7-%D1%81%D0%B8%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81" title="Правильный 7-симплекс">Правильный 7-симплекс</a>
+</td>
+<td style="background:whitesmoke;"><a class="new" href="/w/index.php?title=7-%D0%BE%D1%80%D1%82%D0%BE%D0%BF%D0%BB%D0%B5%D0%BA%D1%81&amp;action=edit&amp;redlink=1" title="7-ортоплекс (страница отсутствует)">7-ортоплекс</a> • <a href="/wiki/%D0%93%D0%B5%D0%BF%D1%82%D0%B5%D1%80%D0%B0%D0%BA%D1%82" title="Гептеракт">7-гиперкуб</a>
+</td>
+<td style="background:whitesmoke;"><a class="new" href="/w/index.php?title=7-%D0%BF%D0%BE%D0%BB%D1%83%D0%B3%D0%B8%D0%BF%D0%B5%D1%80%D0%BA%D1%83%D0%B1&amp;action=edit&amp;redlink=1" title="7-полугиперкуб (страница отсутствует)">7-полугиперкуб</a>
+</td>
+<td style="background:#f0e0e0;"><a class="new" href="/w/index.php?title=1_32_%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%BE%D0%BF&amp;action=edit&amp;redlink=1" title="1 32 политоп (страница отсутствует)">1<sub>32</sub></a> • <a class="new" href="/w/index.php?title=2_31_%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%BE%D0%BF&amp;action=edit&amp;redlink=1" title="2 31 политоп (страница отсутствует)">2<sub>31</sub></a> • <a class="new" href="/w/index.php?title=3_21_polytope&amp;action=edit&amp;redlink=1" title="3 21 polytope (страница отсутствует)">3<sub>21</sub></a>
+</td>
+<td style="background:whitesmoke;">
+</td></tr>
+<tr style="text-align:center;">
+<th class="navbox-group" style="background:gainsboro;"><a class="new" href="/w/index.php?title=%D0%9E%D0%B4%D0%BD%D0%BE%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_8-%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%BE%D0%BF&amp;action=edit&amp;redlink=1" title="Однородный 8-политоп (страница отсутствует)">Однородный 8-политоп</a>
+</th>
+<td><a href="/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_8-%D1%81%D0%B8%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81" title="Правильный 8-симплекс">Правильный 8-симплекс</a>
+</td>
+<td><a class="new" href="/w/index.php?title=8-%D0%BE%D1%80%D1%82%D0%BE%D0%BF%D0%BB%D0%B5%D0%BA%D1%81&amp;action=edit&amp;redlink=1" title="8-ортоплекс (страница отсутствует)">8-ортоплекс</a> • <a href="/wiki/%D0%9E%D0%BA%D1%82%D0%B5%D1%80%D0%B0%D0%BA%D1%82" title="Октеракт">8-гиперкуб</a>
+</td>
+<td><a class="new" href="/w/index.php?title=8-%D0%BF%D0%BE%D0%BB%D1%83%D0%B3%D0%B8%D0%BF%D0%B5%D1%80%D0%BA%D1%83%D0%B1&amp;action=edit&amp;redlink=1" title="8-полугиперкуб (страница отсутствует)">8-полугиперкуб</a>
+</td>
+<td style="background:#f0e0e0;"><a class="new" href="/w/index.php?title=1_42_%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%BE%D0%BF&amp;action=edit&amp;redlink=1" title="1 42 политоп (страница отсутствует)">1<sub>42</sub></a> • <a class="new" href="/w/index.php?title=2_41_%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%BE%D0%BF&amp;action=edit&amp;redlink=1" title="2 41 политоп (страница отсутствует)">2<sub>41</sub></a> • <a class="new" href="/w/index.php?title=4_21_polytope&amp;action=edit&amp;redlink=1" title="4 21 polytope (страница отсутствует)">4<sub>21</sub></a>
+</td>
+<td>
+</td></tr>
+<tr style="text-align:center;">
+<th class="navbox-group" style="background:gainsboro;"><a class="new" href="/w/index.php?title=%D0%9E%D0%B4%D0%BD%D0%BE%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_9-%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%BE%D0%BF&amp;action=edit&amp;redlink=1" title="Однородный 9-политоп (страница отсутствует)">Однородный 9-политоп</a>
+</th>
+<td style="background:whitesmoke;"><a href="/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_9-%D1%81%D0%B8%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81" title="Правильный 9-симплекс">Правильный 9-симплекс</a>
+</td>
+<td style="background:whitesmoke;"><a class="new" href="/w/index.php?title=9-%D0%BE%D1%80%D1%82%D0%BE%D0%BF%D0%BB%D0%B5%D0%BA%D1%81&amp;action=edit&amp;redlink=1" title="9-ортоплекс (страница отсутствует)">9-ортоплекс</a> • <a class="mw-redirect" href="/wiki/%D0%AD%D0%BD%D1%82%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BA%D1%82" title="Энтенеракт">9-гиперкуб</a>
+</td>
+<td style="background:whitesmoke;"><a class="new" href="/w/index.php?title=9-%D0%BF%D0%BE%D0%BB%D1%83%D0%B3%D0%B8%D0%BF%D0%B5%D1%80%D0%BA%D1%83%D0%B1&amp;action=edit&amp;redlink=1" title="9-полугиперкуб (страница отсутствует)">9-полугиперкуб</a>
+</td>
+<td style="background:whitesmoke;">
+</td>
+<td style="background:whitesmoke;">
+</td></tr>
+<tr style="text-align:center;">
+<th class="navbox-group" style="background:gainsboro;"><a class="new" href="/w/index.php?title=%D0%9E%D0%B4%D0%BD%D0%BE%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_10-%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%BE%D0%BF&amp;action=edit&amp;redlink=1" title="Однородный 10-политоп (страница отсутствует)">Однородный 10-политоп</a>
+</th>
+<td><a href="/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_10-%D1%81%D0%B8%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81" title="Правильный 10-симплекс">Правильный 10-симплекс</a>
+</td>
+<td><a class="new" href="/w/index.php?title=10-%D0%BE%D1%80%D1%82%D0%BE%D0%BF%D0%BB%D0%B5%D0%BA%D1%81&amp;action=edit&amp;redlink=1" title="10-ортоплекс (страница отсутствует)">10-ортоплекс</a> • <a href="/wiki/%D0%94%D0%B5%D0%BA%D0%B5%D1%80%D0%B0%D0%BA%D1%82" title="Декеракт">10-гиперкуб</a>
+</td>
+<td><a class="new" href="/w/index.php?title=10-%D0%BF%D0%BE%D0%BB%D1%83%D0%B3%D0%B8%D0%BF%D0%B5%D1%80%D0%BA%D1%83%D0%B1&amp;action=edit&amp;redlink=1" title="10-полугиперкуб (страница отсутствует)">10-полугиперкуб</a>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr style="text-align:center;">
+<th class="navbox-group" style="background:gainsboro;">Однородный <i>n</i>-<a href="/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D0%BE%D0%BF" title="Политоп">политоп</a>
+</th>
+<td style="background:whitesmoke;">Правильный <i>n</i>-<a href="/wiki/%D0%A1%D0%B8%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81" title="Симплекс">симплекс</a>
+</td>
+<td style="background:whitesmoke;"><i>n</i>-<a class="mw-redirect" href="/wiki/%D0%9E%D1%80%D1%82%D0%BE%D0%BF%D0%BB%D0%B5%D0%BA%D1%81" title="Ортоплекс">ортоплекс</a> • <i>n</i>-<a href="/wiki/%D0%93%D0%B8%D0%BF%D0%B5%D1%80%D0%BA%D1%83%D0%B1" title="Гиперкуб">гиперкуб</a>
+</td>
+<td style="background:whitesmoke;"><i>n</i>-<a href="/wiki/%D0%9F%D0%BE%D0%BB%D1%83%D0%B3%D0%B8%D0%BF%D0%B5%D1%80%D0%BA%D1%83%D0%B1" title="Полугиперкуб">полугиперкуб</a>
+</td>
+<td style="background:#f0e0e0;"><a class="new" href="/w/index.php?title=%D0%9E%D0%B4%D0%BD%D0%BE%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_1_k2_%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%BE%D0%BF&amp;action=edit&amp;redlink=1" title="Однородный 1 k2 политоп (страница отсутствует)">1<sub>k2</sub></a> • <a class="new" href="/w/index.php?title=%D0%9E%D0%B4%D0%BD%D0%BE%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_2_k1_%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%BE%D0%BF&amp;action=edit&amp;redlink=1" title="Однородный 2 k1 политоп (страница отсутствует)">2<sub>k1</sub></a> • <a class="new" href="/w/index.php?title=%D0%9E%D0%B4%D0%BD%D0%BE%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_k_21_%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%BE%D0%BF&amp;action=edit&amp;redlink=1" title="Однородный k 21 политоп (страница отсутствует)">k<sub>21</sub></a>
+</td>
+<td style="background:whitesmoke;"><i>n</i>-<a href="/wiki/%D0%9F%D1%8F%D1%82%D0%B8%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%BD%D0%B8%D0%BA" title="Пятиугольный многогранник">пятиугольный многогранник</a>
+</td></tr>
+<tr style="text-align:center;">
+<th colspan="13" style="background:gainsboro;">Темы: <a href="/wiki/%D0%A1%D0%B5%D0%BC%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B0_%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2" title="Семейства многогранников">Семейства политопов</a> • <a href="/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%D0%BC%D0%B5%D1%80%D0%BD%D1%8B%D0%B5_%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8" title="Правильные многомерные многогранники">Правильные политопы</a> • <a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D1%85_%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%D0%BC%D0%B5%D1%80%D0%BD%D1%8B%D1%85_%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%B8_%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D0%B9" title="Список правильных многомерных многогранников и соединений">Список правильных политопов и их соединений</a>
+</th></tr></tbody></table>
+<div aria-labelledby="Многогранники" class="navbox" data-name="Многогранники" role="navigation"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%9C%D0%BD%D0%BE%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8" title="Перейти к шаблону «Многогранники»"><img alt="Перейти к шаблону «Многогранники»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span></span><div id="Многогранники" style="font-size:114%;margin:0 5em"><a href="/wiki/%D0%9C%D0%BD%D0%BE%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%BD%D0%B8%D0%BA" title="Многогранник">Многогранники</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%BD%D0%B8%D0%BA" title="Правильный многогранник">Правильные</a></th><td class="navbox-list navbox-odd hlist hlist-items-nowrap" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/%D0%A2%D1%80%D1%91%D1%85%D0%BC%D0%B5%D1%80%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE" title="Трёхмерное пространство">Трёхмерные<br/>(Платоновы тела)</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%82%D0%B5%D1%82%D1%80%D0%B0%D1%8D%D0%B4%D1%80" title="Правильный тетраэдр">Правильный тетраэдр</a></li>
+<li><a href="/wiki/%D0%9A%D1%83%D0%B1" title="Куб">Куб</a></li>
+<li><a href="/wiki/%D0%9E%D0%BA%D1%82%D0%B0%D1%8D%D0%B4%D1%80" title="Октаэдр">Октаэдр</a></li>
+<li><a href="/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D0%B4%D0%B5%D0%BA%D0%B0%D1%8D%D0%B4%D1%80" title="Правильный додекаэдр">Додекаэдр</a></li>
+<li><a href="/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B8%D0%BA%D0%BE%D1%81%D0%B0%D1%8D%D0%B4%D1%80" title="Правильный икосаэдр">Икосаэдр</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/%D0%A7%D0%B5%D1%82%D1%8B%D1%80%D1%91%D1%85%D0%BC%D0%B5%D1%80%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE" title="Четырёхмерное пространство">Четырёхмерные</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%9F%D1%8F%D1%82%D0%B8%D1%8F%D1%87%D0%B5%D0%B9%D0%BD%D0%B8%D0%BA" title="Пятиячейник">Пятиячейник</a></li>
+<li><a class="mw-selflink selflink">Тессеракт</a></li>
+<li><a href="/wiki/%D0%A8%D0%B5%D1%81%D1%82%D0%BD%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D0%B8%D1%8F%D1%87%D0%B5%D0%B9%D0%BD%D0%B8%D0%BA" title="Шестнадцатиячейник">Шестнадцатиячейник</a></li>
+<li><a href="/wiki/%D0%94%D0%B2%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%82%D1%8B%D1%80%D1%91%D1%85%D1%8A%D1%8F%D1%87%D0%B5%D0%B9%D0%BD%D0%B8%D0%BA" title="Двадцатичетырёхъячейник">Двадцатичетырёхъячейник</a></li>
+<li><a href="/wiki/%D0%A1%D1%82%D0%BE%D0%B4%D0%B2%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D0%B8%D1%8F%D1%87%D0%B5%D0%B9%D0%BD%D0%B8%D0%BA" title="Стодвадцатиячейник">Стодвадцатиячейник</a></li>
+<li><a href="/wiki/%D0%A8%D0%B5%D1%81%D1%82%D0%B8%D1%81%D0%BE%D1%82%D1%8F%D1%87%D0%B5%D0%B9%D0%BD%D0%B8%D0%BA" title="Шестисотячейник">Шестисотячейник</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/%D0%A1%D1%82%D0%B0%D1%80%D1%88%D0%B8%D0%B5_%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%D0%BD%D0%BE%D1%81%D1%82%D0%B8" title="Старшие размерности">Большей размерности</a><br/>(указана в скобках)</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%A1%D0%B8%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81" title="Симплекс">Правильный симплекс</a></li>
+<li><a href="/wiki/%D0%93%D0%B8%D0%BF%D0%B5%D1%80%D0%BA%D1%83%D0%B1" title="Гиперкуб">Гиперкуб</a> (<a href="/wiki/%D0%9F%D0%B5%D0%BD%D1%82%D0%B5%D1%80%D0%B0%D0%BA%D1%82" title="Пентеракт">Пентеракт (5)</a></li>
+<li><a href="/wiki/%D0%93%D0%B5%D0%BA%D1%81%D0%B5%D1%80%D0%B0%D0%BA%D1%82" title="Гексеракт">Гексеракт (6)</a></li>
+<li><a href="/wiki/%D0%93%D0%B5%D0%BF%D1%82%D0%B5%D1%80%D0%B0%D0%BA%D1%82" title="Гептеракт">Гептеракт (7)</a></li>
+<li><a href="/wiki/%D0%9E%D0%BA%D1%82%D0%B5%D1%80%D0%B0%D0%BA%D1%82" title="Октеракт">Октеракт (8)</a></li>
+<li><a href="/wiki/%D0%AD%D0%BD%D0%BD%D0%B5%D1%80%D0%B0%D0%BA%D1%82" title="Эннеракт">Эннеракт (9)</a></li>
+<li><a href="/wiki/%D0%94%D0%B5%D0%BA%D0%B5%D1%80%D0%B0%D0%BA%D1%82" title="Декеракт">Декеракт (10)</a>)</li>
+<li><a href="/wiki/%D0%93%D0%B8%D0%BF%D0%B5%D1%80%D0%BE%D0%BA%D1%82%D0%B0%D1%8D%D0%B4%D1%80" title="Гипероктаэдр">Гипероктаэдр</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/%D0%A2%D0%B5%D0%BB%D0%BE_%D0%9A%D0%B5%D0%BF%D0%BB%D0%B5%D1%80%D0%B0_%E2%80%94_%D0%9F%D1%83%D0%B0%D0%BD%D1%81%D0%BE" title="Тело Кеплера — Пуансо">Правильные<br/>невыпуклые</a></th><td class="navbox-list navbox-even hlist hlist-items-nowrap" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-redirect" href="/wiki/%D0%97%D0%B2%D1%91%D0%B7%D0%B4%D1%87%D0%B0%D1%82%D1%8B%D0%B9_%D0%B4%D0%BE%D0%B4%D0%B5%D0%BA%D0%B0%D1%8D%D0%B4%D1%80" title="Звёздчатый додекаэдр">Звёздчатый додекаэдр</a></li>
+<li><a class="mw-redirect" href="/wiki/%D0%97%D0%B2%D1%91%D0%B7%D0%B4%D1%87%D0%B0%D1%82%D1%8B%D0%B9_%D0%B8%D0%BA%D0%BE%D1%81%D0%BE%D0%B4%D0%BE%D0%B4%D0%B5%D0%BA%D0%B0%D1%8D%D0%B4%D1%80" title="Звёздчатый икосододекаэдр">Звёздчатый икосододекаэдр</a></li>
+<li><a class="mw-redirect" href="/wiki/%D0%97%D0%B2%D1%91%D0%B7%D0%B4%D1%87%D0%B0%D1%82%D1%8B%D0%B9_%D0%B8%D0%BA%D0%BE%D1%81%D0%B0%D1%8D%D0%B4%D1%80" title="Звёздчатый икосаэдр">Звёздчатый икосаэдр</a></li>
+<li><a href="/wiki/%D0%97%D0%B2%D1%91%D0%B7%D0%B4%D1%87%D0%B0%D1%82%D1%8B%D0%B9_%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%BD%D0%B8%D0%BA" title="Звёздчатый многогранник">Звёздчатый многогранник</a></li>
+<li><a href="/wiki/%D0%97%D0%B2%D1%91%D0%B7%D0%B4%D1%87%D0%B0%D1%82%D1%8B%D0%B9_%D0%BE%D0%BA%D1%82%D0%B0%D1%8D%D0%B4%D1%80" title="Звёздчатый октаэдр">Звёздчатый октаэдр</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Трёхмерные по количеству<br/>граней (указано в скобках)</th><td class="navbox-list navbox-odd hlist hlist-items-nowrap" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span data-interwiki-article="Monohedron" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=%D0%9C%D0%BE%D0%BD%D0%BE%D1%8D%D0%B4%D1%80&amp;action=edit&amp;redlink=1" title="Моноэдр (страница отсутствует)">Моноэдр (1)</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://en.wikipedia.org/wiki/Monohedron" title="en:Monohedron"><span title="Monohedron — версия статьи «Моноэдр» на английском языке">[en]</span></a></sup></span></li>
+<li><a href="/wiki/%D0%94%D0%B8%D1%8D%D0%B4%D1%80" title="Диэдр">Диэдр (2)</a></li>
+<li><a href="/wiki/%D0%A2%D1%80%D0%B8%D1%8D%D0%B4%D1%80" title="Триэдр">Триэдр (3)</a></li>
+<li><a href="/wiki/%D0%A2%D0%B5%D1%82%D1%80%D0%B0%D1%8D%D0%B4%D1%80" title="Тетраэдр">Тетраэдр (4)</a></li>
+<li><a href="/wiki/%D0%9F%D0%B5%D0%BD%D1%82%D0%B0%D1%8D%D0%B4%D1%80" title="Пентаэдр">Пентаэдр (5)</a></li>
+<li><a class="mw-redirect" href="/wiki/%D0%93%D0%B5%D0%BA%D1%81%D0%B0%D1%8D%D0%B4%D1%80" title="Гексаэдр">Гексаэдр (6)</a></li>
+<li><span data-interwiki-article="Heptahedron" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=%D0%93%D0%B5%D0%BF%D1%82%D0%B0%D1%8D%D0%B4%D1%80&amp;action=edit&amp;redlink=1" title="Гептаэдр (страница отсутствует)">Гептаэдр (7)</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://en.wikipedia.org/wiki/Heptahedron" title="en:Heptahedron"><span title="Heptahedron — версия статьи «Гептаэдр» на английском языке">[en]</span></a></sup></span></li>
+<li><a href="/wiki/%D0%9E%D0%BA%D1%82%D0%B0%D1%8D%D0%B4%D1%80" title="Октаэдр">Октаэдр (8)</a></li>
+<li><a href="/wiki/%D0%94%D0%B5%D0%B2%D1%8F%D1%82%D0%B8%D0%B3%D1%80%D0%B0%D0%BD%D0%BD%D0%B8%D0%BA" title="Девятигранник">Эннеаэдр (9)</a></li>
+<li><a href="/wiki/%D0%94%D0%B5%D0%BA%D0%B0%D1%8D%D0%B4%D1%80" title="Декаэдр">Декаэдр (10)</a></li>
+<li><span data-interwiki-article="Hendecahedron" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=%D0%AD%D0%BD%D0%B4%D0%B5%D0%BA%D0%B0%D1%8D%D0%B4%D1%80&amp;action=edit&amp;redlink=1" title="Эндекаэдр (страница отсутствует)">Эндекаэдр (11)</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://en.wikipedia.org/wiki/Hendecahedron" title="en:Hendecahedron"><span title="Hendecahedron — версия статьи «Эндекаэдр» на английском языке">[en]</span></a></sup></span></li>
+<li><a href="/wiki/%D0%94%D0%B2%D0%B5%D0%BD%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D0%B8%D0%B3%D1%80%D0%B0%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8" title="Двенадцатигранники">Додекаэдр (12)</a></li>
+<li><a href="/wiki/%D0%A2%D1%80%D0%B8%D0%BD%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D0%B8%D0%B3%D1%80%D0%B0%D0%BD%D0%BD%D0%B8%D0%BA" title="Тринадцатигранник">Тридекаэдр (13)</a></li>
+<li><span data-interwiki-article="Tetradecahedron" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=%D0%A2%D0%B5%D1%82%D1%80%D0%B0%D0%B4%D0%B5%D0%BA%D0%B0%D1%8D%D0%B4%D1%80&amp;action=edit&amp;redlink=1" title="Тетрадекаэдр (страница отсутствует)">Тетрадекаэдр (14)</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://en.wikipedia.org/wiki/Tetradecahedron" title="en:Tetradecahedron"><span title="Tetradecahedron — версия статьи «Тетрадекаэдр» на английском языке">[en]</span></a></sup></span></li>
+<li><span data-interwiki-article="Pentadecahedron" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=%D0%9F%D0%B5%D0%BD%D1%82%D0%B0%D0%B4%D0%B5%D0%BA%D0%B0%D1%8D%D0%B4%D1%80&amp;action=edit&amp;redlink=1" title="Пентадекаэдр (страница отсутствует)">Пентадекаэдр (15)</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://en.wikipedia.org/wiki/Pentadecahedron" title="en:Pentadecahedron"><span title="Pentadecahedron — версия статьи «Пентадекаэдр» на английском языке">[en]</span></a></sup></span></li>
+<li><a href="/wiki/%D0%A8%D0%B5%D1%81%D1%82%D0%BD%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D0%B8%D0%B3%D1%80%D0%B0%D0%BD%D0%BD%D0%B8%D0%BA" title="Шестнадцатигранник">Гексадекаэдр (16)</a></li>
+<li><span data-interwiki-article="Heptadecahedron" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=%D0%93%D0%B5%D0%BF%D1%82%D0%B0%D0%B4%D0%B5%D0%BA%D0%B0%D1%8D%D0%B4%D1%80&amp;action=edit&amp;redlink=1" title="Гептадекаэдр (страница отсутствует)">Гептадекаэдр (17)</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://en.wikipedia.org/wiki/Heptadecahedron" title="en:Heptadecahedron"><span title="Heptadecahedron — версия статьи «Гептадекаэдр» на английском языке">[en]</span></a></sup></span></li>
+<li><span data-interwiki-article="Octadecahedron" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=%D0%9E%D0%BA%D1%82%D0%B0%D0%B4%D0%B5%D0%BA%D0%B0%D1%8D%D0%B4%D1%80&amp;action=edit&amp;redlink=1" title="Октадекаэдр (страница отсутствует)">Октадекаэдр (18)</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://en.wikipedia.org/wiki/Octadecahedron" title="en:Octadecahedron"><span title="Octadecahedron — версия статьи «Октадекаэдр» на английском языке">[en]</span></a></sup></span></li>
+<li><a href="/wiki/%D0%AD%D0%BD%D0%BD%D0%B5%D0%B0%D0%B4%D0%B5%D0%BA%D0%B0%D1%8D%D0%B4%D1%80" title="Эннеадекаэдр">Эннеадекаэдр (19)</a></li>
+<li><a href="/wiki/%D0%98%D0%BA%D0%BE%D1%81%D0%B0%D1%8D%D0%B4%D1%80" title="Икосаэдр">Икосаэдр (20)</a></li>
+<li><span data-interwiki-article="二十四面體" data-interwiki-lang="zh"><a class="new" href="/w/index.php?title=%D0%98%D0%BA%D0%BE%D1%81%D0%BE%D1%82%D0%B5%D1%82%D1%80%D0%B0%D1%8D%D0%B4%D1%80&amp;action=edit&amp;redlink=1" title="Икосотетраэдр (страница отсутствует)">Икосотетраэдр (24)</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://zh.wikipedia.org/wiki/%E4%BA%8C%E5%8D%81%E5%9B%9B%E9%9D%A2%E9%AB%94" title="zh:二十四面體"><span title="二十四面體 — версия статьи «Икосотетраэдр» на китайском языке">[zh]</span></a></sup></span></li>
+<li><a class="mw-redirect" href="/wiki/%D0%A2%D1%80%D0%B8%D0%B0%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D1%8D%D0%B4%D1%80" title="Триаконтаэдр">Триаконтаэдр (30)</a></li>
+<li><span data-interwiki-article="Hexecontahedron" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=%D0%93%D0%B5%D0%BA%D1%81%D0%B0%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D1%8D%D0%B4%D1%80&amp;action=edit&amp;redlink=1" title="Гексаконтаэдр (страница отсутствует)">Гексаконтаэдр (60)</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://en.wikipedia.org/wiki/Hexecontahedron" title="en:Hexecontahedron"><span title="Hexecontahedron — версия статьи «Гексаконтаэдр» на английском языке">[en]</span></a></sup></span></li>
+<li><span data-interwiki-article="Enneacontahedron" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=%D0%AD%D0%BD%D0%BD%D0%B5%D0%B0%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D1%8D%D0%B4%D1%80&amp;action=edit&amp;redlink=1" title="Эннеаконтаэдр (страница отсутствует)">Эннеаконтаэдр (90)</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://en.wikipedia.org/wiki/Enneacontahedron" title="en:Enneacontahedron"><span title="Enneacontahedron — версия статьи «Эннеаконтаэдр» на английском языке">[en]</span></a></sup></span></li>
+<li><span data-interwiki-article="Hectotriadiohedron" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=%D0%93%D0%B5%D0%BA%D1%82%D0%BE%D1%82%D1%80%D0%B8%D0%B0%D0%B4%D0%B8%D0%BE%D1%8D%D0%B4%D1%80&amp;action=edit&amp;redlink=1" title="Гектотриадиоэдр (страница отсутствует)">Гектотриадиоэдр (132)</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://en.wikipedia.org/wiki/Hectotriadiohedron" title="en:Hectotriadiohedron"><span title="Hectotriadiohedron — версия статьи «Гектотриадиоэдр» на английском языке">[en]</span></a></sup></span></li>
+<li><span data-interwiki-article="Apeirohedron" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=%D0%90%D0%BF%D0%B5%D0%B9%D1%80%D0%BE%D1%8D%D0%B4%D1%80&amp;action=edit&amp;redlink=1" title="Апейроэдр (страница отсутствует)">Апейроэдр (∞)</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://en.wikipedia.org/wiki/Apeirohedron" title="en:Apeirohedron"><span title="Apeirohedron — версия статьи «Апейроэдр» на английском языке">[en]</span></a></sup></span></li>
+<li><a href="/wiki/%D0%9E%D1%81%D0%BE%D1%8D%D0%B4%D1%80" title="Осоэдр">Осоэдр</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/%D0%92%D1%8B%D0%BF%D1%83%D0%BA%D0%BB%D1%8B%D0%B9_%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%BD%D0%B8%D0%BA" title="Выпуклый многогранник">Выпуклые</a></th><td class="navbox-list navbox-odd hlist hlist-items-nowrap" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/%D0%90%D1%80%D1%85%D0%B8%D0%BC%D0%B5%D0%B4%D0%BE%D0%B2%D0%BE_%D1%82%D0%B5%D0%BB%D0%BE" title="Архимедово тело">Архимедовы тела</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%9A%D1%83%D0%B1%D0%BE%D0%BE%D0%BA%D1%82%D0%B0%D1%8D%D0%B4%D1%80" title="Кубооктаэдр">Кубооктаэдр</a></li>
+<li><a href="/wiki/%D0%98%D0%BA%D0%BE%D1%81%D0%BE%D0%B4%D0%BE%D0%B4%D0%B5%D0%BA%D0%B0%D1%8D%D0%B4%D1%80" title="Икосододекаэдр">Икосододекаэдр</a></li>
+<li><a href="/wiki/%D0%A3%D1%81%D0%B5%D1%87%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D1%82%D0%B5%D1%82%D1%80%D0%B0%D1%8D%D0%B4%D1%80" title="Усечённый тетраэдр">Усечённый тетраэдр</a></li>
+<li><a href="/wiki/%D0%A3%D1%81%D0%B5%D1%87%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BE%D0%BA%D1%82%D0%B0%D1%8D%D0%B4%D1%80" title="Усечённый октаэдр">Усечённый октаэдр</a></li>
+<li><a href="/wiki/%D0%A3%D1%81%D0%B5%D1%87%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B8%D0%BA%D0%BE%D1%81%D0%B0%D1%8D%D0%B4%D1%80" title="Усечённый икосаэдр">Усечённый икосаэдр</a></li>
+<li><a href="/wiki/%D0%A3%D1%81%D0%B5%D1%87%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BA%D1%83%D0%B1" title="Усечённый куб">Усечённый куб</a></li>
+<li><a href="/wiki/%D0%A3%D1%81%D0%B5%D1%87%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D0%B4%D0%B5%D0%BA%D0%B0%D1%8D%D0%B4%D1%80" title="Усечённый додекаэдр">Усечённый додекаэдр</a></li>
+<li><a href="/wiki/%D0%A0%D0%BE%D0%BC%D0%B1%D0%BE%D0%BA%D1%83%D0%B1%D0%BE%D0%BE%D0%BA%D1%82%D0%B0%D1%8D%D0%B4%D1%80" title="Ромбокубооктаэдр">Ромбокубооктаэдр</a></li>
+<li><a href="/wiki/%D0%A0%D0%BE%D0%BC%D0%B1%D0%BE%D0%B8%D0%BA%D0%BE%D1%81%D0%BE%D0%B4%D0%BE%D0%B4%D0%B5%D0%BA%D0%B0%D1%8D%D0%B4%D1%80" title="Ромбоикосододекаэдр">Ромбоикосододекаэдр</a></li>
+<li><a href="/wiki/%D0%A3%D1%81%D0%B5%D1%87%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BA%D1%83%D0%B1%D0%BE%D0%BE%D0%BA%D1%82%D0%B0%D1%8D%D0%B4%D1%80" title="Усечённый кубооктаэдр">Усечённый кубооктаэдр</a></li>
+<li><a href="/wiki/%D0%A0%D0%BE%D0%BC%D0%B1%D0%BE%D1%83%D1%81%D0%B5%D1%87%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B8%D0%BA%D0%BE%D1%81%D0%BE%D0%B4%D0%BE%D0%B4%D0%B5%D0%BA%D0%B0%D1%8D%D0%B4%D1%80" title="Ромбоусечённый икосододекаэдр">Ромбоусечённый икосододекаэдр</a></li>
+<li><a href="/wiki/%D0%9A%D1%83%D1%80%D0%BD%D0%BE%D1%81%D1%8B%D0%B9_%D0%BA%D1%83%D0%B1" title="Курносый куб">Курносый куб</a></li>
+<li><a href="/wiki/%D0%9F%D0%BB%D0%BE%D1%81%D0%BA%D0%BE%D0%BD%D0%BE%D1%81%D1%8B%D0%B9_%D0%B4%D0%BE%D0%B4%D0%B5%D0%BA%D0%B0%D1%8D%D0%B4%D1%80" title="Плосконосый додекаэдр">Курносый додекаэдр</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a class="mw-redirect" href="/wiki/%D0%9A%D0%B0%D1%82%D0%B0%D0%BB%D0%B0%D0%BD%D0%BE%D0%B2%D1%8B_%D1%82%D0%B5%D0%BB%D0%B0" title="Каталановы тела">Каталановы тела</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%A0%D0%BE%D0%BC%D0%B1%D0%BE%D0%B4%D0%BE%D0%B4%D0%B5%D0%BA%D0%B0%D1%8D%D0%B4%D1%80" title="Ромбододекаэдр">Ромбододекаэдр</a></li>
+<li><a href="/wiki/%D0%A0%D0%BE%D0%BC%D0%B1%D0%BE%D1%82%D1%80%D0%B8%D0%B0%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D1%8D%D0%B4%D1%80" title="Ромботриаконтаэдр">Ромботриаконтаэдр</a></li>
+<li><a href="/wiki/%D0%A2%D1%80%D0%B8%D0%B0%D0%BA%D0%B8%D1%81%D1%82%D0%B5%D1%82%D1%80%D0%B0%D1%8D%D0%B4%D1%80" title="Триакистетраэдр">Триакистетраэдр</a></li>
+<li><a href="/wiki/%D0%A2%D0%B5%D1%82%D1%80%D0%B0%D0%BA%D0%B8%D1%81%D0%B3%D0%B5%D0%BA%D1%81%D0%B0%D1%8D%D0%B4%D1%80" title="Тетракисгексаэдр">Тетракисгексаэдр</a></li>
+<li><a href="/wiki/%D0%9F%D0%B5%D0%BD%D1%82%D0%B0%D0%BA%D0%B8%D1%81%D0%B4%D0%BE%D0%B4%D0%B5%D0%BA%D0%B0%D1%8D%D0%B4%D1%80" title="Пентакисдодекаэдр">Пентакисдодекаэдр</a></li>
+<li><a href="/wiki/%D0%A2%D1%80%D0%B8%D0%B0%D0%BA%D0%B8%D1%81%D0%BE%D0%BA%D1%82%D0%B0%D1%8D%D0%B4%D1%80" title="Триакисоктаэдр">Триакисоктаэдр</a></li>
+<li><a href="/wiki/%D0%A2%D1%80%D0%B8%D0%B0%D0%BA%D0%B8%D1%81%D0%B8%D0%BA%D0%BE%D1%81%D0%B0%D1%8D%D0%B4%D1%80" title="Триакисикосаэдр">Триакисикосаэдр</a></li>
+<li><a href="/wiki/%D0%94%D0%B5%D0%BB%D1%8C%D1%82%D0%BE%D0%B8%D0%B4%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B8%D0%BA%D0%BE%D1%81%D0%B8%D1%82%D0%B5%D1%82%D1%80%D0%B0%D1%8D%D0%B4%D1%80" title="Дельтоидальный икоситетраэдр">Дельтоидальный икоситетраэдр</a></li>
+<li><a href="/wiki/%D0%94%D0%B5%D0%BB%D1%8C%D1%82%D0%BE%D0%B8%D0%B4%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B3%D0%B5%D0%BA%D1%81%D0%B5%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D1%8D%D0%B4%D1%80" title="Дельтоидальный гексеконтаэдр">Дельтоидальный гексеконтаэдр</a></li>
+<li><a href="/wiki/%D0%93%D0%B5%D0%BA%D0%B7%D0%B0%D0%BA%D0%B8%D1%81%D0%BE%D0%BA%D1%82%D0%B0%D1%8D%D0%B4%D1%80" title="Гекзакисоктаэдр">Гекзакисоктаэдр</a></li>
+<li><a href="/wiki/%D0%93%D0%B5%D0%BA%D0%B7%D0%B0%D0%BA%D0%B8%D1%81%D0%B8%D0%BA%D0%BE%D1%81%D0%B0%D1%8D%D0%B4%D1%80" title="Гекзакисикосаэдр">Гекзакисикосаэдр</a></li>
+<li><a href="/wiki/%D0%9F%D0%B5%D0%BD%D1%82%D0%B0%D0%B3%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B8%D0%BA%D0%BE%D1%81%D0%B8%D1%82%D0%B5%D1%82%D1%80%D0%B0%D1%8D%D0%B4%D1%80" title="Пентагональный икоситетраэдр">Пентагональный икоситетраэдр</a></li>
+<li><a href="/wiki/%D0%9F%D0%B5%D0%BD%D1%82%D0%B0%D0%B3%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B3%D0%B5%D0%BA%D1%81%D0%B5%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D1%8D%D0%B4%D1%80" title="Пентагональный гексеконтаэдр">Пентагональный гексеконтаэдр</a></li></ul>
+</div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup"><div class="ts-navbox-plaintitle" id="Призмы" style="font-size:114%;margin:0 5em"><a href="/wiki/%D0%9F%D1%80%D0%B8%D0%B7%D0%BC%D0%B0_(%D0%B3%D0%B5%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%8F)" title="Призма (геометрия)">Призмы</a></div></th></tr><tr><td class="navbox-list navbox-even" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%A2%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%B8%D0%B7%D0%BC%D0%B0" title="Треугольная призма">Треугольная призма</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%A7%D0%B5%D1%82%D1%8B%D1%80%D1%91%D1%85%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%B8%D0%B7%D0%BC%D0%B0&amp;action=edit&amp;redlink=1" title="Четырёхугольная призма (страница отсутствует)">Четырёхугольная призма</a></li>
+<li><a href="/wiki/%D0%9F%D1%8F%D1%82%D0%B8%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%B8%D0%B7%D0%BC%D0%B0" title="Пятиугольная призма">Пятиугольная призма</a></li>
+<li><a href="/wiki/%D0%A8%D0%B5%D1%81%D1%82%D0%B8%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%B8%D0%B7%D0%BC%D0%B0" title="Шестиугольная призма">Шестиугольная призма</a></li>
+<li><span data-interwiki-article="Heptagonal prism" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=%D0%A1%D0%B5%D0%BC%D0%B8%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%B8%D0%B7%D0%BC%D0%B0&amp;action=edit&amp;redlink=1" title="Семиугольная призма (страница отсутствует)">Семиугольная призма</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://en.wikipedia.org/wiki/Heptagonal_prism" title="en:Heptagonal prism"><span title="Heptagonal prism — версия статьи «Семиугольная призма» на английском языке">[en]</span></a></sup></span></li>
+<li><a href="/wiki/%D0%92%D0%BE%D1%81%D1%8C%D0%BC%D0%B8%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%B8%D0%B7%D0%BC%D0%B0" title="Восьмиугольная призма">Восьмиугольная призма</a></li>
+<li><span data-interwiki-article="Enneagonal prism" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=%D0%94%D0%B5%D0%B2%D1%8F%D1%82%D0%B8%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%B8%D0%B7%D0%BC%D0%B0&amp;action=edit&amp;redlink=1" title="Девятиугольная призма (страница отсутствует)">Девятиугольная призма</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://en.wikipedia.org/wiki/Enneagonal_prism" title="en:Enneagonal prism"><span title="Enneagonal prism — версия статьи «Девятиугольная призма» на английском языке">[en]</span></a></sup></span></li>
+<li><a href="/wiki/%D0%94%D0%B5%D1%81%D1%8F%D1%82%D0%B8%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%B8%D0%B7%D0%BC%D0%B0" title="Десятиугольная призма">Десятиугольная призма</a></li>
+<li><span data-interwiki-article="Hendecagonal prism" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=%D0%9E%D0%B4%D0%B8%D0%BD%D0%BD%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D0%B8%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%B8%D0%B7%D0%BC%D0%B0&amp;action=edit&amp;redlink=1" title="Одиннадцатиугольная призма (страница отсутствует)">Одиннадцатиугольная призма</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://en.wikipedia.org/wiki/Hendecagonal_prism" title="en:Hendecagonal prism"><span title="Hendecagonal prism — версия статьи «Одиннадцатиугольная призма» на английском языке">[en]</span></a></sup></span></li>
+<li><span data-interwiki-article="Dodecagonal prism" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=%D0%94%D0%B2%D0%B5%D0%BD%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D0%B8%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%B8%D0%B7%D0%BC%D0%B0&amp;action=edit&amp;redlink=1" title="Двенадцатиугольная призма (страница отсутствует)">Двенадцатиугольная призма</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://en.wikipedia.org/wiki/Dodecagonal_prism" title="en:Dodecagonal prism"><span title="Dodecagonal prism — версия статьи «Двенадцатиугольная призма» на английском языке">[en]</span></a></sup></span></li></ul>
+</div></td></tr></tbody></table><div>
+<hr/></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup"><div class="ts-navbox-plaintitle" id="Многогранники_Джонсона" style="font-size:114%;margin:0 5em"><a href="/wiki/%D0%9C%D0%BD%D0%BE%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%BD%D0%B8%D0%BA_%D0%94%D0%B6%D0%BE%D0%BD%D1%81%D0%BE%D0%BD%D0%B0" title="Многогранник Джонсона">Многогранники Джонсона</a></div></th></tr><tr><td class="navbox-list navbox-even" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%9A%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82%D0%BD%D0%B0%D1%8F_%D0%BF%D0%B8%D1%80%D0%B0%D0%BC%D0%B8%D0%B4%D0%B0" title="Квадратная пирамида">Квадратная пирамида</a></li>
+<li><a href="/wiki/%D0%9F%D1%8F%D1%82%D0%B8%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BF%D0%B8%D1%80%D0%B0%D0%BC%D0%B8%D0%B4%D0%B0" title="Пятиугольная пирамида">Пятиугольная пирамида</a></li>
+<li><a href="/wiki/%D0%A2%D1%80%D1%91%D1%85%D1%81%D0%BA%D0%B0%D1%82%D0%BD%D1%8B%D0%B9_%D0%BA%D1%83%D0%BF%D0%BE%D0%BB" title="Трёхскатный купол">Трёхскатный купол</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D1%82%D1%8B%D1%80%D1%91%D1%85%D1%81%D0%BA%D0%B0%D1%82%D0%BD%D1%8B%D0%B9_%D0%BA%D1%83%D0%BF%D0%BE%D0%BB" title="Четырёхскатный купол">Четырёхскатный купол</a></li>
+<li><a href="/wiki/%D0%9F%D1%8F%D1%82%D0%B8%D1%81%D0%BA%D0%B0%D1%82%D0%BD%D1%8B%D0%B9_%D0%BA%D1%83%D0%BF%D0%BE%D0%BB" title="Пятискатный купол">Пятискатный купол</a></li>
+<li><a href="/wiki/%D0%9F%D1%8F%D1%82%D0%B8%D1%81%D0%BA%D0%B0%D1%82%D0%BD%D0%B0%D1%8F_%D1%80%D0%BE%D1%82%D0%BE%D0%BD%D0%B4%D0%B0" title="Пятискатная ротонда">Пятискатная ротонда</a></li>
+<li><a href="/wiki/%D0%A3%D0%B4%D0%BB%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D0%B0%D1%8F_%D1%82%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BF%D0%B8%D1%80%D0%B0%D0%BC%D0%B8%D0%B4%D0%B0" title="Удлинённая треугольная пирамида">Удлинённая треугольная пирамида</a></li>
+<li><a href="/wiki/%D0%A3%D0%B4%D0%BB%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D0%B0%D1%8F_%D1%87%D0%B5%D1%82%D1%8B%D1%80%D1%91%D1%85%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BF%D0%B8%D1%80%D0%B0%D0%BC%D0%B8%D0%B4%D0%B0" title="Удлинённая четырёхугольная пирамида">Удлинённая четырёхугольная пирамида</a></li>
+<li><a href="/wiki/%D0%A3%D0%B4%D0%BB%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D1%8F%D1%82%D0%B8%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BF%D0%B8%D1%80%D0%B0%D0%BC%D0%B8%D0%B4%D0%B0" title="Удлинённая пятиугольная пирамида">Удлинённая пятиугольная пирамида</a></li>
+<li><a href="/wiki/%D0%A1%D0%BA%D1%80%D1%83%D1%87%D0%B5%D0%BD%D0%BD%D0%BE_%D1%83%D0%B4%D0%BB%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D0%B0%D1%8F_%D1%87%D0%B5%D1%82%D1%8B%D1%80%D1%91%D1%85%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BF%D0%B8%D1%80%D0%B0%D0%BC%D0%B8%D0%B4%D0%B0" title="Скрученно удлинённая четырёхугольная пирамида">Скрученно удлинённая четырёхугольная пирамида</a></li>
+<li><a href="/wiki/%D0%A1%D0%BA%D1%80%D1%83%D1%87%D0%B5%D0%BD%D0%BD%D0%BE_%D1%83%D0%B4%D0%BB%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D1%8F%D1%82%D0%B8%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BF%D0%B8%D1%80%D0%B0%D0%BC%D0%B8%D0%B4%D0%B0" title="Скрученно удлинённая пятиугольная пирамида">Скрученно удлинённая пятиугольная пирамида</a></li>
+<li><a href="/wiki/%D0%A2%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%BF%D0%B8%D1%80%D0%B0%D0%BC%D0%B8%D0%B4%D0%B0" title="Треугольная бипирамида">Треугольная бипирамида</a></li>
+<li><a href="/wiki/%D0%9F%D1%8F%D1%82%D0%B8%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%BF%D0%B8%D1%80%D0%B0%D0%BC%D0%B8%D0%B4%D0%B0" title="Пятиугольная бипирамида">Пятиугольная бипирамида</a></li>
+<li><a href="/wiki/%D0%A3%D0%B4%D0%BB%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D0%B0%D1%8F_%D1%82%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%BF%D0%B8%D1%80%D0%B0%D0%BC%D0%B8%D0%B4%D0%B0" title="Удлинённая треугольная бипирамида">Удлинённая треугольная бипирамида</a></li>
+<li><a href="/wiki/%D0%A3%D0%B4%D0%BB%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D0%B0%D1%8F_%D1%87%D0%B5%D1%82%D1%8B%D1%80%D1%91%D1%85%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%BF%D0%B8%D1%80%D0%B0%D0%BC%D0%B8%D0%B4%D0%B0" title="Удлинённая четырёхугольная бипирамида">Удлинённая четырёхугольная бипирамида</a></li>
+<li><a href="/wiki/%D0%A3%D0%B4%D0%BB%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D1%8F%D1%82%D0%B8%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%BF%D0%B8%D1%80%D0%B0%D0%BC%D0%B8%D0%B4%D0%B0" title="Удлинённая пятиугольная бипирамида">Удлинённая пятиугольная бипирамида</a></li>
+<li><a href="/wiki/%D0%A1%D0%BA%D1%80%D1%83%D1%87%D0%B5%D0%BD%D0%BD%D0%BE_%D1%83%D0%B4%D0%BB%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D0%B0%D1%8F_%D1%87%D0%B5%D1%82%D1%8B%D1%80%D1%91%D1%85%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%BF%D0%B8%D1%80%D0%B0%D0%BC%D0%B8%D0%B4%D0%B0" title="Скрученно удлинённая четырёхугольная бипирамида">Скрученно удлинённая четырёхугольная бипирамида</a></li>
+<li><a href="/wiki/%D0%A3%D0%B4%D0%BB%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D1%82%D1%80%D1%91%D1%85%D1%81%D0%BA%D0%B0%D1%82%D0%BD%D1%8B%D0%B9_%D0%BA%D1%83%D0%BF%D0%BE%D0%BB" title="Удлинённый трёхскатный купол">Удлинённый трёхскатный купол</a></li>
+<li><a href="/wiki/%D0%A3%D0%B4%D0%BB%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D1%87%D0%B5%D1%82%D1%8B%D1%80%D1%91%D1%85%D1%81%D0%BA%D0%B0%D1%82%D0%BD%D1%8B%D0%B9_%D0%BA%D1%83%D0%BF%D0%BE%D0%BB" title="Удлинённый четырёхскатный купол">Удлинённый четырёхскатный купол</a></li>
+<li><a href="/wiki/%D0%A3%D0%B4%D0%BB%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BF%D1%8F%D1%82%D0%B8%D1%81%D0%BA%D0%B0%D1%82%D0%BD%D1%8B%D0%B9_%D0%BA%D1%83%D0%BF%D0%BE%D0%BB" title="Удлинённый пятискатный купол">Удлинённый пятискатный купол</a></li>
+<li><a href="/wiki/%D0%A3%D0%B4%D0%BB%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D1%8F%D1%82%D0%B8%D1%81%D0%BA%D0%B0%D1%82%D0%BD%D0%B0%D1%8F_%D1%80%D0%BE%D1%82%D0%BE%D0%BD%D0%B4%D0%B0" title="Удлинённая пятискатная ротонда">Удлинённая пятискатная ротонда</a></li>
+<li><a href="/wiki/%D0%A1%D0%BA%D1%80%D1%83%D1%87%D0%B5%D0%BD%D0%BD%D0%BE_%D1%83%D0%B4%D0%BB%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D1%82%D1%80%D1%91%D1%85%D1%81%D0%BA%D0%B0%D1%82%D0%BD%D1%8B%D0%B9_%D0%BA%D1%83%D0%BF%D0%BE%D0%BB" title="Скрученно удлинённый трёхскатный купол">Скрученно удлинённый трёхскатный купол</a></li>
+<li><a href="/wiki/%D0%A1%D0%BA%D1%80%D1%83%D1%87%D0%B5%D0%BD%D0%BD%D0%BE_%D1%83%D0%B4%D0%BB%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D1%87%D0%B5%D1%82%D1%8B%D1%80%D1%91%D1%85%D1%81%D0%BA%D0%B0%D1%82%D0%BD%D1%8B%D0%B9_%D0%BA%D1%83%D0%BF%D0%BE%D0%BB" title="Скрученно удлинённый четырёхскатный купол">Скрученно удлинённый четырёхскатный купол</a></li>
+<li><a href="/wiki/%D0%A1%D0%BA%D1%80%D1%83%D1%87%D0%B5%D0%BD%D0%BD%D0%BE_%D1%83%D0%B4%D0%BB%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BF%D1%8F%D1%82%D0%B8%D1%81%D0%BA%D0%B0%D1%82%D0%BD%D1%8B%D0%B9_%D0%BA%D1%83%D0%BF%D0%BE%D0%BB" title="Скрученно удлинённый пятискатный купол">Скрученно удлинённый пятискатный купол‎</a></li>
+<li><a href="/wiki/%D0%A1%D0%BA%D1%80%D1%83%D1%87%D0%B5%D0%BD%D0%BD%D0%BE_%D1%83%D0%B4%D0%BB%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D1%8F%D1%82%D0%B8%D1%81%D0%BA%D0%B0%D1%82%D0%BD%D0%B0%D1%8F_%D1%80%D0%BE%D1%82%D0%BE%D0%BD%D0%B4%D0%B0" title="Скрученно удлинённая пятискатная ротонда">Скрученно удлинённая пятискатная ротонда</a></li>
+<li><a href="/wiki/%D0%93%D0%B8%D1%80%D0%BE%D0%B1%D0%B8%D1%84%D0%B0%D1%81%D1%82%D0%B8%D0%B3%D0%B8%D1%83%D0%BC" title="Гиробифастигиум">Гиробифастигиум</a></li>
+<li><a href="/wiki/%D0%A2%D1%80%D1%91%D1%85%D1%81%D0%BA%D0%B0%D1%82%D0%BD%D1%8B%D0%B9_%D0%BF%D1%80%D1%8F%D0%BC%D0%BE%D0%B9_%D0%B1%D0%B8%D0%BA%D1%83%D0%BF%D0%BE%D0%BB" title="Трёхскатный прямой бикупол">Трёхскатный прямой бикупол</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D1%82%D1%8B%D1%80%D1%91%D1%85%D1%81%D0%BA%D0%B0%D1%82%D0%BD%D1%8B%D0%B9_%D0%BF%D1%80%D1%8F%D0%BC%D0%BE%D0%B9_%D0%B1%D0%B8%D0%BA%D1%83%D0%BF%D0%BE%D0%BB" title="Четырёхскатный прямой бикупол">Четырёхскатный прямой бикупол</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D1%82%D1%8B%D1%80%D1%91%D1%85%D1%81%D0%BA%D0%B0%D1%82%D0%BD%D1%8B%D0%B9_%D0%BF%D0%BE%D0%B2%D1%91%D1%80%D0%BD%D1%83%D1%82%D1%8B%D0%B9_%D0%B1%D0%B8%D0%BA%D1%83%D0%BF%D0%BE%D0%BB" title="Четырёхскатный повёрнутый бикупол">Четырёхскатный повёрнутый бикупол</a></li>
+<li><a href="/wiki/%D0%9F%D1%8F%D1%82%D0%B8%D1%81%D0%BA%D0%B0%D1%82%D0%BD%D1%8B%D0%B9_%D0%BF%D1%80%D1%8F%D0%BC%D0%BE%D0%B9_%D0%B1%D0%B8%D0%BA%D1%83%D0%BF%D0%BE%D0%BB" title="Пятискатный прямой бикупол">Пятискатный прямой бикупол</a></li>
+<li><a href="/wiki/%D0%9F%D1%8F%D1%82%D0%B8%D1%81%D0%BA%D0%B0%D1%82%D0%BD%D1%8B%D0%B9_%D0%BF%D0%BE%D0%B2%D1%91%D1%80%D0%BD%D1%83%D1%82%D1%8B%D0%B9_%D0%B1%D0%B8%D0%BA%D1%83%D0%BF%D0%BE%D0%BB" title="Пятискатный повёрнутый бикупол">Пятискатный повёрнутый бикупол</a></li>
+<li><a href="/wiki/%D0%9F%D1%8F%D1%82%D0%B8%D1%81%D0%BA%D0%B0%D1%82%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D1%8F%D0%BC%D0%B0%D1%8F_%D0%BA%D1%83%D0%BF%D0%BE%D0%BB%D0%BE%D1%80%D0%BE%D1%82%D0%BE%D0%BD%D0%B4%D0%B0" title="Пятискатная прямая куполоротонда">Пятискатная прямая куполоротонда</a></li>
+<li><a href="/wiki/%D0%9F%D1%8F%D1%82%D0%B8%D1%81%D0%BA%D0%B0%D1%82%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BE%D0%B2%D1%91%D1%80%D0%BD%D1%83%D1%82%D0%B0%D1%8F_%D0%BA%D1%83%D0%BF%D0%BE%D0%BB%D0%BE%D1%80%D0%BE%D1%82%D0%BE%D0%BD%D0%B4%D0%B0" title="Пятискатная повёрнутая куполоротонда">Пятискатная повёрнутая куполоротонда</a></li>
+<li><a href="/wiki/%D0%9F%D1%8F%D1%82%D0%B8%D1%81%D0%BA%D0%B0%D1%82%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D1%8F%D0%BC%D0%B0%D1%8F_%D0%B1%D0%B8%D1%80%D0%BE%D1%82%D0%BE%D0%BD%D0%B4%D0%B0" title="Пятискатная прямая биротонда">Пятискатная прямая биротонда</a></li>
+<li><a href="/wiki/%D0%A3%D0%B4%D0%BB%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D1%82%D1%80%D1%91%D1%85%D1%81%D0%BA%D0%B0%D1%82%D0%BD%D1%8B%D0%B9_%D0%BF%D1%80%D1%8F%D0%BC%D0%BE%D0%B9_%D0%B1%D0%B8%D0%BA%D1%83%D0%BF%D0%BE%D0%BB" title="Удлинённый трёхскатный прямой бикупол">Удлинённый трёхскатный прямой бикупол</a></li>
+<li><a href="/wiki/%D0%A3%D0%B4%D0%BB%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D1%82%D1%80%D1%91%D1%85%D1%81%D0%BA%D0%B0%D1%82%D0%BD%D1%8B%D0%B9_%D0%BF%D0%BE%D0%B2%D1%91%D1%80%D0%BD%D1%83%D1%82%D1%8B%D0%B9_%D0%B1%D0%B8%D0%BA%D1%83%D0%BF%D0%BE%D0%BB" title="Удлинённый трёхскатный повёрнутый бикупол">Удлинённый трёхскатный повёрнутый бикупол</a></li>
+<li><a href="/wiki/%D0%A3%D0%B4%D0%BB%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82%D0%BD%D1%8B%D0%B9_%D0%B3%D0%B8%D1%80%D0%BE%D0%B1%D0%B8%D0%BA%D1%83%D0%BF%D0%BE%D0%BB" title="Удлинённый квадратный гиробикупол">Удлинённый квадратный гиробикупол</a></li>
+<li><a href="/wiki/%D0%A3%D0%B4%D0%BB%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BF%D1%8F%D1%82%D0%B8%D1%81%D0%BA%D0%B0%D1%82%D0%BD%D1%8B%D0%B9_%D0%BF%D1%80%D1%8F%D0%BC%D0%BE%D0%B9_%D0%B1%D0%B8%D0%BA%D1%83%D0%BF%D0%BE%D0%BB" title="Удлинённый пятискатный прямой бикупол">Удлинённый пятискатный прямой бикупол</a></li>
+<li><a href="/wiki/%D0%A3%D0%B4%D0%BB%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BF%D1%8F%D1%82%D0%B8%D1%81%D0%BA%D0%B0%D1%82%D0%BD%D1%8B%D0%B9_%D0%BF%D0%BE%D0%B2%D1%91%D1%80%D0%BD%D1%83%D1%82%D1%8B%D0%B9_%D0%B1%D0%B8%D0%BA%D1%83%D0%BF%D0%BE%D0%BB" title="Удлинённый пятискатный повёрнутый бикупол">Удлинённый пятискатный повёрнутый бикупол</a></li>
+<li><a href="/wiki/%D0%A3%D0%B4%D0%BB%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D1%8F%D1%82%D0%B8%D1%81%D0%BA%D0%B0%D1%82%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D1%8F%D0%BC%D0%B0%D1%8F_%D0%BA%D1%83%D0%BF%D0%BE%D0%BB%D0%BE%D1%80%D0%BE%D1%82%D0%BE%D0%BD%D0%B4%D0%B0" title="Удлинённая пятискатная прямая куполоротонда">Удлинённая пятискатная прямая куполоротонда</a></li>
+<li><a href="/wiki/%D0%A3%D0%B4%D0%BB%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D1%8F%D1%82%D0%B8%D1%81%D0%BA%D0%B0%D1%82%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BE%D0%B2%D1%91%D1%80%D0%BD%D1%83%D1%82%D0%B0%D1%8F_%D0%BA%D1%83%D0%BF%D0%BE%D0%BB%D0%BE%D1%80%D0%BE%D1%82%D0%BE%D0%BD%D0%B4%D0%B0" title="Удлинённая пятискатная повёрнутая куполоротонда">Удлинённая пятискатная повёрнутая куполоротонда</a></li>
+<li><a href="/wiki/%D0%A3%D0%B4%D0%BB%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D1%8F%D1%82%D0%B8%D1%81%D0%BA%D0%B0%D1%82%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D1%8F%D0%BC%D0%B0%D1%8F_%D0%B1%D0%B8%D1%80%D0%BE%D1%82%D0%BE%D0%BD%D0%B4%D0%B0" title="Удлинённая пятискатная прямая биротонда">Удлинённая пятискатная прямая биротонда</a></li>
+<li><a href="/wiki/%D0%A3%D0%B4%D0%BB%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D1%8F%D1%82%D0%B8%D1%81%D0%BA%D0%B0%D1%82%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BE%D0%B2%D1%91%D1%80%D0%BD%D1%83%D1%82%D0%B0%D1%8F_%D0%B1%D0%B8%D1%80%D0%BE%D1%82%D0%BE%D0%BD%D0%B4%D0%B0" title="Удлинённая пятискатная повёрнутая биротонда">Удлинённая пятискатная повёрнутая биротонда</a></li>
+<li><a href="/wiki/%D0%A1%D0%BA%D1%80%D1%83%D1%87%D0%B5%D0%BD%D0%BD%D0%BE_%D1%83%D0%B4%D0%BB%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D1%82%D1%80%D1%91%D1%85%D1%81%D0%BA%D0%B0%D1%82%D0%BD%D1%8B%D0%B9_%D0%B1%D0%B8%D0%BA%D1%83%D0%BF%D0%BE%D0%BB" title="Скрученно удлинённый трёхскатный бикупол">Скрученно удлинённый трёхскатный бикупол</a></li>
+<li><a href="/wiki/%D0%A1%D0%BA%D1%80%D1%83%D1%87%D0%B5%D0%BD%D0%BD%D0%BE_%D1%83%D0%B4%D0%BB%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D1%87%D0%B5%D1%82%D1%8B%D1%80%D1%91%D1%85%D1%81%D0%BA%D0%B0%D1%82%D0%BD%D1%8B%D0%B9_%D0%B1%D0%B8%D0%BA%D1%83%D0%BF%D0%BE%D0%BB" title="Скрученно удлинённый четырёхскатный бикупол">Скрученно удлинённый четырёхскатный бикупол</a></li>
+<li><a href="/wiki/%D0%A1%D0%BA%D1%80%D1%83%D1%87%D0%B5%D0%BD%D0%BD%D0%BE_%D1%83%D0%B4%D0%BB%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BF%D1%8F%D1%82%D0%B8%D1%81%D0%BA%D0%B0%D1%82%D0%BD%D1%8B%D0%B9_%D0%B1%D0%B8%D0%BA%D1%83%D0%BF%D0%BE%D0%BB" title="Скрученно удлинённый пятискатный бикупол">Скрученно удлинённый пятискатный бикупол</a></li>
+<li><a href="/wiki/%D0%A1%D0%BA%D1%80%D1%83%D1%87%D0%B5%D0%BD%D0%BD%D0%BE_%D1%83%D0%B4%D0%BB%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D1%8F%D1%82%D0%B8%D1%81%D0%BA%D0%B0%D1%82%D0%BD%D0%B0%D1%8F_%D0%BA%D1%83%D0%BF%D0%BE%D0%BB%D0%BE%D1%80%D0%BE%D1%82%D0%BE%D0%BD%D0%B4%D0%B0" title="Скрученно удлинённая пятискатная куполоротонда">Скрученно удлинённая пятискатная куполоротонда</a></li>
+<li><a href="/wiki/%D0%A1%D0%BA%D1%80%D1%83%D1%87%D0%B5%D0%BD%D0%BD%D0%BE_%D1%83%D0%B4%D0%BB%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D1%8F%D1%82%D0%B8%D1%81%D0%BA%D0%B0%D1%82%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D1%80%D0%BE%D1%82%D0%BE%D0%BD%D0%B4%D0%B0" title="Скрученно удлинённая пятискатная биротонда">Скрученно удлинённая пятискатная биротонда</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D1%80%D0%B0%D1%89%D1%91%D0%BD%D0%BD%D0%B0%D1%8F_%D1%82%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%B8%D0%B7%D0%BC%D0%B0" title="Наращённая треугольная призма">Наращённая треугольная призма</a></li>
+<li><a href="/wiki/%D0%94%D0%B2%D0%B0%D0%B6%D0%B4%D1%8B_%D0%BD%D0%B0%D1%80%D0%B0%D1%89%D1%91%D0%BD%D0%BD%D0%B0%D1%8F_%D1%82%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%B8%D0%B7%D0%BC%D0%B0" title="Дважды наращённая треугольная призма">Дважды наращённая треугольная призма</a></li>
+<li><a href="/wiki/%D0%A2%D1%80%D0%B8%D0%B6%D0%B4%D1%8B_%D0%BD%D0%B0%D1%80%D0%B0%D1%89%D1%91%D0%BD%D0%BD%D0%B0%D1%8F_%D1%82%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%B8%D0%B7%D0%BC%D0%B0" title="Трижды наращённая треугольная призма">Трижды наращённая треугольная призма</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D1%80%D0%B0%D1%89%D1%91%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D1%8F%D1%82%D0%B8%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%B8%D0%B7%D0%BC%D0%B0" title="Наращённая пятиугольная призма">Наращённая пятиугольная призма</a></li>
+<li><a href="/wiki/%D0%94%D0%B2%D0%B0%D0%B6%D0%B4%D1%8B_%D0%BD%D0%B0%D1%80%D0%B0%D1%89%D1%91%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D1%8F%D1%82%D0%B8%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%B8%D0%B7%D0%BC%D0%B0" title="Дважды наращённая пятиугольная призма">Дважды наращённая пятиугольная призма</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D1%80%D0%B0%D1%89%D1%91%D0%BD%D0%BD%D0%B0%D1%8F_%D1%88%D0%B5%D1%81%D1%82%D0%B8%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%B8%D0%B7%D0%BC%D0%B0" title="Наращённая шестиугольная призма">Наращённая шестиугольная призма</a></li>
+<li><a href="/wiki/%D0%94%D0%B2%D0%B0%D0%B6%D0%B4%D1%8B_%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BE%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE_%D0%BD%D0%B0%D1%80%D0%B0%D1%89%D1%91%D0%BD%D0%BD%D0%B0%D1%8F_%D1%88%D0%B5%D1%81%D1%82%D0%B8%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%B8%D0%B7%D0%BC%D0%B0" title="Дважды противоположно наращённая шестиугольная призма">Дважды противоположно наращённая шестиугольная призма</a></li>
+<li><a href="/wiki/%D0%94%D0%B2%D0%B0%D0%B6%D0%B4%D1%8B_%D0%BA%D0%BE%D1%81%D0%BE_%D0%BD%D0%B0%D1%80%D0%B0%D1%89%D1%91%D0%BD%D0%BD%D0%B0%D1%8F_%D1%88%D0%B5%D1%81%D1%82%D0%B8%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%B8%D0%B7%D0%BC%D0%B0" title="Дважды косо наращённая шестиугольная призма">Дважды косо наращённая шестиугольная призма</a></li>
+<li><a href="/wiki/%D0%A2%D1%80%D0%B8%D0%B6%D0%B4%D1%8B_%D0%BD%D0%B0%D1%80%D0%B0%D1%89%D1%91%D0%BD%D0%BD%D0%B0%D1%8F_%D1%88%D0%B5%D1%81%D1%82%D0%B8%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%B8%D0%B7%D0%BC%D0%B0" title="Трижды наращённая шестиугольная призма">Трижды наращённая шестиугольная призма</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D1%80%D0%B0%D1%89%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D0%B4%D0%B5%D0%BA%D0%B0%D1%8D%D0%B4%D1%80" title="Наращённый додекаэдр">Наращённый додекаэдр</a></li>
+<li><a href="/wiki/%D0%94%D0%B2%D0%B0%D0%B6%D0%B4%D1%8B_%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BE%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE_%D0%BD%D0%B0%D1%80%D0%B0%D1%89%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D0%B4%D0%B5%D0%BA%D0%B0%D1%8D%D0%B4%D1%80" title="Дважды противоположно наращённый додекаэдр">Дважды противоположно наращённый додекаэдр</a></li>
+<li><a href="/wiki/%D0%94%D0%B2%D0%B0%D0%B6%D0%B4%D1%8B_%D0%BA%D0%BE%D1%81%D0%BE_%D0%BD%D0%B0%D1%80%D0%B0%D1%89%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D0%B4%D0%B5%D0%BA%D0%B0%D1%8D%D0%B4%D1%80" title="Дважды косо наращённый додекаэдр">Дважды косо наращённый додекаэдр</a></li>
+<li><a href="/wiki/%D0%A2%D1%80%D0%B8%D0%B6%D0%B4%D1%8B_%D0%BD%D0%B0%D1%80%D0%B0%D1%89%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D0%B4%D0%B5%D0%BA%D0%B0%D1%8D%D0%B4%D1%80" title="Трижды наращённый додекаэдр">Трижды наращённый додекаэдр</a></li>
+<li><a href="/wiki/%D0%94%D0%B2%D0%B0%D0%B6%D0%B4%D1%8B_%D0%BA%D0%BE%D1%81%D0%BE_%D0%BE%D1%82%D1%81%D0%B5%D1%87%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B8%D0%BA%D0%BE%D1%81%D0%B0%D1%8D%D0%B4%D1%80" title="Дважды косо отсечённый икосаэдр">Дважды косо отсечённый икосаэдр</a></li>
+<li><a href="/wiki/%D0%A2%D1%80%D0%B8%D0%B6%D0%B4%D1%8B_%D0%BE%D1%82%D1%81%D0%B5%D1%87%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B8%D0%BA%D0%BE%D1%81%D0%B0%D1%8D%D0%B4%D1%80" title="Трижды отсечённый икосаэдр">Трижды отсечённый икосаэдр</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D1%80%D0%B0%D1%89%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D1%82%D1%80%D0%B8%D0%B6%D0%B4%D1%8B_%D0%BE%D1%82%D1%81%D0%B5%D1%87%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B8%D0%BA%D0%BE%D1%81%D0%B0%D1%8D%D0%B4%D1%80" title="Наращённый трижды отсечённый икосаэдр">Наращённый трижды отсечённый икосаэдр</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D1%80%D0%B0%D1%89%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D1%83%D1%81%D0%B5%D1%87%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D1%82%D0%B5%D1%82%D1%80%D0%B0%D1%8D%D0%B4%D1%80" title="Наращённый усечённый тетраэдр">Наращённый усечённый тетраэдр</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D1%80%D0%B0%D1%89%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D1%83%D1%81%D0%B5%D1%87%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BA%D1%83%D0%B1" title="Наращённый усечённый куб">Наращённый усечённый куб</a></li>
+<li><a href="/wiki/%D0%94%D0%B2%D0%B0%D0%B6%D0%B4%D1%8B_%D0%BD%D0%B0%D1%80%D0%B0%D1%89%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D1%83%D1%81%D0%B5%D1%87%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BA%D1%83%D0%B1" title="Дважды наращённый усечённый куб">Дважды наращённый усечённый куб</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D1%80%D0%B0%D1%89%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D1%83%D1%81%D0%B5%D1%87%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D0%B4%D0%B5%D0%BA%D0%B0%D1%8D%D0%B4%D1%80" title="Наращённый усечённый додекаэдр">Наращённый усечённый додекаэдр</a></li>
+<li><a href="/wiki/%D0%94%D0%B2%D0%B0%D0%B6%D0%B4%D1%8B_%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BE%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE_%D0%BD%D0%B0%D1%80%D0%B0%D1%89%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D1%83%D1%81%D0%B5%D1%87%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D0%B4%D0%B5%D0%BA%D0%B0%D1%8D%D0%B4%D1%80" title="Дважды противоположно наращённый усечённый додекаэдр">Дважды противоположно наращённый усечённый додекаэдр</a></li>
+<li><a href="/wiki/%D0%94%D0%B2%D0%B0%D0%B6%D0%B4%D1%8B_%D0%BA%D0%BE%D1%81%D0%BE_%D0%BD%D0%B0%D1%80%D0%B0%D1%89%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D1%83%D1%81%D0%B5%D1%87%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D0%B4%D0%B5%D0%BA%D0%B0%D1%8D%D0%B4%D1%80" title="Дважды косо наращённый усечённый додекаэдр">Дважды косо наращённый усечённый додекаэдр</a></li>
+<li><a href="/wiki/%D0%A2%D1%80%D0%B8%D0%B6%D0%B4%D1%8B_%D0%BD%D0%B0%D1%80%D0%B0%D1%89%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D1%83%D1%81%D0%B5%D1%87%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D0%B4%D0%B5%D0%BA%D0%B0%D1%8D%D0%B4%D1%80" title="Трижды наращённый усечённый додекаэдр">Трижды наращённый усечённый додекаэдр</a></li>
+<li><a href="/wiki/%D0%A1%D0%BA%D1%80%D1%83%D1%87%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%80%D0%BE%D0%BC%D0%B1%D0%BE%D0%B8%D0%BA%D0%BE%D1%81%D0%BE%D0%B4%D0%BE%D0%B4%D0%B5%D0%BA%D0%B0%D1%8D%D0%B4%D1%80" title="Скрученный ромбоикосододекаэдр">Скрученный ромбоикосододекаэдр</a></li>
+<li><a href="/wiki/%D0%94%D0%B2%D0%B0%D0%B6%D0%B4%D1%8B_%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BE%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE_%D1%81%D0%BA%D1%80%D1%83%D1%87%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%80%D0%BE%D0%BC%D0%B1%D0%BE%D0%B8%D0%BA%D0%BE%D1%81%D0%BE%D0%B4%D0%BE%D0%B4%D0%B5%D0%BA%D0%B0%D1%8D%D0%B4%D1%80" title="Дважды противоположно скрученный ромбоикосододекаэдр">Дважды противоположно скрученный ромбоикосододекаэдр</a></li>
+<li><a href="/wiki/%D0%94%D0%B2%D0%B0%D0%B6%D0%B4%D1%8B_%D0%BA%D0%BE%D1%81%D0%BE_%D1%81%D0%BA%D1%80%D1%83%D1%87%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%80%D0%BE%D0%BC%D0%B1%D0%BE%D0%B8%D0%BA%D0%BE%D1%81%D0%BE%D0%B4%D0%BE%D0%B4%D0%B5%D0%BA%D0%B0%D1%8D%D0%B4%D1%80" title="Дважды косо скрученный ромбоикосододекаэдр">Дважды косо скрученный ромбоикосододекаэдр</a></li>
+<li><a href="/wiki/%D0%A2%D1%80%D0%B8%D0%B6%D0%B4%D1%8B_%D1%81%D0%BA%D1%80%D1%83%D1%87%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%80%D0%BE%D0%BC%D0%B1%D0%BE%D0%B8%D0%BA%D0%BE%D1%81%D0%BE%D0%B4%D0%BE%D0%B4%D0%B5%D0%BA%D0%B0%D1%8D%D0%B4%D1%80" title="Трижды скрученный ромбоикосододекаэдр">Трижды скрученный ромбоикосододекаэдр</a></li>
+<li><a href="/wiki/%D0%9E%D1%82%D1%81%D0%B5%D1%87%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D1%80%D0%BE%D0%BC%D0%B1%D0%BE%D0%B8%D0%BA%D0%BE%D1%81%D0%BE%D0%B4%D0%BE%D0%B4%D0%B5%D0%BA%D0%B0%D1%8D%D0%B4%D1%80" title="Отсечённый ромбоикосододекаэдр">Отсечённый ромбоикосододекаэдр</a></li>
+<li><a href="/wiki/%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BE%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE_%D1%81%D0%BA%D1%80%D1%83%D1%87%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BE%D1%82%D1%81%D0%B5%D1%87%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D1%80%D0%BE%D0%BC%D0%B1%D0%BE%D0%B8%D0%BA%D0%BE%D1%81%D0%BE%D0%B4%D0%BE%D0%B4%D0%B5%D0%BA%D0%B0%D1%8D%D0%B4%D1%80" title="Противоположно скрученный отсечённый ромбоикосододекаэдр">Противоположно скрученный отсечённый ромбоикосододекаэдр</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D1%81%D0%BE_%D1%81%D0%BA%D1%80%D1%83%D1%87%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BE%D1%82%D1%81%D0%B5%D1%87%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D1%80%D0%BE%D0%BC%D0%B1%D0%BE%D0%B8%D0%BA%D0%BE%D1%81%D0%BE%D0%B4%D0%BE%D0%B4%D0%B5%D0%BA%D0%B0%D1%8D%D0%B4%D1%80" title="Косо скрученный отсечённый ромбоикосододекаэдр">Косо скрученный отсечённый ромбоикосододекаэдр</a></li>
+<li><a href="/wiki/%D0%94%D0%B2%D0%B0%D0%B6%D0%B4%D1%8B_%D0%BA%D0%BE%D1%81%D0%BE_%D1%81%D0%BA%D1%80%D1%83%D1%87%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BE%D1%82%D1%81%D0%B5%D1%87%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D1%80%D0%BE%D0%BC%D0%B1%D0%BE%D0%B8%D0%BA%D0%BE%D1%81%D0%BE%D0%B4%D0%BE%D0%B4%D0%B5%D0%BA%D0%B0%D1%8D%D0%B4%D1%80" title="Дважды косо скрученный отсечённый ромбоикосододекаэдр">Дважды косо скрученный отсечённый ромбоикосододекаэдр</a></li>
+<li><a href="/wiki/%D0%94%D0%B2%D0%B0%D0%B6%D0%B4%D1%8B_%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BE%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE_%D0%BE%D1%82%D1%81%D0%B5%D1%87%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D1%80%D0%BE%D0%BC%D0%B1%D0%BE%D0%B8%D0%BA%D0%BE%D1%81%D0%BE%D0%B4%D0%BE%D0%B4%D0%B5%D0%BA%D0%B0%D1%8D%D0%B4%D1%80" title="Дважды противоположно отсечённый ромбоикосододекаэдр">Дважды противоположно отсечённый ромбоикосододекаэдр</a></li>
+<li><a href="/wiki/%D0%94%D0%B2%D0%B0%D0%B6%D0%B4%D1%8B_%D0%BA%D0%BE%D1%81%D0%BE_%D0%BE%D1%82%D1%81%D0%B5%D1%87%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D1%80%D0%BE%D0%BC%D0%B1%D0%BE%D0%B8%D0%BA%D0%BE%D1%81%D0%BE%D0%B4%D0%BE%D0%B4%D0%B5%D0%BA%D0%B0%D1%8D%D0%B4%D1%80" title="Дважды косо отсечённый ромбоикосододекаэдр">Дважды косо отсечённый ромбоикосододекаэдр</a></li>
+<li><a href="/wiki/%D0%A1%D0%BA%D1%80%D1%83%D1%87%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B4%D0%B2%D0%B0%D0%B6%D0%B4%D1%8B_%D0%BE%D1%82%D1%81%D0%B5%D1%87%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D1%80%D0%BE%D0%BC%D0%B1%D0%BE%D0%B8%D0%BA%D0%BE%D1%81%D0%BE%D0%B4%D0%BE%D0%B4%D0%B5%D0%BA%D0%B0%D1%8D%D0%B4%D1%80" title="Скрученный дважды отсечённый ромбоикосододекаэдр">Скрученный дважды отсечённый ромбоикосододекаэдр</a></li>
+<li><a href="/wiki/%D0%A2%D1%80%D0%B8%D0%B6%D0%B4%D1%8B_%D0%BE%D1%82%D1%81%D0%B5%D1%87%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D1%80%D0%BE%D0%BC%D0%B1%D0%BE%D0%B8%D0%BA%D0%BE%D1%81%D0%BE%D0%B4%D0%BE%D0%B4%D0%B5%D0%BA%D0%B0%D1%8D%D0%B4%D1%80" title="Трижды отсечённый ромбоикосододекаэдр">Трижды отсечённый ромбоикосододекаэдр</a></li>
+<li><a href="/wiki/%D0%9F%D0%BB%D0%BE%D1%81%D0%BA%D0%BE%D0%BD%D0%BE%D1%81%D1%8B%D0%B9_%D0%B4%D0%B2%D1%83%D0%BA%D0%BB%D0%B8%D0%BD%D0%BE%D0%B8%D0%B4" title="Плосконосый двуклиноид">Плосконосый двуклиноид</a></li>
+<li><a href="/wiki/%D0%9F%D0%BB%D0%BE%D1%81%D0%BA%D0%BE%D0%BD%D0%BE%D1%81%D0%B0%D1%8F_%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82%D0%BD%D0%B0%D1%8F_%D0%B0%D0%BD%D1%82%D0%B8%D0%BF%D1%80%D0%B8%D0%B7%D0%BC%D0%B0" title="Плосконосая квадратная антипризма">Плосконосая квадратная антипризма</a></li>
+<li><a href="/wiki/%D0%9A%D0%BB%D0%B8%D0%BD%D0%BE%D0%BA%D0%BE%D1%80%D0%BE%D0%BD%D0%B0" title="Клинокорона">Клинокорона</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D1%80%D0%B0%D1%89%D1%91%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BB%D0%B8%D0%BD%D0%BE%D0%BA%D0%BE%D1%80%D0%BE%D0%BD%D0%B0" title="Наращённая клинокорона">Наращённая клинокорона</a></li>
+<li><a href="/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F_%D0%BA%D0%BB%D0%B8%D0%BD%D0%BE%D0%BA%D0%BE%D1%80%D0%BE%D0%BD%D0%B0" title="Большая клинокорона">Большая клинокорона</a></li>
+<li><a href="/wiki/%D0%A3%D0%BF%D0%BB%D0%BE%D1%89%D1%91%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F_%D0%BA%D0%BB%D0%B8%D0%BD%D0%BE%D0%BA%D0%BE%D1%80%D0%BE%D0%BD%D0%B0" title="Уплощённая большая клинокорона">Уплощённая большая клинокорона</a></li>
+<li><a href="/wiki/%D0%9E%D0%BF%D0%BE%D1%8F%D1%81%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B4%D0%B2%D1%83%D0%BA%D0%BB%D0%B8%D0%BD%D0%BD%D0%B8%D0%BA" title="Опоясанный двуклинник">Опоясанный двуклинник</a></li>
+<li><a href="/wiki/%D0%94%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D0%B5%D1%80%D0%BF%D0%BE%D1%80%D0%BE%D1%82%D0%BE%D0%BD%D0%B4%D0%B0" title="Двойная серпоротонда">Двойная серпоротонда</a></li>
+<li><a href="/wiki/%D0%A3%D0%BF%D0%BB%D0%BE%D1%89%D1%91%D0%BD%D0%BD%D0%B0%D1%8F_%D1%82%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BB%D0%B8%D0%BD%D0%BE%D1%80%D0%BE%D1%82%D0%BE%D0%BD%D0%B4%D0%B0" title="Уплощённая треугольная клиноротонда">Уплощённая треугольная клиноротонда</a></li></ul>
+</div></td></tr></tbody></table><div>
+<hr/></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%9F%D0%B8%D1%80%D0%B0%D0%BC%D0%B8%D0%B4%D0%B0_(%D0%B3%D0%B5%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%8F)" title="Пирамида (геометрия)">Пирамида</a></li>
+<li><a href="/wiki/%D0%91%D0%B8%D0%BF%D0%B8%D1%80%D0%B0%D0%BC%D0%B8%D0%B4%D0%B0" title="Бипирамида">Бипирамида</a></li>
+<li><a href="/wiki/%D0%90%D0%BD%D1%82%D0%B8%D0%BF%D1%80%D0%B8%D0%B7%D0%BC%D0%B0" title="Антипризма">Антипризма</a></li>
+<li><a href="/wiki/%D0%97%D0%BE%D0%BD%D0%BE%D1%8D%D0%B4%D1%80" title="Зоноэдр">Зоноэдр</a></li>
+<li><a href="/wiki/%D0%9F%D0%B0%D1%80%D0%B0%D0%BB%D0%BB%D0%B5%D0%BB%D0%B5%D0%BF%D0%B8%D0%BF%D0%B5%D0%B4" title="Параллелепипед">Параллелепипед</a></li>
+<li><a href="/wiki/%D0%A0%D0%BE%D0%BC%D0%B1%D0%BE%D1%8D%D0%B4%D1%80" title="Ромбоэдр">Ромбоэдр</a></li>
+<li><a href="/wiki/%D0%9F%D1%80%D0%B8%D0%B7%D0%BC%D0%B0%D1%82%D0%BE%D0%B8%D0%B4" title="Призматоид">Призматоид</a></li>
+<li><a href="/wiki/%D0%A2%D0%B5%D1%82%D1%80%D0%B0%D1%8D%D0%B4%D1%80" title="Тетраэдр">Тетраэдр</a></li>
+<li><a href="/wiki/%D0%A3%D1%81%D0%B5%D1%87%D1%91%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D0%B8%D1%80%D0%B0%D0%BC%D0%B8%D0%B4%D0%B0" title="Усечённая пирамида">Усечённая пирамида</a></li>
+<li><a href="/wiki/%D0%9F%D0%B5%D0%BD%D1%82%D0%B0%D0%B3%D0%BE%D0%BD%D0%B4%D0%BE%D0%B4%D0%B5%D0%BA%D0%B0%D1%8D%D0%B4%D1%80" title="Пентагондодекаэдр">Пентагондодекаэдр</a></li>
+<li><a href="/wiki/%D0%9F%D0%B0%D1%80%D0%B0%D0%BB%D0%BB%D0%B5%D0%BB%D0%BE%D1%8D%D0%B4%D1%80" title="Параллелоэдр">Параллелоэдр</a></li>
+<li><a href="/wiki/%D0%9A%D1%83%D0%BF%D0%BE%D0%BB_(%D0%B3%D0%B5%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%8F)" title="Купол (геометрия)">Купол</a></li>
+<li><a href="/wiki/%D0%A0%D0%BE%D1%82%D0%BE%D0%BD%D0%B4%D0%B0_(%D0%B3%D0%B5%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%8F)" title="Ротонда (геометрия)">Ротонда</a></li>
+<li><a class="mw-redirect" href="/wiki/%D0%91%D0%B8%D1%80%D0%BE%D1%82%D0%BE%D0%BD%D0%B4%D0%B0" title="Биротонда">Биротонда</a></li>
+<li><a href="/wiki/%D0%94%D0%B5%D0%BB%D1%8C%D1%82%D0%B0%D1%8D%D0%B4%D1%80%D1%8B" title="Дельтаэдры">Дельтаэдр</a></li>
+<li><a href="/wiki/%D0%A2%D1%80%D0%B0%D0%BF%D0%B5%D1%86%D0%B5%D1%80%D0%BE%D0%BC%D0%B1%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%BE%D0%B4%D0%B5%D0%BA%D0%B0%D1%8D%D0%B4%D1%80" title="Трапецеромбический додекаэдр">Трапецеромбический додекаэдр</a></li>
+<li><a href="/wiki/%D0%94%D0%BE%D0%B4%D0%B5%D0%BA%D0%B0%D1%8D%D0%B4%D1%80_%D0%91%D0%B8%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B3%D0%BE" title="Додекаэдр Билинского">Додекаэдр Билинского</a></li>
+<li><a href="/wiki/%D0%A6%D0%B8%D0%BA%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%BD%D0%B8%D0%BA" title="Циклический многогранник">Циклический многогранник</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0" title="Математическая формула">Формулы</a>,<br/><a href="/wiki/%D0%A2%D0%B5%D0%BE%D1%80%D0%B5%D0%BC%D0%B0" title="Теорема">теоремы</a>,<br/><a href="/wiki/%D0%A2%D0%B5%D0%BE%D1%80%D0%B8%D1%8F" title="Теория">теории</a></th><td class="navbox-list navbox-even hlist hlist-items-nowrap" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%A2%D0%B5%D0%BE%D1%80%D0%B5%D0%BC%D0%B0_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B0_%D0%BE_%D1%80%D0%B0%D0%B7%D0%B2%D1%91%D1%80%D1%82%D0%BA%D0%B5" title="Теорема Александрова о развёртке">Теорема Александрова о развёртке</a></li>
+<li><a href="/wiki/%D0%A2%D0%B5%D0%BE%D1%80%D0%B5%D0%BC%D0%B0_%D0%91%D0%BB%D0%B8%D0%BA%D0%B5%D1%80%D0%B0" title="Теорема Бликера">Теорема Бликера</a></li>
+<li><a href="/wiki/%D0%A2%D0%B5%D0%BE%D1%80%D0%B5%D0%BC%D0%B0_%D0%9A%D0%BE%D1%88%D0%B8_%D0%BE_%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%BD%D0%B8%D0%BA%D0%B0%D1%85" title="Теорема Коши о многогранниках">Теорема Коши о многогранниках</a></li>
+<li><a href="/wiki/%D0%A2%D0%B5%D0%BE%D1%80%D0%B5%D0%BC%D0%B0_%D0%9B%D0%B8%D0%BD%D0%B4%D0%B5%D0%BB%D1%91%D1%84%D0%B0_%D0%BE_%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%BD%D0%B8%D0%BA%D0%B5" title="Теорема Линделёфа о многограннике">Теорема Линделёфа о многограннике</a></li>
+<li><a href="/wiki/%D0%A2%D0%B5%D0%BE%D1%80%D0%B5%D0%BC%D0%B0_%D0%9C%D0%B8%D0%BD%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BE_%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%BD%D0%B8%D0%BA%D0%B0%D1%85" title="Теорема Минковского о многогранниках">Теорема Минковского о многогранниках</a></li>
+<li><a class="mw-redirect" href="/wiki/%D0%A2%D0%B5%D0%BE%D1%80%D0%B5%D0%BC%D0%B0_%D0%A1%D0%B0%D0%B1%D0%B8%D1%82%D0%BE%D0%B2%D0%B0" title="Теорема Сабитова">Теорема Сабитова</a></li>
+<li><a href="/wiki/%D0%A2%D0%B5%D0%BE%D1%80%D0%B5%D0%BC%D0%B0_%D0%AD%D0%B9%D0%BB%D0%B5%D1%80%D0%B0_%D0%B4%D0%BB%D1%8F_%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2" title="Теорема Эйлера для многогранников">Теорема Эйлера для многогранников</a></li>
+<li><a href="/wiki/%D0%A4%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0_%D0%A8%D0%BB%D0%B5%D1%84%D0%BB%D0%B8" title="Формула Шлефли">Формула Шлефли</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Прочее</th><td class="navbox-list navbox-odd hlist hlist-items-nowrap" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%A1%D0%B8%D0%BC%D0%B2%D0%BE%D0%BB_%D0%A8%D0%BB%D0%B5%D1%84%D0%BB%D0%B8" title="Символ Шлефли">Символ Шлефли</a></li>
+<li><a href="/wiki/%D0%9D%D0%BE%D1%82%D0%B0%D1%86%D0%B8%D1%8F_%D0%9A%D0%BE%D0%BD%D0%B2%D0%B5%D1%8F_%D0%B4%D0%BB%D1%8F_%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2" title="Нотация Конвея для многогранников">Нотация Конвея</a></li>
+<li><a href="/wiki/%D0%9C%D0%BD%D0%BE%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%BD%D0%B8%D0%BA_%D0%A1%D0%B8%D0%BB%D0%B0%D1%88%D0%B8" title="Многогранник Силаши">Многогранник Силаши</a></li>
+<li><a href="/wiki/%D0%9C%D0%BD%D0%BE%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%BD%D0%B8%D0%BA_%D0%A7%D0%B0%D1%81%D0%B0%D1%80%D0%B0" title="Многогранник Часара">Многогранник Часара</a></li>
+<li><a href="/wiki/%D0%9C%D0%BD%D0%BE%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%BD%D0%B8%D0%BA_%D0%A8%D1%91%D0%BD%D1%85%D0%B0%D1%80%D0%B4%D1%82%D0%B0" title="Многогранник Шёнхардта">Многогранник Шёнхардта</a></li>
+<li><a href="/wiki/%D0%98%D0%B7%D0%B3%D0%B8%D0%B1%D0%B0%D0%B5%D0%BC%D1%8B%D0%B9_%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%BD%D0%B8%D0%BA" title="Изгибаемый многогранник">Изгибаемый многогранник</a> (<a href="/wiki/%D0%9C%D0%BD%D0%BE%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%BD%D0%B8%D0%BA_%D0%A8%D1%82%D0%B5%D1%84%D1%84%D0%B5%D0%BD%D0%B0" title="Многогранник Штеффена">Многогранник Штеффена</a>)</li>
+<li><a href="/wiki/%D0%9C%D0%BD%D0%BE%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%BD%D0%B8%D0%BA_%D0%A5%D0%B0%D0%BD%D0%BD%D0%B5%D1%80%D0%B0" title="Многогранник Ханнера">Многогранник Ханнера</a></li>
+<li><a href="/wiki/%D0%A5%D0%BE%D0%BB%D0%B8%D1%8D%D0%B4%D1%80" title="Холиэдр">Холиэдр</a></li>
+<li><a href="/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%BD%D0%B8%D0%BA" title="Перестановочный многогранник">Перестановочный многогранник</a></li>
+<li><a href="/wiki/%D0%9E%D1%80%D1%82%D0%BE%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D0%B5%D1%82%D1%80%D0%B0%D1%8D%D0%B4%D1%80" title="Ортоцентрический тетраэдр">Ортоцентрический тетраэдр</a></li>
+<li><a href="/wiki/%D0%A0%D0%B0%D0%B2%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9_%D1%82%D0%B5%D1%82%D1%80%D0%B0%D1%8D%D0%B4%D1%80" title="Равногранный тетраэдр">Равногранный тетраэдр</a></li>
+<li><a href="/wiki/%D0%9F%D1%80%D1%8F%D0%BC%D0%BE%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B0%D1%80%D0%B0%D0%BB%D0%BB%D0%B5%D0%BB%D0%B5%D0%BF%D0%B8%D0%BF%D0%B5%D0%B4" title="Прямоугольный параллелепипед">Прямоугольный параллелепипед</a></li>
+<li><a href="/wiki/%D0%93%D1%80%D1%83%D0%BF%D0%BF%D0%B0_%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%BD%D0%B8%D0%BA%D0%B0" title="Группа многогранника">Группа многогранника</a></li>
+<li><a href="/wiki/%D0%94%D0%B2%D0%B5%D0%BD%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D0%B8%D0%B3%D1%80%D0%B0%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8" title="Двенадцатигранники">Двенадцатигранники</a></li>
+<li><a href="/wiki/%D0%A2%D0%B5%D0%BB%D0%B5%D1%81%D0%BD%D1%8B%D0%B9_%D1%83%D0%B3%D0%BE%D0%BB" title="Телесный угол">Телесный угол</a></li>
+<li><a href="/wiki/%D0%95%D0%B4%D0%B8%D0%BD%D0%B8%D1%87%D0%BD%D1%8B%D0%B9_%D0%BA%D1%83%D0%B1" title="Единичный куб">Единичный куб</a></li>
+<li><a href="/wiki/%D0%A0%D0%B0%D0%B7%D0%B2%D1%91%D1%80%D1%82%D0%BA%D0%B0_%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%BD%D0%B8%D0%BA%D0%B0" title="Развёртка многогранника">Развёртка</a></li>
+<li><a class="mw-redirect" href="/wiki/%D0%9F%D0%B0%D1%80%D0%BA%D0%B5%D1%82_(%D0%B3%D0%B5%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%8F)" title="Паркет (геометрия)">Паркет</a></li>
+<li><a href="/wiki/%D0%A1%D0%BA%D1%83%D1%82%D0%BE%D0%B8%D0%B4" title="Скутоид">Скутоид</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Символ_Шлефли" class="navbox" data-name="Символ Шлефли" role="navigation"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%A1%D0%B8%D0%BC%D0%B2%D0%BE%D0%BB_%D0%A8%D0%BB%D0%B5%D1%84%D0%BB%D0%B8" title="Перейти к шаблону «Символ Шлефли»"><img alt="Перейти к шаблону «Символ Шлефли»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span></span><div id="Символ_Шлефли" style="font-size:114%;margin:0 5em"><a href="/wiki/%D0%A1%D0%B8%D0%BC%D0%B2%D0%BE%D0%BB_%D0%A8%D0%BB%D0%B5%D1%84%D0%BB%D0%B8" title="Символ Шлефли">Символ Шлефли</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/%D0%9C%D0%BD%D0%BE%D0%B3%D0%BE%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA" title="Многоугольник">Многоугольники</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%9E%D0%B4%D0%BD%D0%BE%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA" title="Одноугольник">{1}</a></li>
+<li><a href="/wiki/%D0%94%D0%B2%D1%83%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA" title="Двуугольник">{2}</a></li>
+<li><a href="/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%82%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA" title="Правильный треугольник">{3}</a></li>
+<li><a href="/wiki/%D0%9A%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82" title="Квадрат">{4}</a></li>
+<li><a href="/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BF%D1%8F%D1%82%D0%B8%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA" title="Правильный пятиугольник">{5}</a></li>
+<li><a href="/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%88%D0%B5%D1%81%D1%82%D0%B8%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA" title="Правильный шестиугольник">{6}</a></li>
+<li><a href="/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%81%D0%B5%D0%BC%D0%B8%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA" title="Правильный семиугольник">{7}</a></li>
+<li><a href="/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B2%D0%BE%D1%81%D1%8C%D0%BC%D0%B8%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA" title="Правильный восьмиугольник">{8}</a></li>
+<li><a href="/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B4%D0%B5%D0%B2%D1%8F%D1%82%D0%B8%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA" title="Правильный девятиугольник">{9}</a></li>
+<li><a href="/wiki/%D0%94%D0%B5%D1%81%D1%8F%D1%82%D0%B8%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA" title="Десятиугольник">{10}</a></li>
+<li><a href="/wiki/%D0%9E%D0%B4%D0%B8%D0%BD%D0%BD%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D0%B8%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA" title="Одиннадцатиугольник">{11}</a></li>
+<li><a href="/wiki/%D0%94%D0%B2%D0%B5%D0%BD%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D0%B8%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA" title="Двенадцатиугольник">{12}</a></li>
+<li><a href="/wiki/%D0%A2%D1%80%D0%B8%D0%BD%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D0%B8%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA" title="Тринадцатиугольник">{13}</a></li>
+<li><a href="/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%87%D0%B5%D1%82%D1%8B%D1%80%D0%BD%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D0%B8%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA" title="Правильный четырнадцатиугольник">{14}</a></li>
+<li><a href="/wiki/%D0%9F%D1%8F%D1%82%D0%BD%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D0%B8%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA" title="Пятнадцатиугольник">{15}</a></li>
+<li><a href="/wiki/%D0%A8%D0%B5%D1%81%D1%82%D0%BD%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D0%B8%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA" title="Шестнадцатиугольник">{16}</a></li>
+<li><a href="/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%81%D0%B5%D0%BC%D0%BD%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D0%B8%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA" title="Правильный семнадцатиугольник">{17}</a></li>
+<li><a href="/wiki/%D0%92%D0%BE%D1%81%D0%B5%D0%BC%D0%BD%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D0%B8%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA" title="Восемнадцатиугольник">{18}</a></li>
+<li><a href="/wiki/%D0%94%D0%B5%D0%B2%D1%8F%D1%82%D0%BD%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D0%B8%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA" title="Девятнадцатиугольник">{19}</a></li>
+<li><a href="/wiki/%D0%94%D0%B2%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D0%B8%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA" title="Двадцатиугольник">{20}</a></li>
+<li><a href="/wiki/%D0%94%D0%B2%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%82%D1%8B%D1%80%D1%91%D1%85%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA" title="Двадцатичетырёхугольник">{24}</a></li>
+<li><a href="/wiki/%D0%A2%D1%80%D0%B8%D0%B4%D1%86%D0%B0%D1%82%D0%B8%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA" title="Тридцатиугольник">{30}</a></li>
+<li><a href="/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_257-%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA" title="Правильный 257-угольник">{257}</a></li>
+<li><a href="/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_65537-%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA" title="Правильный 65537-угольник">{65537}</a></li>
+<li><a href="/wiki/%D0%9C%D0%B8%D0%BB%D0%BB%D0%B8%D0%BE%D0%BD%D0%BE%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA" title="Миллионоугольник">{1000000}</a></li>
+<li><a href="/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_4294967295-%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA" title="Правильный 4294967295-угольник">{4294967295}</a></li>
+<li><a href="/wiki/%D0%90%D0%BF%D0%B5%D0%B9%D1%80%D0%BE%D0%B3%D0%BE%D0%BD" title="Апейрогон">{∞}</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a class="mw-redirect" href="/wiki/%D0%97%D0%B2%D1%91%D0%B7%D0%B4%D1%87%D0%B0%D1%82%D1%8B%D0%B9_%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA" title="Звёздчатый многоугольник">Звёздчатые многоугольники</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%9F%D0%B5%D0%BD%D1%82%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0" title="Пентаграмма">{5/2}</a></li>
+<li><a href="/wiki/%D0%93%D0%B5%D0%BA%D1%81%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0_(%D1%81%D0%B8%D0%BC%D0%B2%D0%BE%D0%BB)" title="Гексаграмма (символ)">{6/2}</a></li>
+<li><a href="/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%81%D0%B5%D0%BC%D0%B8%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA" title="Правильный семиугольник">{7/2}</a></li>
+<li><a href="/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%81%D0%B5%D0%BC%D0%B8%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA" title="Правильный семиугольник">{7/3}</a></li>
+<li><a href="/wiki/%D0%97%D0%B2%D0%B5%D0%B7%D0%B4%D0%B0_%D0%9B%D0%B0%D0%BA%D1%88%D0%BC%D0%B8" title="Звезда Лакшми">{8/2}</a></li>
+<li><a href="/wiki/%D0%9E%D0%BA%D1%82%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0" title="Октаграмма">{8/3}</a></li>
+<li><a href="/wiki/%D0%AD%D0%BD%D0%BD%D0%B5%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0_(%D0%B3%D0%B5%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%8F)" title="Эннеаграмма (геометрия)">{9/2}</a></li>
+<li><a href="/wiki/%D0%AD%D0%BD%D0%BD%D0%B5%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0_(%D0%B3%D0%B5%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%8F)" title="Эннеаграмма (геометрия)">{9/3}</a></li>
+<li><a href="/wiki/%D0%AD%D0%BD%D0%BD%D0%B5%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0_(%D0%B3%D0%B5%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%8F)" title="Эннеаграмма (геометрия)">{9/4}</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a class="mw-redirect" href="/wiki/%D0%9F%D0%B0%D1%80%D0%BA%D0%B5%D1%82_(%D0%B3%D0%B5%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%8F)" title="Паркет (геометрия)">Паркеты</a> на <a href="/wiki/%D0%95%D0%B2%D0%BA%D0%BB%D0%B8%D0%B4%D0%BE%D0%B2%D0%BE_%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE" title="Евклидово пространство">плоскости</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%A2%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA%D0%B5%D1%82" title="Треугольный паркет">{3,6}</a></li>
+<li><a href="/wiki/%D0%9A%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA%D0%B5%D1%82" title="Квадратный паркет">{4,4}</a></li>
+<li><a href="/wiki/%D0%A8%D0%B5%D1%81%D1%82%D0%B8%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA%D0%B5%D1%82" title="Шестиугольный паркет">{6,3}</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%BD%D0%B8%D0%BA" title="Правильный многогранник">Правильные многогранники</a><br/>и <a href="/wiki/%D0%A1%D1%84%D0%B5%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%BD%D0%B8%D0%BA" title="Сферический многогранник">сферические паркеты</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%9E%D1%81%D0%BE%D1%8D%D0%B4%D1%80" title="Осоэдр">{2,<span class="ts-math" style="font-style:italic;">n</span>}</a></li>
+<li><a href="/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%82%D0%B5%D1%82%D1%80%D0%B0%D1%8D%D0%B4%D1%80" title="Правильный тетраэдр">{3,3}</a></li>
+<li><a href="/wiki/%D0%9A%D1%83%D0%B1" title="Куб">{4,3}</a></li>
+<li><a href="/wiki/%D0%9E%D0%BA%D1%82%D0%B0%D1%8D%D0%B4%D1%80" title="Октаэдр">{3,4}</a></li>
+<li><a href="/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D0%B4%D0%B5%D0%BA%D0%B0%D1%8D%D0%B4%D1%80" title="Правильный додекаэдр">{5,3}</a></li>
+<li><a href="/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B8%D0%BA%D0%BE%D1%81%D0%B0%D1%8D%D0%B4%D1%80" title="Правильный икосаэдр">{3,5}</a></li>
+<li><a href="/wiki/%D0%94%D0%B8%D1%8D%D0%B4%D1%80" title="Диэдр">{<span class="ts-math" style="font-style:italic;">n</span>,2}</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/%D0%A2%D0%B5%D0%BB%D0%BE_%D0%9A%D0%B5%D0%BF%D0%BB%D0%B5%D1%80%D0%B0_%E2%80%94_%D0%9F%D1%83%D0%B0%D0%BD%D1%81%D0%BE" title="Тело Кеплера — Пуансо">Многогранники Кеплера — Пуансо</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%9C%D0%B0%D0%BB%D1%8B%D0%B9_%D0%B7%D0%B2%D1%91%D0%B7%D0%B4%D1%87%D0%B0%D1%82%D1%8B%D0%B9_%D0%B4%D0%BE%D0%B4%D0%B5%D0%BA%D0%B0%D1%8D%D0%B4%D1%80" title="Малый звёздчатый додекаэдр">{5/2,5}</a></li>
+<li><a href="/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D0%B4%D0%BE%D0%B4%D0%B5%D0%BA%D0%B0%D1%8D%D0%B4%D1%80" title="Большой додекаэдр">{5,5/2}</a></li>
+<li><a href="/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D0%B7%D0%B2%D1%91%D0%B7%D0%B4%D1%87%D0%B0%D1%82%D1%8B%D0%B9_%D0%B4%D0%BE%D0%B4%D0%B5%D0%BA%D0%B0%D1%8D%D0%B4%D1%80" title="Большой звёздчатый додекаэдр">{5/2,3}</a></li>
+<li><a href="/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D0%B8%D0%BA%D0%BE%D1%81%D0%B0%D1%8D%D0%B4%D1%80" title="Большой икосаэдр">{3,5/2}</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/%D0%A1%D0%BE%D1%82%D1%8B_(%D0%B3%D0%B5%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%8F)" title="Соты (геометрия)">Соты</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"><a class="mw-redirect" href="/wiki/%D0%9A%D1%83%D0%B1%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D1%81%D0%BE%D1%82%D1%8B" title="Кубические соты">{4,3,4}</a></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%D0%BC%D0%B5%D1%80%D0%BD%D1%8B%D0%B5_%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8#В_размерности_n_=_4" title="Правильные многомерные многогранники">Четырёхмерные многогранники</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%9F%D1%8F%D1%82%D0%B8%D1%8F%D1%87%D0%B5%D0%B9%D0%BD%D0%B8%D0%BA" title="Пятиячейник">{3,3,3}</a></li>
+<li><a class="mw-selflink selflink">{4,3,3}</a></li>
+<li><a href="/wiki/%D0%A8%D0%B5%D1%81%D1%82%D0%BD%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D0%B8%D1%8F%D1%87%D0%B5%D0%B9%D0%BD%D0%B8%D0%BA" title="Шестнадцатиячейник">{3,3,4}</a></li>
+<li><a href="/wiki/%D0%94%D0%B2%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%82%D1%8B%D1%80%D1%91%D1%85%D1%8A%D1%8F%D1%87%D0%B5%D0%B9%D0%BD%D0%B8%D0%BA" title="Двадцатичетырёхъячейник">{3,4,3}</a></li>
+<li><a href="/wiki/%D0%A1%D1%82%D0%BE%D0%B4%D0%B2%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D0%B8%D1%8F%D1%87%D0%B5%D0%B9%D0%BD%D0%B8%D0%BA" title="Стодвадцатиячейник">{5,3,3}</a></li>
+<li><a href="/wiki/%D0%A8%D0%B5%D1%81%D1%82%D0%B8%D1%81%D0%BE%D1%82%D1%8F%D1%87%D0%B5%D0%B9%D0%BD%D0%B8%D0%BA" title="Шестисотячейник">{3,3,5}</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Размерность_пространства" class="navbox" data-name="Размерность" role="navigation"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%A0%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Перейти к шаблону «Размерность»"><img alt="Перейти к шаблону «Размерность»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span></span><div id="Размерность_пространства" style="font-size:114%;margin:0 5em"><a href="/wiki/%D0%A0%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%D0%BD%D0%BE%D1%81%D1%82%D1%8C_%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%B0" title="Размерность пространства">Размерность пространства</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1px">Пространства по размерности</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%9D%D1%83%D0%BB%D1%8C%D0%BC%D0%B5%D1%80%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE" title="Нульмерное пространство">Нульмерное</a></li>
+<li><a href="/wiki/%D0%9E%D0%B4%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE" title="Одномерное пространство">Одномерное</a></li>
+<li><a href="/wiki/%D0%94%D0%B2%D1%83%D0%BC%D0%B5%D1%80%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE" title="Двумерное пространство">Двумерное</a></li>
+<li><a href="/wiki/%D0%A2%D1%80%D1%91%D1%85%D0%BC%D0%B5%D1%80%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE" title="Трёхмерное пространство">Трёхмерное</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D1%82%D1%8B%D1%80%D1%91%D1%85%D0%BC%D0%B5%D1%80%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE" title="Четырёхмерное пространство">Четырёхмерное</a></li>
+<li><span data-interwiki-article="Five-dimensional space" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=%D0%9F%D1%8F%D1%82%D0%B8%D0%BC%D0%B5%D1%80%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE&amp;action=edit&amp;redlink=1" title="Пятимерное пространство (страница отсутствует)">Пятимерное</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://en.wikipedia.org/wiki/Five-dimensional_space" title="en:Five-dimensional space"><span title="Five-dimensional space — версия статьи «Пятимерное пространство» на английском языке">[en]</span></a></sup></span></li>
+<li><span data-interwiki-article="Six-dimensional space" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=%D0%A8%D0%B5%D1%81%D1%82%D0%B8%D0%BC%D0%B5%D1%80%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE&amp;action=edit&amp;redlink=1" title="Шестимерное пространство (страница отсутствует)">Шестимерное</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://en.wikipedia.org/wiki/Six-dimensional_space" title="en:Six-dimensional space"><span title="Six-dimensional space — версия статьи «Шестимерное пространство» на английском языке">[en]</span></a></sup></span></li>
+<li><span data-interwiki-article="Seven-dimensional space" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=%D0%A1%D0%B5%D0%BC%D0%B8%D0%BC%D0%B5%D1%80%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE&amp;action=edit&amp;redlink=1" title="Семимерное пространство (страница отсутствует)">Семимерное</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://en.wikipedia.org/wiki/Seven-dimensional_space" title="en:Seven-dimensional space"><span title="Seven-dimensional space — версия статьи «Семимерное пространство» на английском языке">[en]</span></a></sup></span></li>
+<li><span data-interwiki-article="Eight-dimensional space" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=%D0%92%D0%BE%D1%81%D1%8C%D0%BC%D0%B8%D0%BC%D0%B5%D1%80%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE&amp;action=edit&amp;redlink=1" title="Восьмимерное пространство (страница отсутствует)">Восьмимерное</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://en.wikipedia.org/wiki/Eight-dimensional_space" title="en:Eight-dimensional space"><span title="Eight-dimensional space — версия статьи «Восьмимерное пространство» на английском языке">[en]</span></a></sup></span></li>
+<li><a href="/wiki/%D0%A0%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%D0%BD%D0%BE%D1%81%D1%82%D1%8C_%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%B0" title="Размерность пространства">n-мерное</a></li>
+<li><a href="/wiki/%D0%9F%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE_%D0%BE%D1%82%D1%80%D0%B8%D1%86%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9_%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%D0%BD%D0%BE%D1%81%D1%82%D0%B8" title="Пространство отрицательной размерности">Отрицательной  размерности</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Политопы и фигуры</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%A1%D0%B8%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81" title="Симплекс">Симплекс</a></li>
+<li><a href="/wiki/%D0%93%D0%B8%D0%BF%D0%B5%D1%80%D0%BA%D1%83%D0%B1" title="Гиперкуб">Гиперкуб</a></li>
+<li><a class="mw-selflink selflink">Тессеракт</a></li>
+<li><a href="/wiki/%D0%93%D0%B8%D0%BF%D0%B5%D1%80%D0%BF%D1%80%D1%8F%D0%BC%D0%BE%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA" title="Гиперпрямоугольник">Гиперпрямоугольник (ортотоп)</a></li>
+<li><a href="/wiki/%D0%9F%D0%BE%D0%BB%D1%83%D0%B3%D0%B8%D0%BF%D0%B5%D1%80%D0%BA%D1%83%D0%B1" title="Полугиперкуб">Полугиперкуб</a></li>
+<li><span data-interwiki-article="Cross-polytope" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=%D0%9A%D1%80%D0%BE%D1%81%D1%81-%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%BE%D0%BF&amp;action=edit&amp;redlink=1" title="Кросс-политоп (страница отсутствует)">Кросс-политоп</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://en.wikipedia.org/wiki/Cross-polytope" title="en:Cross-polytope"><span title="Cross-polytope — версия статьи «Кросс-политоп» на английском языке">[en]</span></a></sup></span></li>
+<li><a href="/wiki/%D0%93%D0%B8%D0%BF%D0%B5%D1%80%D1%81%D1%84%D0%B5%D1%80%D0%B0" title="Гиперсфера">Гиперсфера</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Виды пространств</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%9A%D0%BE%D0%BD%D0%B5%D1%87%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE" title="Конечномерное пространство">Конечномерное пространство</a></li>
+<li><a href="/wiki/%D0%95%D0%B2%D0%BA%D0%BB%D0%B8%D0%B4%D0%BE%D0%B2%D0%BE_%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE" title="Евклидово пространство">Евклидово пространство</a></li>
+<li><a href="/wiki/%D0%90%D1%84%D1%84%D0%B8%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE" title="Аффинное пространство">Аффинное пространство</a></li>
+<li><a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE" title="Проективное пространство">Проективное пространство</a></li>
+<li><a href="/wiki/%D0%A1%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C" title="Свободный модуль">Свободный  модуль</a></li>
+<li><a href="/wiki/%D0%9C%D0%BD%D0%BE%D0%B3%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B8%D0%B5" title="Многообразие">Многообразие</a></li>
+<li><span data-interwiki-article="Dimension of an algebraic variety" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=%D0%A0%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%D0%BD%D0%BE%D1%81%D1%82%D1%8C_%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B0%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B9_%D0%BF%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9&amp;action=edit&amp;redlink=1" title="Размерность алгебраической переменной (страница отсутствует)">Размерность алгебраической переменной</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://en.wikipedia.org/wiki/Dimension_of_an_algebraic_variety" title="en:Dimension of an algebraic variety"><span title="Dimension of an algebraic variety — версия статьи «Размерность алгебраической переменной» на английском языке">[en]</span></a></sup></span></li>
+<li><a href="/wiki/%D0%9F%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE-%D0%B2%D1%80%D0%B5%D0%BC%D1%8F" title="Пространство-время">Пространство-время</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Другие концепции размерностей</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%A0%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%D0%BD%D0%BE%D1%81%D1%82%D1%8C_%D0%9A%D1%80%D1%83%D0%BB%D0%BB%D1%8F" title="Размерность Крулля">Размерность Крулля</a></li>
+<li><a href="/wiki/%D0%A0%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%D0%BD%D0%BE%D1%81%D1%82%D1%8C_%D0%9B%D0%B5%D0%B1%D0%B5%D0%B3%D0%B0" title="Размерность Лебега">Размерность Лебега</a></li>
+<li><a href="/wiki/%D0%98%D0%BD%D0%B4%D1%83%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%B0%D1%8F_%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Индуктивная размерность">Индуктивная  размерность</a></li>
+<li>Дробная размерность (<a href="/wiki/%D0%A0%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%D0%BD%D0%BE%D1%81%D1%82%D1%8C_%D0%9C%D0%B8%D0%BD%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE" title="Размерность Минковского">размерность Минковского</a>, <a href="/wiki/%D0%A0%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%D0%BD%D0%BE%D1%81%D1%82%D1%8C_%D0%A5%D0%B0%D1%83%D1%81%D0%B4%D0%BE%D1%80%D1%84%D0%B0" title="Размерность Хаусдорфа">размерность Хаусдорфа</a>)</li>
+<li><a href="/wiki/%D0%A4%D1%80%D0%B0%D0%BA%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Фрактальная размерность">Фрактальная размерность</a></li>
+<li><a class="mw-disambig" href="/wiki/%D0%A1%D1%82%D0%B5%D0%BF%D0%B5%D0%BD%D0%B8_%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D1%8B" title="Степени свободы">Степени свободы</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><a href="/wiki/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0" title="Математика">Математика</a></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐7bc865cbcb‐78h2l
+Cached time: 20240226120051
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.362 seconds
+Real time usage: 0.504 seconds
+Preprocessor visited node count: 4190/1000000
+Post‐expand include size: 197148/2097152 bytes
+Template argument size: 6244/2097152 bytes
+Highest expansion depth: 16/100
+Expensive parser function count: 23/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 8790/5000000 bytes
+Lua time usage: 0.076/10.000 seconds
+Lua memory usage: 3132365/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  291.979      1 -total
+ 37.85%  110.515      5 Шаблон:Навигационная_таблица
+ 35.83%  104.612      1 Шаблон:Примечания
+ 26.44%   77.212      1 Шаблон:Многогранники
+ 20.79%   60.706      2 Шаблон:Статья
+ 17.29%   50.477      3 Шаблон:Книга
+ 15.12%   44.145      4 Шаблон:Бсокр
+ 14.66%   42.817     16 Шаблон:Нп5
+ 13.95%   40.730      1 Шаблон:ВТ-ЭСБЕ
+ 13.05%   38.103      4 Шаблон:Sfn
+-->
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:48623-0!canonical and timestamp 20240226120051 and revision id 135600509. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> -->
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Тессеракт&amp;oldid=135600509">https://ru.wikipedia.org/w/index.php?title=Тессеракт&amp;oldid=135600509</a></div></div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%93%D0%B5%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D1%84%D0%B8%D0%B3%D1%83%D1%80%D1%8B" title="Категория:Геометрические фигуры">Геометрические фигуры</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8" title="Категория:Правильные многогранники">Правильные многогранники</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9C%D0%BD%D0%BE%D0%B3%D0%BE%D0%BC%D0%B5%D1%80%D0%BD%D0%B0%D1%8F_%D0%B5%D0%B2%D0%BA%D0%BB%D0%B8%D0%B4%D0%BE%D0%B2%D0%B0_%D0%B3%D0%B5%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%8F" title="Категория:Многомерная евклидова геометрия">Многомерная евклидова геометрия</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Скрытая категория: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B,_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D0%B2%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_ISBN" title="Категория:Страницы, использующие волшебные ссылки ISBN">Страницы, использующие волшебные ссылки ISBN</a></li></ul></div></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Навигация</h2>
+<div id="mw-head">
+<nav aria-labelledby="p-personal-label" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" id="p-personal" role="navigation">
+<h3 class="vector-menu-heading" id="p-personal-label">
+<span class="vector-menu-heading-label">Персональные инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="pt-anonuserpage"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li class="mw-list-item" id="pt-anontalk"><a accesskey="n" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]"><span>Обсуждение</span></a></li><li class="mw-list-item" id="pt-anoncontribs"><a accesskey="y" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]"><span>Вклад</span></a></li><li class="mw-list-item" id="pt-createaccount"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%A2%D0%B5%D1%81%D1%81%D0%B5%D1%80%D0%B0%D0%BA%D1%82" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li class="mw-list-item" id="pt-login"><a accesskey="o" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%A2%D0%B5%D1%81%D1%81%D0%B5%D1%80%D0%B0%D0%BA%D1%82" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]"><span>Войти</span></a></li>
+</ul>
+</div>
+</nav>
+<div id="left-navigation">
+<nav aria-labelledby="p-namespaces-label" class="mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-namespaces" role="navigation">
+<h3 class="vector-menu-heading" id="p-namespaces-label">
+<span class="vector-menu-heading-label">Пространства имён</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-nstab-main"><a accesskey="c" href="/wiki/%D0%A2%D0%B5%D1%81%D1%81%D0%B5%D1%80%D0%B0%D0%BA%D1%82" title="Просмотреть контентную страницу [c]"><span>Статья</span></a></li><li class="mw-list-item" id="ca-talk"><a accesskey="t" href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%A2%D0%B5%D1%81%D1%81%D0%B5%D1%80%D0%B0%D0%BA%D1%82" rel="discussion" title="Обсуждение основной страницы [t]"><span>Обсуждение</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-variants-label" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" id="p-variants" role="navigation">
+<input aria-haspopup="true" aria-labelledby="p-variants-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-variants" id="p-variants-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-variants-label">
+<span class="vector-menu-heading-label">русский</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+</div>
+<div id="right-navigation">
+<nav aria-labelledby="p-views-label" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-views" role="navigation">
+<h3 class="vector-menu-heading" id="p-views-label">
+<span class="vector-menu-heading-label">Просмотры</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="ca-view"><a href="/w/index.php?title=%D0%A2%D0%B5%D1%81%D1%81%D0%B5%D1%80%D0%B0%D0%BA%D1%82&amp;stable=1"><span>Читать</span></a></li><li class="collapsible selected mw-list-item" id="ca-current"><a accesskey="v" href="/w/index.php?title=%D0%A2%D0%B5%D1%81%D1%81%D0%B5%D1%80%D0%B0%D0%BA%D1%82&amp;stable=0&amp;redirect=no" title="Показать текущую версию этой страницы [v]"><span>Текущая версия</span></a></li><li class="mw-list-item" id="ca-ve-edit"><a accesskey="v" href="/w/index.php?title=%D0%A2%D0%B5%D1%81%D1%81%D0%B5%D1%80%D0%B0%D0%BA%D1%82&amp;veaction=edit" title="Редактировать данную страницу [v]"><span>Править</span></a></li><li class="collapsible mw-list-item" id="ca-edit"><a accesskey="e" href="/w/index.php?title=%D0%A2%D0%B5%D1%81%D1%81%D0%B5%D1%80%D0%B0%D0%BA%D1%82&amp;action=edit" title="Править исходный текст этой страницы [e]"><span>Править код</span></a></li><li class="mw-list-item" id="ca-history"><a accesskey="h" href="/w/index.php?title=%D0%A2%D0%B5%D1%81%D1%81%D0%B5%D1%80%D0%B0%D0%BA%D1%82&amp;action=history" title="Журнал изменений страницы [h]"><span>История</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-cactions-label" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" id="p-cactions" role="navigation" title="Больше возможностей">
+<input aria-haspopup="true" aria-labelledby="p-cactions-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-cactions" id="p-cactions-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-cactions-label">
+<span class="vector-menu-heading-label">Ещё</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+<div class="vector-search-box-vue vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box" id="p-search" role="search">
+<h3>Поиск</h3>
+<form action="/w/index.php" class="vector-search-box-form" id="searchform">
+<div class="vector-search-box-inner" data-search-loc="header-navigation" id="simpleSearch">
+<input accesskey="f" aria-label="Искать в Википедии" autocapitalize="sentences" class="vector-search-box-input" id="searchInput" name="search" placeholder="Искать в Википедии" title="Искать в Википедии [f]" type="search"/>
+<input name="title" type="hidden" value="Служебная:Поиск"/>
+<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Найти страницы, содержащие указанный текст" type="submit" value="Найти"/>
+<input class="searchButton" id="searchButton" name="go" title="Перейти к странице, имеющей в точности такое название" type="submit" value="Перейти"/>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="vector-legacy-sidebar" id="mw-panel">
+<div id="p-logo" role="banner">
+<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу"></a>
+</div>
+<nav aria-labelledby="p-navigation-label" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" id="p-navigation" role="navigation">
+<h3 class="vector-menu-heading" id="p-navigation-label">
+<span class="vector-menu-heading-label">Навигация</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-mainpage-description"><a accesskey="z" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]"><span>Заглавная страница</span></a></li><li class="mw-list-item" id="n-content"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li class="mw-list-item" id="n-featured"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li class="mw-list-item" id="n-randompage"><a accesskey="x" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]"><span>Случайная статья</span></a></li><li class="mw-list-item" id="n-currentevents"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li class="mw-list-item" id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-participation-label" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" id="p-participation" role="navigation">
+<h3 class="vector-menu-heading" id="p-participation-label">
+<span class="vector-menu-heading-label">Участие</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-bug_in_article"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li class="mw-list-item" id="n-introduction"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li class="mw-list-item" id="n-portal"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li class="mw-list-item" id="n-forum"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li class="mw-list-item" id="n-recentchanges"><a accesskey="r" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]"><span>Свежие правки</span></a></li><li class="mw-list-item" id="n-newpages"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li class="mw-list-item" id="n-help"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-tb-label" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" id="p-tb" role="navigation">
+<h3 class="vector-menu-heading" id="p-tb-label">
+<span class="vector-menu-heading-label">Инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="t-whatlinkshere"><a accesskey="j" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%A2%D0%B5%D1%81%D1%81%D0%B5%D1%80%D0%B0%D0%BA%D1%82" title="Список всех страниц, ссылающихся на данную [j]"><span>Ссылки сюда</span></a></li><li class="mw-list-item" id="t-recentchangeslinked"><a accesskey="k" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%A2%D0%B5%D1%81%D1%81%D0%B5%D1%80%D0%B0%D0%BA%D1%82" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]"><span>Связанные правки</span></a></li><li class="mw-list-item" id="t-specialpages"><a accesskey="q" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]"><span>Служебные страницы</span></a></li><li class="mw-list-item" id="t-permalink"><a href="/w/index.php?title=%D0%A2%D0%B5%D1%81%D1%81%D0%B5%D1%80%D0%B0%D0%BA%D1%82&amp;oldid=135600509" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li class="mw-list-item" id="t-info"><a href="/w/index.php?title=%D0%A2%D0%B5%D1%81%D1%81%D0%B5%D1%80%D0%B0%D0%BA%D1%82&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li class="mw-list-item" id="t-cite"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%A2%D0%B5%D1%81%D1%81%D0%B5%D1%80%D0%B0%D0%BA%D1%82&amp;id=135600509&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li class="mw-list-item" id="t-urlshortener"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%25A2%25D0%25B5%25D1%2581%25D1%2581%25D0%25B5%25D1%2580%25D0%25B0%25D0%25BA%25D1%2582"><span>Получить короткий URL</span></a></li><li class="mw-list-item" id="t-urlshortener-qrcode"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%25A2%25D0%25B5%25D1%2581%25D1%2581%25D0%25B5%25D1%2580%25D0%25B0%25D0%25BA%25D1%2582"><span>Скачать QR-код</span></a></li><li class="mw-list-item" id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q12142" title="Ссылка на связанный элемент репозитория данных [g]"><span>Элемент Викиданных</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-coll-print_export-label" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" id="p-coll-print_export" role="navigation">
+<h3 class="vector-menu-heading" id="p-coll-print_export-label">
+<span class="vector-menu-heading-label">Печать/экспорт</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="coll-download-as-rl"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%A2%D0%B5%D1%81%D1%81%D0%B5%D1%80%D0%B0%D0%BA%D1%82&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li class="mw-list-item" id="t-print"><a accesskey="p" href="/w/index.php?title=%D0%A2%D0%B5%D1%81%D1%81%D0%B5%D1%80%D0%B0%D0%BA%D1%82&amp;printable=yes" title="Версия этой страницы для печати [p]"><span>Версия для печати</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-wikibase-otherprojects-label" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal vector-menu" id="p-wikibase-otherprojects" role="navigation">
+<h3 class="vector-menu-heading" id="p-wikibase-otherprojects-label">
+<span class="vector-menu-heading-label">В других проектах</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Tesseract" hreflang="en"><span>Викисклад</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-lang-label" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" id="p-lang" role="navigation">
+<h3 class="vector-menu-heading" id="p-lang-label">
+<span class="vector-menu-heading-label">На других языках</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="interlanguage-link interwiki-ar mw-list-item"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%85%D9%83%D8%B9%D8%A8_%D8%B1%D8%A8%D8%A7%D8%B9%D9%8A_%D8%A7%D9%84%D8%A3%D8%A8%D8%B9%D8%A7%D8%AF" hreflang="ar" lang="ar" title="مكعب رباعي الأبعاد — арабский"><span>العربية</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%A2%D0%B5%D1%81%D0%B5%D1%80%D0%B0%D0%BA%D1%82" hreflang="bg" lang="bg" title="Тесеракт — болгарский"><span>Български</span></a></li><li class="interlanguage-link interwiki-ckb mw-list-item"><a class="interlanguage-link-target" href="https://ckb.wikipedia.org/wiki/%D8%AA%DB%8E%D8%B3%DB%8E%D8%B1%DB%95%DA%A9%D8%AA" hreflang="ckb" lang="ckb" title="تێسێرەکت — центральнокурдский"><span>کوردی</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Teserakt" hreflang="cs" lang="cs" title="Teserakt — чешский"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-cy mw-list-item"><a class="interlanguage-link-target" href="https://cy.wikipedia.org/wiki/Teseract" hreflang="cy" lang="cy" title="Teseract — валлийский"><span>Cymraeg</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Tesserakt" hreflang="de" lang="de" title="Tesserakt — немецкий"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%A4%CE%B5%CF%83%CF%83%CE%B5%CF%81%CE%AC%CE%BA%CF%84%CE%B9%CE%BF" hreflang="el" lang="el" title="Τεσσεράκτιο — греческий"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a class="interlanguage-link-target" href="https://en.wikipedia.org/wiki/Tesseract" hreflang="en" lang="en" title="Tesseract — английский"><span>English</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/4-hiperkubo" hreflang="eo" lang="eo" title="4-hiperkubo — эсперанто"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Teseracto" hreflang="es" lang="es" title="Teseracto — испанский"><span>Español</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%AA%D8%B3%D8%B1%DA%A9%D8%AA" hreflang="fa" lang="fa" title="تسرکت — персидский"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Tesserakti" hreflang="fi" lang="fi" title="Tesserakti — финский"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Tesseract" hreflang="fr" lang="fr" title="Tesseract — французский"><span>Français</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%98%D7%A1%D7%A8%D7%A7%D7%98" hreflang="he" lang="he" title="טסרקט — иврит"><span>עברית</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Teserakt" hreflang="hr" lang="hr" title="Teserakt — хорватский"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Tesseract_(geometri)" hreflang="id" lang="id" title="Tesseract (geometri) — индонезийский"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Tesseratto" hreflang="it" lang="it" title="Tesseratto — итальянский"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E6%AD%A3%E5%85%AB%E8%83%9E%E4%BD%93" hreflang="ja" lang="ja" title="正八胞体 — японский"><span>日本語</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%A0%95%ED%8C%94%ED%8F%AC%EC%B2%B4" hreflang="ko" lang="ko" title="정팔포체 — корейский"><span>한국어</span></a></li><li class="interlanguage-link interwiki-lt mw-list-item"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Teseraktas" hreflang="lt" lang="lt" title="Teseraktas — литовский"><span>Lietuvių</span></a></li><li class="interlanguage-link interwiki-mk mw-list-item"><a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%A2%D0%B5%D1%81%D0%B5%D1%80%D0%B0%D0%BA%D1%82" hreflang="mk" lang="mk" title="Тесеракт — македонский"><span>Македонски</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Tesseract" hreflang="nl" lang="nl" title="Tesseract — нидерландский"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Tesserakt" hreflang="nb" lang="nb" title="Tesserakt — норвежский букмол"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Tesserato" hreflang="pt" lang="pt" title="Tesserato — португальский"><span>Português</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Tesseract" hreflang="ro" lang="ro" title="Tesseract — румынский"><span>Română</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Tesseract" hreflang="en-simple" lang="en-simple" title="Tesseract — Simple English"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sl mw-list-item"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Teserakt" hreflang="sl" lang="sl" title="Teserakt — словенский"><span>Slovenščina</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Tesserakt" hreflang="sv" lang="sv" title="Tesserakt — шведский"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Tesseract" hreflang="tr" lang="tr" title="Tesseract — турецкий"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A2%D0%B5%D1%81%D0%B5%D1%80%D0%B0%D0%BA%D1%82" hreflang="uk" lang="uk" title="Тесеракт — украинский"><span>Українська</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Tesseract" hreflang="vi" lang="vi" title="Tesseract — вьетнамский"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%9B%9B%E7%B6%AD%E8%B6%85%E6%AD%A3%E6%96%B9%E9%AB%94" hreflang="zh" lang="zh" title="四維超正方體 — китайский"><span>中文</span></a></li>
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q12142#sitelinks-wikipedia" title="Править ссылки на другие языки">Править ссылки</a></span></div>
+</div>
+</nav>
+</div>
+</div>
+<footer class="mw-footer" id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 16 января 2024 в 07:01.</li>
+<li id="footer-info-copyright">Текст доступен по <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru" rel="license">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a><a href="//creativecommons.org/licenses/by-sa/4.0/" rel="license" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br/>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org/ru/">Фонд Викимедиа (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//ru.m.wikipedia.org/w/index.php?title=%D0%A2%D0%B5%D1%81%D1%81%D0%B5%D1%80%D0%B0%D0%BA%D1%82&amp;mobileaction=toggle_view_mobile">Мобильная версия</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" loading="lazy" src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88"/></a></li>
+<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" loading="lazy" src="/static/images/footer/poweredby_mediawiki_88x31.png" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88"/></a></li>
+</ul>
+</footer>
+
+
+</body>
+</html>

@@ -11,7 +11,7 @@
 <meta content="" name="ResourceLoaderDynamicStyles"/>
 
 
-<meta content="MediaWiki 1.42.0-wmf.18" name="generator"/>
+<meta content="MediaWiki 1.42.0-wmf.19" name="generator"/>
 <meta content="origin" name="referrer"/>
 <meta content="origin-when-cross-origin" name="referrer"/>
 <meta content="max-image-preview:standard" name="robots"/>
@@ -331,9 +331,9 @@ AMD CS5536</td>
 </li>
 <li id="cite_note-MIT-FAQ-10"><span class="mw-cite-backlink">↑ <a href="#cite_ref-MIT-FAQ_10-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-MIT-FAQ_10-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><a class="external text" href="http://laptop.media.mit.edu/faq.html" rel="nofollow">FAQ ноутбука за 100 долларов от MIT Media Lab</a> <small><a class="external text" href="https://web.archive.org/web/20060128020052/http://laptop.media.mit.edu/faq.html" rel="nofollow">Архивировано</a> 28 января 2006 года.</small></span>
 </li>
-<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.andycarvin.com/archives/2005/11/the_100_laptop.html" rel="nofollow">видеоинтервью</a> <small><a class="external text" href="https://web.archive.org/web/20071012123342/http://andycarvin.com/archives/2005/11/the_100_laptop.html" rel="nofollow">Архивировано</a> 12 октября 2007 года.</small>  <small class="ref-info">(недоступная ссылка с 04-09-2013 [3819 дней] — <a class="external text" href="//web.archive.org/web/*/http://www.andycarvin.com/archives/2005/11/the_100_laptop.html" rel="nofollow"><i>история</i></a>, <a class="external text" href="//web.archive.org/web/20060128/http://www.andycarvin.com/archives/2005/11/the_100_laptop.html" rel="nofollow"><i>копия</i></a>)</small> с <a href="/wiki/%D0%94%D0%B6%D0%B5%D0%BF%D1%81%D0%B5%D0%BD,_%D0%9C%D1%8D%D1%80%D0%B8_%D0%9B%D1%83" title="Джепсен, Мэри Лу">Мери Лоу Джепсен</a>, взятое <a href="/wiki/17_%D0%BD%D0%BE%D1%8F%D0%B1%D1%80%D1%8F" title="17 ноября">17 ноября</a> <a href="/wiki/2005_%D0%B3%D0%BE%D0%B4" title="2005 год">2005 года</a> на Всемирном саммите информационного общества (WSIS) в <a href="/wiki/%D0%A2%D1%83%D0%BD%D0%B8%D1%81" title="Тунис">Тунисе</a></span>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.andycarvin.com/archives/2005/11/the_100_laptop.html" rel="nofollow">видеоинтервью</a> <small><a class="external text" href="https://web.archive.org/web/20071012123342/http://andycarvin.com/archives/2005/11/the_100_laptop.html" rel="nofollow">Архивировано</a> 12 октября 2007 года.</small>  <small class="ref-info">(недоступная ссылка с 04-09-2013 [3825 дней] — <a class="external text" href="//web.archive.org/web/*/http://www.andycarvin.com/archives/2005/11/the_100_laptop.html" rel="nofollow"><i>история</i></a>, <a class="external text" href="//web.archive.org/web/20060128/http://www.andycarvin.com/archives/2005/11/the_100_laptop.html" rel="nofollow"><i>копия</i></a>)</small> с <a href="/wiki/%D0%94%D0%B6%D0%B5%D0%BF%D1%81%D0%B5%D0%BD,_%D0%9C%D1%8D%D1%80%D0%B8_%D0%9B%D1%83" title="Джепсен, Мэри Лу">Мери Лоу Джепсен</a>, взятое <a href="/wiki/17_%D0%BD%D0%BE%D1%8F%D0%B1%D1%80%D1%8F" title="17 ноября">17 ноября</a> <a href="/wiki/2005_%D0%B3%D0%BE%D0%B4" title="2005 год">2005 года</a> на Всемирном саммите информационного общества (WSIS) в <a href="/wiki/%D0%A2%D1%83%D0%BD%D0%B8%D1%81" title="Тунис">Тунисе</a></span>
 </li>
-<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><a class="external text" href="https://web.archive.org/web/20051223031431/http://www.andycarvin.com/podcasts/negropontelaptop.mp3" rel="nofollow">запись</a>  <small class="ref-info">(недоступная ссылка с 04-09-2013 [3819 дней] — <a class="external text" href="//web.archive.org/web/*/http://www.andycarvin.com/podcasts/negropontelaptop.mp3" rel="nofollow"><i>история</i></a>, <a class="external text" href="//web.archive.org/web/20060128/http://www.andycarvin.com/podcasts/negropontelaptop.mp3" rel="nofollow"><i>копия</i></a>)</small> лекции Николаса Негропонте, прочитанной в сентябре <a href="/wiki/2005_%D0%B3%D0%BE%D0%B4" title="2005 год">2005 года</a> на Technology Review’s Fifth Annual Emerging Technologies Conference.</span>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><a class="external text" href="https://web.archive.org/web/20051223031431/http://www.andycarvin.com/podcasts/negropontelaptop.mp3" rel="nofollow">запись</a>  <small class="ref-info">(недоступная ссылка с 04-09-2013 [3825 дней] — <a class="external text" href="//web.archive.org/web/*/http://www.andycarvin.com/podcasts/negropontelaptop.mp3" rel="nofollow"><i>история</i></a>, <a class="external text" href="//web.archive.org/web/20060128/http://www.andycarvin.com/podcasts/negropontelaptop.mp3" rel="nofollow"><i>копия</i></a>)</small> лекции Николаса Негропонте, прочитанной в сентябре <a href="/wiki/2005_%D0%B3%D0%BE%D0%B4" title="2005 год">2005 года</a> на Technology Review’s Fifth Annual Emerging Technologies Conference.</span>
 </li>
 <li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://web.archive.org/web/20160305104351/http://technogroups.ru/new_236.html" rel="nofollow">Ноутбуки OLPC XO-1 будут использовать платформу VIA</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 24 октября 2009. Архивировано из <a class="external text" href="http://www.technogroups.ru/new_236.html" rel="nofollow">оригинала</a> 5 марта 2016 года.</span></span>
 </li>
@@ -369,13 +369,13 @@ AMD CS5536</td>
 <li><i><a class="mw-redirect" href="/wiki/Jim_Gettys" title="Jim Gettys">Jim Gettys</a></i>. <a class="external text" href="https://web.archive.org/web/20060212171716/http://www.gettysfamily.org/wordpress/?p=11" rel="nofollow">$100 Laptop / OLPC (One Laptop Per Child)</a> 16 декабря 2005 <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li></ul>
 <!-- 
 NewPP limit report
-Parsed by mw‐web.eqiad.main‐7cc97dcfbc‐768sw
-Cached time: 20240218012858
-Cache expiry: 1031464
+Parsed by mw‐web.eqiad.main‐7bc865cbcb‐wxzrl
+Cached time: 20240224135420
+Cache expiry: 468342
 Reduced expiry: true
 Complications: [show‐toc]
-CPU time usage: 0.436 seconds
-Real time usage: 0.620 seconds
+CPU time usage: 0.401 seconds
+Real time usage: 0.565 seconds
 Preprocessor visited node count: 3953/1000000
 Post‐expand include size: 59409/2097152 bytes
 Template argument size: 7394/2097152 bytes
@@ -383,24 +383,24 @@ Highest expansion depth: 15/100
 Expensive parser function count: 15/500
 Unstrip recursion depth: 1/20
 Unstrip post‐expand size: 25493/5000000 bytes
-Lua time usage: 0.225/10.000 seconds
-Lua memory usage: 7298643/52428800 bytes
+Lua time usage: 0.203/10.000 seconds
+Lua memory usage: 7319333/52428800 bytes
 Number of Wikibase entities loaded: 10/400
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  510.710      1 -total
- 40.29%  205.746      1 Шаблон:Карточка_компьютера
- 34.29%  175.116      1 Шаблон:Карточка
- 17.22%   87.930      1 Шаблон:Примечания
-  9.45%   48.266     13 Шаблон:Cite_web
-  8.32%   42.503      1 Шаблон:ВС
-  7.87%   40.184      1 Шаблон:Update
-  7.02%   35.876      2 Шаблон:Wikidata
-  6.84%   34.950      1 Шаблон:Навигация
-  6.72%   34.321      1 Шаблон:Значения
+100.00%  460.526      1 -total
+ 38.78%  178.570      1 Шаблон:Карточка_компьютера
+ 32.65%  150.376      1 Шаблон:Карточка
+ 18.07%   83.199      1 Шаблон:Примечания
+  9.81%   45.196     13 Шаблон:Cite_web
+  8.23%   37.924      1 Шаблон:Значения
+  8.23%   37.921      1 Шаблон:ВС
+  8.09%   37.262      2 Шаблон:Wikidata
+  7.99%   36.789      1 Шаблон:Update
+  7.60%   34.982      1 Шаблон:Другое_значение
 -->
-<!-- Saved in parser cache with key ruwiki:pcache:idhash:141864-0!canonical and timestamp 20240218012858 and revision id 135720283. Rendering was triggered because: page-view
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:141864-0!canonical and timestamp 20240224135420 and revision id 135720283. Rendering was triggered because: page-view
  -->
 </div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> -->
 <div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=XO-1_(ноутбук)&amp;oldid=135720283">https://ru.wikipedia.org/w/index.php?title=XO-1_(ноутбук)&amp;oldid=135720283</a></div></div>

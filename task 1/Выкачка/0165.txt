@@ -11,7 +11,7 @@
 <meta content="" name="ResourceLoaderDynamicStyles"/>
 
 
-<meta content="MediaWiki 1.42.0-wmf.18" name="generator"/>
+<meta content="MediaWiki 1.42.0-wmf.19" name="generator"/>
 <meta content="origin" name="referrer"/>
 <meta content="origin-when-cross-origin" name="referrer"/>
 <meta content="max-image-preview:standard" name="robots"/>
@@ -115,7 +115,7 @@
 <p>
 Общеизвестным плохим примером является выбор знака равенства для обозначения присваивания, восходящий к языку Fortran в 1957 году и слепо повторяемый до сих пор массой разработчиков языков. Эта плохая идея низвергает вековую традицию использования знака «<tt>=</tt>» для обозначения сравнения на равенство, предиката, принимающего значения «<tt>истина</tt>» или «<tt>ложь</tt>». Но в Fortran этот символ стал обозначать присваивание, принуждение к равенству. В этом случае операнды находятся в неравном положении: левый операнд, переменная, должен быть сделан равным правому операнду, выражению. Поэтому x = y не означает то же самое, что y = x.
 </p>
-<div class="mw-collapsible mw-collapsed ts-Скрытый_блок ts-Скрытый_блок-gray ts-Скрытый_блок-noneHideLink ts-oq has-collapsible-header" style=""><div class="ts-Скрытый_блок-title ts-Скрытый_блок-title-leftTitle ts-oq-header collapsible-header" style="text-align:left;">Оригинальный текст <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></div><div class="mw-collapsible-content ts-oq-content" style="">
+<div class="mw-collapsible mw-collapsed has-collapsible-header ts-Скрытый_блок ts-Скрытый_блок-gray ts-Скрытый_блок-noneHideLink ts-oq has-collapsible-header" style=""><div class="ts-Скрытый_блок-title collapsible-header ts-Скрытый_блок-title-leftTitle ts-oq-header collapsible-header" style="text-align:left;">Оригинальный текст <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></div><div class="mw-collapsible-content ts-oq-content" style="">
 <div dir="auto" lang="en">A notorious example for a bad idea was the choice of the equal sign to denote assignment. It goes back to Fortran in 1957 and has blindly been copied by armies of language designers. Why is it a bad idea? Because it overthrows a century old tradition to let “=” denote a comparison for equality, a predicate which is either true or false. But Fortran made it to mean assignment, the enforcing of equality. In this case, the operands are on unequal footing: The left operand (a variable) is to be made equal to the right operand (an expression). x = y does not mean the same thing as y = x.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup></div>
 </div></div>
 </blockquote>
@@ -323,38 +323,38 @@ movl    %eax, 8(%ebp)
 <li><i>Т. Пратт, М. Зелковиц.</i> Языки программирования: разработка и реализация. — 4-е изд. — СПб: Питер, 2002. — 688 с. <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/5318001890">ISBN 5-318-00189-0</a>, <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/0130276782">ISBN 0-13-027678-2</a>. С. 201—204.</li></ul>
 <!-- 
 NewPP limit report
-Parsed by mw1487
-Cached time: 20240218050152
+Parsed by mw‐web.codfw.main‐6449cc7686‐scq98
+Cached time: 20240223214148
 Cache expiry: 2592000
 Reduced expiry: false
 Complications: [show‐toc]
-CPU time usage: 0.190 seconds
-Real time usage: 1.169 seconds
+CPU time usage: 0.182 seconds
+Real time usage: 0.255 seconds
 Preprocessor visited node count: 1433/1000000
-Post‐expand include size: 13111/2097152 bytes
+Post‐expand include size: 13237/2097152 bytes
 Template argument size: 3678/2097152 bytes
 Highest expansion depth: 15/100
 Expensive parser function count: 16/500
 Unstrip recursion depth: 0/20
-Unstrip post‐expand size: 14660/5000000 bytes
-Lua time usage: 0.026/10.000 seconds
-Lua memory usage: 2267468/52428800 bytes
+Unstrip post‐expand size: 13964/5000000 bytes
+Lua time usage: 0.033/10.000 seconds
+Lua memory usage: 2280792/52428800 bytes
 Number of Wikibase entities loaded: 0/400
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00% 1126.277      1 -total
- 45.00%  506.824     11 Шаблон:Cpp
-  4.78%   53.877      1 Шаблон:Oq
-  3.47%   39.094      1 Шаблон:Скрытый_блок
-  3.18%   35.843      1 Шаблон:О
-  3.08%   34.720      1 Шаблон:Начало_скрытого_блока
-  2.98%   33.542      1 Шаблон:Rellink
-  2.73%   30.709      1 Шаблон:Примечания
-  2.57%   28.968      1 Шаблон:Книга
-  2.14%   24.066      2 Шаблон:Cite_web
+100.00%  212.673      1 -total
+ 26.94%   57.295      1 Шаблон:Oq
+ 19.36%   41.174      1 Шаблон:Скрытый_блок
+ 17.08%   36.333      1 Шаблон:Примечания
+ 17.03%   36.214      1 Шаблон:Начало_скрытого_блока
+ 15.61%   33.202      1 Шаблон:О
+ 14.75%   31.370      1 Шаблон:Rellink
+ 14.54%   30.925      1 Шаблон:Книга
+ 14.45%   30.739      2 Шаблон:Cite_web
+ 13.51%   28.733     11 Шаблон:Cpp
 -->
-<!-- Saved in parser cache with key ruwiki:pcache:idhash:174455-0!canonical and timestamp 20240218050152 and revision id 127752842. Rendering was triggered because: page-view
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:174455-0!canonical and timestamp 20240223214148 and revision id 127752842. Rendering was triggered because: page-view
  -->
 </div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> -->
 <div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Присваивание&amp;oldid=127752842">https://ru.wikipedia.org/w/index.php?title=Присваивание&amp;oldid=127752842</a></div></div>

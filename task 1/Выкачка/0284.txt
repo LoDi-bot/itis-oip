@@ -11,7 +11,7 @@
 <meta content="" name="ResourceLoaderDynamicStyles"/>
 
 
-<meta content="MediaWiki 1.42.0-wmf.18" name="generator"/>
+<meta content="MediaWiki 1.42.0-wmf.19" name="generator"/>
 <meta content="origin" name="referrer"/>
 <meta content="origin-when-cross-origin" name="referrer"/>
 <meta content="max-image-preview:standard" name="robots"/>
@@ -259,13 +259,13 @@
 <li><a class="external text" href="http://www.bekasov.ru/beyshen/prague/vaclav.htm" rel="nofollow">Фотоальбом</a></li></ul>
 <!-- 
 NewPP limit report
-Parsed by mw‐web.eqiad.main‐7cc97dcfbc‐lgg5g
-Cached time: 20240218052710
+Parsed by mw‐web.eqiad.main‐5ddd5d9c49‐dtbtm
+Cached time: 20240223183614
 Cache expiry: 2592000
 Reduced expiry: false
 Complications: [show‐toc]
-CPU time usage: 0.336 seconds
-Real time usage: 0.461 seconds
+CPU time usage: 0.297 seconds
+Real time usage: 0.848 seconds
 Preprocessor visited node count: 2423/1000000
 Post‐expand include size: 27510/2097152 bytes
 Template argument size: 5544/2097152 bytes
@@ -273,24 +273,24 @@ Highest expansion depth: 17/100
 Expensive parser function count: 3/500
 Unstrip recursion depth: 0/20
 Unstrip post‐expand size: 12723/5000000 bytes
-Lua time usage: 0.160/10.000 seconds
-Lua memory usage: 4893528/52428800 bytes
+Lua time usage: 0.128/10.000 seconds
+Lua memory usage: 5768910/52428800 bytes
 Number of Wikibase entities loaded: 0/400
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  379.179      1 -total
- 65.04%  246.632      1 Шаблон:Улица
- 51.82%  196.473      1 Шаблон:Карточка
- 13.29%   50.379      8 Шаблон:Wikidata
- 10.49%   39.782      1 Шаблон:Примечания
-  9.62%   36.484      1 Шаблон:Книга
-  8.41%   31.892      1 Шаблон:Карточка/оригинал_названия
-  7.22%   27.367      2 Шаблон:Cite_web
-  5.75%   21.796      1 Шаблон:Уточнить
-  4.89%   18.542      1 Шаблон:Coord
+100.00%  494.286      1 -total
+ 77.45%  382.842      1 Шаблон:Улица
+ 67.43%  333.286      1 Шаблон:Карточка
+ 21.76%  107.538      8 Шаблон:Wikidata
+ 19.70%   97.393      1 Шаблон:Карточка/оригинал_названия
+  7.92%   39.130      1 Шаблон:Примечания
+  6.56%   32.431      1 Шаблон:Книга
+  5.75%   28.426      2 Шаблон:Cite_web
+  4.78%   23.612      1 Шаблон:Coord
+  2.88%   14.229      1 Шаблон:Уточнить
 -->
-<!-- Saved in parser cache with key ruwiki:pcache:idhash:1702469-0!canonical and timestamp 20240218052710 and revision id 133734362. Rendering was triggered because: page-view
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:1702469-0!canonical and timestamp 20240223183614 and revision id 133734362. Rendering was triggered because: page-view
  -->
 </div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> -->
 <div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Вацлавская_площадь&amp;oldid=133734362">https://ru.wikipedia.org/w/index.php?title=Вацлавская_площадь&amp;oldid=133734362</a></div></div>

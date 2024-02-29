@@ -11,7 +11,7 @@
 <meta content="" name="ResourceLoaderDynamicStyles"/>
 
 
-<meta content="MediaWiki 1.42.0-wmf.18" name="generator"/>
+<meta content="MediaWiki 1.42.0-wmf.19" name="generator"/>
 <meta content="origin" name="referrer"/>
 <meta content="origin-when-cross-origin" name="referrer"/>
 <meta content="max-image-preview:standard" name="robots"/>
@@ -259,7 +259,7 @@
 <li><a class="external text" href="https://web.archive.org/web/20070516092101/http://www.flotte.by.ru/russian/types/old/vel_kn_olga_nikolaevna.html" rel="nofollow">Суда типа «Великая княжна Ольга Николаевна» на сайте «Российский речной пассажирский флот»</a></li>
 <li><a class="external text" href="https://web.archive.org/web/20061030210519/http://www.volgaflot.com/index.phtml?s=3&amp;l=ru&amp;id=167" rel="nofollow">К 90-летию выхода на Волгу пароходов «Володарский» и «Спартак» (сайт Волжского пароходства)</a></li>
 <li><a class="external text" href="https://web.archive.org/web/20061015214221/http://retro.infoflot.ru/ships/1901-1920/volodarsky/index.html" rel="nofollow">«Володарский» на сайте «Ретрофлот» (дата переименования указана неверно)</a></li></ul>
-<div aria-labelledby="Судоходство_на_Волге" class="navbox" data-name="Судоходство на Волге" role="navigation"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%A1%D1%83%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE_%D0%BD%D0%B0_%D0%92%D0%BE%D0%BB%D0%B3%D0%B5" title="Перейти к шаблону «Судоходство на Волге»"><img alt="Перейти к шаблону «Судоходство на Волге»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span> </span><div id="Судоходство_на_Волге" style="font-size:114%;margin:0 5em"><a href="/wiki/%D0%A1%D1%83%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE_%D0%BD%D0%B0_%D0%92%D0%BE%D0%BB%D0%B3%D0%B5" title="Судоходство на Волге">Судоходство на Волге</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1px">История</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<div aria-labelledby="Судоходство_на_Волге" class="navbox" data-name="Судоходство на Волге" role="navigation"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%A1%D1%83%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE_%D0%BD%D0%B0_%D0%92%D0%BE%D0%BB%D0%B3%D0%B5" title="Перейти к шаблону «Судоходство на Волге»"><img alt="Перейти к шаблону «Судоходство на Волге»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span></span><div id="Судоходство_на_Волге" style="font-size:114%;margin:0 5em"><a href="/wiki/%D0%A1%D1%83%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE_%D0%BD%D0%B0_%D0%92%D0%BE%D0%BB%D0%B3%D0%B5" title="Судоходство на Волге">Судоходство на Волге</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1px">История</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
 <ul><li><a href="/wiki/%D0%92%D0%BE%D0%BB%D0%B6%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%D1%8B%D0%B9_%D0%BF%D1%83%D1%82%D1%8C" title="Волжский торговый путь">Волжский торговый путь</a></li>
 <li><a href="/wiki/%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B4%D0%BE%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%BB%D0%BE%D0%BA%D0%B0" title="Волгодонская переволока">Волгодонская переволока</a></li></ul>
 </div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/%D0%A0%D0%B5%D1%87%D0%BD%D1%8B%D0%B5_%D0%BF%D0%BE%D1%80%D1%82%D1%8B_%D0%92%D0%BE%D0%BB%D0%B6%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B1%D0%B0%D1%81%D1%81%D0%B5%D0%B9%D0%BD%D0%B0" title="Речные порты Волжского бассейна">Речные порты<wbr/>Волжского бассейна</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
@@ -348,38 +348,38 @@
 </div></td></tr></tbody></table><div></div></td></tr></tbody></table></div>
 <!-- 
 NewPP limit report
-Parsed by mw1354
-Cached time: 20240218075257
+Parsed by mw‐web.eqiad.main‐68f6dcd7d9‐w4sf2
+Cached time: 20240229072356
 Cache expiry: 2592000
 Reduced expiry: false
 Complications: [show‐toc]
-CPU time usage: 0.261 seconds
-Real time usage: 0.452 seconds
-Preprocessor visited node count: 1702/1000000
-Post‐expand include size: 65772/2097152 bytes
-Template argument size: 2548/2097152 bytes
+CPU time usage: 0.250 seconds
+Real time usage: 0.384 seconds
+Preprocessor visited node count: 1679/1000000
+Post‐expand include size: 65533/2097152 bytes
+Template argument size: 2472/2097152 bytes
 Highest expansion depth: 16/100
 Expensive parser function count: 9/500
 Unstrip recursion depth: 0/20
 Unstrip post‐expand size: 2651/5000000 bytes
-Lua time usage: 0.134/10.000 seconds
-Lua memory usage: 5771421/52428800 bytes
+Lua time usage: 0.128/10.000 seconds
+Lua memory usage: 5506504/52428800 bytes
 Number of Wikibase entities loaded: 8/400
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  305.010      1 -total
- 46.70%  142.445      5 Шаблон:Карточка/блок
- 23.60%   71.982      1 Шаблон:Судно/Начало
- 20.73%   63.238      1 Шаблон:Судно/Служба
- 15.80%   48.196      6 Шаблон:Wikidata
- 12.04%   36.712      1 Шаблон:Карточка/оригинал_названия
- 11.09%   33.836      1 Шаблон:Другие_значения
- 10.27%   31.338      1 Шаблон:Другое_значение
-  9.48%   28.915      1 Шаблон:Судно/Характеристики
-  9.22%   28.131      1 Шаблон:Судоходство_на_Волге
+100.00%  303.615      1 -total
+ 44.08%  133.842      5 Шаблон:Карточка/блок
+ 21.64%   65.704      1 Шаблон:Судно/Начало
+ 21.07%   63.970      1 Шаблон:Судно/Служба
+ 14.24%   43.236      6 Шаблон:Wikidata
+ 12.68%   38.492      1 Шаблон:Cite_web
+ 10.69%   32.450      1 Шаблон:Карточка/оригинал_названия
+ 10.42%   31.630      1 Шаблон:Навигация
+  9.33%   28.341      1 Шаблон:Другие_значения
+  8.74%   26.550      1 Шаблон:Судно/Характеристики
 -->
-<!-- Saved in parser cache with key ruwiki:pcache:idhash:367921-0!canonical and timestamp 20240218075257 and revision id 133332951. Rendering was triggered because: page-view
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:367921-0!canonical and timestamp 20240229072356 and revision id 133332951. Rendering was triggered because: page-view
  -->
 </div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> -->
 <div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Володарский_(пароход)&amp;oldid=133332951">https://ru.wikipedia.org/w/index.php?title=Володарский_(пароход)&amp;oldid=133332951</a></div></div>

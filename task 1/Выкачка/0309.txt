@@ -11,7 +11,7 @@
 <meta content="" name="ResourceLoaderDynamicStyles"/>
 
 
-<meta content="MediaWiki 1.42.0-wmf.18" name="generator"/>
+<meta content="MediaWiki 1.42.0-wmf.19" name="generator"/>
 <meta content="origin" name="referrer"/>
 <meta content="origin-when-cross-origin" name="referrer"/>
 <meta content="max-image-preview:standard" name="robots"/>
@@ -216,38 +216,38 @@
 <li><a class="external text" href="http://biblio.darial-online.ru/text/Kotsoev/index_rus.shtml" rel="nofollow">Произведения Арсена Коцоева в русском переводе</a></li></ul></li></ul>
 <!-- 
 NewPP limit report
-Parsed by mw‐web.eqiad.main‐7cc97dcfbc‐78xzh
-Cached time: 20240218060759
+Parsed by mw‐web.eqiad.main‐7bc865cbcb‐7hqdr
+Cached time: 20240224160714
 Cache expiry: 2592000
 Reduced expiry: false
 Complications: [show‐toc]
-CPU time usage: 0.381 seconds
-Real time usage: 0.748 seconds
-Preprocessor visited node count: 4609/1000000
+CPU time usage: 0.391 seconds
+Real time usage: 0.547 seconds
+Preprocessor visited node count: 4630/1000000
 Post‐expand include size: 51602/2097152 bytes
-Template argument size: 14124/2097152 bytes
+Template argument size: 14127/2097152 bytes
 Highest expansion depth: 17/100
 Expensive parser function count: 8/500
 Unstrip recursion depth: 1/20
 Unstrip post‐expand size: 19208/5000000 bytes
-Lua time usage: 0.173/10.000 seconds
-Lua memory usage: 7652584/52428800 bytes
+Lua time usage: 0.196/10.000 seconds
+Lua memory usage: 7445904/52428800 bytes
 Number of Wikibase entities loaded: 6/400
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  467.270      1 -total
- 55.75%  260.486      1 Шаблон:Писатель
- 50.57%  236.319      1 Шаблон:Карточка
- 17.65%   82.484      7 Шаблон:Книга
- 16.88%   78.862      1 Шаблон:Примечания
- 15.93%   74.415     11 Шаблон:Wikidata
-  9.82%   45.876      1 Шаблон:ФИО
-  6.95%   32.480      1 Шаблон:Карточка/оригинал_имени
-  6.11%   28.549      1 Шаблон:Wikidata/p569
-  4.91%   22.922      2 Шаблон:Cite_web
+100.00%  484.187      1 -total
+ 58.92%  285.298      1 Шаблон:Писатель
+ 53.14%  257.285      1 Шаблон:Карточка
+ 15.93%   77.118      1 Шаблон:Примечания
+ 15.74%   76.216      7 Шаблон:Книга
+ 14.24%   68.940     11 Шаблон:Wikidata
+  7.41%   35.880      1 Шаблон:ФИО
+  5.99%   29.010      1 Шаблон:Карточка/оригинал_имени
+  4.96%   24.035      2 Шаблон:Cite_web
+  4.66%   22.573      1 Шаблон:Wikidata/p569
 -->
-<!-- Saved in parser cache with key ruwiki:pcache:idhash:34000-0!canonical and timestamp 20240218060759 and revision id 130810544. Rendering was triggered because: page-view
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:34000-0!canonical and timestamp 20240224160714 and revision id 130810544. Rendering was triggered because: page-view
  -->
 </div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> -->
 <div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Коцоев,_Арсен_Борисович&amp;oldid=130810544">https://ru.wikipedia.org/w/index.php?title=Коцоев,_Арсен_Борисович&amp;oldid=130810544</a></div></div>

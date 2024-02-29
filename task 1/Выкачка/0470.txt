@@ -1,0 +1,554 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="ru">
+<head>
+<meta charset="utf-8"/>
+<title>Гентский трамвай — Википедия</title>
+
+
+
+
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+
+
+<meta content="MediaWiki 1.42.0-wmf.19" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="max-image-preview:standard" name="robots"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/HermeLijn_Korenmarkt.JPG/1200px-HermeLijn_Korenmarkt.JPG" property="og:image"/>
+<meta content="1200" property="og:image:width"/>
+<meta content="898" property="og:image:height"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/HermeLijn_Korenmarkt.JPG/800px-HermeLijn_Korenmarkt.JPG" property="og:image"/>
+<meta content="800" property="og:image:width"/>
+<meta content="599" property="og:image:height"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/HermeLijn_Korenmarkt.JPG/640px-HermeLijn_Korenmarkt.JPG" property="og:image"/>
+<meta content="640" property="og:image:width"/>
+<meta content="479" property="og:image:height"/>
+<meta content="width=1000" name="viewport"/>
+<meta content="Гентский трамвай — Википедия" property="og:title"/>
+<meta content="website" property="og:type"/>
+
+
+
+
+
+
+
+
+
+
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Гентский_трамвай rootpage-Гентский_трамвай skin-vector action-view"><div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators">
+</div>
+<h1 class="firstHeading mw-first-heading" id="firstHeading"><span class="mw-page-title-main">Гентский трамвай</span></h1>
+<div class="vector-body" id="bodyContent">
+<div class="noprint" id="siteSub">Материал из Википедии — свободной энциклопедии</div>
+<div id="contentSub"><div id="mw-content-subtitle"><div class="plainlinks flaggedrevs_preview" id="mw-fr-reviewnotice">Текущая версия страницы пока <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9/%D0%9F%D0%BE%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BB%D1%8F_%D1%87%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9" title="Википедия:Проверка статей/Пояснение для читателей">не проверялась</a> опытными участниками и может значительно отличаться от <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%93%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9&amp;stable=1">версии</a>, проверенной 22 апреля 2016 года; проверки требуют <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%93%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9&amp;oldid=77931562&amp;diff=cur&amp;diffonly=0">5 правок</a>.</div><div class="flaggedrevs_short flaggedrevs_draft_notsynced plainlinks noprint" id="mw-fr-revisiontag"><div class="flaggedrevs_short_basic"><span class="flaggedrevs-icon oo-ui-widget oo-ui-widget-enabled oo-ui-iconElement-icon oo-ui-icon-block oo-ui-iconElement oo-ui-labelElement-invisible oo-ui-iconWidget" title="Текущая версия"></span><span class="fr-toggle-arrow oo-ui-widget oo-ui-widget-enabled oo-ui-indicatorElement-indicator oo-ui-indicator-down oo-ui-indicatorElement oo-ui-labelElement-invisible oo-ui-indicatorWidget" id="mw-fr-revisiontoggle" title="показать/скрыть подробности"></span></div>
+<div id="mw-fr-revisiondetails-wrapper" style="position:relative;"><div class="flaggedrevs_short_details" id="mw-fr-revisiondetails" style="display:none">Текущая версия страницы пока <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9/%D0%9F%D0%BE%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BB%D1%8F_%D1%87%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9" title="Википедия:Проверка статей/Пояснение для читателей">не проверялась</a> опытными участниками и может значительно отличаться от <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%93%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9&amp;stable=1">версии</a>, проверенной 22 апреля 2016 года; проверки требуют <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%93%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9&amp;oldid=77931562&amp;diff=cur&amp;diffonly=0">5 правок</a>.</div>
+</div>
+</div>
+</div></div>
+<div id="contentSub2"></div>
+<div id="jump-to-nav"></div>
+<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+<div class="mw-body-content" id="mw-content-text"><div class="mw-content-ltr mw-parser-output" dir="ltr" lang="ru"><table class="infobox infobox-b0f0313a055bb0be" data-name="Трамвайная система" style=""><tbody><tr><th class="infobox-above" colspan="2" scope="colgroup" style="background:#eaecf0;">Гентский трамвай</th></tr><tr><td class="infobox-image" colspan="2" style=""> <span class="no-wikidata" data-wikidata-property-id="P18"><span typeof="mw:File/Frameless"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:HermeLijn_Korenmarkt.JPG"><img class="mw-file-element" data-file-height="1712" data-file-width="2288" decoding="async" height="205" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/HermeLijn_Korenmarkt.JPG/274px-HermeLijn_Korenmarkt.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/HermeLijn_Korenmarkt.JPG/411px-HermeLijn_Korenmarkt.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b6/HermeLijn_Korenmarkt.JPG/548px-HermeLijn_Korenmarkt.JPG 2x" width="274"/></a></span></span> </td></tr>
+<tr>
+<th class="infobox-header" colspan="2" scope="colgroup" style="background:#eaecf0;">Описание</th>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Страна</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P17">Бельгия</span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Расположение</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P131">Гент</span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Дата открытия</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P571">1875 (конка), 1904 (электрический трамвай)</span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Эксплуатант</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P137"><a href="/wiki/De_Lijn" title="De Lijn">De Lijn</a></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Сайт</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P856"><a class="external text" href="http://delijn.be" rel="nofollow">delijn.be</a></span></td>
+</tr>
+<tr>
+<th class="infobox-header" colspan="2" scope="colgroup" style="background:#eaecf0;">Маршрутная сеть</th>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Число маршрутов</th>
+<td class="plainlist">
+4</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Длина сети</th>
+<td class="plainlist">
++/- 30 км</td>
+</tr>
+<tr>
+<th class="infobox-header" colspan="2" scope="colgroup" style="background:#eaecf0;">Подвижной состав</th>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Число вагонов</th>
+<td class="plainlist">
+60</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Основные типы <a class="mw-redirect" href="/wiki/%D0%9F%D0%BE%D0%B4%D0%B2%D0%B8%D0%B6%D0%BD%D0%BE%D0%B9_%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2" title="Подвижной состав">ПС</a></th>
+<td class="plainlist">
+<a class="mw-redirect" href="/wiki/PCC" title="PCC">PCC</a>, <a class="new" href="/w/index.php?title=HermeLijn&amp;action=edit&amp;redlink=1" title="HermeLijn (страница отсутствует)">HermeLijn</a></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Число депо</th>
+<td class="plainlist">
+1</td>
+</tr>
+<tr>
+<th class="infobox-header" colspan="2" scope="colgroup" style="background:#eaecf0;">Технические данные</th>
+</tr>
+<tr>
+<th class="plainlist" scope="row"><a href="/wiki/%D0%A8%D0%B8%D1%80%D0%B8%D0%BD%D0%B0_%D0%BA%D0%BE%D0%BB%D0%B5%D0%B8" title="Ширина колеи">Ширина колеи</a></th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P1064"><a class="mw-redirect" href="/wiki/1000_%D0%BC%D0%BC" title="1000 мм">1000 мм</a></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Стоимость проезда</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P2555">€1,20</span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row"><a href="/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F_%D0%B6%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D1%8B%D1%85_%D0%B4%D0%BE%D1%80%D0%BE%D0%B3" title="Электрификация железных дорог">Электрификация</a></th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P930">600 В</span></td>
+</tr>
+<tr>
+<td class="plainlist" colspan="2" style="text-align:center;">
+<table class="collapsible" style="width:100%; margin:0; border:none;">
+<tbody><tr style="background-color: #eaecf0;"><th>Схема маршрутов</th></tr>
+<tr><td style="text-align:center">
+<p><span class="wikidata-claim" data-wikidata-claim-id="Q778264$B50792BE-3A84-442D-B9C0-66EAF8A040AF" data-wikidata-property-id="P1621"><span class="wikidata-snak wikidata-main-snak"><span typeof="mw:File/Frameless"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Tramnet_Gent.png"><img class="mw-file-element" data-file-height="2923" data-file-width="2067" decoding="async" height="300" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Tramnet_Gent.png/212px-Tramnet_Gent.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Tramnet_Gent.png/318px-Tramnet_Gent.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/60/Tramnet_Gent.png/424px-Tramnet_Gent.png 2x" width="212"/></a></span></span></span>
+</p>
+</td></tr></tbody></table></td>
+</tr><tr><td class="infobox-below" colspan="2" style="background:#eaecf0;;"><span class="no-wikidata" data-wikidata-property-id="P373"><span typeof="mw:File"><a href="https://commons.wikimedia.org/wiki/Category:Ghent_tram_network" title="commons:Category:Ghent tram network"><img alt="Логотип Викисклада" class="mw-file-element" data-file-height="1376" data-file-width="1024" decoding="async" height="20" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/15px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/23px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 2x" width="15"/></a></span> <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Ghent_tram_network" title="commons:Category:Ghent tram network">Медиафайлы на Викискладе</a></span></td></tr>
+</tbody></table>
+<p><b>Ге́нтский трамва́й</b> — вид общественного транспорта в <a href="/wiki/%D0%93%D0%B5%D0%BD%D1%82" title="Гент">Генте</a>, <a href="/wiki/%D0%91%D0%B5%D0%BB%D1%8C%D0%B3%D0%B8%D1%8F" title="Бельгия">Бельгия</a>. По состоянию на 2007 год общая протяжённость трамвайной сети составляет 35 км, имеется четыре маршрута. В будущем планируется расширение системы.
+</p><p>Гентский трамвай эксплуатируется организацией <a href="/wiki/De_Lijn" title="De Lijn">De Lijn</a>.
+</p>
+<div aria-labelledby="mw-toc-heading" class="toc" id="toc" role="navigation"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="ru"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#История"><span class="tocnumber">1</span> <span class="toctext">История</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Описание_системы"><span class="tocnumber">2</span> <span class="toctext">Описание системы</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Депо"><span class="tocnumber">2.1</span> <span class="toctext">Депо</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Маршруты"><span class="tocnumber">3</span> <span class="toctext">Маршруты</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Организация_работы"><span class="tocnumber">4</span> <span class="toctext">Организация работы</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Время_работы,_расписания"><span class="tocnumber">4.1</span> <span class="toctext">Время работы, расписания</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Тарифы,_система_оплаты"><span class="tocnumber">4.2</span> <span class="toctext">Тарифы, система оплаты</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Остановки"><span class="tocnumber">4.3</span> <span class="toctext">Остановки</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Подвижной_состав"><span class="tocnumber">5</span> <span class="toctext">Подвижной состав</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Исторический"><span class="tocnumber">5.1</span> <span class="toctext">Исторический</span></a>
+<ul>
+<li class="toclevel-3 tocsection-11"><a href="#Трамваи_Duwag_из_Бохума"><span class="tocnumber">5.1.1</span> <span class="toctext">Трамваи Duwag из Бохума</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-12"><a href="#Современный"><span class="tocnumber">5.2</span> <span class="toctext">Современный</span></a>
+<ul>
+<li class="toclevel-3 tocsection-13"><a href="#PCC"><span class="tocnumber">5.2.1</span> <span class="toctext">PCC</span></a></li>
+<li class="toclevel-3 tocsection-14"><a href="#HermeLijn"><span class="tocnumber">5.2.2</span> <span class="toctext">HermeLijn</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#Спецтехника"><span class="tocnumber">6</span> <span class="toctext">Спецтехника</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#См._также"><span class="tocnumber">7</span> <span class="toctext">См. также</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#Источники"><span class="tocnumber">8</span> <span class="toctext">Источники</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#Ссылки"><span class="tocnumber">9</span> <span class="toctext">Ссылки</span></a></li>
+</ul>
+</div>
+<h2><span id=".D0.98.D1.81.D1.82.D0.BE.D1.80.D0.B8.D1.8F"></span><span class="mw-headline" id="История">История</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%93%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9&amp;veaction=edit&amp;section=1" title="Редактировать раздел «История»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%93%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9&amp;action=edit&amp;section=1" title="Редактировать код раздела «История»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:100jaarGentsetram.jpg"><img class="mw-file-element" data-file-height="1600" data-file-width="1200" decoding="async" height="400" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/100jaarGentsetram.jpg/300px-100jaarGentsetram.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/100jaarGentsetram.jpg/450px-100jaarGentsetram.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/93/100jaarGentsetram.jpg/600px-100jaarGentsetram.jpg 2x" width="300"/></a><figcaption>Празднование 100-летия трамвая в 2004 году.</figcaption></figure>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Gent_tram_1966.jpg"><img class="mw-file-element" data-file-height="2776" data-file-width="2790" decoding="async" height="298" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gent_tram_1966.jpg/300px-Gent_tram_1966.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gent_tram_1966.jpg/450px-Gent_tram_1966.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gent_tram_1966.jpg/600px-Gent_tram_1966.jpg 2x" width="300"/></a><figcaption>«Средневековый» трамвай посереди оживлённого уличного движения в 1966 году. Трамвай и сейчас ходит по этой улице (маршруты 1 и 4), но въезд автотранспорта на неё, как и во всю центральную часть города, теперь ограничен.</figcaption></figure>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Gent_tram_2007.JPG"><img class="mw-file-element" data-file-height="2304" data-file-width="3072" decoding="async" height="225" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Gent_tram_2007.JPG/300px-Gent_tram_2007.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Gent_tram_2007.JPG/450px-Gent_tram_2007.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Gent_tram_2007.JPG/600px-Gent_tram_2007.JPG 2x" width="300"/></a><figcaption>То же место спустя 41 год.</figcaption></figure>
+<p><a href="/wiki/%D0%9A%D0%BE%D0%BD%D0%BA%D0%B0" title="Конка">Конка</a> появилась в Генте в <a href="/wiki/1875_%D0%B3%D0%BE%D0%B4" title="1875 год">1875 году</a>. Подвижной состав конного трамвая состоял из 43 вагонов, 29 из них были закрытыми, остальные — открытыми. Количество <a class="mw-redirect" href="/wiki/%D0%9B%D0%BE%D1%88%D0%B0%D0%B4%D1%8C" title="Лошадь">лошадей</a> достигало ста. Эксплуататором сети конки была компания <i>Les Tramways de ville de Gand</i>, которая просуществовала до <a href="/wiki/1897_%D0%B3%D0%BE%D0%B4" title="1897 год">1897 года</a>.
+</p><p><a href="/wiki/13_%D0%B0%D0%B2%D0%B3%D1%83%D1%81%D1%82%D0%B0" title="13 августа">13 августа</a> 1897 года концессия на эксплуатацию сети была передана двум компаниям: <i>Société Anonyme des Railways Economiques de Liège-Seraing et Extensions</i>, сокращённо — RELSE и <i>Compagnie Générale des Railways à voie étroite</i>.
+</p><p><a href="/wiki/4_%D1%8F%D0%BD%D0%B2%D0%B0%D1%80%D1%8F" title="4 января">4 января</a> <a href="/wiki/1898_%D0%B3%D0%BE%D0%B4" title="1898 год">1898 года</a> две компании образовали совместную дочернюю компанию <i>SA des Tramways Electriques de Gand</i>, целью которой была замена конной тяги на электрическую, и дальнейшая эксплуатация сети электрического трамвая. Было решено использовать аккумуляторные трамваи, так как они не требовали неэстетической <a href="/wiki/%D0%9A%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%BD%D0%B0%D1%8F_%D1%81%D0%B5%D1%82%D1%8C" title="Контактная сеть">контактной сети</a>.
+</p><p>Мощность аккумуляторных трамваев составляла 25 лошадиных сил. Каждый трамвай брал на борт 25 пассажиров. Максимальная скорость составляла 12 км/ч, это ограничение было не техническим, а законодательным: условия концессии запрещали трамваям двигаться с большей скоростью.
+</p><p>Для зарядки аккумуляторов трамваев была построена специальная <a href="/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F" title="Электростанция">электростанция</a> мощностью 600 кВт.
+</p><p>Однако аккумуляторная тяга не была слишком успешной, поэтому в <a href="/wiki/1903_%D0%B3%D0%BE%D0%B4" title="1903 год">1903 году</a> всё-таки было принято решение о строительстве контактной сети. В <a href="/wiki/1904_%D0%B3%D0%BE%D0%B4" title="1904 год">1904 году</a> в Генте начал действовать электрический трамвай, получавший энергию через контактную сеть. Именно это дата традиционно считается временем рождения гентского трамвая (например, 100-летие трамвая праздновалось в 2004 году).
+</p><p>В ходе электрификации <a href="/wiki/%D0%A8%D0%B8%D1%80%D0%B8%D0%BD%D0%B0_%D0%BA%D0%BE%D0%BB%D0%B5%D0%B8" title="Ширина колеи">ширина колеи</a> трамвая была уменьшена в 1435 мм до <a class="mw-redirect" href="/wiki/1000_%D0%BC%D0%BC" title="1000 мм">1000 мм</a>.
+</p><p>С 1904 гентский трамвай эксплуатировала компания <i>Tramway Electriques de Gand</i> (TEG).
+</p><p>Начиная с <a href="/wiki/1956_%D0%B3%D0%BE%D0%B4" title="1956 год">1956 года</a> сеть трамвая в Генте начала уменьшаться, хотя драматическое сокращение сети началось в <a href="/wiki/1962_%D0%B3%D0%BE%D0%B4" title="1962 год">1962 году</a> и продолжалось до 1969 года, когда была закрыта линия 3. Планировалось, что вдоль этой линии пройдёт первая трасса подземного метротрамвая, однако до осуществления этих планов дело не дошло. В 1989 году по трассе бывшей трамвайной линии № 3 был пущен <a href="/wiki/%D0%A2%D1%80%D0%BE%D0%BB%D0%BB%D0%B5%D0%B9%D0%B1%D1%83%D1%81" title="Троллейбус">троллейбус</a> (см. <a href="/wiki/%D0%93%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%BE%D0%BB%D0%BB%D0%B5%D0%B9%D0%B1%D1%83%D1%81" title="Гентский троллейбус">гентский троллейбус</a>), унаследовавший от трамвая маршрутный номер. В будущем планируется опять превратить третий маршрут в трамвайный.
+</p><p>До начала семидесятых годов в Генте использовались архаичные двух- и трёхосные трамваи начала XX века. За свою долгую жизнь все они подвергались многочисленным переделкам. Некоторые из трамваев, продолжавших работать в Генте в конце шестидесятых, были построены ещё как аккумуляторные трамваи, то есть они проработали на улицах города более семидесяти лет, появившись ещё в 1898 году. Неудивительно, что жители Гента шутливо называли свои трамваи «средневековыми».
+</p><p>После <a href="/wiki/%D0%92%D1%82%D0%BE%D1%80%D0%B0%D1%8F_%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0" title="Вторая мировая война">Второй мировой войны</a> эволюция шла в направлении полной ликвидации трамвая в Генте, поэтому подвижной состав не обновлялся. Однако в 1969 году было принято принципиальное решение о сохранении трамвая. При этом трамвай было решено сохранить с целью постепенного преобразования его в метро. Планировалось строительство тоннелей, в которых сначала должны были использоваться трамваи, а впоследствии — полноценные поезда метро. Такая поэтапная программа метростроительства также вводилась в <a href="/wiki/%D0%91%D1%80%D1%8E%D1%81%D1%81%D0%B5%D0%BB%D1%8C" title="Брюссель">Брюсселе</a> (где в итоге на базе трамвая был создан полноценный метрополитен, хотя трамвай также сохранился и по сей день остаётся важным видом городского транспорта) и в <a href="/wiki/%D0%90%D0%BD%D1%82%D0%B2%D0%B5%D1%80%D0%BF%D0%B5%D0%BD" title="Антверпен">Антверпене</a> (где программа остановилась на стадии подземного трамвая). Однако для планировавшегося «метротрамвая» требовался современный подвижной состав. Поэтому в <a class="mw-redirect" href="/wiki/1971" title="1971">1971</a>—<a href="/wiki/1974_%D0%B3%D0%BE%D0%B4" title="1974 год">1974 годах</a> «средневековый» подвижной состав был полностью заменён трамваями <a href="/wiki/PCC_(%D1%81%D0%B5%D0%BC%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%BE_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B5%D0%B2)" title="PCC (семейство трамваев)">PCC</a> бельгийского производства. Всего поступило 54 таких вагонов, получивших бортовые номера 6201—6254.
+</p><p>Вскоре от идеи строительства полноценного метро в двухсоттысячном городе отказались, даже до строительства подземного трамвая дело не дошло. Город решил развивать классический уличный трамвай.
+</p><p>В <a href="/wiki/1961_%D0%B3%D0%BE%D0%B4" title="1961 год">1961 году</a> трамвайное хозяйство перешло от компании <i>Tramway Electriques de Gand</i> к муниципальной организации MIVG (<i>Maatschappij voor Intercommunaal vervoer te Gent</i>). В <a href="/wiki/1991_%D0%B3%D0%BE%D0%B4" title="1991 год">1991 году</a> гентское трамвайное хозяйство вошло в состав <a href="/wiki/De_Lijn" title="De Lijn">De Lijn</a>.
+</p><p>В 1990-х годах трамвайная система вновь начала расти. В <a href="/wiki/1993_%D0%B3%D0%BE%D0%B4" title="1993 год">1993 году</a> линия 21 была продлена к Melle Leeuw, а в 1999 году линии 21/22 были продены от вокзала Sint-Pieters в район Zwijnaardebrug. Последнее расширение сети произошло в 15 апреля 2005 года, когда линия 1 была продлена до выставочного комплекса Flanders Expo.
+</p><p>В период до 2025 года планируется значительное расширение сети трамвая в Генте. Общая протяжённость сети должна увеличиться с нынешних 35 до 80 км. Количество линий вырастет вдвое (от трёх до шести).
+</p><p>Начиная с 1998 года, проводилась модернизация гентских PCC, в ходе которой полностью обновлялся интерьер трамваев, оборудовалась отдельная кабина водителя, оборудованная кондиционером.
+</p><p>С 2001 года в Гент начал поставляться подвижной состав нового поколения — низкопольные трамваи HermeLijn. До этого такие трамваи поставлялись в Антверпен. В отличие от Антверпена, гентские PCC — двухсторонние. Трамваи HermeLijn первой серии имеют номера 6301 — 6314. В 2005 году в Гент поступило ещё 17 трамваев HermeLijn (№ 6315 — 6331).
+</p>
+<h2><span id=".D0.9E.D0.BF.D0.B8.D1.81.D0.B0.D0.BD.D0.B8.D0.B5_.D1.81.D0.B8.D1.81.D1.82.D0.B5.D0.BC.D1.8B"></span><span class="mw-headline" id="Описание_системы">Описание системы</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%93%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Описание системы»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%93%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9&amp;action=edit&amp;section=2" title="Редактировать код раздела «Описание системы»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Общая протяжённость сети гентского трамвая — примерно 35 километров. <a href="/wiki/%D0%A8%D0%B8%D1%80%D0%B8%D0%BD%D0%B0_%D0%BA%D0%BE%D0%BB%D0%B5%D0%B8" title="Ширина колеи">Ширина колеи</a> — <a class="mw-redirect" href="/wiki/1000_%D0%BC%D0%BC" title="1000 мм">1000 мм</a>. Напряжение контактной сети — 600 вольт. Линии трамвая проходят как по обособленным трассам, так и по совмещённым полосам. На улице Groot-Britanniëlaan обособленная полоса трамвая также используется <a href="/wiki/%D0%90%D0%B2%D1%82%D0%BE%D0%B1%D1%83%D1%81" title="Автобус">автобусами</a>.
+</p><p>Система имеет два <a href="/wiki/%D0%93%D0%BB%D1%83%D1%85%D0%BE%D0%B5_%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5" title="Глухое пересечение">глухих пересечения</a> — между трассами маршрутов № 1 и № 21/22. Они расположены на перекрёстках улицы Zonnestraat с улицей Veldstraat и улицей Korte Meer. Пересечений именно два потому, что в данном районе трасса маршрута № 1 проходит по двум улицам, по каждой из которых проложена одна колея. По улице Korte Meer трамвай идёт в центр города к остановке Koremarkt, а возвращается он по торговой трамвайно-пешеходной улице Veldstraat.
+</p><p>Система имеет один короткий (около 150 м) тоннельный участок. <a href="/wiki/%D0%A2%D0%BE%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C" title="Тоннель">Тоннель</a> проходит под железнодорожной насыпью вокзала Sint-Pieters. В тоннеле расположена остановка Sint-Pieters station. Иногда этот тоннель в шутку называют «гентским метрополитеном». Тоннель открылся 28 июня 1996 года.
+</p><p>Система не имеет разворотных колец или <a href="/wiki/%D0%9F%D0%BE%D0%B2%D0%BE%D1%80%D0%BE%D1%82%D0%BD%D1%8B%D0%B9_%D1%82%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA" title="Поворотный треугольник">треугольников</a>, поэтому весь подвижной состав двусторонний (имеет две кабины и двери с обеих сторон).
+</p><p>На тех улицах, где трамвайные пути расположены не близко к <a href="/wiki/%D0%A2%D1%80%D0%BE%D1%82%D1%83%D0%B0%D1%80" title="Тротуар">тротуару</a>, а посередине, все остановки расположены на <a href="/wiki/%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%BE%D0%BA_%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8" title="Островок безопасности">островках безопасности</a>, к которым ведут <a href="/wiki/%D0%9F%D0%B5%D1%88%D0%B5%D1%85%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B5%D1%80%D0%B5%D1%85%D0%BE%D0%B4" title="Пешеходный переход">пешеходные переходы</a>. Таким образом, уменьшается опасность, которой пассажиры подвергаются со стороны автомобильного транспорта.
+</p>
+<h3><span id=".D0.94.D0.B5.D0.BF.D0.BE"></span><span class="mw-headline" id="Депо">Депо</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%93%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9&amp;veaction=edit&amp;section=3" title="Редактировать раздел «Депо»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%93%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9&amp;action=edit&amp;section=3" title="Редактировать код раздела «Депо»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Единственное депо (депо Гентбрюгге, по названию района) находится на улице Brusselsesteenweg (адрес — Brusselsesteenweg 361 9050 Gentbrugge), рядом с перекрёстком с улицей Steenvoordelaan. Это депо является не только трамвайным, но одновременно также автобусным и <a href="/wiki/%D0%A2%D1%80%D0%BE%D0%BB%D0%BB%D0%B5%D0%B9%D0%B1%D1%83%D1%81" title="Троллейбус">троллейбусным</a>. По состоянию на начало 2007 года ведётся строительство нового депо в районе Виссенхаге (Wissenhage), которое должно заменить нынешнее депо в 2008 или 2009 году. В новом депо будет достаточно места для восьмидесяти низкопольных трамваев HermeLijn и 175 автобусов. Здесь также разместятся мастерские по ремонту трамваев и автобусов.
+</p><p>Необходимость строительства нового депо вызвана тем, что после поступления нового подвижного состава для расширяющейся сети общественного транспорта старое депо стало слишком мало. В качестве временной меры под путепроводом съезда с автомагистрали E17, неподалёку от нынешнего депо, устроен временный отстойник для трамваев, троллейбусов и автобусов (неформально называемый «депо Гентбрюгге-2»). В будущем же планируется дальнейшее расширения как трамвайной, так и автобусной сети города (и, следовательно, будет проводиться закупка нового подвижного состава), следовательно, проблему недостатка места для подвижного состава может решить только строительство нового депо.
+</p><p>Новое депо заменит депо Гентбрюгге и разгрузит автобусное депо Дестелбегрен. В этом депо, рассчитанном на 60 автобусов, уже сейчас приходится размещать 80 — 90 автобусов.
+</p><p><i>Источники к разделу:</i>
+</p>
+<ul><li><a class="external text" href="http://www.vlaanderen.be/servlet/Satellite?cid=1107356814577&amp;pagename=ministersites%2FMIN_Publicatie%2FPublicatie_met_relaties&amp;p=1104593440422&amp;c=MIN_Publicatie" rel="nofollow">Фламандское правительство инвестирует в общественный транспорт</a> (с официального сайта Фламнадского правительства). По состоянию на 1 апреля ссылка не работает, <a class="external text" href="http://web.archive.org/web/20071029215736/www.vlaanderen.be/servlet/Satellite?cid=1107356814577&amp;pagename=ministersites/MIN_Publicatie/Publicatie_met_relaties&amp;p=1104593440422&amp;c=MIN_Publicatie" rel="nofollow">Гугл-кэш</a></li>
+<li><a class="external text" href="http://www.mobielvlaanderen.be/persberichten/artikel.php?id=233" rel="nofollow">Крупные инвестиции в общественный транспорт Гента</a> (с официального сайта Фламнадского правительства).</li>
+<li><a class="external text" href="https://web.archive.org/web/20070928115742/http://www.zone01.be/nl/textnews/actua2005/actua200505.html" rel="nofollow">Депо в Восточной Фландрии</a></li>
+<li><a class="external text" href="http://www.nieuwsblad.be/Article/Detail.aspx?articleID=gp73rq5k" rel="nofollow">В депо слишком много автобусов (из газеты Het Nieuwsblad)</a></li></ul>
+<h2><span id=".D0.9C.D0.B0.D1.80.D1.88.D1.80.D1.83.D1.82.D1.8B"></span><span class="mw-headline" id="Маршруты">Маршруты</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%93%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9&amp;veaction=edit&amp;section=4" title="Редактировать раздел «Маршруты»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%93%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9&amp;action=edit&amp;section=4" title="Редактировать код раздела «Маршруты»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Tramnet_Gent.png"><img class="mw-file-element" data-file-height="2923" data-file-width="2067" decoding="async" height="566" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Tramnet_Gent.png/400px-Tramnet_Gent.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Tramnet_Gent.png/600px-Tramnet_Gent.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/60/Tramnet_Gent.png/800px-Tramnet_Gent.png 2x" width="400"/></a><figcaption>Схема маршрутов гентского трамвая</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Lij4.JPG"><img class="mw-file-element" data-file-height="49" data-file-width="126" decoding="async" height="49" src="//upload.wikimedia.org/wikipedia/commons/e/e9/Lij4.JPG" width="126"/></a><figcaption>Маршрутоуказатель маршрута № 4.</figcaption></figure>
+<p>В Генте маршруты трамвая официально называются «линиями» (lijnen), но по-русски их правильнее называть именно маршрутами, так как трассы маршрутов во многих местах совпадают (в отличие от линий <a href="/wiki/%D0%9C%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D0%BD" title="Метрополитен">метро</a>, например).
+</p><p>Всего имеется четыре маршрута: № 1, 4, 21, 22 и 24. Так как трасса маршрутов 21 и 22 совпадает почти на всём протяжении, их часто рассматривают как один маршрут. Каждый маршрут имеет свой цвет, этот цвет имеет маршрутоуказатель на трамвае, им также обозначают маршрут на схемах и картах.
+</p><p>Маршруты:
+</p>
+<table border="0" cellspacing="1" id="AutoNumber1">
+<tbody><tr>
+<td align="center" bgcolor="#FF0000"><font color="#FFFFFF"><b> 1 </b></font>
+</td>
+<td>Flanders Expo — Sint-Pietersstation (главный вокзал города) — Korenmarkt (исторический центр города) — <br/> Gravensteen (<a href="/wiki/%D0%97%D0%B0%D0%BC%D0%BE%D0%BA_%D0%B3%D1%80%D0%B0%D1%84%D0%BE%D0%B2_%D0%A4%D0%BB%D0%B0%D0%BD%D0%B4%D1%80%D0%B8%D0%B8" title="Замок графов Фландрии">Замок графов Фландрии</a>) — Rabot — Wondelgem — Evergem
+</td></tr>
+<tr>
+<td align="center" bgcolor="#FFFF00"><b> 21 </b>
+</td>
+<td><i> отменено</i>
+</td></tr>
+<tr>
+<td align="center" bgcolor="#FFFF00"><b> 22 </b>
+</td>
+<td>Kouter — Rozemarijnbrug — Sint-Pietersstation — Kouter — Korenmarkt — Zuid — Gentbrugge DC
+</td></tr>
+<tr>
+<td align="center" bgcolor="#33CCFF"><b> 24 </b>
+</td>
+<td>Rabot — Korenmarkt — Gravensteen — Zuid — Melle Leeuw
+</td></tr>
+<tr>
+<td align="center" bgcolor="#00A000"><font color="#FFFFFF"><b> 4 </b></font>
+</td>
+<td>Zwijnaardebrug — Sint-Pietersstation — Rozemarijnbrug — Rabot — Muide — Gravensteen — Korenmarkt — Zuid — Moscou
+</td></tr></tbody></table>
+<p>Кроме полноценных, имеются также укороченные маршруты. До 2004 года включительно они имели собственные номера. Например, укороченные маршруты, проходящие по части трассы первого маршрута обозначались как 11, 12 и т. д. (сам первый маршрут тогда был известен как № 10), укороченные маршруты по трассе четвёртого маршрута — 41, 42 (четвёртый маршрут тогда носил номер 40). Сейчас отдельные номера для укороченных маршрутов отменены, на маршрутоуказателях трамваев, следующих по этим маршрутам, указывается конечная остановка.
+</p><p>Дополнительные укороченные маршруты часто организуются в связи с массовыми мероприятиями, например, когда в центре города проходит фестиваль Gentse Feesten. Организация таких маршрутов не составляет труда, так как весь подвижной состав двусторонний, следовательно, для его оборота не требуются <a class="new" href="/w/index.php?title=%D0%A0%D0%B0%D0%B7%D0%B2%D0%BE%D1%80%D0%BE%D1%82%D0%BD%D0%BE%D0%B5_%D0%BA%D0%BE%D0%BB%D1%8C%D1%86%D0%BE&amp;action=edit&amp;redlink=1" title="Разворотное кольцо (страница отсутствует)">разворотные кольца</a> или <a href="/wiki/%D0%9F%D0%BE%D0%B2%D0%BE%D1%80%D0%BE%D1%82%D0%BD%D1%8B%D0%B9_%D1%82%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA" title="Поворотный треугольник">треугольники</a> — достаточно <a class="mw-redirect" href="/wiki/%D0%96%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D0%BE%D0%B4%D0%BE%D1%80%D0%BE%D0%B6%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B5%D0%BB%D0%BA%D0%B0" title="Железнодорожная стрелка">стрелки</a> между двумя путями.
+</p>
+<h2><span id=".D0.9E.D1.80.D0.B3.D0.B0.D0.BD.D0.B8.D0.B7.D0.B0.D1.86.D0.B8.D1.8F_.D1.80.D0.B0.D0.B1.D0.BE.D1.82.D1.8B"></span><span class="mw-headline" id="Организация_работы">Организация работы</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%93%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9&amp;veaction=edit&amp;section=5" title="Редактировать раздел «Организация работы»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%93%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9&amp;action=edit&amp;section=5" title="Редактировать код раздела «Организация работы»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Gent_kaartjesautomaat.JPG"><img class="mw-file-element" data-file-height="2288" data-file-width="1712" decoding="async" height="334" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Gent_kaartjesautomaat.JPG/250px-Gent_kaartjesautomaat.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Gent_kaartjesautomaat.JPG/375px-Gent_kaartjesautomaat.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Gent_kaartjesautomaat.JPG/500px-Gent_kaartjesautomaat.JPG 2x" width="250"/></a><figcaption>Автомат по продаже билетов на остановке Brugsepoort (маршрут № 4). Этот автомат продаёт только одноразовые билеты.</figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Delijn_kaartjesautomaat.JPG"><img class="mw-file-element" data-file-height="1712" data-file-width="2288" decoding="async" height="187" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Delijn_kaartjesautomaat.JPG/250px-Delijn_kaartjesautomaat.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Delijn_kaartjesautomaat.JPG/375px-Delijn_kaartjesautomaat.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Delijn_kaartjesautomaat.JPG/500px-Delijn_kaartjesautomaat.JPG 2x" width="250"/></a><figcaption>Более сложные автоматы на подземной остановке на вокзале. Эти автоматы также продают билеты на определённое число поездок.</figcaption></figure>
+<h3><span id=".D0.92.D1.80.D0.B5.D0.BC.D1.8F_.D1.80.D0.B0.D0.B1.D0.BE.D1.82.D1.8B.2C_.D1.80.D0.B0.D1.81.D0.BF.D0.B8.D1.81.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Время_работы,_расписания">Время работы, расписания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%93%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9&amp;veaction=edit&amp;section=6" title="Редактировать раздел «Время работы, расписания»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%93%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9&amp;action=edit&amp;section=6" title="Редактировать код раздела «Время работы, расписания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Работа трамваев на всех маршрутах начинается примерно в полшестого утра и продолжается до полдвенадцатого ночи, как в будние, так и в выходные дни. Интервал движения на всех маршрутах не превышает пятнадцати минут, в часы-«пик» он может уменьшаться до пяти минут. Расписания имеются на каждой остановке.
+</p>
+<h3><span id=".D0.A2.D0.B0.D1.80.D0.B8.D1.84.D1.8B.2C_.D1.81.D0.B8.D1.81.D1.82.D0.B5.D0.BC.D0.B0_.D0.BE.D0.BF.D0.BB.D0.B0.D1.82.D1.8B"></span><span class="mw-headline" id="Тарифы,_система_оплаты">Тарифы, система оплаты</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%93%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9&amp;veaction=edit&amp;section=7" title="Редактировать раздел «Тарифы, система оплаты»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%93%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9&amp;action=edit&amp;section=7" title="Редактировать код раздела «Тарифы, система оплаты»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Трамвай эксплуатируется организацией <a href="/wiki/De_Lijn" title="De Lijn">De Lijn</a> (которая обеспечивает работу общественного транспорта во всей <a href="/wiki/%D0%A4%D0%BB%D0%B0%D0%BC%D0%B0%D0%BD%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%B5%D0%B3%D0%B8%D0%BE%D0%BD" title="Фламандский регион">Фландрии</a>), поэтому тарифы и система оплаты на гентском трамвае такие же, как и на всём общественном транспорте Фландрии. <a href="/wiki/%D0%91%D0%B8%D0%BB%D0%B5%D1%82" title="Билет">Билет</a> на поездку в пределах одной зоны (в которую входит практически весь город) в течение одного часа стоит €1,50 при покупке у водителя или €1,20 в случае предварительной покупки. Билеты продаются в автоматах, установленных на многих остановках, в специальных киосках Lijnwinkel (в которых также продаются проездные билеты) и во многих газетных киосках. Если на остановке есть автомат по продаже билетов, то покупка билета у водителя на этой остановке запрещена. Кондукторов в трамваях нет. Иногда билеты проверяются контролёрами, в случае безбилетного проезда штраф может достигать шестисот евро.
+</p><p>Войдя в <a href="/wiki/%D0%A2%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9" title="Трамвай">трамвай</a>, пассажир обязан отметить билет в <a class="mw-disambig" href="/wiki/%D0%92%D0%B0%D0%BB%D0%B8%D0%B4%D0%B0%D1%82%D0%BE%D1%80" title="Валидатор">валидаторе</a>. <a href="/wiki/%D0%A2%D1%83%D1%80%D0%BD%D0%B8%D0%BA%D0%B5%D1%82" title="Турникет">Турникеты</a> отсутствуют (как и на всём остальном общественном транспорте Фландрии). На трамваях PCC передняя дверь работает только на вход, на трамваях HermeLijn вход и выход осуществляется свободно через все двери.
+</p>
+<h3><span id=".D0.9E.D1.81.D1.82.D0.B0.D0.BD.D0.BE.D0.B2.D0.BA.D0.B8"></span><span class="mw-headline" id="Остановки">Остановки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%93%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9&amp;veaction=edit&amp;section=8" title="Редактировать раздел «Остановки»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%93%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9&amp;action=edit&amp;section=8" title="Редактировать код раздела «Остановки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Все остановки являются остановками по требованию. Пассажир трамвая, желающий сойти на следующей остановке, нажимает на специальную кнопку в салоне трамвая. При этом звучит короткий звуковой сигнал, в салоне загорается специальная красная лампа, а на пульте у водителя — сигнальная лампочка.
+</p><p>Пассажир, ждущий на остановке, при виде трамвая поднимает руку (жест напоминает тот, которым в России останавливают <a href="/wiki/%D0%A2%D0%B0%D0%BA%D1%81%D0%B8" title="Такси">такси</a>).
+</p>
+<h2><span id=".D0.9F.D0.BE.D0.B4.D0.B2.D0.B8.D0.B6.D0.BD.D0.BE.D0.B9_.D1.81.D0.BE.D1.81.D1.82.D0.B0.D0.B2"></span><span class="mw-headline" id="Подвижной_состав">Подвижной состав</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%93%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9&amp;veaction=edit&amp;section=9" title="Редактировать раздел «Подвижной состав»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%93%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9&amp;action=edit&amp;section=9" title="Редактировать код раздела «Подвижной состав»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id=".D0.98.D1.81.D1.82.D0.BE.D1.80.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B9"></span><span class="mw-headline" id="Исторический">Исторический</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%93%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9&amp;veaction=edit&amp;section=10" title="Редактировать раздел «Исторический»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%93%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9&amp;action=edit&amp;section=10" title="Редактировать код раздела «Исторический»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>До начала семидесятых годов использовались архаичные двух- и трёхосные трамваи начала XX века.
+</p>
+<h4><span id=".D0.A2.D1.80.D0.B0.D0.BC.D0.B2.D0.B0.D0.B8_Duwag_.D0.B8.D0.B7_.D0.91.D0.BE.D1.85.D1.83.D0.BC.D0.B0"></span><span class="mw-headline" id="Трамваи_Duwag_из_Бохума">Трамваи Duwag из Бохума</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%93%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9&amp;veaction=edit&amp;section=11" title="Редактировать раздел «Трамваи Duwag из Бохума»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%93%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9&amp;action=edit&amp;section=11" title="Редактировать код раздела «Трамваи Duwag из Бохума»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>К началу девяностых годов в Генте в связи с расширением сети начал ощущаться недостаток трамваев. Для решения этой проблемы было решено приобрести бывшие в употреблении трамваи. В 1993 году в Гент из <a class="new" href="/w/index.php?title=%D0%A1%D0%B5%D0%BD-%D0%AD%D1%82%D1%8C%D0%B5%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="Сен-Этьена (страница отсутствует)">Сен-Этьена</a> (<a href="/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F" title="Франция">Франция</a>) прибыл трамвай PCC (то есть того же типа, что и гентские трамваи, но несколько иной модификации), бортовой номер STAS 507. Однако использование данного вагона в Генте не увенчалось успехом и ограничилось несколькими короткими перемещениями на территории депо, после чего вагон был отправлен на слом.
+</p><p>В 1994 было решено закупить бывшие в употреблении сочленённые трамваи Duwag из <a href="/wiki/%D0%91%D0%BE%D1%85%D1%83%D0%BC" title="Бохум">Бохума</a> (<a href="/wiki/%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F" title="Германия">Германия</a>). Первый такой трамвай прибыл в Гент 11 мая 1994 года. Здесь он получил бортовой номер 55. Первого сентября того же года началась эксплуатация этого трамвая, а 19 сентября он был перенумерован в № 60.
+</p><p>Всего в Гент из Бохума прибыло 9 трамваев, получивших номера 6260 — 6265 и 6267 — 6269 (бохумские номера 29, 20, 19, 22, 23, 27, 11, 14, 16). Однако эксплуатация этих трамваев в Генте была весьма неуспешной из-за частых поломок и недовольства водителей, большую часть времени эти трамваи проводили в депо. Эксплуатация бохумских трамваев прекратилась 25 апреля 1998 года, а 21 октября дирекция De Lijn приняла окончательное решение о выводе этих трамваев из эксплуатации и их продаже на металлолом.
+</p>
+<h3><span id=".D0.A1.D0.BE.D0.B2.D1.80.D0.B5.D0.BC.D0.B5.D0.BD.D0.BD.D1.8B.D0.B9"></span><span class="mw-headline" id="Современный">Современный</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%93%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9&amp;veaction=edit&amp;section=12" title="Редактировать раздел «Современный»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%93%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9&amp;action=edit&amp;section=12" title="Редактировать код раздела «Современный»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><span><video class="mw-file-element" controls="" data-durationhint="17" data-mwprovider="wikimediacommons" data-mwtitle="Gent_PCC_tram.ogv" height="165" id="mwe_player_0" poster="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Gent_PCC_tram.ogv/220px--Gent_PCC_tram.ogv.jpg" preload="none" resource="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Gent_PCC_tram.ogv" width="220"><source data-height="480" data-transcodekey="480p.vp9.webm" data-width="640" src="//upload.wikimedia.org/wikipedia/commons/transcoded/f/fd/Gent_PCC_tram.ogv/Gent_PCC_tram.ogv.480p.vp9.webm" type='video/webm; codecs="vp9, opus"'/><source data-height="480" data-width="640" src="//upload.wikimedia.org/wikipedia/commons/f/fd/Gent_PCC_tram.ogv" type='video/ogg; codecs="theora, vorbis"'/><source data-height="0" data-transcodekey="m3u8" data-width="0" src="//upload.wikimedia.org/wikipedia/commons/transcoded/f/fd/Gent_PCC_tram.ogv/Gent_PCC_tram.ogv.m3u8" type="application/vnd.apple.mpegurl"/><source data-height="240" data-transcodekey="240p.vp9.webm" data-width="320" src="//upload.wikimedia.org/wikipedia/commons/transcoded/f/fd/Gent_PCC_tram.ogv/Gent_PCC_tram.ogv.240p.vp9.webm" type='video/webm; codecs="vp9, opus"'/><source data-height="360" data-transcodekey="360p.webm" data-width="480" src="//upload.wikimedia.org/wikipedia/commons/transcoded/f/fd/Gent_PCC_tram.ogv/Gent_PCC_tram.ogv.360p.webm" type='video/webm; codecs="vp8, vorbis"'/><source data-height="360" data-transcodekey="360p.vp9.webm" data-width="480" src="//upload.wikimedia.org/wikipedia/commons/transcoded/f/fd/Gent_PCC_tram.ogv/Gent_PCC_tram.ogv.360p.vp9.webm" type='video/webm; codecs="vp9, opus"'/></video></span><figcaption>Трамвай PCC</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><span><video class="mw-file-element" controls="" data-durationhint="22" data-mwprovider="wikimediacommons" data-mwtitle="Gent_HermeLijn_tram.ogv" height="165" id="mwe_player_1" poster="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/Gent_HermeLijn_tram.ogv/220px--Gent_HermeLijn_tram.ogv.jpg" preload="none" resource="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Gent_HermeLijn_tram.ogv" width="220"><source data-height="480" data-transcodekey="480p.vp9.webm" data-width="640" src="//upload.wikimedia.org/wikipedia/commons/transcoded/1/16/Gent_HermeLijn_tram.ogv/Gent_HermeLijn_tram.ogv.480p.vp9.webm" type='video/webm; codecs="vp9, opus"'/><source data-height="480" data-width="640" src="//upload.wikimedia.org/wikipedia/commons/1/16/Gent_HermeLijn_tram.ogv" type='video/ogg; codecs="theora, vorbis"'/><source data-height="0" data-transcodekey="m3u8" data-width="0" src="//upload.wikimedia.org/wikipedia/commons/transcoded/1/16/Gent_HermeLijn_tram.ogv/Gent_HermeLijn_tram.ogv.m3u8" type="application/vnd.apple.mpegurl"/><source data-height="240" data-transcodekey="240p.vp9.webm" data-width="320" src="//upload.wikimedia.org/wikipedia/commons/transcoded/1/16/Gent_HermeLijn_tram.ogv/Gent_HermeLijn_tram.ogv.240p.vp9.webm" type='video/webm; codecs="vp9, opus"'/><source data-height="360" data-transcodekey="360p.webm" data-width="480" src="//upload.wikimedia.org/wikipedia/commons/transcoded/1/16/Gent_HermeLijn_tram.ogv/Gent_HermeLijn_tram.ogv.360p.webm" type='video/webm; codecs="vp8, vorbis"'/><source data-height="360" data-transcodekey="360p.vp9.webm" data-width="480" src="//upload.wikimedia.org/wikipedia/commons/transcoded/1/16/Gent_HermeLijn_tram.ogv/Gent_HermeLijn_tram.ogv.360p.vp9.webm" type='video/webm; codecs="vp9, opus"'/></video></span><figcaption>Трамвай HermeLijn</figcaption></figure>
+<p>По состоянию на начало 2007 года в Генте эксплуатируется 79 трамваев: 31 трамвай HermeLijn и 48 трамваев PCC (22 модернизированных и 26 немодернизированных). Немодернизированные PCC постепенно выводятся из эксплуатации и списываются.
+</p><p><br/>
+</p>
+<h4><span class="mw-headline" id="PCC">PCC</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%93%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9&amp;veaction=edit&amp;section=13" title="Редактировать раздел «PCC»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%93%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9&amp;action=edit&amp;section=13" title="Редактировать код раздела «PCC»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Gent_PCC_42.jpg"><img class="mw-file-element" data-file-height="766" data-file-width="1024" decoding="async" height="172" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Gent_PCC_42.jpg/230px-Gent_PCC_42.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Gent_PCC_42.jpg/345px-Gent_PCC_42.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/Gent_PCC_42.jpg/460px-Gent_PCC_42.jpg 2x" width="230"/></a><figcaption>Немодернизированный трамвай PCC № 6242</figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Gent_PCC_6221_cropped.JPG"><img class="mw-file-element" data-file-height="697" data-file-width="756" decoding="async" height="212" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gent_PCC_6221_cropped.JPG/230px-Gent_PCC_6221_cropped.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gent_PCC_6221_cropped.JPG/345px-Gent_PCC_6221_cropped.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gent_PCC_6221_cropped.JPG/460px-Gent_PCC_6221_cropped.JPG 2x" width="230"/></a><figcaption>Модернизированный трамвай PCC № 6221. Обратите внимание на кондиционер над кабиной водителя, двери (отличающиеся от дверей немодернизированных PCC), а также на маршрутоуказатель.</figcaption></figure>
+<p>Всего в 1971—1974 годах в Гент было поставлено 54 трамвая <a href="/wiki/PCC_(%D1%81%D0%B5%D0%BC%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%BE_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B5%D0%B2)" title="PCC (семейство трамваев)">PCC</a> (№ 6201 — 6254). На немодернизированных PCC наносятся только две последних цифры бортового номера (например, не 6201, а 01).
+</p><p><b>Трамвай № 6201</b>. Этот вагон был недавно отремонтирован, но в ходе ремонта он был не модернизирован, а наоборот, приведён в состояние 1971 года. Даже окрашен он теперь не по фирменной схеме окраски De Lijn, а в голубой цвет, в который трамваи в Генте красились в 1971—1991 годах. После вывода из эксплуатации после <a href="/wiki/2010_%D0%B3%D0%BE%D0%B4" title="2010 год">2010 года</a> этот трамвай будет передан в музей.
+</p><p><b>Трамваи № 6202 — 6223</b> были модернизированы в период с <a class="mw-redirect" href="/wiki/1998" title="1998">1998</a> по <a href="/wiki/2003_%D0%B3%D0%BE%D0%B4" title="2003 год">2003 год</a>. В ходе модернизации на трамваях был полностью обновлён интерьер, были заменены двери. Место водителя было отгорожено от пассажирского салона стенкой, таким образом, на трамваях появилась отдельная кабина водителя. Эта кабина оборудована <a href="/wiki/%D0%9A%D0%BE%D0%BD%D0%B4%D0%B8%D1%86%D0%B8%D0%BE%D0%BD%D0%B5%D1%80" title="Кондиционер">кондиционером</a>. Предполагается, что эти трамваи проработают ещё 11 — 14 лет и будут списаны между <a class="mw-redirect" href="/wiki/2018" title="2018">2018</a> и <a href="/wiki/2021_%D0%B3%D0%BE%D0%B4" title="2021 год">2021 годами</a>.
+</p><p><b>Трамваи № 6224 — 6254</b>. Было решено не проводить модернизацию этих трамваев. В <a href="/wiki/2006_%D0%B3%D0%BE%D0%B4" title="2006 год">2006 году</a> началось списание этих трамваев, по состоянию на конец <a href="/wiki/2007_%D0%B3%D0%BE%D0%B4" title="2007 год">2007 года</a> было списано семнадцать трамваев. К <a href="/wiki/2010_%D0%B3%D0%BE%D0%B4" title="2010 год">2010 году</a> эксплуатация немодернизированных PCC должна завершиться.
+</p>
+<h4><span class="mw-headline" id="HermeLijn">HermeLijn</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%93%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9&amp;veaction=edit&amp;section=14" title="Редактировать раздел «HermeLijn»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%93%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9&amp;action=edit&amp;section=14" title="Редактировать код раздела «HermeLijn»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Эти низкопольные трамваи (совместное производство <a class="mw-redirect" href="/wiki/Siemens_AG" title="Siemens AG">Siemens AG</a> и <a href="/wiki/Bombardier" title="Bombardier">Bombardier</a>) поставлялись в Гент с 1999 по 2005 год. Гентский парк трамваев HermeLijn состоит из двух серий: № 6301 — 6314 и № 6315 — 6331. Трамваи HermeLijn фактически являются модификацией трамваев NGT6DD и NGT8DD, строившихся для трамвайной сети <a href="/wiki/%D0%94%D1%80%D0%B5%D0%B7%D0%B4%D0%B5%D0%BD" title="Дрезден">Дрездена</a> в 1995—2000 годах.
+</p><p><b>Трамваи № 6301 — 6314</b>. Эти трамваи стали первыми низкопольными трамваями Гента. Они поставлялись в город в 1999—2000 годах.
+</p><p><b>Трамваи № 6315 — 6331</b>. Эти трамваи образуют вторую серию гентских HermeLijn. Первый трамвай второй серии (№ 6315) прибыл в Гент 10 февраля 2005 года, последний — первого декабря того же года. С точки зрения пассажиров, от HermeLijn первой серии эти трамваи, прежде всего, отличаются наличием автоматической системы объявления остановок (как в <a href="/wiki/%D0%9C%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D0%BD" title="Метрополитен">метро</a>). Имеются также незначительные конструкционные отличия.
+</p><p><b>Трамваи № 6332-6336</b>. Эти трамваи поступили в город в 2007 году. Их особенность в том, что они предназначены для попеременного использования в Генте и на побережье. В летний период, когда пассажиропоток в городе падает, а на побережье наоборот растёт, эти трамваи будут использоваться на линии <a href="/wiki/%D0%91%D0%B5%D1%80%D0%B5%D0%B3%D0%BE%D0%B2%D0%BE%D0%B9_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9" title="Береговой трамвай">Берегового трамвая</a>, в остальное время — в Генте.
+</p>
+<h2><span id=".D0.A1.D0.BF.D0.B5.D1.86.D1.82.D0.B5.D1.85.D0.BD.D0.B8.D0.BA.D0.B0"></span><span class="mw-headline" id="Спецтехника">Спецтехника</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%93%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9&amp;veaction=edit&amp;section=15" title="Редактировать раздел «Спецтехника»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%93%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9&amp;action=edit&amp;section=15" title="Редактировать код раздела «Спецтехника»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:DeLijn_service_truck.JPG"><img class="mw-file-element" data-file-height="1712" data-file-width="2288" decoding="async" height="150" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/DeLijn_service_truck.JPG/200px-DeLijn_service_truck.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/DeLijn_service_truck.JPG/300px-DeLijn_service_truck.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/DeLijn_service_truck.JPG/400px-DeLijn_service_truck.JPG 2x" width="200"/></a><figcaption>Вышка для ремонта контактной сети на базе автомобиля <a href="/wiki/Volvo" title="Volvo">Volvo</a></figcaption></figure>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:DeLijn_service_truck2.JPG"><img class="mw-file-element" data-file-height="1712" data-file-width="2288" decoding="async" height="150" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/DeLijn_service_truck2.JPG/200px-DeLijn_service_truck2.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/DeLijn_service_truck2.JPG/300px-DeLijn_service_truck2.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6d/DeLijn_service_truck2.JPG/400px-DeLijn_service_truck2.JPG 2x" width="200"/></a><figcaption></figcaption></figure>
+<p>Специальных трамваев в Генте нет. По крайней мере, в книге Trammaterieel in Nederland en België (1996 год) о них не упоминается, в трамвайных ежегодниках за последующие годы о поступлении такой техники также не говорится. Для ремонта и технического обслуживания контактной сети используются вышки на автомобильной базе.
+</p>
+<h2><span id=".D0.A1.D0.BC._.D1.82.D0.B0.D0.BA.D0.B6.D0.B5"></span><span class="mw-headline" id="См._также">См. также</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%93%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9&amp;veaction=edit&amp;section=16" title="Редактировать раздел «См. также»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%93%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9&amp;action=edit&amp;section=16" title="Редактировать код раздела «См. также»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/%D0%93%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%BE%D0%BB%D0%BB%D0%B5%D0%B9%D0%B1%D1%83%D1%81" title="Гентский троллейбус">Гентский троллейбус</a></li>
+<li><a href="/wiki/%D0%91%D0%B5%D1%80%D0%B5%D0%B3%D0%BE%D0%B2%D0%BE%D0%B9_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9" title="Береговой трамвай">Береговой трамвай</a></li>
+<li><a href="/wiki/De_Lijn" title="De Lijn">De Lijn</a></li></ul>
+<h2><span id=".D0.98.D1.81.D1.82.D0.BE.D1.87.D0.BD.D0.B8.D0.BA.D0.B8"></span><span class="mw-headline" id="Источники">Источники</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%93%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9&amp;veaction=edit&amp;section=17" title="Редактировать раздел «Источники»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%93%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9&amp;action=edit&amp;section=17" title="Редактировать код раздела «Источники»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Herman van 't Hoogerhuijs. Trammaterieel in Nederland en België. Издательство Alk bv (Нидерланды), 1996, <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9060139488">ISBN 90-6013-948-8</a></li>
+<li>De Gentse stadstram in beeld. Tekst door André ver Elst. Europese Bibliotheek — Zaltbommel/Nederland MCMLXXXI <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9028814973">ISBN 90-288-1497-3</a></li>
+<li>Bas Schenk. Trams 1997. Издательство Alk bv (Нидерланды). <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9060135652">ISBN 90-6013-565-2</a></li>
+<li>B.A. Schenk, M.R. Van den Toorn, Trams 2000. Издательство Alk bv (Нидерланды). <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9060135962">ISBN 90-6013-596-2</a></li>
+<li>B.A. Schenk, M.R. Van den Toorn, Trams 2002. Издательство Alk bv (Нидерланды). <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9060134192">ISBN 90-6013-419-2</a></li>
+<li>B.A. Schenk, M.R. Van den Toorn, Trams 2003. Издательство Alk bv (Нидерланды). <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9060134281">ISBN 90-6013-428-1</a></li>
+<li>B.A. Schenk, M.R. Van den Toorn, Trams 2004. Издательство Alk bv (Нидерланды). <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9060134362">ISBN 90-6013-436-2</a></li>
+<li>B.A. Schenk, M.R. Van den Toorn, Trams 2005. Издательство Alk bv (Нидерланды). <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/906013446X">ISBN 90-6013-446-X</a></li>
+<li>B.A. Schenk, M.R. Van den Toorn, Trams 2006. Издательство Alk bv (Нидерланды). <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9060134567">ISBN 90-6013-456-7</a></li>
+<li>B.A. Schenk, M.R. Van den Toorn, Trams 2007. Издательство Alk bv (Нидерланды). <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9060134464">ISBN 90-6013-446-4</a></li>
+<li>B.A. Schenk, M.R. Van den Toorn, Trams 2008. Uitgeverij Alk bv (Нидерланды). <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9789060134757">ISBN 978-90-6013-475-7</a></li></ul>
+<h2><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span><span class="mw-headline" id="Ссылки">Ссылки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%93%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9&amp;veaction=edit&amp;section=18" title="Редактировать раздел «Ссылки»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%93%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9&amp;action=edit&amp;section=18" title="Редактировать код раздела «Ссылки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="http://www.delijn.be/" rel="nofollow">Официальный сайт De Lijn</a> <a class="external text" href="https://web.archive.org/web/20100924211317/http://www.delijn.be/" rel="nofollow">Архивная копия</a> от 24 сентября 2010 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> (для информации о расписаниях и тарифах)</li>
+<li><a class="external text" href="https://web.archive.org/web/20071028070212/http://www.css-rzd.ru/zdm/01-2002/news/news0102-16.htm" rel="nofollow">Вагоны трамвая для Антверпена и Гента// Журнал «Железные дороги мира»</a></li></ul>
+<div aria-labelledby="Трамвайные_системы_городов_Бельгии" class="navbox" data-name="Трамвайные системы городов Бельгии" role="navigation"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%A2%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9%D0%BD%D1%8B%D0%B5_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BE%D0%B2_%D0%91%D0%B5%D0%BB%D1%8C%D0%B3%D0%B8%D0%B8" title="Перейти к шаблону «Трамвайные системы городов Бельгии»"><img alt="Перейти к шаблону «Трамвайные системы городов Бельгии»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span></span><div id="Трамвайные_системы_городов_Бельгии" style="font-size:114%;margin:0 5em"><a href="/wiki/%D0%A2%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9" title="Трамвай">Трамвайные</a> системы городов <a href="/wiki/%D0%91%D0%B5%D0%BB%D1%8C%D0%B3%D0%B8%D1%8F" title="Бельгия">Бельгии</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1px">Действующие</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%90%D0%BD%D1%82%D0%B2%D0%B5%D1%80%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9" title="Антверпенский трамвай">Антверпен</a></li>
+<li><a href="/wiki/%D0%91%D0%B5%D1%80%D0%B5%D0%B3%D0%BE%D0%B2%D0%BE%D0%B9_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9" title="Береговой трамвай">Побережье (Де-Панне — Остенде — Кнокке)</a></li>
+<li><a href="/wiki/%D0%91%D1%80%D1%8E%D1%81%D1%81%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9" title="Брюссельский трамвай">Брюссель</a></li>
+<li><a class="mw-selflink selflink">Гент</a></li>
+<li><a href="/wiki/%D0%9B%D1%91%D0%B3%D0%BA%D0%BE%D0%B5_%D0%BC%D0%B5%D1%82%D1%80%D0%BE_%D0%A8%D0%B0%D1%80%D0%BB%D0%B5%D1%80%D1%83%D0%B0" title="Лёгкое метро Шарлеруа">Шарлеруа (лёгкое метро)</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Закрытые</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span data-interwiki-article="Tramway de Bruges" data-interwiki-lang="fr"><a class="new" href="/w/index.php?title=%D0%A2%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9_%D0%91%D1%80%D1%8E%D0%B3%D0%B3%D0%B5&amp;action=edit&amp;redlink=1" title="Трамвай Брюгге (страница отсутствует)">Брюгге</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://fr.wikipedia.org/wiki/Tramway_de_Bruges" title="fr:Tramway de Bruges"><span title="Tramway de Bruges — версия статьи «Трамвай Брюгге» на французском языке">[fr]</span></a></sup></span></li>
+<li><span data-interwiki-article="Tramway de Verviers" data-interwiki-lang="fr"><a class="new" href="/w/index.php?title=%D0%A2%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9_%D0%92%D0%B5%D1%80%D0%B2%D1%8C%D0%B5&amp;action=edit&amp;redlink=1" title="Трамвай Вервье (страница отсутствует)">Вервье</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://fr.wikipedia.org/wiki/Tramway_de_Verviers" title="fr:Tramway de Verviers"><span title="Tramway de Verviers — версия статьи «Трамвай Вервье» на французском языке">[fr]</span></a></sup></span></li>
+<li><span data-interwiki-article="Trams in Liège" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=%D0%9B%D1%8C%D0%B5%D0%B6%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9&amp;action=edit&amp;redlink=1" title="Льежский трамвай (страница отсутствует)">Льеж</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://en.wikipedia.org/wiki/Trams_in_Li%C3%A8ge" title="en:Trams in Liège"><span title="Trams in Liège — версия статьи «Льежский трамвай» на английском языке">[en]</span></a></sup></span></li>
+<li><span data-interwiki-article="Tramway de Louvain" data-interwiki-lang="fr"><a class="new" href="/w/index.php?title=%D0%9B%D1%91%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9&amp;action=edit&amp;redlink=1" title="Лёвенский трамвай (страница отсутствует)">Лёвен</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://fr.wikipedia.org/wiki/Tramway_de_Louvain" title="fr:Tramway de Louvain"><span title="Tramway de Louvain — версия статьи «Лёвенский трамвай» на французском языке">[fr]</span></a></sup></span></li>
+<li><span data-interwiki-article="Tramway de Malines" data-interwiki-lang="fr"><a class="new" href="/w/index.php?title=%D0%9C%D0%B5%D1%85%D0%B5%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9&amp;action=edit&amp;redlink=1" title="Мехеленский трамвай (страница отсутствует)">Мехелен</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://fr.wikipedia.org/wiki/Tramway_de_Malines" title="fr:Tramway de Malines"><span title="Tramway de Malines — версия статьи «Мехеленский трамвай» на французском языке">[fr]</span></a></sup></span></li>
+<li><a href="/wiki/%D0%9B%D1%91%D0%B3%D0%BA%D0%BE%D0%B5_%D0%BC%D0%B5%D1%82%D1%80%D0%BE_%D0%A8%D0%B0%D1%80%D0%BB%D0%B5%D1%80%D1%83%D0%B0#История" title="Лёгкое метро Шарлеруа">Шарлеруа</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Строящиеся и проектируемые</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span data-interwiki-article="Trams in Liège" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=%D0%9B%D1%8C%D0%B5%D0%B6%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9&amp;action=edit&amp;redlink=1" title="Льежский трамвай (страница отсутствует)">Льеж</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://en.wikipedia.org/wiki/Trams_in_Li%C3%A8ge" title="en:Trams in Liège"><span title="Trams in Liège — версия статьи «Льежский трамвай» на английском языке">[en]</span></a></sup></span></li>
+<li><a href="/wiki/%D0%A1%D0%BA%D0%BE%D1%80%D0%BE%D1%81%D1%82%D0%BD%D0%BE%D0%B9_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9_%D0%A5%D0%B0%D1%81%D1%81%D0%B5%D0%BB%D1%82_%E2%80%94_%D0%9C%D0%B0%D0%B0%D1%81%D1%82%D1%80%D0%B8%D1%85%D1%82" title="Скоростной трамвай Хасселт — Маастрихт">Хасселт — Маастрихт</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Музейные и туристические линии</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%A2%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9_%D0%90%D0%BD" title="Трамвай Ан">Ан-сюр-Лес</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%A2%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9%D0%BD%D1%8B%D0%B9_%D0%BC%D1%83%D0%B7%D0%B5%D0%B9_%D0%B2_%D0%A2%D1%83%D1%8D&amp;action=edit&amp;redlink=1" title="Трамвайный музей в Туэ (страница отсутствует)">Туэ</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%A2%D1%83%D1%80%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9_%D0%AD%D0%B7%D0%BD&amp;action=edit&amp;redlink=1" title="Туристический трамвай Эзн (страница отсутствует)">Эзн</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐7bc865cbcb‐9tx2v
+Cached time: 20240226120349
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.243 seconds
+Real time usage: 0.368 seconds
+Preprocessor visited node count: 1261/1000000
+Post‐expand include size: 40178/2097152 bytes
+Template argument size: 4318/2097152 bytes
+Highest expansion depth: 16/100
+Expensive parser function count: 14/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.126/10.000 seconds
+Lua memory usage: 5036787/52428800 bytes
+Number of Wikibase entities loaded: 10/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  233.566      1 -total
+ 82.91%  193.658      1 Шаблон:Трамвайная_система
+ 81.61%  190.614      1 Шаблон:Карточка
+ 30.31%   70.792      9 Шаблон:Wikidata
+ 16.20%   37.848      1 Шаблон:Трамвайные_системы_городов_Бельгии
+ 15.37%   35.906      1 Шаблон:Карточка/оригинал_названия
+ 14.39%   33.604      1 Шаблон:Навигационная_таблица
+  9.54%   22.271      6 Шаблон:Iw
+  4.89%   11.426      1 Шаблон:Карточка/Викисклад
+  4.61%   10.770      1 Шаблон:Форматирование_изображения
+-->
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:578773-0!canonical and timestamp 20240226120349 and revision id 124618418. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> -->
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Гентский_трамвай&amp;oldid=124618418">https://ru.wikipedia.org/w/index.php?title=Гентский_трамвай&amp;oldid=124618418</a></div></div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A2%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9%D0%BD%D1%8B%D0%B5_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Трамвайные системы по алфавиту">Трамвайные системы по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A2%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9%D0%BD%D1%8B%D0%B5_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B_%D0%91%D0%B5%D0%BB%D1%8C%D0%B3%D0%B8%D0%B8" title="Категория:Трамвайные системы Бельгии">Трамвайные системы Бельгии</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%BE%D0%BB%D0%B5%D1%8F_1000_%D0%BC%D0%BC" title="Категория:Колея 1000 мм">Колея 1000 мм</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B0_%D0%BD%D0%B0_%D0%92%D0%B8%D0%BA%D0%B8%D1%81%D0%BA%D0%BB%D0%B0%D0%B4_%D0%BD%D0%B5%D0%BF%D0%BE%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE_%D0%B2_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B5" title="Категория:Википедия:Ссылка на Викисклад непосредственно в статье">Википедия:Ссылка на Викисклад непосредственно в статье</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D0%BD%D0%B0_%D0%92%D0%B8%D0%BA%D0%B8%D1%81%D0%BA%D0%BB%D0%B0%D0%B4_%D0%B2_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B5_%D0%B8_%D0%BD%D0%B0_%D0%92%D0%B8%D0%BA%D0%B8%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85_%D1%81%D0%BE%D0%B2%D0%BF%D0%B0%D0%B4%D0%B0%D1%8E%D1%82" title="Категория:Википедия:Ссылки на Викисклад в статье и на Викиданных совпадают">Википедия:Ссылки на Викисклад в статье и на Викиданных совпадают</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B,_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D0%B2%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_ISBN" title="Категория:Страницы, использующие волшебные ссылки ISBN">Страницы, использующие волшебные ссылки ISBN</a></li></ul></div></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Навигация</h2>
+<div id="mw-head">
+<nav aria-labelledby="p-personal-label" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" id="p-personal" role="navigation">
+<h3 class="vector-menu-heading" id="p-personal-label">
+<span class="vector-menu-heading-label">Персональные инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="pt-anonuserpage"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li class="mw-list-item" id="pt-anontalk"><a accesskey="n" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]"><span>Обсуждение</span></a></li><li class="mw-list-item" id="pt-anoncontribs"><a accesskey="y" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]"><span>Вклад</span></a></li><li class="mw-list-item" id="pt-createaccount"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%93%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B9+%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li class="mw-list-item" id="pt-login"><a accesskey="o" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%93%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B9+%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]"><span>Войти</span></a></li>
+</ul>
+</div>
+</nav>
+<div id="left-navigation">
+<nav aria-labelledby="p-namespaces-label" class="mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-namespaces" role="navigation">
+<h3 class="vector-menu-heading" id="p-namespaces-label">
+<span class="vector-menu-heading-label">Пространства имён</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-nstab-main"><a accesskey="c" href="/wiki/%D0%93%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9" title="Просмотреть контентную страницу [c]"><span>Статья</span></a></li><li class="mw-list-item" id="ca-talk"><a accesskey="t" href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%93%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9" rel="discussion" title="Обсуждение основной страницы [t]"><span>Обсуждение</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-variants-label" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" id="p-variants" role="navigation">
+<input aria-haspopup="true" aria-labelledby="p-variants-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-variants" id="p-variants-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-variants-label">
+<span class="vector-menu-heading-label">русский</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+</div>
+<div id="right-navigation">
+<nav aria-labelledby="p-views-label" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-views" role="navigation">
+<h3 class="vector-menu-heading" id="p-views-label">
+<span class="vector-menu-heading-label">Просмотры</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="ca-view"><a href="/w/index.php?title=%D0%93%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9&amp;stable=1"><span>Читать</span></a></li><li class="collapsible selected mw-list-item" id="ca-current"><a accesskey="v" href="/w/index.php?title=%D0%93%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9&amp;stable=0&amp;redirect=no" title="Показать текущую версию этой страницы [v]"><span>Текущая версия</span></a></li><li class="mw-list-item" id="ca-ve-edit"><a accesskey="v" href="/w/index.php?title=%D0%93%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9&amp;veaction=edit" title="Редактировать данную страницу [v]"><span>Править</span></a></li><li class="collapsible mw-list-item" id="ca-edit"><a accesskey="e" href="/w/index.php?title=%D0%93%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9&amp;action=edit" title="Править исходный текст этой страницы [e]"><span>Править код</span></a></li><li class="mw-list-item" id="ca-history"><a accesskey="h" href="/w/index.php?title=%D0%93%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9&amp;action=history" title="Журнал изменений страницы [h]"><span>История</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-cactions-label" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" id="p-cactions" role="navigation" title="Больше возможностей">
+<input aria-haspopup="true" aria-labelledby="p-cactions-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-cactions" id="p-cactions-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-cactions-label">
+<span class="vector-menu-heading-label">Ещё</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+<div class="vector-search-box-vue vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box" id="p-search" role="search">
+<h3>Поиск</h3>
+<form action="/w/index.php" class="vector-search-box-form" id="searchform">
+<div class="vector-search-box-inner" data-search-loc="header-navigation" id="simpleSearch">
+<input accesskey="f" aria-label="Искать в Википедии" autocapitalize="sentences" class="vector-search-box-input" id="searchInput" name="search" placeholder="Искать в Википедии" title="Искать в Википедии [f]" type="search"/>
+<input name="title" type="hidden" value="Служебная:Поиск"/>
+<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Найти страницы, содержащие указанный текст" type="submit" value="Найти"/>
+<input class="searchButton" id="searchButton" name="go" title="Перейти к странице, имеющей в точности такое название" type="submit" value="Перейти"/>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="vector-legacy-sidebar" id="mw-panel">
+<div id="p-logo" role="banner">
+<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу"></a>
+</div>
+<nav aria-labelledby="p-navigation-label" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" id="p-navigation" role="navigation">
+<h3 class="vector-menu-heading" id="p-navigation-label">
+<span class="vector-menu-heading-label">Навигация</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-mainpage-description"><a accesskey="z" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]"><span>Заглавная страница</span></a></li><li class="mw-list-item" id="n-content"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li class="mw-list-item" id="n-featured"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li class="mw-list-item" id="n-randompage"><a accesskey="x" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]"><span>Случайная статья</span></a></li><li class="mw-list-item" id="n-currentevents"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li class="mw-list-item" id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-participation-label" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" id="p-participation" role="navigation">
+<h3 class="vector-menu-heading" id="p-participation-label">
+<span class="vector-menu-heading-label">Участие</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-bug_in_article"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li class="mw-list-item" id="n-introduction"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li class="mw-list-item" id="n-portal"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li class="mw-list-item" id="n-forum"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li class="mw-list-item" id="n-recentchanges"><a accesskey="r" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]"><span>Свежие правки</span></a></li><li class="mw-list-item" id="n-newpages"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li class="mw-list-item" id="n-help"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-tb-label" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" id="p-tb" role="navigation">
+<h3 class="vector-menu-heading" id="p-tb-label">
+<span class="vector-menu-heading-label">Инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="t-whatlinkshere"><a accesskey="j" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%93%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9" title="Список всех страниц, ссылающихся на данную [j]"><span>Ссылки сюда</span></a></li><li class="mw-list-item" id="t-recentchangeslinked"><a accesskey="k" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%93%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]"><span>Связанные правки</span></a></li><li class="mw-list-item" id="t-specialpages"><a accesskey="q" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]"><span>Служебные страницы</span></a></li><li class="mw-list-item" id="t-permalink"><a href="/w/index.php?title=%D0%93%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9&amp;oldid=124618418" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li class="mw-list-item" id="t-info"><a href="/w/index.php?title=%D0%93%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li class="mw-list-item" id="t-cite"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%93%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9&amp;id=124618418&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li class="mw-list-item" id="t-urlshortener"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%2593%25D0%25B5%25D0%25BD%25D1%2582%25D1%2581%25D0%25BA%25D0%25B8%25D0%25B9_%25D1%2582%25D1%2580%25D0%25B0%25D0%25BC%25D0%25B2%25D0%25B0%25D0%25B9"><span>Получить короткий URL</span></a></li><li class="mw-list-item" id="t-urlshortener-qrcode"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%2593%25D0%25B5%25D0%25BD%25D1%2582%25D1%2581%25D0%25BA%25D0%25B8%25D0%25B9_%25D1%2582%25D1%2580%25D0%25B0%25D0%25BC%25D0%25B2%25D0%25B0%25D0%25B9"><span>Скачать QR-код</span></a></li><li class="mw-list-item" id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q778264" title="Ссылка на связанный элемент репозитория данных [g]"><span>Элемент Викиданных</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-coll-print_export-label" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" id="p-coll-print_export" role="navigation">
+<h3 class="vector-menu-heading" id="p-coll-print_export-label">
+<span class="vector-menu-heading-label">Печать/экспорт</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="coll-download-as-rl"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%93%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li class="mw-list-item" id="t-print"><a accesskey="p" href="/w/index.php?title=%D0%93%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9&amp;printable=yes" title="Версия этой страницы для печати [p]"><span>Версия для печати</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-wikibase-otherprojects-label" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal vector-menu" id="p-wikibase-otherprojects" role="navigation">
+<h3 class="vector-menu-heading" id="p-wikibase-otherprojects-label">
+<span class="vector-menu-heading-label">В других проектах</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Ghent_tram_network" hreflang="en"><span>Викисклад</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-lang-label" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" id="p-lang" role="navigation">
+<h3 class="vector-menu-heading" id="p-lang-label">
+<span class="vector-menu-heading-label">На других языках</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="interlanguage-link interwiki-de mw-list-item"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Stra%C3%9Fenbahn_Gent" hreflang="de" lang="de" title="Straßenbahn Gent — немецкий"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a class="interlanguage-link-target" href="https://en.wikipedia.org/wiki/Trams_in_Ghent" hreflang="en" lang="en" title="Trams in Ghent — английский"><span>English</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Tramtransporto_en_Gento" hreflang="eo" lang="eo" title="Tramtransporto en Gento — эсперанто"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%AA%D8%B1%D8%A7%D9%85%D9%88%D8%A7_%D8%AE%D9%86%D8%AA" hreflang="fa" lang="fa" title="تراموا خنت — персидский"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Tramway_de_Gand" hreflang="fr" lang="fr" title="Tramway de Gand — французский"><span>Français</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Gent_villamosvonal-h%C3%A1l%C3%B3zata" hreflang="hu" lang="hu" title="Gent villamosvonal-hálózata — венгерский"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Tram_di_Gent" hreflang="id" lang="id" title="Tram di Gent — индонезийский"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Rete_tranviaria_di_Gand" hreflang="it" lang="it" title="Rete tranviaria di Gand — итальянский"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%83%98%E3%83%B3%E3%83%88%E5%B8%82%E9%9B%BB" hreflang="ja" lang="ja" title="ヘント市電 — японский"><span>日本語</span></a></li><li class="interlanguage-link interwiki-lv mw-list-item"><a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Tramvaju_satiksme_Gent%C4%93" hreflang="lv" lang="lv" title="Tramvaju satiksme Gentē — латышский"><span>Latviešu</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Gentse_tram" hreflang="nl" lang="nl" title="Gentse tram — нидерландский"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Sporveien_i_Gent" hreflang="nb" lang="nb" title="Sporveien i Gent — норвежский букмол"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Tramwaje_w_Gandawie" hreflang="pl" lang="pl" title="Tramwaje w Gandawie — польский"><span>Polski</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%93%D0%B5%D0%BD%D1%82%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9" hreflang="uk" lang="uk" title="Гентський трамвай — украинский"><span>Українська</span></a></li><li class="interlanguage-link interwiki-wa mw-list-item"><a class="interlanguage-link-target" href="https://wa.wikipedia.org/wiki/Tram_di_Gant" hreflang="wa" lang="wa" title="Tram di Gant — валлонский"><span>Walon</span></a></li>
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q778264#sitelinks-wikipedia" title="Править ссылки на другие языки">Править ссылки</a></span></div>
+</div>
+</nav>
+</div>
+</div>
+<footer class="mw-footer" id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 6 августа 2022 в 18:42.</li>
+<li id="footer-info-copyright">Текст доступен по <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru" rel="license">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a><a href="//creativecommons.org/licenses/by-sa/4.0/" rel="license" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br/>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org/ru/">Фонд Викимедиа (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//ru.m.wikipedia.org/w/index.php?title=%D0%93%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9&amp;mobileaction=toggle_view_mobile">Мобильная версия</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" loading="lazy" src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88"/></a></li>
+<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" loading="lazy" src="/static/images/footer/poweredby_mediawiki_88x31.png" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88"/></a></li>
+</ul>
+</footer>
+
+
+</body>
+</html>

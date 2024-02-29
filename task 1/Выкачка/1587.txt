@@ -1,0 +1,1245 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="ru">
+<head>
+<meta charset="utf-8"/>
+<title>Отчёт о движении денежных средств — Википедия</title>
+
+
+
+
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+
+
+<meta content="MediaWiki 1.42.0-wmf.19" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="max-image-preview:standard" name="robots"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="width=1000" name="viewport"/>
+<meta content="Отчёт о движении денежных средств — Википедия" property="og:title"/>
+<meta content="website" property="og:type"/>
+
+
+
+
+
+
+
+
+
+
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Отчёт_о_движении_денежных_средств rootpage-Отчёт_о_движении_денежных_средств skin-vector action-view"><div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators">
+<div class="mw-indicator" id="mw-indicator-ga"><div class="mw-parser-output"><span typeof="mw:File"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Эта статья входит в число хороших статей"><img alt="Эта статья входит в число хороших статей" class="mw-file-element" data-file-height="13" data-file-width="13" decoding="async" height="13" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Blue_star_unboxed.svg/13px-Blue_star_unboxed.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Blue_star_unboxed.svg/20px-Blue_star_unboxed.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Blue_star_unboxed.svg/26px-Blue_star_unboxed.svg.png 2x" width="13"/></a></span></div></div>
+</div>
+<h1 class="firstHeading mw-first-heading" id="firstHeading"><span class="mw-page-title-main">Отчёт о движении денежных средств</span></h1>
+<div class="vector-body" id="bodyContent">
+<div class="noprint" id="siteSub">Материал из Википедии — свободной энциклопедии</div>
+<div id="contentSub"><div id="mw-content-subtitle"><div class="flaggedrevs_short flaggedrevs_stable_notsynced plainlinks noprint" id="mw-fr-revisiontag"><div class="flaggedrevs_short_basic"><span class="flaggedrevs-icon oo-ui-widget oo-ui-widget-enabled oo-ui-iconElement-icon oo-ui-icon-articleSearch oo-ui-iconElement oo-ui-labelElement-invisible oo-ui-iconWidget" title="Правки этой страницы требуют проверки."></span><span class="flaggedrevs-icon oo-ui-widget oo-ui-widget-enabled oo-ui-iconElement-icon oo-ui-icon-eye oo-ui-iconElement oo-ui-labelElement-invisible oo-ui-iconWidget" title="Это отпатрулированная версия страницы"></span><span class="fr-toggle-arrow oo-ui-widget oo-ui-widget-enabled oo-ui-indicatorElement-indicator oo-ui-indicator-down oo-ui-indicatorElement oo-ui-labelElement-invisible oo-ui-indicatorWidget" id="mw-fr-revisiontoggle" title="показать/скрыть подробности"></span></div>
+<div id="mw-fr-revisiondetails-wrapper" style="position:relative;"><div class="flaggedrevs_short_details" id="mw-fr-revisiondetails" style="display:none">Это <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9/%D0%9F%D0%BE%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BB%D1%8F_%D1%87%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9" title="Википедия:Проверка статей/Пояснение для читателей">стабильная версия</a>, <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:Log&amp;type=review&amp;page=%D0%9E%D1%82%D1%87%D1%91%D1%82_%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2">проверенная</a> 9 декабря 2022.
+<a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9E%D1%82%D1%87%D1%91%D1%82_%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2&amp;oldid=123194079&amp;diff=cur&amp;diffonly=0">2 правки</a> ожидают проверки.</div>
+</div>
+</div>
+</div></div>
+<div id="contentSub2"></div>
+<div id="jump-to-nav"></div>
+<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+<div class="mw-body-content" id="mw-content-text"><div class="mw-content-ltr mw-parser-output" dir="ltr" lang="ru"><table class="vertical-navbox noprint ts-Боковая_навигационная_таблица-body" data-name="Бухгалтерский учёт" style=""><tbody><tr><th class="ts-Боковая_навигационная_таблица-title" scope="colgroup" style=""><a href="/wiki/%D0%91%D1%83%D1%85%D0%B3%D0%B0%D0%BB%D1%82%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D1%83%D1%87%D1%91%D1%82" title="Бухгалтерский учёт">Бухгалтерский учёт</a></th></tr><tr><td class="ts-Боковая_навигационная_таблица-image" style=""><span typeof="mw:File"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D1%83%D1%85%D0%B3%D0%B0%D0%BB%D1%82%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D1%83%D1%87%D1%91%D1%82" title="Портал:Бухгалтерский учёт"><img alt="П:" class="mw-file-element" data-file-height="48" data-file-width="48" decoding="async" height="75" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Emblem-money.svg/75px-Emblem-money.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Emblem-money.svg/113px-Emblem-money.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Emblem-money.svg/150px-Emblem-money.svg.png 2x" width="75"/></a></span></td></tr><tr><th class="ts-Боковая_навигационная_таблица-heading" scope="colgroup" style="">Ключевые понятия</th></tr><tr><td class="ts-Боковая_навигационная_таблица-list hlist" style=""><div>
+<ul><li><a href="/wiki/%D0%91%D1%83%D1%85%D0%B3%D0%B0%D0%BB%D1%82%D0%B5%D1%80" title="Бухгалтер">Бухгалтер</a></li>
+<li><a href="/wiki/%D0%91%D1%83%D1%85%D0%B3%D0%B0%D0%BB%D1%82%D0%B5%D1%80%D0%B8%D1%8F" title="Бухгалтерия">Бухгалтерия</a></li></ul>
+<ul><li><a href="/wiki/%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D0%B1%D1%83%D1%85%D0%B3%D0%B0%D0%BB%D1%82%D0%B5%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0" title="Главная бухгалтерская книга">Главная бухгалтерская книга</a></li></ul>
+<ul><li><a href="/wiki/%D0%9E%D0%B1%D0%BE%D1%80%D0%BE%D1%82%D0%BD%D0%BE-%D1%81%D0%B0%D0%BB%D1%8C%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B2%D0%B5%D0%B4%D0%BE%D0%BC%D0%BE%D1%81%D1%82%D1%8C" title="Оборотно-сальдовая ведомость">Оборотно-сальдовая ведомость</a></li></ul>
+<ul><li><a href="/wiki/%D0%9E%D1%82%D1%87%D1%91%D1%82%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B5%D1%80%D0%B8%D0%BE%D0%B4" title="Отчётный период">Отчётный период</a></li></ul>
+<ul><li><a href="/wiki/%D0%A3%D1%87%D1%91%D1%82%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0" title="Учётная политика">Учётная политика</a></li></ul>
+<ul><li><a href="/wiki/%D0%94%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0%D1%8F_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C" title="Двойная запись">Двойная запись</a></li>
+<li><a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%BA%D0%B0_(%D0%B1%D1%83%D1%85%D0%B3%D0%B0%D0%BB%D1%82%D0%B5%D1%80%D0%B8%D1%8F)" title="Проводка (бухгалтерия)">Проводка</a></li></ul>
+<ul><li><a href="/wiki/%D0%94%D0%B5%D0%B1%D0%B5%D1%82_%D0%B8_%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82" title="Дебет и кредит">Дебет</a> = <a href="/wiki/%D0%94%D0%B5%D0%B1%D0%B5%D1%82_%D0%B8_%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82" title="Дебет и кредит">Кредит</a></li>
+<li><a href="/wiki/%D0%90%D0%BA%D1%82%D0%B8%D0%B2_(%D0%B1%D1%83%D1%85%D0%B3%D0%B0%D0%BB%D1%82%D0%B5%D1%80%D0%B8%D1%8F)" title="Актив (бухгалтерия)">Актив</a> = <a href="/wiki/%D0%9F%D0%B0%D1%81%D1%81%D0%B8%D0%B2_(%D0%B1%D1%83%D1%85%D0%B3%D0%B0%D0%BB%D1%82%D0%B5%D1%80%D0%B8%D1%8F)" title="Пассив (бухгалтерия)">Пассив</a></li></ul>
+<ul><li><a href="/wiki/%D0%9A%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%86%D0%B8%D1%8F" title="Калькуляция">Калькуляция</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%B1%D0%B5%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C" title="Себестоимость">Себестоимость</a></li></ul>
+</div></td></tr><tr><th class="ts-Боковая_навигационная_таблица-heading" scope="colgroup" style="">Стандарты бухгалтерского учёта</th></tr><tr><td class="ts-Боковая_навигационная_таблица-list hlist" style=""><div>
+<ul><li><a href="/wiki/GAAP" title="GAAP">GAAP</a></li>
+<li><span data-interwiki-article="Generally Accepted Auditing Standards" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=%D0%9E%D0%B1%D1%89%D0%B5%D0%BF%D1%80%D0%B8%D0%BD%D1%8F%D1%82%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D1%8B_%D0%B0%D1%83%D0%B4%D0%B8%D1%82%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B9_%D0%B4%D0%B5%D1%8F%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8&amp;action=edit&amp;redlink=1" title="Общепринятые стандарты аудиторской деятельности (страница отсутствует)">Общепринятые стандарты аудиторской деятельности</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://en.wikipedia.org/wiki/Generally_Accepted_Auditing_Standards" title="en:Generally Accepted Auditing Standards"><span title="Generally Accepted Auditing Standards — версия статьи «Общепринятые стандарты аудиторской деятельности» на английском языке">[en]</span></a></sup></span></li>
+<li><span data-interwiki-article="Convergence of accounting standards" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=%D0%A1%D0%B1%D0%BB%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D0%BE%D0%B2_%D0%B1%D1%83%D1%85%D0%B3%D0%B0%D0%BB%D1%82%D0%B5%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%83%D1%87%D0%B5%D1%82%D0%B0&amp;action=edit&amp;redlink=1" title="Сближение стандартов бухгалтерского учета (страница отсутствует)">Сближение стандартов бухгалтерского учета</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://en.wikipedia.org/wiki/Convergence_of_accounting_standards" title="en:Convergence of accounting standards"><span title="Convergence of accounting standards — версия статьи «Сближение стандартов бухгалтерского учета» на английском языке">[en]</span></a></sup></span></li>
+<li><a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D1%8B_%D1%84%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D0%BE%D0%B9_%D0%BE%D1%82%D1%87%D1%91%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8" title="Международные стандарты финансовой отчётности">МСФО (IFRS)</a></li>
+<li><a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D1%8B_%D0%B0%D1%83%D0%B4%D0%B8%D1%82%D0%B0" title="Международные стандарты аудита">Международные стандарты аудита</a></li>
+<li><span data-interwiki-article="Management accounting principles" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=%D0%9F%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D1%8B_%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%83%D1%87%D1%91%D1%82%D0%B0&amp;action=edit&amp;redlink=1" title="Принципы управленческого учёта (страница отсутствует)">Принципы управленческого учёта</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://en.wikipedia.org/wiki/Management_accounting_principles" title="en:Management accounting principles"><span title="Management accounting principles — версия статьи «Принципы управленческого учёта» на английском языке">[en]</span></a></sup></span></li>
+<li><a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D1%8B_%D0%B1%D1%83%D1%85%D0%B3%D0%B0%D0%BB%D1%82%D0%B5%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%83%D1%87%D1%91%D1%82%D0%B0" title="Российские стандарты бухгалтерского учёта">РСБУ</a></li>
+<li><a href="/wiki/%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D1%8B_%D0%B1%D1%83%D1%85%D0%B3%D0%B0%D0%BB%D1%82%D0%B5%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%83%D1%87%D1%91%D1%82%D0%B0" title="Украинские стандарты бухгалтерского учёта">УСБУ</a></li></ul>
+</div></td></tr><tr><th class="ts-Боковая_навигационная_таблица-heading" scope="colgroup" style=""><a href="/wiki/%D0%A4%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BE%D1%82%D1%87%D1%91%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Финансовая отчётность">Финансовая отчётность</a></th></tr><tr><td class="ts-Боковая_навигационная_таблица-list hlist" style=""><div>
+<ul><li><a href="/wiki/%D0%91%D1%83%D1%85%D0%B3%D0%B0%D0%BB%D1%82%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%B1%D0%B0%D0%BB%D0%B0%D0%BD%D1%81" title="Бухгалтерский баланс">Бухгалтерский баланс</a></li></ul>
+<ul><li><a class="mw-redirect" href="/wiki/%D0%9E%D1%82%D1%87%D1%91%D1%82_%D0%BE_%D0%BF%D1%80%D0%B8%D0%B1%D1%8B%D0%BB%D1%8F%D1%85_%D0%B8_%D1%83%D0%B1%D1%8B%D1%82%D0%BA%D0%B0%D1%85" title="Отчёт о прибылях и убытках">Отчёт о прибылях и убытках</a></li></ul>
+<ul><li><a class="mw-selflink selflink">Отчёт о движении денежных средств</a></li></ul>
+<ul><li><a href="/wiki/%D0%9E%D1%82%D1%87%D1%91%D1%82_%D0%BE_%D0%BD%D0%B5%D1%80%D0%B0%D1%81%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D1%91%D0%BD%D0%BD%D0%BE%D0%B9_%D0%BF%D1%80%D0%B8%D0%B1%D1%8B%D0%BB%D0%B8" title="Отчёт о нераспределённой прибыли">Отчёт о нераспределённой прибыли</a></li></ul>
+<ul><li><a href="/wiki/%D0%9E%D1%82%D1%87%D1%91%D1%82_%D0%BE%D0%B1_%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F%D1%85_%D0%BA%D0%B0%D0%BF%D0%B8%D1%82%D0%B0%D0%BB%D0%B0" title="Отчёт об изменениях капитала">Отчёт об изменениях капитала</a></li></ul>
+<ul><li><a href="/wiki/%D0%9A%D0%BE%D0%BD%D1%81%D0%BE%D0%BB%D0%B8%D0%B4%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D1%84%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BE%D1%82%D1%87%D1%91%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Консолидированная финансовая отчётность">Консолидированная</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D0%BC%D0%B1%D0%B8%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BE%D1%82%D1%87%D1%91%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Комбинированная отчётность">Комбинированная</a></li></ul>
+</div></td></tr><tr><th class="ts-Боковая_навигационная_таблица-heading" scope="colgroup" style="">Области бухгалтерского учёта</th></tr><tr><td class="ts-Боковая_навигационная_таблица-list hlist" style=""><div>
+<ul><li><a href="/wiki/%D0%A3%D1%87%D1%91%D1%82_%D0%B7%D0%B0%D1%82%D1%80%D0%B0%D1%82" title="Учёт затрат">Учёт затрат</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%A4%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D1%8B%D0%B9_%D1%83%D1%87%D1%91%D1%82&amp;action=edit&amp;redlink=1" title="Финансовый учёт (страница отсутствует)">Финансовый учёт</a></li></ul>
+<ul><li><a href="/wiki/%D0%A1%D1%83%D0%B4%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F_%D0%B1%D1%83%D1%85%D0%B3%D0%B0%D0%BB%D1%82%D0%B5%D1%80%D0%B8%D1%8F" title="Судебная бухгалтерия">Судебная бухгалтерия</a></li></ul>
+<ul><li><a class="new" href="/w/index.php?title=%D0%A3%D1%87%D1%91%D1%82_%D1%84%D0%BE%D0%BD%D0%B4%D0%BE%D0%B2&amp;action=edit&amp;redlink=1" title="Учёт фондов (страница отсутствует)">Учёт фондов</a></li>
+<li><a href="/wiki/%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%83%D1%87%D1%91%D1%82" title="Управленческий учёт">Управленческий учёт</a></li></ul>
+<ul><li><a href="/wiki/%D0%9D%D0%B0%D0%BB%D0%BE%D0%B3%D0%BE%D0%B2%D1%8B%D0%B9_%D1%83%D1%87%D1%91%D1%82" title="Налоговый учёт">Налоговый учёт</a></li></ul>
+<ul><li><a href="/wiki/%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82%D0%BD%D1%8B%D0%B9_%D1%83%D1%87%D1%91%D1%82" title="Бюджетный учёт">Бюджетный учёт</a></li>
+<li><a href="/wiki/%D0%91%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%83%D1%87%D1%91%D1%82" title="Банковский учёт">Банковский учёт</a></li></ul>
+</div></td></tr><tr><th class="ts-Боковая_навигационная_таблица-heading" scope="colgroup" style=""><a href="/wiki/%D0%90%D1%83%D0%B4%D0%B8%D1%82" title="Аудит">Аудит</a></th></tr><tr><th class="ts-Боковая_навигационная_таблица-heading" scope="colgroup" style=""><a href="/wiki/%D0%A4%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8C" title="Финансовый контроль">Финансовый контроль</a></th></tr>
+</tbody></table>
+<p><b>Отчёт о движении денежных средств</b> — отчёт компании об источниках <a class="mw-redirect" href="/wiki/%D0%94%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D0%B5_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%B0" title="Денежные средства">денежных средств</a> и их использовании в отчётном периоде, прямо<span class="ts-Переход noprint" title="#Прямой метод"><span class="mw-valign-baseline" typeof="mw:File"><a href="#Прямой_метод" title=""><img alt="Перейти к разделу «#Прямой метод»" class="mw-file-element" data-file-height="100" data-file-width="100" decoding="async" height="10" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Arrow_Blue_Right_001.svg/10px-Arrow_Blue_Right_001.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Arrow_Blue_Right_001.svg/15px-Arrow_Blue_Right_001.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Arrow_Blue_Right_001.svg/20px-Arrow_Blue_Right_001.svg.png 2x" width="10"/></a></span></span> или косвенно<span class="ts-Переход noprint" title="#Косвенный метод"><span class="mw-valign-baseline" typeof="mw:File"><a href="#Косвенный_метод" title=""><img alt="Перейти к разделу «#Косвенный метод»" class="mw-file-element" data-file-height="100" data-file-width="100" decoding="async" height="10" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Arrow_Blue_Right_001.svg/10px-Arrow_Blue_Right_001.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Arrow_Blue_Right_001.svg/15px-Arrow_Blue_Right_001.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Arrow_Blue_Right_001.svg/20px-Arrow_Blue_Right_001.svg.png 2x" width="10"/></a></span></span> отражая денежные поступления компании с классификацией по основным источникам и её денежные выплаты с классификацией по основным направлениям использования в течение периода. Отчёт даёт общую картину производственных результатов, краткосрочной <a href="/wiki/%D0%9B%D0%B8%D0%BA%D0%B2%D0%B8%D0%B4%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Ликвидность">ликвидности</a>, долгосрочной <a href="/wiki/%D0%9A%D1%80%D0%B5%D0%B4%D0%B8%D1%82%D0%BE%D1%81%D0%BF%D0%BE%D1%81%D0%BE%D0%B1%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Кредитоспособность">кредитоспособности</a> и позволяет с большей лёгкостью провести <a href="/wiki/%D0%A4%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D1%8B%D0%B9_%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7" title="Финансовый анализ">финансовый анализ</a> компании.
+</p>
+<div aria-labelledby="mw-toc-heading" class="toc" id="toc" role="navigation"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="ru"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#История_создания"><span class="tocnumber">1</span> <span class="toctext">История создания</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Цель_и_сфера_применения"><span class="tocnumber">2</span> <span class="toctext">Цель и сфера применения</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Методика_составления"><span class="tocnumber">3</span> <span class="toctext">Методика составления</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Прямой_метод"><span class="tocnumber">3.1</span> <span class="toctext">Прямой метод</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Косвенный_метод"><span class="tocnumber">3.2</span> <span class="toctext">Косвенный метод</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Финансовый_анализ"><span class="tocnumber">4</span> <span class="toctext">Финансовый анализ</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Коэффициенты_денежного_покрытия"><span class="tocnumber">4.1</span> <span class="toctext">Коэффициенты денежного покрытия</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Коэффициенты_денежного_покрытия_прибыли"><span class="tocnumber">4.2</span> <span class="toctext">Коэффициенты денежного покрытия прибыли</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Коэффициенты_денежного_покрытия_капитальных_затрат"><span class="tocnumber">4.3</span> <span class="toctext">Коэффициенты денежного покрытия капитальных затрат</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Коэффициенты_рентабельности_денежных_потоков"><span class="tocnumber">4.4</span> <span class="toctext">Коэффициенты рентабельности денежных потоков</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Региональное_регулирование_составления_отчёта_о_движении_денежных_средств"><span class="tocnumber">5</span> <span class="toctext">Региональное регулирование составления отчёта о движении денежных средств</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#Россия"><span class="tocnumber">5.1</span> <span class="toctext">Россия</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Украина"><span class="tocnumber">5.2</span> <span class="toctext">Украина</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#США"><span class="tocnumber">5.3</span> <span class="toctext">США</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#Примечания"><span class="tocnumber">6</span> <span class="toctext">Примечания</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#Источники"><span class="tocnumber">7</span> <span class="toctext">Источники</span></a></li>
+</ul>
+</div>
+<h2><span id=".D0.98.D1.81.D1.82.D0.BE.D1.80.D0.B8.D1.8F_.D1.81.D0.BE.D0.B7.D0.B4.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="История_создания">История создания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9E%D1%82%D1%87%D1%91%D1%82_%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2&amp;veaction=edit&amp;section=1" title="Редактировать раздел «История создания»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9E%D1%82%D1%87%D1%91%D1%82_%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2&amp;action=edit&amp;section=1" title="Редактировать код раздела «История создания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>В отличие от <a href="/wiki/%D0%91%D1%83%D1%85%D0%B3%D0%B0%D0%BB%D1%82%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%B1%D0%B0%D0%BB%D0%B0%D0%BD%D1%81" title="Бухгалтерский баланс">бухгалтерского баланса</a> и <a class="mw-redirect" href="/wiki/%D0%9E%D1%82%D1%87%D1%91%D1%82_%D0%BE_%D0%BF%D1%80%D0%B8%D0%B1%D1%8B%D0%BB%D1%8F%D1%85_%D0%B8_%D1%83%D0%B1%D1%8B%D1%82%D0%BA%D0%B0%D1%85" title="Отчёт о прибылях и убытках">отчёта о финансовых результатах</a>, имеющих долгую историю, отчёт о движении денежных средств вошёл в финансовый обиход в 60-е годы XIX века<sup class="reference" id="cite_ref-Watanabe_1-0"><a href="#cite_note-Watanabe-1">[1]</a></sup>. К середине 60-х годов XIX века сформировался общий подход к составлению отчёта о движении денежных средств, который представлял собой документ об использовании и источниках фондов<sup class="reference" id="cite_ref-history_2-0"><a href="#cite_note-history-2">[2]</a></sup>.
+</p><p>История отчёта о движении денежных средств начинается с <a href="/wiki/1863_%D0%B3%D0%BE%D0%B4" title="1863 год">1863 года</a>, когда компания <a class="new" href="/w/index.php?title=Dowlais_Ironworks&amp;action=edit&amp;redlink=1" title="Dowlais Ironworks (страница отсутствует)">Dowlais Ironworks</a>, оправившись после кризиса, показала в отчётности прибыль, но у неё не хватало денежных средств для покупки новой <a href="/wiki/%D0%94%D0%BE%D0%BC%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D0%B5%D1%87%D1%8C" title="Доменная печь">доменной печи</a>. Для того чтобы объяснить нехватку средств, один из менеджеров компании составил отчёт, который он назвал <i>сравнительный бухгалтерский баланс</i>. Исходя из отчёта, стало понятно, что у компании было слишком много запасов (видимо, на их покупку тратились значительные средства). Этот отчёт и стал прародителем современного отчёта о движении денежных средств<sup class="reference" id="cite_ref-Watanabe_1-1"><a href="#cite_note-Watanabe-1">[1]</a></sup>.
+</p><p>В <a href="/wiki/1971_%D0%B3%D0%BE%D0%B4" title="1971 год">1971 году</a> отчёт об использовании и источниках фондов в <a href="/wiki/%D0%A1%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D0%A8%D1%82%D0%B0%D1%82%D1%8B_%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B8" title="Соединённые Штаты Америки">США</a> стал обязательным при подготовке отчётности в соответствии с <a href="/wiki/GAAP" title="GAAP">US GAAP</a>. В <a href="/wiki/1992_%D0%B3%D0%BE%D0%B4" title="1992 год">1992 году</a> <a href="/wiki/%D0%A1%D0%BE%D0%B2%D0%B5%D1%82_%D0%BF%D0%BE_%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%BC_%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D0%B0%D0%BC_%D1%84%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D0%BE%D0%B9_%D0%BE%D1%82%D1%87%D1%91%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8" title="Совет по Международным стандартам финансовой отчётности">Совет по Международным стандартам финансовой отчётности</a> разработал МСФО 7 «Отчёт о движении денежных средств», который вступил в силу в <a href="/wiki/1994_%D0%B3%D0%BE%D0%B4" title="1994 год">1994 году</a>. Стандартом предусматривалась обязательность представления отчёта составляющими отчётность в соответствии с МСФО<sup class="reference" id="cite_ref-history_2-1"><a href="#cite_note-history-2">[2]</a></sup><sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup>.
+</p><p>Отчёт о движении денежных средств в нынешнем формате, когда движения денежных средств начали разделять на движения от операционной, финансовой, инвестиционной деятельности, был разработан в США в <a href="/wiki/1988_%D0%B3%D0%BE%D0%B4" title="1988 год">1988 году</a><sup class="reference" id="cite_ref-analiz_4-0"><a href="#cite_note-analiz-4">[4]</a></sup>. На сегодняшний день все национальные и международные разработчики стандартов финансовой отчётности пришли к выводу о важности <a href="/wiki/%D0%A0%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D1%82%D0%B8%D0%B5_%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%B8" title="Раскрытие информации">раскрытия информации</a> об источниках поступления и направлениях использования компаниями денежных средств, отчёт о движении денежных средств стал частью пакета <a class="mw-redirect" href="/wiki/%D0%A4%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D1%8B%D0%B9_%D0%BE%D1%82%D1%87%D1%91%D1%82" title="Финансовый отчёт">финансовой отчётности</a><sup class="reference" id="cite_ref-history_2-2"><a href="#cite_note-history-2">[2]</a></sup> в большинстве стран.
+</p>
+<h2><span id=".D0.A6.D0.B5.D0.BB.D1.8C_.D0.B8_.D1.81.D1.84.D0.B5.D1.80.D0.B0_.D0.BF.D1.80.D0.B8.D0.BC.D0.B5.D0.BD.D0.B5.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Цель_и_сфера_применения">Цель и сфера применения</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9E%D1%82%D1%87%D1%91%D1%82_%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Цель и сфера применения»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9E%D1%82%D1%87%D1%91%D1%82_%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2&amp;action=edit&amp;section=2" title="Редактировать код раздела «Цель и сфера применения»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable" style="float:right; margin: 0 0 0 10px">
+<tbody><tr>
+<th colspan="2"><b>Упрощённый вариант отчёта о движении денежных средств</b><sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[примечание 1]</a></sup>
+</th></tr>
+<tr>
+<td>Движение денежных средств в результате операционной деятельности
+</td>
+<td align="right">4 000
+</td></tr>
+<tr>
+<td>Движение денежных средств в результате инвестиционной деятельности
+</td>
+<td align="right">(1 000)
+</td></tr>
+<tr>
+<td>Движение денежных средств в результате финансовой деятельности
+</td>
+<td align="right">(2 000)
+</td></tr>
+<tr>
+<td><b>Чистый денежный поток</b>
+</td>
+<td align="right"><b>1 000</b>
+</td></tr></tbody></table>
+<p>Этот отчёт необходим как менеджерам, так и внешним пользователям, которые по его показателям могут увидеть реальные доходы и расходы, а также узнать:
+</p>
+<ul><li>Объём и источники получения денежных средств и направления их использования.</li>
+<li>Способность компании в результате своей деятельности обеспечивать превышение поступлений денежных средств над выплатами.</li>
+<li>Способность компании выполнять свои обязательства.</li>
+<li>Информацию о достаточности денежных средств для ведения деятельности.</li>
+<li>Степень самостоятельного обеспечения инвестиционных потребностей за счёт внутренних источников.</li>
+<li>Причины разности между величиной полученной прибыли и объёмом денежных средств<sup class="reference" id="cite_ref-elitarium_6-0"><a href="#cite_note-elitarium-6">[5]</a></sup>.</li></ul>
+<p>Этот отчёт прямо или косвенно отражает денежные поступления компании с классификацией по основным источникам и её денежные выплаты с классификацией по основным направлениям использования в течение периода. Он может быть составлен любой компанией независимо от её размера, структуры, отрасли. Отчёт даёт общую картину производственных результатов, краткосрочной <a href="/wiki/%D0%9B%D0%B8%D0%BA%D0%B2%D0%B8%D0%B4%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Ликвидность">ликвидности</a>, долгосрочной <a href="/wiki/%D0%9A%D1%80%D0%B5%D0%B4%D0%B8%D1%82%D0%BE%D1%81%D0%BF%D0%BE%D1%81%D0%BE%D0%B1%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Кредитоспособность">кредитоспособности</a> и позволяет с большей лёгкостью провести <a href="/wiki/%D0%A4%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D1%8B%D0%B9_%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7" title="Финансовый анализ">финансовый анализ</a> компании<sup class="reference" id="cite_ref-helfert-a_7-0"><a href="#cite_note-helfert-a-7">[6]</a></sup><sup class="reference" id="cite_ref-PWC_8-0"><a href="#cite_note-PWC-8">[7]</a></sup>.
+</p>
+<h2><span id=".D0.9C.D0.B5.D1.82.D0.BE.D0.B4.D0.B8.D0.BA.D0.B0_.D1.81.D0.BE.D1.81.D1.82.D0.B0.D0.B2.D0.BB.D0.B5.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Методика_составления">Методика составления</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9E%D1%82%D1%87%D1%91%D1%82_%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2&amp;veaction=edit&amp;section=3" title="Редактировать раздел «Методика составления»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9E%D1%82%D1%87%D1%91%D1%82_%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2&amp;action=edit&amp;section=3" title="Редактировать код раздела «Методика составления»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>При составлении отчёта по <a class="mw-redirect" href="/wiki/%D0%9C%D0%A1%D0%A4%D0%9E" title="МСФО">МСФО</a> разделяют <i>приток</i> и <i>отток</i> наличных по производственной (операционной или текущей), финансовой и инвестиционной деятельности компании:
+</p>
+<ul><li><a href="/wiki/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B4%D0%B5%D1%8F%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Операционная деятельность">операционная деятельность</a> — основной вид деятельности, а также прочая деятельность, создающая поступление и расходование денежных средств компании (за исключением финансовой и инвестиционной деятельности)<sup class="reference" id="cite_ref-6para_9-0"><a href="#cite_note-6para-9">[8]</a></sup>;</li>
+<li><a class="mw-redirect" href="/wiki/%D0%98%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B4%D0%B5%D1%8F%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Инвестиционная деятельность">инвестиционная деятельность</a> — вид деятельности, связанной с приобретением, созданием и продажей внеоборотных активов (основных средств, нематериальных активов) и прочих инвестиций, не включённых в определение денежных средств и их эквивалентов<sup class="reference" id="cite_ref-6para_9-1"><a href="#cite_note-6para-9">[8]</a></sup>;</li>
+<li><a class="new" href="/w/index.php?title=%D0%A4%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%B5%D1%8F%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C&amp;action=edit&amp;redlink=1" title="Финансовая деятельность (страница отсутствует)">финансовая деятельность</a> — вид деятельности, который приводит к изменениям в размере и составе капитала и заёмных средств компании. Как правило, такая деятельность связана с привлечением и возвратом кредитов, необходимых для финансирования операционной и инвестиционной деятельности<sup class="reference" id="cite_ref-6para_9-2"><a href="#cite_note-6para-9">[8]</a></sup>.</li></ul>
+<p>Эта классификация предназначена для того, чтобы пользователи отчётности могли оценить воздействие этих трёх направлений деятельности на финансовое положение компании и величину её денежных средств. <a href="/wiki/%D0%94%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D0%B9_%D0%BF%D0%BE%D1%82%D0%BE%D0%BA" title="Денежный поток">Денежные потоки</a> относят к движению денежных средств от операционной, финансовой, инвестиционной в зависимости от характера деятельности компании<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[9]</a></sup>.
+</p>
+<table class="wide">
+<tbody><tr>
+<th colspan="3"><b>Классификация денежных потоков по видам деятельности</b><sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[примечание 2]</a></sup><sup class="reference" id="cite_ref-ippnou_12-0"><a href="#cite_note-ippnou-12">[10]</a></sup>
+</th></tr>
+<tr>
+<th>Вид деятельности</th>
+<th>Притоки</th>
+<th>Оттоки
+</th></tr>
+<tr>
+<td>Операционная<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[11]</a></sup></td>
+<td>
+<ol><li>поступления от продажи товаров и предоставления услуг;</li>
+<li>поступления рентных платежей за предоставление прав, вознаграждений, комиссионных;</li>
+<li>поступления и выплаты <a href="/wiki/%D0%A1%D1%82%D1%80%D0%B0%D1%85%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F" title="Страховая компания">страховых компаний</a> по <a href="/wiki/%D0%A1%D1%82%D1%80%D0%B0%D1%85%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%8F" title="Страховая премия">страховым премиям</a>, искам.</li></ol>
+</td>
+<td>
+<ol><li>выплаты поставщикам товаров и услуг;</li>
+<li>выплаты заработной платы работникам;</li>
+<li>выплаты <a href="/wiki/%D0%9D%D0%B0%D0%BB%D0%BE%D0%B3_%D0%BD%D0%B0_%D0%BF%D1%80%D0%B8%D0%B1%D1%8B%D0%BB%D1%8C" title="Налог на прибыль">налога на прибыль</a>, кроме налогов, относящихся к финансовой или инвестиционной деятельности.</li></ol>
+</td></tr>
+<tr>
+<td>Инвестиционная<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[12]</a></sup>
+</td>
+<td>
+<ol><li>поступления от продажи основных средств, нематериальных активов и прочих внеоборотных активов;</li>
+<li>поступления от продажи <a href="/wiki/%D0%90%D0%BA%D1%86%D0%B8%D1%8F_(%D1%84%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D1%8B)" title="Акция (финансы)">акций</a> других компаний, а также долей в совместных компаниях;</li>
+<li>поступления в погашение займов, предоставленных другим сторонам.</li></ol>
+</td>
+<td>
+<ol><li>выплаты для приобретения основных средств, нематериальных активов и прочих внеоборотных активов;</li>
+<li>выплаты по приобретению акций или долговых инструментов других компаний, а также долей в совместных компаниях;</li>
+<li>кредитование других сторон.</li></ol>
+</td></tr>
+<tr>
+<td>Финансовая<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[13]</a></sup>
+</td>
+<td>
+<ol><li>поступления от эмиссии акций или выпуска других долевых инструментов;</li>
+<li>поступления от эмиссии облигаций, векселей, закладных, займов, а также от прочих финансовых инструментов.</li></ol>
+</td>
+<td>
+<ol><li>выплаты собственникам при выкупе или погашении акций компании;</li>
+<li>выплаты в погашение займов;</li>
+<li>выплаты арендатором в погашение обязательства по <a href="/wiki/%D0%9B%D0%B8%D0%B7%D0%B8%D0%BD%D0%B3" title="Лизинг">финансовой аренде</a>.</li></ol>
+</td></tr></tbody></table>
+<p>Одна и та же операция может приводить к появлению потоков денежных средств, которые будут классифицироваться по-разному. Например, одна и та же операция может быть классифицирована как операционная, так и финансовая деятельность:
+
+</p>
+<blockquote class="ts-Начало_цитаты-quote"><p>
+Погашение процентного займа предусматривает как выплату процентов, так и основной суммы долга. Если заём погашается в денежной форме (в отличие от взаимозачёта или натуральной формы), это отражается в отчёте о движении денежных средств, при этом выплата процентов может классифицироваться как операционная деятельность, а выплата основного долга — как финансовая<sup class="reference" id="cite_ref-PWC_8-1"><a href="#cite_note-PWC-8">[7]</a></sup>.</p></blockquote>
+<p>При предоставлении отчёта о движении денежных средств в соответствии с МСФО (IAS) 7 компании должны раскрывать информацию о составе денежных средств и их эквивалентов. При идентификации денежных эквивалентов могут применяться различные классификации, поэтому компания должна раскрывать информацию о своей учётной политике, определяющей состав денежных средств и их эквивалентов<sup class="reference" id="cite_ref-ippnou_12-1"><a href="#cite_note-ippnou-12">[10]</a></sup>. Формы отчётов о движении денежных средств в России и на Украине имеют чётко регламентированную форму<sup class="reference" id="cite_ref-russa_16-0"><a href="#cite_note-russa-16">[14]</a></sup><sup class="reference" id="cite_ref-ukra_17-0"><a href="#cite_note-ukra-17">[15]</a></sup>.
+</p><p>Существует два метода составления отчёта о движении денежных средств. <a href="/wiki/%D0%A1%D0%BE%D0%B2%D0%B5%D1%82_%D0%BF%D0%BE_%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%BC_%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D0%B0%D0%BC_%D1%84%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D0%BE%D0%B9_%D0%BE%D1%82%D1%87%D1%91%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8" title="Совет по Международным стандартам финансовой отчётности">Совет по МСФО</a> рассматривает вопрос о том, следует ли сделать обязательным к применению прямой или косвенный метод для подготовки отчёта о движении денежных средств. В октябре <a href="/wiki/2008_%D0%B3%D0%BE%D0%B4" title="2008 год">2008 года</a> Совет по МСФО опубликовал документ <i>«Предварительная точка зрения на предоставление финансовой отчётности</i>». В нём предполагалось ввести требование о подготовке отчёта о движении денежных средств согласно прямому методу<sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[16]</a></sup>. Большинство не поддержало принятие документа. Сейчас большинство компаний избегают использования прямого метода и используют косвенный<sup class="reference" id="cite_ref-19"><a href="#cite_note-19">[17]</a></sup>.
+</p><p>При составлении отчёта о движении денежных средств существует ряд особенностей при постановке знаков в суммах:
+</p>
+<table class="wide">
+<tbody><tr>
+<th colspan="4"><b>Корректировка изменения текущих активов и обязательств</b>
+</th></tr>
+<tr>
+<th>Увеличение балансовых сумм</th>
+<th>Знак для корректировки в отчёте о движении денежных средств</th>
+<th>Уменьшение балансовых сумм</th>
+<th>Знак для корректировки в отчёте о движении денежных средств
+</th></tr>
+<tr>
+<td>текущих активов</td>
+<td><span style="color:#0000CD">Минус</span></td>
+<td>текущих активов</td>
+<td><span style="color:#FF0000">Плюс</span>
+</td></tr>
+<tr>
+<td>текущих обязательств</td>
+<td><span style="color:#FF0000">Плюс</span></td>
+<td>текущих обязательств</td>
+<td><span style="color:#0000CD">Минус</span>
+</td></tr></tbody></table>
+<table class="wide">
+<tbody><tr>
+<th colspan="4"><b>Корректировка изменения статей неденежных доходов и расходов, а также прибылей и убытков по финансовой и инвестиционной деятельности</b>
+</th></tr>
+<tr>
+<th>Показатель отчёта о прибылях и убытках</th>
+<th>Знак для корректировки в отчёте о движении денежных средств
+</th></tr>
+<tr>
+<td>Расход (убыток)</td>
+<td><span style="color:#0000CD">Минус</span>
+</td></tr>
+<tr>
+<td>Доход (прибыль)</td>
+<td><span style="color:#FF0000">Плюс</span>
+</td></tr></tbody></table>
+<p>В отчётности <a class="mw-redirect" href="/wiki/%D0%A4%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D1%8B%D0%B9_%D0%B8%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82" title="Финансовый институт">финансовых институтов</a> выплаченные и полученные проценты и <a href="/wiki/%D0%94%D0%B8%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B4" title="Дивиденд">дивиденды</a> обычно классифицируются как денежные потоки по операционной деятельности. Информацию о движении денежных средств, вызванных получением и выплатой процентов и дивидендов, следует раскрывать отдельно, классифицируя на потоки по операционной, инвестиционной или финансовой деятельности. В отчёте о движении денежных средств раскрывается информация о совокупных процентных платежах в течение <a href="/wiki/%D0%9E%D1%82%D1%87%D1%91%D1%82%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B5%D1%80%D0%B8%D0%BE%D0%B4" title="Отчётный период">отчётного периода</a>, независимо от того, отражалась ли она как расход в отчёте о прибылях и убытках или капитализировалась. Что касается нефинансовых организаций, то единое мнение о классификации таких потоков отсутствует<sup class="reference" id="cite_ref-PWC_8-2"><a href="#cite_note-PWC-8">[7]</a></sup>. Инвестиционные и финансовые сделки, которые не требовали использования денежных средств и их эквивалентов, исключаются из отчёта о движении денежных средств, и раскрываются в примечаниях.
+</p><p>МСФО (IAS) 7 приветствуется <b>раскрытие дополнительной информации</b>, которая может быть полезна пользователям для понимания финансового положения и ликвидности компании:
+</p>
+<ul><li>величину неиспользованных <a href="/wiki/%D0%9A%D1%80%D0%B5%D0%B4%D0%B8%D1%82%D0%BD%D1%8B%D0%B5_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%B0_%D0%BE%D0%B1%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B8_%D0%BF%D0%BB%D0%B0%D1%82%D0%B5%D0%B6%D0%B0" title="Кредитные средства обращения и платежа">кредитных средств</a> (доступный кредитный лимит), которые могут быть предоставлены для финансирования операционной деятельности в будущем, а также для погашения основной суммы долга с указанием каких-либо ограничений на привлечение этих средств;</li>
+<li>денежный поток в разрезе операционной, инвестиционной и финансовой деятельности, связанный с участием в <a href="/wiki/%D0%A1%D0%BE%D0%B2%D0%BC%D0%B5%D1%81%D1%82%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%B5%D0%B4%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D0%B5" title="Совместное предприятие">совместном предприятии</a> по методу пропорциональной консолидации;</li>
+<li>общую сумму капитальных затрат, необходимых для увеличения операционных мощностей, отдельно от сумм, необходимых для поддержания <a class="mw-redirect" href="/wiki/%D0%9F%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C_%D0%BF%D1%80%D0%B5%D0%B4%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D1%8F" title="Производительность предприятия">текущей производительности</a><sup class="reference" id="cite_ref-ippnou_12-2"><a href="#cite_note-ippnou-12">[10]</a></sup><sup class="reference" id="cite_ref-20"><a href="#cite_note-20">[18]</a></sup>.</li></ul>
+<h3><span id=".D0.9F.D1.80.D1.8F.D0.BC.D0.BE.D0.B9_.D0.BC.D0.B5.D1.82.D0.BE.D0.B4"></span><span class="mw-headline" id="Прямой_метод">Прямой метод</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9E%D1%82%D1%87%D1%91%D1%82_%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2&amp;veaction=edit&amp;section=4" title="Редактировать раздел «Прямой метод»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9E%D1%82%D1%87%D1%91%D1%82_%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2&amp;action=edit&amp;section=4" title="Редактировать код раздела «Прямой метод»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable" style="float:right; margin: 0 0 0 10px">
+<tbody><tr>
+<th colspan="3"><b>Пример отчёта о движении денежных средств, созданный прямым методом</b>
+</th></tr>
+<tr>
+<td colspan="3"><b>Движение средств в результате операционной деятельности</b>
+</td></tr>
+<tr>
+<td colspan="2">Денежные средства, полученные от покупателей
+</td>
+<td align="right">9 500
+</td></tr>
+<tr>
+<td colspan="2">Денежные средства, израсходованные на содержание персонала
+</td>
+<td align="right">(2 000)
+</td></tr>
+<tr>
+<td colspan="2">Движение средств в результате операционной деятельности
+</td>
+<td align="right">7 500
+</td></tr>
+<tr>
+<td colspan="2">Проценты, уплаченные за пользование банковским кредитом
+</td>
+<td align="right">(2 000)
+</td></tr>
+<tr>
+<td colspan="2">Уплаченный налог на прибыль компании
+</td>
+<td align="right">(3 000)
+</td></tr>
+<tr>
+<td colspan="2">Чистое движение средств в результате операционной деятельности
+</td>
+<td align="right">2 500
+</td></tr>
+<tr>
+<td colspan="3"><b>Движение средств в результате инвестиционной деятельности</b>
+</td></tr>
+<tr>
+<td colspan="2">Деньги, вырученные от продажи основных средств
+</td>
+<td align="right">7 500
+</td></tr>
+<tr>
+<td colspan="2">Полученные дивиденды
+</td>
+<td align="right">3 000
+</td></tr>
+<tr>
+<td colspan="2">Чистое движение средств в результате инвестиционной деятельности
+</td>
+<td align="right">10 500
+</td></tr>
+<tr>
+<td colspan="3"><b>Движение средств в результате финансовой деятельности</b>
+</td></tr>
+<tr>
+<td colspan="2">Выплаченные дивиденды
+</td>
+<td align="right">(2 500)
+</td></tr>
+<tr>
+<td colspan="2">Чистое движение средств в результате финансовой деятельности
+</td>
+<td align="right">(2 500)
+</td></tr>
+<tr>
+<td colspan="2">Увеличение суммы денежных средств за год
+</td>
+<td align="right">10 500
+</td></tr>
+<tr>
+<td colspan="2">Сумма денежных средств на начало года
+</td>
+<td align="right">1 000
+</td></tr>
+<tr>
+<td colspan="2">Сумма денежных средств на конец года
+</td>
+<td align="right">11 500
+</td></tr></tbody></table>
+<p><b>Прямой метод</b> предусматривает раскрытие информации об основных видах валовых денежных поступлений и выплат<sup class="reference" id="cite_ref-21"><a href="#cite_note-21">[19]</a></sup>.
+</p><p>Информация для составления отчёта о движении денежных средств может быть получена из учётных записей компании путём корректировки продаж, себестоимости реализации и других статей, признанных в составе прибыли или убытка<sup class="reference" id="cite_ref-22"><a href="#cite_note-22">[20]</a></sup>.
+</p><p>Выделяют следующие достоинства этого метода:
+</p>
+<ul><li>отчёт, созданный по этому методу, показывает основные источники притока и направления оттока денежных средств;</li>
+<li>даёт возможность делать оперативные выводы относительно наличия денежных средств для проведения платежей по различным текущим обязательствам;</li>
+<li>непосредственная привязка к бюджету денежных поступлений и выплат;</li>
+<li>отображает взаимосвязь между реализацией и денежной выручкой за отчётный период<sup class="reference" id="cite_ref-elitarium_6-1"><a href="#cite_note-elitarium-6">[5]</a></sup>.</li></ul>
+<p>Недостатком этого метода является то, что он не раскрывает взаимосвязи между отчётом о прибылях и убытках и движением денежных средств. Кроме того, крупные компании осуществляют очень много денежных переводов, поэтому без специального программного обеспечения классифицировать каждый платёжный документ пришлось бы вручную<sup class="reference" id="cite_ref-elitarium_6-2"><a href="#cite_note-elitarium-6">[5]</a></sup>.
+</p>
+<h3><span id=".D0.9A.D0.BE.D1.81.D0.B2.D0.B5.D0.BD.D0.BD.D1.8B.D0.B9_.D0.BC.D0.B5.D1.82.D0.BE.D0.B4"></span><span class="mw-headline" id="Косвенный_метод">Косвенный метод</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9E%D1%82%D1%87%D1%91%D1%82_%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2&amp;veaction=edit&amp;section=5" title="Редактировать раздел «Косвенный метод»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9E%D1%82%D1%87%D1%91%D1%82_%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2&amp;action=edit&amp;section=5" title="Редактировать код раздела «Косвенный метод»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><b>Косвенный метод</b> заключается в установлении разниц между показателем <a href="/wiki/%D0%A7%D0%B8%D1%81%D1%82%D0%B0%D1%8F_%D0%BF%D1%80%D0%B8%D0%B1%D1%8B%D0%BB%D1%8C" title="Чистая прибыль">чистой прибыли</a> (убытка) отчётного периода, сформированным по методу начисления и представленным в отчёте о прибылях и убытках, и показателем чистых денежных средств по <a href="/wiki/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B4%D0%B5%D1%8F%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Операционная деятельность">операционной деятельности</a> (приращение денежных средств и их эквивалентов за период), рассчитанным по кассовому методу на основе данных бухгалтерского баланса (разница между денежными средствами на конец и начало отчётного периода)<sup class="reference" id="cite_ref-ippnou_12-3"><a href="#cite_note-ippnou-12">[10]</a></sup>.
+</p><p>Составление отчёта о движении денежных средств косвенным методом в наибольшей степени подходит для компаний, ведущих учёт по МСФО методом трансформации и не имеющих возможность <a href="/wiki/%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F" title="Автоматизация">автоматизировать</a> этот процесс достаточным образом. С помощью косвенного метода отчёт о движении денежных средств можно составить на основе отчёта о прибылях и убытках, <a href="/wiki/%D0%91%D1%83%D1%85%D0%B3%D0%B0%D0%BB%D1%82%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%B1%D0%B0%D0%BB%D0%B0%D0%BD%D1%81" title="Бухгалтерский баланс">балансового отчёта</a> на начало и на конец отчётного периода, а также некоторых дополнительных данных о потоках, которые обычно используются при трансформации отчётности . Не требуются данные из бухгалтерских систем о реальных денежных потоках, а также не требуется никакой автоматизации отчётности. Этот метод позволяет чётко показать, какое денежное содержание имеет каждая строка отчёта о прибылях и убытках<sup class="reference" id="cite_ref-ippnou_12-4"><a href="#cite_note-ippnou-12">[10]</a></sup><sup class="reference" id="cite_ref-косвенный_метод_23-0"><a href="#cite_note-косвенный_метод-23">[21]</a></sup>.
+</p>
+<table class="wide">
+<tbody><tr>
+<td align="center" colspan="4"><b>Пример отчёта о движении денежных средств, составленного косвенным методом за три года<sup class="reference" id="cite_ref-24"><a href="#cite_note-24">[примечание 3]</a></sup><sup class="reference" id="cite_ref-25"><a href="#cite_note-25">[22]</a></sup></b>
+</td></tr>
+<tr>
+<td><i>Период заканчивается</i>
+</td>
+<td align="right"><i>12.31.2007</i>
+</td>
+<td align="right"><i>12.31.2006</i>
+</td>
+<td align="right"><i>12.31.2005</i>
+</td></tr>
+<tr>
+<td><b>Прибыль до налогообложения</b>
+</td>
+<td align="right"><b>21 538</b>
+</td>
+<td align="right"><b>24 589</b>
+</td>
+<td align="right"><b>17 046</b>
+</td></tr>
+<tr>
+<td colspan="4"><b>Корректировки на движение денежных средств в результате операционной деятельности:</b>
+</td></tr>
+<tr>
+<td>Амортизация
+</td>
+<td align="right">2 790
+</td>
+<td align="right">2 592
+</td>
+<td align="right">2 747
+</td></tr>
+<tr>
+<td>Корректировка прибыли
+</td>
+<td align="right">4 617
+</td>
+<td align="right">621
+</td>
+<td align="right">2 910
+</td></tr>
+<tr>
+<td>Увеличение / уменьшение дебиторской задолженности
+</td>
+<td align="right">12 503
+</td>
+<td align="right">17 236
+</td>
+<td align="right">—
+</td></tr>
+<tr>
+<td>Увеличение / уменьшение кредиторской задолженности
+</td>
+<td align="right">131 622
+</td>
+<td align="right">19 822
+</td>
+<td align="right">37 856
+</td></tr>
+<tr>
+<td>Увеличение / уменьшение запасов
+</td>
+<td align="right">—
+</td>
+<td align="right">—
+</td>
+<td align="right">—
+</td></tr>
+<tr>
+<td>Увеличение / уменьшение других статей, касающихся операционной деятельности
+</td>
+<td align="right">(173 057)
+</td>
+<td align="right">(33 061)
+</td>
+<td align="right">(62 963)
+</td></tr>
+<tr>
+<td><b>Чистый денежный поток в результате операционной деятельности</b>
+</td>
+<td align="right">13
+</td>
+<td align="right">31 799
+</td>
+<td align="right">(2 404)
+</td></tr>
+<tr>
+<td colspan="4"><b>Корректировки на движение денежных средств в результате инвестиционной деятельности:</b>
+</td></tr>
+<tr>
+<td>Увеличение / уменьшение капитальных инвестиций
+</td>
+<td align="right">(4 035)
+</td>
+<td align="right">(3 724)
+</td>
+<td align="right">(3 011)
+</td></tr>
+<tr>
+<td>Увеличение / уменьшение инвестиций
+</td>
+<td align="right">(201 777)
+</td>
+<td align="right">(71 710)
+</td>
+<td align="right">(75 649)
+</td></tr>
+<tr>
+<td>Увеличение / уменьшение других статей, касающихся инвестиционной деятельности
+</td>
+<td align="right">1 606
+</td>
+<td align="right">17 009
+</td>
+<td align="right">(571)
+</td></tr>
+<tr>
+<td><b>Чистый денежный поток в результате инвестиционной деятельности</b>
+</td>
+<td align="right">(204 206)
+</td>
+<td align="right">(58 425)
+</td>
+<td align="right">(79 231)
+</td></tr>
+<tr>
+<td colspan="4"><b>Корректировки на движение денежных средств в результате финансовой деятельности:</b>
+</td></tr>
+<tr>
+<td>Выплаченные дивиденды
+</td>
+<td align="right">(9 826)
+</td>
+<td align="right">(9 188)
+</td>
+<td align="right">(8 375)
+</td></tr>
+<tr>
+<td>Продажа / покупка акций
+</td>
+<td align="right">(5 327)
+</td>
+<td align="right">(12 090)
+</td>
+<td align="right">133
+</td></tr>
+<tr>
+<td>Увеличение / уменьшение в задолженностях компании
+</td>
+<td align="right">101 122
+</td>
+<td align="right">26 651
+</td>
+<td align="right">21 204
+</td></tr>
+<tr>
+<td>Увеличение / уменьшение других статей, касающихся финансовой деятельности
+</td>
+<td align="right">120 461
+</td>
+<td align="right">27 910
+</td>
+<td align="right">70 349
+</td></tr>
+<tr>
+<td><b>Чистый денежный поток в результате финансовой деятельности</b>
+</td>
+<td align="right">206 430
+</td>
+<td align="right">33 283
+</td>
+<td align="right">83 311
+</td></tr>
+<tr>
+<td>Эффект изменения валютных курсов
+</td>
+<td align="right">645
+</td>
+<td align="right">(1 840)
+</td>
+<td align="right">731
+</td></tr>
+<tr>
+<td><b>Чистое увеличение / уменьшение денег и денежных эквивалентов за указанный период:</b>
+</td>
+<td align="right">2 882
+</td>
+<td align="right">4 817
+</td>
+<td align="right">2 407
+</td></tr>
+</tbody></table>
+<p>При вычислении чистой прибыли компании учитываются «неденежные составляющие», такие как <a href="/wiki/%D0%90%D0%BC%D0%BE%D1%80%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F_(%D0%B1%D1%83%D1%85%D0%B3%D0%B0%D0%BB%D1%82%D0%B5%D1%80%D0%B8%D1%8F)" title="Амортизация (бухгалтерия)">амортизация</a> и изменения в структуре активов и обязательств. Это позволяет выявить сумму чистого денежного потока от операционной деятельности.
+Можно выделить два основных типа корректировок:
+</p>
+<ol><li>связанные со статьями отчёта о прибылях и убытках;</li>
+<li>связанные с изменением в <a href="/wiki/%D0%9E%D0%B1%D0%BE%D1%80%D0%BE%D1%82%D0%BD%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BF%D0%B8%D1%82%D0%B0%D0%BB" title="Оборотный капитал">оборотном капитале</a><sup class="reference" id="cite_ref-косвенный_метод_23-1"><a href="#cite_note-косвенный_метод-23">[21]</a></sup>.</li></ol>
+<p>Первая группа корректировок связана с исключением неденежных статей, не являющихся денежными потоками, но влияющих на чистую прибыль, а также исключением из чистой прибыли статей, относящихся к инвестиционной и финансовой деятельности. После этих корректировок получаем промежуточный показатель «операционная прибыль до изменений в оборотном капитале», весьма полезный для <a href="/wiki/%D0%A4%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D1%8B%D0%B9_%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7" title="Финансовый анализ">финансового анализа</a>, поскольку позволяет менеджменту компании видеть реальное финансовое состояние компании, до того как начисляются расходы на амортизацию, проценты, налоги и так далее. Этот показатель напоминает показатель <a href="/wiki/EBITDA" title="EBITDA">EBITDA</a>, однако ещё не показывает чистую прибыль, поскольку не включает расходы на <a href="/wiki/%D0%98%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%86%D0%B8%D0%B8" title="Инвестиции">инвестиционную</a> и финансовую деятельность<sup class="reference" id="cite_ref-косвенный_метод_23-2"><a href="#cite_note-косвенный_метод-23">[21]</a></sup>.
+</p><p>Корректировки второй группы позволяют учитывать изменения в балансовых статьях. Например, если <a href="/wiki/%D0%94%D0%B5%D0%B1%D0%B8%D1%82%D0%BE%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D0%B7%D0%B0%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Дебиторская задолженность">дебиторская задолженность</a> вся оплачивается в денежной форме, нет взаимозачётных операций, и она выросла на конец периода, то показатель «операционная прибыль до изменений в оборотном капитале» следует уменьшить на это изменение, поскольку реальный денежный поток меньше выручки за период на сумму данной величины прироста дебиторской задолженности<sup class="reference" id="cite_ref-косвенный_метод_23-3"><a href="#cite_note-косвенный_метод-23">[21]</a></sup>.
+</p><p>Косвенный метод позволяет отследить движение денежных средств в части операционной деятельности, а прямой метод в части инвестиционной и финансовой деятельности<sup class="reference" id="cite_ref-косвенный_метод_23-4"><a href="#cite_note-косвенный_метод-23">[21]</a></sup>.
+</p><p>Основной недостаток косвенного метода составления отчёта — необходимость сбора большого количества информации о статьях неденежного содержания и изменениях в оборотном капитале. Для получения этой информации требуется анализ оборотов по счетам, так как в отчётность компании она не включается. Также для создания отчёта о движении денежных средств косвенным методом нужно иметь уже готовые отчёты о балансе, прибылях и убытках и об изменениях в капитале<sup class="reference" id="cite_ref-косвенный_метод_23-5"><a href="#cite_note-косвенный_метод-23">[21]</a></sup>.
+</p>
+<h2><span id=".D0.A4.D0.B8.D0.BD.D0.B0.D0.BD.D1.81.D0.BE.D0.B2.D1.8B.D0.B9_.D0.B0.D0.BD.D0.B0.D0.BB.D0.B8.D0.B7"></span><span class="mw-headline" id="Финансовый_анализ">Финансовый анализ</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9E%D1%82%D1%87%D1%91%D1%82_%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2&amp;veaction=edit&amp;section=6" title="Редактировать раздел «Финансовый анализ»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9E%D1%82%D1%87%D1%91%D1%82_%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2&amp;action=edit&amp;section=6" title="Редактировать код раздела «Финансовый анализ»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Ниже рассмотрены четыре основные группы коэффициентов, используемые при <a href="/wiki/%D0%A4%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D1%8B%D0%B9_%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7" title="Финансовый анализ">финансовом анализе</a> отчёта о движении денежных средств:
+</p>
+<ol><li>Коэффициенты денежного покрытия;</li>
+<li>Коэффициенты денежного покрытия прибыли;</li>
+<li>Коэффициенты денежного покрытия капитальных затрат;</li>
+<li>Коэффициенты рентабельности денежных потоков.</li></ol>
+<p>Кроме этих коэффициентов используются и другие коэффициенты. При оценке эффективности деятельности компании важно использовать не только прошлые данные, но и будущие — приблизительные данные. Таким образом, при анализе отчёта о движении денежных средств можно использовать прогнозированные данные (например, закупки, дивидендные выплаты, погашение долговых обязательств). В данном случае можно провести приблизительную оценку потока денежных средств будущего периода<sup class="reference" id="cite_ref-analiz_4-1"><a href="#cite_note-analiz-4">[4]</a></sup>.
+</p>
+<h3><span id=".D0.9A.D0.BE.D1.8D.D1.84.D1.84.D0.B8.D1.86.D0.B8.D0.B5.D0.BD.D1.82.D1.8B_.D0.B4.D0.B5.D0.BD.D0.B5.D0.B6.D0.BD.D0.BE.D0.B3.D0.BE_.D0.BF.D0.BE.D0.BA.D1.80.D1.8B.D1.82.D0.B8.D1.8F"></span><span class="mw-headline" id="Коэффициенты_денежного_покрытия">Коэффициенты денежного покрытия</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9E%D1%82%D1%87%D1%91%D1%82_%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2&amp;veaction=edit&amp;section=7" title="Редактировать раздел «Коэффициенты денежного покрытия»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9E%D1%82%D1%87%D1%91%D1%82_%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2&amp;action=edit&amp;section=7" title="Редактировать код раздела «Коэффициенты денежного покрытия»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Отчёт о движении денежных средств необходим для проведения <a href="/wiki/%D0%A4%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D1%8B%D0%B9_%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7" title="Финансовый анализ">финансового анализа</a>, с его помощью, например, можно определить коэффициенты денежного покрытия. При расчете этих коэффициентов способность компании в денежном покрытии оценивается по денежному потоку от основной деятельности. Рекомендуемое значение показателей должно быть больше единицы, иначе компании придётся использовать денежный поток от инвестиционной или финансовой деятельности для финансирования своей деятельности, что свидетельствует о неэффективном управлении компанией<sup class="reference" id="cite_ref-analiz_4-2"><a href="#cite_note-analiz-4">[4]</a></sup><sup class="reference" id="cite_ref-analizbook_26-0"><a href="#cite_note-analizbook-26">[23]</a></sup>.
+</p>
+<ol><li>Коэффициент денежного покрытия процентов за кредит (<b>CICR</b>, <a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">Cash Interest Coverage Ratio</span>) <br/><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle CICR={\frac {CFFO+Ip+Tp}{Ip}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>C</mi>
+<mi>I</mi>
+<mi>C</mi>
+<mi>R</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>C</mi>
+<mi>F</mi>
+<mi>F</mi>
+<mi>O</mi>
+<mo>+</mo>
+<mi>I</mi>
+<mi>p</mi>
+<mo>+</mo>
+<mi>T</mi>
+<mi>p</mi>
+</mrow>
+<mrow>
+<mi>I</mi>
+<mi>p</mi>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle CICR={\frac {CFFO+Ip+Tp}{Ip}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle CICR={\frac {CFFO+Ip+Tp}{Ip}}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bd0c31ae7dce2e1bd452ed20fb540ea07ed2ea84" style="vertical-align: -2.338ex; width:28.252ex; height:5.843ex;"/></span></li>
+<li>Коэффициент денежного покрытия долгосрочных обязательств (<b>CMCR</b>, <a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">Cash Maturity Coverage Ratio</span>) <br/><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle CMCR={\frac {CFFO}{LTDP}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>C</mi>
+<mi>M</mi>
+<mi>C</mi>
+<mi>R</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>C</mi>
+<mi>F</mi>
+<mi>F</mi>
+<mi>O</mi>
+</mrow>
+<mrow>
+<mi>L</mi>
+<mi>T</mi>
+<mi>D</mi>
+<mi>P</mi>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle CMCR={\frac {CFFO}{LTDP}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle CMCR={\frac {CFFO}{LTDP}}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a5365ed2509ac2795ae378c2660d2f2d577e0d69" style="vertical-align: -1.838ex; width:18.695ex; height:5.343ex;"/></span></li>
+<li>Коэффициент денежного покрытия дивидендных выплат (<b>CDCR</b>, <a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">Cash Dividend Coverage Ratio</span>) <br/><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle CDCR={\frac {CFFO-LTDP}{Dp}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>C</mi>
+<mi>D</mi>
+<mi>C</mi>
+<mi>R</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>C</mi>
+<mi>F</mi>
+<mi>F</mi>
+<mi>O</mi>
+<mo>−<!-- − --></mo>
+<mi>L</mi>
+<mi>T</mi>
+<mi>D</mi>
+<mi>P</mi>
+</mrow>
+<mrow>
+<mi>D</mi>
+<mi>p</mi>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle CDCR={\frac {CFFO-LTDP}{Dp}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle CDCR={\frac {CFFO-LTDP}{Dp}}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b70cb8ca8da5b223e0312dfe11410e6dbb1eb439" style="vertical-align: -2.338ex; width:27.906ex; height:5.843ex;"/></span></li></ol>
+<p>Где:
+</p>
+<ul><li>CFFO — денежный поток от основной (или операционной) деятельности</li>
+<li>Ip — проценты уплаченные</li>
+<li>Dp — дивиденды выплаченные</li>
+<li>Тp — налоги уплаченные</li>
+<li>LTDP — долгосрочные обязательства</li></ul>
+<h3><span id=".D0.9A.D0.BE.D1.8D.D1.84.D1.84.D0.B8.D1.86.D0.B8.D0.B5.D0.BD.D1.82.D1.8B_.D0.B4.D0.B5.D0.BD.D0.B5.D0.B6.D0.BD.D0.BE.D0.B3.D0.BE_.D0.BF.D0.BE.D0.BA.D1.80.D1.8B.D1.82.D0.B8.D1.8F_.D0.BF.D1.80.D0.B8.D0.B1.D1.8B.D0.BB.D0.B8"></span><span class="mw-headline" id="Коэффициенты_денежного_покрытия_прибыли">Коэффициенты денежного покрытия прибыли</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9E%D1%82%D1%87%D1%91%D1%82_%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2&amp;veaction=edit&amp;section=8" title="Редактировать раздел «Коэффициенты денежного покрытия прибыли»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9E%D1%82%D1%87%D1%91%D1%82_%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2&amp;action=edit&amp;section=8" title="Редактировать код раздела «Коэффициенты денежного покрытия прибыли»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Коэффициенты денежного покрытия прибыли показывают степень расхождения между начисленной прибылью (отображена в <a class="mw-redirect" href="/wiki/%D0%9E%D1%82%D1%87%D1%91%D1%82_%D0%BE_%D0%BF%D1%80%D0%B8%D0%B1%D1%8B%D0%BB%D1%8F%D1%85_%D0%B8_%D1%83%D0%B1%D1%8B%D1%82%D0%BA%D0%B0%D1%85" title="Отчёт о прибылях и убытках">отчёте о прибылях и убытках</a>) и полученной в деньгах прибылью. Показатель начисленной прибыли считается более субъективной оценкой, чем показатель прибыли, полученной в деньгах. Значительное отклонение этих коэффициентов от единицы требует внимательного изучения со стороны управляющих компанией<sup class="reference" id="cite_ref-analiz_4-3"><a href="#cite_note-analiz-4">[4]</a></sup><sup class="reference" id="cite_ref-analizbook_26-1"><a href="#cite_note-analizbook-26">[23]</a></sup>.
+</p>
+<ol><li>Коэффициент денежного покрытия выручки (<b>QSR</b>, <a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">Quick Sales Ratio</span>). Расчёт этого коэффициента не производится, если <a href="/wiki/%D0%A3%D1%87%D1%91%D1%82%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0" title="Учётная политика">учётной политикой</a> компании выбран метод признания выручки кассовым методом<sup class="reference" id="cite_ref-analiz_4-4"><a href="#cite_note-analiz-4">[4]</a></sup>. <br/><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle QSR={\frac {CFS}{S}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>Q</mi>
+<mi>S</mi>
+<mi>R</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>C</mi>
+<mi>F</mi>
+<mi>S</mi>
+</mrow>
+<mi>S</mi>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle QSR={\frac {CFS}{S}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle QSR={\frac {CFS}{S}}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4e6742e65b034e77aa25f0f90cb151e79814ef56" style="vertical-align: -2.005ex; width:14.043ex; height:5.509ex;"/></span></li>
+<li>Коэффициент денежного покрытия прибыли (<b>QIR</b>, <a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">Quick Income Ratio</span>). Этот метод предусматривает анализ отчёта о движении денежных средств, составленного косвенным методом. Объём поступившей <a href="/wiki/%D0%92%D1%8B%D1%80%D1%83%D1%87%D0%BA%D0%B0" title="Выручка">выручки</a> в деньгах определяется вычитанием <a href="/wiki/%D0%94%D0%B5%D0%B1%D0%B8%D1%82%D0%BE%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D0%B7%D0%B0%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Дебиторская задолженность">дебиторской задолженности</a> из начисленной выручки<sup class="reference" id="cite_ref-analiz_4-5"><a href="#cite_note-analiz-4">[4]</a></sup>. <br/><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle QIR={\frac {CFFO+Ip+Tp}{NI+Ie+Te+Dep}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>Q</mi>
+<mi>I</mi>
+<mi>R</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>C</mi>
+<mi>F</mi>
+<mi>F</mi>
+<mi>O</mi>
+<mo>+</mo>
+<mi>I</mi>
+<mi>p</mi>
+<mo>+</mo>
+<mi>T</mi>
+<mi>p</mi>
+</mrow>
+<mrow>
+<mi>N</mi>
+<mi>I</mi>
+<mo>+</mo>
+<mi>I</mi>
+<mi>e</mi>
+<mo>+</mo>
+<mi>T</mi>
+<mi>e</mi>
+<mo>+</mo>
+<mi>D</mi>
+<mi>e</mi>
+<mi>p</mi>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle QIR={\frac {CFFO+Ip+Tp}{NI+Ie+Te+Dep}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle QIR={\frac {CFFO+Ip+Tp}{NI+Ie+Te+Dep}}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/75a1918d058ac6f38c6bbc66a74b26ab3cb0ce81" style="vertical-align: -2.338ex; width:29.617ex; height:5.843ex;"/></span></li></ol>
+<p>Где:
+</p>
+<ul><li>CFFO — денежный поток от основной деятельности</li>
+<li>CFS — выручка поступившая</li>
+<li>S — выручка начисленная</li>
+<li>Ip — проценты уплаченные</li>
+<li>Тp — налоги уплаченные</li>
+<li>NI — чистая прибыль</li>
+<li>Ie — проценты начисленные</li>
+<li>Te — налоги начисленные</li>
+<li>Dep — <a href="/wiki/%D0%90%D0%BC%D0%BE%D1%80%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F_(%D0%B1%D1%83%D1%85%D0%B3%D0%B0%D0%BB%D1%82%D0%B5%D1%80%D0%B8%D1%8F)" title="Амортизация (бухгалтерия)">амортизация</a>.</li></ul>
+<h3><span id=".D0.9A.D0.BE.D1.8D.D1.84.D1.84.D0.B8.D1.86.D0.B8.D0.B5.D0.BD.D1.82.D1.8B_.D0.B4.D0.B5.D0.BD.D0.B5.D0.B6.D0.BD.D0.BE.D0.B3.D0.BE_.D0.BF.D0.BE.D0.BA.D1.80.D1.8B.D1.82.D0.B8.D1.8F_.D0.BA.D0.B0.D0.BF.D0.B8.D1.82.D0.B0.D0.BB.D1.8C.D0.BD.D1.8B.D1.85_.D0.B7.D0.B0.D1.82.D1.80.D0.B0.D1.82"></span><span class="mw-headline" id="Коэффициенты_денежного_покрытия_капитальных_затрат">Коэффициенты денежного покрытия капитальных затрат</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9E%D1%82%D1%87%D1%91%D1%82_%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2&amp;veaction=edit&amp;section=9" title="Редактировать раздел «Коэффициенты денежного покрытия капитальных затрат»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9E%D1%82%D1%87%D1%91%D1%82_%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2&amp;action=edit&amp;section=9" title="Редактировать код раздела «Коэффициенты денежного покрытия капитальных затрат»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Коэффициенты денежного покрытия капитальных затрат раскрывают инвестиционную политику компании, помогают оценить возможности компании в финансировании капитальных вложений в своё развитие. Эти коэффициенты отражают способность компании финансировать капитальные вложения без привлечения внешних источников<sup class="reference" id="cite_ref-analiz_4-6"><a href="#cite_note-analiz-4">[4]</a></sup><sup class="reference" id="cite_ref-analizbook_26-2"><a href="#cite_note-analizbook-26">[23]</a></sup>.
+</p>
+<ol><li>Коэффициент денежного покрытия капитальных затрат (<b>CER</b>, <a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">Capital Expenditures Ratio</span>) <br/><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle CER={\frac {CFFO-Dp}{ACO}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>C</mi>
+<mi>E</mi>
+<mi>R</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>C</mi>
+<mi>F</mi>
+<mi>F</mi>
+<mi>O</mi>
+<mo>−<!-- − --></mo>
+<mi>D</mi>
+<mi>p</mi>
+</mrow>
+<mrow>
+<mi>A</mi>
+<mi>C</mi>
+<mi>O</mi>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle CER={\frac {CFFO-Dp}{ACO}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle CER={\frac {CFFO-Dp}{ACO}}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9f618ef0c67cabb999b8dfb09491e3ce1b941cac" style="vertical-align: -2.005ex; width:22.196ex; height:5.509ex;"/></span></li>
+<li>Коэффициент инвестиционного притока (<b>IIR</b>, <a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">Investment Income Ratio</span>) <br/><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle IIR={\frac {CIFI-Dp}{CIFI+CIFF}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>I</mi>
+<mi>I</mi>
+<mi>R</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>C</mi>
+<mi>I</mi>
+<mi>F</mi>
+<mi>I</mi>
+<mo>−<!-- − --></mo>
+<mi>D</mi>
+<mi>p</mi>
+</mrow>
+<mrow>
+<mi>C</mi>
+<mi>I</mi>
+<mi>F</mi>
+<mi>I</mi>
+<mo>+</mo>
+<mi>C</mi>
+<mi>I</mi>
+<mi>F</mi>
+<mi>F</mi>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle IIR={\frac {CIFI-Dp}{CIFI+CIFF}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle IIR={\frac {CIFI-Dp}{CIFI+CIFF}}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/667a689d7a94b6f63c400b803dffa18cd5e9bfcf" style="vertical-align: -2.171ex; width:23.153ex; height:5.676ex;"/></span></li>
+<li>Коэффициент финансового притока (<b>FIR</b>, <a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">Financial Income Ratio</span>) <br/><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle FIR={\frac {CIFI}{CIFI+CIFF}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>F</mi>
+<mi>I</mi>
+<mi>R</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>C</mi>
+<mi>I</mi>
+<mi>F</mi>
+<mi>I</mi>
+</mrow>
+<mrow>
+<mi>C</mi>
+<mi>I</mi>
+<mi>F</mi>
+<mi>I</mi>
+<mo>+</mo>
+<mi>C</mi>
+<mi>I</mi>
+<mi>F</mi>
+<mi>F</mi>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle FIR={\frac {CIFI}{CIFI+CIFF}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle FIR={\frac {CIFI}{CIFI+CIFF}}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7743e6fbd2ed2ab263ebca8ca9ab4369eaadb894" style="vertical-align: -2.171ex; width:23.722ex; height:5.676ex;"/></span></li></ol>
+<p>Где:
+</p>
+<ul><li>CFFO — денежный поток от основной деятельности</li>
+<li>Dp — дивиденды выплаченные</li>
+<li>ACO — капитальные денежные расходы в активы других компаний</li>
+<li>CIFI — приток ДС от инвестиционной деятельности</li>
+<li>CIFF — приток ДС от финансовой деятельности.</li></ul>
+<h3><span id=".D0.9A.D0.BE.D1.8D.D1.84.D1.84.D0.B8.D1.86.D0.B8.D0.B5.D0.BD.D1.82.D1.8B_.D1.80.D0.B5.D0.BD.D1.82.D0.B0.D0.B1.D0.B5.D0.BB.D1.8C.D0.BD.D0.BE.D1.81.D1.82.D0.B8_.D0.B4.D0.B5.D0.BD.D0.B5.D0.B6.D0.BD.D1.8B.D1.85_.D0.BF.D0.BE.D1.82.D0.BE.D0.BA.D0.BE.D0.B2"></span><span class="mw-headline" id="Коэффициенты_рентабельности_денежных_потоков">Коэффициенты рентабельности денежных потоков</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9E%D1%82%D1%87%D1%91%D1%82_%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2&amp;veaction=edit&amp;section=10" title="Редактировать раздел «Коэффициенты рентабельности денежных потоков»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9E%D1%82%D1%87%D1%91%D1%82_%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2&amp;action=edit&amp;section=10" title="Редактировать код раздела «Коэффициенты рентабельности денежных потоков»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Коэффициенты рентабельности денежных потоков оценивают способность компании создавать денежные потоки. Эти коэффициенты отображают величину денежного потока от основной деятельности, приходящейся на объём инвестированных денежных средств, определяют связи между компанией и инвесторами. Чем выше значение данных коэффициентов, тем лучше<sup class="reference" id="cite_ref-analiz_4-7"><a href="#cite_note-analiz-4">[4]</a></sup><sup class="reference" id="cite_ref-analizbook_26-3"><a href="#cite_note-analizbook-26">[23]</a></sup>.
+</p>
+<ol><li>Коэффициент рентабельности активов по денежному потоку (<b>CROA</b>, <a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">Coefficient of Return On Assets</span>) <br/><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle CROA={\frac {CFFO+Ip+Tp}{TA}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>C</mi>
+<mi>R</mi>
+<mi>O</mi>
+<mi>A</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>C</mi>
+<mi>F</mi>
+<mi>F</mi>
+<mi>O</mi>
+<mo>+</mo>
+<mi>I</mi>
+<mi>p</mi>
+<mo>+</mo>
+<mi>T</mi>
+<mi>p</mi>
+</mrow>
+<mrow>
+<mi>T</mi>
+<mi>A</mi>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle CROA={\frac {CFFO+Ip+Tp}{TA}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle CROA={\frac {CFFO+Ip+Tp}{TA}}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5d57c22b06a40c1712509cfece103f073424457e" style="vertical-align: -2.005ex; width:28.83ex; height:5.509ex;"/></span></li>
+<li>Коэффициент рентабельности собственного капитала по денежному потоку (<b>CROE</b>, <a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">Coefficient of Return On Equity</span>) <br/><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle CROE={\frac {CFFO+Ip+Tp}{TE}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>C</mi>
+<mi>R</mi>
+<mi>O</mi>
+<mi>E</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>C</mi>
+<mi>F</mi>
+<mi>F</mi>
+<mi>O</mi>
+<mo>+</mo>
+<mi>I</mi>
+<mi>p</mi>
+<mo>+</mo>
+<mi>T</mi>
+<mi>p</mi>
+</mrow>
+<mrow>
+<mi>T</mi>
+<mi>E</mi>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle CROE={\frac {CFFO+Ip+Tp}{TE}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle CROE={\frac {CFFO+Ip+Tp}{TE}}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/01d10b12689404a6d38d1b2ddb4e66a1d264818e" style="vertical-align: -1.838ex; width:28.863ex; height:5.343ex;"/></span></li></ol>
+<p>Где:
+</p>
+<ul><li>CFFO — денежный поток от основной деятельности</li>
+<li>Ip — проценты уплаченные</li>
+<li>Тp — налоги уплаченные</li>
+<li>TA — среднее значение всех активов</li>
+<li>TE — среднее значение собственного капитала.</li></ul>
+<p>Данные коэффициенты рассчитываются в процентах<sup class="reference" id="cite_ref-analiz_4-8"><a href="#cite_note-analiz-4">[4]</a></sup>.
+</p>
+<h2><span id=".D0.A0.D0.B5.D0.B3.D0.B8.D0.BE.D0.BD.D0.B0.D0.BB.D1.8C.D0.BD.D0.BE.D0.B5_.D1.80.D0.B5.D0.B3.D1.83.D0.BB.D0.B8.D1.80.D0.BE.D0.B2.D0.B0.D0.BD.D0.B8.D0.B5_.D1.81.D0.BE.D1.81.D1.82.D0.B0.D0.B2.D0.BB.D0.B5.D0.BD.D0.B8.D1.8F_.D0.BE.D1.82.D1.87.D1.91.D1.82.D0.B0_.D0.BE_.D0.B4.D0.B2.D0.B8.D0.B6.D0.B5.D0.BD.D0.B8.D0.B8_.D0.B4.D0.B5.D0.BD.D0.B5.D0.B6.D0.BD.D1.8B.D1.85_.D1.81.D1.80.D0.B5.D0.B4.D1.81.D1.82.D0.B2"></span><span class="mw-headline" id="Региональное_регулирование_составления_отчёта_о_движении_денежных_средств">Региональное регулирование составления отчёта о движении денежных средств</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9E%D1%82%D1%87%D1%91%D1%82_%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2&amp;veaction=edit&amp;section=11" title="Редактировать раздел «Региональное регулирование составления отчёта о движении денежных средств»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9E%D1%82%D1%87%D1%91%D1%82_%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2&amp;action=edit&amp;section=11" title="Редактировать код раздела «Региональное регулирование составления отчёта о движении денежных средств»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id=".D0.A0.D0.BE.D1.81.D1.81.D0.B8.D1.8F"></span><span class="mw-headline" id="Россия">Россия</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9E%D1%82%D1%87%D1%91%D1%82_%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2&amp;veaction=edit&amp;section=12" title="Редактировать раздел «Россия»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9E%D1%82%D1%87%D1%91%D1%82_%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2&amp;action=edit&amp;section=12" title="Редактировать код раздела «Россия»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 155px">
+<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%9E%D1%82%D1%87%D0%B5%D1%82_%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2_%D0%BB%D0%B8%D1%81%D1%82_1.png" title="Лист 1"><img alt="Лист 1" class="mw-file-element" data-file-height="757" data-file-width="627" decoding="async" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/%D0%9E%D1%82%D1%87%D0%B5%D1%82_%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2_%D0%BB%D0%B8%D1%81%D1%82_1.png/99px-%D0%9E%D1%82%D1%87%D0%B5%D1%82_%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2_%D0%BB%D0%B8%D1%81%D1%82_1.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/%D0%9E%D1%82%D1%87%D0%B5%D1%82_%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2_%D0%BB%D0%B8%D1%81%D1%82_1.png/149px-%D0%9E%D1%82%D1%87%D0%B5%D1%82_%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2_%D0%BB%D0%B8%D1%81%D1%82_1.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/35/%D0%9E%D1%82%D1%87%D0%B5%D1%82_%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2_%D0%BB%D0%B8%D1%81%D1%82_1.png/199px-%D0%9E%D1%82%D1%87%D0%B5%D1%82_%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2_%D0%BB%D0%B8%D1%81%D1%82_1.png 2x" width="99"/></a></span></div>
+<div class="gallerytext">Лист 1</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%9E%D1%82%D1%87%D0%B5%D1%82_%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2_%D0%BB%D0%B8%D1%81%D1%82_2.png" title="Лист 2"><img alt="Лист 2" class="mw-file-element" data-file-height="793" data-file-width="623" decoding="async" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/%D0%9E%D1%82%D1%87%D0%B5%D1%82_%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2_%D0%BB%D0%B8%D1%81%D1%82_2.png/94px-%D0%9E%D1%82%D1%87%D0%B5%D1%82_%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2_%D0%BB%D0%B8%D1%81%D1%82_2.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/%D0%9E%D1%82%D1%87%D0%B5%D1%82_%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2_%D0%BB%D0%B8%D1%81%D1%82_2.png/141px-%D0%9E%D1%82%D1%87%D0%B5%D1%82_%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2_%D0%BB%D0%B8%D1%81%D1%82_2.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/50/%D0%9E%D1%82%D1%87%D0%B5%D1%82_%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2_%D0%BB%D0%B8%D1%81%D1%82_2.png/188px-%D0%9E%D1%82%D1%87%D0%B5%D1%82_%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2_%D0%BB%D0%B8%D1%81%D1%82_2.png 2x" width="94"/></a></span></div>
+<div class="gallerytext">Лист 2</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%9E%D1%82%D1%87%D0%B5%D1%82_%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2_%D0%BB%D0%B8%D1%81%D1%82_3.png" title="Лист 3"><img alt="Лист 3" class="mw-file-element" data-file-height="527" data-file-width="628" decoding="async" height="101" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/25/%D0%9E%D1%82%D1%87%D0%B5%D1%82_%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2_%D0%BB%D0%B8%D1%81%D1%82_3.png/120px-%D0%9E%D1%82%D1%87%D0%B5%D1%82_%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2_%D0%BB%D0%B8%D1%81%D1%82_3.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/25/%D0%9E%D1%82%D1%87%D0%B5%D1%82_%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2_%D0%BB%D0%B8%D1%81%D1%82_3.png/180px-%D0%9E%D1%82%D1%87%D0%B5%D1%82_%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2_%D0%BB%D0%B8%D1%81%D1%82_3.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/25/%D0%9E%D1%82%D1%87%D0%B5%D1%82_%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2_%D0%BB%D0%B8%D1%81%D1%82_3.png/240px-%D0%9E%D1%82%D1%87%D0%B5%D1%82_%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2_%D0%BB%D0%B8%D1%81%D1%82_3.png 2x" width="120"/></a></span></div>
+<div class="gallerytext">Лист 3</div>
+</li>
+</ul>
+<p>Отчёт о движении денежных средств — один из основных бухгалтерских отчётов. Отчёт составляется по утверждённой Форме № 4 (код формы по ОКУД 0710004). В отчёте формируются сведения о движении денежных средств организации в <a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D1%83%D0%B1%D0%BB%D1%8C" title="Российский рубль">валюте России</a> и в <a href="/wiki/%D0%92%D0%B0%D0%BB%D1%8E%D1%82%D0%B0" title="Валюта">иностранной валюте</a>. Данные о движении денежных средств приводятся за отчётный и предыдущий год. Отчёт формируется прямым методом (поступление и направление денежных средств приводятся в разрезе текущей, инвестиционной и финансовой деятельности)<sup class="reference" id="cite_ref-ippnou_12-5"><a href="#cite_note-ippnou-12">[10]</a></sup><sup class="reference" id="cite_ref-russa_16-1"><a href="#cite_note-russa-16">[14]</a></sup><sup class="reference" id="cite_ref-27"><a href="#cite_note-27">[24]</a></sup>. Форма российского отчёта о движении денежных средств не предусматривает использования косвенного метода. По российским правилам не требуется приводить данные о денежных эквивалентах. Также отличие заключается в том, что определения операционной, инвестиционной и финансовой деятельности в МСФО и российском бухгалтерском учёте не идентичны<sup class="reference" id="cite_ref-28"><a href="#cite_note-28">[25]</a></sup>.
+</p>
+<h3><span id=".D0.A3.D0.BA.D1.80.D0.B0.D0.B8.D0.BD.D0.B0"></span><span class="mw-headline" id="Украина">Украина</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9E%D1%82%D1%87%D1%91%D1%82_%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2&amp;veaction=edit&amp;section=13" title="Редактировать раздел «Украина»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9E%D1%82%D1%87%D1%91%D1%82_%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2&amp;action=edit&amp;section=13" title="Редактировать код раздела «Украина»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Отчёт о движении денежных средств — один из основных бухгалтерских отчётов. Отчёт составляется по утверждённой Форме № 3 (код формы по ДКУД 1801004). В отчёте формируются сведения о движении денежных средств организации в национальной валюте Украины и в <a href="/wiki/%D0%92%D0%B0%D0%BB%D1%8E%D1%82%D0%B0" title="Валюта">иностранной валюте</a>. Данные о движении денежных средств приводятся за отчётный и предыдущий год. Отчёт формируется прямым методом (поступление и направление денежных средств приводятся в разрезе текущей, инвестиционной и финансовой деятельности)<sup class="reference" id="cite_ref-ukra_17-1"><a href="#cite_note-ukra-17">[15]</a></sup>.
+</p>
+<h3><span id=".D0.A1.D0.A8.D0.90"></span><span class="mw-headline" id="США">США</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9E%D1%82%D1%87%D1%91%D1%82_%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2&amp;veaction=edit&amp;section=14" title="Редактировать раздел «США»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9E%D1%82%D1%87%D1%91%D1%82_%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2&amp;action=edit&amp;section=14" title="Редактировать код раздела «США»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Правила <a href="/wiki/GAAP" title="GAAP">US GAAP</a> и МСФО в отношении составления отчёта о движении денежных средств во многом схожи, но имеется ряд различий:
+</p>
+<ul><li>Отчёт о движении денежных средств в соответствии с МСФО описывает движение денежных средств и денежных эквивалентов, а в соответствии с GAAP отчёт может описывать движение денежных средств или денежных эквивалентов<sup class="reference" id="cite_ref-29"><a href="#cite_note-29">[26]</a></sup>.</li>
+<li>В МСФО разрешается относить уплаченные проценты как на операционную, так и на финансовую деятельность, когда GAAP предусматривает отношение процентов исключительно на операционную деятельность<sup class="reference" id="cite_ref-30"><a href="#cite_note-30">[27]</a></sup>.</li>
+<li>GAAP регламентирует, что если отчёт о движении денежных средств представлен компанией прямым методом, то в дополнениях необходимо также представить отчёт, созданный косвенным методом<sup class="reference" id="cite_ref-31"><a href="#cite_note-31">[28]</a></sup><sup class="reference" id="cite_ref-32"><a href="#cite_note-32">[29]</a></sup>.</li>
+<li>В МСФО <a href="/wiki/%D0%9E%D0%B2%D0%B5%D1%80%D0%B4%D1%80%D0%B0%D1%84%D1%82" title="Овердрафт">банковские овердрафты</a> отражаются в составе денежных средств, когда в GAAP они исключены из определения денежных средств.</li>
+<li>GAAP дополнительно требует раскрытие существенных неденежных операций<sup class="reference" id="cite_ref-33"><a href="#cite_note-33">[30]</a></sup>.</li></ul>
+<h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Примечания">Примечания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9E%D1%82%D1%87%D1%91%D1%82_%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2&amp;veaction=edit&amp;section=15" title="Редактировать раздел «Примечания»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9E%D1%82%D1%87%D1%91%D1%82_%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2&amp;action=edit&amp;section=15" title="Редактировать код раздела «Примечания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">Здесь и дальше в скобках отображены отрицательные значения.</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text">Здесь отображена приблизительная и неполная классификация денежных потоков с точки зрения МСФО. Классификация денежных потоков зависит от характера деятельности, учётной политики компании и прочих факторов.</span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><a href="#cite_ref-24">↑</a></span> <span class="reference-text">Здесь предоставлен реальный отчёт о движении денежных средств компании <a href="/wiki/Citigroup" title="Citigroup">Citigroup</a>.</span>
+</li>
+</ol></div></div>
+<h2><span id=".D0.98.D1.81.D1.82.D0.BE.D1.87.D0.BD.D0.B8.D0.BA.D0.B8"></span><span class="mw-headline" id="Источники">Источники</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9E%D1%82%D1%87%D1%91%D1%82_%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2&amp;veaction=edit&amp;section=16" title="Редактировать раздел «Источники»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9E%D1%82%D1%87%D1%91%D1%82_%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2&amp;action=edit&amp;section=16" title="Редактировать код раздела «Источники»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-Watanabe-1"><span class="mw-cite-backlink">↑ <a href="#cite_ref-Watanabe_1-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-Watanabe_1-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>Watanabe, Izumi.</i> <a class="external autonumber" href="http://www.osaka-ue.ac.jp/gakkai/pdf/ronshu/2006/5705_ronko_watanabe.pdf" rel="nofollow">[1]</a> = The evolution of Income Accounting in Eighteenth and Nineteenth Century Britain. — 57. — Осака: <a class="new" href="/w/index.php?title=Osaka_University_of_Economics&amp;action=edit&amp;redlink=1" title="Osaka University of Economics (страница отсутствует)">Osaka University of Economics</a>, 2007. — С. 27—30. — (5). — <span class="nowrap">2000 экз.</span> — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9785904522506">ISBN 978-5-904522-50-6</a>.</span></span>
+</li>
+<li id="cite_note-history-2"><span class="mw-cite-backlink">↑ <a href="#cite_ref-history_2-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-history_2-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-history_2-2"><sup><i><b>3</b></i></sup></a></span> <span class="reference-text"><span class="citation"><i>Бухгалтер и Закон.</i> <a class="external text" href="http://search.ligazakon.ua/l_doc2.nsf/link1/BZ000943.html" rel="nofollow">Отчёт о движении денежных средств: от возникновения до особенностей составления</a><span class="hidden-ref" style="display:none"> <small class="ref-info" style="cursor:help;" title="на русском языке">(рус.)</small></span> // БУХГАЛТЕРСКИЕ БУДНИ : Аналитический еженедельник. — 01.02.2010 – 07.02.2010. — <span class="nowrap">Вып. № 05 (36)</span>.</span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">
+<span class="citation"><span lang="ru"><a class="external text" href="http://www.ucc.kz/index.php?page=istoriya-buhgalterskogo-ucheta" rel="nofollow">История бухгалтерского учета</a></span><span class="hidden-ref" style="display:none;">  <span class="ref-info" style="cursor:help;" title="на русском языке">(рус.)</span></span>. <a class="external free" href="http://www.ucc.kz/.+Дата" rel="nofollow">http://www.ucc.kz/.+Дата</a> обращения: 21 марта 2011. <a class="external text" href="https://www.webcitation.org/652MpNFg2?url=http://www.ucc.kz/index.php?page=istoriya-buhgalterskogo-ucheta" rel="nofollow">Архивировано</a> 28 января 2012 года.</span></span>
+</li>
+<li id="cite_note-analiz-4"><span class="mw-cite-backlink">↑ <a href="#cite_ref-analiz_4-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-analiz_4-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-analiz_4-2"><sup><i><b>3</b></i></sup></a> <a href="#cite_ref-analiz_4-3"><sup><i><b>4</b></i></sup></a> <a href="#cite_ref-analiz_4-4"><sup><i><b>5</b></i></sup></a> <a href="#cite_ref-analiz_4-5"><sup><i><b>6</b></i></sup></a> <a href="#cite_ref-analiz_4-6"><sup><i><b>7</b></i></sup></a> <a href="#cite_ref-analiz_4-7"><sup><i><b>8</b></i></sup></a> <a href="#cite_ref-analiz_4-8"><sup><i><b>9</b></i></sup></a></span> <span class="reference-text">
+<span class="citation"><i>Оксана Езерская.</i> <span lang="ru"><a class="external text" href="http://www.rurik.com.ua/documents/analytic_articles/o_4em_mol4it_denegnii_potok.pdf" rel="nofollow">О чем молчит денежный поток</a></span><span class="hidden-ref" style="display:none;">  <span class="ref-info" style="cursor:help;" title="на русском языке">(рус.)</span></span>. СТРАТЕГИИ ФИНАНСОВ. Дата обращения: 21 марта 2011. <a class="external text" href="https://www.webcitation.org/652My3hfZ?url=http://www.rurik.com.ua/documents/analytic_articles/o_4em_mol4it_denegnii_potok.pdf" rel="nofollow">Архивировано</a> 28 января 2012 года.</span></span>
+</li>
+<li id="cite_note-elitarium-6"><span class="mw-cite-backlink">↑ <a href="#cite_ref-elitarium_6-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-elitarium_6-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-elitarium_6-2"><sup><i><b>3</b></i></sup></a></span> <span class="reference-text"><span class="citation"><i>Игорь Ярославович Лукaceвич.</i> <span lang="ru"><a class="external text" href="http://www.elitarium.ru/2009/10/02/otchet_denezhnykh_sredstv.html" rel="nofollow">Два метода формирования отчёта о движении денежных средств</a></span><span class="hidden-ref" style="display:none;">  <span class="ref-info" style="cursor:help;" title="на русском языке">(рус.)</span></span>. Некоммерческое  партнерство Центр дистанционного образования «Элитариум» (2 октября 2009). Дата обращения: 21 марта 2011. <a class="external text" href="https://web.archive.org/web/20120101213057/http://www.elitarium.ru/2009/10/02/otchet_denezhnykh_sredstv.html" rel="nofollow">Архивировано</a> 1 января 2012 года.</span></span>
+</li>
+<li id="cite_note-helfert-a-7"><span class="mw-cite-backlink"><a href="#cite_ref-helfert-a_7-0">↑</a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343" id="CITEREFHelfert2001"><i><a class="extiw" href="https://en.wikipedia.org/wiki/Erich_A._Helfert" title="en:Erich A. Helfert"><span title="Erich A. Helfert — версия статьи «Erich A. Helfert» на английском языке">Helfert, Erich A.</span></a><span class="noprint" style="font-style:normal; font-weight:normal;"> <span style="display:inline-block; font-size:80%; position:relative;"><span style="font-size:117.6%; margin-left:-0.43em; position:relative; top:0.28em;"> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></span><span class="link-ru metadata" style="margin-left:-0.43em; position:absolute; left:0; z-index:1; margin-top:-0.35em;"><span style="visibility:hidden; margin-right:0.099em;"> (</span><span data-interwiki-article="Erich A. Helfert" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=Erich_A._Helfert&amp;action=edit&amp;redlink=1" title="Erich A. Helfert (страница отсутствует)">рус.</a></span></span></span>.</span></i> <span data-wikidata-qualifier-id="P248">The Nature of Financial Statements: The Cash Flow Statement</span> // <a class="external text" href="https://archive.org/details/financialanalysi00helf_497" rel="nofollow">Financial Analysis - Tools and Techniques - A Guide for Managers</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small>. — <a href="/wiki/S%26P_Global" title="S&amp;P Global">McGraw-Hill Education</a>, 2001. — P. <a class="external text" href="https://archive.org/details/financialanalysi00helf_497/page/n66" rel="nofollow">42</a>. — <a class="mw-redirect" href="/wiki/Doi" title="Doi">doi</a>:<a class="external text" href="https://dx.doi.org/10.1036%2F0071395415" rel="nofollow">10.1036/0071395415</a>.</span></span>
+</li>
+<li id="cite_note-PWC-8"><span class="mw-cite-backlink">↑ <a href="#cite_ref-PWC_8-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-PWC_8-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-PWC_8-2"><sup><i><b>3</b></i></sup></a></span> <span class="reference-text"><span class="citation"><i>Оксана Езерская.</i> <span lang="ru"><a class="external text" href="https://www.webcitation.org/658F8MBSv?url=http://www.banks2ifrs.ru/ru/cgi-bin/get.cgi?file=2169" rel="nofollow">Учебное пособие по МСФО (IAS) 7 «Отчёты о движении денежных средств»</a></span><span class="hidden-ref" style="display:none;">  <span class="ref-info" style="cursor:help;" title="на русском языке">(рус.)</span></span>. www.banks2ifrs.ru. Дата обращения: 28 марта 2011. Архивировано из <a class="external text" href="http://www.banks2ifrs.ru/ru/cgi-bin/get.cgi?file=2169" rel="nofollow">оригинала</a> 1 февраля 2012 года.</span></span>
+</li>
+<li id="cite_note-6para-9"><span class="mw-cite-backlink">↑ <a href="#cite_ref-6para_9-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-6para_9-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-6para_9-2"><sup><i><b>3</b></i></sup></a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>Аскери О., Тарусин В., Ходырев Л.</i> Международные стандарты финансовой отчётности (International Accounting Standarts) / редколлегия: Перевезенев С., Сумин К.. — 2006. — <abbr title="Москва">М.</abbr>: <a class="new" href="/w/index.php?title=%D0%90%D0%BA%D1%81%D0%B5%D1%80%D0%B8_(%D0%B8%D0%B7%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE)&amp;action=edit&amp;redlink=1" title="Аксери (издательство) (страница отсутствует)">Аскери</a>, <a class="mw-redirect" href="/wiki/2006" title="2006">2006</a>. — 1060 p. — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/5865670727">ISBN 5-86567-072-7</a>.</span>, <a class="mw-redirect" href="/wiki/International_Accounting_Standards" title="International Accounting Standards">IAS</a> 7 «Отчёт о движении денежных средств», 6 параграф.</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>Аскери О., Тарусин В., Ходырев Л.</i> Международные стандарты финансовой отчётности (International Accounting Standarts) / редколлегия: Перевезенев С., Сумин К.. — 2006. — <abbr title="Москва">М.</abbr>: <a class="new" href="/w/index.php?title=%D0%90%D0%BA%D1%81%D0%B5%D1%80%D0%B8_(%D0%B8%D0%B7%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE)&amp;action=edit&amp;redlink=1" title="Аксери (издательство) (страница отсутствует)">Аскери</a>, <a class="mw-redirect" href="/wiki/2006" title="2006">2006</a>. — 1060 p. — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/5865670727">ISBN 5-86567-072-7</a>.</span>, <a class="mw-redirect" href="/wiki/International_Accounting_Standards" title="International Accounting Standards">IAS</a> 7 «Отчёт о движении денежных средств», 10 параграф.</span>
+</li>
+<li id="cite_note-ippnou-12"><span class="mw-cite-backlink">↑ <a href="#cite_ref-ippnou_12-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-ippnou_12-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-ippnou_12-2"><sup><i><b>3</b></i></sup></a> <a href="#cite_ref-ippnou_12-3"><sup><i><b>4</b></i></sup></a> <a href="#cite_ref-ippnou_12-4"><sup><i><b>5</b></i></sup></a> <a href="#cite_ref-ippnou_12-5"><sup><i><b>6</b></i></sup></a></span> <span class="reference-text"><span class="citation"><i>Генералова Наталия Викторовна.</i> <span lang="ru"><a class="external text" href="http://www.ippnou.ru/article.php?idarticle=002608" rel="nofollow">МСФО (IAS) 7 «Отчёт о движении денежных средств»</a></span><span class="hidden-ref" style="display:none;">  <span class="ref-info" style="cursor:help;" title="на русском языке">(рус.)</span></span>. Институт проблем предпринимательства (3 октября 2006). Дата обращения: 21 марта 2011. <a class="external text" href="https://web.archive.org/web/20111108050427/http://www.ippnou.ru/article.php?idarticle=002608" rel="nofollow">Архивировано</a> 8 ноября 2011 года.</span></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>Аскери О., Тарусин В., Ходырев Л.</i> Международные стандарты финансовой отчётности (International Accounting Standarts) / редколлегия: Перевезенев С., Сумин К.. — 2006. — <abbr title="Москва">М.</abbr>: <a class="new" href="/w/index.php?title=%D0%90%D0%BA%D1%81%D0%B5%D1%80%D0%B8_(%D0%B8%D0%B7%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE)&amp;action=edit&amp;redlink=1" title="Аксери (издательство) (страница отсутствует)">Аскери</a>, <a class="mw-redirect" href="/wiki/2006" title="2006">2006</a>. — 1060 p. — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/5865670727">ISBN 5-86567-072-7</a>.</span>, <a class="mw-redirect" href="/wiki/International_Accounting_Standards" title="International Accounting Standards">IAS</a> 7 «Отчёт о движении денежных средств», 14 параграф.</span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>Аскери О., Тарусин В., Ходырев Л.</i> Международные стандарты финансовой отчётности (International Accounting Standarts) / редколлегия: Перевезенев С., Сумин К.. — 2006. — <abbr title="Москва">М.</abbr>: <a class="new" href="/w/index.php?title=%D0%90%D0%BA%D1%81%D0%B5%D1%80%D0%B8_(%D0%B8%D0%B7%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE)&amp;action=edit&amp;redlink=1" title="Аксери (издательство) (страница отсутствует)">Аскери</a>, <a class="mw-redirect" href="/wiki/2006" title="2006">2006</a>. — 1060 p. — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/5865670727">ISBN 5-86567-072-7</a>.</span>, <a class="mw-redirect" href="/wiki/International_Accounting_Standards" title="International Accounting Standards">IAS</a> 7 «Отчёт о движении денежных средств», 16 параграф.</span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>Аскери О., Тарусин В., Ходырев Л.</i> Международные стандарты финансовой отчётности (International Accounting Standarts) / редколлегия: Перевезенев С., Сумин К.. — 2006. — <abbr title="Москва">М.</abbr>: <a class="new" href="/w/index.php?title=%D0%90%D0%BA%D1%81%D0%B5%D1%80%D0%B8_(%D0%B8%D0%B7%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE)&amp;action=edit&amp;redlink=1" title="Аксери (издательство) (страница отсутствует)">Аскери</a>, <a class="mw-redirect" href="/wiki/2006" title="2006">2006</a>. — 1060 p. — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/5865670727">ISBN 5-86567-072-7</a>.</span>, <a class="mw-redirect" href="/wiki/International_Accounting_Standards" title="International Accounting Standards">IAS</a> 7 «Отчёт о движении денежных средств», 17 параграф.</span>
+</li>
+<li id="cite_note-russa-16"><span class="mw-cite-backlink">↑ <a href="#cite_ref-russa_16-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-russa_16-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text">Приказ <a href="/wiki/%D0%9C%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D0%B5%D1%80%D1%81%D1%82%D0%B2%D0%BE_%D1%84%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8" title="Министерство финансов Российской Федерации">Минфина РФ</a> «Указания о порядке составления и представления бухгалтерской отчётности» от 22.07.03 г. № 67н, п.15.</span>
+</li>
+<li id="cite_note-ukra-17"><span class="mw-cite-backlink">↑ <a href="#cite_ref-ukra_17-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-ukra_17-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i><a href="/wiki/%D0%9C%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D0%B5%D1%80%D1%81%D1%82%D0%B2%D0%BE_%D1%84%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D1%8B" title="Министерство финансов Украины">Министерство финансов Украины</a>.</i> <span data-wikidata-qualifier-id="P248">Положення (стандарт) бухгалтерського обліку 4 «Звіт про рух грошових коштів»</span> // 34 положення (стандарти) бухгалтерського обліку / Пашутинський Є. К. — <abbr title="Киев">К.</abbr>: <a class="new" href="/w/index.php?title=%D0%9A%D0%9D%D0%A2_(%D0%B8%D0%B7%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE)&amp;action=edit&amp;redlink=1" title="КНТ (издательство) (страница отсутствует)">КНТ</a>, <a class="mw-redirect" href="/wiki/2009" title="2009">2009</a>. — 320 с. — <span class="nowrap">1000 экз.</span> — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9789663735535">ISBN 978-966-373-553-5</a>.</span></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><a href="#cite_ref-18">↑</a></span> <span class="reference-text">Документ для обсуждения «Предварительная точка зрения на предоставление финансовой отчётности», <a href="/wiki/%D0%A1%D0%BE%D0%B2%D0%B5%D1%82_%D0%BF%D0%BE_%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%BC_%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D0%B0%D0%BC_%D1%84%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D0%BE%D0%B9_%D0%BE%D1%82%D1%87%D1%91%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8" title="Совет по Международным стандартам финансовой отчётности">Совет по МСФО</a>, Октябрь 2008 г.</span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><a href="#cite_ref-19">↑</a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i><a href="/wiki/Ernst_%26_Young" title="Ernst &amp; Young">Ernst &amp; Young</a>.</i> Применение МСФО = Generally Accepted Accounting Practice under International Financial Reporting Standards / Янина Петрова. — г. Чехов: Альпина Бизнес Букс, 2010. — Т. 3. — С. 2829. — 3301 с. — <span class="nowrap">2000 экз.</span> — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9785904522506">ISBN 978-5-904522-50-6</a>.</span></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><a href="#cite_ref-20">↑</a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i><a href="/wiki/Ernst_%26_Young" title="Ernst &amp; Young">Ernst &amp; Young</a>.</i> Применение МСФО = Generally Accepted Accounting Practice under International Financial Reporting Standards / Янина Петрова. — г. Чехов: Альпина Бизнес Букс, 2010. — Т. 3. — С. 2850. — 3301 с. — <span class="nowrap">2000 экз.</span> — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9785904522506">ISBN 978-5-904522-50-6</a>.</span></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><a href="#cite_ref-21">↑</a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>Аскери О., Тарусин В., Ходырев Л.</i> Международные стандарты финансовой отчётности (International Accounting Standarts) / редколлегия: Перевезенев С., Сумин К.. — 2006. — <abbr title="Москва">М.</abbr>: <a class="new" href="/w/index.php?title=%D0%90%D0%BA%D1%81%D0%B5%D1%80%D0%B8_(%D0%B8%D0%B7%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE)&amp;action=edit&amp;redlink=1" title="Аксери (издательство) (страница отсутствует)">Аскери</a>, <a class="mw-redirect" href="/wiki/2006" title="2006">2006</a>. — 1060 p. — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/5865670727">ISBN 5-86567-072-7</a>.</span>, <a class="mw-redirect" href="/wiki/International_Accounting_Standards" title="International Accounting Standards">IAS</a> 7 «Отчёт о движении денежных средств», 18 параграф.</span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><a href="#cite_ref-22">↑</a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>Аскери О., Тарусин В., Ходырев Л.</i> Международные стандарты финансовой отчётности (International Accounting Standarts) / редколлегия: Перевезенев С., Сумин К.. — 2006. — <abbr title="Москва">М.</abbr>: <a class="new" href="/w/index.php?title=%D0%90%D0%BA%D1%81%D0%B5%D1%80%D0%B8_(%D0%B8%D0%B7%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE)&amp;action=edit&amp;redlink=1" title="Аксери (издательство) (страница отсутствует)">Аскери</a>, <a class="mw-redirect" href="/wiki/2006" title="2006">2006</a>. — 1060 p. — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/5865670727">ISBN 5-86567-072-7</a>.</span>, <a class="mw-redirect" href="/wiki/International_Accounting_Standards" title="International Accounting Standards">IAS</a> 7 «Отчёт о движении денежных средств», 19 параграф.</span>
+</li>
+<li id="cite_note-косвенный_метод-23"><span class="mw-cite-backlink">↑ <a href="#cite_ref-косвенный_метод_23-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-косвенный_метод_23-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-косвенный_метод_23-2"><sup><i><b>3</b></i></sup></a> <a href="#cite_ref-косвенный_метод_23-3"><sup><i><b>4</b></i></sup></a> <a href="#cite_ref-косвенный_метод_23-4"><sup><i><b>5</b></i></sup></a> <a href="#cite_ref-косвенный_метод_23-5"><sup><i><b>6</b></i></sup></a></span> <span class="reference-text"><span class="citation"><i>Л.В. Шуклов.</i> <span lang="ru"><a class="external text" href="http://gaap.ru/articles/49108/" rel="nofollow">Проблемы составления отчёта о движении денежных средств</a></span><span class="hidden-ref" style="display:none;">  <span class="ref-info" style="cursor:help;" title="на русском языке">(рус.)</span></span>. GAAP.ru (16 ноября 2007). Дата обращения: 22 марта 2011. <a class="external text" href="https://web.archive.org/web/20111121192912/http://gaap.ru/articles/49108/" rel="nofollow">Архивировано</a> 21 ноября 2011 года.</span></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><a href="#cite_ref-25">↑</a></span> <span class="reference-text"><span class="citation"><i><a href="/wiki/Citigroup" title="Citigroup">Citigroup</a>.</i> <span lang="ru"><a class="external text" href="https://www.webcitation.org/652MxPOP9?url=http://www.citigroup.com/citi/fin/data/ar07c_en.pdf?ieNocache=109" rel="nofollow">Annual Reports 2007 [[Citigroup]]</a></span><span class="hidden-ref" style="display:none;">  <span class="ref-info" style="cursor:help;" title="на русском языке">(рус.)</span></span>. <a class="external free" href="http://www.citigroup.com/.+Дата" rel="nofollow">http://www.citigroup.com/.+Дата</a> обращения: 22 марта 2011. Архивировано из <a class="external text" href="http://www.citigroup.com/citi/fin/data/ar07c_en.pdf?ieNocache=109" rel="nofollow">оригинала</a> 28 января 2012 года.</span></span>
+</li>
+<li id="cite_note-analizbook-26"><span class="mw-cite-backlink">↑ <a href="#cite_ref-analizbook_26-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-analizbook_26-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-analizbook_26-2"><sup><i><b>3</b></i></sup></a> <a href="#cite_ref-analizbook_26-3"><sup><i><b>4</b></i></sup></a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>Бригхэм Ю., Эрхардт М.</i> <span data-wikidata-qualifier-id="P248">Анализ финансовой отчётности</span> // Финансовый менеджмент = Financial management. Theory and Practice. — 10-е изд./Пер. с англ. под. ред. к.э.н. Е. А. Дорофеева. — <abbr title="Санкт-Петербург">СПб.</abbr>: Питер, 2007. — Т. 9. — 960 с. — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/5947235374">ISBN 5-94723-537-4</a>.</span></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><a href="#cite_ref-27">↑</a></span> <span class="reference-text"><span class="citation"><i>Л. П. Фомичева.</i> <span lang="ru"><a class="external text" href="http://www.audit-it.ru/articles/account/reporting/a2/41129.html" rel="nofollow">Отчёт о движении денежных средств (форма № 4): комментарий по заполнения</a></span><span class="hidden-ref" style="display:none;">  <span class="ref-info" style="cursor:help;" title="на русском языке">(рус.)</span></span>. «Консультант» № 4/2004 (2 марта 2004). Дата обращения: 21 марта 2011. <a class="external text" href="https://web.archive.org/web/20130125224245/http://www.audit-it.ru/articles/account/reporting/a2/41129.html" rel="nofollow">Архивировано</a> 25 января 2013 года.</span></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><a href="#cite_ref-28">↑</a></span> <span class="reference-text"><span class="citation"><i>Модеров Сергей Владимирович.</i> <span lang="ru"><a class="external text" href="https://web.archive.org/web/20120426213129/http://www.strategic-line.ru/index.files/Page55.htm" rel="nofollow">Составление отчёта о движении денежных средств в соответствии с МСФО</a></span><span class="hidden-ref" style="display:none;">  <span class="ref-info" style="cursor:help;" title="на русском языке">(рус.)</span></span>. Журнал «Финансовый директор» №6(24) июнь 2004 года (4 июня 2004). Дата обращения: 25 марта 2011. Архивировано из <a class="external text" href="http://www.strategic-line.ru/index.files/Page55.htm" rel="nofollow">оригинала</a> 26 апреля 2012 года.</span></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><a href="#cite_ref-29">↑</a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343" id="CITEREFEpstein2007"><i>Epstein, Barry J.; Eva K. Jermakowicz.</i> Interpretation and Application of International Financial Reporting Standards <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small>. — <a href="/wiki/John_Wiley_%26_Sons" title="John Wiley &amp; Sons">John Wiley &amp; Sons</a>, 2007. — P. 91. — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9780471798231">ISBN 9780471798231</a>.</span></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><a href="#cite_ref-30">↑</a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343" id="CITEREFEpstein2007"><i>Epstein, Barry J.; Eva K. Jermakowicz.</i> Interpretation and Application of International Financial Reporting Standards <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small>. — <a href="/wiki/John_Wiley_%26_Sons" title="John Wiley &amp; Sons">John Wiley &amp; Sons</a>, 2007. — P. 93. — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9780471798231">ISBN 9780471798231</a>.</span></span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><a href="#cite_ref-31">↑</a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343">US GAAP (FAS 95). — <a class="extiw" href="https://en.wikipedia.org/wiki/IASC" title="en:IASC"><span title="IASC — версия статьи «IASC» на английском языке">IASC</span></a><span class="noprint" style="font-style:normal; font-weight:normal;"> <span style="display:inline-block; font-size:80%; position:relative;"><span style="font-size:117.6%; margin-left:-0.43em; position:relative; top:0.28em;"> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></span><span class="link-ru metadata" style="margin-left:-0.43em; position:absolute; left:0; z-index:1; margin-top:-0.35em;"><span style="visibility:hidden; margin-right:0.099em;"> (</span><span data-interwiki-article="IASC" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=IASC&amp;action=edit&amp;redlink=1" title="IASC (страница отсутствует)">рус.</a></span></span></span></span>, 2000. — С. 126.</span></span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><a href="#cite_ref-32">↑</a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343">US GAAP (CON 5-6). — <a class="extiw" href="https://en.wikipedia.org/wiki/IASC" title="en:IASC"><span title="IASC — версия статьи «IASC» на английском языке">IASC</span></a><span class="noprint" style="font-style:normal; font-weight:normal;"> <span style="display:inline-block; font-size:80%; position:relative;"><span style="font-size:117.6%; margin-left:-0.43em; position:relative; top:0.28em;"> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></span><span class="link-ru metadata" style="margin-left:-0.43em; position:absolute; left:0; z-index:1; margin-top:-0.35em;"><span style="visibility:hidden; margin-right:0.099em;"> (</span><span data-interwiki-article="IASC" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=IASC&amp;action=edit&amp;redlink=1" title="IASC (страница отсутствует)">рус.</a></span></span></span></span>, 2000. — С. 126.</span></span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><a href="#cite_ref-33">↑</a></span> <span class="reference-text"><span class="citation"><i>Каневский Сергей.</i> <span lang="ru"><a class="external text" href="http://www.intalev.ua/index.php?id=24031" rel="nofollow">Сравнительный анализ подготовки финансовой отчётности по стандартам МСФО и ГААП США</a></span><span class="hidden-ref" style="display:none;">  <span class="ref-info" style="cursor:help;" title="на русском языке">(рус.)</span></span>. FD.ru. Дата обращения: 21 марта 2011. <a class="external text" href="https://archive.today/20130419035112/http://www.intalev.ua/index.php?id=24031" rel="nofollow">Архивировано</a> 19 апреля 2013 года.</span></span>
+</li>
+</ol></div></div>
+<table class="mbox-Хорошая_статья plainlinks metadata ambox ambox-good" id="ga-message" role="presentation" style="margin-top:1em"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D1%85_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9" title="Википедия:Список хороших статей"><img alt="✰" class="mw-file-element" data-file-height="24" data-file-width="24" decoding="async" height="24" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Blue_star_boxed.svg/24px-Blue_star_boxed.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Blue_star_boxed.svg/36px-Blue_star_boxed.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Blue_star_boxed.svg/48px-Blue_star_boxed.svg.png 2x" width="24"/></a></span></div></td><td class="mbox-text"><div class="mbox-text-div">Эта статья входит в число <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Википедия:Хорошие статьи">хороших статей</a> русскоязычного раздела Википедии.</div><div class="mbox-textsmall-div hide-when-compact" style="font-size:85%"></div></td></tr></tbody></table></div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> -->
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Отчёт_о_движении_денежных_средств&amp;oldid=123194079">https://ru.wikipedia.org/w/index.php?title=Отчёт_о_движении_денежных_средств&amp;oldid=123194079</a></div></div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%91%D1%83%D1%85%D0%B3%D0%B0%D0%BB%D1%82%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D1%83%D1%87%D1%91%D1%82" title="Категория:Бухгалтерский учёт">Бухгалтерский учёт</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A4%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BE%D1%82%D1%87%D1%91%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Категория:Финансовая отчётность">Финансовая отчётность</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%94%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2" title="Категория:Движение денежных средств">Движение денежных средств</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D0%B8%D1%82%D1%8C_webcitation-%D0%B0%D1%80%D1%85%D0%B8%D0%B2:_deadlink_no)" title="Категория:Википедия:Cite web (заменить webcitation-архив: deadlink no)">Википедия:Cite web (заменить webcitation-архив: deadlink no)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D0%B8%D1%82%D1%8C_webcitation-%D0%B0%D1%80%D1%85%D0%B8%D0%B2:_deadlink_yes)" title="Категория:Википедия:Cite web (заменить webcitation-архив: deadlink yes)">Википедия:Cite web (заменить webcitation-архив: deadlink yes)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B,_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D0%B2%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_ISBN" title="Категория:Страницы, использующие волшебные ссылки ISBN">Страницы, использующие волшебные ссылки ISBN</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Википедия:Хорошие статьи по алфавиту">Википедия:Хорошие статьи по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%BF%D0%BE_%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B5" title="Категория:Википедия:Хорошие статьи по экономике">Википедия:Хорошие статьи по экономике</a></li></ul></div></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Навигация</h2>
+<div id="mw-head">
+<nav aria-labelledby="p-personal-label" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" id="p-personal" role="navigation">
+<h3 class="vector-menu-heading" id="p-personal-label">
+<span class="vector-menu-heading-label">Персональные инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="pt-anonuserpage"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li class="mw-list-item" id="pt-anontalk"><a accesskey="n" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]"><span>Обсуждение</span></a></li><li class="mw-list-item" id="pt-anoncontribs"><a accesskey="y" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]"><span>Вклад</span></a></li><li class="mw-list-item" id="pt-createaccount"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%9E%D1%82%D1%87%D1%91%D1%82+%D0%BE+%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8+%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85+%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li class="mw-list-item" id="pt-login"><a accesskey="o" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%9E%D1%82%D1%87%D1%91%D1%82+%D0%BE+%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8+%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85+%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]"><span>Войти</span></a></li>
+</ul>
+</div>
+</nav>
+<div id="left-navigation">
+<nav aria-labelledby="p-namespaces-label" class="mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-namespaces" role="navigation">
+<h3 class="vector-menu-heading" id="p-namespaces-label">
+<span class="vector-menu-heading-label">Пространства имён</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-nstab-main"><a accesskey="c" href="/wiki/%D0%9E%D1%82%D1%87%D1%91%D1%82_%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2" title="Просмотреть контентную страницу [c]"><span>Статья</span></a></li><li class="mw-list-item" id="ca-talk"><a accesskey="t" href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%9E%D1%82%D1%87%D1%91%D1%82_%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2" rel="discussion" title="Обсуждение основной страницы [t]"><span>Обсуждение</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-variants-label" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" id="p-variants" role="navigation">
+<input aria-haspopup="true" aria-labelledby="p-variants-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-variants" id="p-variants-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-variants-label">
+<span class="vector-menu-heading-label">русский</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+</div>
+<div id="right-navigation">
+<nav aria-labelledby="p-views-label" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-views" role="navigation">
+<h3 class="vector-menu-heading" id="p-views-label">
+<span class="vector-menu-heading-label">Просмотры</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-view"><a href="/w/index.php?title=%D0%9E%D1%82%D1%87%D1%91%D1%82_%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2&amp;stable=1"><span>Читать</span></a></li><li class="collapsible mw-list-item" id="ca-current"><a accesskey="v" href="/w/index.php?title=%D0%9E%D1%82%D1%87%D1%91%D1%82_%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2&amp;stable=0&amp;redirect=no" title="Показать текущую версию этой страницы [v]"><span>Текущая версия</span></a></li><li class="mw-list-item" id="ca-ve-edit"><a accesskey="v" href="/w/index.php?title=%D0%9E%D1%82%D1%87%D1%91%D1%82_%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2&amp;oldid=123194079&amp;veaction=edit" title="Редактировать данную страницу [v]"><span>Править</span></a></li><li class="collapsible mw-list-item" id="ca-edit"><a accesskey="e" href="//ru.wikipedia.org/w/index.php?title=%D0%9E%D1%82%D1%87%D1%91%D1%82_%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2&amp;action=edit" title="Править исходный текст этой страницы [e]"><span>Править код</span></a></li><li class="mw-list-item" id="ca-history"><a accesskey="h" href="/w/index.php?title=%D0%9E%D1%82%D1%87%D1%91%D1%82_%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2&amp;action=history" title="Журнал изменений страницы [h]"><span>История</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-cactions-label" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" id="p-cactions" role="navigation" title="Больше возможностей">
+<input aria-haspopup="true" aria-labelledby="p-cactions-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-cactions" id="p-cactions-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-cactions-label">
+<span class="vector-menu-heading-label">Ещё</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+<div class="vector-search-box-vue vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box" id="p-search" role="search">
+<h3>Поиск</h3>
+<form action="/w/index.php" class="vector-search-box-form" id="searchform">
+<div class="vector-search-box-inner" data-search-loc="header-navigation" id="simpleSearch">
+<input accesskey="f" aria-label="Искать в Википедии" autocapitalize="sentences" class="vector-search-box-input" id="searchInput" name="search" placeholder="Искать в Википедии" title="Искать в Википедии [f]" type="search"/>
+<input name="title" type="hidden" value="Служебная:Поиск"/>
+<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Найти страницы, содержащие указанный текст" type="submit" value="Найти"/>
+<input class="searchButton" id="searchButton" name="go" title="Перейти к странице, имеющей в точности такое название" type="submit" value="Перейти"/>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="vector-legacy-sidebar" id="mw-panel">
+<div id="p-logo" role="banner">
+<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу"></a>
+</div>
+<nav aria-labelledby="p-navigation-label" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" id="p-navigation" role="navigation">
+<h3 class="vector-menu-heading" id="p-navigation-label">
+<span class="vector-menu-heading-label">Навигация</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-mainpage-description"><a accesskey="z" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]"><span>Заглавная страница</span></a></li><li class="mw-list-item" id="n-content"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li class="mw-list-item" id="n-featured"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li class="mw-list-item" id="n-randompage"><a accesskey="x" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]"><span>Случайная статья</span></a></li><li class="mw-list-item" id="n-currentevents"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li class="mw-list-item" id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-participation-label" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" id="p-participation" role="navigation">
+<h3 class="vector-menu-heading" id="p-participation-label">
+<span class="vector-menu-heading-label">Участие</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-bug_in_article"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li class="mw-list-item" id="n-introduction"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li class="mw-list-item" id="n-portal"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li class="mw-list-item" id="n-forum"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li class="mw-list-item" id="n-recentchanges"><a accesskey="r" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]"><span>Свежие правки</span></a></li><li class="mw-list-item" id="n-newpages"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li class="mw-list-item" id="n-help"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-tb-label" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" id="p-tb" role="navigation">
+<h3 class="vector-menu-heading" id="p-tb-label">
+<span class="vector-menu-heading-label">Инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="t-whatlinkshere"><a accesskey="j" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%9E%D1%82%D1%87%D1%91%D1%82_%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2" title="Список всех страниц, ссылающихся на данную [j]"><span>Ссылки сюда</span></a></li><li class="mw-list-item" id="t-recentchangeslinked"><a accesskey="k" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%9E%D1%82%D1%87%D1%91%D1%82_%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]"><span>Связанные правки</span></a></li><li class="mw-list-item" id="t-specialpages"><a accesskey="q" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]"><span>Служебные страницы</span></a></li><li class="mw-list-item" id="t-permalink"><a href="/w/index.php?title=%D0%9E%D1%82%D1%87%D1%91%D1%82_%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2&amp;oldid=123194079" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li class="mw-list-item" id="t-info"><a href="/w/index.php?title=%D0%9E%D1%82%D1%87%D1%91%D1%82_%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li class="mw-list-item" id="t-cite"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%9E%D1%82%D1%87%D1%91%D1%82_%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2&amp;id=123194079&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li class="mw-list-item" id="t-urlshortener"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%259E%25D1%2582%25D1%2587%25D1%2591%25D1%2582_%25D0%25BE_%25D0%25B4%25D0%25B2%25D0%25B8%25D0%25B6%25D0%25B5%25D0%25BD%25D0%25B8%25D0%25B8_%25D0%25B4%25D0%25B5%25D0%25BD%25D0%25B5%25D0%25B6%25D0%25BD%25D1%258B%25D1%2585_%25D1%2581%25D1%2580%25D0%25B5%25D0%25B4%25D1%2581%25D1%2582%25D0%25B2"><span>Получить короткий URL</span></a></li><li class="mw-list-item" id="t-urlshortener-qrcode"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%259E%25D1%2582%25D1%2587%25D1%2591%25D1%2582_%25D0%25BE_%25D0%25B4%25D0%25B2%25D0%25B8%25D0%25B6%25D0%25B5%25D0%25BD%25D0%25B8%25D0%25B8_%25D0%25B4%25D0%25B5%25D0%25BD%25D0%25B5%25D0%25B6%25D0%25BD%25D1%258B%25D1%2585_%25D1%2581%25D1%2580%25D0%25B5%25D0%25B4%25D1%2581%25D1%2582%25D0%25B2"><span>Скачать QR-код</span></a></li><li class="mw-list-item" id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q460184" title="Ссылка на связанный элемент репозитория данных [g]"><span>Элемент Викиданных</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-coll-print_export-label" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" id="p-coll-print_export" role="navigation">
+<h3 class="vector-menu-heading" id="p-coll-print_export-label">
+<span class="vector-menu-heading-label">Печать/экспорт</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="coll-download-as-rl"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B3&amp;bookcmd=render_article&amp;arttitle=%D0%9E%D1%82%D1%87%D1%91%D1%82+%D0%BE+%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8+%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85+%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2&amp;returnto=%D0%9E%D1%82%D1%87%D1%91%D1%82+%D0%BE+%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8+%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85+%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2&amp;oldid=133625004&amp;writer=rl" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li class="mw-list-item" id="t-print"><a accesskey="p" href="/w/index.php?title=%D0%9E%D1%82%D1%87%D1%91%D1%82_%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2&amp;printable=yes" title="Версия этой страницы для печати [p]"><span>Версия для печати</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-electronpdfservice-sidebar-portlet-heading-label" class="mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading emptyPortlet vector-menu-portal portal vector-menu" id="p-electronpdfservice-sidebar-portlet-heading" role="navigation">
+<h3 class="vector-menu-heading" id="p-electronpdfservice-sidebar-portlet-heading-label">
+<span class="vector-menu-heading-label">Печать/экспорт</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-wikibase-otherprojects-label" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal vector-menu" id="p-wikibase-otherprojects" role="navigation">
+<h3 class="vector-menu-heading" id="p-wikibase-otherprojects-label">
+<span class="vector-menu-heading-label">В других проектах</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Cash_flow_statement" hreflang="en"><span>Викисклад</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-lang-label" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" id="p-lang" role="navigation">
+<h3 class="vector-menu-heading" id="p-lang-label">
+<span class="vector-menu-heading-label">На других языках</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="interlanguage-link interwiki-ar mw-list-item"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%A8%D9%8A%D8%A7%D9%86_%D8%A7%D9%84%D8%AA%D8%AF%D9%81%D9%82%D8%A7%D8%AA_%D8%A7%D9%84%D9%86%D9%82%D8%AF%D9%8A%D8%A9" hreflang="ar" lang="ar" title="بيان التدفقات النقدية — арабский"><span>العربية</span></a></li><li class="interlanguage-link interwiki-az mw-list-item"><a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/Pul_v%C9%99saitl%C9%99rinin_h%C9%99r%C9%99k%C9%99ti_haqq%C4%B1nda_hesabat" hreflang="az" lang="az" title="Pul vəsaitlərinin hərəkəti haqqında hesabat — азербайджанский"><span>Azərbaycanca</span></a></li><li class="interlanguage-link interwiki-bn mw-list-item"><a class="interlanguage-link-target" href="https://bn.wikipedia.org/wiki/%E0%A6%A8%E0%A6%97%E0%A6%A6_%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%B9_%E0%A6%AC%E0%A6%BF%E0%A6%AC%E0%A6%B0%E0%A6%A3%E0%A7%80" hreflang="bn" lang="bn" title="নগদ প্রবাহ বিবরণী — бенгальский"><span>বাংলা</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Estat_de_Flux_d%27Efectiu" hreflang="ca" lang="ca" title="Estat de Flux d'Efectiu — каталанский"><span>Català</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/P%C5%99ehled_o_pen%C4%9B%C5%BEn%C3%ADch_toc%C3%ADch" hreflang="cs" lang="cs" title="Přehled o peněžních tocích — чешский"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Pengestr%C3%B8msopg%C3%B8relse" hreflang="da" lang="da" title="Pengestrømsopgørelse — датский"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Kapitalflussrechnung" hreflang="de" lang="de" title="Kapitalflussrechnung — немецкий"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a class="interlanguage-link-target" href="https://en.wikipedia.org/wiki/Cash_flow_statement" hreflang="en" lang="en" title="Cash flow statement — английский"><span>English</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Estado_de_flujo_de_efectivo" hreflang="es" lang="es" title="Estado de flujo de efectivo — испанский"><span>Español</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Rahavoogude_aruanne" hreflang="et" lang="et" title="Rahavoogude aruanne — эстонский"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Kutxa-fluxu_eraginkor" hreflang="eu" lang="eu" title="Kutxa-fluxu eraginkor — баскский"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%B5%D9%88%D8%B1%D8%AA_%D8%AC%D8%B1%DB%8C%D8%A7%D9%86_%D9%88%D8%AC%D9%88%D9%87_%D9%86%D9%82%D8%AF" hreflang="fa" lang="fa" title="صورت جریان وجوه نقد — персидский"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Rahoituslaskelma" hreflang="fi" lang="fi" title="Rahoituslaskelma — финский"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Tableau_de_financement" hreflang="fr" lang="fr" title="Tableau de financement — французский"><span>Français</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%93%D7%95%D7%97_%D7%A2%D7%9C_%D7%AA%D7%96%D7%A8%D7%99%D7%9E%D7%99_%D7%94%D7%9E%D7%96%D7%95%D7%9E%D7%A0%D7%99%D7%9D" hreflang="he" lang="he" title="דוח על תזרימי המזומנים — иврит"><span>עברית</span></a></li><li class="interlanguage-link interwiki-hi mw-list-item"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%A8%E0%A4%95%E0%A4%A6%E0%A5%80_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF_%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%B0%E0%A4%A3" hreflang="hi" lang="hi" title="नकदी प्रप्ति विवरण — хинди"><span>हिन्दी</span></a></li><li class="interlanguage-link interwiki-hy mw-list-item"><a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D4%B4%D6%80%D5%A1%D5%B4%D5%A1%D5%AF%D5%A1%D5%B6_%D5%B4%D5%AB%D5%BB%D5%B8%D6%81%D5%B6%D5%A5%D6%80%D5%AB_%D5%B0%D5%B8%D5%BD%D6%84%D5%A5%D6%80%D5%AB_%D5%B4%D5%A1%D5%BD%D5%AB%D5%B6_%D5%B0%D5%A1%D5%B7%D5%BE%D5%A5%D5%BF%D5%BE%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6" hreflang="hy" lang="hy" title="Դրամական միջոցների հոսքերի մասին հաշվետվություն — армянский"><span>Հայերեն</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Laporan_arus_kas" hreflang="id" lang="id" title="Laporan arus kas — индонезийский"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Rendiconto_finanziario" hreflang="it" lang="it" title="Rendiconto finanziario — итальянский"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A3%E3%83%83%E3%82%B7%E3%83%A5%E3%83%BB%E3%83%95%E3%83%AD%E3%83%BC%E8%A8%88%E7%AE%97%E6%9B%B8" hreflang="ja" lang="ja" title="キャッシュ・フロー計算書 — японский"><span>日本語</span></a></li><li class="interlanguage-link interwiki-ka mw-list-item"><a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%A4%E1%83%A3%E1%83%9A%E1%83%90%E1%83%93%E1%83%98_%E1%83%9C%E1%83%90%E1%83%99%E1%83%90%E1%83%93%E1%83%94%E1%83%91%E1%83%98%E1%83%A1_%E1%83%90%E1%83%9C%E1%83%92%E1%83%90%E1%83%A0%E1%83%98%E1%83%A8%E1%83%92%E1%83%94%E1%83%91%E1%83%90" hreflang="ka" lang="ka" title="ფულადი ნაკადების ანგარიშგება — грузинский"><span>ქართული</span></a></li><li class="interlanguage-link interwiki-kn mw-list-item"><a class="interlanguage-link-target" href="https://kn.wikipedia.org/wiki/%E0%B2%A8%E0%B2%97%E0%B2%A6%E0%B3%81_%E0%B2%B9%E0%B2%B0%E0%B2%BF%E0%B2%B5%E0%B2%BF%E0%B2%A8_%E0%B2%B9%E0%B3%87%E0%B2%B3%E0%B2%BF%E0%B2%95%E0%B3%86" hreflang="kn" lang="kn" title="ನಗದು ಹರಿವಿನ ಹೇಳಿಕೆ — каннада"><span>ಕನ್ನಡ</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%ED%98%84%EA%B8%88%ED%9D%90%EB%A6%84%ED%91%9C" hreflang="ko" lang="ko" title="현금흐름표 — корейский"><span>한국어</span></a></li><li class="interlanguage-link interwiki-mai mw-list-item"><a class="interlanguage-link-target" href="https://mai.wikipedia.org/wiki/%E0%A4%A8%E0%A4%97%E0%A4%A6_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B5%E0%A4%BE%E0%A4%B9_%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%B0%E0%A4%A3" hreflang="mai" lang="mai" title="नगद प्रवाह विवरण — майтхили"><span>मैथिली</span></a></li><li class="interlanguage-link interwiki-mk mw-list-item"><a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%98%D0%B7%D0%B2%D0%B5%D1%88%D1%82%D0%B0%D1%98_%D0%B7%D0%B0_%D0%BF%D0%B0%D1%80%D0%B8%D1%87%D0%BD%D0%B8%D1%82%D0%B5_%D1%82%D0%B5%D0%BA%D0%BE%D0%B2%D0%B8" hreflang="mk" lang="mk" title="Извештај за паричните текови — македонский"><span>Македонски</span></a></li><li class="interlanguage-link interwiki-mn mw-list-item"><a class="interlanguage-link-target" href="https://mn.wikipedia.org/wiki/%D0%9C%D3%A9%D0%BD%D0%B3%D3%A9%D0%BD_%D1%8D%D1%80%D0%B3%D1%8D%D0%BB%D1%82" hreflang="mn" lang="mn" title="Мөнгөн эргэлт — монгольский"><span>Монгол</span></a></li><li class="interlanguage-link interwiki-my mw-list-item"><a class="interlanguage-link-target" href="https://my.wikipedia.org/wiki/%E1%80%84%E1%80%BD%E1%80%B1%E1%80%9E%E1%80%AC%E1%80%B8%E1%80%85%E1%80%AE%E1%80%B8%E1%80%86%E1%80%84%E1%80%BA%E1%80%B8%E1%80%99%E1%80%BE%E1%80%AF%E1%80%9B%E1%80%BE%E1%80%84%E1%80%BA%E1%80%B8%E1%80%90%E1%80%99%E1%80%BA%E1%80%B8" hreflang="my" lang="my" title="ငွေသားစီးဆင်းမှုရှင်းတမ်း — бирманский"><span>မြန်မာဘာသာ</span></a></li><li class="interlanguage-link interwiki-ne mw-list-item"><a class="interlanguage-link-target" href="https://ne.wikipedia.org/wiki/%E0%A4%A8%E0%A4%97%E0%A4%A6_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B5%E0%A4%BE%E0%A4%B9_%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%B0%E0%A4%A3" hreflang="ne" lang="ne" title="नगद प्रवाह विवरण — непальский"><span>नेपाली</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Kasstroomoverzicht" hreflang="nl" lang="nl" title="Kasstroomoverzicht — нидерландский"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Kontantstr%C3%B8manalyse" hreflang="nb" lang="nb" title="Kontantstrømanalyse — норвежский букмол"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Sprawozdanie_z_przep%C5%82yw%C3%B3w_pieni%C4%99%C5%BCnych" hreflang="pl" lang="pl" title="Sprawozdanie z przepływów pieniężnych — польский"><span>Polski</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Preh%C4%BEad_pe%C5%88a%C5%BEn%C3%BDch_tokov" hreflang="sk" lang="sk" title="Prehľad peňažných tokov — словацкий"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%91%D0%B8%D0%BB%D0%B0%D0%BD%D1%81_%D1%82%D0%BE%D0%BA%D0%BE%D0%B2%D0%B0_%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%B8%D0%BD%D0%B5" hreflang="sr" lang="sr" title="Биланс токова готовине — сербский"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-su mw-list-item"><a class="interlanguage-link-target" href="https://su.wikipedia.org/wiki/Laporan_arus_kas" hreflang="su" lang="su" title="Laporan arus kas — сунданский"><span>Sunda</span></a></li><li class="interlanguage-link interwiki-ta mw-list-item"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%95%E0%AE%BE%E0%AE%9A%E0%AF%81%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%BE%E0%AE%AF%E0%AF%8D%E0%AE%9A%E0%AF%8D%E0%AE%9A%E0%AE%B2%E0%AF%8D_%E0%AE%95%E0%AF%82%E0%AE%B1%E0%AF%8D%E0%AE%B1%E0%AF%81" hreflang="ta" lang="ta" title="காசுப்பாய்ச்சல் கூற்று — тамильский"><span>தமிழ்</span></a></li><li class="interlanguage-link interwiki-th mw-list-item"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%87%E0%B8%9A%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B9%81%E0%B8%AA%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%E0%B8%AA%E0%B8%94" hreflang="th" lang="th" title="งบกระแสเงินสด — тайский"><span>ไทย</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%97%D0%B2%D1%96%D1%82_%D0%BF%D1%80%D0%BE_%D1%80%D1%83%D1%85_%D0%B3%D1%80%D0%BE%D1%88%D0%BE%D0%B2%D0%B8%D1%85_%D0%BA%D0%BE%D1%88%D1%82%D1%96%D0%B2" hreflang="uk" lang="uk" title="Звіт про рух грошових коштів — украинский"><span>Українська</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/B%C3%A1o_c%C3%A1o_l%C6%B0u_chuy%E1%BB%83n_ti%E1%BB%81n_t%E1%BB%87" hreflang="vi" lang="vi" title="Báo cáo lưu chuyển tiền tệ — вьетнамский"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E7%8F%BE%E9%87%91%E6%B5%81%E9%87%8F%E8%A1%A8" hreflang="zh" lang="zh" title="現金流量表 — китайский"><span>中文</span></a></li><li class="interlanguage-link interwiki-zh-yue mw-list-item"><a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E7%8F%BE%E9%87%91%E6%B5%81%E9%87%8F%E8%A1%A8" hreflang="yue" lang="yue" title="現金流量表 — кантонский"><span>粵語</span></a></li>
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q460184#sitelinks-wikipedia" title="Править ссылки на другие языки">Править ссылки</a></span></div>
+</div>
+</nav>
+</div>
+</div>
+<footer class="mw-footer" id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 11 июня 2022 в 04:43.</li>
+<li id="footer-info-copyright">Текст доступен по <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru" rel="license">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a><a href="//creativecommons.org/licenses/by-sa/4.0/" rel="license" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br/>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org/ru/">Фонд Викимедиа (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//ru.m.wikipedia.org/w/index.php?title=%D0%9E%D1%82%D1%87%D1%91%D1%82_%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D1%85_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2&amp;mobileaction=toggle_view_mobile">Мобильная версия</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" loading="lazy" src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88"/></a></li>
+<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" loading="lazy" src="/static/images/footer/poweredby_mediawiki_88x31.png" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88"/></a></li>
+</ul>
+</footer>
+
+
+</body>
+</html>

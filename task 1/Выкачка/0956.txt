@@ -1,0 +1,625 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="ru">
+<head>
+<meta charset="utf-8"/>
+<title>VxWorks — Википедия</title>
+
+
+
+
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+
+
+<meta content="MediaWiki 1.42.0-wmf.19" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="max-image-preview:standard" name="robots"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/VxWorks_icon.svg/1200px-VxWorks_icon.svg.png" property="og:image"/>
+<meta content="1200" property="og:image:width"/>
+<meta content="1034" property="og:image:height"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/VxWorks_icon.svg/800px-VxWorks_icon.svg.png" property="og:image"/>
+<meta content="800" property="og:image:width"/>
+<meta content="689" property="og:image:height"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/VxWorks_icon.svg/640px-VxWorks_icon.svg.png" property="og:image"/>
+<meta content="640" property="og:image:width"/>
+<meta content="551" property="og:image:height"/>
+<meta content="width=1000" name="viewport"/>
+<meta content="VxWorks — Википедия" property="og:title"/>
+<meta content="website" property="og:type"/>
+
+
+
+
+
+
+
+
+
+
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-VxWorks rootpage-VxWorks skin-vector action-view"><div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators">
+</div>
+<h1 class="firstHeading mw-first-heading" id="firstHeading"><span class="mw-page-title-main">VxWorks</span></h1>
+<div class="vector-body" id="bodyContent">
+<div class="noprint" id="siteSub">Материал из Википедии — свободной энциклопедии</div>
+<div id="contentSub"><div id="mw-content-subtitle"><div class="plainlinks flaggedrevs_preview" id="mw-fr-reviewnotice">Текущая версия страницы пока <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9/%D0%9F%D0%BE%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BB%D1%8F_%D1%87%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9" title="Википедия:Проверка статей/Пояснение для читателей">не проверялась</a> опытными участниками и может значительно отличаться от <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=VxWorks&amp;stable=1">версии</a>, проверенной 22 августа 2023 года; проверки требуют <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=VxWorks&amp;oldid=130238231&amp;diff=cur&amp;diffonly=0">2 правки</a>.</div><div class="flaggedrevs_short flaggedrevs_draft_notsynced plainlinks noprint" id="mw-fr-revisiontag"><div class="flaggedrevs_short_basic"><span class="flaggedrevs-icon oo-ui-widget oo-ui-widget-enabled oo-ui-iconElement-icon oo-ui-icon-block oo-ui-iconElement oo-ui-labelElement-invisible oo-ui-iconWidget" title="Текущая версия"></span><span class="fr-toggle-arrow oo-ui-widget oo-ui-widget-enabled oo-ui-indicatorElement-indicator oo-ui-indicator-down oo-ui-indicatorElement oo-ui-labelElement-invisible oo-ui-indicatorWidget" id="mw-fr-revisiontoggle" title="показать/скрыть подробности"></span></div>
+<div id="mw-fr-revisiondetails-wrapper" style="position:relative;"><div class="flaggedrevs_short_details" id="mw-fr-revisiondetails" style="display:none">Текущая версия страницы пока <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9/%D0%9F%D0%BE%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BB%D1%8F_%D1%87%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9" title="Википедия:Проверка статей/Пояснение для читателей">не проверялась</a> опытными участниками и может значительно отличаться от <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=VxWorks&amp;stable=1">версии</a>, проверенной 22 августа 2023 года; проверки требуют <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=VxWorks&amp;oldid=130238231&amp;diff=cur&amp;diffonly=0">2 правки</a>.</div>
+</div>
+</div>
+</div></div>
+<div id="contentSub2"></div>
+<div id="jump-to-nav"></div>
+<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+<div class="mw-body-content" id="mw-content-text"><div class="mw-content-ltr mw-parser-output" dir="ltr" lang="ru"><table class="infobox infobox-c7fc62d6cd610266" data-name="Операционная система" style=""><tbody><tr><th class="infobox-above" colspan="2" scope="colgroup" style="">VxWorks</th></tr><tr><td class="" colspan="2" style="text-align:center;"><span class="wikidata-claim" data-wikidata-claim-id="Q757165$9C4FB32C-A0E5-40E6-AF77-FD4AF58A1D3B" data-wikidata-property-id="P154"><span class="wikidata-snak wikidata-main-snak"><span typeof="mw:File/Frameless"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:VxWorks_icon.svg"><img alt="Изображение логотипа" class="mw-file-element" data-file-height="305" data-file-width="354" decoding="async" height="80" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/VxWorks_icon.svg/93px-VxWorks_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/VxWorks_icon.svg/139px-VxWorks_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/VxWorks_icon.svg/186px-VxWorks_icon.svg.png 2x" width="93"/></a></span></span></span></td></tr><tr><td class="infobox-image" colspan="2" style=""> <span class="no-wikidata" data-wikidata-property-id="P18"><span typeof="mw:File/Frameless"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:VxWorks_7_Bootup_Screen.png" title="Стартовый экран VxWorks в ASCII-графике"><img alt="Стартовый экран VxWorks в ASCII-графике" class="mw-file-element" data-file-height="866" data-file-width="741" decoding="async" height="320" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/VxWorks_7_Bootup_Screen.png/274px-VxWorks_7_Bootup_Screen.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/VxWorks_7_Bootup_Screen.png/411px-VxWorks_7_Bootup_Screen.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f7/VxWorks_7_Bootup_Screen.png/548px-VxWorks_7_Bootup_Screen.png 2x" width="274"/></a></span><br/><span class="media-caption" data-wikidata-qualifier-id="P2096" style="display:block">Стартовый экран VxWorks в <a href="/wiki/ASCII-%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%B0" title="ASCII-графика">ASCII-графике</a></span></span> </td></tr>
+<tr>
+<th class="plainlist" scope="row">Разработчик</th>
+<td class="plainlist">
+<span class="wikidata-claim" data-wikidata-claim-id="Q757165$0d5c0b61-4f31-4ea7-4bee-fc83c90ed26e" data-wikidata-property-id="P178"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/Wind_River_Systems" title="Wind River Systems">Wind River Systems</a></span></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Семейство ОС</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P179"><a href="/wiki/Unix-%D0%BF%D0%BE%D0%B4%D0%BE%D0%B1%D0%BD%D0%B0%D1%8F_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0" title="Unix-подобная операционная система">UNIX-подобная</a></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Первый выпуск</th>
+<td class="plainlist">
+<span class="wikidata-claim" data-wikidata-claim-id="Q757165$3e7bc3f1-40bd-b517-9f2a-f34d74f7092d" data-wikidata-property-id="P571"><span class="wikidata-snak wikidata-main-snak"><span class="nowrap"><a href="/wiki/1987_%D0%B3%D0%BE%D0%B4" title="1987 год">1987</a></span></span></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Последняя версия</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P348"><span class="no-wikidata" data-wikidata-property-id="P348">7 23.03 (<span class="nowrap"><a href="/wiki/%D0%9C%D0%B0%D1%80%D1%82" title="Март">март</a> <a class="mw-redirect" href="/wiki/2023" title="2023">2023</a> г.</span>)</span></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row"><a href="/wiki/%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0_%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%B0" title="Архитектура компьютера">Поддерживаемые платформы</a></th>
+<td class="plainlist">
+<span class="wikidata-claim" data-wikidata-claim-id="Q757165$FB421E3F-C01D-4549-B6C0-B5BED7B11176" data-wikidata-property-id="P400"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/X86" title="X86">x86</a></span></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Тип <a href="/wiki/%D0%AF%D0%B4%D1%80%D0%BE_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B9_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B" title="Ядро операционной системы">ядра</a></th>
+<td class="plainlist">
+<a href="/wiki/%D0%9C%D0%B8%D0%BA%D1%80%D0%BE%D1%8F%D0%B4%D1%80%D0%BE" title="Микроядро">Микроядро</a></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row"><a href="/wiki/%D0%9B%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F" title="Лицензия">Лицензия</a></th>
+<td class="plainlist">
+<span class="wikidata-claim" data-wikidata-claim-id="Q757165$9839de0b-475e-d8f5-2f7d-9e7b5da36c9a" data-wikidata-property-id="P275"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%9F%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B5_%D1%81%D0%BE%D0%B3%D0%BB%D0%B0%D1%88%D0%B5%D0%BD%D0%B8%D0%B5" title="Пользовательское соглашение">пользовательское соглашение</a></span></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Состояние</th>
+<td class="plainlist">
+Актуальное</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Веб-сайт</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P856"><a class="external text" href="https://www.windriver.com/products/vxworks" rel="nofollow">VxWorks RTOS</a></span></td>
+</tr><tr><td class="infobox-below" colspan="2" style=";"><span class="wikidata-claim" data-wikidata-claim-id="Q757165$ceab49d7-47d4-3f8e-7236-6bc3a17bae48" data-wikidata-property-id="P373"><span class="wikidata-snak wikidata-main-snak"><span typeof="mw:File"><a href="https://commons.wikimedia.org/wiki/Category:VxWorks" title="commons:Category:VxWorks"><img alt="Логотип Викисклада" class="mw-file-element" data-file-height="1376" data-file-width="1024" decoding="async" height="20" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/15px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/23px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 2x" width="15"/></a></span> <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:VxWorks" title="commons:Category:VxWorks">Медиафайлы на Викискладе</a></span></span></td></tr>
+</tbody></table>
+<p><b>VxWorks</b> — <a href="/wiki/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8" title="Операционная система реального времени">операционная система реального времени</a>, разрабатываемая компанией <a href="/wiki/Wind_River_Systems" title="Wind River Systems">Wind River Systems</a> (<a class="mw-redirect" href="/wiki/%D0%A1%D0%A8%D0%90" title="США">США</a>), ориентированная на использование во встраиваемых компьютерах, работающих в системах <a class="mw-redirect" href="/wiki/%D0%A0%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%B2%D1%80%D0%B5%D0%BC%D1%8F" title="Реальное время">жёсткого реального времени</a>. VxWorks является системой с кросс-средствами разработки прикладного программного обеспечения. Иначе говоря, разработка происходит на инструментальном компьютере, называемом host, для последующего применения его на целевой машине — target.
+</p><p>Как и большинство других ОС реального времени, VxWorks включает в себя <a href="/wiki/%D0%9C%D0%BD%D0%BE%D0%B3%D0%BE%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Многозадачность">многозадачное ядро</a> с вытесняющим планировщиком и быстрым откликом на <a href="/wiki/%D0%9F%D1%80%D0%B5%D1%80%D1%8B%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" title="Прерывание">прерывания</a>, средства <a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BD%D0%BE%D0%B5_%D0%B2%D0%B7%D0%B0%D0%B8%D0%BC%D0%BE%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D0%B5" title="Межпроцессное взаимодействие">межпроцессного взаимодействия</a> и <a href="/wiki/%D0%A1%D0%B8%D0%BD%D1%85%D1%80%D0%BE%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F_(%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0)" title="Синхронизация (информатика)">синхронизации</a>, а также <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0" title="Файловая система">файловую систему</a> и сетевую подсистему (стек протоколов <a href="/wiki/TCP/IP" title="TCP/IP">TCP/IP</a>). В комплект поставки входят средства для <a href="/wiki/%D0%9A%D1%80%D0%BE%D1%81%D1%81-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B8%D0%BB%D1%8F%D1%82%D0%BE%D1%80" title="Кросс-компилятор">кросс-компиляции</a>, <a class="new" href="/w/index.php?title=%D0%9C%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%BD%D0%B3_%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8&amp;action=edit&amp;redlink=1" title="Мониторинг производительности (страница отсутствует)">мониторинга производительности</a> (<a class="new" href="/w/index.php?title=WindView&amp;action=edit&amp;redlink=1" title="WindView (страница отсутствует)">WindView</a>), удалённой символьной отладки, а также <a href="/wiki/%D0%AD%D0%BC%D1%83%D0%BB%D1%8F%D1%86%D0%B8%D1%8F" title="Эмуляция">эмуляции</a> различных <a class="mw-redirect" href="/wiki/%D0%9F%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80" title="Процессор">процессоров</a>. Дополнительно поставляется значительное количество различных стеков протоколов, графических подсистем и др. как от самой Wind River Systems, так и от третьих фирм. Множество поддерживаемых VxWorks встраиваемых платформ является одним из самых обширных среди операционных систем реального времени.
+</p><p>4 июня 2009 года компания <a href="/wiki/Intel" title="Intel">Intel</a> объявила о планах приобрести Wind River Systems и VxWorks.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> 17 июля 2009 года поглощение компании было завершено<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup>.
+</p>
+<div aria-labelledby="mw-toc-heading" class="toc" id="toc" role="navigation"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="ru"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#История"><span class="tocnumber">1</span> <span class="toctext">История</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Архитектура"><span class="tocnumber">2</span> <span class="toctext">Архитектура</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Планирование"><span class="tocnumber">3</span> <span class="toctext">Планирование</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Прерывания"><span class="tocnumber">4</span> <span class="toctext">Прерывания</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Сетевые_средства"><span class="tocnumber">5</span> <span class="toctext">Сетевые средства</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Дополнительные_сетевые_возможности:_программа_WindNet"><span class="tocnumber">5.1</span> <span class="toctext">Дополнительные сетевые возможности: программа WindNet</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Файловая_система"><span class="tocnumber">6</span> <span class="toctext">Файловая система</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Поддержка_симметричного_и_асимметричного_мультипроцессинга"><span class="tocnumber">7</span> <span class="toctext">Поддержка симметричного и асимметричного мультипроцессинга</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Использование"><span class="tocnumber">8</span> <span class="toctext">Использование</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Сравнение_с_некоторыми_операционными_системами_реального_времени"><span class="tocnumber">9</span> <span class="toctext">Сравнение с некоторыми операционными системами реального времени</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Примечания"><span class="tocnumber">10</span> <span class="toctext">Примечания</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Литература"><span class="tocnumber">11</span> <span class="toctext">Литература</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Ссылки"><span class="tocnumber">12</span> <span class="toctext">Ссылки</span></a></li>
+</ul>
+</div>
+<h2><span id=".D0.98.D1.81.D1.82.D0.BE.D1.80.D0.B8.D1.8F"></span><span class="mw-headline" id="История">История</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=VxWorks&amp;veaction=edit&amp;section=1" title="Редактировать раздел «История»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=VxWorks&amp;action=edit&amp;section=1" title="Редактировать код раздела «История»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Название «VxWorks», как считается, получилось из игры слов с названием ОС <a class="new" href="/w/index.php?title=VRTX&amp;action=edit&amp;redlink=1" title="VRTX (страница отсутствует)">VRTX</a>, созданной компанией <a class="new" href="/w/index.php?title=Ready_Systems&amp;action=edit&amp;redlink=1" title="Ready Systems (страница отсутствует)">Ready Systems</a> (сейчас этот продукт принадлежит <a href="/wiki/Mentor_Graphics" title="Mentor Graphics">Mentor Graphics</a>). В начале <a class="mw-redirect" href="/wiki/1980-%D0%B5" title="1980-е">1980-х</a> VRTX была достаточно новым и сырым продуктом, она работала не слишком хорошо. VRTX имела размер всего 4 КБ, и её нельзя было использовать как полноценную операционную систему. Компания Wind River приобрела права на распространение расширенной версии VRTX под названием VxWorks. Доработки и расширения, внесённые компанией WindRiver, позволили создать систему, которая работала (например, VXWorks имела <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0" title="Файловая система">файловую систему</a> и <a href="/wiki/%D0%98%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D1%80%D0%B5%D0%B4%D0%B0_%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8" title="Интегрированная среда разработки">интегрированную среду разработки</a>). Таким образом, название VxWorks может означать <a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">VRTX now Works</span> («VRTX теперь работает») или <a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">VRTX that Works</span> («VRTX, которая работает»).
+</p><p>Когда стало ясно, что Ready Systems может разорвать контракт на распространение VRTX, в Wind River было разработано собственное ядро операционной системы, которое заменило VRTX. Базовая функциональность нового ядра VxWorks была такой же, как у VRTX.
+</p>
+<h2><span id=".D0.90.D1.80.D1.85.D0.B8.D1.82.D0.B5.D0.BA.D1.82.D1.83.D1.80.D0.B0"></span><span class="mw-headline" id="Архитектура">Архитектура</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=VxWorks&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Архитектура»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=VxWorks&amp;action=edit&amp;section=2" title="Редактировать код раздела «Архитектура»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>VxWorks имеет архитектуру <a class="mw-redirect" href="/wiki/%D0%9A%D0%BB%D0%B8%D0%B5%D0%BD%D1%82-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80" title="Клиент-сервер">клиент-сервер</a> и, как и большинство ОС жёсткого реального времени, построена по технологии <a href="/wiki/%D0%9C%D0%BE%D0%BD%D0%BE%D0%BB%D0%B8%D1%82%D0%BD%D0%BE%D0%B5_%D1%8F%D0%B4%D1%80%D0%BE" title="Монолитное ядро">монолитного ядра</a>. На самом нижнем непрерываемом уровне ядра (WIND Microkernel) выполняются только базовые функции планирования задач и управления коммуникацией/<a href="/wiki/%D0%A1%D0%B8%D0%BD%D1%85%D1%80%D0%BE%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F_(%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0)" title="Синхронизация (информатика)">синхронизацией</a> между задачами. Все остальные функции ОСРВ более высокого уровня — управление памятью, сетевые средства и т. д. — реализуются через простые функции нижнего уровня. За счёт такой иерархической организации достигается быстродействие и <a href="/wiki/%D0%94%D0%B5%D1%82%D0%B5%D1%80%D0%BC%D0%B8%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Детерминированность">детерминированность</a> ядра системы, также это позволяет легко строить необходимую конфигурацию операционной системы.
+</p><p>VxWorks можно скомпоновать как для систем с жёсткими аппаратными ограничениями, так и для систем с развитой функциональностью. Отдельные модули системы сами могут быть масштабируемыми. При сборке системы можно отключать определённые функции системы, не нужные в данный момент, также можно убирать специфические объекты синхронизации ядра, если в них нет необходимости.
+</p><p>Но, несмотря на то, что система является конфигурируемой, нельзя сказать, что в ней реализован компонентный подход, так как все модули построены над базовым ядром и не могут быть использованы в других средах.
+</p><p>Ядро VxWorks обладает следующими свойствами<sup class="reference" id="cite_ref-VxWorks_3-0"><a href="#cite_note-VxWorks-3">[3]</a></sup>:
+</p>
+<ul><li>количество задач ограничивается только памятью;</li>
+<li>имеет 256 уровней приоритетов задач;</li>
+<li>планирование задач организовано двумя способами: вытеснение по приоритетам и циклическое;</li>
+<li>взаимодействие задач происходит через очереди сообщений, семафоры, события и каналы (для взаимодействия между процессами), сокеты и удалённые вызовы процедур (для сетевого взаимодействия), разделение памяти (используется для разделения данных) и сигналы (для управления исключительными ситуациями);</li>
+<li>обеспечивается несколько видов семафоров для управления критическими системными ресурсами — двоичные, вычислительные и взаимоисключающие с приоритетным наследованием;</li>
+<li>возможно детерминированное переключение контекста.</li></ul>
+<h2><span id=".D0.9F.D0.BB.D0.B0.D0.BD.D0.B8.D1.80.D0.BE.D0.B2.D0.B0.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Планирование">Планирование</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=VxWorks&amp;veaction=edit&amp;section=3" title="Редактировать раздел «Планирование»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=VxWorks&amp;action=edit&amp;section=3" title="Редактировать код раздела «Планирование»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>В VxWorks обеспечиваются и механизмы планирования, основанные на <a href="/wiki/POSIX" title="POSIX">POSIX</a><sup class="reference" id="cite_ref-WindNet_4-0"><a href="#cite_note-WindNet-4">[4]</a></sup>, и собственные механизмы планирования (wind scheduling). Оба варианта обладают вытесняющим и циклическим планированием. Различие заключается в том, что алгоритмы POSIX-планирования применяются попроцессно, а wind scheduling применяется на уровне всей системы<sup class="reference" id="cite_ref-VxWorks_3-1"><a href="#cite_note-VxWorks-3">[3]</a></sup>.
+</p><p>Все задачи системы и приложения в VxWorks используют одно адресное пространство, что может привести к нарушению стабильности работы системы в случае неисправности какого-либо приложения. Решение этой проблемы достигается установкой отдельно предоставляемого компонента <a class="new" href="/w/index.php?title=VxVMI&amp;action=edit&amp;redlink=1" title="VxVMI (страница отсутствует)">VxVMI</a><sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup>, который даёт возможность каждому процессу использовать собственное виртуальное пространство.
+</p>
+<h2><span id=".D0.9F.D1.80.D0.B5.D1.80.D1.8B.D0.B2.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Прерывания">Прерывания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=VxWorks&amp;veaction=edit&amp;section=4" title="Редактировать раздел «Прерывания»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=VxWorks&amp;action=edit&amp;section=4" title="Редактировать код раздела «Прерывания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Для достижения быстрой обработки внешних <a href="/wiki/%D0%9F%D1%80%D0%B5%D1%80%D1%8B%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" title="Прерывание">прерываний</a> программы <a href="/wiki/%D0%9E%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA_%D0%BF%D1%80%D0%B5%D1%80%D1%8B%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F" title="Обработчик прерывания">обработки прерываний</a> (<a class="new" href="/w/index.php?title=ISRs&amp;action=edit&amp;redlink=1" title="ISRs (страница отсутствует)">ISRs</a> — interrupt service routines) в VxWorks работают в специальном контексте вне контекстов потоков, что даёт преимущество во времени, которое обычно тратится на переключение контекстов. С-функция, которую пользователь присоединяет к вектору прерывания, на самом деле не является фактической ISR. Прерывания не могут напрямую обращаться к С-функциям. Вместо этого в таблице векторов прерываний, которая вызывается аппаратно, запоминается адрес ISR. ISR выполняет начальную обработку (подготовку стека и сохранение регистров), а потом вызывается С-функция, которая была присоединена пользователем<sup class="reference" id="cite_ref-VxWorks_3-2"><a href="#cite_note-VxWorks-3">[3]</a></sup>.
+</p>
+<h2><span id=".D0.A1.D0.B5.D1.82.D0.B5.D0.B2.D1.8B.D0.B5_.D1.81.D1.80.D0.B5.D0.B4.D1.81.D1.82.D0.B2.D0.B0"></span><span class="mw-headline" id="Сетевые_средства">Сетевые средства</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=VxWorks&amp;veaction=edit&amp;section=5" title="Редактировать раздел «Сетевые средства»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=VxWorks&amp;action=edit&amp;section=5" title="Редактировать код раздела «Сетевые средства»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>VxWorks обладает следующими сетевыми средствами<sup class="reference" id="cite_ref-Network_6-0"><a href="#cite_note-Network-6">[6]</a></sup>:
+</p>
+<ul><li><a href="/wiki/Zero-copy" title="Zero-copy">TCP/zero-copy</a></li>
+<li><a href="/wiki/TCP" title="TCP">TCP</a>/<a href="/wiki/UDP" title="UDP">UDP</a>/<a href="/wiki/ICMP" title="ICMP">ICMP</a>/<a href="/wiki/IP" title="IP">IP</a>(<a href="/wiki/IPv4" title="IPv4">IPv4</a> и <a href="/wiki/IPv6" title="IPv6">IPv6</a>)/<a href="/wiki/ARP" title="ARP">ARP</a>,</li>
+<li><a href="/wiki/SLIP" title="SLIP">SLIP</a>/<a class="mw-redirect" href="/wiki/CSLIP" title="CSLIP">CSLIP</a>/<a class="mw-redirect" href="/wiki/Point-to-Point_Protocol" title="Point-to-Point Protocol">PPP</a>,</li>
+<li><a href="/wiki/%D0%A1%D0%BE%D0%BA%D0%B5%D1%82_(%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BD%D1%8B%D0%B9_%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81)" title="Сокет (программный интерфейс)">Sockets</a>,</li>
+<li><a href="/wiki/Telnet" title="Telnet">telnet</a>/<a href="/wiki/Rlogin" title="Rlogin">rlogin</a>/<a class="new" href="/w/index.php?title=Rcp&amp;action=edit&amp;redlink=1" title="Rcp (страница отсутствует)">rcp</a>/<a class="new" href="/w/index.php?title=Rsh&amp;action=edit&amp;redlink=1" title="Rsh (страница отсутствует)">rsh</a>,</li>
+<li><a class="mw-redirect" href="/wiki/Ftp" title="Ftp">ftp</a>/<a class="mw-redirect" href="/wiki/Tftp" title="Tftp">tftp</a>/<a class="mw-redirect" href="/wiki/Bootp" title="Bootp">bootp</a>,</li>
+<li><a href="/wiki/Network_File_System" title="Network File System">NFS</a> (клиент и сервер).</li></ul>
+<p>В сетевые средства VxWorks входят также функции, необходимые при разработке устройств, подключаемых к Internet:
+</p>
+<ul><li>IP multicasting уровня 0,1 или 2;</li>
+<li>long fat pipe;</li>
+<li><a class="mw-redirect" href="/wiki/CIDR" title="CIDR">CIDR</a> (Classless Inter-Domain Routing);</li>
+<li><a href="/wiki/DHCP" title="DHCP">DHCP</a> (Dynamic Host Configuration Protocol) в конфигурациях сервер, клиент и Relay-агент;</li>
+<li><a href="/wiki/DNS" title="DNS">DNS</a> client (Domain Naming System);</li>
+<li><a href="/wiki/SNTP" title="SNTP">SNTP</a> (Simple Network Time Protocol).</li></ul>
+<p>VxWorks поддерживает следующие протоколы маршрутизации:
+</p>
+<ul><li><a class="mw-redirect" href="/wiki/RIP2" title="RIP2">RIPv</a>1/v2 (Routing Information Protocol)</li>
+<li><a href="/wiki/OSPF" title="OSPF">OSPF</a> (Open Shortest Path First) версии 2.</li></ul>
+<p>В стандартную поставку VxWorks входит протокол RIP, протокол OSPF поставляется как дополнительный продукт.
+</p><p>VxWorks поддерживает протокол <a href="/wiki/SNMP" title="SNMP">SNMP</a> (Simple Network Management Protocol) как версии v1, так и версии v2c. Компилятор <a href="/wiki/Management_Information_Base" title="Management Information Base">MIB</a> (Management Information Base) поддерживает объекты MIB-II и расширения.
+</p><p>Стандартным интерфейсом для подключения переносимых сетевых протоколов к операционным системам является интерфейс STREAMS. Под VxWorks можно инсталлировать любой протокол, имеющий STREAMS-реализацию: как стандартный (<a href="/wiki/Novell" title="Novell">Novell</a> <a href="/wiki/SPX" title="SPX">SPX</a>/<a href="/wiki/IPX" title="IPX">IPX</a>, <a class="new" href="/w/index.php?title=Decnet&amp;action=edit&amp;redlink=1" title="Decnet (страница отсутствует)">Decnet</a>, <a href="/wiki/AppleTalk" title="AppleTalk">AppleTalk</a>, <a href="/wiki/SNA" title="SNA">SNA</a>, …), так и специализированный. ОС VxWorks поддерживает STREAMS версии <a class="mw-redirect" href="/wiki/UNIX" title="UNIX">UNIX</a> System V.4.
+</p>
+<h3><span id=".D0.94.D0.BE.D0.BF.D0.BE.D0.BB.D0.BD.D0.B8.D1.82.D0.B5.D0.BB.D1.8C.D0.BD.D1.8B.D0.B5_.D1.81.D0.B5.D1.82.D0.B5.D0.B2.D1.8B.D0.B5_.D0.B2.D0.BE.D0.B7.D0.BC.D0.BE.D0.B6.D0.BD.D0.BE.D1.81.D1.82.D0.B8:_.D0.BF.D1.80.D0.BE.D0.B3.D1.80.D0.B0.D0.BC.D0.BC.D0.B0_WindNet"></span><span class="mw-headline" id="Дополнительные_сетевые_возможности:_программа_WindNet">Дополнительные сетевые возможности: программа WindNet</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=VxWorks&amp;veaction=edit&amp;section=6" title="Редактировать раздел «Дополнительные сетевые возможности: программа WindNet»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=VxWorks&amp;action=edit&amp;section=6" title="Редактировать код раздела «Дополнительные сетевые возможности: программа WindNet»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>В 1994 году Wind River Systems анонсировала программу WindNet, по которой ряд фирм-производителей программных средств в области коммуникаций интегрировали свои программные продукты с VxWorks, тем самым обеспечив поддержку (это неполный перечень)<sup class="reference" id="cite_ref-WindNet_4-1"><a href="#cite_note-WindNet-4">[4]</a></sup>:
+</p>
+<ul><li>сетевых протоколов: <a href="/wiki/X.25" title="X.25">Х.25</a>, <a href="/wiki/ISDN" title="ISDN">ISDN</a>, <a href="/wiki/ATM" title="ATM">ATM</a>, <a class="mw-redirect" href="/wiki/SS7" title="SS7">SS7</a>, <a href="/wiki/Frame_Relay" title="Frame Relay">Frame Relay</a> и <a href="/wiki/%D0%A1%D0%B5%D1%82%D0%B5%D0%B2%D0%B0%D1%8F_%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C_OSI" title="Сетевая модель OSI">OSI</a>;</li>
+<li><a class="new" href="/w/index.php?title=CASE-%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%B0&amp;action=edit&amp;redlink=1" title="CASE-средства (страница отсутствует)">CASE-средств</a> разработки распределённых систем на базе стандартов <a class="new" href="/w/index.php?title=ROOM&amp;action=edit&amp;redlink=1" title="ROOM (страница отсутствует)">ROOM</a> (Real-Time Object Oriented Modelling) и <a href="/wiki/CORBA" title="CORBA">CORBA</a> (Common Object Request Broker Architecture);</li>
+<li>менеджмент сетей по технологиям <a class="mw-redirect" href="/wiki/MBD" title="MBD">MBD</a> (Management By Delegation) и <a href="/wiki/CMIP" title="CMIP">CMIP</a>/<a class="new" href="/w/index.php?title=GDMO&amp;action=edit&amp;redlink=1" title="GDMO (страница отсутствует)">GDMO</a> (Common Management Information Protocol/Guidelines for Definition of Managed Objects).</li></ul>
+<h2><span id=".D0.A4.D0.B0.D0.B9.D0.BB.D0.BE.D0.B2.D0.B0.D1.8F_.D1.81.D0.B8.D1.81.D1.82.D0.B5.D0.BC.D0.B0"></span><span class="mw-headline" id="Файловая_система">Файловая система</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=VxWorks&amp;veaction=edit&amp;section=7" title="Редактировать раздел «Файловая система»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=VxWorks&amp;action=edit&amp;section=7" title="Редактировать код раздела «Файловая система»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>В VxWorks поддерживаются следующие <a class="mw-redirect" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B" title="Файловые системы">файловые системы</a><sup class="reference" id="cite_ref-fs_7-0"><a href="#cite_note-fs-7">[7]</a></sup>:
+</p>
+<ul><li>DOS-Compatible File System: <a class="new" href="/w/index.php?title=DosFS&amp;action=edit&amp;redlink=1" title="DosFS (страница отсутствует)">DosFS</a></li>
+<li>Raw File System: <a class="new" href="/w/index.php?title=RawFs&amp;action=edit&amp;redlink=1" title="RawFs (страница отсутствует)">RawFs</a></li>
+<li>Target Server File System: <a class="new" href="/w/index.php?title=TSFS&amp;action=edit&amp;redlink=1" title="TSFS (страница отсутствует)">TSFS</a></li>
+<li>Network File System: NFS</li>
+<li><a href="/wiki/ISO_9660" title="ISO 9660">ISO 9660</a> (CDROM File System)</li>
+<li>Tape File System: <a class="new" href="/w/index.php?title=TapeFs&amp;action=edit&amp;redlink=1" title="TapeFs (страница отсутствует)">TapeFs</a></li>
+<li><a class="mw-redirect" href="/wiki/CIFS" title="CIFS">CIFS</a>/<a class="mw-redirect" href="/wiki/SMB" title="SMB">SMB</a></li>
+<li><a class="new" href="/w/index.php?title=TrueFFS&amp;action=edit&amp;redlink=1" title="TrueFFS (страница отсутствует)">TrueFFS</a></li></ul>
+<h2><span id=".D0.9F.D0.BE.D0.B4.D0.B4.D0.B5.D1.80.D0.B6.D0.BA.D0.B0_.D1.81.D0.B8.D0.BC.D0.BC.D0.B5.D1.82.D1.80.D0.B8.D1.87.D0.BD.D0.BE.D0.B3.D0.BE_.D0.B8_.D0.B0.D1.81.D0.B8.D0.BC.D0.BC.D0.B5.D1.82.D1.80.D0.B8.D1.87.D0.BD.D0.BE.D0.B3.D0.BE_.D0.BC.D1.83.D0.BB.D1.8C.D1.82.D0.B8.D0.BF.D1.80.D0.BE.D1.86.D0.B5.D1.81.D1.81.D0.B8.D0.BD.D0.B3.D0.B0"></span><span class="mw-headline" id="Поддержка_симметричного_и_асимметричного_мультипроцессинга">Поддержка симметричного и асимметричного мультипроцессинга</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=VxWorks&amp;veaction=edit&amp;section=8" title="Редактировать раздел «Поддержка симметричного и асимметричного мультипроцессинга»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=VxWorks&amp;action=edit&amp;section=8" title="Редактировать код раздела «Поддержка симметричного и асимметричного мультипроцессинга»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Мультипроцессорная система реального времени, с точки зрения программного обеспечения, бывает двух видов: асимметричная <a class="mw-redirect" href="/wiki/ASMP" title="ASMP">ASMP</a> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">Asymmetrical MultiProcessing</span>) и симметричная <a class="mw-redirect" href="/wiki/%D0%A1%D0%B8%D0%BC%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%87%D0%BD%D0%B0%D1%8F_%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D0%B8%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Симметричная мультипроцессорность">SMP</a> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">Symmetrical MultiProcessing</span>).
+При асимметричном мультипроцессинге ASMP каждый микропроцессор, а в случае многоядерного микропроцессора — каждое процессорное ядро исполняет свой собственный экземпляр ОС, а за распределение процессов (потоков, задач) по процессорам отвечает разработчик прикладного ПО. В таком случае многопроцессорная система сложна в программировании, но обладает предсказуемостью (детерминированностью) характеристик реального времени.
+</p><p>При симметричном мультипроцессинге SMP прикладной программист видит многопроцессорную систему как виртуальную однопроцессорную, что значительно упрощает разработку ПО, но нет 100 % гарантии предсказуемости исполнения из-за того, что нагрузка между процессорами распределяется не вручную, а автоматически.
+</p><p>До появления на рынке встраиваемых микропроцессоров многоядерных устройств потребность в симметричном мультипроцессинге практически отсутствовала. Сложность разработки ПО для слабосвязанных многопроцессорных систем была невелика, и простоту программирования ставили на второе место после предсказуемости поведения системы реального времени. Поэтому в версиях VxWorks 5.x и 6.x вплоть до версии 6.5 поддерживался только асимметричный мультипроцессинг, реализованный в виде библиотеки <a class="new" href="/w/index.php?title=VxMP&amp;action=edit&amp;redlink=1" title="VxMP (страница отсутствует)">VxMP</a>(поставляется как дополнительный продукт), обеспечивающей коммуникацию между процессорами через объекты в разделяемой памяти. По мере появления встраиваемых многоядерных микропроцессоров с сильно связанными процессорными ядрами на кристалле на первое место выдвинулась простота разработки ПО, что привело к необходимости поддерживания встраиваемыми ОС реального времени симметричного мультипроцессинга.
+</p><p>С версии 6.6, вышедшей в ноябре <a href="/wiki/2007_%D0%B3%D0%BE%D0%B4" title="2007 год">2007 года</a>, VxWorks начала поддерживать симметричный мультипроцессинг SMP<sup class="reference" id="cite_ref-SMP_8-0"><a href="#cite_note-SMP-8">[8]</a></sup>. Поддержка SMP-систем включена в интегрированную среду разработки <a class="new" href="/w/index.php?title=Wind_River_Workbench&amp;action=edit&amp;redlink=1" title="Wind River Workbench (страница отсутствует)">Wind River Workbench</a> for VxWorks<sup class="reference" id="cite_ref-workbench_9-0"><a href="#cite_note-workbench-9">[9]</a></sup> и <a class="new" href="/w/index.php?title=Workbench_for_On-Chip-Debugging&amp;action=edit&amp;redlink=1" title="Workbench for On-Chip-Debugging (страница отсутствует)">Workbench for On-Chip-Debugging</a>.
+Поддержка SMP-систем в VxWorks поставляется как дополнительный компонент.
+Поддерживаются следующие многоядерные микропроцессоры:
+</p>
+<ul><li><a class="new" href="/w/index.php?title=ARM11_MPCore&amp;action=edit&amp;redlink=1" title="ARM11 MPCore (страница отсутствует)">ARM11 MPCore</a>(<a class="new" href="/w/index.php?title=ARMv6&amp;action=edit&amp;redlink=1" title="ARMv6 (страница отсутствует)">ARMv6</a>)</li>
+<li><a class="new" href="/w/index.php?title=Broadcom_MIPS_BCM1480&amp;action=edit&amp;redlink=1" title="Broadcom MIPS BCM1480 (страница отсутствует)">Broadcom MIPS BCM1480</a></li>
+<li><a class="new" href="/w/index.php?title=Cavium_OCTEON_CN38xx&amp;action=edit&amp;redlink=1" title="Cavium OCTEON CN38xx (страница отсутствует)">Cavium OCTEON CN38xx</a></li>
+<li><a class="new" href="/w/index.php?title=Freescale_MPC8641D&amp;action=edit&amp;redlink=1" title="Freescale MPC8641D (страница отсутствует)">Freescale MPC8641D</a></li>
+<li><a class="new" href="/w/index.php?title=Intel_Dual-Core_Xeon_LV&amp;action=edit&amp;redlink=1" title="Intel Dual-Core Xeon LV (страница отсутствует)">Intel Dual-Core Xeon LV</a></li>
+<li><a class="new" href="/w/index.php?title=Intel_Core_Duo_T2400&amp;action=edit&amp;redlink=1" title="Intel Core Duo T2400 (страница отсутствует)">Intel Core Duo T2400</a></li>
+<li><a class="new" href="/w/index.php?title=Raza_XLR_732&amp;action=edit&amp;redlink=1" title="Raza XLR 732 (страница отсутствует)">Raza XLR 732</a></li></ul>
+<h2><span id=".D0.98.D1.81.D0.BF.D0.BE.D0.BB.D1.8C.D0.B7.D0.BE.D0.B2.D0.B0.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Использование">Использование</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=VxWorks&amp;veaction=edit&amp;section=9" title="Редактировать раздел «Использование»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=VxWorks&amp;action=edit&amp;section=9" title="Редактировать код раздела «Использование»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Mars_Reconnaissance_Orbiter.jpg"><img class="mw-file-element" data-file-height="2181" data-file-width="2825" decoding="async" height="212" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Mars_Reconnaissance_Orbiter.jpg/275px-Mars_Reconnaissance_Orbiter.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Mars_Reconnaissance_Orbiter.jpg/413px-Mars_Reconnaissance_Orbiter.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Mars_Reconnaissance_Orbiter.jpg/550px-Mars_Reconnaissance_Orbiter.jpg 2x" width="275"/></a><figcaption>Представление художника: аппарат <a href="/wiki/Mars_Reconnaissance_Orbiter" title="Mars Reconnaissance Orbiter">Mars Reconnaissance Orbiter</a> на орбите Марса (используется система VxWorks)</figcaption></figure>
+<table class="mbox-Нет_ссылок plainlinks metadata ambox ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><span><img alt="" class="mw-file-element" data-file-height="204" data-file-width="262" decoding="async" height="37" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Question_book-4.svg/48px-Question_book-4.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Question_book-4.svg/72px-Question_book-4.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/64/Question_book-4.svg/96px-Question_book-4.svg.png 2x" width="48"/></span></span></div></td><td class="mbox-text"><div class="mbox-text-div">В разделе <b>не хватает <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D0%BD%D0%B0_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8" title="Википедия:Ссылки на источники">ссылок на источники</a></b> (см. <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2" title="Википедия:Поиск источников">рекомендации по поиску</a>).</div><div class="mbox-textsmall-div hide-when-compact" style="font-size:85%"><span class="hide-when-compact"> Информация должна быть <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D1%8F%D0%B5%D0%BC%D0%BE%D1%81%D1%82%D1%8C" title="Википедия:Проверяемость">проверяема</a>, иначе она может быть удалена. Вы можете <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=VxWorks&amp;action=edit">отредактировать</a> статью, добавив ссылки на <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D1%82%D0%BD%D1%8B%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8" title="Википедия:Авторитетные источники">авторитетные источники</a> в виде <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BD%D0%BE%D1%81%D0%BA%D0%B8" title="Википедия:Сноски">сносок</a>.</span> <span class="mbox-date"><i>(<span class="date">21 сентября 2014</span>)</i></span></div></td></tr></tbody></table>
+<ul><li><a class="mw-redirect" href="/wiki/Phoenix_(%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BF%D0%BF%D0%B0%D1%80%D0%B0%D1%82)" title="Phoenix (космический аппарат)">Phoenix Mars Lander</a> — аппарат <a href="/wiki/%D0%9D%D0%90%D0%A1%D0%90" title="НАСА">НАСА</a>, предназначенный для изучения <a class="mw-redirect" href="/wiki/%D0%9C%D0%B0%D1%80%D1%81_(%D0%BF%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B0)" title="Марс (планета)">Марса</a>.</li>
+<li>Зонды <a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%80%D0%B8%D1%82_(%D0%BC%D0%B0%D1%80%D1%81%D0%BE%D1%85%D0%BE%D0%B4)" title="Спирит (марсоход)">Spirit</a>, <a class="mw-redirect" href="/wiki/Opportunity" title="Opportunity">Opportunity</a> и <a class="mw-redirect" href="/wiki/Curiosity" title="Curiosity">Curiosity</a>, а также аппарат <a href="/wiki/Mars_Reconnaissance_Orbiter" title="Mars Reconnaissance Orbiter">Mars Reconnaissance Orbiter</a> используют VxWorks на платформе <a href="/wiki/POWER" title="POWER">POWER</a>. Система используется и в других космических миссиях, например, <a class="mw-redirect" href="/wiki/Deep_Impact" title="Deep Impact">Deep Impact</a>.</li>
+<li>Планируется использование в новейших авиалайнерах <a class="mw-redirect" href="/wiki/Boeing_787" title="Boeing 787">Boeing 787</a> и <a href="/wiki/Boeing_747-8" title="Boeing 747-8">Boeing 747-8</a>.</li>
+<li>Коммуникационное оборудование многих компаний (например, <a class="mw-redirect" href="/wiki/Nortel" title="Nortel">Nortel</a>, <a class="new" href="/w/index.php?title=3COM&amp;action=edit&amp;redlink=1" title="3COM (страница отсутствует)">3COM</a>, <a href="/wiki/Alcatel" title="Alcatel">Alcatel</a>, Samsung (OfficeServ 7400), Linksys WRT54G, NetGear WGR614).</li>
+<li>Некоторые <a href="/wiki/PostScript" title="PostScript">PostScript</a>-принтеры.</li>
+<li>Медицинское оборудование компании <a class="mw-redirect" href="/wiki/Siemens_AG" title="Siemens AG">Siemens AG</a> (в частности, магнитно-резонансные <a class="mw-redirect" href="/wiki/%D0%A2%D0%BE%D0%BC%D0%BE%D0%B3%D1%80%D0%B0%D1%84" title="Томограф">томографы</a>).</li>
+<li>Медицинское оборудование компании Toshiba (в частности, блоки обработки изображений компьютерных томографов)</li>
+<li>Системы хранения различных компаний (ETERNUS DX от <a href="/wiki/Fujitsu" title="Fujitsu">Fujitsu</a>, серия E от <a href="/wiki/NetApp" title="NetApp">NetApp</a>, серия DS от <a href="/wiki/IBM" title="IBM">IBM</a>).</li>
+<li>Система управления робототехническими комплексами компании <a href="/wiki/KUKA" title="KUKA">KUKA</a>.</li>
+<li>Система управления роботами компании <a href="/wiki/ABB" title="ABB">ABB</a>.</li>
+<li>Множество других применений во <a class="mw-redirect" href="/wiki/%D0%92%D1%81%D1%82%D1%80%D0%B0%D0%B8%D0%B2%D0%B0%D0%B5%D0%BC%D1%8B%D0%B5_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B" title="Встраиваемые системы">встраиваемых системах</a> с высокими требованиями к надёжности и времени отклика.</li></ul>
+<table class="wikitable">
+<tbody><tr>
+<th>Поддерживаемые целевые архитектуры (targets)
+</th>
+<th>Поддерживаемые инструментальные платформы (hosts)
+</th>
+<th>Поддерживаемые интерфейсы
+</th></tr>
+<tr>
+<td>
+<ul><li><a class="mw-redirect" href="/wiki/M68k" title="M68k">Motorola 680х0</a> и <a class="new" href="/w/index.php?title=CPU32&amp;action=edit&amp;redlink=1" title="CPU32 (страница отсутствует)">CPU32</a>, <a href="/wiki/PowerPC" title="PowerPC">PowerPC</a></li>
+<li><a href="/wiki/Intel" title="Intel">Intel</a> <a href="/wiki/Intel_80386" title="Intel 80386">386</a>/<a href="/wiki/Intel_80486" title="Intel 80486">486</a>/<a href="/wiki/Pentium" title="Pentium">Pentium</a>, <a class="mw-redirect" href="/wiki/I960" title="I960">Intel 960</a>,</li>
+<li><a class="mw-redirect" href="/wiki/Sparc" title="Sparc">Sparc</a>, <a href="/wiki/MIPS_(%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0)" title="MIPS (архитектура)">Mips</a> <a href="/wiki/R3000" title="R3000">R3000</a>/<a class="new" href="/w/index.php?title=Mips_4000&amp;action=edit&amp;redlink=1" title="Mips 4000 (страница отсутствует)">4000</a>,</li>
+<li><a class="new" href="/w/index.php?title=AMD_29K&amp;action=edit&amp;redlink=1" title="AMD 29K (страница отсутствует)">AMD 29K</a>, <a href="/wiki/MC88110" title="MC88110">Motorola 88110</a>,</li>
+<li><a href="/wiki/Hewlett-Packard" title="Hewlett-Packard">HP</a> <a href="/wiki/PA-RISC" title="PA-RISC">PA-RISC</a>,</li>
+<li><a href="/wiki/SuperH" title="SuperH">Hitachi SuperH</a>,</li>
+<li><a href="/wiki/DEC_Alpha" title="DEC Alpha">DEC Alpha</a></li></ul>
+</td>
+<td>
+<ul><li><a href="/wiki/Sun_Microsystems" title="Sun Microsystems">Sun</a> <a href="/wiki/SPARC" title="SPARC">SPARCstation</a> (<a href="/wiki/SunOS" title="SunOS">SunOS</a> и <a href="/wiki/Solaris" title="Solaris">Solaris</a>),</li>
+<li><a href="/wiki/HP_9000" title="HP 9000">HP 9000</a>/400,700 (<a href="/wiki/HP-UX" title="HP-UX">HP-UX</a>),</li>
+<li><a class="new" href="/w/index.php?title=IBM_RS6000&amp;action=edit&amp;redlink=1" title="IBM RS6000 (страница отсутствует)">IBM RS6000</a> (<a href="/wiki/AIX" title="AIX">AIX</a>),</li>
+<li><a href="/wiki/Silicon_Graphics" title="Silicon Graphics">Silicon Graphics</a> (<a href="/wiki/IRIX" title="IRIX">IRIX</a>),</li>
+<li><a href="/wiki/DEC_Alpha" title="DEC Alpha">DEC Alpha</a> (<a class="mw-redirect" href="/wiki/OSF/1" title="OSF/1">OSF/1</a>),</li>
+<li><a href="/wiki/X86" title="X86">x86</a></li></ul>
+</td>
+<td>
+<ul><li>host-target <a href="/wiki/Ethernet" title="Ethernet">Ethernet</a>,</li>
+<li><a class="mw-redirect" href="/wiki/RS232" title="RS232">RS232</a>,</li>
+<li><a class="new" href="/w/index.php?title=%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B8%D1%81%D1%85%D0%B5%D0%BC%D0%BD%D1%8B%D0%B9_%D1%8D%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80&amp;action=edit&amp;redlink=1" title="Внутрисхемный эмулятор (страница отсутствует)">ICE</a> (<a class="new" href="/w/index.php?title=In-Circuit_Emulator&amp;action=edit&amp;redlink=1" title="In-Circuit Emulator (страница отсутствует)">In-Circuit Emulator</a>),</li>
+<li><a class="new" href="/w/index.php?title=%D0%9A%D1%80%D0%BE%D1%81%D1%81-%D1%88%D0%B8%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="Кросс-шина (страница отсутствует)">кросс-шина</a> (<a class="mw-redirect" href="/wiki/Backplane" title="Backplane">backplane</a>)</li></ul>
+</td></tr>
+</tbody></table>
+<h2><span id=".D0.A1.D1.80.D0.B0.D0.B2.D0.BD.D0.B5.D0.BD.D0.B8.D0.B5_.D1.81_.D0.BD.D0.B5.D0.BA.D0.BE.D1.82.D0.BE.D1.80.D1.8B.D0.BC.D0.B8_.D0.BE.D0.BF.D0.B5.D1.80.D0.B0.D1.86.D0.B8.D0.BE.D0.BD.D0.BD.D1.8B.D0.BC.D0.B8_.D1.81.D0.B8.D1.81.D1.82.D0.B5.D0.BC.D0.B0.D0.BC.D0.B8_.D1.80.D0.B5.D0.B0.D0.BB.D1.8C.D0.BD.D0.BE.D0.B3.D0.BE_.D0.B2.D1.80.D0.B5.D0.BC.D0.B5.D0.BD.D0.B8"></span><span class="mw-headline" id="Сравнение_с_некоторыми_операционными_системами_реального_времени">Сравнение с некоторыми операционными системами реального времени</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=VxWorks&amp;veaction=edit&amp;section=10" title="Редактировать раздел «Сравнение с некоторыми операционными системами реального времени»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=VxWorks&amp;action=edit&amp;section=10" title="Редактировать код раздела «Сравнение с некоторыми операционными системами реального времени»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>VxWorks сравнивают с другими операционными системами реального времени<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup>.
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>ОСРВ
+</th>
+<th>Архитектура
+</th>
+<th>Среда разработки
+</th>
+<th>POSIX
+</th>
+<th><abbr title="Максимальное">Макс.</abbr> число задач
+</th></tr>
+<tr>
+<td>VxWorks
+</td>
+<td>Клиент-сервер, микроядро
+</td>
+<td>Tornado, Workbench, Qt Creator Commercial<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup>
+</td>
+<td>POSIX 1003.1, .1b, .1c (включая pThreads)
+</td>
+<td>ограничивается только объёмом памяти
+</td></tr>
+<tr>
+<td><a href="/wiki/QNX" title="QNX">QNX</a>
+</td>
+<td>Клиент-сервер, микроядро и взаимодействующие процессы
+</td>
+<td>QNX Momentics IDE, Qt Creator (Community и Commercial) с версии 3.0<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup>, Solaris, QNX4, QNX6 (до версии Neutrino 6.3.2 включительно)
+</td>
+<td>POSIX 1003.1-2001, с потоками и расширенным. РВ
+</td>
+<td>4095 процессов, в каждом процессе до 32767 потоков
+</td></tr>
+<tr>
+<td><a href="/wiki/LynxOS" title="LynxOS">LynxOS</a><sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup><sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup>
+</td>
+<td>монолитное ядро<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup>
+</td>
+<td>Luminosity на базе среды Eclipse
+</td>
+<td>POSIX 1003.1a/b/c, 1003.1-2003
+</td>
+<td>ограничено памятью
+</td></tr></tbody></table>
+<h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Примечания">Примечания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=VxWorks&amp;veaction=edit&amp;section=11" title="Редактировать раздел «Примечания»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=VxWorks&amp;action=edit&amp;section=11" title="Редактировать код раздела «Примечания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a class="external text" href="http://arstechnica.com/gadgets/news/2009/06/intel-strikes-back-at-arm-buys-embedded-os-maker-wind-river.ars" rel="nofollow">Intel strikes back at ARM, buys embedded OS maker Wind River</a> <a class="external text" href="https://web.archive.org/web/20090607020421/http://arstechnica.com/gadgets/news/2009/06/intel-strikes-back-at-arm-buys-embedded-os-maker-wind-river.ars" rel="nofollow">Архивная копия</a> от 7 июня 2009 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> — Ars Technica. <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.winvpn.net/news/press/pr.html?ID=7081" rel="nofollow">Intel Corporation today announced the successful completion of its acquisition of Wind River Systems Inc.</a> <small><a class="external text" href="https://web.archive.org/web/20111118214343/http://www.winvpn.net/news/press/pr.html?ID=7081" rel="nofollow">Архивировано</a> 18 ноября 2011 года.</small> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></span>
+</li>
+<li id="cite_note-VxWorks-3"><span class="mw-cite-backlink">↑ <a href="#cite_ref-VxWorks_3-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-VxWorks_3-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-VxWorks_3-2"><sup><i><b>3</b></i></sup></a></span> <span class="reference-text"><a class="external text" href="http://citforum.univ.kiev.ua/operating_systems/rtos/10.shtml" rel="nofollow">Статья «Операционные системы реального времени» И. Б. Бурдонов, А. С. Косачев, В. Н. Пономаренко</a> <small class="ref-info">(недоступная ссылка)</small> п. 2.1. VxWorks</span>
+</li>
+<li id="cite_note-WindNet-4"><span class="mw-cite-backlink">↑ <a href="#cite_ref-WindNet_4-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-WindNet_4-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><a class="external text" href="http://www.mka.ru/?p=40967" rel="nofollow">Статья «VxWorks: Операционная система реального времени и комплекс инструментальных средств разработки ПО РВ», А. В. Демьянов</a> <a class="external text" href="https://web.archive.org/web/20061011132646/http://www.mka.ru/?p=40967" rel="nofollow">Архивная копия</a> от 11 октября 2006 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> п. Дополнительные сетевые возможности: программа WindNet, п. Поддержка стандартов POSIX</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.fys.uio.no/studier/kurs/fys4220/docs/vxworks/guide/c-over4.html" rel="nofollow">VxWorks Facilities: An Overview</a> <small class="ref-info">(недоступная ссылка)</small>. Virtual Memory (Including VxVMI Option)</span>
+</li>
+<li id="cite_note-Network-6"><span class="mw-cite-backlink"><a href="#cite_ref-Network_6-0">↑</a></span> <span class="reference-text"><a class="external text" href="http://citforum.univ.kiev.ua/operating_systems/rtos/10.shtml" rel="nofollow">Статья: «Операционные системы реального времени» И. Б. Бурдонов, А. С. Косачев, В. Н. Пономаренко</a> <small class="ref-info">(недоступная ссылка)</small> п. 5. Сводные таблицы характеристик свойств ОСРВ табл. 2 <small class="ref-info">(недоступная ссылка с 11-07-2015 [3152 дня])</small></span>
+</li>
+<li id="cite_note-fs-7"><span class="mw-cite-backlink"><a href="#cite_ref-fs_7-0">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.xs4all.nl/~borkhuis/vxworks/vxw_pt3.html#3.1" rel="nofollow">VxWorks / Tornado II FAQ</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 10 января 2009. <a class="external text" href="https://web.archive.org/web/20100207003658/http://www.xs4all.nl/~borkhuis/vxworks/vxw_pt3.html#3.1" rel="nofollow">Архивировано</a> 7 февраля 2010 года.</span></span>
+</li>
+<li id="cite_note-SMP-8"><span class="mw-cite-backlink"><a href="#cite_ref-SMP_8-0">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.windriver.com/products/platforms/smp/" rel="nofollow">VxWorks 6.6 SMP, Symmetric Multiprocessing Technology for Multicore</a> <small><a class="external text" href="https://web.archive.org/web/20090212160743/http://www.windriver.com/products/platforms/smp/" rel="nofollow">Архивировано</a> 12 февраля 2009 года.</small></span>
+</li>
+<li id="cite_note-workbench-9"><span class="mw-cite-backlink"><a href="#cite_ref-workbench_9-0">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://web.archive.org/web/20071016143424/http://www.windriver.com/products/product-notes/workbench-product-note.pdf" rel="nofollow">pdf: Wind River Workbench</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 10 января 2009. Архивировано из <a class="external text" href="http://www.windriver.com/products/product-notes/workbench-product-note.pdf" rel="nofollow">оригинала</a> 16 октября 2007 года.</span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><a class="external text" href="http://citforum.univ.kiev.ua/operating_systems/rtos/41.shtml" rel="nofollow">Сводные таблицы характеристик свойств ОСРВ</a> <small><a class="external text" href="https://web.archive.org/web/20090506062400/http://citforum.univ.kiev.ua/operating_systems/rtos/41.shtml" rel="nofollow">Архивировано</a> 6 мая 2009 года.</small></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://web.archive.org/web/20150928042317/http://doc.qt.io/qt-5/platform-notes-vxworks.html" rel="nofollow">VxWorks Notes — Qt Documentation</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 17 сентября 2015. Архивировано из <a class="external text" href="http://doc.qt.io/qt-5/platform-notes-vxworks.html" rel="nofollow">оригинала</a> 28 сентября 2015 года.</span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://doc.qt.io/qtcreator/creator-os-supported-platforms.html#target-platforms" rel="nofollow">Target Platforms — Qt Documentation</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 17 сентября 2015. <a class="external text" href="https://web.archive.org/web/20151008014141/http://doc.qt.io/qtcreator/creator-os-supported-platforms.html#target-platforms" rel="nofollow">Архивировано</a> 8 октября 2015 года.</span></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://web.archive.org/web/20090105171123/http://www.asutp.ru/?p=600596" rel="nofollow">Статья: «LynxOS — операционная система реального времени в стандарте POSIX», Золотарёв С. В., Калядин А. Ю.</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span> Дата обращения: 13 января 2009. Архивировано из <a class="external text" href="http://www.asutp.ru/?p=600596" rel="nofollow">оригинала</a> 5 января 2009 года.</span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.rtsoft.ru/ru/press/news/mainnews/index.php?print=1&amp;id4=758" rel="nofollow">новостная статья</a> <small class="ref-info">(недоступная ссылка)</small></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.rtsoft.ru/ru/press/news/index.php?id4=328" rel="nofollow">статья: «Взгляд на мир операционных систем реального времени в 2006 году С. В. Золотарёв»</a> <small class="ref-info">(недоступная ссылка)</small> п. «Монолитное или микроядро?»</span>
+</li>
+</ol></div></div>
+<h2><span id=".D0.9B.D0.B8.D1.82.D0.B5.D1.80.D0.B0.D1.82.D1.83.D1.80.D0.B0"></span><span class="mw-headline" id="Литература">Литература</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=VxWorks&amp;veaction=edit&amp;section=12" title="Редактировать раздел «Литература»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=VxWorks&amp;action=edit&amp;section=12" title="Редактировать код раздела «Литература»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="http://www.mka.ru/?p=40036" rel="nofollow">VxWorks операционная система внутри Интернет, А. В. Демьянов (ЗАО РТСофт)</a></li>
+<li><a class="external text" href="http://www.mka.ru/?p=40967" rel="nofollow">VxWorks: Операционная система реального времени и комплекс инструментальных средств разработки ПО РВ, А. В. Демьянов, AVD Systems, г. Москва</a></li>
+<li><a class="external text" href="http://citforum.ru/operating_systems/rtos/" rel="nofollow">Операционные системы реального времени, И. Б. Бурдонов, А. С. Косачев, В. Н. Пономаренко</a></li>
+<li><a class="external text" href="http://www.vxworks.ru" rel="nofollow">www.vxworks.ru</a></li>
+<li><a class="external text" href="https://web.archive.org/web/20080516113632/http://rnd.cnews.ru/reviews/index_science.shtml?2008%2F05%2F05%2F299461_1" rel="nofollow">rnd.cnews.ru — Операционные системы реального времени для авионики: обзор</a></li></ul>
+<h2><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span><span class="mw-headline" id="Ссылки">Ссылки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=VxWorks&amp;veaction=edit&amp;section=13" title="Редактировать раздел «Ссылки»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=VxWorks&amp;action=edit&amp;section=13" title="Редактировать код раздела «Ссылки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="http://www.windriver.com/" rel="nofollow">Wind River Systems</a>
+<ul><li><a class="external text" href="http://www.windriver.com/products/run-time_technologies/Real-Time_Operating_Systems/VxWorks_6x/" rel="nofollow">VxWorks 6.x</a> <a class="external text" href="https://web.archive.org/web/20100205060155/http://www.windriver.com/products/run-time_technologies/Real-Time_Operating_Systems/VxWorks_6x/" rel="nofollow">Архивная копия</a> от 5 февраля 2010 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></li></ul></li>
+<li><a class="external text" href="http://www.xs4all.nl/~borkhuis/vxworks/vxworks.html" rel="nofollow">VxWorks/Tornado II FAQ</a></li>
+<li><a class="external text" href="https://web.archive.org/web/20081221095016/http://www.bluedonkey.org/cgi-bin/twiki/bin/view/Books/VxWorksCookBook" rel="nofollow">VxWorks Cookbook</a></li></ul>
+<div aria-labelledby="Операционные_системы_реального_времени" class="navbox" data-name="Операционные системы реального времени" role="navigation"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B_%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8" title="Перейти к шаблону «Операционные системы реального времени»"><img alt="Перейти к шаблону «Операционные системы реального времени»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span></span><div id="Операционные_системы_реального_времени" style="font-size:114%;margin:0 5em"><a href="/wiki/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8" title="Операционная система реального времени">Операционные системы реального времени</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><a class="new" href="/w/index.php?title=%D0%A1%D1%80%D0%B0%D0%B2%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D1%85_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC_%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8&amp;action=edit&amp;redlink=1" title="Сравнение операционных систем реального времени (страница отсутствует)">Сравнение операционных систем реального времени</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5" title="Открытое программное обеспечение">Открытые</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="new" href="/w/index.php?title=BeRTOS&amp;action=edit&amp;redlink=1" title="BeRTOS (страница отсутствует)">BeRTOS</a></li>
+<li><a href="/wiki/ChibiOS/RT" title="ChibiOS/RT">ChibiOS/RT</a></li>
+<li><a href="/wiki/Contiki" title="Contiki">Contiki</a></li>
+<li><a href="/wiki/ECos" title="ECos">eCos</a></li>
+<li><a class="new" href="/w/index.php?title=ERIKA_Enterprise&amp;action=edit&amp;redlink=1" title="ERIKA Enterprise (страница отсутствует)">ERIKA Enterprise</a></li>
+<li><a href="/wiki/FreeRTOS" title="FreeRTOS">FreeRTOS</a></li>
+<li><a href="/wiki/Google_Fuchsia" title="Google Fuchsia">Fuchsia</a></li>
+<li><a class="new" href="/w/index.php?title=FunkOS&amp;action=edit&amp;redlink=1" title="FunkOS (страница отсутствует)">FunkOS</a></li>
+<li><a class="new" href="/w/index.php?title=Apache_Mynewt_OS&amp;action=edit&amp;redlink=1" title="Apache Mynewt OS (страница отсутствует)">Mynewt OS</a></li>
+<li><a class="new" href="/w/index.php?title=Nano-RK&amp;action=edit&amp;redlink=1" title="Nano-RK (страница отсутствует)">Nano-RK</a></li>
+<li><a class="new" href="/w/index.php?title=NuttX&amp;action=edit&amp;redlink=1" title="NuttX (страница отсутствует)">NuttX</a></li>
+<li><a class="new" href="/w/index.php?title=RIOT_(%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0)&amp;action=edit&amp;redlink=1" title="RIOT (операционная система) (страница отсутствует)">RIOT</a></li>
+<li><a class="new" href="/w/index.php?title=RTAI&amp;action=edit&amp;redlink=1" title="RTAI (страница отсутствует)">RTAI</a></li>
+<li><a href="/wiki/RTEMS" title="RTEMS">RTEMS</a></li>
+<li><a href="/wiki/RTLinux" title="RTLinux">RTLinux</a></li>
+<li><a class="new" href="/w/index.php?title=RT-Thread&amp;action=edit&amp;redlink=1" title="RT-Thread (страница отсутствует)">RT-Thread</a></li>
+<li><a class="new" href="/w/index.php?title=SeL4&amp;action=edit&amp;redlink=1" title="SeL4 (страница отсутствует)">seL4</a></li>
+<li><a class="new" href="/w/index.php?title=TI-RTOS&amp;action=edit&amp;redlink=1" title="TI-RTOS (страница отсутствует)">TI-RTOS</a></li>
+<li><a class="new" href="/w/index.php?title=TRON_project&amp;action=edit&amp;redlink=1" title="TRON project (страница отсутствует)">TRON</a></li>
+<li><a class="new" href="/w/index.php?title=Wombat_OS&amp;action=edit&amp;redlink=1" title="Wombat OS (страница отсутствует)">Wombat OS</a></li>
+<li><a href="/wiki/Xenomai" title="Xenomai">Xenomai</a></li>
+<li><a class="new" href="/w/index.php?title=Zephyr_(operating_system)&amp;action=edit&amp;redlink=1" title="Zephyr (operating system) (страница отсутствует)">Zephyr</a></li>
+<li><a href="/wiki/Embox" title="Embox">Embox</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/%D0%9F%D1%80%D0%BE%D0%BF%D1%80%D0%B8%D0%B5%D1%82%D0%B0%D1%80%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5" title="Проприетарное программное обеспечение">Проприетарные</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="new" href="/w/index.php?title=4690_Operating_System&amp;action=edit&amp;redlink=1" title="4690 Operating System (страница отсутствует)">4690 OS</a></li>
+<li><a class="new" href="/w/index.php?title=DioneOS&amp;action=edit&amp;redlink=1" title="DioneOS (страница отсутствует)">DioneOS</a></li>
+<li><a href="/wiki/Integrity_(%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0)" title="Integrity (операционная система)">Integrity</a></li>
+<li><a class="new" href="/w/index.php?title=Junos_OS&amp;action=edit&amp;redlink=1" title="Junos OS (страница отсутствует)">Junos OS</a></li>
+<li><a href="/wiki/LynxOS" title="LynxOS">LynxOS</a></li>
+<li><a class="new" href="/w/index.php?title=Micro-Controller_Operating_Systems&amp;action=edit&amp;redlink=1" title="Micro-Controller Operating Systems (страница отсутствует)">µC/OS-II</a></li>
+<li><a class="new" href="/w/index.php?title=MQX&amp;action=edit&amp;redlink=1" title="MQX (страница отсутствует)">MQX</a></li>
+<li><a class="new" href="/w/index.php?title=Nucleus_RTOS&amp;action=edit&amp;redlink=1" title="Nucleus RTOS (страница отсутствует)">Nucleus RTOS</a></li>
+<li><a class="new" href="/w/index.php?title=OpenComRTOS&amp;action=edit&amp;redlink=1" title="OpenComRTOS (страница отсутствует)">OpenComRTOS</a></li>
+<li><a class="new" href="/w/index.php?title=Operating_System_Embedded&amp;action=edit&amp;redlink=1" title="Operating System Embedded (страница отсутствует)">OSE</a></li>
+<li><a href="/wiki/OS-9" title="OS-9">OS-9</a></li>
+<li><a class="new" href="/w/index.php?title=PikeOS&amp;action=edit&amp;redlink=1" title="PikeOS (страница отсутствует)">PikeOS</a></li>
+<li><a href="/wiki/QNX" title="QNX">QNX</a></li>
+<li><a class="new" href="/w/index.php?title=REAL/32&amp;action=edit&amp;redlink=1" title="REAL/32 (страница отсутствует)">REAL/32</a></li>
+<li><a class="new" href="/w/index.php?title=REX_OS&amp;action=edit&amp;redlink=1" title="REX OS (страница отсутствует)">REX OS</a></li>
+<li><a href="/wiki/ScreenOS" title="ScreenOS">ScreenOS</a></li>
+<li><a href="/wiki/ThreadX" title="ThreadX">ThreadX</a></li>
+<li><a class="new" href="/w/index.php?title=Transaction_Processing_Facility&amp;action=edit&amp;redlink=1" title="Transaction Processing Facility (страница отсутствует)">TPF</a></li>
+<li><a class="new" href="/w/index.php?title=Versatile_Real-Time_Executive&amp;action=edit&amp;redlink=1" title="Versatile Real-Time Executive (страница отсутствует)">VRTX</a></li>
+<li><a class="mw-selflink selflink">VxWorks</a></li>
+<li><a href="/wiki/Windows_CE" title="Windows CE">Windows Embedded Compact</a></li>
+<li><a href="/wiki/%D0%9E%D1%812000" title="Ос2000">ос2000</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Исторические</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="new" href="/w/index.php?title=4680_OS&amp;action=edit&amp;redlink=1" title="4680 OS (страница отсутствует)">4680 OS</a></li>
+<li><a class="new" href="/w/index.php?title=Concurrent_DOS&amp;action=edit&amp;redlink=1" title="Concurrent DOS (страница отсутствует)">Concurrent DOS</a></li>
+<li><a class="new" href="/w/index.php?title=DNIX&amp;action=edit&amp;redlink=1" title="DNIX (страница отсутствует)">DNIX</a></li>
+<li><a class="new" href="/w/index.php?title=DSOS&amp;action=edit&amp;redlink=1" title="DSOS (страница отсутствует)">DSOS</a></li>
+<li><a class="new" href="/w/index.php?title=EROS_(%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D1%8F%D0%B4%D1%80%D0%BE)&amp;action=edit&amp;redlink=1" title="EROS (микроядро) (страница отсутствует)">EROS</a></li>
+<li><a href="/wiki/FlexOS" title="FlexOS">FlexOS</a></li>
+<li><a class="new" href="/w/index.php?title=Multi-Environment_Real-Time&amp;action=edit&amp;redlink=1" title="Multi-Environment Real-Time (страница отсутствует)">MERT/UNIX-RT</a></li>
+<li><a href="/wiki/Multiuser_DOS" title="Multiuser DOS">Multiuser DOS</a></li>
+<li><a class="new" href="/w/index.php?title=PSOS_(%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8)&amp;action=edit&amp;redlink=1" title="PSOS (операционная система реального времени) (страница отсутствует)">pSOS</a></li>
+<li><a class="new" href="/w/index.php?title=RMX_(%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0)&amp;action=edit&amp;redlink=1" title="RMX (операционная система) (страница отсутствует)">RMX</a></li>
+<li><a href="/wiki/RSX-11" title="RSX-11">RSX-11</a></li>
+<li><a href="/wiki/RT-11" title="RT-11">RT-11</a></li>
+<li><a class="new" href="/w/index.php?title=Sintran_III&amp;action=edit&amp;redlink=1" title="Sintran III (страница отсутствует)">Sintran III</a></li>
+<li><a href="/wiki/Symbian_OS" title="Symbian OS">Symbian OS</a></li>
+<li><a class="new" href="/w/index.php?title=THEOS&amp;action=edit&amp;redlink=1" title="THEOS (страница отсутствует)">THEOS</a></li>
+<li><a class="new" href="/w/index.php?title=UNOS_(%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0)&amp;action=edit&amp;redlink=1" title="UNOS (операционная система) (страница отсутствует)">UNOS</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B_%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8" title="Категория:Операционные системы реального времени">Категория</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw2371
+Cached time: 20240226120839
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.352 seconds
+Real time usage: 0.504 seconds
+Preprocessor visited node count: 2664/1000000
+Post‐expand include size: 59029/2097152 bytes
+Template argument size: 6243/2097152 bytes
+Highest expansion depth: 16/100
+Expensive parser function count: 16/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 12048/5000000 bytes
+Lua time usage: 0.205/10.000 seconds
+Lua memory usage: 8247476/52428800 bytes
+Number of Wikibase entities loaded: 18/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  428.160      1 -total
+ 62.45%  267.375      1 Шаблон:Карточка_ОС
+ 59.58%  255.089      1 Шаблон:Карточка
+ 18.70%   80.086      7 Шаблон:Wikidata
+ 17.02%   72.882      1 Шаблон:Примечания
+ 15.18%   64.990      1 Шаблон:Нет_источников_в_разделе
+ 14.25%   61.020      1 Шаблон:Нет_источников
+  7.78%   33.299      5 Шаблон:Cite_web
+  7.46%   31.944      1 Шаблон:Сортировка:_статьи_без_источников
+  6.26%   26.784      1 Шаблон:Ambox
+-->
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:368014-0!canonical and timestamp 20240226120839 and revision id 132173343. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> -->
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=VxWorks&amp;oldid=132173343">https://ru.wikipedia.org/w/index.php?title=VxWorks&amp;oldid=132173343</a></div></div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Программное обеспечение по алфавиту">Программное обеспечение по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B,_%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%B2_1987_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:Операционные системы, разработанные в 1987 году">Операционные системы, разработанные в 1987 году</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B_%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8" title="Категория:Операционные системы реального времени">Операционные системы реального времени</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D1%81%D1%82%D1%80%D0%B0%D0%B8%D0%B2%D0%B0%D0%B5%D0%BC%D1%8B%D0%B5_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B" title="Категория:Встраиваемые операционные системы">Встраиваемые операционные системы</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B_%D0%BD%D0%B0_%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%B5_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D1%8F%D0%B4%D0%B5%D1%80" title="Категория:Операционные системы на основе микроядер">Операционные системы на основе микроядер</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D0%BD%D0%B5%D1%80%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%BC%D0%B8_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8" title="Категория:Википедия:Статьи с нерабочими ссылками">Википедия:Статьи с нерабочими ссылками</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D0%BD%D0%B5%D1%80%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%BC%D0%B8_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8_%D1%81_%D0%B8%D1%8E%D0%BB%D1%8F_2015" title="Категория:Википедия:Статьи с нерабочими ссылками с июля 2015">Википедия:Статьи с нерабочими ссылками с июля 2015</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%BD%D0%B5_%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD_%D1%8F%D0%B7%D1%8B%D0%BA)" title="Категория:Википедия:Cite web (не указан язык)">Википедия:Cite web (не указан язык)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%A0%D0%9E:%D0%98%D0%A2:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:ПРО:ИТ:Статьи по алфавиту">ПРО:ИТ:Статьи по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%A0%D0%9E:%D0%98%D0%A2:%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D1%8F%D1%8F_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:_%D0%B2_%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%BE%D0%BC_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:ПРО:ИТ:Последняя правка: в прошлом году">ПРО:ИТ:Последняя правка: в прошлом году</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B0%D0%BC%D0%B8_%D0%B1%D0%B5%D0%B7_%D1%81%D1%81%D1%8B%D0%BB%D0%BE%D0%BA_%D0%BD%D0%B0_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D1%81_%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8F_2014_%D0%B3%D0%BE%D0%B4%D0%B0" title="Категория:Википедия:Статьи с разделами без ссылок на источники с сентября 2014 года">Википедия:Статьи с разделами без ссылок на источники с сентября 2014 года</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%B1%D0%B5%D0%B7_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_(%D0%BD%D0%B5_%D1%80%D0%B0%D1%81%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D0%BE_%D1%82%D0%B8%D0%BF%D0%B0%D0%BC)" title="Категория:Википедия:Статьи без источников (не распределённые по типам)">Википедия:Статьи без источников (не распределённые по типам)</a></li></ul></div></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Навигация</h2>
+<div id="mw-head">
+<nav aria-labelledby="p-personal-label" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" id="p-personal" role="navigation">
+<h3 class="vector-menu-heading" id="p-personal-label">
+<span class="vector-menu-heading-label">Персональные инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="pt-anonuserpage"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li class="mw-list-item" id="pt-anontalk"><a accesskey="n" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]"><span>Обсуждение</span></a></li><li class="mw-list-item" id="pt-anoncontribs"><a accesskey="y" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]"><span>Вклад</span></a></li><li class="mw-list-item" id="pt-createaccount"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=VxWorks" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li class="mw-list-item" id="pt-login"><a accesskey="o" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=VxWorks" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]"><span>Войти</span></a></li>
+</ul>
+</div>
+</nav>
+<div id="left-navigation">
+<nav aria-labelledby="p-namespaces-label" class="mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-namespaces" role="navigation">
+<h3 class="vector-menu-heading" id="p-namespaces-label">
+<span class="vector-menu-heading-label">Пространства имён</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-nstab-main"><a accesskey="c" href="/wiki/VxWorks" title="Просмотреть контентную страницу [c]"><span>Статья</span></a></li><li class="mw-list-item" id="ca-talk"><a accesskey="t" href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:VxWorks" rel="discussion" title="Обсуждение основной страницы [t]"><span>Обсуждение</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-variants-label" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" id="p-variants" role="navigation">
+<input aria-haspopup="true" aria-labelledby="p-variants-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-variants" id="p-variants-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-variants-label">
+<span class="vector-menu-heading-label">русский</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+</div>
+<div id="right-navigation">
+<nav aria-labelledby="p-views-label" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-views" role="navigation">
+<h3 class="vector-menu-heading" id="p-views-label">
+<span class="vector-menu-heading-label">Просмотры</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="ca-view"><a href="/w/index.php?title=VxWorks&amp;stable=1"><span>Читать</span></a></li><li class="collapsible selected mw-list-item" id="ca-current"><a accesskey="v" href="/w/index.php?title=VxWorks&amp;stable=0&amp;redirect=no" title="Показать текущую версию этой страницы [v]"><span>Текущая версия</span></a></li><li class="mw-list-item" id="ca-ve-edit"><a accesskey="v" href="/w/index.php?title=VxWorks&amp;veaction=edit" title="Редактировать данную страницу [v]"><span>Править</span></a></li><li class="collapsible mw-list-item" id="ca-edit"><a accesskey="e" href="/w/index.php?title=VxWorks&amp;action=edit" title="Править исходный текст этой страницы [e]"><span>Править код</span></a></li><li class="mw-list-item" id="ca-history"><a accesskey="h" href="/w/index.php?title=VxWorks&amp;action=history" title="Журнал изменений страницы [h]"><span>История</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-cactions-label" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" id="p-cactions" role="navigation" title="Больше возможностей">
+<input aria-haspopup="true" aria-labelledby="p-cactions-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-cactions" id="p-cactions-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-cactions-label">
+<span class="vector-menu-heading-label">Ещё</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+<div class="vector-search-box-vue vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box" id="p-search" role="search">
+<h3>Поиск</h3>
+<form action="/w/index.php" class="vector-search-box-form" id="searchform">
+<div class="vector-search-box-inner" data-search-loc="header-navigation" id="simpleSearch">
+<input accesskey="f" aria-label="Искать в Википедии" autocapitalize="sentences" class="vector-search-box-input" id="searchInput" name="search" placeholder="Искать в Википедии" title="Искать в Википедии [f]" type="search"/>
+<input name="title" type="hidden" value="Служебная:Поиск"/>
+<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Найти страницы, содержащие указанный текст" type="submit" value="Найти"/>
+<input class="searchButton" id="searchButton" name="go" title="Перейти к странице, имеющей в точности такое название" type="submit" value="Перейти"/>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="vector-legacy-sidebar" id="mw-panel">
+<div id="p-logo" role="banner">
+<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу"></a>
+</div>
+<nav aria-labelledby="p-navigation-label" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" id="p-navigation" role="navigation">
+<h3 class="vector-menu-heading" id="p-navigation-label">
+<span class="vector-menu-heading-label">Навигация</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-mainpage-description"><a accesskey="z" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]"><span>Заглавная страница</span></a></li><li class="mw-list-item" id="n-content"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li class="mw-list-item" id="n-featured"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li class="mw-list-item" id="n-randompage"><a accesskey="x" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]"><span>Случайная статья</span></a></li><li class="mw-list-item" id="n-currentevents"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li class="mw-list-item" id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-participation-label" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" id="p-participation" role="navigation">
+<h3 class="vector-menu-heading" id="p-participation-label">
+<span class="vector-menu-heading-label">Участие</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-bug_in_article"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li class="mw-list-item" id="n-introduction"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li class="mw-list-item" id="n-portal"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li class="mw-list-item" id="n-forum"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li class="mw-list-item" id="n-recentchanges"><a accesskey="r" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]"><span>Свежие правки</span></a></li><li class="mw-list-item" id="n-newpages"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li class="mw-list-item" id="n-help"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-tb-label" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" id="p-tb" role="navigation">
+<h3 class="vector-menu-heading" id="p-tb-label">
+<span class="vector-menu-heading-label">Инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="t-whatlinkshere"><a accesskey="j" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/VxWorks" title="Список всех страниц, ссылающихся на данную [j]"><span>Ссылки сюда</span></a></li><li class="mw-list-item" id="t-recentchangeslinked"><a accesskey="k" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/VxWorks" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]"><span>Связанные правки</span></a></li><li class="mw-list-item" id="t-specialpages"><a accesskey="q" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]"><span>Служебные страницы</span></a></li><li class="mw-list-item" id="t-permalink"><a href="/w/index.php?title=VxWorks&amp;oldid=132173343" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li class="mw-list-item" id="t-info"><a href="/w/index.php?title=VxWorks&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li class="mw-list-item" id="t-cite"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=VxWorks&amp;id=132173343&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li class="mw-list-item" id="t-urlshortener"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2FVxWorks"><span>Получить короткий URL</span></a></li><li class="mw-list-item" id="t-urlshortener-qrcode"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2FVxWorks"><span>Скачать QR-код</span></a></li><li class="mw-list-item" id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q757165" title="Ссылка на связанный элемент репозитория данных [g]"><span>Элемент Викиданных</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-coll-print_export-label" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" id="p-coll-print_export" role="navigation">
+<h3 class="vector-menu-heading" id="p-coll-print_export-label">
+<span class="vector-menu-heading-label">Печать/экспорт</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="coll-download-as-rl"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=VxWorks&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li class="mw-list-item" id="t-print"><a accesskey="p" href="/w/index.php?title=VxWorks&amp;printable=yes" title="Версия этой страницы для печати [p]"><span>Версия для печати</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-wikibase-otherprojects-label" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal vector-menu" id="p-wikibase-otherprojects" role="navigation">
+<h3 class="vector-menu-heading" id="p-wikibase-otherprojects-label">
+<span class="vector-menu-heading-label">В других проектах</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:VxWorks" hreflang="en"><span>Викисклад</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-lang-label" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" id="p-lang" role="navigation">
+<h3 class="vector-menu-heading" id="p-lang-label">
+<span class="vector-menu-heading-label">На других языках</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="interlanguage-link interwiki-ca mw-list-item"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/VxWorks" hreflang="ca" lang="ca" title="VxWorks — каталанский"><span>Català</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/VxWorks" hreflang="de" lang="de" title="VxWorks — немецкий"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a class="interlanguage-link-target" href="https://en.wikipedia.org/wiki/VxWorks" hreflang="en" lang="en" title="VxWorks — английский"><span>English</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/VxWorks" hreflang="es" lang="es" title="VxWorks — испанский"><span>Español</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/VxWorks" hreflang="fi" lang="fi" title="VxWorks — финский"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/VxWorks" hreflang="fr" lang="fr" title="VxWorks — французский"><span>Français</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/VxWorks" hreflang="hr" lang="hr" title="VxWorks — хорватский"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/VxWorks" hreflang="hu" lang="hu" title="VxWorks — венгерский"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/VxWorks" hreflang="it" lang="it" title="VxWorks — итальянский"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/VxWorks" hreflang="ja" lang="ja" title="VxWorks — японский"><span>日本語</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/VxWorks" hreflang="ko" lang="ko" title="VxWorks — корейский"><span>한국어</span></a></li><li class="interlanguage-link interwiki-lmo mw-list-item"><a class="interlanguage-link-target" href="https://lmo.wikipedia.org/wiki/VxWorks" hreflang="lmo" lang="lmo" title="VxWorks — Lombard"><span>Lombard</span></a></li><li class="interlanguage-link interwiki-lt mw-list-item"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/VxWorks" hreflang="lt" lang="lt" title="VxWorks — литовский"><span>Lietuvių</span></a></li><li class="interlanguage-link interwiki-my mw-list-item"><a class="interlanguage-link-target" href="https://my.wikipedia.org/wiki/%E1%80%97%E1%80%AE%E1%80%A1%E1%80%AD%E1%80%90%E1%80%BA%E1%80%87%E1%80%BA%E1%80%9D%E1%80%AB%E1%80%B7%E1%80%81%E1%80%BA" hreflang="my" lang="my" title="ဗီအိတ်ဇ်ဝါ့ခ် — бирманский"><span>မြန်မာဘာသာ</span></a></li><li class="interlanguage-link interwiki-nn mw-list-item"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/VxWorks" hreflang="nn" lang="nn" title="VxWorks — нюнорск"><span>Norsk nynorsk</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/VxWorks" hreflang="nb" lang="nb" title="VxWorks — норвежский букмол"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/VxWorks" hreflang="pl" lang="pl" title="VxWorks — польский"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/VxWorks" hreflang="pt" lang="pt" title="VxWorks — португальский"><span>Português</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/VxWorks" hreflang="ro" lang="ro" title="VxWorks — румынский"><span>Română</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/VxWorks" hreflang="en-simple" lang="en-simple" title="VxWorks — Simple English"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/VxWorks" hreflang="sv" lang="sv" title="VxWorks — шведский"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/VxWorks" hreflang="tr" lang="tr" title="VxWorks — турецкий"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/VxWorks" hreflang="uk" lang="uk" title="VxWorks — украинский"><span>Українська</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/VxWorks" hreflang="zh" lang="zh" title="VxWorks — китайский"><span>中文</span></a></li>
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q757165#sitelinks-wikipedia" title="Править ссылки на другие языки">Править ссылки</a></span></div>
+</div>
+</nav>
+</div>
+</div>
+<footer class="mw-footer" id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 6 августа 2023 в 12:55.</li>
+<li id="footer-info-copyright">Текст доступен по <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru" rel="license">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a><a href="//creativecommons.org/licenses/by-sa/4.0/" rel="license" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br/>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org/ru/">Фонд Викимедиа (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//ru.m.wikipedia.org/w/index.php?title=VxWorks&amp;mobileaction=toggle_view_mobile">Мобильная версия</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" loading="lazy" src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88"/></a></li>
+<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" loading="lazy" src="/static/images/footer/poweredby_mediawiki_88x31.png" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88"/></a></li>
+</ul>
+</footer>
+
+
+</body>
+</html>

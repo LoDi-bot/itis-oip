@@ -1,0 +1,917 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="ru">
+<head>
+<meta charset="utf-8"/>
+<title>Чи-Ну — Википедия</title>
+
+
+
+
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+
+
+<meta content="MediaWiki 1.42.0-wmf.19" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="max-image-preview:standard" name="robots"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Chi-Nu.JPG/1200px-Chi-Nu.JPG" property="og:image"/>
+<meta content="1200" property="og:image:width"/>
+<meta content="867" property="og:image:height"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Chi-Nu.JPG/800px-Chi-Nu.JPG" property="og:image"/>
+<meta content="800" property="og:image:width"/>
+<meta content="578" property="og:image:height"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Chi-Nu.JPG/640px-Chi-Nu.JPG" property="og:image"/>
+<meta content="640" property="og:image:width"/>
+<meta content="462" property="og:image:height"/>
+<meta content="width=1000" name="viewport"/>
+<meta content="Чи-Ну — Википедия" property="og:title"/>
+<meta content="website" property="og:type"/>
+
+
+
+
+
+
+
+
+
+
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Чи-Ну rootpage-Чи-Ну skin-vector action-view"><div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators">
+</div>
+<h1 class="firstHeading mw-first-heading" id="firstHeading"><span class="mw-page-title-main">Чи-Ну</span></h1>
+<div class="vector-body" id="bodyContent">
+<div class="noprint" id="siteSub">Материал из Википедии — свободной энциклопедии</div>
+<div id="contentSub"><div id="mw-content-subtitle"><div class="plainlinks flaggedrevs_preview" id="mw-fr-reviewnotice">Текущая версия страницы пока <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9/%D0%9F%D0%BE%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BB%D1%8F_%D1%87%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9" title="Википедия:Проверка статей/Пояснение для читателей">не проверялась</a> опытными участниками и может значительно отличаться от <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%A7%D0%B8-%D0%9D%D1%83&amp;stable=1">версии</a>, проверенной 9 января 2018 года; проверки требуют <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%A7%D0%B8-%D0%9D%D1%83&amp;oldid=88129269&amp;diff=cur&amp;diffonly=0">24 правки</a>.</div><div class="flaggedrevs_short flaggedrevs_draft_notsynced plainlinks noprint" id="mw-fr-revisiontag"><div class="flaggedrevs_short_basic"><span class="flaggedrevs-icon oo-ui-widget oo-ui-widget-enabled oo-ui-iconElement-icon oo-ui-icon-block oo-ui-iconElement oo-ui-labelElement-invisible oo-ui-iconWidget" title="Текущая версия"></span><span class="fr-toggle-arrow oo-ui-widget oo-ui-widget-enabled oo-ui-indicatorElement-indicator oo-ui-indicator-down oo-ui-indicatorElement oo-ui-labelElement-invisible oo-ui-indicatorWidget" id="mw-fr-revisiontoggle" title="показать/скрыть подробности"></span></div>
+<div id="mw-fr-revisiondetails-wrapper" style="position:relative;"><div class="flaggedrevs_short_details" id="mw-fr-revisiondetails" style="display:none">Текущая версия страницы пока <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9/%D0%9F%D0%BE%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BB%D1%8F_%D1%87%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9" title="Википедия:Проверка статей/Пояснение для читателей">не проверялась</a> опытными участниками и может значительно отличаться от <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%A7%D0%B8-%D0%9D%D1%83&amp;stable=1">версии</a>, проверенной 9 января 2018 года; проверки требуют <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%A7%D0%B8-%D0%9D%D1%83&amp;oldid=88129269&amp;diff=cur&amp;diffonly=0">24 правки</a>.</div>
+</div>
+</div>
+</div></div>
+<div id="contentSub2"></div>
+<div id="jump-to-nav"></div>
+<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+<div class="mw-body-content" id="mw-content-text"><div class="mw-content-ltr mw-parser-output" dir="ltr" lang="ru"><table class="infobox infobox-086e130372ac2081" data-name="Танк" style=""><tbody><tr><th class="infobox-above" colspan="2" scope="colgroup" style="">Чи-Ну</th></tr><tr><td class="infobox-image" colspan="2" style=""> <span class="no-wikidata" data-wikidata-property-id="P18"><span typeof="mw:File/Frameless"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chi-Nu.JPG"><img class="mw-file-element" data-file-height="985" data-file-width="1364" decoding="async" height="198" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Chi-Nu.JPG/274px-Chi-Nu.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Chi-Nu.JPG/411px-Chi-Nu.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Chi-Nu.JPG/548px-Chi-Nu.JPG 2x" width="274"/></a></span></span> </td></tr>
+<tr>
+<th class="infobox-header" colspan="2" scope="colgroup" style="">Средний танк Тип 3, «Чи-Ну»</th>
+</tr>
+<tr>
+<th class="plainlist" scope="row" style="min-width:12em;">Классификация</th>
+<td class="plainlist">
+<a href="/wiki/%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9_%D1%82%D0%B0%D0%BD%D0%BA" title="Средний танк">средний танк</a></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row" style="min-width:12em;">Боевая масса, т</th>
+<td class="plainlist">
+18,8</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row" style="min-width:12em;"><a href="/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0_%D1%82%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2" title="Компоновка танков">Компоновочная схема</a></th>
+<td class="plainlist">
+трансмиссионное отделение спереди, моторное сзади</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row" style="min-width:12em;"><a href="/wiki/%D0%AD%D0%BA%D0%B8%D0%BF%D0%B0%D0%B6" title="Экипаж">Экипаж</a>, чел.</th>
+<td class="plainlist">
+5</td>
+</tr>
+<tr>
+<th class="infobox-header" colspan="2" scope="colgroup" style="">История</th>
+</tr>
+<tr>
+<th class="plainlist" scope="row" style="min-width:12em;">Годы производства</th>
+<td class="plainlist">
+<a class="mw-redirect" href="/wiki/1943" title="1943">1943</a>—<a class="mw-redirect" href="/wiki/1945" title="1945">1945</a></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row" style="min-width:12em;">Годы эксплуатации</th>
+<td class="plainlist">
+<a class="mw-redirect" href="/wiki/1943" title="1943">1943</a> — <a class="mw-redirect" href="/wiki/1960-%D0%B5" title="1960-е">1960-е</a></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row" style="min-width:12em;">Количество выпущенных, шт.</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P1092">от 60 до 166, по различным источникам</span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row" style="min-width:12em;">Основные операторы</th>
+<td class="plainlist">
+<span class="flagicon"><span class="mw-image-border noresize noviewer" typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Japan.svg" title="Япония"><img alt="Япония" class="mw-file-element" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/22px-Flag_of_Japan.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/33px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/44px-Flag_of_Japan.svg.png 2x" width="22"/></a></span></span></td>
+</tr>
+<tr>
+<th class="infobox-header" colspan="2" scope="colgroup" style="">Размеры</th>
+</tr>
+<tr>
+<th class="plainlist" scope="row" style="min-width:12em;">Длина <a href="/wiki/%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F_%D1%82%D0%B0%D0%BD%D0%BA%D0%B0#Компоновка_танка" title="Конструкция танка">корпуса</a>, мм</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P2043">5730</span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row" style="min-width:12em;">Длина с <a href="/wiki/%D0%9F%D1%83%D1%88%D0%BA%D0%B0" title="Пушка">пушкой</a> вперёд, мм</th>
+<td class="plainlist">
+6500</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row" style="min-width:12em;">Ширина, мм</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P2049">2330</span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row" style="min-width:12em;">Высота, мм</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P2048">2610</span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row" style="min-width:12em;"><a href="/wiki/%D0%94%D0%BE%D1%80%D0%BE%D0%B6%D0%BD%D1%8B%D0%B9_%D0%BF%D1%80%D0%BE%D1%81%D0%B2%D0%B5%D1%82" title="Дорожный просвет">Клиренс</a>, мм</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P8594">400</span></td>
+</tr>
+<tr>
+<th class="infobox-header" colspan="2" scope="colgroup" style="">Бронирование</th>
+</tr>
+<tr>
+<th class="plainlist" scope="row" style="min-width:12em;">Тип брони</th>
+<td class="plainlist">
+стальная катаная гомогенная</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row" style="min-width:12em;">Лоб корпуса (верх), <span class="nowrap">мм/град.</span></th>
+<td class="plainlist">
+50 / 15°</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row" style="min-width:12em;">Лоб корпуса (середина), <span class="nowrap">мм/град.</span></th>
+<td class="plainlist">
+12 / 79°</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row" style="min-width:12em;">Лоб корпуса (низ), <span class="nowrap">мм/град.</span></th>
+<td class="plainlist">
+50 / 20°</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row" style="min-width:12em;">Борт корпуса (верх), <span class="nowrap">мм/град.</span></th>
+<td class="plainlist">
+20 / 30°</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row" style="min-width:12em;">Борт корпуса (низ), <span class="nowrap">мм/град.</span></th>
+<td class="plainlist">
+25 / 0°</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row" style="min-width:12em;">Корма корпуса (верх), <span class="nowrap">мм/град.</span></th>
+<td class="plainlist">
+20 / 0°</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row" style="min-width:12em;">Корма корпуса (низ), <span class="nowrap">мм/град.</span></th>
+<td class="plainlist">
+20 / 20°</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row" style="min-width:12em;">Днище, мм</th>
+<td class="plainlist">
+8,5 / 60—90°</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row" style="min-width:12em;">Крыша корпуса, мм</th>
+<td class="plainlist">
+12 / 79—90°</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row" style="min-width:12em;">Лоб башни, <span class="nowrap">мм/град.</span></th>
+<td class="plainlist">
+50 / 12°</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row" style="min-width:12em;">Маска <a href="/wiki/%D0%90%D1%80%D1%82%D0%B8%D0%BB%D0%BB%D0%B5%D1%80%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B5_%D0%BE%D1%80%D1%83%D0%B4%D0%B8%D0%B5" title="Артиллерийское орудие">орудия</a>, <span class="nowrap">мм/град.</span></th>
+<td class="plainlist">
+50</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row" style="min-width:12em;">Борт башни, <span class="nowrap">мм/град.</span></th>
+<td class="plainlist">
+25 / 10°</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row" style="min-width:12em;">Корма башни, <span class="nowrap">мм/град.</span></th>
+<td class="plainlist">
+25 / 0°</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row" style="min-width:12em;">Крыша башни, <span class="nowrap">мм/град.</span></th>
+<td class="plainlist">
+12 / 79—90°</td>
+</tr>
+<tr>
+<th class="infobox-header" colspan="2" scope="colgroup" style="">Вооружение</th>
+</tr>
+<tr>
+<th class="plainlist" scope="row" style="min-width:12em;"><a href="/wiki/%D0%9A%D0%B0%D0%BB%D0%B8%D0%B1%D1%80" title="Калибр">Калибр</a> и марка пушки</th>
+<td class="plainlist">
+75-мм <a class="new" href="/w/index.php?title=75-%D0%BC%D0%BC_%D1%82%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BF%D1%83%D1%88%D0%BA%D0%B0_%D0%A2%D0%B8%D0%BF_3&amp;action=edit&amp;redlink=1" title="75-мм танковая пушка Тип 3 (страница отсутствует)">Тип 3</a></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row" style="min-width:12em;">Тип <a href="/wiki/%D0%9F%D1%83%D1%88%D0%BA%D0%B0" title="Пушка">пушки</a></th>
+<td class="plainlist">
+нарезная</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row" style="min-width:12em;">Длина <a class="mw-redirect" href="/wiki/%D0%A1%D1%82%D0%B2%D0%BE%D0%BB_(%D0%BE%D1%80%D1%83%D0%B6%D0%B5%D0%B9%D0%BD%D1%8B%D0%B9)" title="Ствол (оружейный)">ствола</a>, калибров</th>
+<td class="plainlist">
+38,44</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row" style="min-width:12em;"><a class="mw-redirect" href="/wiki/%D0%91%D0%BE%D0%B5%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%82" title="Боекомплект">Боекомплект</a> пушки</th>
+<td class="plainlist">
+55</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row" style="min-width:12em;">Углы ВН, град.</th>
+<td class="plainlist">
+−10…+15°</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row" style="min-width:12em;"><a href="/wiki/%D0%9F%D1%80%D0%B8%D1%86%D0%B5%D0%BB" title="Прицел">Прицелы</a></th>
+<td class="plainlist">
+телескопический</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row" style="min-width:12em;"><a href="/wiki/%D0%9F%D1%83%D0%BB%D0%B5%D0%BC%D1%91%D1%82" title="Пулемёт">Пулемёты</a></th>
+<td class="plainlist">
+1—2 × 7,7-мм <a class="mw-redirect" href="/wiki/7,7-%D0%BC%D0%BC_%D1%82%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_%D0%BF%D1%83%D0%BB%D0%B5%D0%BC%D1%91%D1%82_%D0%A2%D0%B8%D0%BF_97" title="7,7-мм танковый пулемёт Тип 97">Тип 97</a></td>
+</tr>
+<tr>
+<th class="infobox-header" colspan="2" scope="colgroup" style="">Подвижность</th>
+</tr>
+<tr>
+<th class="plainlist" scope="row" style="min-width:12em;">Тип <a href="/wiki/%D0%94%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%B5%D0%BB%D1%8C" title="Двигатель">двигателя</a></th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P516">«<a href="/wiki/Mitsubishi" title="Mitsubishi">Мицубиси</a>» Тип 100 <a href="/wiki/%D0%94%D0%B8%D0%B7%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B4%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%B5%D0%BB%D1%8C" title="Дизельный двигатель">четырёхтактный дизельный</a> <a href="/wiki/V-%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D0%B9_%D0%B4%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%B5%D0%BB%D1%8C" title="V-образный двигатель">V‑образный</a> 12‑<a href="/wiki/%D0%A6%D0%B8%D0%BB%D0%B8%D0%BD%D0%B4%D1%80_(%D0%B4%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%B5%D0%BB%D1%8C)" title="Цилиндр (двигатель)">цилиндровый</a> <a href="/wiki/%D0%92%D0%BE%D0%B7%D0%B4%D1%83%D1%88%D0%BD%D0%BE%D0%B5_%D0%BE%D1%85%D0%BB%D0%B0%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Воздушное охлаждение">воздушного охлаждения</a></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row" style="min-width:12em;">Мощность двигателя, <span class="nowrap">л. с.</span></th>
+<td class="plainlist">
+240</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row" style="min-width:12em;">Скорость по шоссе, <span class="nowrap">км/ч</span></th>
+<td class="plainlist">
+39</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row" style="min-width:12em;">Запас хода по <a href="/wiki/%D0%A8%D0%BE%D1%81%D1%81%D0%B5" title="Шоссе">шоссе</a>, км</th>
+<td class="plainlist">
+210</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row" style="min-width:12em;">Удельная мощность, <span class="nowrap">л. с./т</span></th>
+<td class="plainlist">
+12,58</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row" style="min-width:12em;">Тип <a href="/wiki/%D0%9F%D0%BE%D0%B4%D0%B2%D0%B5%D1%81%D0%BA%D0%B0" title="Подвеска">подвески</a></th>
+<td class="plainlist">
+<a href="/wiki/%D0%9F%D0%BE%D0%B4%D0%B2%D0%B5%D1%81%D0%BA%D0%B0_%D0%A5%D0%B0%D1%80%D0%B0" title="Подвеска Хара">подвеска Хара</a></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row" style="min-width:12em;">Удельное давление на грунт, <span class="nowrap">кг/см²</span></th>
+<td class="plainlist">
+0,77</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row" style="min-width:12em;">Преодолеваемый подъём, град.</th>
+<td class="plainlist">
+30—35°</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row" style="min-width:12em;">Преодолеваемый ров, м</th>
+<td class="plainlist">
+2,5</td>
+</tr>
+<tr>
+<th class="plainlist" scope="row" style="min-width:12em;">Преодолеваемый <a href="/wiki/%D0%91%D1%80%D0%BE%D0%B4" title="Брод">брод</a>, м</th>
+<td class="plainlist">
+1,0</td>
+</tr><tr><td class="infobox-below" colspan="2" style=";"><span class="wikidata-claim" data-wikidata-claim-id="q603377$6BA999AA-B43A-4D71-AF37-7ED6BD6FA56F" data-wikidata-property-id="P373"><span class="wikidata-snak wikidata-main-snak"><span typeof="mw:File"><a href="https://commons.wikimedia.org/wiki/Category:Type_3_Chi-Nu" title="commons:Category:Type 3 Chi-Nu"><img alt="Логотип Викисклада" class="mw-file-element" data-file-height="1376" data-file-width="1024" decoding="async" height="20" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/15px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/23px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 2x" width="15"/></a></span> <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Type_3_Chi-Nu" title="commons:Category:Type 3 Chi-Nu">Медиафайлы на Викискладе</a></span></span></td></tr>
+</tbody></table>
+<p><b>Тип 3</b> <b>«Чи-Ну»</b> (<a href="/wiki/%D0%AF%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Японский язык">яп.</a> <span lang="ja" style="font-size: 110%; font-style: normal;">三式中戦車</span>) — <a href="/wiki/%D0%AF%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D1%8F" title="Японская империя">японский</a> <a href="/wiki/%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9_%D1%82%D0%B0%D0%BD%D0%BA" title="Средний танк">средний танк</a> времён <a href="/wiki/%D0%92%D1%82%D0%BE%D1%80%D0%B0%D1%8F_%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0" title="Вторая мировая война">Второй мировой войны</a>. Был создан в <a href="/wiki/1943_%D0%B3%D0%BE%D0%B4" title="1943 год">1943 году</a> как дальнейшее развитие танка «<a href="/wiki/%D0%A7%D0%B8-%D0%A5%D0%B5" title="Чи-Хе">Чи-Хе</a>», отличаясь от него новым, более мощным, 75-мм орудием в новой башне. Наиболее совершенный серийный японский танк Второй мировой. Всего за время серийного выпуска было произведено, по разным данным, от 60<sup class="reference" id="cite_ref-Bron_5-98_10_1-0"><a href="#cite_note-Bron_5-98_10-1">[1]</a></sup> до 166<sup class="reference" id="cite_ref-Taki_2-0"><a href="#cite_note-Taki-2">[2]</a></sup> танков «Чи-Ну». В боевых действиях они участия не принимали, поскольку поступали в части, предназначенные для обороны <a href="/wiki/%D0%AF%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0" title="Японские острова">Японских островов</a> от так и не состоявшейся высадки войск <a class="mw-redirect" href="/wiki/%D0%A1%D0%A8%D0%90" title="США">США</a><sup class="reference" id="cite_ref-Tmcz_11_3-0"><a href="#cite_note-Tmcz_11-3">[3]</a></sup>.
+</p>
+<div aria-labelledby="mw-toc-heading" class="toc" id="toc" role="navigation"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="ru"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#История_создания_и_производства"><span class="tocnumber">1</span> <span class="toctext">История создания и производства</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Описание_конструкции"><span class="tocnumber">2</span> <span class="toctext">Описание конструкции</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Броневой_корпус_и_башня"><span class="tocnumber">2.1</span> <span class="toctext">Броневой корпус и башня</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Вооружение"><span class="tocnumber">2.2</span> <span class="toctext">Вооружение</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Средства_наблюдения_и_связи"><span class="tocnumber">2.3</span> <span class="toctext">Средства наблюдения и связи</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Двигатель_и_трансмиссия"><span class="tocnumber">2.4</span> <span class="toctext">Двигатель и трансмиссия</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Ходовая_часть"><span class="tocnumber">2.5</span> <span class="toctext">Ходовая часть</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Использовался"><span class="tocnumber">3</span> <span class="toctext">Использовался</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Эксплуатация_и_боевое_применение"><span class="tocnumber">4</span> <span class="toctext">Эксплуатация и боевое применение</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Оценка_машины"><span class="tocnumber">5</span> <span class="toctext">Оценка машины</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#Конструкция_и_потенциал_развития"><span class="tocnumber">5.1</span> <span class="toctext">Конструкция и потенциал развития</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Вооружение_и_защищённость"><span class="tocnumber">5.2</span> <span class="toctext">Вооружение и защищённость</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Надёжность_и_технологичность"><span class="tocnumber">5.3</span> <span class="toctext">Надёжность и технологичность</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Аналоги"><span class="tocnumber">5.4</span> <span class="toctext">Аналоги</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#Машины_на_базе_Тип_3_«Чи-Ну»"><span class="tocnumber">6</span> <span class="toctext">Машины на базе Тип 3 «Чи-Ну»</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#Сохранившийся_экземпляр"><span class="tocnumber">7</span> <span class="toctext">Сохранившийся экземпляр</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#Примечания"><span class="tocnumber">8</span> <span class="toctext">Примечания</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#Литература"><span class="tocnumber">9</span> <span class="toctext">Литература</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#Ссылки"><span class="tocnumber">10</span> <span class="toctext">Ссылки</span></a></li>
+</ul>
+</div>
+<h2><span id=".D0.98.D1.81.D1.82.D0.BE.D1.80.D0.B8.D1.8F_.D1.81.D0.BE.D0.B7.D0.B4.D0.B0.D0.BD.D0.B8.D1.8F_.D0.B8_.D0.BF.D1.80.D0.BE.D0.B8.D0.B7.D0.B2.D0.BE.D0.B4.D1.81.D1.82.D0.B2.D0.B0"></span><span class="mw-headline" id="История_создания_и_производства">История создания и производства</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A7%D0%B8-%D0%9D%D1%83&amp;veaction=edit&amp;section=1" title="Редактировать раздел «История создания и производства»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A7%D0%B8-%D0%9D%D1%83&amp;action=edit&amp;section=1" title="Редактировать код раздела «История создания и производства»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9_%D1%82%D0%B0%D0%BD%D0%BA" title="Средний танк">Средний танк</a> <a href="/wiki/%D0%A7%D0%B8-%D0%A5%D0%B5" title="Чи-Хе">Тип 1 «Чи-Хе»</a>, запущенный в производство в <a href="/wiki/1943_%D0%B3%D0%BE%D0%B4" title="1943 год">1943 году</a>, явился значительным шагом вперёд по сравнению с более ранними <a href="/wiki/%D0%A8%D0%B8%D0%BD%D1%85%D0%BE%D1%82%D0%BE_%D0%A7%D0%B8-%D0%A5%D0%B0" title="Шинхото Чи-Ха">Тип 97 «Шинхото Чи-Ха»</a>, получив противоснарядное бронирование, более совершенную конструкцию корпуса, более современные средства связи и лучшее распределение функций экипажа за счёт трёхместной башни. Однако и он стал лишь частичным решением проблемы, поскольку был по-прежнему вооружён лишь 47-мм <a href="/wiki/%D0%9F%D1%83%D1%88%D0%BA%D0%B0" title="Пушка">пушкой</a> <a class="new" href="/w/index.php?title=47-%D0%BC%D0%BC_%D1%82%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BF%D1%83%D1%88%D0%BA%D0%B0_%D0%A2%D0%B8%D0%BF_1&amp;action=edit&amp;redlink=1" title="47-мм танковая пушка Тип 1 (страница отсутствует)">Тип 1</a>, которая устарела с появлением у <a class="mw-redirect" href="/wiki/%D0%A1%D0%A8%D0%90" title="США">США</a> на Тихоокеанском ТВД к <a href="/wiki/1943_%D0%B3%D0%BE%D0%B4" title="1943 год">1943 году</a> в значительных количествах танков <a href="/wiki/%D0%A8%D0%B5%D1%80%D0%BC%D0%B0%D0%BD_(%D1%82%D0%B0%D0%BD%D0%BA)" title="Шерман (танк)">M4 «Шерман»</a>, против лобовой брони которых она была почти бесполезна. Вдобавок её <a href="/wiki/%D0%9E%D1%81%D0%BA%D0%BE%D0%BB%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_%D1%81%D0%BD%D0%B0%D1%80%D1%8F%D0%B4" title="Осколочный снаряд">осколочный снаряд</a> обладал сравнительно невысокой эффективностью.
+</p><p>В качестве средства повысить огневую мощь японских танков была выбрана 75-мм полевая пушка <a href="/wiki/%D0%A2%D0%B8%D0%BF_90_(%D0%BF%D1%83%D1%88%D0%BA%D0%B0)" title="Тип 90 (пушка)">Тип 90</a>, являвшаяся модернизированным вариантом производившейся по <a href="/wiki/%D0%9B%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F" title="Лицензия">лицензии</a> <a href="/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F" title="Франция">французской</a> пушки фирмы «<a href="/wiki/Schneider_Electric" title="Schneider Electric">Шнейдер</a>». Для её размещения на «Чи-Хе» была разработана новая, увеличенная башня изменённой формы, без кормового <a href="/wiki/%D0%9F%D1%83%D0%BB%D0%B5%D0%BC%D1%91%D1%82" title="Пулемёт">пулемёта</a>, бывшего стандартным для всех более ранних японских танков. Модернизированный таким образом «Чи-Хе» получил по <a class="new" href="/w/index.php?title=%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D0%BE%D0%B1%D0%BE%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D0%B9_%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%BE%D0%B9_%D0%B1%D1%80%D0%BE%D0%BD%D0%B5%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BF%D0%B5%D1%80%D0%B8%D0%BE%D0%B4%D0%B0_%D0%92%D1%82%D0%BE%D1%80%D0%BE%D0%B9_%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B&amp;action=edit&amp;redlink=1" title="Система обозначений японской бронетехники периода Второй мировой войны (страница отсутствует)">японской системе классификации бронетехники</a> обозначение <b>Средний танк Тип 3</b> (<b>2603</b>) или <b>«Чи-Ну»</b> («средний десятый»).
+</p><p>Однозначных данных о серийном выпуске «Чи-Ну», как и о большинстве японской бронетехники, нет, в связи с тем, что значительное количество документации было уничтожено в конце войны. По одним источникам, серийный выпуск «Чи-Ну» начался в середине <a href="/wiki/1943_%D0%B3%D0%BE%D0%B4" title="1943 год">1943 года</a><sup class="reference" id="cite_ref-Bron_5-98_10_1-1"><a href="#cite_note-Bron_5-98_10-1">[1]</a></sup><sup class="reference" id="cite_ref-Tmcz_5_4-0"><a href="#cite_note-Tmcz_5-4">[4]</a></sup>, по другим же — лишь в сентябре <a href="/wiki/1944_%D0%B3%D0%BE%D0%B4" title="1944 год">1944 года</a><sup class="reference" id="cite_ref-Jane_138_5-0"><a href="#cite_note-Jane_138-5">[5]</a></sup>, и продолжался вплоть до конца войны. Объёмы выпуска были сравнительно невелики, вследствие сложностей с поставками сырья и разрушения японской промышленности, вызванного воздушными бомбардировками США<sup class="reference" id="cite_ref-Bron_5-98_10_1-2"><a href="#cite_note-Bron_5-98_10-1">[1]</a></sup>. Часть источников, базирующихся на данных <a class="mw-redirect" href="/wiki/%D0%A1%D0%A8%D0%90" title="США">США</a>, полученных после войны, приводит цифру в 60 произведённых танков<sup class="reference" id="cite_ref-Bron_5-98_10_1-3"><a href="#cite_note-Bron_5-98_10-1">[1]</a></sup><sup class="reference" id="cite_ref-Tmcz_11_3-1"><a href="#cite_note-Tmcz_11-3">[3]</a></sup>. Другие источники, основывающиеся на более поздних исследованиях японских архивных данных, приводят бо́льшие цифры, такие как 144<sup class="reference" id="cite_ref-Jane_139_6-0"><a href="#cite_note-Jane_139-6">[6]</a></sup> и даже в 166<sup class="reference" id="cite_ref-Taki_2-1"><a href="#cite_note-Taki-2">[2]</a></sup> выпущенных к окончанию войны «Чи-Ну».
+</p><p>С запуском «Чи-Ну» в производство, его развитие не закончилось. Строились планы по его перевооружению более мощной 75-мм пушкой <a class="new" href="/w/index.php?title=75-%D0%BC%D0%BC_%D1%82%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BF%D1%83%D1%88%D0%BA%D0%B0_%D0%A2%D0%B8%D0%BF_5&amp;action=edit&amp;redlink=1" title="75-мм танковая пушка Тип 5 (страница отсутствует)">Тип 5</a> с длиной ствола в 56,4 <a href="/wiki/%D0%9A%D0%B0%D0%BB%D0%B8%D0%B1%D1%80" title="Калибр">калибра</a>, аналогичной устанавливавшейся на так и не запущенном в серийное производство среднем танке «<a href="/wiki/%D0%A7%D0%B8-%D0%A2%D0%BE" title="Чи-То">Чи-То</a>». Орудие должно было устанавливаться либо в незначительно переработанной старой, сварной башне, либо в новой, <a href="/wiki/%D0%9B%D0%B8%D1%82%D1%8C%D1%91" title="Литьё">литой</a>, по форме аналогичной сварной, однако за стадию проекта перевооружение «Чи-Ну» так и не вышло. Танк получил обозначение <a href="/wiki/%D0%A7%D0%B8-%D0%9D%D1%83_%D0%9A%D0%B0%D0%B9_(%D1%82%D0%B0%D0%BD%D0%BA)" title="Чи-Ну Кай (танк)">Чи-Ну Кай</a><sup class="reference" id="cite_ref-Tmcz_38-41_7-0"><a href="#cite_note-Tmcz_38-41-7">[7]</a></sup>.
+</p>
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 155px">
+<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chi-Nu_production_line.jpg" title="«Чи-Ну» на сборочной линии"><img alt="«Чи-Ну» на сборочной линии" class="mw-file-element" data-file-height="1589" data-file-width="1085" decoding="async" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/Chi-Nu_production_line.jpg/82px-Chi-Nu_production_line.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/Chi-Nu_production_line.jpg/123px-Chi-Nu_production_line.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/69/Chi-Nu_production_line.jpg/164px-Chi-Nu_production_line.jpg 2x" width="82"/></a></span></div>
+<div class="gallerytext">«Чи-Ну» на сборочной линии</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chi-Nu_assembly_2.jpg" title="Установка трансмиссии в корпус «Чи-Ну»"><img alt="Установка трансмиссии в корпус «Чи-Ну»" class="mw-file-element" data-file-height="624" data-file-width="951" decoding="async" height="79" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Chi-Nu_assembly_2.jpg/120px-Chi-Nu_assembly_2.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Chi-Nu_assembly_2.jpg/180px-Chi-Nu_assembly_2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Chi-Nu_assembly_2.jpg/240px-Chi-Nu_assembly_2.jpg 2x" width="120"/></a></span></div>
+<div class="gallerytext">Установка трансмиссии в корпус «Чи-Ну»</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chi-Nu_assembly_1.jpg" title="«Чи-Ну» на завершающем этапе сборки"><img alt="«Чи-Ну» на завершающем этапе сборки" class="mw-file-element" data-file-height="668" data-file-width="953" decoding="async" height="84" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Chi-Nu_assembly_1.jpg/120px-Chi-Nu_assembly_1.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Chi-Nu_assembly_1.jpg/180px-Chi-Nu_assembly_1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/80/Chi-Nu_assembly_1.jpg/240px-Chi-Nu_assembly_1.jpg 2x" width="120"/></a></span></div>
+<div class="gallerytext">«Чи-Ну» на завершающем этапе сборки</div>
+</li>
+</ul>
+<h2><span id=".D0.9E.D0.BF.D0.B8.D1.81.D0.B0.D0.BD.D0.B8.D0.B5_.D0.BA.D0.BE.D0.BD.D1.81.D1.82.D1.80.D1.83.D0.BA.D1.86.D0.B8.D0.B8"></span><span class="mw-headline" id="Описание_конструкции">Описание конструкции</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A7%D0%B8-%D0%9D%D1%83&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Описание конструкции»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A7%D0%B8-%D0%9D%D1%83&amp;action=edit&amp;section=2" title="Редактировать код раздела «Описание конструкции»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>«Чи-Ну» отличался от своего предшественника, «<a href="/wiki/%D0%A7%D0%B8-%D0%A5%D0%B5" title="Чи-Хе">Чи-Хе</a>», в основном лишь новой башней с более мощным орудием, остальные системы танка существенным переработкам не подверглись. При этом «Чи-Ну», как и «Чи-Хе», унаследовал от «<a href="/wiki/%D0%A7%D0%B8-%D0%A5%D0%B0" title="Чи-Ха">Чи-Ха</a>» и «<a href="/wiki/%D0%A8%D0%B8%D0%BD%D1%85%D0%BE%D1%82%D0%BE_%D0%A7%D0%B8-%D0%A5%D0%B0" title="Шинхото Чи-Ха">Шинхото Чи-Ха</a>» без серьёзных изменений значительную часть узлов и применённых на них конструктивных решений.
+</p><p>Танк имел стандартную для японских танков того периода <a href="/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0_%D1%82%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2" title="Компоновка танков">компоновку</a>, с размещением <a href="/wiki/%D0%94%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%B5%D0%BB%D1%8C" title="Двигатель">двигательной</a> установки в корме, а <a href="/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BC%D0%B8%D1%81%D1%81%D0%B8%D1%8F" title="Трансмиссия">трансмиссионного</a> отделения — в лобовой части машины. <a href="/wiki/%D0%AD%D0%BA%D0%B8%D0%BF%D0%B0%D0%B6" title="Экипаж">Экипаж</a> танка состоял из пяти человек — водителя и стрелка-радиста, располагавшихся в отделении управления, и наводчика, заряжающего и командира, находившихся в трёхместной <a href="/wiki/%D0%91%D0%B0%D1%88%D0%BD%D1%8F_(%D0%B2%D0%BE%D0%BE%D1%80%D1%83%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5)" title="Башня (вооружение)">башне</a>.
+</p>
+<h3><span id=".D0.91.D1.80.D0.BE.D0.BD.D0.B5.D0.B2.D0.BE.D0.B9_.D0.BA.D0.BE.D1.80.D0.BF.D1.83.D1.81_.D0.B8_.D0.B1.D0.B0.D1.88.D0.BD.D1.8F"></span><span class="mw-headline" id="Броневой_корпус_и_башня">Броневой корпус и башня</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A7%D0%B8-%D0%9D%D1%83&amp;veaction=edit&amp;section=3" title="Редактировать раздел «Броневой корпус и башня»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A7%D0%B8-%D0%9D%D1%83&amp;action=edit&amp;section=3" title="Редактировать код раздела «Броневой корпус и башня»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="mw-halign-none" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chi-Nu_armor.jpg"><img class="mw-file-element" data-file-height="582" data-file-width="1843" decoding="async" height="189" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Chi-Nu_armor.jpg/600px-Chi-Nu_armor.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Chi-Nu_armor.jpg/900px-Chi-Nu_armor.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Chi-Nu_armor.jpg/1200px-Chi-Nu_armor.jpg 2x" width="600"/></a><figcaption>Схема бронирования «Чи-Ну»</figcaption></figure>
+<p>Броневой корпус «Чи-Ну» существенным изменениям по сравнению с «<a href="/wiki/%D0%A7%D0%B8-%D0%A5%D0%B5" title="Чи-Хе">Чи-Хе</a>» не подвергся и по-прежнему представлял собой усовершенствованный корпус «<a href="/wiki/%D0%A7%D0%B8-%D0%A5%D0%B0" title="Чи-Ха">Чи-Ха</a>» с упрощённой для производства конструкцией и усиленным лобовым бронированием. Незначительно доработано было лишь боевое отделение, на которое теперь устанавливалась новая, более крупная <a href="/wiki/%D0%91%D0%B0%D1%88%D0%BD%D1%8F_(%D0%B2%D0%BE%D0%BE%D1%80%D1%83%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5)" title="Башня (вооружение)">башня</a>.
+</p><p>Броневой корпус и <a href="/wiki/%D0%91%D0%B0%D1%88%D0%BD%D1%8F_(%D0%B2%D0%BE%D0%BE%D1%80%D1%83%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5)" title="Башня (вооружение)">башня</a> «Чи-Ну» собирались из плоских <a href="/wiki/%D0%9F%D1%80%D0%BE%D0%BA%D0%B0%D1%82%D0%BA%D0%B0" title="Прокатка">катаных</a> плит и листов гомогенной <a href="/wiki/%D0%A1%D1%82%D0%B0%D0%BB%D1%8C" title="Сталь">стали</a>, толщиной от 8,5 до 50 мм. Детали собирались в основном при помощи <a href="/wiki/%D0%A1%D0%B2%D0%B0%D1%80%D0%BA%D0%B0" title="Сварка">сварки</a>, однако всё ещё широко применялось также <a href="/wiki/%D0%91%D0%BE%D0%BB%D1%82" title="Болт">болтовое</a> и <a href="/wiki/%D0%97%D0%B0%D0%BA%D0%BB%D1%91%D0%BF%D0%BE%D1%87%D0%BD%D0%BE%D0%B5_%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5" title="Заклёпочное соединение">заклёпочное соединение</a>. С внутренней стороны корпус «Чи-Ну» снабжался подбоем из асбестовых листов, служившим как для повышения пожарной безопасности, так и для смягчения ударов экипажа о броню при движении танка<sup class="reference" id="cite_ref-Shinhoto_8-0"><a href="#cite_note-Shinhoto-8">[8]</a></sup>.
+</p><p>Бронирование «Чи-Ну» — <a href="/wiki/%D0%94%D0%B8%D1%84%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B1%D1%80%D0%BE%D0%BD%D0%B5%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B0" title="Дифференцированная бронезащита">дифференцированное</a>, противопульно-противоснарядное. Лобовая часть корпуса — ступенчатая, образованная верхней и нижней броневыми плитами толщиной 50 мм, расположенными под углом 15 и 20 градусов к вертикали, соответственно, и средним листом толщиной 12 мм, расположенным под углом в 79 градусов к вертикали. Нижняя часть бортов, а в кормовой части корпуса — весь борт — вертикальные бронеплиты толщиной 25 мм, в верхней части бортов имелись надгусеничные полки, борта которых состояли из 20-мм бронеплит, расположенных под углом до 30°. Корма корпуса собиралась из бронеплит толщиной, по разным данным, 20<sup class="reference" id="cite_ref-Tmcz_14_9-0"><a href="#cite_note-Tmcz_14-9">[9]</a></sup> или 30<sup class="reference" id="cite_ref-Type_3_10-0"><a href="#cite_note-Type_3-10">[10]</a></sup> мм, вертикальной верхней и расположенной под углом в 20 градусов нижней. Крыша корпуса состояла из 12-мм, а днище корпуса — из 8,5-мм броневых листов.
+</p><p><a href="/wiki/%D0%91%D0%B0%D1%88%D0%BD%D1%8F_(%D0%B2%D0%BE%D0%BE%D1%80%D1%83%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5)" title="Башня (вооружение)">Башня</a> «Чи-Ну» — трёхместная, выраженной шестигранной в плане формы, с развитой кормовой нишей. По конструкции башня была аналогична корпусу. Лобовая броневая плита башни, толщиной 50 мм, была расположена под углом в 12° к вертикали. Расположенные под углом в 10° борта башни и вертикальная корма собирались из 25-мм броневых плит, броневые листы крыши башни имели толщину в 12 мм.
+</p><p>Для посадки и высадки экипажа служили два люка в крыше башни и один — в её левом борту, механик-водитель и стрелок-радист собственных посадочных люков не имели. Кроме того, в правом борту башни имелся пистолетный порт, а в её корме — ещё один люк, служивший для демонтажа орудия. Для доступа к двигателю служили несколько люков в крыше моторного отделения, а для доступа к агрегатам трансмиссии — два люка в средней лобовой детали.
+</p>
+<h3><span id=".D0.92.D0.BE.D0.BE.D1.80.D1.83.D0.B6.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Вооружение">Вооружение</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A7%D0%B8-%D0%9D%D1%83&amp;veaction=edit&amp;section=4" title="Редактировать раздел «Вооружение»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A7%D0%B8-%D0%9D%D1%83&amp;action=edit&amp;section=4" title="Редактировать код раздела «Вооружение»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Основным вооружением «Чи-Ну» являлась <a class="new" href="/w/index.php?title=75-%D0%BC%D0%BC_%D1%82%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BF%D1%83%D1%88%D0%BA%D0%B0_%D0%A2%D0%B8%D0%BF_3&amp;action=edit&amp;redlink=1" title="75-мм танковая пушка Тип 3 (страница отсутствует)">75-мм танковая пушка Тип 3</a>, созданная на основе полевой пушки <a href="/wiki/%D0%A2%D0%B8%D0%BF_90_(%D0%BF%D1%83%D1%88%D0%BA%D0%B0)" title="Тип 90 (пушка)">Тип 90</a>. Пушка Тип 3 имела длину ствола 38,44 <a href="/wiki/%D0%9A%D0%B0%D0%BB%D0%B8%D0%B1%D1%80" title="Калибр">калибра</a> / 2883 мм, а начальная скорость её бронебойного снаряда составляла <span class="nowrap">680 м/с</span>. Противооткатные устройства пушки Тип 3 были без изменений заимствованы от полевого орудия и размещались под стволом, будучи вынесены за пределы башни и прикрыты броневым кожухом. В отличие от более ранних моделей, на «Чи-Ну» пушка размещалась в установке, позволявшей её наведение без поворота <a href="/wiki/%D0%91%D0%B0%D1%88%D0%BD%D1%8F_(%D0%B2%D0%BE%D0%BE%D1%80%D1%83%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5)" title="Башня (вооружение)">башни</a> только в вертикальной плоскости, в пределах −10…+15°, при помощи винтового механизма. <a class="mw-redirect" href="/wiki/%D0%91%D0%BE%D0%B5%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%82" title="Боекомплект">Боекомплект</a> орудия состоял из 55 унитарных <a href="/wiki/%D0%90%D1%80%D1%82%D0%B8%D0%BB%D0%BB%D0%B5%D1%80%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D1%8B%D1%81%D1%82%D1%80%D0%B5%D0%BB" title="Артиллерийский выстрел">выстрелов</a>, размещённых в укладках в кормовой нише башни и на полу боевого отделения<sup class="reference" id="cite_ref-Tmcz_5_4-1"><a href="#cite_note-Tmcz_5-4">[4]</a></sup>.
+</p>
+<table cellpadding="2" cellspacing="0" style="background:#fff; border-collapse:collapse; border:1px solid #996; line-height:1.5; margin:1ex 0; text-align:center">
+<tbody><tr style="background-color:#996; color:#fff">
+<td colspan="6"><b>Боеприпасы 75-мм танковой пушки Тип 3</b><sup class="reference" id="cite_ref-Type_3_10-1"><a href="#cite_note-Type_3-10">[10]</a></sup>
+</td></tr>
+<tr>
+<td style="border:1px solid #996; width:auto">Тип снаряда
+</td>
+<td style="border:1px solid #996; width:14%">Марка
+</td>
+<td style="border:1px solid #996; width:14%">Масса выстрела, кг
+</td>
+<td style="border:1px solid #996; width:14%">Масса снаряда, кг
+</td>
+<td style="border:1px solid #996; width:14%">Масса ВВ, г
+</td>
+<td style="border:1px solid #996; width:14%">Дульная скорость, <span class="nowrap">м/с</span>
+</td></tr>
+<tr>
+<td style="border:1px solid #996; text-align:left">бронебойный остроголовый
+</td>
+<td style="border:1px solid #996">Тип 95
+</td>
+<td style="border:1px solid #996">
+</td>
+<td style="border:1px solid #996">6,60
+</td>
+<td style="border:1px solid #996">65
+</td>
+<td style="border:1px solid #996">680
+</td></tr>
+<tr>
+<td style="border:1px solid #996; text-align:left">осколочно-фугасный
+</td>
+<td style="border:1px solid #996">Тип 90
+</td>
+<td style="border:1px solid #996">
+</td>
+<td style="border:1px solid #996">6,34
+</td>
+<td style="border:1px solid #996">540
+</td>
+<td style="border:1px solid #996">523
+</td></tr></tbody></table>
+<table cellpadding="2" cellspacing="0" style="background:#fff; border-collapse:collapse; border:1px solid #996; line-height:1.5; margin:1ex 0; text-align:center">
+<tbody><tr style="background-color:#996; color:#fff">
+<td colspan="8"><b>Таблица бронепробиваемости для 75-мм танковой пушки Тип 3, в мм</b><sup class="reference" id="cite_ref-Type_3_10-2"><a href="#cite_note-Type_3-10">[10]</a></sup>
+</td></tr>
+<tr>
+<td style="border:1px solid #996; width:auto">Снаряд \ Расстояние, м
+</td>
+<td style="border:1px solid #996; width:10%">25
+</td>
+<td style="border:1px solid #996; width:10%">100
+</td>
+<td style="border:1px solid #996; width:10%">250
+</td>
+<td style="border:1px solid #996; width:10%">500
+</td>
+<td style="border:1px solid #996; width:10%">1000
+</td>
+<td style="border:1px solid #996; width:10%">1500
+</td>
+<td style="border:1px solid #996; width:10%">2000
+</td></tr>
+<tr>
+<td style="border:1px solid #996; text-align:left">Бронебойный (угол встречи 0°)
+</td>
+<td style="border:1px solid #996">95
+</td>
+<td style="border:1px solid #996">91; 90<sup class="reference" id="cite_ref-Bron_5-98_9_11-0"><a href="#cite_note-Bron_5-98_9-11">[11]</a></sup>
+</td>
+<td style="border:1px solid #996">88
+</td>
+<td style="border:1px solid #996">82
+</td>
+<td style="border:1px solid #996">70; 65<sup class="reference" id="cite_ref-Bron_5-98_9_11-1"><a href="#cite_note-Bron_5-98_9-11">[11]</a></sup>
+</td>
+<td style="border:1px solid #996">58
+</td>
+<td style="border:1px solid #996">48
+</td></tr>
+<tr>
+<td colspan="8" style="font-size:smaller; text-align:left">Следует помнить, что в разное время и в разных странах использовались различные методики определения бронепробиваемости. Как следствие, прямое сравнение с аналогичными данными других орудий часто оказывается невозможным.
+</td></tr></tbody></table>
+<p>Вспомогательное вооружение «Чи-Ну» состояло из 7,7-мм <a href="/wiki/%D0%9F%D1%83%D0%BB%D0%B5%D0%BC%D1%91%D1%82" title="Пулемёт">пулемёта</a> <a class="mw-redirect" href="/wiki/7,7-%D0%BC%D0%BC_%D1%82%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_%D0%BF%D1%83%D0%BB%D0%B5%D0%BC%D1%91%D1%82_%D0%A2%D0%B8%D0%BF_97" title="7,7-мм танковый пулемёт Тип 97">Тип 97</a>, размещённого слева в верхней лобовой детали корпуса. Пулемёт располагался в стандартной для японских танков установке, на вертикальных и горизонтальных <a href="/wiki/%D0%A6%D0%B0%D0%BF%D1%84%D0%B0" title="Цапфа">цапфах</a>, прикрытой полусферическим броневым щитком, порой в литературе ошибочно именуемой шаровой<sup class="reference" id="cite_ref-Bron_3-06_6_12-0"><a href="#cite_note-Bron_3-06_6-12">[12]</a></sup>. Боекомплект пулемёта составлял 3680 <a href="/wiki/%D0%9E%D1%80%D1%83%D0%B6%D0%B5%D0%B9%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B0%D1%82%D1%80%D0%BE%D0%BD" title="Оружейный патрон">патронов</a>. Башенный пулемёт отсутствовал, однако на зенитной турельной установке на крыше башни мог размещаться ещё один пулемёт Тип 97.
+</p>
+<h3><span id=".D0.A1.D1.80.D0.B5.D0.B4.D1.81.D1.82.D0.B2.D0.B0_.D0.BD.D0.B0.D0.B1.D0.BB.D1.8E.D0.B4.D0.B5.D0.BD.D0.B8.D1.8F_.D0.B8_.D1.81.D0.B2.D1.8F.D0.B7.D0.B8"></span><span class="mw-headline" id="Средства_наблюдения_и_связи">Средства наблюдения и связи</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A7%D0%B8-%D0%9D%D1%83&amp;veaction=edit&amp;section=5" title="Редактировать раздел «Средства наблюдения и связи»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A7%D0%B8-%D0%9D%D1%83&amp;action=edit&amp;section=5" title="Редактировать код раздела «Средства наблюдения и связи»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Средства наблюдения «Чи-Ну» не претерпели принципиальных изменений по сравнению с «<a href="/wiki/%D0%A7%D0%B8-%D0%A5%D0%B0" title="Чи-Ха">Чи-Ха</a>». Основным средством наблюдения за местностью служили простые смотровые щели, закрытые многослойным <a href="/wiki/%D0%A2%D1%80%D0%B8%D0%BF%D0%BB%D0%B5%D0%BA%D1%81" title="Триплекс">защитным стеклом</a>. Две из смотровых щелей размещались в верхнем лобовом листе, напротив мест механика-водителя и стрелка, ещё две — в лобовых скулах верхней части корпуса. По одной смотровой щели находилось в бортовом башенном люке и крышке пистолетного порта, кроме того, четыре смотровых щели имелись в командирской башенке<sup class="reference" id="cite_ref-Tmcz_31_13-0"><a href="#cite_note-Tmcz_31-13">[13]</a></sup>. Конструкция смотровых приборов позволяла быструю смену защитных стёкол в случае их повреждения. В небоевой обстановке механик-водитель мог также использовать для наблюдения смотровой люк в верхней лобовой детали корпуса. Командир танка также имел в своём распоряжении <a href="/wiki/%D0%9F%D0%B5%D1%80%D0%B8%D1%81%D0%BA%D0%BE%D0%BF" title="Перископ">перископический</a> панорамный наблюдательный прибор, а водителю в небоевой обстановке для лучшего обзора мог служить смотровой люк в верхнем лобовом листе<sup class="reference" id="cite_ref-Shinhoto_8-1"><a href="#cite_note-Shinhoto-8">[8]</a></sup>.
+</p><p>Как и «<a href="/wiki/%D0%A7%D0%B8-%D0%A5%D0%B5" title="Чи-Хе">Чи-Хе</a>», все «Чи-Ну» оборудовались <a class="mw-disambig" href="/wiki/%D0%A0%D0%B0%D0%B4%D0%B8%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F" title="Радиостанция">радиостанцией</a>.
+</p>
+<h3><span id=".D0.94.D0.B2.D0.B8.D0.B3.D0.B0.D1.82.D0.B5.D0.BB.D1.8C_.D0.B8_.D1.82.D1.80.D0.B0.D0.BD.D1.81.D0.BC.D0.B8.D1.81.D1.81.D0.B8.D1.8F"></span><span class="mw-headline" id="Двигатель_и_трансмиссия">Двигатель и трансмиссия</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A7%D0%B8-%D0%9D%D1%83&amp;veaction=edit&amp;section=6" title="Редактировать раздел «Двигатель и трансмиссия»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A7%D0%B8-%D0%9D%D1%83&amp;action=edit&amp;section=6" title="Редактировать код раздела «Двигатель и трансмиссия»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>На «Чи-Ну» устанавливался <a href="/wiki/V-%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D0%B9_%D0%B4%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%B5%D0%BB%D1%8C" title="V-образный двигатель">V-образный</a> 12-<a href="/wiki/%D0%A6%D0%B8%D0%BB%D0%B8%D0%BD%D0%B4%D1%80_(%D0%B4%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%B5%D0%BB%D1%8C)" title="Цилиндр (двигатель)">цилиндровый</a> <a href="/wiki/%D0%94%D0%B8%D0%B7%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B4%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%B5%D0%BB%D1%8C" title="Дизельный двигатель">четырёхтактный дизельный двигатель</a> <a href="/wiki/%D0%92%D0%BE%D0%B7%D0%B4%D1%83%D1%88%D0%BD%D0%BE%D0%B5_%D0%BE%D1%85%D0%BB%D0%B0%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Воздушное охлаждение">воздушного охлаждения</a> «<a href="/wiki/Mitsubishi" title="Mitsubishi">Мицубиси</a>» Тип 100 (<a href="/wiki/%D0%AF%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Японский язык">яп.</a> <span lang="ja" style="font-size: 110%; font-style: normal;">一〇〇式発動機</span>), мощностью <span class="nowrap">240 л. с.</span> при <span class="nowrap">2000 об/мин</span>. Два <a href="/wiki/%D0%A2%D0%BE%D0%BF%D0%BB%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9_%D0%B1%D0%B0%D0%BA" title="Топливный бак">топливных бака</a> располагались в моторном отделении, под двигателем.
+</p>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chi-Nu_transmission.jpg"><img class="mw-file-element" data-file-height="654" data-file-width="949" decoding="async" height="152" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Chi-Nu_transmission.jpg/220px-Chi-Nu_transmission.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Chi-Nu_transmission.jpg/330px-Chi-Nu_transmission.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Chi-Nu_transmission.jpg/440px-Chi-Nu_transmission.jpg 2x" width="220"/></a><figcaption>Трансмиссия «Чи-Ну»</figcaption></figure>
+<p><a href="/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BC%D0%B8%D1%81%D1%81%D0%B8%D1%8F" title="Трансмиссия">Трансмиссия</a> «Чи-Ну», как и «<a href="/wiki/%D0%A7%D0%B8-%D0%A5%D0%B5" title="Чи-Хе">Чи-Хе</a>», по сравнению с «<a href="/wiki/%D0%A7%D0%B8-%D0%A5%D0%B0" title="Чи-Ха">Чи-Ха</a>» заметных изменений не претерпела<sup class="reference" id="cite_ref-Bron_5-98_6_14-0"><a href="#cite_note-Bron_5-98_6-14">[14]</a></sup>. В её состав входили<sup class="reference" id="cite_ref-Shinhoto_8-2"><a href="#cite_note-Shinhoto-8">[8]</a></sup>:
+</p>
+<ul><li>Многодисковый главный <a class="mw-redirect" href="/wiki/%D0%A4%D1%80%D0%B8%D0%BA%D1%86%D0%B8%D0%BE%D0%BD" title="Фрикцион">фрикцион</a> сухого трения, установленный на двигателе.</li>
+<li>Первичный <a class="mw-redirect" href="/wiki/%D0%A0%D0%B5%D0%B4%D1%83%D0%BA%D1%82%D0%BE%D1%80" title="Редуктор">редуктор</a>, служивший для возможности более низкого размещения карданной передачи.</li>
+<li><a class="mw-redirect" href="/wiki/%D0%9A%D0%B0%D1%80%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B2%D0%B0%D0%BB" title="Карданный вал">Карданный вал</a>.</li>
+<li>Четырёхступенчатая (восьмискоростная) механическая <a href="/wiki/%D0%9A%D0%BE%D1%80%D0%BE%D0%B1%D0%BA%D0%B0_%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%B0%D1%87" title="Коробка передач">коробка передач</a> с демультипликатором, расположенная в лобовой части танка, в отделении управления.</li>
+<li>Два двухступенчатых механизма поворота, каждый из которых состоял из <a href="/wiki/%D0%9F%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B0%D1%80%D0%BD%D0%B0%D1%8F_%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%B0%D1%87%D0%B0" title="Планетарная передача">планетарного</a> редуктора, блокировочного фрикциона, опорного и остановочного <a class="mw-redirect" href="/wiki/%D0%9C%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D0%BE%D1%80%D0%BC%D0%BE%D0%B7" title="Механический тормоз">тормозов</a>. Механизмы поворота располагались по обе стороны от коробки передач, частично в вынесенных за пределы корпуса броневых кожухах.</li></ul>
+<h3><span id=".D0.A5.D0.BE.D0.B4.D0.BE.D0.B2.D0.B0.D1.8F_.D1.87.D0.B0.D1.81.D1.82.D1.8C"></span><span class="mw-headline" id="Ходовая_часть">Ходовая часть</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A7%D0%B8-%D0%9D%D1%83&amp;veaction=edit&amp;section=7" title="Редактировать раздел «Ходовая часть»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A7%D0%B8-%D0%9D%D1%83&amp;action=edit&amp;section=7" title="Редактировать код раздела «Ходовая часть»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chi-Nu_assembly_3.jpg"><img class="mw-file-element" data-file-height="593" data-file-width="949" decoding="async" height="137" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Chi-Nu_assembly_3.jpg/220px-Chi-Nu_assembly_3.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Chi-Nu_assembly_3.jpg/330px-Chi-Nu_assembly_3.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Chi-Nu_assembly_3.jpg/440px-Chi-Nu_assembly_3.jpg 2x" width="220"/></a><figcaption>Подвеска «Чи-Ну»</figcaption></figure>
+<p>Ходовая часть «Чи-Ну» была унаследована им от «<a href="/wiki/%D0%A7%D0%B8-%D0%A5%D0%B0" title="Чи-Ха">Чи-Ха</a>» без существенных изменений. С каждого борта она состояла из шести опорных катков, трёх поддерживающих катков, ведущего колеса и ленивца. Все катки — <a href="/wiki/%D0%9B%D0%B8%D1%82%D1%8C%D1%91" title="Литьё">литые</a>. Подвеска опорных катков смешанная, первый и последний катки имели индивидуальную подвеску, в то время как средние были сблокированы попарно. Подвеска всех опорных катков — <a href="/wiki/%D0%9F%D0%BE%D0%B4%D0%B2%D0%B5%D1%81%D0%BA%D0%B0_%D0%A5%D0%B0%D1%80%D0%B0" title="Подвеска Хара">системы Хара</a>. Балансиры крайних и тележки средних катков были при помощи рычагов соединены с цилиндрическими <a href="/wiki/%D0%9F%D1%80%D1%83%D0%B6%D0%B8%D0%BD%D0%B0" title="Пружина">пружинами</a>, закреплёнными горизонтально на бортах корпуса снаружи. Пружины подвески тележек при этом укрывались броневыми кожухами. Опорные катки обрезиненные; крайние катки — цельные одинарные, хотя и имели сдвоенный профиль, средние катки — сдвоенные. Крайние поддерживающие катки — сдвоенные, центральные — одиночные, расположенные только с внутренней половины гусеницы<sup class="reference" id="cite_ref-Shinhoto_8-3"><a href="#cite_note-Shinhoto-8">[8]</a></sup>.
+</p><p><a href="/wiki/%D0%93%D1%83%D1%81%D0%B5%D0%BD%D0%B8%D1%87%D0%BD%D1%8B%D0%B9_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D1%82%D0%B5%D0%BB%D1%8C" title="Гусеничный движитель">Гусеницы</a> «Чи-Ну» — стальные, одногребневые, цевочного зацепления, каждая из 96 литых <a href="/wiki/%D0%A2%D1%80%D0%B0%D0%BA" title="Трак">траков</a> шириной 330 мм.
+</p>
+<h2><span id=".D0.98.D1.81.D0.BF.D0.BE.D0.BB.D1.8C.D0.B7.D0.BE.D0.B2.D0.B0.D0.BB.D1.81.D1.8F"></span><span class="mw-headline" id="Использовался">Использовался</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A7%D0%B8-%D0%9D%D1%83&amp;veaction=edit&amp;section=8" title="Редактировать раздел «Использовался»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A7%D0%B8-%D0%9D%D1%83&amp;action=edit&amp;section=8" title="Редактировать код раздела «Использовался»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="nowrap" data-sort-value="Япония"><span class="flagicon"><span class="mw-image-border noresize" typeof="mw:File"><span><img alt="" class="mw-file-element" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/22px-Flag_of_Japan.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/33px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/44px-Flag_of_Japan.svg.png 2x" width="22"/></span></span></span> <a href="/wiki/%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D1%8F" title="Япония"><span class="wrap">Япония</span></a></span>
+<ul><li><span class="mw-image-border" typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:War_flag_of_the_Imperial_Japanese_Army.svg" title="Флаг Императорской армии Японии"><img alt="Флаг Императорской армии Японии" class="mw-file-element" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/War_flag_of_the_Imperial_Japanese_Army.svg/22px-War_flag_of_the_Imperial_Japanese_Army.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/War_flag_of_the_Imperial_Japanese_Army.svg/33px-War_flag_of_the_Imperial_Japanese_Army.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/War_flag_of_the_Imperial_Japanese_Army.svg/44px-War_flag_of_the_Imperial_Japanese_Army.svg.png 2x" width="22"/></a></span> <a href="/wiki/%D0%98%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D0%B0%D1%80%D0%BC%D0%B8%D1%8F_%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D0%B8" title="Императорская армия Японии">Императорская армия Японии</a></li>
+<li><span class="mw-image-border" typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_the_Japan_Self-Defense_Forces.svg" title="Флаг Сил самообороны Японии"><img alt="Флаг Сил самообороны Японии" class="mw-file-element" data-file-height="914" data-file-width="1089" decoding="async" height="18" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Flag_of_the_Japan_Self-Defense_Forces.svg/22px-Flag_of_the_Japan_Self-Defense_Forces.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Flag_of_the_Japan_Self-Defense_Forces.svg/33px-Flag_of_the_Japan_Self-Defense_Forces.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Flag_of_the_Japan_Self-Defense_Forces.svg/44px-Flag_of_the_Japan_Self-Defense_Forces.svg.png 2x" width="22"/></a></span> <a href="/wiki/%D0%A1%D1%83%D1%85%D0%BE%D0%BF%D1%83%D1%82%D0%BD%D1%8B%D0%B5_%D1%81%D0%B8%D0%BB%D1%8B_%D1%81%D0%B0%D0%BC%D0%BE%D0%BE%D0%B1%D0%BE%D1%80%D0%BE%D0%BD%D1%8B_%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D0%B8" title="Сухопутные силы самообороны Японии">Сухопутные силы самообороны Японии</a></li></ul></li></ul>
+<h2><span id=".D0.AD.D0.BA.D1.81.D0.BF.D0.BB.D1.83.D0.B0.D1.82.D0.B0.D1.86.D0.B8.D1.8F_.D0.B8_.D0.B1.D0.BE.D0.B5.D0.B2.D0.BE.D0.B5_.D0.BF.D1.80.D0.B8.D0.BC.D0.B5.D0.BD.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Эксплуатация_и_боевое_применение">Эксплуатация и боевое применение</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A7%D0%B8-%D0%9D%D1%83&amp;veaction=edit&amp;section=9" title="Редактировать раздел «Эксплуатация и боевое применение»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A7%D0%B8-%D0%9D%D1%83&amp;action=edit&amp;section=9" title="Редактировать код раздела «Эксплуатация и боевое применение»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chi-Nu_4th_Tank_Division.JPG"><img class="mw-file-element" data-file-height="943" data-file-width="1198" decoding="async" height="173" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Chi-Nu_4th_Tank_Division.JPG/220px-Chi-Nu_4th_Tank_Division.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Chi-Nu_4th_Tank_Division.JPG/330px-Chi-Nu_4th_Tank_Division.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Chi-Nu_4th_Tank_Division.JPG/440px-Chi-Nu_4th_Tank_Division.JPG 2x" width="220"/></a><figcaption>«Чи-Ну», а также несколько <span class="nowrap">«<a href="/wiki/%D0%A5%D0%BE-%D0%9D%D0%B8_III" title="Хо-Ни III">Хо-Ни III</a>»</span> на заднем плане, из состава 4-й танковой дивизии</figcaption></figure>
+<p>Выпущенные «Чи-Ну» поступали, вместе с «<a href="/wiki/%D0%A7%D0%B8-%D0%A5%D0%B5" title="Чи-Хе">Чи-Хе</a>» и другими новыми образцами бронетехники, в <a class="new" href="/w/index.php?title=4-%D1%8F_%D1%82%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%B8%D0%B2%D0%B8%D0%B7%D0%B8%D1%8F_(%D0%98%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D0%B0%D1%80%D0%BC%D0%B8%D1%8F_%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D0%B8)&amp;action=edit&amp;redlink=1" title="4-я танковая дивизия (Императорская армия Японии) (страница отсутствует)">4-ю танковую дивизию</a><sup class="reference" id="cite_ref-Bron_5-98_10_1-4"><a href="#cite_note-Bron_5-98_10-1">[1]</a></sup>. Эта часть, сформированная в <a href="/wiki/1943_%D0%B3%D0%BE%D0%B4" title="1943 год">1943 году</a>, до окончания войны находилась в <a href="/wiki/%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D1%8F" title="Япония">Японии</a> и в боевых действиях участия не принимала<sup class="reference" id="cite_ref-Bron_5-98_10_1-5"><a href="#cite_note-Bron_5-98_10-1">[1]</a></sup>. В некоторых источниках содержатся упоминания о применении «Чи-Ну» в <a href="/wiki/%D0%91%D0%B8%D1%82%D0%B2%D0%B0_%D0%B7%D0%B0_%D0%9E%D0%BA%D0%B8%D0%BD%D0%B0%D0%B2%D1%83" title="Битва за Окинаву">боях за Окинаву</a> в марте — июне <a href="/wiki/1945_%D0%B3%D0%BE%D0%B4" title="1945 год">1945 года</a><sup class="reference" id="cite_ref-Tmcz_11_3-2"><a href="#cite_note-Tmcz_11-3">[3]</a></sup>, однако в большинстве современной литературы эта версия не поддерживается<sup class="reference" id="cite_ref-Tmcz_11_3-3"><a href="#cite_note-Tmcz_11-3">[3]</a></sup>. Отсутствие какой бы то ни было информации об этом, как и о «Чи-Ну» в целом, в рапортах <a class="new" href="/w/index.php?title=%D0%92%D0%BE%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D1%80%D0%B0%D0%B7%D0%B2%D0%B5%D0%B4%D0%BA%D0%B0_%D0%90%D1%80%D0%BC%D0%B8%D0%B8_%D0%A1%D0%A8%D0%90&amp;action=edit&amp;redlink=1" title="Военная разведка Армии США (страница отсутствует)">военной разведки США</a><sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup>, полученных уже после битвы за Окинаву, в июле — августе того же года, говорит также не в пользу этой версии, поскольку появление нового, настолько сильно отличавшегося от привычных «<a href="/wiki/%D0%A8%D0%B8%D0%BD%D1%85%D0%BE%D1%82%D0%BE_%D0%A7%D0%B8-%D0%A5%D0%B0" title="Шинхото Чи-Ха">Шинхото Чи-Ха</a>», танка едва ли прошло бы незамеченным. Так или иначе, сколько-нибудь заметного влияния на ход боевых действий «Чи-Ну» не оказал.
+</p><p>После <a href="/wiki/%D0%9A%D0%B0%D0%BF%D0%B8%D1%82%D1%83%D0%BB%D1%8F%D1%86%D0%B8%D1%8F_%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D0%B8" title="Капитуляция Японии">капитуляции Японии</a> «Чи-Ну» были частично пущены на слом, но большая их часть поступила впоследствии на вооружение <a href="/wiki/%D0%A1%D0%B8%D0%BB%D1%8B_%D1%81%D0%B0%D0%BC%D0%BE%D0%BE%D0%B1%D0%BE%D1%80%D0%BE%D0%BD%D1%8B_%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D0%B8" title="Силы самообороны Японии">Сил самообороны Японии</a> и длительное время использовалась ими, наряду с более старыми машинами, такими как «<a href="/wiki/%D0%A8%D0%B8%D0%BD%D1%85%D0%BE%D1%82%D0%BE_%D0%A7%D0%B8-%D0%A5%D0%B0" title="Шинхото Чи-Ха">Шинхото Чи-Ха</a>» и «Чи-Хе», а также <a class="mw-redirect" href="/wiki/%D0%A1%D0%A8%D0%90" title="США">американскими</a> <a href="/wiki/M24_%D0%A7%D0%B0%D1%84%D1%84%D0%B8" title="M24 Чаффи">M24 «Чаффи»</a>. Сняты они с вооружения были только к <a href="/wiki/1960-%D0%B5_%D0%B3%D0%BE%D0%B4%D1%8B" title="1960-е годы">1960-м годам</a>, с началом массового производства более современных танков <a href="/wiki/%D0%A2%D0%B8%D0%BF_61" title="Тип 61">Тип 61</a><sup class="reference" id="cite_ref-Tmcz_11_3-4"><a href="#cite_note-Tmcz_11-3">[3]</a></sup>.
+</p>
+<h2><span id=".D0.9E.D1.86.D0.B5.D0.BD.D0.BA.D0.B0_.D0.BC.D0.B0.D1.88.D0.B8.D0.BD.D1.8B"></span><span class="mw-headline" id="Оценка_машины">Оценка машины</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A7%D0%B8-%D0%9D%D1%83&amp;veaction=edit&amp;section=10" title="Редактировать раздел «Оценка машины»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A7%D0%B8-%D0%9D%D1%83&amp;action=edit&amp;section=10" title="Редактировать код раздела «Оценка машины»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Японская промышленность была довольно слаба в сравнении с другими странами, поэтому оказать значительного влияния на ход войны Чи-Ну, выпущенный менее чем в 200 экземплярах, не смог. Этот танк был явно слабее бронирован и легче вооружён, чем его аналоги из СССР, Германии, США. Также Чи-Ну был создан на базе Чи-Ха и имел некоторые архаичные конструкционные особенности (впрочем, почти все были устранены на стадии создания Чи-Хе). Орудие имело плохие приборы прицеливания и стабилизации, а бортовая и кормовая броня легко поражалась даже 37-мм противотанковыми пушками.
+</p><p>Однако для японских инженеров создание серийного танка с трёхместной башней, достаточной (до 50 мм) бронезащитой и 75-мм длинноствольным орудием определённо является значительным достижением. При массе менее 20 тонн танк имел хорошее вооружение и бронирование, а также замечательную подвижность. В бою в тропических условиях его низкое в сравнении с его главным противником — "Шерманом" — давление на грунт (0.77 кг/см<sup>2</sup> против 0.96 у американского танка) во многих случаях компенсировало недостаток "Чи-Ну" в бронировании.
+</p>
+<h3><span id=".D0.9A.D0.BE.D0.BD.D1.81.D1.82.D1.80.D1.83.D0.BA.D1.86.D0.B8.D1.8F_.D0.B8_.D0.BF.D0.BE.D1.82.D0.B5.D0.BD.D1.86.D0.B8.D0.B0.D0.BB_.D1.80.D0.B0.D0.B7.D0.B2.D0.B8.D1.82.D0.B8.D1.8F"></span><span class="mw-headline" id="Конструкция_и_потенциал_развития">Конструкция и потенциал развития</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A7%D0%B8-%D0%9D%D1%83&amp;veaction=edit&amp;section=11" title="Редактировать раздел «Конструкция и потенциал развития»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A7%D0%B8-%D0%9D%D1%83&amp;action=edit&amp;section=11" title="Редактировать код раздела «Конструкция и потенциал развития»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>«Чи-Ну», ставший результатом длительного развития спроектированного ещё в конце <a href="/wiki/1930-%D0%B5_%D0%B3%D0%BE%D0%B4%D1%8B" title="1930-е годы">1930-х годов</a> «<a href="/wiki/%D0%A7%D0%B8-%D0%A5%D0%B0" title="Чи-Ха">Чи-Ха</a>», отличался вполне традиционной для японских танков того периода конструкцией, сочетавшей в себе как сравнительно прогрессивные, так и устаревшие или неудачные решения.
+</p><p><a href="/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0_%D1%82%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2" title="Компоновка танков">Компоновка</a> «Чи-Ну», с расположением <a href="/wiki/%D0%94%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%B5%D0%BB%D1%8C" title="Двигатель">моторного</a> отделения в кормовой части корпуса, а <a href="/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BC%D0%B8%D1%81%D1%81%D0%B8%D1%8F" title="Трансмиссия">трансмиссионного</a> — в лобовой, обеспечивала ему значительный для сравнительно компактной машины объём боевого отделения, лучшее распределение нагрузки на подвеску и более простое по сравнению с танками классической компоновки переключение передач. При этом благодаря применению <a class="mw-redirect" href="/wiki/%D0%A0%D0%B5%D0%B4%D1%83%D0%BA%D1%82%D0%BE%D1%80" title="Редуктор">редуктора</a>, пускавшего <a class="mw-redirect" href="/wiki/%D0%9A%D0%B0%D1%80%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B2%D0%B0%D0%BB" title="Карданный вал">карданный вал</a> параллельно днищу корпуса, общую высоту последнего удалось сохранить сравнительно небольшой, особенно по сравнению с танками <a class="mw-redirect" href="/wiki/%D0%A1%D0%A8%D0%90" title="США">США</a> аналогичной компоновки. В то же время размещение трансмиссии и ведущих в лобовой, более подверженной обстрелу противника, части корпуса повышало их уязвимость, а расположенные в средней лобовой детали люки доступа к трансмиссии ещё более снижали защищённость танка. При этом, несмотря на значительную длину боевого отделения, его полезный объём снижался небольшой шириной корпуса, затруднявшей установку на него <a href="/wiki/%D0%91%D0%B0%D1%88%D0%BD%D1%8F_(%D0%B2%D0%BE%D0%BE%D1%80%D1%83%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5)" title="Башня (вооружение)">башни</a> достаточных размеров. Всё это, в сочетании с перегруженностью шасси, изначально рассчитанного на 15-тонный «Чи-Ха», привело к тому, что хотя «Чи-Ну» и стал полноценным средним танком, резервов для превращения его в соответствующую требованиям времени к защищённости и вооружению машину уже не осталось. Для этого японским конструкторам пришлось разработать «<a href="/wiki/%D0%A7%D0%B8-%D0%A2%D0%BE" title="Чи-То">Чи-То</a>», который, хотя и сохранял в себе многие из применённых на предшественнике конструкторских решений, был создан фактически заново и по своей массе относился уже совершенно к другой категории.
+</p><p>Несмотря на довольно удачную конструкцию моторно-трансмиссионной группы и отдельные удачные решения<sup class="reference" id="cite_ref-Shinhoto_8-4"><a href="#cite_note-Shinhoto-8">[8]</a></sup><sup class="reference" id="cite_ref-Bron_5-98_30_16-0"><a href="#cite_note-Bron_5-98_30-16">[16]</a></sup>, «Чи-Ну» отличался общей устарелостью конструкции. Так, корпус и башня, несмотря на частичное применение <a href="/wiki/%D0%A1%D0%B2%D0%B0%D1%80%D0%BA%D0%B0" title="Сварка">сварки</a>, всё ещё в значительной степени собирались при помощи <a href="/wiki/%D0%97%D0%B0%D0%BA%D0%BB%D1%91%D0%BF%D0%BE%D1%87%D0%BD%D0%BE%D0%B5_%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5" title="Заклёпочное соединение">клёпки</a>. Приборы наблюдения и прицеливания отличались примитивностью и низким качеством<sup class="reference" id="cite_ref-Bron_5-98_30_16-1"><a href="#cite_note-Bron_5-98_30-16">[16]</a></sup>. Традиционная для японских танков того периода подвеска <a href="/wiki/%D0%9F%D0%BE%D0%B4%D0%B2%D0%B5%D1%81%D0%BA%D0%B0_%D0%A5%D0%B0%D1%80%D0%B0" title="Подвеска Хара">системы Хара</a> отличалась плавностью хода и хорошей ремонтопригодностью, однако имела и ряд недостатков, таких как недостаточная защищённость узлов подвески, значительная масса неподрессоренных элементов и медленное гашение продольных колебаний корпуса<sup class="reference" id="cite_ref-Shinhoto_8-5"><a href="#cite_note-Shinhoto-8">[8]</a></sup><sup class="reference" id="cite_ref-Bron_5-98_30_16-2"><a href="#cite_note-Bron_5-98_30-16">[16]</a></sup>. Столь же традиционный отказ от спаренной с пушкой установки башенного <a href="/wiki/%D0%9F%D1%83%D0%BB%D0%B5%D0%BC%D1%91%D1%82" title="Пулемёт">пулемёта</a> привёл к тому, что «Чи-Ну» оказался вовсе его лишён, поскольку разместить его в корме башни, как на более ранних машинах, стало невозможно.
+</p>
+<h3><span id=".D0.92.D0.BE.D0.BE.D1.80.D1.83.D0.B6.D0.B5.D0.BD.D0.B8.D0.B5_.D0.B8_.D0.B7.D0.B0.D1.89.D0.B8.D1.89.D1.91.D0.BD.D0.BD.D0.BE.D1.81.D1.82.D1.8C"></span><span class="mw-headline" id="Вооружение_и_защищённость">Вооружение и защищённость</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A7%D0%B8-%D0%9D%D1%83&amp;veaction=edit&amp;section=12" title="Редактировать раздел «Вооружение и защищённость»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A7%D0%B8-%D0%9D%D1%83&amp;action=edit&amp;section=12" title="Редактировать код раздела «Вооружение и защищённость»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chi-Nu_2.jpg"><img class="mw-file-element" data-file-height="698" data-file-width="1025" decoding="async" height="150" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Chi-Nu_2.jpg/220px-Chi-Nu_2.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Chi-Nu_2.jpg/330px-Chi-Nu_2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Chi-Nu_2.jpg/440px-Chi-Nu_2.jpg 2x" width="220"/></a><figcaption>Техническое обслуживание «Чи-Ну» в мастерской в Хакате, 14 октября 1945 года</figcaption></figure>
+<p>По уровню броневой защиты «Чи-Ну» в целом превосходил другие танки с массой до 20 тонн. Однако по меркам 1943 года для <a href="/wiki/%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9_%D1%82%D0%B0%D0%BD%D0%BA" title="Средний танк">среднего танка</a> оно являлось явно недостаточным.
+</p><p>Бронирование «Чи-Ну» было противоснарядным лишь в лобовой проекции; при этом даже там его толщина не превышала 50 мм и расположено оно было без рациональных углов наклона. Это обеспечивало сколько-нибудь надёжную защиту лишь от снарядов противотанковых пушек калибром не более 45 мм либо от короткоствольных орудий, тогда как даже 75-мм пушка «<a href="/wiki/%D0%A8%D0%B5%D1%80%D0%BC%D0%B0%D0%BD_(%D1%82%D0%B0%D0%BD%D0%BA)" title="Шерман (танк)">Шермана</a>» или 76-мм пушка <a href="/wiki/%D0%A2-34" title="Т-34">Т-34</a>, не говоря уже о более мощных орудиях, обеспечивали уверенное пробитие лобовой брони «Чи-Ну» на дистанции в 1 км, а при удачном попадании — и большей<sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup>. Впрочем, лёгкие противотанковые орудия, например, 37-мм <a href="/wiki/37-%D0%BC%D0%BC_%D0%BF%D1%83%D1%88%D0%BA%D0%B0_M3" title="37-мм пушка M3">M3</a>, использовались на Тихоокеанском театре военных действий вплоть до самого конца войны, так что полностью актуальности бронирование «Чи-Ну» не утратило.
+</p><p>Бортовое и кормовое же бронирование «Чи-Ну» обеспечивало полную защиту лишь от огня крупнокалиберного <a href="/wiki/%D0%9F%D1%83%D0%BB%D0%B5%D0%BC%D1%91%D1%82" title="Пулемёт">пулемёта</a>, на некоторых дистанциях также — крупнокалиберных <a href="/wiki/%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BE%D1%82%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2%D0%BE%D0%B5_%D1%80%D1%83%D0%B6%D1%8C%D1%91" title="Противотанковое ружьё">противотанковых ружей</a> и малокалиберных автоматических пушек. Уже пушки калибром 37 мм, такие как M3, обеспечивали уверенное поражение бортов и кормы «Чи-Ну» практически на всех дистанциях прицельной стрельбы<sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup>. Вдобавок 8,5-мм бронелисты днища, в лобовой и кормовой оконечностях расположенные под углом в 60° к вертикали, хотя и были в условиях поля боя в значительной степени укрыты складками местности, при определённых условиях могли становиться уязвимыми местами, пробивавшимися даже крупнокалиберным пулемётом.
+</p><p>Невысокая броневая защита дополнительно снижалась рядом факторов. Смотровой люк водителя, люки доступа к агрегатам <a href="/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BC%D0%B8%D1%81%D1%81%D0%B8%D1%8F" title="Трансмиссия">трансмиссии</a> и пулемётная установка существенно снижали и без того невысокую снарядостойкость лобовой части корпуса. Дополнительно снижало защищённость и невысокое качество японской брони в сочетании с <a href="/wiki/%D0%97%D0%B0%D0%BA%D0%BB%D1%91%D0%BF%D0%BE%D1%87%D0%BD%D0%BE%D0%B5_%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5" title="Заклёпочное соединение">клёпаным</a> соединением части деталей корпуса и башни<sup class="reference" id="cite_ref-Shinhoto_8-6"><a href="#cite_note-Shinhoto-8">[8]</a></sup>. При снарядном, а порой и при пулевом обстреле, деформация броневых плит могла приводить к тому, что заклёпки отскакивали внутрь корпуса, становясь опасными поражающими элементами даже в том случае, если броня успешно отражала попавшую в неё пулю или снаряд<sup class="reference" id="cite_ref-19"><a href="#cite_note-19">[19]</a></sup>.
+</p><p>75-мм орудие «Чи-Ну» по баллистике было примерно аналогично 76-мм пушке <a href="/wiki/%D0%A2-34" title="Т-34">Т-34</a> или 75-мм пушке «<a href="/wiki/%D0%A8%D0%B5%D1%80%D0%BC%D0%B0%D0%BD_(%D1%82%D0%B0%D0%BD%D0%BA)" title="Шерман (танк)">Шермана</a>». В то же время её эффективность существенно снижалась низким качеством приборов прицеливания<sup class="reference" id="cite_ref-Bron_5-98_29_20-0"><a href="#cite_note-Bron_5-98_29-20">[20]</a></sup>, а орудие «Шермана», вдобавок, оборудовалось стабилизатором в вертикальной плоскости, многократно повышавшим точность стрельбы с ходу. Ограниченным был и ассортимент боеприпасов японской пушки, в котором отсутствовали <a href="/wiki/%D0%9F%D0%BE%D0%B4%D0%BA%D0%B0%D0%BB%D0%B8%D0%B1%D0%B5%D1%80%D0%BD%D1%8B%D0%B5_%D0%B1%D0%BE%D0%B5%D0%BF%D1%80%D0%B8%D0%BF%D0%B0%D1%81%D1%8B" title="Подкалиберные боеприпасы">подкалиберные</a> или <a class="mw-redirect" href="/wiki/%D0%9A%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9_%D1%81%D0%BD%D0%B0%D1%80%D1%8F%D0%B4" title="Кумулятивный снаряд">кумулятивные снаряды</a> (обычно в боекомплект «Чи-Ну» входили только <a href="/wiki/%D0%91%D1%80%D0%BE%D0%BD%D0%B5%D0%B1%D0%BE%D0%B9%D0%BD%D1%8B%D0%B9_%D1%81%D0%BD%D0%B0%D1%80%D1%8F%D0%B4" title="Бронебойный снаряд">бронебойные</a> и <a href="/wiki/%D0%9E%D1%81%D0%BA%D0%BE%D0%BB%D0%BE%D1%87%D0%BD%D0%BE-%D1%84%D1%83%D0%B3%D0%B0%D1%81%D0%BD%D1%8B%D0%B9_%D1%81%D0%BD%D0%B0%D1%80%D1%8F%D0%B4" title="Осколочно-фугасный снаряд">осколочно-фугасные снаряды</a>).
+</p><p>75-мм пушка «Чи-Ну» в <a href="/wiki/1944_%D0%B3%D0%BE%D0%B4" title="1944 год">1944 году</a> позволяла ему бороться с современными ему средними танками, такими как <a href="/wiki/%D0%A2-34" title="Т-34">Т-34</a> или «<a href="/wiki/%D0%A8%D0%B5%D1%80%D0%BC%D0%B0%D0%BD_(%D1%82%D0%B0%D0%BD%D0%BA)" title="Шерман (танк)">Шерман</a>», но обеспечивала пробитие их лобовой брони лишь на сравнительно близких дистанциях, что ставило «Чи-Ну» с его более тонкой лобовой бронёй в невыгодное положение в случае реального боевого столкновения. При этом против лобового бронирования танков нового поколения, появившихся к <a href="/wiki/1945_%D0%B3%D0%BE%D0%B4" title="1945 год">1945 году</a>, таких как <a href="/wiki/%D0%A2-44" title="Т-44">Т-44</a> или <a href="/wiki/M26_(%D1%82%D0%B0%D0%BD%D0%BA)" title="M26 (танк)">M26</a>, пушка «Чи-Ну» была практически бессильна.
+</p>
+<h3><span id=".D0.9D.D0.B0.D0.B4.D1.91.D0.B6.D0.BD.D0.BE.D1.81.D1.82.D1.8C_.D0.B8_.D1.82.D0.B5.D1.85.D0.BD.D0.BE.D0.BB.D0.BE.D0.B3.D0.B8.D1.87.D0.BD.D0.BE.D1.81.D1.82.D1.8C"></span><span class="mw-headline" id="Надёжность_и_технологичность">Надёжность и технологичность</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A7%D0%B8-%D0%9D%D1%83&amp;veaction=edit&amp;section=13" title="Редактировать раздел «Надёжность и технологичность»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A7%D0%B8-%D0%9D%D1%83&amp;action=edit&amp;section=13" title="Редактировать код раздела «Надёжность и технологичность»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>«Чи-Ну» был создан на базе отработанного в производстве «<a href="/wiki/%D0%A7%D0%B8-%D0%A5%D0%B0" title="Чи-Ха">Чи-Ха</a>», почти все его системы были отработаны на других образцах вооружения и длительное время находились в серийном производстве. При этом ещё на «<a href="/wiki/%D0%A7%D0%B8-%D0%A5%D0%B5" title="Чи-Хе">Чи-Хе</a>» часть узлов танка, в частности, чрезмерно сложная форма корпуса «Чи-Ха», были ещё более упрощены и приспособлены к условиям массового производства. Всё это обеспечивало «Чи-Ну» сравнительно высокую технологичность, хотя ряд применённых на нём конструкторских решений и признавался специалистами неудачным в этом отношении<sup class="reference" id="cite_ref-Shinhoto_8-7"><a href="#cite_note-Shinhoto-8">[8]</a></sup>.
+</p><p>Характерное для японских танков того периода предельное упрощение конструкции повышало надёжность «Чи-Ну» и удешевляло его производство, однако порой это упрощение переходило в примитивизм, что отрицательно сказывалось на боевых качествах танка. При этом японским конструкторам удалось обеспечить «Чи-Ну» надёжную работу моторно-трансмиссионной группы — одной из наиболее часто становящихся проблемными систем танка. В то же время повышенная нагрузка на отдельные узлы, в частности на двигатель и подвеску, снижала их ресурс и в конечном счёте надёжность машины<sup class="reference" id="cite_ref-Shinhoto_8-8"><a href="#cite_note-Shinhoto-8">[8]</a></sup><sup class="reference" id="cite_ref-Bron_5-98_30_16-3"><a href="#cite_note-Bron_5-98_30-16">[16]</a></sup>.
+</p>
+<h3><span id=".D0.90.D0.BD.D0.B0.D0.BB.D0.BE.D0.B3.D0.B8"></span><span class="mw-headline" id="Аналоги">Аналоги</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A7%D0%B8-%D0%9D%D1%83&amp;veaction=edit&amp;section=14" title="Редактировать раздел «Аналоги»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A7%D0%B8-%D0%9D%D1%83&amp;action=edit&amp;section=14" title="Редактировать код раздела «Аналоги»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Сравнение с другими танками весьма затруднительно из-за того, что Чи-Ну лучше, чем средние танки других стран межвоенного периода, однако имеет недостатки перед аналогами времён Второй мировой войны.
+</p><p>По огневой мощи и характером использования аналогами Чи-Ну являются <a href="/wiki/Pz.Kpfw._IV" title="Pz.Kpfw. IV">Pz. Kpfw. IV</a>, <a href="/wiki/%D0%A8%D0%B5%D1%80%D0%BC%D0%B0%D0%BD_(%D1%82%D0%B0%D0%BD%D0%BA)" title="Шерман (танк)">M4 Sherman</a>, <a href="/wiki/%D0%A2-34" title="Т-34">Т-34</a>. Однако все они (кроме Pz. IV ранних модификаций) имеют сильно лучшую бронезащиту (80 — 95 мм приведённой брони против 52 у Чи-Ну). Вместе с тем Чи-Ну имеет некоторое преимущество в подвижности перед ними (кроме Т-34, чья удельная мощность и надёжность не уступали Чи-Ну).
+</p><p>По боевой массе Чи-Ну близок к <a href="/wiki/Pz.Kpfw._III" title="Pz.Kpfw. III">Pz. III</a> и "<a href="/wiki/%D0%A2%D1%83%D1%80%D0%B0%D0%BD_(%D1%82%D0%B0%D0%BD%D0%BA)" title="Туран (танк)">Туранам</a>" первых двух модификаций, которых превосходит в вооружении.
+</p><p>По вооружению, броне, массе и подвижности Чи-Ну близок к американскому лёгкому танку <a href="/wiki/M24_%D0%A7%D0%B0%D1%84%D1%84%D0%B8" title="M24 Чаффи">M24</a>. Однако последний был выпущен в многократно превосходящих количествах и уступает Чи-Ну по ряду параметров: удельная мощность, бортовая и кормовая броня, условия работы экипажа. Вместе с тем и M24 лучше Чи-Ну например, наличием подкалиберных снарядов.
+</p><p>Другие средние танки того периода, такие как <a href="/wiki/%D0%A8%D0%B5%D1%80%D0%BC%D0%B0%D0%BD_(%D1%82%D0%B0%D0%BD%D0%BA)" title="Шерман (танк)">M4 «Шерман»</a>, существенно превосходили «Чи-Ну» как по массе, так и по своим боевым характеристикам. Хотя «Чи-Ну» и мог противостоять «Шерману» на равных<sup class="reference" id="cite_ref-Jane_138_5-1"><a href="#cite_note-Jane_138-5">[5]</a></sup>, последний имел над ним явное преимущество за счёт более мощного бронирования и общего совершенства конструкции. Вместе с тем, «Чи-Ну» имел несколько лучшую подвижность и значительно лучшую проходимость, чем 30-тонный «Шерман», что в условиях Тихоокеанского театра военных действий играло значительную роль.
+</p>
+<h2><span id=".D0.9C.D0.B0.D1.88.D0.B8.D0.BD.D1.8B_.D0.BD.D0.B0_.D0.B1.D0.B0.D0.B7.D0.B5_.D0.A2.D0.B8.D0.BF_3_.C2.AB.D0.A7.D0.B8-.D0.9D.D1.83.C2.BB"></span><span class="mw-headline" id="Машины_на_базе_Тип_3_«Чи-Ну»">Машины на базе Тип 3 «Чи-Ну»</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A7%D0%B8-%D0%9D%D1%83&amp;veaction=edit&amp;section=15" title="Редактировать раздел «Машины на базе Тип 3 «Чи-Ну»»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A7%D0%B8-%D0%9D%D1%83&amp;action=edit&amp;section=15" title="Редактировать код раздела «Машины на базе Тип 3 «Чи-Ну»»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/%D0%A7%D0%B8-%D0%A2%D0%BE" title="Чи-То">Type 4 Чи-То</a></b> — глубокая модернизация Чи-Ну. Танк имел более мощную броню (до 75 мм) и пушку Тип 5. Чтоб не тормозить производство "Чи-Ну", планировалось запустить Чи-То в производство в августе 1945 года, но из-за окончания войны успели завершить только 6 шасси, из которых полноценными танками стали не более пяти;</li>
+<li><b><a href="/wiki/%D0%A7%D0%B8-%D0%9D%D1%83_%D0%9A%D0%B0%D0%B9_(%D1%82%D0%B0%D0%BD%D0%BA)" title="Чи-Ну Кай (танк)">Type 3 Чи-Ну Кай</a> —</b> в связи с потребностью в усилении противотанковых качеств танка на него была установлена башня от Чи-То вместе с более мощной 75-мм пушкой Тип 5. Танк успешно прошёл испытания и был принят на вооружение, однако из-за нехватки сырья дальше одного экземпляра производство не пошло;</li>
+<li><b>Type 3 Чи-Ну II —</b> установка пушки Тип 5 в обычную башню от Чи-Ну. До конца войны успели построить 3 штуки. Танк был принят на вооружение, но в боях не участвовал;</li>
+<li><b><a href="/wiki/%D0%A7%D0%B8-%D0%A0%D0%B8" title="Чи-Ри">Type 5 Чи-Ри</a></b> — дальнейшее развитие Чи-То, танк был больше в размере и имел кассетное заряжание (по 3 снаряда в кассете) для пушки Тип 5. Прототип не был достроен, так как Чи-То сочли практичнее. После войны экземпляр захватили американцы.</li></ul>
+<h2><span id=".D0.A1.D0.BE.D1.85.D1.80.D0.B0.D0.BD.D0.B8.D0.B2.D1.88.D0.B8.D0.B9.D1.81.D1.8F_.D1.8D.D0.BA.D0.B7.D0.B5.D0.BC.D0.BF.D0.BB.D1.8F.D1.80"></span><span class="mw-headline" id="Сохранившийся_экземпляр">Сохранившийся экземпляр</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A7%D0%B8-%D0%9D%D1%83&amp;veaction=edit&amp;section=16" title="Редактировать раздел «Сохранившийся экземпляр»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A7%D0%B8-%D0%9D%D1%83&amp;action=edit&amp;section=16" title="Редактировать код раздела «Сохранившийся экземпляр»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Japanese_Type_3_Chi-Nu_tank_1.jpg"><img class="mw-file-element" data-file-height="2759" data-file-width="3269" decoding="async" height="186" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Japanese_Type_3_Chi-Nu_tank_1.jpg/220px-Japanese_Type_3_Chi-Nu_tank_1.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Japanese_Type_3_Chi-Nu_tank_1.jpg/330px-Japanese_Type_3_Chi-Nu_tank_1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Japanese_Type_3_Chi-Nu_tank_1.jpg/440px-Japanese_Type_3_Chi-Nu_tank_1.jpg 2x" width="220"/></a><figcaption>«Чи-Ну» из музея Сил самообороны в Цутиуре</figcaption></figure><p>Сейчас известен лишь один сохранившийся образец. Он находится в музее <a href="/wiki/%D0%A1%D0%B8%D0%BB%D1%8B_%D1%81%D0%B0%D0%BC%D0%BE%D0%BE%D0%B1%D0%BE%D1%80%D0%BE%D0%BD%D1%8B_%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D0%B8" title="Силы самообороны Японии">Сил самообороны Японии</a> в <a href="/wiki/%D0%A6%D1%83%D1%82%D0%B8%D1%83%D1%80%D0%B0" title="Цутиура">Цутиуре</a><sup class="reference" id="cite_ref-21"><a href="#cite_note-21">[21]</a></sup>.
+</p><h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Примечания">Примечания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A7%D0%B8-%D0%9D%D1%83&amp;veaction=edit&amp;section=17" title="Редактировать раздел «Примечания»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A7%D0%B8-%D0%9D%D1%83&amp;action=edit&amp;section=17" title="Редактировать код раздела «Примечания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-Bron_5-98_10-1"><span class="mw-cite-backlink">↑ <a href="#cite_ref-Bron_5-98_10_1-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-Bron_5-98_10_1-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-Bron_5-98_10_1-2"><sup><i><b>3</b></i></sup></a> <a href="#cite_ref-Bron_5-98_10_1-3"><sup><i><b>4</b></i></sup></a> <a href="#cite_ref-Bron_5-98_10_1-4"><sup><i><b>5</b></i></sup></a> <a href="#cite_ref-Bron_5-98_10_1-5"><sup><i><b>6</b></i></sup></a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>С. Федосеев.</i> Средний танк «Чи-Ха». — <abbr title="Москва">М.</abbr>: Моделист-конструктор, 1998. — С. 10. — 32 с. — (Бронеколлекция № 5 (20) / 1998).</span></span>
+</li>
+<li id="cite_note-Taki-2"><span class="mw-cite-backlink">↑ <a href="#cite_ref-Taki_2-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-Taki_2-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="citation"><span lang="en"><a class="external text" href="https://web.archive.org/web/20080405181121/http://www3.plala.or.jp/takihome/chi-nu.htm" rel="nofollow">Chi-Nu</a></span> <span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>. <i>Imperial Japanese Army Page</i>. Дата обращения: 31 марта 2008. Архивировано из <a class="external text" href="http://www3.plala.or.jp/takihome/chi-nu.htm" rel="nofollow">оригинала</a> 5 апреля 2008 года.</span></span>
+</li>
+<li id="cite_note-Tmcz_11-3"><span class="mw-cite-backlink">↑ <a href="#cite_ref-Tmcz_11_3-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-Tmcz_11_3-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-Tmcz_11_3-2"><sup><i><b>3</b></i></sup></a> <a href="#cite_ref-Tmcz_11_3-3"><sup><i><b>4</b></i></sup></a> <a href="#cite_ref-Tmcz_11_3-4"><sup><i><b>5</b></i></sup></a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>Andrzej M. Tomczyk.</i> Japońska broń pancerna. — Gdańsk: AJ Press, 2005. — Vol. 4. — P. 11. — 121 p. — (TankPower № 12). — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/8372371679">ISBN 8-37237-167-9</a>.</span></span>
+</li>
+<li id="cite_note-Tmcz_5-4"><span class="mw-cite-backlink">↑ <a href="#cite_ref-Tmcz_5_4-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-Tmcz_5_4-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>Andrzej M. Tomczyk.</i> Japońska broń pancerna. — Gdańsk: AJ Press, 2005. — Vol. 4. — P. 5. — 121 p. — (TankPower № 12). — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/8372371679">ISBN 8-37237-167-9</a>.</span></span>
+</li>
+<li id="cite_note-Jane_138-5"><span class="mw-cite-backlink">↑ <a href="#cite_ref-Jane_138_5-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-Jane_138_5-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>Leland Ness.</i> Jane’s World War II Tanks and Fighting Vehicles — The Complete Guide. — London: HarperCollins Publishers, 2002. — P. 138. — 237 p. — (Jane’s Information Group). — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/0007112289">ISBN 0-00711-228-9</a>.</span></span>
+</li>
+<li id="cite_note-Jane_139-6"><span class="mw-cite-backlink"><a href="#cite_ref-Jane_139_6-0">↑</a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>Leland Ness.</i> Jane’s World War II Tanks and Fighting Vehicles — The Complete Guide. — London: HarperCollins Publishers, 2002. — P. 139. — 237 p. — (Jane’s Information Group). — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/0007112289">ISBN 0-00711-228-9</a>.</span></span>
+</li>
+<li id="cite_note-Tmcz_38-41-7"><span class="mw-cite-backlink"><a href="#cite_ref-Tmcz_38-41_7-0">↑</a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>Andrzej M. Tomczyk.</i> Japońska broń pancerna. — Gdańsk: AJ Press, 2005. — Vol. 4. — P. 38—41. — 121 p. — (TankPower № 12). — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/8372371679">ISBN 8-37237-167-9</a>.</span></span>
+</li>
+<li id="cite_note-Shinhoto-8"><span class="mw-cite-backlink">↑ <a href="#cite_ref-Shinhoto_8-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-Shinhoto_8-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-Shinhoto_8-2"><sup><i><b>3</b></i></sup></a> <a href="#cite_ref-Shinhoto_8-3"><sup><i><b>4</b></i></sup></a> <a href="#cite_ref-Shinhoto_8-4"><sup><i><b>5</b></i></sup></a> <a href="#cite_ref-Shinhoto_8-5"><sup><i><b>6</b></i></sup></a> <a href="#cite_ref-Shinhoto_8-6"><sup><i><b>7</b></i></sup></a> <a href="#cite_ref-Shinhoto_8-7"><sup><i><b>8</b></i></sup></a> <a href="#cite_ref-Shinhoto_8-8"><sup><i><b>9</b></i></sup></a></span> <span class="reference-text"><span class="citation"><i>Ю. Спасибухов.</i> Японский танк «Шинхото Чи-Ха» // Танкомастер. — <abbr title="Москва">М.</abbr>, 1999. — <span class="nowrap">№ 6</span>. — <span class="nowrap">С. 14—24</span>.</span></span>
+</li>
+<li id="cite_note-Tmcz_14-9"><span class="mw-cite-backlink"><a href="#cite_ref-Tmcz_14_9-0">↑</a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>Andrzej M. Tomczyk.</i> Japońska broń pancerna. — Gdańsk: AJ Press, 2005. — Vol. 4. — P. 14. — 121 p. — (TankPower № 12). — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/8372371679">ISBN 8-37237-167-9</a>.</span></span>
+</li>
+<li id="cite_note-Type_3-10"><span class="mw-cite-backlink">↑ <a href="#cite_ref-Type_3_10-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-Type_3_10-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-Type_3_10-2"><sup><i><b>3</b></i></sup></a></span> <span class="reference-text"><span class="citation"><span lang="ja"><a class="external text" href="https://web.archive.org/web/20080125112726/http://www.bekkoame.ne.jp/~bandaru/deta024a.htm" rel="nofollow">三式中戦車（チヌ）</a></span> <span class="ref-info" style="cursor:help;" title="на японском языке">(яп.)</span>. — подробные ТТХ и история «Чи-Ну». Дата обращения: 29 марта 2008. Архивировано из <a class="external text" href="http://www.bekkoame.ne.jp/~bandaru/deta024a.htm" rel="nofollow">оригинала</a> 25 января 2008 года.</span></span>
+</li>
+<li id="cite_note-Bron_5-98_9-11"><span class="mw-cite-backlink">↑ <a href="#cite_ref-Bron_5-98_9_11-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-Bron_5-98_9_11-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>С. Федосеев.</i> Средний танк «Чи-Ха». — <abbr title="Москва">М.</abbr>: Моделист-конструктор, 1998. — С. 9. — 32 с. — (Бронеколлекция № 5 (20) / 1998).</span></span>
+</li>
+<li id="cite_note-Bron_3-06_6-12"><span class="mw-cite-backlink"><a href="#cite_ref-Bron_3-06_6_12-0">↑</a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>С. Федосеев.</i> Лёгкий танк «Ха-Го». — <abbr title="Москва">М.</abbr>: Моделист-конструктор, 2006. — С. 6. — 32 с. — (Бронеколлекция № 3 (65) / 2006). — <span class="nowrap">2500 экз.</span></span></span>
+</li>
+<li id="cite_note-Tmcz_31-13"><span class="mw-cite-backlink"><a href="#cite_ref-Tmcz_31_13-0">↑</a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>Andrzej M. Tomczyk.</i> Japońska broń pancerna. — Gdańsk: AJ Press, 2005. — Vol. 4. — P. 31. — 121 p. — (TankPower № 12). — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/8372371679">ISBN 8-37237-167-9</a>.</span></span>
+</li>
+<li id="cite_note-Bron_5-98_6-14"><span class="mw-cite-backlink"><a href="#cite_ref-Bron_5-98_6_14-0">↑</a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>С. Федосеев.</i> Средний танк «Чи-Ха». — <abbr title="Москва">М.</abbr>: Моделист-конструктор, 1998. — С. 6. — 32 с. — (Бронеколлекция № 5 (20) / 1998).</span></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>Military Intelligence Division, War Departament.</i> Japanese Tank and Antitank Warfare. — Washington, DC: United States Government Printing Office, 1945. — 215 p. — (Special Series № 34).</span></span>
+</li>
+<li id="cite_note-Bron_5-98_30-16"><span class="mw-cite-backlink">↑ <a href="#cite_ref-Bron_5-98_30_16-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-Bron_5-98_30_16-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-Bron_5-98_30_16-2"><sup><i><b>3</b></i></sup></a> <a href="#cite_ref-Bron_5-98_30_16-3"><sup><i><b>4</b></i></sup></a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>С. Федосеев.</i> Средний танк «Чи-Ха». — <abbr title="Москва">М.</abbr>: Моделист-конструктор, 1998. — С. 30. — 32 с. — (Бронеколлекция № 5 (20) / 1998).</span></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><a href="#cite_ref-17">↑</a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>R. P. Hunnicutt.</i> <a class="external text" href="https://archive.org/details/historyofamerica0000hunn" rel="nofollow">Stuart. A History of the American Light Tank Volume 1</a>. — Novato, Calif.: Presidio Press, 1992. — P. <a class="external text" href="https://archive.org/details/historyofamerica0000hunn/page/500" rel="nofollow">500</a>. — 512 p. — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/0891414622">ISBN 0-89141-462-2</a>.</span></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><a href="#cite_ref-18">↑</a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>R. P. Hunnicutt.</i> <a class="external text" href="https://archive.org/details/historyofamerica0000hunn" rel="nofollow">Stuart. A History of the American Light Tank Volume 1</a>. — Novato, Calif.: Presidio Press, 1992. — P. <a class="external text" href="https://archive.org/details/historyofamerica0000hunn/page/496" rel="nofollow">496</a>. — 512 p. — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/0891414622">ISBN 0-89141-462-2</a>.</span></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><a href="#cite_ref-19">↑</a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>I. McPherson, M. Koenig.</i> <a class="external text" href="https://archive.org/details/mastuart00mcph" rel="nofollow">M3A1 Stuart</a>. — Lublin: Kagero, 2005. — P. <a class="external text" href="https://archive.org/details/mastuart00mcph/page/n3" rel="nofollow">5</a>. — 36 p. — (Kagero Topshots № 11017). — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/8389088916">ISBN 8-38908-891-6</a>.</span></span>
+</li>
+<li id="cite_note-Bron_5-98_29-20"><span class="mw-cite-backlink"><a href="#cite_ref-Bron_5-98_29_20-0">↑</a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>С. Федосеев.</i> Средний танк «Чи-Ха». — <abbr title="Москва">М.</abbr>: Моделист-конструктор, 1998. — С. 29. — 32 с. — (Бронеколлекция № 5 (20) / 1998).</span></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><a href="#cite_ref-21">↑</a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>T. Larkum, A. Kelly.</i> Preserved Japanese Tanks. — Northampton: Armour Archive Publications, 2000. — P. 28. — 34 p. — (Preserved Tanks By Nationality Series). — ISBN 0-9523293-.</span></span>
+</li>
+</ol></div></div>
+<h2><span id=".D0.9B.D0.B8.D1.82.D0.B5.D1.80.D0.B0.D1.82.D1.83.D1.80.D0.B0"></span><span class="mw-headline" id="Литература">Литература</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A7%D0%B8-%D0%9D%D1%83&amp;veaction=edit&amp;section=18" title="Редактировать раздел «Литература»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A7%D0%B8-%D0%9D%D1%83&amp;action=edit&amp;section=18" title="Редактировать код раздела «Литература»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Mitterer Panzer Typ 3 Chinu/1944 (Japan) // "Armeerundschau", № 8, 1969. s.67</li>
+<li><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>С. Федосеев.</i> Средний танк «Чи-Ха». — <abbr title="Москва">М.</abbr>: Моделист-конструктор, 1998. — 32 с. — (Бронеколлекция № 5 (20) / 1998).</span></li>
+<li><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>С. Федосеев.</i> Бронетанковая техника Японии 1939—1945 гг. — <abbr title="Москва">М.</abbr>: Моделист-конструктор, 1995. — 32 с. — (Бронеколлекция № 3 / 1995).</span></li>
+<li><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>A. M. Tomczyk.</i> Japońska broń pancerna. — Gdańsk: AJ Press, 2002. — Vol. 2 — Japońska broń pancerna w latach 1939—1942. — 121 p. — (TankPower № 10). — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/8372371113">ISBN 8-37237-111-3</a>.</span></li>
+<li><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>A. M. Tomczyk.</i> Japońska broń pancerna. — Gdańsk: AJ Press, 2005. — Vol. 4 — Czołgi średnie z lat 1943—1945. — 121 p. — (TankPower № 12). — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/8372371679">ISBN 8-37237-167-9</a>.</span></li>
+<li><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>Leland Ness.</i> Jane’s World War II Tanks and Fighting Vehicles — The Complete Guide. — London: HarperCollins Publishers, 2002. — 237 p. — (Jane’s Information Group). — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/0007112289">ISBN 0-00711-228-9</a>.</span></li>
+<li><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>Military Intelligence Division, War Departament.</i> Japanese Tank and Antitank Warfare. — Washington, DC: United States Government Printing Office, 1945. — 215 p. — (Special Series № 34).</span></li>
+<li><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>T. Larkum, A. Kelly.</i> Preserved Japanese Tanks. — Northampton: Armour Archive Publications, 2000. — 34 p. — (Preserved Tanks By Nationality Series). — ISBN 0-9523293-.</span></li>
+<li><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>S. J. Zaloga.</i> Tank Battles of the Pacific War 1941—1945. — Tsuen Wan: Concord Publications, 1995. — 72 p. — (Armor at War Series № 7004). — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9623616074">ISBN 9-62361-607-4</a>.</span></li>
+<li><span class="citation"><i>Ю. Спасибухов.</i> Японский танк «Шинхото Чи-Ха» // Танкомастер. — <abbr title="Москва">М.</abbr>, 1999. — <span class="nowrap">№ 6</span>. — <span class="nowrap">С. 14—24</span>.</span></li>
+<li><span class="citation">日本陸軍 一式/三式中戦車 // Ground Power (グランド・パワー). — Tokyo, 1998. — <span class="nowrap">№ 11 (54)</span>. — P. 83—101.</span></li></ul>
+<h2><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span><span class="mw-headline" id="Ссылки">Ссылки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A7%D0%B8-%D0%9D%D1%83&amp;veaction=edit&amp;section=19" title="Редактировать раздел «Ссылки»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A7%D0%B8-%D0%9D%D1%83&amp;action=edit&amp;section=19" title="Редактировать код раздела «Ссылки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div aria-label="В родственных проектах" class="ts-Родственные_проекты ruwikiWikimediaNavigation tright metadata plainlinks plainlist noprint" role="navigation"><ul><li class="ts-Родственные_проекты-item"><span class="ts-Родственные_проекты-image"><span typeof="mw:File"><span><img alt="" class="mw-file-element" data-file-height="30" data-file-width="30" decoding="async" height="24" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/24px-Notification-icon-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/36px-Notification-icon-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/48px-Notification-icon-Commons-logo.svg.png 2x" width="24"/></span></span></span><span class="ts-Родственные_проекты-label commons-ref"><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Type_3_Chi-Nu" title="commons:Category:Type 3 Chi-Nu">Медиафайлы на Викискладе</a></span></li></ul></div>
+<ul><li><span class="citation"><span lang="ja"><a class="external text" href="https://web.archive.org/web/20080125112726/http://www.bekkoame.ne.jp/~bandaru/deta024a.htm" rel="nofollow">三式中戦車（チヌ）</a></span> <span class="ref-info" style="cursor:help;" title="на японском языке">(яп.)</span>. — подробные ТТХ и история «Чи-Ну». Дата обращения: 29 марта 2008. Архивировано из <a class="external text" href="http://www.bekkoame.ne.jp/~bandaru/deta024a.htm" rel="nofollow">оригинала</a> 25 января 2008 года.</span></li></ul>
+<div aria-labelledby="Серийные_средние_танки_периода_Второй_мировой_войны" class="navbox" data-name="СреднийТанкВМВ" role="navigation"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="3" scope="colgroup"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9%D0%A2%D0%B0%D0%BD%D0%BA%D0%92%D0%9C%D0%92" title="Перейти к шаблону «СреднийТанкВМВ»"><img alt="Перейти к шаблону «СреднийТанкВМВ»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span></span><div id="Серийные_средние_танки_периода_Второй_мировой_войны" style="font-size:114%;margin:0 5em">Серийные <a href="/wiki/%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9_%D1%82%D0%B0%D0%BD%D0%BA" title="Средний танк">средние танки</a> периода <a href="/wiki/%D0%92%D1%82%D0%BE%D1%80%D0%B0%D1%8F_%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0" title="Вторая мировая война">Второй мировой войны</a></div></th></tr><tr><td class="navbox-list navbox-odd hlist hlist-items-nowrap" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<dl><dt><span class="flagicon"><span class="mw-image-border noresize noviewer" typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Australia.svg" title="Австралия"><img alt="Австралия" class="mw-file-element" data-file-height="640" data-file-width="1280" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/22px-Flag_of_Australia.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/33px-Flag_of_Australia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/44px-Flag_of_Australia.svg.png 2x" width="22"/></a></span></span></dt>
+<dd>«<a href="/wiki/%D0%A1%D0%B5%D0%BD%D1%82%D0%B8%D0%BD%D0%B5%D0%BB_(%D1%82%D0%B0%D0%BD%D0%BA)" title="Сентинел (танк)">Сентинел</a>»</dd>
+<dt><span class="flagicon"><span class="mw-image-border noresize noviewer" typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Argentina.svg" title="Аргентина"><img alt="Аргентина" class="mw-file-element" data-file-height="500" data-file-width="800" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/22px-Flag_of_Argentina.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/33px-Flag_of_Argentina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/44px-Flag_of_Argentina.svg.png 2x" width="22"/></a></span></span></dt>
+<dd><a href="/wiki/%D0%9D%D0%B0%D1%83%D1%8D%D0%BB%D1%8C_(%D1%82%D0%B0%D0%BD%D0%BA)" title="Науэль (танк)">DL-43 «Науэль»</a></dd>
+<dt><span class="flagicon"><span class="mw-image-border noresize noviewer" typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_the_United_Kingdom_(3-5).svg" title="Великобритания"><img alt="Великобритания" class="mw-file-element" data-file-height="600" data-file-width="1000" decoding="async" height="13" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/22px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/33px-Flag_of_the_United_Kingdom_%283-5%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/44px-Flag_of_the_United_Kingdom_%283-5%29.svg.png 2x" width="22"/></a></span></span></dt>
+<dd><a href="/wiki/%D0%9C%D0%B0%D1%82%D0%B8%D0%BB%D1%8C%D0%B4%D0%B0_(%D1%82%D0%B0%D0%BD%D0%BA)" title="Матильда (танк)">Mk.II «Матильда II»</a></dd>
+<dd><a href="/wiki/%D0%9A%D0%BE%D0%B2%D0%B5%D0%BD%D0%B0%D0%BD%D1%82%D0%B5%D1%80_(%D1%82%D0%B0%D0%BD%D0%BA)" title="Ковенантер (танк)">Mk.V «Ковенантер»</a><sup>*</sup></dd>
+<dd><a href="/wiki/%D0%9A%D1%80%D1%83%D1%81%D0%B5%D0%B9%D0%B4%D0%B5%D1%80" title="Крусейдер">Mk.VI «Крусейдер»</a></dd>
+<dd><a href="/wiki/%D0%9A%D0%B0%D0%B2%D0%B0%D0%BB%D0%B5%D1%80_(%D1%82%D0%B0%D0%BD%D0%BA)" title="Кавалер (танк)">Mk.VII «Кавалер»</a></dd>
+<dd><a href="/wiki/%D0%9A%D1%80%D0%BE%D0%BC%D0%B2%D0%B5%D0%BB%D1%8C_(%D1%82%D0%B0%D0%BD%D0%BA)" title="Кромвель (танк)">Mk.VIII «Кентавр»</a></dd>
+<dd><a href="/wiki/%D0%9A%D1%80%D0%BE%D0%BC%D0%B2%D0%B5%D0%BB%D1%8C_(%D1%82%D0%B0%D0%BD%D0%BA)" title="Кромвель (танк)">Mk.VIII «Кромвель»</a></dd>
+<dd><a href="/wiki/%D0%A7%D0%B5%D0%BB%D0%BB%D0%B5%D0%BD%D0%B4%D0%B6%D0%B5%D1%80_(%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D0%B0%D0%BD%D0%BA)" title="Челленджер (крейсерский танк)">Mk.VIII «Челленджер»</a></dd>
+<dd>«<a href="/wiki/%D0%9A%D0%BE%D0%BC%D0%B5%D1%82%D0%B0_(%D1%82%D0%B0%D0%BD%D0%BA)" title="Комета (танк)">Комета</a>»</dd>
+<dt><span class="flagicon"><span class="mw-image-border noresize noviewer" typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Hungary_(1915-1918,_1919-1946).svg" title="Венгрия"><img alt="Венгрия" class="mw-file-element" data-file-height="600" data-file-width="1200" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Flag_of_Hungary_%281915-1918%2C_1919-1946%29.svg/22px-Flag_of_Hungary_%281915-1918%2C_1919-1946%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Flag_of_Hungary_%281915-1918%2C_1919-1946%29.svg/33px-Flag_of_Hungary_%281915-1918%2C_1919-1946%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Flag_of_Hungary_%281915-1918%2C_1919-1946%29.svg/44px-Flag_of_Hungary_%281915-1918%2C_1919-1946%29.svg.png 2x" width="22"/></a></span></span></dt>
+<dd><a href="/wiki/%D0%A2%D1%83%D1%80%D0%B0%D0%BD_(%D1%82%D0%B0%D0%BD%D0%BA)" title="Туран (танк)">40M «Туран»</a><sup>*</sup></dd>
+<dt><span class="flagicon"><span class="mw-image-border noresize noviewer" typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Germany_(1935%E2%80%931945).svg" title="Нацистская Германия"><img alt="Нацистская Германия" class="mw-file-element" data-file-height="600" data-file-width="1000" decoding="async" height="13" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Germany_%281935%E2%80%931945%29.svg/22px-Flag_of_Germany_%281935%E2%80%931945%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Germany_%281935%E2%80%931945%29.svg/33px-Flag_of_Germany_%281935%E2%80%931945%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Germany_%281935%E2%80%931945%29.svg/44px-Flag_of_Germany_%281935%E2%80%931945%29.svg.png 2x" width="22"/></a></span></span></dt>
+<dd><a class="mw-redirect" href="/wiki/PzKpfw_III" title="PzKpfw III">Pz.Kpfw.III</a></dd>
+<dd><a class="mw-redirect" href="/wiki/PzKpfw_IV" title="PzKpfw IV">Pz.Kpfw.IV</a></dd>
+<dd><a href="/wiki/%D0%9F%D0%B0%D0%BD%D1%82%D0%B5%D1%80%D0%B0_(%D1%82%D0%B0%D0%BD%D0%BA)" title="Пантера (танк)">Pz.Kpfw.V «Пантера»</a><sup>***</sup></dd>
+<dt><span class="flagicon"><span class="mw-image-border noresize noviewer" typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Italy_(1861%E2%80%931946).svg" title="Королевство Италия (1861—1946)"><img alt="Королевство Италия (1861—1946)" class="mw-file-element" data-file-height="1000" data-file-width="1500" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Italy_%281861%E2%80%931946%29.svg/22px-Flag_of_Italy_%281861%E2%80%931946%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Italy_%281861%E2%80%931946%29.svg/33px-Flag_of_Italy_%281861%E2%80%931946%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Italy_%281861%E2%80%931946%29.svg/44px-Flag_of_Italy_%281861%E2%80%931946%29.svg.png 2x" width="22"/></a></span></span></dt>
+<dd><a href="/wiki/P26/40" title="P26/40">P26/40</a><sup>**</sup></dd>
+<dt><span class="flagicon"><span class="mw-image-border noresize noviewer" typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Canada_(1921%E2%80%931957).svg" title="Канада"><img alt="Канада" class="mw-file-element" data-file-height="256" data-file-width="512" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Flag_of_Canada_%281921%E2%80%931957%29.svg/22px-Flag_of_Canada_%281921%E2%80%931957%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Flag_of_Canada_%281921%E2%80%931957%29.svg/33px-Flag_of_Canada_%281921%E2%80%931957%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Flag_of_Canada_%281921%E2%80%931957%29.svg/44px-Flag_of_Canada_%281921%E2%80%931957%29.svg.png 2x" width="22"/></a></span></span></dt>
+<dd>«<a href="/wiki/%D0%A0%D1%8D%D0%BC_(%D1%82%D0%B0%D0%BD%D0%BA)" title="Рэм (танк)">Рэм</a>»</dd>
+<dt><span class="flagicon"><span class="mw-image-border noresize noviewer" typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_the_USSR_(1936-1955).svg" title="Союз Советских Социалистических Республик"><img alt="Союз Советских Социалистических Республик" class="mw-file-element" data-file-height="500" data-file-width="1000" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_the_USSR_%281936-1955%29.svg/22px-Flag_of_the_USSR_%281936-1955%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_the_USSR_%281936-1955%29.svg/33px-Flag_of_the_USSR_%281936-1955%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_the_USSR_%281936-1955%29.svg/44px-Flag_of_the_USSR_%281936-1955%29.svg.png 2x" width="22"/></a></span></span></dt>
+<dd><a href="/wiki/%D0%A2-28" title="Т-28">Т-28</a></dd>
+<dd><a href="/wiki/%D0%A2-34" title="Т-34">Т-34</a></dd>
+<dd><a href="/wiki/%D0%A2-34-85" title="Т-34-85">Т-34-85</a></dd>
+<dd><a href="/wiki/%D0%A2-44" title="Т-44">Т-44</a></dd>
+<dt><span class="flagicon"><span class="mw-image-border noresize noviewer" typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_the_United_States_(1912-1959).svg" title="Соединённые Штаты Америки"><img alt="Соединённые Штаты Америки" class="mw-file-element" data-file-height="650" data-file-width="1235" decoding="async" height="12" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Flag_of_the_United_States_%281912-1959%29.svg/22px-Flag_of_the_United_States_%281912-1959%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Flag_of_the_United_States_%281912-1959%29.svg/33px-Flag_of_the_United_States_%281912-1959%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Flag_of_the_United_States_%281912-1959%29.svg/44px-Flag_of_the_United_States_%281912-1959%29.svg.png 2x" width="22"/></a></span></span></dt>
+<dd><a href="/wiki/M2_(%D1%81%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9_%D1%82%D0%B0%D0%BD%D0%BA)" title="M2 (средний танк)">M2</a></dd>
+<dd><a href="/wiki/M3_(%D1%82%D0%B0%D0%BD%D0%BA)" title="M3 (танк)">M3 «Ли»</a></dd>
+<dd><a href="/wiki/%D0%A8%D0%B5%D1%80%D0%BC%D0%B0%D0%BD_(%D1%82%D0%B0%D0%BD%D0%BA)" title="Шерман (танк)">M4 «Шерман»</a></dd>
+<dd><a href="/wiki/MTLS-1G14" title="MTLS-1G14">MTLS-1G14</a></dd>
+<dt><span class="flagicon"><span class="mw-image-border noresize noviewer" typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_France_(1794%E2%80%931815,_1830%E2%80%931974).svg" title="Франция"><img alt="Франция" class="mw-file-element" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%29.svg/22px-Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%29.svg/33px-Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%29.svg/44px-Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%29.svg.png 2x" width="22"/></a></span></span></dt>
+<dd><a href="/wiki/S35_(%D1%82%D0%B0%D0%BD%D0%BA)" title="S35 (танк)">S35</a></dd>
+<dd><a href="/wiki/Char_D2" title="Char D2">D2</a></dd>
+<dt><span class="flagicon"><span class="mw-image-border noresize noviewer" typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Sweden.svg" title="Швеция"><img alt="Швеция" class="mw-file-element" data-file-height="320" data-file-width="512" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Sweden.svg/22px-Flag_of_Sweden.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Sweden.svg/33px-Flag_of_Sweden.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Sweden.svg/44px-Flag_of_Sweden.svg.png 2x" width="22"/></a></span></span></dt>
+<dd><a href="/wiki/Strv_m/42" title="Strv m/42">Strv m/42</a></dd>
+<dt><span class="flagicon"><span class="mw-image-border noresize noviewer" typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Japan_(1870%E2%80%931999).svg" title="Японская империя"><img alt="Японская империя" class="mw-file-element" data-file-height="700" data-file-width="1000" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Japan_%281870%E2%80%931999%29.svg/22px-Flag_of_Japan_%281870%E2%80%931999%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Japan_%281870%E2%80%931999%29.svg/33px-Flag_of_Japan_%281870%E2%80%931999%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Japan_%281870%E2%80%931999%29.svg/44px-Flag_of_Japan_%281870%E2%80%931999%29.svg.png 2x" width="22"/></a></span></span></dt>
+<dd><a href="/wiki/%D0%A7%D0%B8-%D0%A5%D0%B5" title="Чи-Хе">Тип 1 «Чи-Хе»</a><sup>*</sup></dd>
+<dd><a href="/wiki/%D0%A5%D0%BE-%D0%98" title="Хо-И">Тип 2 «Хо-И»</a><sup>*</sup></dd>
+<dd><a class="mw-selflink selflink">Тип 3 «Чи-Ну»</a></dd></dl>
+</div></td><td class="navbox-image" rowspan="1" style="width:1px;padding:0px 0px 0px 7px"><div><span class="mw-image-border" typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:T-34_Model_1940.jpg"><img class="mw-file-element" data-file-height="913" data-file-width="1444" decoding="async" height="63" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/T-34_Model_1940.jpg/100px-T-34_Model_1940.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/T-34_Model_1940.jpg/150px-T-34_Model_1940.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/39/T-34_Model_1940.jpg/200px-T-34_Model_1940.jpg 2x" width="100"/></a></span></div></td></tr><tr><td class="navbox-abovebelow" colspan="3" style="text-align: left;"><div><sup>*</sup> — лёгкие по массе, по национальной классификации относились к средним<br/><sup>**</sup> — средние по массе, по национальной классификации относились к тяжёлым<br/><sup>***</sup> — тяжёлые по массе, по национальной классификации относились к средним</div></td></tr></tbody></table></div>
+<div aria-labelledby="Бронетехника_Японской_империи" class="navbox" data-name="Японская Империя БТТ" role="navigation"><table class="nowraplinks hlist hlist-items-nowrap collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="3" scope="colgroup"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%AF%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%98%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D1%8F_%D0%91%D0%A2%D0%A2" title="Перейти к шаблону «Японская Империя БТТ»"><img alt="Перейти к шаблону «Японская Империя БТТ»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span></span><div id="Бронетехника_Японской_империи" style="font-size:114%;margin:0 5em"><a href="/wiki/%D0%91%D1%80%D0%BE%D0%BD%D0%B5%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0_%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D0%B8_%D0%B2_1918%E2%80%941945_%D0%B3%D0%BE%D0%B4%D0%B0%D1%85" title="Бронетехника Японии в 1918—1945 годах">Бронетехника Японской империи</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/%D0%A2%D0%B0%D0%BD%D0%BA%D0%B5%D1%82%D0%BA%D0%B0" title="Танкетка">Танкетки</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Carden-Loyd_Mk_VI" title="Carden-Loyd Mk VI">Тип «Ка»</a><b>*</b></li>
+<li>«<a class="new" href="/w/index.php?title=%D0%9D%D0%B0%D0%B3%D0%B0%D1%8F%D0%BC%D0%B0_(%D1%82%D0%B0%D0%BD%D0%BA%D0%B5%D1%82%D0%BA%D0%B0)&amp;action=edit&amp;redlink=1" title="Нагаяма (танкетка) (страница отсутствует)">Нагаяма</a>»</li></ul>
+</div></td><td class="navbox-image" rowspan="13" style="width:1px;padding:0px 0px 0px 7px"><div><span class="mw-image-border" typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:War_flag_of_the_Imperial_Japanese_Army.svg" title="Флаг Императорской армии Японии"><img alt="Флаг Императорской армии Японии" class="mw-file-element" data-file-height="600" data-file-width="900" decoding="async" height="47" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/War_flag_of_the_Imperial_Japanese_Army.svg/70px-War_flag_of_the_Imperial_Japanese_Army.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/War_flag_of_the_Imperial_Japanese_Army.svg/105px-War_flag_of_the_Imperial_Japanese_Army.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/War_flag_of_the_Imperial_Japanese_Army.svg/140px-War_flag_of_the_Imperial_Japanese_Army.svg.png 2x" width="70"/></a></span></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F_%D1%82%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2#Малый_танк" title="Классификация танков">Малые танки</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%A2%D0%B8%D0%BF_94" title="Тип 94">Тип 94 «ТК»</a></li>
+<li><a href="/wiki/%D0%A2%D0%B5-%D0%9A%D0%B5" title="Те-Ке">Тип 97 «Те-Ке»</a></li>
+<li><i><small><a href="/wiki/%D0%9A%D1%83-%D0%A0%D0%BE" title="Ку-Ро">Тип 3 «Ку-Ро»</a></small></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F_%D1%82%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2#Лёгкий_танк" title="Классификация танков">Лёгкие танки</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>«<a href="/wiki/%D0%A0%D0%B5%D0%BD%D0%BE_FT" title="Рено FT">Ко Гата Сенша</a>»<b>*</b></li>
+<li><a href="/wiki/%D0%A2%D0%B8%D0%BF_92_(%D1%82%D0%B0%D0%BD%D0%BA)" title="Тип 92 (танк)">Тип 92</a></li>
+<li><a href="/wiki/%D0%A5%D0%B0-%D0%93%D0%BE" title="Ха-Го">Тип 95 «Ха-Го»</a></li>
+<li><a href="/wiki/%D0%9A%D0%B5-%D0%9D%D0%B8" title="Ке-Ни">Тип 98 «Ке-Ни»</a></li>
+<li><a href="/wiki/%D0%9A%D0%B5-%D0%9D%D1%83" title="Ке-Ну">Тип 4 «Ке-Ну»</a></li>
+<li><i><small><a href="/wiki/%D0%9A%D0%B5-%D0%A5%D0%BE" title="Ке-Хо">Тип 5 «Ке-Хо»</a></small></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F_%D1%82%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2#Средний_танк" title="Классификация танков">Средние танки</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>«<a href="/wiki/Renault_NC27" title="Renault NC27">Оцу Гата Сенша</a>»<b>*</b></li>
+<li><i><small><a href="/wiki/%D0%A2%D0%B8%D0%BF_87_(%D1%82%D0%B0%D0%BD%D0%BA)" title="Тип 87 (танк)">Тип 87 «Чи-И»</a></small></i></li>
+<li><a href="/wiki/%D0%A2%D0%B8%D0%BF_89_(%D1%82%D0%B0%D0%BD%D0%BA)" title="Тип 89 (танк)">Тип 89 «Йи-Го»</a></li>
+<li><i><small><a href="/wiki/%D0%A7%D0%B8-%D0%9D%D0%B8" title="Чи-Ни">Тип 97 «Чи-Ни»</a></small></i></li>
+<li><i><small><a href="/wiki/%D0%A7%D0%B8-%D0%A5%D0%BE" title="Чи-Хо">Чи-Хо</a></small></i></li>
+<li><a href="/wiki/%D0%A7%D0%B8-%D0%A5%D0%B0" title="Чи-Ха">Тип 97 «Чи-Ха»</a></li>
+<li><a href="/wiki/%D0%A8%D0%B8%D0%BD%D1%85%D0%BE%D1%82%D0%BE_%D0%A7%D0%B8-%D0%A5%D0%B0" title="Шинхото Чи-Ха">Тип 97 «Шинхото Чи-Ха»</a></li>
+<li><a href="/wiki/%D0%A7%D0%B8-%D0%A5%D0%B5" title="Чи-Хе">Тип 1 «Чи-Хе»</a></li>
+<li><a href="/wiki/%D0%A5%D0%BE-%D0%98" title="Хо-И">Тип 2 «Хо-И»</a></li>
+<li><a class="mw-selflink selflink">Тип 3 «Чи-Ну»</a></li>
+<li><i><small><a href="/wiki/%D0%A7%D0%B8-%D0%9D%D1%83_%D0%9A%D0%B0%D0%B9_(%D1%82%D0%B0%D0%BD%D0%BA)" title="Чи-Ну Кай (танк)">Тип 3 «Чи-Ну Кай»</a></small></i></li>
+<li><i><small><a class="new" href="/w/index.php?title=%D0%A7%D0%B8-%D0%9D%D1%83_II_(%D1%82%D0%B0%D0%BD%D0%BA)&amp;action=edit&amp;redlink=1" title="Чи-Ну II (танк) (страница отсутствует)">Тип 3 «Чи-Ну II»</a></small></i></li>
+<li><i><small><a href="/wiki/%D0%A7%D0%B8-%D0%A2%D0%BE" title="Чи-То">Тип 4 «Чи-То»</a></small></i></li>
+<li><i><small><a href="/wiki/%D0%A7%D0%B8-%D0%A0%D0%B8" title="Чи-Ри">Тип 5 «Чи-Ри»</a></small></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F_%D1%82%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2#Тяжёлый_танк" title="Классификация танков">Тяжёлые танки</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><small><a href="/wiki/%D0%A2%D0%B8%D0%BF_91_(%D1%82%D0%B0%D0%BD%D0%BA)" title="Тип 91 (танк)">Тип 91</a></small></i></li>
+<li><i><small><a href="/wiki/%D0%A2%D0%B8%D0%BF_95_(%D1%82%D1%8F%D0%B6%D1%91%D0%BB%D1%8B%D0%B9_%D1%82%D0%B0%D0%BD%D0%BA)" title="Тип 95 (тяжёлый танк)">Тип 95</a></small></i></li>
+<li><i><small><a href="/wiki/O-I#Модификации" title="O-I">Тип 96</a></small></i></li>
+<li><i><small><a href="/wiki/O-I#Модификации" title="O-I">Mi-To</a></small></i></li>
+<li><i><small><a href="/wiki/O-I#Модификации" title="O-I">Ранний вариант «О-И»</a></small></i></li>
+<li><i><small><a href="/wiki/O-I" title="O-I">Тип 100 «О-И»</a></small></i></li>
+<li><i><small><a href="/wiki/O-I" title="O-I">Тип 120 «О-И»</a></small></i></li>
+<li><i><small><a class="new" href="/w/index.php?title=%D0%A2%D0%B8%D0%BF_2605&amp;action=edit&amp;redlink=1" title="Тип 2605 (страница отсутствует)">Тип 2605</a></small></i></li>
+<li><i><small><a href="/wiki/%D0%AF%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%C2%AB%D0%A2%D0%B8%D0%B3%D1%80%C2%BB" title="Японский «Тигр»">Японский «Тигр»</a></small></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/%D0%9F%D0%BB%D0%B0%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9_%D1%82%D0%B0%D0%BD%D0%BA" title="Плавающий танк">Плавающие танки</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><small>«<a class="new" href="/w/index.php?title=%D0%90-%D0%98-%D0%93%D0%BE&amp;action=edit&amp;redlink=1" title="А-И-Го (страница отсутствует)">А-И-Го</a>»</small></i></li>
+<li><i><small><a class="new" href="/w/index.php?title=SR_I&amp;action=edit&amp;redlink=1" title="SR I (страница отсутствует)">SR I</a></small></i></li>
+<li><i><small><a class="new" href="/w/index.php?title=SR_II&amp;action=edit&amp;redlink=1" title="SR II (страница отсутствует)">SR II</a></small></i></li>
+<li><i><small><a class="new" href="/w/index.php?title=SR_III&amp;action=edit&amp;redlink=1" title="SR III (страница отсутствует)">SR III</a></small></i></li>
+<li><a href="/wiki/%D0%9A%D0%B0-%D0%9C%D0%B8" title="Ка-Ми">Тип 2 «Ка-Ми»</a></li>
+<li><a href="/wiki/%D0%9A%D0%B0-%D0%A7%D0%B8" title="Ка-Чи">Тип 3 «Ка-Чи»</a></li>
+<li><i><small><a href="/wiki/%D0%A2%D0%BE-%D0%9A%D1%83" title="То-Ку">Тип 5 «То-Ку»</a></small></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BE%D1%82%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D0%A1%D0%90%D0%A3" title="Противотанковая САУ">Истребители танков</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><small><a class="new" href="/w/index.php?title=%D0%A5%D0%BE-%D0%A0%D1%83&amp;action=edit&amp;redlink=1" title="Хо-Ру (страница отсутствует)">Тип 5 «Хо-Ру»</a></small></i></li>
+<li><i><small><a href="/wiki/%D0%A5%D0%BE-%D0%A0%D0%B8" title="Хо-Ри">Тип 5 «Хо-Ри»</a></small></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/%D0%A1%D0%B0%D0%BC%D0%BE%D1%85%D0%BE%D0%B4%D0%BD%D0%B0%D1%8F_%D0%B0%D1%80%D1%82%D0%B8%D0%BB%D0%BB%D0%B5%D1%80%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0" title="Самоходная артиллерийская установка">Самоходные гаубицы</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><small>«<a class="new" href="/w/index.php?title=%D0%A5%D0%BE-%D0%A7%D0%B8&amp;action=edit&amp;redlink=1" title="Хо-Чи (страница отсутствует)">Хо-Чи</a>»</small></i></li>
+<li><a href="/wiki/%D0%A5%D0%BE-%D0%9D%D0%B8_II" title="Хо-Ни II">Тип 2 «Хо-Ни II»</a></li>
+<li><a href="/wiki/%D0%A5%D0%BE-%D0%A0%D0%BE" title="Хо-Ро">Тип 4 «Хо-Ро»</a></li>
+<li><i><small><a href="/wiki/%D0%A5%D0%B0-%D0%A2%D0%BE" title="Ха-То">Тип 4 «Ха-То»</a></small></i></li>
+<li><i><small><a href="/wiki/%D0%A5%D0%BE-%D0%A2%D0%BE" title="Хо-То">Тип 5 «Хо-То»</a></small></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BE%D1%82%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D0%A1%D0%90%D0%A3" title="Противотанковая САУ">Противотанковые САУ</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>«<a class="new" href="/w/index.php?title=%D0%A1%D0%BE-%D0%A2%D0%BE&amp;action=edit&amp;redlink=1" title="Со-То (страница отсутствует)">Со-То</a>»</li>
+<li><a href="/wiki/%D0%A5%D0%BE-%D0%9D%D0%B8_I" title="Хо-Ни I">Тип 1 «Хо-Ни I»</a></li>
+<li><i><small><a class="new" href="/w/index.php?title=%D0%9A%D1%83-%D0%A1%D0%B5&amp;action=edit&amp;redlink=1" title="Ку-Се (страница отсутствует)">Тип 2 «Ку-Се»</a></small></i></li>
+<li><a href="/wiki/%D0%A5%D0%BE-%D0%9D%D0%B8_III" title="Хо-Ни III">Тип 3 «Хо-Ни III»</a></li>
+<li><i><small><a href="/wiki/%D0%9D%D0%B0-%D0%A2%D0%BE_(%D0%A1%D0%90%D0%A3)" title="На-То (САУ)">Тип 5 «На-То»</a></small></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/%D0%97%D0%B5%D0%BD%D0%B8%D1%82%D0%BD%D0%B0%D1%8F_%D1%81%D0%B0%D0%BC%D0%BE%D1%85%D0%BE%D0%B4%D0%BD%D0%B0%D1%8F_%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0" title="Зенитная самоходная установка">ЗСУ</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><small><a href="/wiki/%D0%A2%D0%B0-%D0%A1%D0%B5" title="Та-Се">Тип 98 «Та-Се»</a></small></i></li>
+<li><i><small><a href="/wiki/%D0%A2%D0%B8%D0%BF_98_%C2%AB%D0%9A%D0%BE-%D0%A5%D0%B8%C2%BB" title="Тип 98 «Ко-Хи»">Тип 98 «Ко-Хи»</a></small></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/%D0%91%D1%80%D0%BE%D0%BD%D0%B5%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82%D1%91%D1%80" title="Бронетранспортёр">Бронетранспортёры</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%A1%D0%BE-%D0%94%D0%B0" title="Со-Да">Тип 98 «Со-Да»</a></li>
+<li><a href="/wiki/%D0%A5%D0%BE-%D0%9A%D0%B8" title="Хо-Ки">Тип 1 «Хо-Ки»</a></li>
+<li><a href="/wiki/%D0%A5%D0%BE-%D0%A5%D0%B0" title="Хо-Ха">Тип 1 «Хо-Ха»</a></li>
+<li><a href="/wiki/%D0%9A%D0%B0-%D0%A2%D1%81%D1%83" title="Ка-Тсу">Тип 4 «Ка-Тсу»</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/%D0%91%D1%80%D0%BE%D0%BD%D0%B5%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C" title="Бронеавтомобиль">Бронеавтомобили</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%A1%D0%BE-%D0%9C%D0%BE" title="Со-Мо">Тип 91 «Со-Мо»</a></li>
+<li>«<a href="/wiki/%D0%A2%D0%B8%D1%91%D0%B4%D0%B0_(%D0%B1%D1%80%D0%BE%D0%BD%D0%B5%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C)" title="Тиёда (бронеавтомобиль)">Тиёда</a>»</li>
+<li><a class="new" href="/w/index.php?title=%D0%A2%D0%B8%D0%BF_92_%C2%AB%D0%9E%D1%81%D0%B0%D0%BA%D0%B0%C2%BB&amp;action=edit&amp;redlink=1" title="Тип 92 «Осака» (страница отсутствует)">Тип 92 «Осака»</a></li>
+<li><a href="/wiki/%D0%A2%D0%B8%D0%BF_93_(%D0%B1%D1%80%D0%BE%D0%BD%D0%B5%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C)" title="Тип 93 (бронеавтомобиль)">Тип 93</a></li>
+<li><a href="/wiki/%D0%A1%D0%BE-%D0%9A%D0%B8" title="Со-Ки">Тип 95 «Со-Ки»</a></li>
+<li><a href="/wiki/Vickers_Crossley" title="Vickers Crossley">Vickers Crossley</a><b>*</b></li>
+<li><a href="/wiki/Wolseley-Sumida" title="Wolseley-Sumida">Wolseley-Sumida</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Специальные машины</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>«<a href="/wiki/%D0%A0%D0%B8-%D0%9A%D0%B8" title="Ри-Ки">Ри-Ки</a>»</li>
+<li>«<a href="/wiki/%D0%A2%D0%B5-%D0%A0%D0%B5" title="Те-Ре">Те-Ре</a>»</li>
+<li>«<a href="/wiki/%D0%A1%D0%A1-%D0%9A%D0%B8" title="СС-Ки">СС-Ки</a>»</li>
+<li>«<a href="/wiki/%D0%A5%D0%BE-%D0%9A" title="Хо-К">Хо-К</a>»</li>
+<li>«<a href="/wiki/%D0%91%D0%B0%D1%81%D1%81%D0%BE-%D0%9A%D0%B8" title="Бассо-Ки">Бассо-Ки</a>»</li>
+<li>«<a href="/wiki/%D0%91%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D1%85%D0%BE%D0%B4_F_B" title="Болотоход F B">Болотоход F B</a>»</li>
+<li><i><small>«<a href="/wiki/%D0%A1%D0%B5-%D0%A0%D0%B8" title="Се-Ри">Се-Ри</a>»</small></i></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="3" style="text-align:left;"><div><b>*</b> — бронетехника иностранного производства; <i>курсивом</i> выделены опытные и не пошедшие в серийное производство образцы</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1414
+Cached time: 20240226131224
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.490 seconds
+Real time usage: 0.748 seconds
+Preprocessor visited node count: 13542/1000000
+Post‐expand include size: 117267/2097152 bytes
+Template argument size: 17194/2097152 bytes
+Highest expansion depth: 16/100
+Expensive parser function count: 7/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 66916/5000000 bytes
+Lua time usage: 0.147/10.000 seconds
+Lua memory usage: 6303544/52428800 bytes
+Number of Wikibase entities loaded: 8/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  515.698      1 -total
+ 34.63%  178.594      1 Шаблон:Примечания
+ 33.07%  170.559      1 Шаблон:Танк
+ 32.40%  167.068      1 Шаблон:Карточка
+ 26.10%  134.585     26 Шаблон:Книга
+  9.37%   48.334      2 Шаблон:Wikidata
+  9.34%   48.147      3 Шаблон:Статья
+  7.56%   38.963      2 Шаблон:Навигационная_таблица
+  7.05%   36.331      1 Шаблон:СреднийТанкВМВ
+  6.90%   35.598      5 Шаблон:Бсокр
+-->
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:786860-0!canonical and timestamp 20240226131224 and revision id 134681674. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> -->
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Чи-Ну&amp;oldid=134681674">https://ru.wikipedia.org/w/index.php?title=Чи-Ну&amp;oldid=134681674</a></div></div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A2%D0%B0%D0%BD%D0%BA%D0%B8_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Танки по алфавиту">Танки по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D0%B5_%D1%82%D0%B0%D0%BD%D0%BA%D0%B8" title="Категория:Средние танки">Средние танки</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A2%D0%B0%D0%BD%D0%BA%D0%B8_%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D0%B8_%D0%BF%D0%B5%D1%80%D0%B8%D0%BE%D0%B4%D0%B0_%D0%92%D1%82%D0%BE%D1%80%D0%BE%D0%B9_%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B" title="Категория:Танки Японии периода Второй мировой войны">Танки Японии периода Второй мировой войны</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A2%D0%B0%D0%BD%D0%BA%D0%B8_%D1%81_%D1%87%D0%B5%D1%82%D1%8B%D1%80%D1%91%D1%85%D1%82%D0%B0%D0%BA%D1%82%D0%BD%D1%8B%D0%BC_%D0%B4%D0%B8%D0%B7%D0%B5%D0%BB%D0%B5%D0%BC" title="Категория:Танки с четырёхтактным дизелем">Танки с четырёхтактным дизелем</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B,_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D0%B2%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_ISBN" title="Категория:Страницы, использующие волшебные ссылки ISBN">Страницы, использующие волшебные ссылки ISBN</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81%D0%BE_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8_%D0%BD%D0%B0_%D0%92%D0%B8%D0%BA%D0%B8%D1%81%D0%BA%D0%BB%D0%B0%D0%B4" title="Категория:Статьи со ссылками на Викисклад">Статьи со ссылками на Викисклад</a></li></ul></div></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Навигация</h2>
+<div id="mw-head">
+<nav aria-labelledby="p-personal-label" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" id="p-personal" role="navigation">
+<h3 class="vector-menu-heading" id="p-personal-label">
+<span class="vector-menu-heading-label">Персональные инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="pt-anonuserpage"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li class="mw-list-item" id="pt-anontalk"><a accesskey="n" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]"><span>Обсуждение</span></a></li><li class="mw-list-item" id="pt-anoncontribs"><a accesskey="y" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]"><span>Вклад</span></a></li><li class="mw-list-item" id="pt-createaccount"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%A7%D0%B8-%D0%9D%D1%83" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li class="mw-list-item" id="pt-login"><a accesskey="o" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%A7%D0%B8-%D0%9D%D1%83" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]"><span>Войти</span></a></li>
+</ul>
+</div>
+</nav>
+<div id="left-navigation">
+<nav aria-labelledby="p-namespaces-label" class="mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-namespaces" role="navigation">
+<h3 class="vector-menu-heading" id="p-namespaces-label">
+<span class="vector-menu-heading-label">Пространства имён</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-nstab-main"><a accesskey="c" href="/wiki/%D0%A7%D0%B8-%D0%9D%D1%83" title="Просмотреть контентную страницу [c]"><span>Статья</span></a></li><li class="mw-list-item" id="ca-talk"><a accesskey="t" href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%A7%D0%B8-%D0%9D%D1%83" rel="discussion" title="Обсуждение основной страницы [t]"><span>Обсуждение</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-variants-label" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" id="p-variants" role="navigation">
+<input aria-haspopup="true" aria-labelledby="p-variants-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-variants" id="p-variants-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-variants-label">
+<span class="vector-menu-heading-label">русский</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+</div>
+<div id="right-navigation">
+<nav aria-labelledby="p-views-label" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-views" role="navigation">
+<h3 class="vector-menu-heading" id="p-views-label">
+<span class="vector-menu-heading-label">Просмотры</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="ca-view"><a href="/w/index.php?title=%D0%A7%D0%B8-%D0%9D%D1%83&amp;stable=1"><span>Читать</span></a></li><li class="collapsible selected mw-list-item" id="ca-current"><a accesskey="v" href="/w/index.php?title=%D0%A7%D0%B8-%D0%9D%D1%83&amp;stable=0&amp;redirect=no" title="Показать текущую версию этой страницы [v]"><span>Текущая версия</span></a></li><li class="mw-list-item" id="ca-ve-edit"><a accesskey="v" href="/w/index.php?title=%D0%A7%D0%B8-%D0%9D%D1%83&amp;veaction=edit" title="Редактировать данную страницу [v]"><span>Править</span></a></li><li class="collapsible mw-list-item" id="ca-edit"><a accesskey="e" href="/w/index.php?title=%D0%A7%D0%B8-%D0%9D%D1%83&amp;action=edit" title="Править исходный текст этой страницы [e]"><span>Править код</span></a></li><li class="mw-list-item" id="ca-history"><a accesskey="h" href="/w/index.php?title=%D0%A7%D0%B8-%D0%9D%D1%83&amp;action=history" title="Журнал изменений страницы [h]"><span>История</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-cactions-label" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" id="p-cactions" role="navigation" title="Больше возможностей">
+<input aria-haspopup="true" aria-labelledby="p-cactions-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-cactions" id="p-cactions-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-cactions-label">
+<span class="vector-menu-heading-label">Ещё</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+<div class="vector-search-box-vue vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box" id="p-search" role="search">
+<h3>Поиск</h3>
+<form action="/w/index.php" class="vector-search-box-form" id="searchform">
+<div class="vector-search-box-inner" data-search-loc="header-navigation" id="simpleSearch">
+<input accesskey="f" aria-label="Искать в Википедии" autocapitalize="sentences" class="vector-search-box-input" id="searchInput" name="search" placeholder="Искать в Википедии" title="Искать в Википедии [f]" type="search"/>
+<input name="title" type="hidden" value="Служебная:Поиск"/>
+<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Найти страницы, содержащие указанный текст" type="submit" value="Найти"/>
+<input class="searchButton" id="searchButton" name="go" title="Перейти к странице, имеющей в точности такое название" type="submit" value="Перейти"/>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="vector-legacy-sidebar" id="mw-panel">
+<div id="p-logo" role="banner">
+<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу"></a>
+</div>
+<nav aria-labelledby="p-navigation-label" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" id="p-navigation" role="navigation">
+<h3 class="vector-menu-heading" id="p-navigation-label">
+<span class="vector-menu-heading-label">Навигация</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-mainpage-description"><a accesskey="z" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]"><span>Заглавная страница</span></a></li><li class="mw-list-item" id="n-content"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li class="mw-list-item" id="n-featured"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li class="mw-list-item" id="n-randompage"><a accesskey="x" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]"><span>Случайная статья</span></a></li><li class="mw-list-item" id="n-currentevents"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li class="mw-list-item" id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-participation-label" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" id="p-participation" role="navigation">
+<h3 class="vector-menu-heading" id="p-participation-label">
+<span class="vector-menu-heading-label">Участие</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-bug_in_article"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li class="mw-list-item" id="n-introduction"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li class="mw-list-item" id="n-portal"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li class="mw-list-item" id="n-forum"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li class="mw-list-item" id="n-recentchanges"><a accesskey="r" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]"><span>Свежие правки</span></a></li><li class="mw-list-item" id="n-newpages"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li class="mw-list-item" id="n-help"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-tb-label" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" id="p-tb" role="navigation">
+<h3 class="vector-menu-heading" id="p-tb-label">
+<span class="vector-menu-heading-label">Инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="t-whatlinkshere"><a accesskey="j" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%A7%D0%B8-%D0%9D%D1%83" title="Список всех страниц, ссылающихся на данную [j]"><span>Ссылки сюда</span></a></li><li class="mw-list-item" id="t-recentchangeslinked"><a accesskey="k" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%A7%D0%B8-%D0%9D%D1%83" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]"><span>Связанные правки</span></a></li><li class="mw-list-item" id="t-specialpages"><a accesskey="q" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]"><span>Служебные страницы</span></a></li><li class="mw-list-item" id="t-permalink"><a href="/w/index.php?title=%D0%A7%D0%B8-%D0%9D%D1%83&amp;oldid=134681674" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li class="mw-list-item" id="t-info"><a href="/w/index.php?title=%D0%A7%D0%B8-%D0%9D%D1%83&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li class="mw-list-item" id="t-cite"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%A7%D0%B8-%D0%9D%D1%83&amp;id=134681674&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li class="mw-list-item" id="t-urlshortener"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%25A7%25D0%25B8-%25D0%259D%25D1%2583"><span>Получить короткий URL</span></a></li><li class="mw-list-item" id="t-urlshortener-qrcode"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%25A7%25D0%25B8-%25D0%259D%25D1%2583"><span>Скачать QR-код</span></a></li><li class="mw-list-item" id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q603377" title="Ссылка на связанный элемент репозитория данных [g]"><span>Элемент Викиданных</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-coll-print_export-label" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" id="p-coll-print_export" role="navigation">
+<h3 class="vector-menu-heading" id="p-coll-print_export-label">
+<span class="vector-menu-heading-label">Печать/экспорт</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="coll-download-as-rl"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%A7%D0%B8-%D0%9D%D1%83&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li class="mw-list-item" id="t-print"><a accesskey="p" href="/w/index.php?title=%D0%A7%D0%B8-%D0%9D%D1%83&amp;printable=yes" title="Версия этой страницы для печати [p]"><span>Версия для печати</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-wikibase-otherprojects-label" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal vector-menu" id="p-wikibase-otherprojects" role="navigation">
+<h3 class="vector-menu-heading" id="p-wikibase-otherprojects-label">
+<span class="vector-menu-heading-label">В других проектах</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Type_3_Chi-Nu" hreflang="en"><span>Викисклад</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-lang-label" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" id="p-lang" role="navigation">
+<h3 class="vector-menu-heading" id="p-lang-label">
+<span class="vector-menu-heading-label">На других языках</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="interlanguage-link interwiki-be-x-old mw-list-item"><a class="interlanguage-link-target" href="https://be-tarask.wikipedia.org/wiki/%D0%A2%D1%8B%D0%BF_3_%D0%A7%D1%8B-%D0%9D%D1%83" hreflang="be-tarask" lang="be-tarask" title="Тып 3 Чы-Ну — Belarusian (Taraškievica orthography)"><span>Беларуская (тарашкевіца)</span></a></li><li class="interlanguage-link interwiki-br mw-list-item"><a class="interlanguage-link-target" href="https://br.wikipedia.org/wiki/Type_3_Chi-Nu" hreflang="br" lang="br" title="Type 3 Chi-Nu — бретонский"><span>Brezhoneg</span></a></li><li class="interlanguage-link interwiki-bs mw-list-item"><a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Type_3_Chi-Nu" hreflang="bs" lang="bs" title="Type 3 Chi-Nu — боснийский"><span>Bosanski</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Typ_3_%C4%8Ci-Nu" hreflang="cs" lang="cs" title="Typ 3 Či-Nu — чешский"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Typ_3_Chi-Nu" hreflang="de" lang="de" title="Typ 3 Chi-Nu — немецкий"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a class="interlanguage-link-target" href="https://en.wikipedia.org/wiki/Type_3_Chi-Nu_medium_tank" hreflang="en" lang="en" title="Type 3 Chi-Nu medium tank — английский"><span>English</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Tipo_3_Chi-Nu" hreflang="es" lang="es" title="Tipo 3 Chi-Nu — испанский"><span>Español</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Type_3_Chi-Nu" hreflang="fr" lang="fr" title="Type 3 Chi-Nu — французский"><span>Français</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/3-as_t%C3%ADpus%C3%BA_k%C3%B6zepes_harckocsi" hreflang="hu" lang="hu" title="3-as típusú közepes harckocsi — венгерский"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Tipe_3_Chi-Nu" hreflang="id" lang="id" title="Tipe 3 Chi-Nu — индонезийский"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Type_3_Chi-Nu" hreflang="it" lang="it" title="Type 3 Chi-Nu — итальянский"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E4%B8%89%E5%BC%8F%E4%B8%AD%E6%88%A6%E8%BB%8A" hreflang="ja" lang="ja" title="三式中戦車 — японский"><span>日本語</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/3%EC%8B%9D_%EC%A4%91%ED%98%95%EC%A0%84%EC%B0%A8_%EC%B9%98%EB%88%84" hreflang="ko" lang="ko" title="3식 중형전차 치누 — корейский"><span>한국어</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Type_3_Chi-Nu" hreflang="nl" lang="nl" title="Type 3 Chi-Nu — нидерландский"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Typ_3_Chi-Nu" hreflang="pl" lang="pl" title="Typ 3 Chi-Nu — польский"><span>Polski</span></a></li><li class="interlanguage-link interwiki-th mw-list-item"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%A3%E0%B8%96%E0%B8%96%E0%B8%B1%E0%B8%87%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87%E0%B9%84%E0%B8%97%E0%B8%9B%E0%B9%8C_3_%E0%B8%8A%E0%B8%B4%E0%B8%99%E0%B8%B8" hreflang="th" lang="th" title="รถถังขนาดกลางไทป์ 3 ชินุ — тайский"><span>ไทย</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A7%D1%96-%D0%9D%D1%83" hreflang="uk" lang="uk" title="Чі-Ну — украинский"><span>Українська</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Type_3_Chi-Nu" hreflang="vi" lang="vi" title="Type 3 Chi-Nu — вьетнамский"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E4%B8%89%E5%BC%8F%E4%B8%AD%E6%88%B0%E8%BB%8A" hreflang="zh" lang="zh" title="三式中戰車 — китайский"><span>中文</span></a></li>
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q603377#sitelinks-wikipedia" title="Править ссылки на другие языки">Править ссылки</a></span></div>
+</div>
+</nav>
+</div>
+</div>
+<footer class="mw-footer" id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 6 декабря 2023 в 17:30.</li>
+<li id="footer-info-copyright">Текст доступен по <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru" rel="license">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a><a href="//creativecommons.org/licenses/by-sa/4.0/" rel="license" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br/>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org/ru/">Фонд Викимедиа (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//ru.m.wikipedia.org/w/index.php?title=%D0%A7%D0%B8-%D0%9D%D1%83&amp;mobileaction=toggle_view_mobile">Мобильная версия</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" loading="lazy" src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88"/></a></li>
+<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" loading="lazy" src="/static/images/footer/poweredby_mediawiki_88x31.png" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88"/></a></li>
+</ul>
+</footer>
+
+
+</body>
+</html>

@@ -1,0 +1,583 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="ru">
+<head>
+<meta charset="utf-8"/>
+<title>Проклятые земли — Википедия</title>
+
+
+
+
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+
+
+<meta content="MediaWiki 1.42.0-wmf.19" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="max-image-preview:standard" name="robots"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="https://upload.wikimedia.org/wikipedia/ru/d/d2/Evil_Islands_1C_cover.jpg" property="og:image"/>
+<meta content="1200" property="og:image:width"/>
+<meta content="1200" property="og:image:height"/>
+<meta content="https://upload.wikimedia.org/wikipedia/ru/d/d2/Evil_Islands_1C_cover.jpg" property="og:image"/>
+<meta content="800" property="og:image:width"/>
+<meta content="800" property="og:image:height"/>
+<meta content="640" property="og:image:width"/>
+<meta content="640" property="og:image:height"/>
+<meta content="width=1000" name="viewport"/>
+<meta content="Проклятые земли — Википедия" property="og:title"/>
+<meta content="website" property="og:type"/>
+
+
+
+
+
+
+
+
+
+
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Проклятые_земли rootpage-Проклятые_земли skin-vector action-view"><div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators">
+</div>
+<h1 class="firstHeading mw-first-heading" id="firstHeading"><span class="mw-page-title-main">Проклятые земли</span></h1>
+<div class="vector-body" id="bodyContent">
+<div class="noprint" id="siteSub">Материал из Википедии — свободной энциклопедии</div>
+<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+<div id="contentSub2"></div>
+<div id="jump-to-nav"></div>
+<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+<div class="mw-body-content" id="mw-content-text"><div class="mw-content-ltr mw-parser-output" dir="ltr" lang="ru"><table class="infobox infobox-19ecdc4c179f1351" data-name="Компьютерная игра" style=""><tbody><tr><th class="infobox-above" colspan="2" scope="colgroup" style=""><span></span>Проклятые земли</th></tr><tr><td class="infobox-image" colspan="2" style=""> <span class="no-wikidata" data-wikidata-property-id="P18"><span typeof="mw:File/Frameless"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Evil_Islands_1C_cover.jpg"><img class="mw-file-element" data-file-height="350" data-file-width="350" decoding="async" height="274" src="//upload.wikimedia.org/wikipedia/ru/thumb/d/d2/Evil_Islands_1C_cover.jpg/274px-Evil_Islands_1C_cover.jpg" srcset="//upload.wikimedia.org/wikipedia/ru/d/d2/Evil_Islands_1C_cover.jpg 1.5x" width="274"/></a></span></span> </td></tr>
+<tr>
+<th class="plainlist" scope="row">Разработчик</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P178"><a href="/wiki/Nival" title="Nival">Nival</a></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Издатель</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P123"><a class="mw-redirect" href="/wiki/1C" title="1C">1C</a></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Часть серии</th>
+<td class="plainlist">
+<span></span><span class="wikidata-claim" data-wikidata-claim-id="Q4380316$87FFE624-FE44-4D66-94CA-DCA121249925" data-wikidata-property-id="P179"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%90%D0%BB%D0%BB%D0%BE%D0%B4%D1%8B" title="Аллоды">Аллоды</a></span></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Дата выпуска</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P577">26 октября <a href="/wiki/2000_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D1%8B%D1%85_%D0%B8%D0%B3%D1%80%D0%B0%D1%85" title="2000 год в компьютерных играх">2000</a></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Последняя версия</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P348">1.06</span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row"><a href="/wiki/%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F_%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D1%8B%D1%85_%D0%B8%D0%B3%D1%80" title="Классификация компьютерных игр"> Жанр 
+</a></th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P136"><a href="/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%8F_%D1%80%D0%BE%D0%BB%D0%B5%D0%B2%D0%B0%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0" title="Компьютерная ролевая игра">ролевая игра</a></span></td>
+</tr>
+<tr>
+<th class="infobox-header" colspan="2" scope="colgroup" style="">Технические данные</th>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Платформа</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P400"><a href="/wiki/Windows" title="Windows">Windows</a></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row"><a href="/wiki/%D0%98%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%B9_%D0%B4%D0%B2%D0%B8%D0%B6%D0%BE%D0%BA" title="Игровой движок"> Движок 
+</a></th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P408">Собственный</span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Режимы игры</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P404"><a href="/wiki/%D0%9E%D0%B4%D0%BD%D0%BE%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0" title="Однопользовательская игра">однопользовательский</a>, <a href="/wiki/%D0%9C%D0%BD%D0%BE%D0%B3%D0%BE%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0" title="Многопользовательская игра">многопользовательский</a></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Носитель</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P437"><a href="/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D0%B0%D0%BA%D1%82-%D0%B4%D0%B8%D1%81%D0%BA" title="Компакт-диск">CD</a></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row"><a href="/wiki/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%BD%D1%8B%D0%B5_%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F" title="Системные требования">Системные<br/>требования</a></th>
+<td class="plainlist">
+<a href="/wiki/Pentium" title="Pentium">Pentium</a> 400, видеокарта с 8 МБ <a class="mw-redirect" href="/wiki/%D0%9E%D0%97%D0%A3" title="ОЗУ">ОЗУ</a>, 64 МБ <a class="mw-redirect" href="/wiki/%D0%9E%D0%97%D0%A3" title="ОЗУ">ОЗУ</a>, 850 МБ на жёстком диске, <a href="/wiki/Windows_95" title="Windows 95">Windows 95</a>, <a href="/wiki/Windows_98" title="Windows 98">Windows 98</a> или <a href="/wiki/Windows_2000" title="Windows 2000">Windows 2000</a></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row"><a href="/wiki/%D0%A3%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE_%D0%B2%D0%B2%D0%BE%D0%B4%D0%B0" title="Устройство ввода">Управление</a></th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P479"><a href="/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BB%D0%B0%D0%B2%D0%B8%D0%B0%D1%82%D1%83%D1%80%D0%B0" title="Компьютерная клавиатура">клавиатура</a> и <a href="/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%8F_%D0%BC%D1%8B%D1%88%D1%8C" title="Компьютерная мышь">мышь</a></span></td>
+</tr>
+</tbody></table>
+<p><b>Про́клятые земли</b> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">Evil Islands: Curse of the Lost Soul</span>) — третья игра во вселенной «<a href="/wiki/%D0%90%D0%BB%D0%BB%D0%BE%D0%B4%D1%8B" title="Аллоды">Аллоды</a>»<sup class="reference" id="cite_ref-СИ-14_1-0"><a href="#cite_note-СИ-14-1">[1]</a></sup><sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup><sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup>.
+В отличие от предыдущих игр использует полностью <a href="/wiki/%D0%A2%D1%80%D1%91%D1%85%D0%BC%D0%B5%D1%80%D0%BD%D0%B0%D1%8F_%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%B0" title="Трёхмерная графика">трёхмерный</a> <a href="/wiki/%D0%98%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%B9_%D0%B4%D0%B2%D0%B8%D0%B6%D0%BE%D0%BA" title="Игровой движок">движок</a>.
+</p><p>Выпуск версии на <a href="/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Русский язык">русском языке</a> состоялся <a href="/wiki/26_%D0%BE%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8F" title="26 октября">26 октября</a> <a href="/wiki/2000_%D0%B3%D0%BE%D0%B4" title="2000 год">2000 года</a><sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup>. <a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">Английская</a> версия вышла в <a href="/wiki/%D0%A4%D0%B5%D0%B2%D1%80%D0%B0%D0%BB%D1%8C" title="Февраль">феврале</a> <a href="/wiki/2001_%D0%B3%D0%BE%D0%B4" title="2001 год">2001 года</a>. Разработчиком является компания <a class="mw-redirect" href="/wiki/Nival_Interactive" title="Nival Interactive">Nival Interactive</a>, издателем выступила компания <a class="mw-redirect" href="/wiki/1C" title="1C">1C</a>. В январе <a href="/wiki/2006_%D0%B3%D0%BE%D0%B4" title="2006 год">2006 года</a> вышло продолжение <a class="mw-redirect" href="/wiki/%D0%97%D0%B0%D1%82%D0%B5%D1%80%D1%8F%D0%BD%D0%BD%D1%8B%D0%B5_%D0%B2_%D0%B0%D1%81%D1%82%D1%80%D0%B0%D0%BB%D0%B5" title="Затерянные в астрале">Проклятые земли: Затерянные в Астрале</a> от Matilda Entertainment.
+</p>
+<div aria-labelledby="mw-toc-heading" class="toc" id="toc" role="navigation"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="ru"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Разработка"><span class="tocnumber">1</span> <span class="toctext">Разработка</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Геймплей"><span class="tocnumber">2</span> <span class="toctext">Геймплей</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Острова"><span class="tocnumber">3</span> <span class="toctext">Острова</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Сюжет"><span class="tocnumber">4</span> <span class="toctext">Сюжет</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Гипат"><span class="tocnumber">4.1</span> <span class="toctext">Гипат</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Ингос"><span class="tocnumber">4.2</span> <span class="toctext">Ингос</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Суслангер"><span class="tocnumber">4.3</span> <span class="toctext">Суслангер</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Сюжетные_персонажи"><span class="tocnumber">4.4</span> <span class="toctext">Сюжетные персонажи</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Ролевая_система"><span class="tocnumber">5</span> <span class="toctext">Ролевая система</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Конструкторы"><span class="tocnumber">6</span> <span class="toctext">Конструкторы</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#Конструктор_вещей"><span class="tocnumber">6.1</span> <span class="toctext">Конструктор вещей</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Конструктор_магии"><span class="tocnumber">6.2</span> <span class="toctext">Конструктор магии</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Жезл-батарейка"><span class="tocnumber">6.3</span> <span class="toctext">Жезл-батарейка</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#Особенности"><span class="tocnumber">7</span> <span class="toctext">Особенности</span></a>
+<ul>
+<li class="toclevel-2 tocsection-15"><a href="#Сетевая_игра"><span class="tocnumber">7.1</span> <span class="toctext">Сетевая игра</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#Отзывы"><span class="tocnumber">8</span> <span class="toctext">Отзывы</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#Выпуск"><span class="tocnumber">9</span> <span class="toctext">Выпуск</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#Примечания"><span class="tocnumber">10</span> <span class="toctext">Примечания</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#Ссылки"><span class="tocnumber">11</span> <span class="toctext">Ссылки</span></a></li>
+</ul>
+</div>
+<h2><span id=".D0.A0.D0.B0.D0.B7.D1.80.D0.B0.D0.B1.D0.BE.D1.82.D0.BA.D0.B0"></span><span class="mw-headline" id="Разработка">Разработка</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9F%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B5_%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8&amp;veaction=edit&amp;section=1" title="Редактировать раздел «Разработка»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B5_%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8&amp;action=edit&amp;section=1" title="Редактировать код раздела «Разработка»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Изначально игра должна была называться <i>Аллоды 3: Возрождение</i><sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup><sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup><sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup><sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup>, но в процессе разработки сильно изменила свою концепцию. В <a href="/wiki/2000_%D0%B3%D0%BE%D0%B4" title="2000 год">2000 году</a> название в силу отсутствия прав на торговую марку Аллоды, принадлежавшую на тот момент компании Бука, сменили на <b>Проклятые Земли</b>. Геймплей из <a class="mw-redirect" href="/wiki/Action_role-playing_game" title="Action role-playing game">Action role-playing game</a> сменился на stealth RPG. В дальнейшем права на торговую марку были в 2004 году приобретены компанией Nival обратно<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup>.
+</p><p>Мир игры является частью игровой вселенной <a href="/wiki/%D0%90%D0%BB%D0%BB%D0%BE%D0%B4%D1%8B" title="Аллоды">Аллодов</a><sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup><sup class="reference" id="cite_ref-СИ-14_1-1"><a href="#cite_note-СИ-14-1">[1]</a></sup>.
+</p><p>По сути, сюжет предыдущих игр — <a class="mw-redirect" href="/wiki/%D0%90%D0%BB%D0%BB%D0%BE%D0%B4%D1%8B:_%D0%9F%D0%B5%D1%87%D0%B0%D1%82%D1%8C_%D0%A2%D0%B0%D0%B9%D0%BD%D1%8B" title="Аллоды: Печать Тайны">Аллоды: Печать Тайны</a> и <a href="/wiki/%D0%90%D0%BB%D0%BB%D0%BE%D0%B4%D1%8B_II:_%D0%9F%D0%BE%D0%B2%D0%B5%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C_%D0%B4%D1%83%D1%88" title="Аллоды II: Повелитель душ">Аллоды II: Повелитель душ</a> — никак не связан с данной игрой. В силу нюансов, связанных с правообладанием, не упоминается даже слово «<a href="/wiki/%D0%90%D0%BB%D0%BB%D0%BE%D0%B4%D1%8B" title="Аллоды">аллоды</a>», а только империи Хадаган (Кадаган<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup>) и Кания, известные игроку по двум первым играм. Английский вариант переводится как «Злые острова: Проклятие Потерянной Души».
+</p>
+<h2><span id=".D0.93.D0.B5.D0.B9.D0.BC.D0.BF.D0.BB.D0.B5.D0.B9"></span><span class="mw-headline" id="Геймплей">Геймплей</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9F%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B5_%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Геймплей»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B5_%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8&amp;action=edit&amp;section=2" title="Редактировать код раздела «Геймплей»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Menyu3.jpg"><img class="mw-file-element" data-file-height="1024" data-file-width="1280" decoding="async" height="240" src="//upload.wikimedia.org/wikipedia/ru/thumb/f/f6/Menyu3.jpg/300px-Menyu3.jpg" srcset="//upload.wikimedia.org/wikipedia/ru/thumb/f/f6/Menyu3.jpg/450px-Menyu3.jpg 1.5x, //upload.wikimedia.org/wikipedia/ru/thumb/f/f6/Menyu3.jpg/600px-Menyu3.jpg 2x" width="300"/></a><figcaption>Меню игры</figcaption></figure>
+<p>Большая часть игры проходится в stealth-режиме, то есть игроку требуется незаметно перемещаться среди врагов. По мере прохождения стиль игры может меняться в зависимости от прокачанных талантов, но для уничтожения наиболее сильных врагов тактика всегда будет оставаться прежней (незаметное перемещение за спину и нанесение удара).
+</p><p>В начале у игрока под управлением есть только один персонаж — <b>Зак</b> (или, как его называют аборигены Гипата — Избранный). По ходу игры он может нанимать и увольнять напарников. Одновременно в группе может быть не более трёх героев, причём присутствие самого Зака обязательно. Опыт за убийство монстров, врагов и выполнение заданий распределяется между героями пропорционально их опыту и характеристикам. При продвижении по сюжету в моменты перемещения между островами напарники покидают группу <b>Зака</b>, произнося трогательные и грустные речи. Из-за этого игроки обнаружили неофициальный комплекс скриптов, позволяющий переносить напарников с острова на остров.
+</p><p>Помимо обычных врагов, в игре есть практически «неубиваемые» противники, вступать в бой с которыми равносильно самоубийству.
+</p><p><b>Квесты</b> (задания) можно получить как в городах, при разговоре с <a href="/wiki/%D0%9D%D0%B5%D0%B8%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%B9_%D0%BF%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%B6" title="Неигровой персонаж">NPC</a>, так и на игровых зонах. Помимо обязательных заданий, необходимых для продвижения по игре, есть дополнительные, дающие золото и опыт.
+</p><p>В распоряжении игрока есть «безразмерный обоз», куда помещаются все полученные либо найденные предметы. На игровой карте невозможно распределять <b>опыт</b>, надевать <b>экипировку</b> и <b><a href="/wiki/%D0%9C%D0%B0%D0%B3%D0%B8%D1%8F" title="Магия">магию</a></b>. Это возможно только в городах и лагерях.
+</p><p>В <b>городах</b> игрок может получать задания, продавать и покупать предметы и магию, использовать очки опыта, ремонтировать снаряжение.
+</p><p>Лагерь — переходное место между областями островов, где игрок без захода в город может обменяться предметами с напарниками, переодеться, выбрать оружие, предметы, магию, которые можно использовать в игровой зоне. В лагере невозможно что-либо купить, продать или починить.
+</p>
+<h2><span id=".D0.9E.D1.81.D1.82.D1.80.D0.BE.D0.B2.D0.B0"></span><span class="mw-headline" id="Острова">Острова</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9F%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B5_%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8&amp;veaction=edit&amp;section=3" title="Редактировать раздел «Острова»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B5_%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8&amp;action=edit&amp;section=3" title="Редактировать код раздела «Острова»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>События разворачиваются в затерянном <a class="mw-redirect" href="/wiki/%D0%90%D1%81%D1%82%D1%80%D0%B0%D0%BB" title="Астрал">астральном</a> мире, который после Великого Катаклизма разделён на отдельные острова. Каждый остров удерживается Великим Магом. В игре «Проклятые земли» действие происходит на трёх <a href="/wiki/%D0%90%D0%BB%D0%BB%D0%BE%D0%B4" title="Аллод">островах</a>: Гипате, Ингосе и Суслангере. Вместе с путешествием по трём климатическим островам игрок пройдёт и эволюционный этап — от оружия дикарей до металлических приспособлений, и даже метеоритного железа, а затем и до древней алмазной экипировки.
+</p><p><b>Гипа́т</b> — остров, заполненный <a href="/wiki/%D0%91%D0%BE%D0%BB%D0%BE%D1%82%D0%BE" title="Болото">болотами</a> и <a href="/wiki/%D0%9B%D0%B5%D1%81" title="Лес">лесами</a>, великолепное место для проживания нежити, волков, жаб. Основное население — <a href="/wiki/%D0%9E%D1%80%D0%BA%D0%B8" title="Орки">орки</a> и <a class="mw-redirect" href="/wiki/%D0%93%D0%BE%D0%B1%D0%BB%D0%B8%D0%BD" title="Гоблин">гоблины</a>, а в отдалённых районах — нежить. Также имеется местное население из аборигенов-людей. На Гипате есть единственный иерархически правильный <a href="/wiki/%D0%9F%D0%BE%D1%81%D1%91%D0%BB%D0%BE%D0%BA" title="Посёлок">посёлок</a>, представляющий собой некое подобие столицы острова, в котором есть свой «губернатор» — староста Эрфа́р (получивший у местных прозвище <i>Краснобай</i>), воевода Горт (по прозвищу Костолом), и мастер Ба́бур (прозванный скрягой). Посёлок людей очень мал и постоянно находится под угрозой гибели, но держится, в основном за счёт Горта и его дружины. На острове почти нет <a class="mw-redirect" href="/wiki/%D0%9C%D0%B5%D1%82%D0%B0%D0%BB%D0%BB" title="Металл">металла</a> (можно только случайно его найти), однако, здесь ещё остались в ходу золотые деньги, а в древнем тоннеле есть големы из стали, созданные древней цивилизацией Джунов. Люди используют <a href="/wiki/%D0%9E%D1%80%D1%83%D0%B6%D0%B8%D0%B5" title="Оружие">оружие</a>, состоящее преимущественно из <a href="/wiki/%D0%9A%D0%B0%D0%BC%D0%B5%D0%BD%D1%8C" title="Камень">камня</a> и <a href="/wiki/%D0%9A%D0%BE%D1%81%D1%82%D1%8C" title="Кость">кости</a>, <a href="/wiki/%D0%9A%D0%BE%D0%B6%D0%B0" title="Кожа">кожаные</a> и <a href="/wiki/%D0%9C%D0%B5%D1%85" title="Мех">меховые</a> <a class="mw-redirect" href="/wiki/%D0%94%D0%BE%D1%81%D0%BF%D0%B5%D1%85" title="Доспех">доспехи</a>. По всему острову встречаются руины поселений канийцев<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup> и Джунов. Некоторые из этих руин заполонила нежить, некоторые — орки или ящеры.
+</p><p><b>Ингос</b> — остров, покрытый <a href="/wiki/%D0%A1%D0%BD%D0%B5%D0%B3" title="Снег">снегом</a>. Стиль одежды жителей и архитектурных построек напоминает <a class="mw-redirect" href="/wiki/%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D0%B5%D0%B2%D0%B5%D0%BA%D0%BE%D0%B2%D1%8C%D0%B5" title="Средневековье">средневековую</a> <a class="mw-redirect" href="/wiki/%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B0_(%D1%87%D0%B0%D1%81%D1%82%D1%8C_%D1%81%D0%B2%D0%B5%D1%82%D0%B0)" title="Европа (часть света)">Европу</a>. остров представляет собой предгорья и долины, которые содержат в себе скудную растительность в виде околков и единичных деревьев. Все кругом покрыто снегом, о чём повествует Зак, попав на этот остров впервые.
+</p><p>Политически Ингос — отдалённая провинция Канийской империи. Слово «провинция» говорит само за себя, — большинство построек сельского типа, а основная масса населения нашла работу лесорубов, охотников, шахтеров. Кроме деревень в провинции есть и крепость — город Ингос. Ей правит губернатор Вальрасиан — человек, любящий изысканные и дорогие вещи.
+Второй после губернатора человек на Ингосе — торговец Карансул, который имеет власть за счет денег, собственных людей и земель. Он обманывает губернатора и проводит различные махинации.
+На Ингосе, в отличие от Гипата, люди используют металл, за счёт чего канийские <a href="/wiki/%D0%9E%D1%80%D1%83%D0%B6%D0%B8%D0%B5" title="Оружие">оружие</a> и <a class="mw-redirect" href="/wiki/%D0%94%D0%BE%D1%81%D0%BF%D0%B5%D1%85" title="Доспех">доспехи</a> превосходят гипатские. Кроме металлических имеется и одежда из ткани, легкие доспехи из шкуры, а также охотничьи кожаные доспехи.
+</p><p>На Ингосе существует своя армия, в которой служат воины, облачённые в бронзовые, железные, стальные и даже <a href="/wiki/%D0%9C%D0%B8%D1%84%D1%80%D0%B8%D0%BB" title="Мифрил">мифрильные</a> доспехи. Помимо призывников, есть на Ингосе и наёмники.
+</p><p>Самые распространённые обитатели Ингоса — <a href="/wiki/%D0%A2%D1%80%D0%BE%D0%BB%D0%BB%D1%8C" title="Тролль">тролли</a>, снежные <a href="/wiki/%D0%A2%D0%B8%D0%B3%D1%80" title="Тигр">тигры</a> и <a href="/wiki/%D0%95%D0%B4%D0%B8%D0%BD%D0%BE%D1%80%D0%BE%D0%B3" title="Единорог">единороги</a>. В <a href="/wiki/%D0%9F%D0%B5%D1%89%D0%B5%D1%80%D0%B0" title="Пещера">подземельях</a> — <a class="mw-redirect" href="/wiki/%D0%9B%D0%B5%D1%82%D1%83%D1%87%D0%B0%D1%8F_%D0%BC%D1%8B%D1%88%D1%8C" title="Летучая мышь">летучие мыши</a>, <a class="mw-redirect" href="/wiki/%D0%9A%D1%80%D1%8B%D1%81%D0%B0" title="Крыса">крысы</a>.
+Есть также и другие существа — это лесовики (аналог <a href="/wiki/%D0%9B%D0%B5%D1%88%D0%B8%D0%B9" title="Леший">леших</a>) и червелицые — разумные существа, владеющие магией.
+</p><p><b>Суслангéр</b> — остров вечной <a href="/wiki/%D0%96%D0%B0%D1%80%D0%B0" title="Жара">жары</a>, знойная пустыня. Задворки империи Хадаган (Кадаган), где «Каждый хадаганец одновременно господин для тех, кто ниже его по рангу, и раб тех, кто выше. Даже самые высокопоставленные граждане Хадагана — рабы Императора Незеба»<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup>. Есть несколько поселений, где власть <a href="/wiki/%D0%94%D0%B5-%D1%84%D0%B0%D0%BA%D1%82%D0%BE" title="Де-факто">де-факто</a> принадлежит <a href="/wiki/%D0%9D%D0%B5%D0%BA%D1%80%D0%BE%D0%BC%D0%B0%D0%BD%D1%82%D0%B8%D1%8F" title="Некромантия">некромантам</a>.
+</p><p>Суслангер — эти места буквально кишат порождениями зловещей магии. Под слоем песка находятся длинные цепочки подземелий.
+</p><p>Суслангер — наиболее развитый остров, на котором побывает игрок. Здесь войска ходят в <a href="/wiki/%D0%9C%D0%B8%D1%84%D1%80%D0%B8%D0%BB" title="Мифрил">мифрильных</a>, <span data-interwiki-article="Adamant" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=%D0%90%D0%B4%D0%B0%D0%BC%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D0%BE%D0%B2%D1%8B%D1%85&amp;action=edit&amp;redlink=1" title="Адамантиновых (страница отсутствует)">адамантиновых</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a class="extiw" href="https://en.wikipedia.org/wiki/Adamant" title="en:Adamant"><span title="Adamant — версия статьи «Адамантиновых» на английском языке">[en]</span></a></sup></span> и <a href="/wiki/%D0%9C%D0%B5%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%82%D0%BD%D0%BE%D0%B5_%D0%B6%D0%B5%D0%BB%D0%B5%D0%B7%D0%BE" title="Метеоритное железо">метеоритных</a> доспехах, а <a href="/wiki/%D0%9C%D0%B0%D0%B3%D0%B8%D1%8F" title="Магия">магам</a> известны самые разрушительные заклинания.
+</p>
+<h2><span id=".D0.A1.D1.8E.D0.B6.D0.B5.D1.82"></span><span class="mw-headline" id="Сюжет">Сюжет</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9F%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B5_%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8&amp;veaction=edit&amp;section=4" title="Редактировать раздел «Сюжет»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B5_%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8&amp;action=edit&amp;section=4" title="Редактировать код раздела «Сюжет»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id=".D0.93.D0.B8.D0.BF.D0.B0.D1.82"></span><span class="mw-headline" id="Гипат">Гипат</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9F%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B5_%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8&amp;veaction=edit&amp;section=5" title="Редактировать раздел «Гипат»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B5_%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8&amp;action=edit&amp;section=5" title="Редактировать код раздела «Гипат»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Молодой человек очнулся в развалинах на заброшенном острове. Юноша не помнит, кто он такой и откуда явился. При себе у него есть только бронзовый ритуальный нож. Он бродит по острову и обнаруживает Посёлок — единственный оплот хоть сколько-нибудь <a href="/wiki/%D0%A6%D0%B8%D0%B2%D0%B8%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F" title="Цивилизация">цивилизованного</a> мира, вернее, потомков некогда обитавшего на острове гарнизона канийской крепости. Согласно древнему верованию, Зака принимают за Избранного, который должен положить конец варварству гоблинов, ворующих свиней, и помочь посельчанам укрепиться.
+</p><p>Зак находит себе друзей среди жителей Гипата, выполняет задания старосты и прочих жителей с единственной для себя целью — узнать, кто он. Вскоре он начал замечать, что кто-то в Посёлке злоумышляет против него. Под подозрение попадают мастер Бабур, воевода Горт и сам староста Эрфар. Одолев немало засад, Зак обнаруживает доказательства предательства со стороны воеводы. Последний, по предъявлению доказательств, скрывается из Посёлка. Однако Зак нагоняет его и убивает. Новоизбранный воевода присягнул на верность Заку. Вскоре Зак снова попадает в засаду, после чего с помощью знахарки Эстеры придумывает план для изобличения предателя, коим и оказался староста Эрфар. Новый воевода Ривар берёт старосту под стражу.
+</p><p>Параллельно Зак ищет своё прошлое, которое ему не смогла открыть знахарка. Он отправляется в поселения орков за летописями и магическим шаром. В шаре они со знахаркой увидели старика с красной кожей. Узнав из летописей, что шар из Мёртвого Города, и догадавшись, что старик — это хозяин шара, знахарка рассказала Заку, как пройти туда. В городе, однако, вместо мага, Зак встречает Старого Дракона. Тот, чтя традиции, дал ему задание, за выполнение которого дракон ответит на любой вопрос. Однако по возвращении Зака дракон не смог ответить на вопрос, кто такой Зак и откуда. Сошлись они на том, что дракон указал на бывший лагерь неизвестных, что пришли с других земель. Отправившись туда, Зак нашёл записку, которую смог перевести Эрфар. Вскоре Эрфар умудряется сбежать из-под стражи.
+</p><p>Эстера тем временем встретила странного на вид человека, со «стекляшками на глазах». Тот сказал, что он был членом экспедиции империи Хадаган, которая стремилась «умножить знания о мире». Он также указал место, где расположен новый лагерь экспедиции. Зак отправляется туда, но солдаты, облачённые в стальной доспех схватили его. При разговоре с начальником экспедиции выяснилось, что искали они метеорит, упавший на эти земли. (Примечательно, что Эрфар упоминал о «странном обломке скалы» синего цвета). Там же находился ящер-отшельник, согласившийся выпустить Зака в обмен на помощь. Выполнив просьбу Отшельника, Зак получает информацию о Великом Маге острова. Сопоставив информацию о туннеле, в котором побывал Отшельник, и письмо на хадаганском языке, переведённое Эрфаром, Зак обнаруживает туннель, проходит его и встречается с Великим Магом по имени Тка-Рик.<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup><sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup>.
+</p><p>Тка-Рика абсолютно не интересует судьба Гипата, он только озабочен поисками юноши и девушки — потомков <a href="/wiki/%D0%A0%D0%B0%D1%81%D0%B0" title="Раса">расы</a> Джунов, к которой сам принадлежит. Джуны<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup> некогда были развитой расой, однако их цивилизация погибла (или пришла в сильный упадок). Тка-Рик — Великий Маг, поэтому он не может покинуть свой Остров. Зак, чтобы вспомнить, кто он такой, вызывается помочь. Тка-Рик <a href="/wiki/%D0%A2%D0%B5%D0%BB%D0%B5%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D1%86%D0%B8%D1%8F" title="Телепортация">телепортирует</a> его на другой остров, где по его предположениям, находится девушка из расы Джунов.
+</p>
+<h3><span id=".D0.98.D0.BD.D0.B3.D0.BE.D1.81"></span><span class="mw-headline" id="Ингос">Ингос</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9F%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B5_%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8&amp;veaction=edit&amp;section=6" title="Редактировать раздел «Ингос»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B5_%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8&amp;action=edit&amp;section=6" title="Редактировать код раздела «Ингос»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Далее Зак переносится на Ингос — остров, где бо́льшую часть года лежит <a href="/wiki/%D0%A1%D0%BD%D0%B5%D0%B3" title="Снег">снег</a>. Придя в город, он узнает, что девушка, которую он ищет, пропала. Проведя собственное расследование и разоблачив предателя — коварную <a class="mw-redirect" href="/wiki/%D0%92%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D0%B8%D1%86%D0%B0" title="Волшебница">магессу</a> Диэру, вошедшую к губернатору в доверие, он находит краснокожую девушку расы джунов, скрывающуюся в <a href="/wiki/%D0%9F%D0%B5%D1%89%D0%B5%D1%80%D0%B0" title="Пещера">пещерах</a> червелицых — страшных существ, парящих над землёй. Он <a href="/wiki/%D0%9B%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C" title="Любовь">влюбляется</a> в неё и по её просьбе отправляется на Суслангер, где должен находиться её возлюбленный.
+</p>
+<h3><span id=".D0.A1.D1.83.D1.81.D0.BB.D0.B0.D0.BD.D0.B3.D0.B5.D1.80"></span><span class="mw-headline" id="Суслангер">Суслангер</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9F%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B5_%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8&amp;veaction=edit&amp;section=7" title="Редактировать раздел «Суслангер»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B5_%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8&amp;action=edit&amp;section=7" title="Редактировать код раздела «Суслангер»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>В поисках юноши он отправляется на Суслангер. На Суслангере Зака берут в плен, но он убегает и знакомится с членами Братства, которые ведут тайную борьбу за <a href="/wiki/%D0%9D%D0%B5%D0%B7%D0%B0%D0%B2%D0%B8%D1%81%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C" title="Независимость">независимость</a>. Зак узнаёт, что этот Джун изменил облик и телепортировался на другой аллод. Вернувшись к Тка-Рику, он выясняет, что тот юноша и есть он сам. Он навлёк на себя сильные чары и превратился в белого <a href="/wiki/%D0%A7%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA" title="Человек">человека</a>, чтобы сбежать от Проклятия. Тка-Рик снимает <a href="/wiki/%D0%97%D0%B0%D0%BA%D0%BB%D0%B8%D0%BD%D0%B0%D0%BD%D0%B8%D0%B5" title="Заклинание">чары</a>, и они идут на последнюю битву с <a href="/wiki/%D0%9F%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D0%B8%D0%B5" title="Проклятие">Проклятием</a>. Юноша надевает лучшие <a href="/wiki/%D0%90%D0%BB%D0%BC%D0%B0%D0%B7" title="Алмаз">алмазные</a> доспехи.
+</p>
+<h3><span id=".D0.A1.D1.8E.D0.B6.D0.B5.D1.82.D0.BD.D1.8B.D0.B5_.D0.BF.D0.B5.D1.80.D1.81.D0.BE.D0.BD.D0.B0.D0.B6.D0.B8"></span><span class="mw-headline" id="Сюжетные_персонажи">Сюжетные персонажи</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9F%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B5_%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8&amp;veaction=edit&amp;section=8" title="Редактировать раздел «Сюжетные персонажи»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B5_%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8&amp;action=edit&amp;section=8" title="Редактировать код раздела «Сюжетные персонажи»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Некоторые персонажи также встречаются в <a href="/wiki/%D0%9F%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B5_%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8:_%D0%97%D0%B0%D1%82%D0%B5%D1%80%D1%8F%D0%BD%D0%BD%D1%8B%D0%B5_%D0%B2_%D0%B0%D1%81%D1%82%D1%80%D0%B0%D0%BB%D0%B5" title="Проклятые земли: Затерянные в астрале">продолжении</a> и <a href="/wiki/%D0%90%D0%BB%D0%BB%D0%BE%D0%B4%D1%8B_%D0%9E%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD" title="Аллоды Онлайн">Аллодах Онлайн</a>.
+</p>
+<ul><li><b>Айзет-Бек</b> — начальник охраны всех темниц, Суслангер</li>
+<li><b>Айри-Упрямая</b> — внучка знахарки Эстеры, Гипат</li>
+<li><b>Бабур-Скряга</b> — мастер из Посёлка, Гипат</li>
+<li><b>Балуддин</b> — коллекционер джуновских древностей, Суслангер</li>
+<li><b>Брат Кузнец</b> — кузнец из Братства Последнего Укрытия, Суслангер</li>
+<li><b>Брат Слепой</b> — один из Братьев Последнего Укрытия, Суслангер</li>
+<li><b>Брат Хатуль</b> — глава Братства Последнего Укрытия, Суслангер</li>
+<li><b>Вальрасиан</b> — губернатор города, Ингос</li>
+<li><b>Великий маг Тка-Рик</b> (<i>Тка-а-Литан Ричти-а-Ник</i>) — Великий маг расы Джун, Гипат</li>
+<li><b>Вождь Шай-Вар</b> — вождь орковского племени шайваров, Гипат</li>
+<li><b>Го-Го</b> — вождь гоблинов, Гипат</li>
+<li><b>Горт-Костолом</b> — воевода Посёлка, Гипат</li>
+<li><b>Диэра</b> — волшебница, жительница города, Ингос</li>
+<li><b>Зак</b> (<i>Избранный</i>, <i>Ат-Зако</i>) — главный герой, очнулся в развалинах и ничего не помнит о своём прошлом, Гипат, Ингос, Суслангер</li>
+<li><b>Карансул</b> — торговец, владеющий целым посёлком с цехами, мастерскими и мануфактурой, Ингос</li>
+<li><b>Кардаур</b> — лейтенант стражи в Каньоне Смерти, Суслангер</li>
+<li><b>Кехель</b> — один из Братьев Последнего Укрытия, бывший некромант третьего посвящения Гильдии Некромантов, Суслангер</li>
+<li><b>Лу-а-Джалла</b> — девушка расы Джун, которая была похищена и заточена в подземелье Диэрой, Ингос</li>
+<li><b>Ривар-Здоровяк</b> — воевода Посёлка, выбранный на место Горта, Гипат</li>
+<li><b>Свер-Зайчатник</b> — охотник, мастер по заячьим шкуркам, Ингос</li>
+<li><b>Серый Лист</b> — лесовик, предводитель Зелёного клана, Ингос</li>
+<li><b>Старый Дракон</b> — дракон, повелевающий скелетами в Мёртвом городе, Гипат</li>
+<li><b>Тильвар</b> — начальник городской стражи, капитан, Ингос</li>
+<li><b>Флейн по кличке Плешивый</b> — вор, укравший у губернатора Вальрасиана коллекцию оружия лесовиков, Ингос</li>
+<li><b>Холай</b> — бывший старший императорский некромант, мечтающий отомстить занявшему его место некроманту Тайво, Суслангер</li>
+<li><b>Эрфар-Краснобай</b> (<i>Брат Безлицый</i>) — староста Посёлка, Гипат (позднее появляется на Суслангере под именем Брат Безлицый)</li>
+<li><b>Эстера-Вредная</b> — знахарка, рассорившаяся со всем Посёлком, живёт в собственной пещере, Гипат</li>
+<li><b>Ящер-Отшельник</b> — ящер, говорящий на человеческом языке, Гипат</li></ul>
+<h2><span id=".D0.A0.D0.BE.D0.BB.D0.B5.D0.B2.D0.B0.D1.8F_.D1.81.D0.B8.D1.81.D1.82.D0.B5.D0.BC.D0.B0"></span><span class="mw-headline" id="Ролевая_система">Ролевая система</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9F%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B5_%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8&amp;veaction=edit&amp;section=9" title="Редактировать раздел «Ролевая система»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B5_%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8&amp;action=edit&amp;section=9" title="Редактировать код раздела «Ролевая система»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Harakteristiki.jpg"><img class="mw-file-element" data-file-height="300" data-file-width="375" decoding="async" height="240" src="//upload.wikimedia.org/wikipedia/ru/thumb/9/9d/Harakteristiki.jpg/300px-Harakteristiki.jpg" srcset="//upload.wikimedia.org/wikipedia/ru/9/9d/Harakteristiki.jpg 1.5x" width="300"/></a><figcaption>Заклинания и навыки.</figcaption></figure>
+<p>В игре отсутствуют классы и уровни. Каждый игрок может сделать упор на одну из трёх характеристик: Силу, Ловкость, Разум<sup class="reference" id="cite_ref-faqs_17-0"><a href="#cite_note-faqs-17">[17]</a></sup>. Игрок выбирает направление развития персонажа, распределяя очки опыта по категориям. Опыт даётся за убийство <a class="mw-redirect" href="/wiki/%D0%9C%D0%BE%D0%BD%D1%81%D1%82%D1%80" title="Монстр">монстров</a>, но основная часть — за выполнение <a class="mw-redirect" href="/wiki/%D0%9A%D0%B2%D0%B5%D1%81%D1%82" title="Квест">квестов</a>.
+</p>
+<ul><li>Для воина основные категории: Ближний бой, <a href="/wiki/%D0%9C%D0%B5%D1%87" title="Меч">Меч</a>, <a href="/wiki/%D0%9A%D0%B8%D0%BD%D0%B6%D0%B0%D0%BB" title="Кинжал">Кинжал</a>, <a href="/wiki/%D0%9A%D0%BE%D0%BF%D1%8C%D1%91" title="Копьё">Копьё</a>, <a class="mw-redirect" href="/wiki/%D0%94%D1%83%D0%B1%D0%B8%D0%BD%D0%B0" title="Дубина">Дубины</a>, <a href="/wiki/%D0%A2%D0%BE%D0%BF%D0%BE%D1%80" title="Топор">Топор</a>, <a href="/wiki/%D0%97%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D1%8C%D0%B5" title="Здоровье">Здоровье</a>, <a href="/wiki/%D0%A0%D0%B5%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F" title="Регенерация">Регенерация</a>, Удар со спины, <a href="/wiki/%D0%A1%D0%B8%D0%BB%D0%B0" title="Сила">Сила</a>.</li>
+<li>Для стрелков: <a href="/wiki/%D0%A1%D1%82%D1%80%D0%B5%D0%BB%D1%8C%D0%B1%D0%B0" title="Стрельба">Стрельба</a>, <a href="/wiki/%D0%9B%D1%83%D0%BA_(%D0%BE%D1%80%D1%83%D0%B6%D0%B8%D0%B5)" title="Лук (оружие)">Лук</a>, <a href="/wiki/%D0%90%D1%80%D0%B1%D0%B0%D0%BB%D0%B5%D1%82" title="Арбалет">Арбалет</a>, <a href="/wiki/%D0%9B%D0%BE%D0%B2%D0%BA%D0%BE%D1%81%D1%82%D1%8C" title="Ловкость">Ловкость</a>.</li>
+<li>Для мага: <a href="/wiki/%D0%9C%D0%B0%D0%B3%D0%B8%D1%8F" title="Магия">Магия</a> стихий, Магия чувств, Магия <a class="mw-redirect" href="/wiki/%D0%90%D1%81%D1%82%D1%80%D0%B0%D0%BB" title="Астрал">астрала</a>, Магия <a href="/wiki/%D0%9E%D0%B3%D0%BE%D0%BD%D1%8C" title="Огонь">огня</a>, Магия <a href="/wiki/%D0%9C%D0%BE%D0%BB%D0%BD%D0%B8%D1%8F" title="Молния">молний</a>, Магия <a class="mw-redirect" href="/wiki/%D0%9A%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0" title="Кислота">кислот</a>, Выносливость, Восстановление, <a href="/wiki/%D0%A0%D0%B0%D0%B7%D1%83%D0%BC" title="Разум">Разум</a>.</li></ul>
+<p>Стоит заметить, что пройти игру <i>чистым классом</i> гораздо сложнее, чем смешанным. У каждого персонажа есть параметр <i>нагрузка</i>, показывающий, сколько на него может быть надето доспехов, оружия и заклинаний. Каждая вещь имеет свой вес.
+</p><p>Каждое оружие имеет свой тип урона: Колющий, Рубящий, и Дробящий. Каждый доспех/материал имеет определённый коэффициент защиты от каждого типа оружия или магии, который в отдельности или в сумме (если отдельно взятую часть тела закрывает больше одной надетой вещи) напрямую снижают повреждения. К примеру, все металлические доспехи имеют хорошую защиту перед оружием, но очень уязвимы для заклинаний школы молнии. Большая сумма коэффициентов брони у врагов, даже без повышенных устойчивостей, может доходить до того, что получится полный иммунитет. Например: ящер имеет коэффициент повышенной устойчивости к дробящему типу урона, но всё-таки может быть убит таким оружием, а циклоп, не имея её, за счёт большой изначальной брони не может быть убит на первом острове и может быть убит всего лишь несколькими видами оружия на третьем.
+</p><p>Магическая система имеет большое количество заклинаний, которые относятся к трём типам — Школа стихий, Школа астрала и Школа чувств.
+</p>
+<ul><li><b>Школа стихий</b> объединяет все заклинания, наносящие прямой урон. Делится на Магию огня, Магию молний, Магию кислот.</li>
+<li><b>Школа чувств</b> изменяет некоторые чувства персонажа.</li>
+<li><b>Школа астрала</b> имеет разнотипные заклинания.</li>
+<li><b>Руны</b> способны менять начальные характеристики заклинания. Самые сильные руны невозможно купить, их можно только найти на игровой зоне. В каждое заклинание можно вложить до 8 рун<sup class="reference" id="cite_ref-faqs_17-1"><a href="#cite_note-faqs-17">[17]</a></sup>. Список рун:
+<ul><li>Дальнее действие, Сверхдальнее действие,</li>
+<li>Дополнительная цель, Дополнительные цели,</li>
+<li>Расширенная область действия, Максимальная область действия,</li>
+<li>Усиление, Максимальное усиление,</li>
+<li>Долговременное действие, Сверхдолгое действие,</li>
+<li>Малый расход запаса сил, Минимальный расход запаса сил,</li>
+<li>Разовое действие, Постоянное действие,</li>
+<li>Восстановление энергии предмета, Быстрое восстановление энергии предмета (только в сетевой)</li>
+<li>Малый расход энергии предмета, Минимальный расход энергии предмета (только в сетевой)</li>
+<li>Выбрать врагов, Выбрать друзей</li>
+<li>Выбрать гоблинов, Выбрать орков, Выбрать ящеров, Выбрать людей (в сетевой отключены)</li></ul></li></ul>
+<h2><span id=".D0.9A.D0.BE.D0.BD.D1.81.D1.82.D1.80.D1.83.D0.BA.D1.82.D0.BE.D1.80.D1.8B"></span><span class="mw-headline" id="Конструкторы">Конструкторы</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9F%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B5_%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8&amp;veaction=edit&amp;section=10" title="Редактировать раздел «Конструкторы»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B5_%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8&amp;action=edit&amp;section=10" title="Редактировать код раздела «Конструкторы»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Konstruktorp.jpg"><img class="mw-file-element" data-file-height="600" data-file-width="750" decoding="async" height="240" src="//upload.wikimedia.org/wikipedia/ru/thumb/c/c5/Konstruktorp.jpg/300px-Konstruktorp.jpg" srcset="//upload.wikimedia.org/wikipedia/ru/thumb/c/c5/Konstruktorp.jpg/450px-Konstruktorp.jpg 1.5x, //upload.wikimedia.org/wikipedia/ru/thumb/c/c5/Konstruktorp.jpg/600px-Konstruktorp.jpg 2x" width="300"/></a><figcaption>Конструктор предметов.</figcaption></figure>
+<p>В отличие от первых двух игр серии, в «Проклятых землях» присутствует система конструкторов предметов и магии<sup class="reference" id="cite_ref-faqs_17-2"><a href="#cite_note-faqs-17">[17]</a></sup>. Мех <a href="/wiki/%D0%A2%D0%B8%D0%B3%D1%80" title="Тигр">тигра</a>, шкура <a href="/wiki/%D0%A2%D1%80%D0%BE%D0%BB%D0%BB%D1%8C" title="Тролль">тролля</a>, кости <a href="/wiki/%D0%94%D1%80%D0%B0%D0%BA%D0%BE%D0%BD" title="Дракон">драконов</a> и другие трофеи могут послужить материалом для оружия или доспехов. С помощью конструктора бронзовый <a href="/wiki/%D0%9C%D0%B5%D1%87" title="Меч">меч</a> можно легко превратить в <a href="/wiki/%D0%A1%D1%82%D0%B0%D0%BB%D1%8C" title="Сталь">стальной</a>, начинённый заклинанием, а <a href="/wiki/%D0%9C%D0%B8%D1%84%D1%80%D0%B8%D0%BB" title="Мифрил">мифрильные</a> сапоги в <a href="/wiki/%D0%9C%D0%B5%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%82" title="Метеорит">метеоритные</a>. С помощью конструктора магии из простой огненной стрелы можно получить заклинание, наносящее больший урон сразу нескольким целям. Заклинание также можно вложить в оружие и доспехи, для этого потребуются специальные руны Пр и Пп.
+</p><p>Для сборки в конструкторе предметов и магии можно использовать не только свои материалы и чертежи, но и также те, что находятся у продавца. Когда вы определитесь с составом, будут показаны его итоговые характеристики и цена. Разбор предмета или заклинания также стоит денег.
+</p><p>Конструкторы находятся в Магазине.
+</p>
+<h3><span id=".D0.9A.D0.BE.D0.BD.D1.81.D1.82.D1.80.D1.83.D0.BA.D1.82.D0.BE.D1.80_.D0.B2.D0.B5.D1.89.D0.B5.D0.B9"></span><span class="mw-headline" id="Конструктор_вещей">Конструктор вещей</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9F%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B5_%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8&amp;veaction=edit&amp;section=11" title="Редактировать раздел «Конструктор вещей»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B5_%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8&amp;action=edit&amp;section=11" title="Редактировать код раздела «Конструктор вещей»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Конструктор вещей позволяет собирать и разбирать найденные вами или купленные вещи. Можно заменять их элементы, а также вкладывать <a href="/wiki/%D0%97%D0%B0%D0%BA%D0%BB%D0%B8%D0%BD%D0%B0%D0%BD%D0%B8%D0%B5" title="Заклинание">заклинания</a>. Кроме обычных трофеев, в игровой зоне можно найти предметы, которые можно разобрать, а также чертежи. Разбирать возможно только человеческое <a href="/wiki/%D0%9E%D1%80%D1%83%D0%B6%D0%B8%D0%B5" title="Оружие">оружие</a>. Разборка и сборка требуют некоторых денег, как правило, чем лучше вещь — тем дороже. Примечательно, что чем больше поломан предмет, тем дешевле обойдётся разборка, а почти сломанный предмет выйдет даже в небольшую прибавку. Когда состав предмета будет готов, можно определиться с заклинанием, которое в него будет вложено. При этом заклинание обязательно должно обладать одной из двух рун — вызывание заклинания при ударе (Пр) или непрерывная работа (Пп), пока не закончится запас магический энергии (со временем он восстанавливается).
+</p>
+<h3><span id=".D0.9A.D0.BE.D0.BD.D1.81.D1.82.D1.80.D1.83.D0.BA.D1.82.D0.BE.D1.80_.D0.BC.D0.B0.D0.B3.D0.B8.D0.B8"></span><span class="mw-headline" id="Конструктор_магии">Конструктор магии</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9F%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B5_%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8&amp;veaction=edit&amp;section=12" title="Редактировать раздел «Конструктор магии»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B5_%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8&amp;action=edit&amp;section=12" title="Редактировать код раздела «Конструктор магии»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Для того, чтобы изготовить заклинание, надо иметь его основу и руны. Основа заклинания (аналог чертежа) определяет его действие и базовые параметры. С помощью рун можно менять начальные характеристики — время действия, <a href="/wiki/%D0%A1%D0%B8%D0%BB%D0%B0" title="Сила">сила</a>, дальность, количество целей, их тип и т. д. Каждое заклинание имеет степень сложности, и чем она больше, тем мощнее заклинание. Однако чтобы использовать собранное заклинание, вы должны иметь навык в школе магии, к которому оно относится. Для предмета это определяется его сложностью. Увеличить силу уже собранного заклинания нельзя, для этого вам придётся заново разобрать и собрать его.
+</p>
+<h3><span id=".D0.96.D0.B5.D0.B7.D0.BB-.D0.B1.D0.B0.D1.82.D0.B0.D1.80.D0.B5.D0.B9.D0.BA.D0.B0"></span><span class="mw-headline" id="Жезл-батарейка">Жезл-батарейка</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9F%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B5_%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8&amp;veaction=edit&amp;section=13" title="Редактировать раздел «Жезл-батарейка»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B5_%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8&amp;action=edit&amp;section=13" title="Редактировать код раздела «Жезл-батарейка»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>«Батарейка» — неофициальное название, принятое среди игроков. Батарейка — жезл, собранный игроком, в который помещено заклинание лечения с <a class="mw-redirect" href="/wiki/%D0%A0%D1%83%D0%BD%D0%B0" title="Руна">руной</a> «Пп» (постоянное действие предмета). При повреждениях игрок автоматически «лечится» (то есть восполняется запас жизни игрового персонажа)<sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup>. Для полного эффекта игроку обязательно потребуется заклинание регенерация, поскольку вылечить сломанную конечность нельзя, её можно только срегенерировать.
+</p>
+<h2><span id=".D0.9E.D1.81.D0.BE.D0.B1.D0.B5.D0.BD.D0.BD.D0.BE.D1.81.D1.82.D0.B8"></span><span class="mw-headline" id="Особенности">Особенности</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9F%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B5_%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8&amp;veaction=edit&amp;section=14" title="Редактировать раздел «Особенности»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B5_%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8&amp;action=edit&amp;section=14" title="Редактировать код раздела «Особенности»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Игра обладала для своего времени очень качественной графикой. И была одной из первых российских игр, использующих 3D-<a href="/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81" title="Интерфейс">интерфейс</a>.</li>
+<li>Разработана сетевая игра через <a href="/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82" title="Интернет">Интернет</a> с возможностью выпуска модификаций.</li>
+<li>По сравнению с первыми частями Аллодов сюжет стал менее линейным.</li></ul>
+<h3><span id=".D0.A1.D0.B5.D1.82.D0.B5.D0.B2.D0.B0.D1.8F_.D0.B8.D0.B3.D1.80.D0.B0"></span><span class="mw-headline" id="Сетевая_игра">Сетевая игра</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9F%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B5_%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8&amp;veaction=edit&amp;section=15" title="Редактировать раздел «Сетевая игра»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B5_%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8&amp;action=edit&amp;section=15" title="Редактировать код раздела «Сетевая игра»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Для сетевой игры необходимо подключение к сети или к <a href="/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82" title="Интернет">интернету</a>. После выхода основной версии энтузиастами были разработаны различные <a href="/wiki/%D0%9C%D0%BE%D0%B4%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F_(%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D1%8B%D0%B5_%D0%B8%D0%B3%D1%80%D1%8B)" title="Модификация (компьютерные игры)">«моды»</a> игры с новыми миссиями и устранением ошибок. Введены новые виды материалов (например, <a href="/wiki/%D0%98%D0%B7%D1%83%D0%BC%D1%80%D1%83%D0%B4" title="Изумруд">изумруд</a>, который стоит дороже <a href="/wiki/%D0%90%D0%BB%D0%BC%D0%B0%D0%B7" title="Алмаз">алмаза</a>) и новые заклинания (к примеру, астральный разрыв).
+</p><p>Сетевая игра позволяет игрокам общаться между собой и объединяться в кланы.
+</p><p>В сетевой игре нет неубиваемых <a class="mw-redirect" href="/wiki/%D0%9C%D0%BE%D0%BD%D1%81%D1%82%D1%80" title="Монстр">монстров</a>. Игрок с получением опыта развивается и может на определённом уровне победить сильного монстра.
+</p><p>В каждой миссии количество игроков не может превышать <a href="/wiki/6_(%D1%87%D0%B8%D1%81%D0%BB%D0%BE)" title="6 (число)">шести</a>, однако, хозяин игры может уменьшать число играющих и допускать кого-либо по паролю.
+</p><p>В сетевой игре магия и вещи приобретаются в одном магазине. Чтобы получить миссию, следует «поговорить» с главой <a href="/wiki/%D0%9D%D0%B0%D1%81%D0%B5%D0%BB%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BF%D1%83%D0%BD%D0%BA%D1%82" title="Населённый пункт">населённого пункта</a> или с Великим магом.
+</p>
+<h2><span id=".D0.9E.D1.82.D0.B7.D1.8B.D0.B2.D1.8B"></span><span class="mw-headline" id="Отзывы">Отзывы</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9F%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B5_%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8&amp;veaction=edit&amp;section=16" title="Редактировать раздел «Отзывы»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B5_%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8&amp;action=edit&amp;section=16" title="Редактировать код раздела «Отзывы»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/IGN" title="IGN">IGN</a> 8.9/10</li>
+<li><a href="/wiki/GameSpy" title="GameSpy">GameSpy</a> 83/100</li>
+<li><a href="/wiki/PC_Gamer" title="PC Gamer">PC Gamer</a> 79/100</li>
+<li><a href="/wiki/GameSpot" title="GameSpot">GameSpot</a> 7/10</li>
+<li><a href="/wiki/Absolute_Games" title="Absolute Games">AG</a> 90/100</li>
+<li><a href="/wiki/Game.EXE" title="Game.EXE">Game.EXE</a> 5/5</li></ul>
+<h2><span id=".D0.92.D1.8B.D0.BF.D1.83.D1.81.D0.BA"></span><span class="mw-headline" id="Выпуск">Выпуск</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9F%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B5_%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8&amp;veaction=edit&amp;section=17" title="Редактировать раздел «Выпуск»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B5_%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8&amp;action=edit&amp;section=17" title="Редактировать код раздела «Выпуск»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Игра выпущена на 2 <a href="/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D0%B0%D0%BA%D1%82-%D0%B4%D0%B8%D1%81%D0%BA" title="Компакт-диск">CD</a>, но существует и подарочная версия на 4 CD, включающая в себя игры <a class="mw-redirect" href="/wiki/%D0%90%D0%BB%D0%BB%D0%BE%D0%B4%D1%8B:_%D0%9F%D0%B5%D1%87%D0%B0%D1%82%D1%8C_%D0%A2%D0%B0%D0%B9%D0%BD%D1%8B" title="Аллоды: Печать Тайны">Аллоды: Печать Тайны</a> и <a href="/wiki/%D0%90%D0%BB%D0%BB%D0%BE%D0%B4%D1%8B_II:_%D0%9F%D0%BE%D0%B2%D0%B5%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C_%D0%B4%D1%83%D1%88" title="Аллоды II: Повелитель душ">Аллоды II: Повелитель душ</a>.
+Также в польской коллекционной версии музыка из игры была записана на отдельный диск в высоком качестве<sup class="reference" id="cite_ref-19"><a href="#cite_note-19">[19]</a></sup>.
+</p>
+<h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Примечания">Примечания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9F%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B5_%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8&amp;veaction=edit&amp;section=18" title="Редактировать раздел «Примечания»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B5_%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8&amp;action=edit&amp;section=18" title="Редактировать код раздела «Примечания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns" style="column-width:32em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-СИ-14-1"><span class="mw-cite-backlink">↑ <a href="#cite_ref-СИ-14_1-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-СИ-14_1-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFСтрана_игр2000">Страна игр, 2000</a>, с. 14.</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://www.igromania.ru/game/314/Proklyatye_Zemli.html" rel="nofollow">Игра Проклятые Земли</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. <i>«<a href="/wiki/%D0%98%D0%B3%D1%80%D0%BE%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F_(%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB)" title="Игромания (журнал)">Игромания</a>»</i>. ООО «Игромедия». Дата обращения: 20 июня 2017. <a class="external text" href="https://web.archive.org/web/20180714221903/https://www.igromania.ru/game/314/Proklyatye_Zemli.html" rel="nofollow">Архивировано</a> 14 июля 2018 года.</span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.nival.ru/rus/evil_faq.html" rel="nofollow">Nival Interactive — Проклятые Земли — F.A.Q.</a></span> FAQ по игре в целом<span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. <a class="mw-redirect" href="/wiki/Nival_Interactive" title="Nival Interactive">Nival Interactive</a>. — Интервью. — «С точки зрения мира игры и самого общего взгляда на сюжет — это продолжение линии Аллодов». <a class="external text" href="https://web.archive.org/web/20010418124252/http://www.nival.ru/rus/evil_faq.html" rel="nofollow">Архивировано</a> 18 апреля 2001 года.</span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://ru.nival.com/games/history" rel="nofollow">Официальный сайт Nival: История</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 4 февраля 2022. <a class="external text" href="https://web.archive.org/web/20220204195633/http://ru.nival.com/games/history" rel="nofollow">Архивировано</a> 4 февраля 2022 года.</span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://ru.nival.com/news/newsline/2000/457" rel="nofollow">Нивал и 1С объявляют новое русское название игры Evil Islands (рабочее название — Аллоды III: Возрождение) | 2000 | Новостная лента | Новости | Nival</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 7 ноября 2015. <a class="external text" href="https://web.archive.org/web/20160304140933/http://ru.nival.com/news/newsline/2000/457" rel="nofollow">Архивировано</a> 4 марта 2016 года.</span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://web.archive.org/web/20070504040141/http://www.ag.ru/articles/previews/evil_islands_curse_of_the_lost_soul/288" rel="nofollow">Проклятые Земли (Evil Islands: Curse of the Lost Soul) — превью на игру на AG.ru</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 17 мая 2007. Архивировано из <a class="external text" href="http://www.ag.ru/articles/previews/evil_islands_curse_of_the_lost_soul/288" rel="nofollow">оригинала</a> 4 мая 2007 года.</span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.youtube.com/watch?v=2Q22ZFW7jac" rel="nofollow">Аллоды 3: Возрождение — YouTube</a></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://ru.nival.com/news/newsline/1999/449" rel="nofollow">Объявлен набор бета тестеров для игры с рабочим названием Аллоды III: Возрождение | 1999 | Новостная лента | Новости | Nival</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 7 ноября 2015. <a class="external text" href="https://web.archive.org/web/20160304134019/http://ru.nival.com/news/newsline/1999/449" rel="nofollow">Архивировано</a> 4 марта 2016 года.</span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://web.archive.org/web/20080725164012/http://www.nival.com/allods2_ru/press/2004/2282/" rel="nofollow">Архивированная копия</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 9 ноября 2015. Архивировано из <a class="external text" href="http://www.nival.com/allods2_ru/press/2004/2282/" rel="nofollow">оригинала</a> 25 июля 2008 года.</span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://allods.mail.ru/about.php?show=faq" rel="nofollow">Аллоды Онлайн — многопользовательская онлайн игра мирового уровня | Огромная вселенная постоянно изменяющегося мира Сарнаута с поистине безграничными возможностями.</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span> Дата обращения: 10 ноября 2015. <a class="external text" href="https://web.archive.org/web/20160304192657/https://allods.mail.ru/about.php?show=faq" rel="nofollow">Архивировано</a> 4 марта 2016 года.</span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text">Фактически, в игре никогда не упоминается указанное наименование государства, оно лишь связывается с подобным государством, фигурирующем в играх «Аллоды: Печать тайны» и «Аллоды II: Повелитель душ»</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text">Жители империи Кания</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text">Дословная цитата Великого Мага Тка-Рика, игра «Проклятые Земли»</span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text">Полное имя — Тка-а-Литан Рич-ти-а-Ник</span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text">Информация и цитаты взяты непосредственно из игры «Проклятые Земли», или «Evil Islands», производства фирм 1C и Nival Interactive</span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text">Древняя раса краснокожих людей, обладавшая передовыми технологиями и мощнейшими заклинаниями</span>
+</li>
+<li id="cite_note-faqs-17"><span class="mw-cite-backlink">↑ <a href="#cite_ref-faqs_17-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-faqs_17-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-faqs_17-2"><sup><i><b>3</b></i></sup></a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://faqs.org.ru/games/rpg/earth.htm" rel="nofollow">Проклятые Земли FAQ // faqs.org.ru</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 7 июля 2007. <a class="external text" href="https://web.archive.org/web/20070707005926/http://faqs.org.ru/games/rpg/earth.htm" rel="nofollow">Архивировано</a> 7 июля 2007 года.</span></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><a href="#cite_ref-18">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://allods.gipat.ru/index.php?p=eifaqgg#inventory" rel="nofollow">FAQ от GipatGroup :: Проклятые Земли // Сайт "Вселенная Аллодов"</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 21 ноября 2022. <a class="external text" href="https://web.archive.org/web/20221121082026/https://allods.gipat.ru/index.php?p=eifaqgg#inventory" rel="nofollow">Архивировано</a> 21 ноября 2022 года.</span></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><a href="#cite_ref-19">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="http://www.allods.gipat.ru/index.php?p=news&amp;id=259" rel="nofollow">Новость #259 за 26.10.2010 :: «Вселенная аллодов», Аллоды онлайн, Проклятые Земли, Аллоды, Легенды Аллодов</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 19 июня 2013. <a class="external text" href="https://web.archive.org/web/20131011062907/http://allods.gipat.ru/index.php?p=news&amp;id=259" rel="nofollow">Архивировано</a> 11 октября 2013 года.</span></span>
+</li>
+</ol></div>
+<h2><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span><span class="mw-headline" id="Ссылки">Ссылки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9F%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B5_%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8&amp;veaction=edit&amp;section=19" title="Редактировать раздел «Ссылки»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B5_%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8&amp;action=edit&amp;section=19" title="Редактировать код раздела «Ссылки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="citation no-wikidata" data-wikidata-property-id="P1343" id="CITEREFСтрана_игр2000"><span data-wikidata-qualifier-id="P248">История «Проклятых Земель», или как мы дошли до жизни такой (исповедь сценариста)</span> // Специальный выпуск СИ: Всё о Вселенной «Проклятые Земли». — «<a href="/wiki/%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B0_%D0%B8%D0%B3%D1%80" title="Страна игр">Страна игр</a>». — 2000. — С. 14.</span> Цитата: <i>«Сюжет игры все дальше и дальше отдалялся от событий аллодов 1 и аллодов 2, хотя мир, его география и история остались теми же…»</i></li>
+<li><a class="external text" href="http://www.gipat.ru/" rel="nofollow">Город Джунов</a> — разработка программ для игры.</li>
+<li><a class="external text" href="http://www.gipat.org/" rel="nofollow">Посёлок на Гипате</a> — разработка дополнений и модификаций для игры.</li>
+<li><a class="external text" href="http://www.ag.ru/games/evil_islands_curse_of_the_lost_soul" rel="nofollow">Проклятые земли в AG</a> — Крупнейший игровой сайт в России Absolute Games о «Проклятых землях», включая <a class="external text" href="http://www.ag.ru/reviews/evil_islands_curse_of_the_lost_soul" rel="nofollow">рецензию</a> и <a class="external text" href="https://web.archive.org/web/20070504040141/http://www.ag.ru/articles/previews/evil_islands_curse_of_the_lost_soul/288" rel="nofollow">статью</a>.</li>
+<li><a class="external text" href="https://web.archive.org/web/20070928022416/http://gameguru.ru/cheats/cheats/prokliatie_zemli.html" rel="nofollow">Чит-коды</a>, предусмотренные в одиночной игре (не в сети).</li>
+<li><a class="external text" href="https://allods.gipat.ru" rel="nofollow">Вселенная аллодов</a> — фан-сайт посвященный <a href="/wiki/%D0%A1%D0%B5%D1%82%D1%82%D0%B8%D0%BD%D0%B3" title="Сеттинг">сеттингу</a> Аллодов. Существует раздел посвященный игре «Проклятые земли».</li></ul>
+<div aria-labelledby="Аллоды" class="navbox" data-name="Вселенная аллодов" role="navigation"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%92%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B0%D0%BB%D0%BB%D0%BE%D0%B4%D0%BE%D0%B2" title="Перейти к шаблону «Вселенная аллодов»"><img alt="Перейти к шаблону «Вселенная аллодов»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span></span><div id="Аллоды" style="font-size:114%;margin:0 5em"><a href="/wiki/%D0%90%D0%BB%D0%BB%D0%BE%D0%B4%D1%8B" title="Аллоды">Аллоды</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1px">Официальные игры</th><td class="navbox-list navbox-odd hlist hlist-items-nowrap" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%90%D0%BB%D0%BB%D0%BE%D0%B4%D1%8B:_%D0%9F%D0%B5%D1%87%D0%B0%D1%82%D1%8C_%D1%82%D0%B0%D0%B9%D0%BD%D1%8B" title="Аллоды: Печать тайны">Аллоды: Печать тайны</a></li>
+<li><a href="/wiki/%D0%90%D0%BB%D0%BB%D0%BE%D0%B4%D1%8B_II:_%D0%9F%D0%BE%D0%B2%D0%B5%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C_%D0%B4%D1%83%D1%88" title="Аллоды II: Повелитель душ">Аллоды II: Повелитель душ</a></li>
+<li><a class="mw-selflink selflink">Проклятые земли</a></li>
+<li><a href="/wiki/%D0%9F%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B5_%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8:_%D0%97%D0%B0%D1%82%D0%B5%D1%80%D1%8F%D0%BD%D0%BD%D1%8B%D0%B5_%D0%B2_%D0%B0%D1%81%D1%82%D1%80%D0%B0%D0%BB%D0%B5" title="Проклятые земли: Затерянные в астрале">Проклятые земли: Затерянные в астрале</a></li>
+<li><a href="/wiki/%D0%90%D0%BB%D0%BB%D0%BE%D0%B4%D1%8B_%D0%9E%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD" title="Аллоды Онлайн">Аллоды Онлайн</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Неофициальные игры</th><td class="navbox-list navbox-even hlist hlist-items-nowrap" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B_%D0%90%D0%BB%D0%BB%D0%BE%D0%B4%D0%BE%D0%B2" title="Легенды Аллодов">Легенды Аллодов</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><a href="/wiki/Nival" title="Nival">Nival</a></div></td></tr></tbody></table></div>
+<div aria-labelledby="Игры_Nival" class="navbox" data-name="Игры Nival Interactive" role="navigation"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%98%D0%B3%D1%80%D1%8B_Nival_Interactive" title="Перейти к шаблону «Игры Nival Interactive»"><img alt="Перейти к шаблону «Игры Nival Interactive»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span></span><div id="Игры_Nival" style="font-size:114%;margin:0 5em">Игры <a href="/wiki/Nival" title="Nival">Nival</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1px"><a href="/wiki/%D0%90%D0%BB%D0%BB%D0%BE%D0%B4%D1%8B" title="Аллоды">Аллоды</a></th><td class="navbox-list navbox-odd hlist hlist-items-nowrap" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%90%D0%BB%D0%BB%D0%BE%D0%B4%D1%8B:_%D0%9F%D0%B5%D1%87%D0%B0%D1%82%D1%8C_%D1%82%D0%B0%D0%B9%D0%BD%D1%8B" title="Аллоды: Печать тайны">Аллоды: Печать тайны</a></li>
+<li><a href="/wiki/%D0%90%D0%BB%D0%BB%D0%BE%D0%B4%D1%8B_II:_%D0%9F%D0%BE%D0%B2%D0%B5%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C_%D0%B4%D1%83%D1%88" title="Аллоды II: Повелитель душ">Аллоды II: Повелитель душ</a></li>
+<li><a class="mw-selflink selflink">Проклятые земли</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Демиурги</th><td class="navbox-list navbox-even hlist hlist-items-nowrap" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%94%D0%B5%D0%BC%D0%B8%D1%83%D1%80%D0%B3%D0%B8" title="Демиурги">Демиурги</a></li>
+<li><a href="/wiki/%D0%94%D0%B5%D0%BC%D0%B8%D1%83%D1%80%D0%B3%D0%B8_II" title="Демиурги II">Демиурги II</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Блицкриг</th><td class="navbox-list navbox-odd hlist hlist-items-nowrap" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%91%D0%BB%D0%B8%D1%86%D0%BA%D1%80%D0%B8%D0%B3_(%D0%B8%D0%B3%D1%80%D0%B0)" title="Блицкриг (игра)">Блицкриг</a></li>
+<li><a href="/wiki/%D0%91%D0%BB%D0%B8%D1%86%D0%BA%D1%80%D0%B8%D0%B3_II" title="Блицкриг II">Блицкриг II</a></li>
+<li><a href="/wiki/%D0%91%D0%BB%D0%B8%D1%86%D0%BA%D1%80%D0%B8%D0%B3_II:_%D0%92%D0%BE%D0%B7%D0%BC%D0%B5%D0%B7%D0%B4%D0%B8%D0%B5" title="Блицкриг II: Возмездие">Блицкриг II: Возмездие</a></li>
+<li><a href="/wiki/%D0%91%D0%BB%D0%B8%D1%86%D0%BA%D1%80%D0%B8%D0%B3_II:_%D0%9E%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Блицкриг II: Освобождение">Блицкриг II: Освобождение</a></li>
+<li><a href="/wiki/%D0%91%D0%BB%D0%B8%D1%86%D0%BA%D1%80%D0%B8%D0%B3_3" title="Блицкриг 3">Блицкриг 3</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Silent Storm</th><td class="navbox-list navbox-even hlist hlist-items-nowrap" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F_Silent_Storm" title="Операция Silent Storm">Операция Silent Storm</a></li>
+<li><a href="/wiki/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F_Silent_Storm:_%D0%A7%D0%B0%D1%81%D0%BE%D0%B2%D1%8B%D0%B5" title="Операция Silent Storm: Часовые">Операция Silent Storm: Часовые</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D1%80%D0%BF_%D0%B8_%D0%BC%D0%BE%D0%BB%D0%BE%D1%82_(%D0%B8%D0%B3%D1%80%D0%B0)" title="Серп и молот (игра)">Серп и молот</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Дозоры</th><td class="navbox-list navbox-odd hlist hlist-items-nowrap" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%9D%D0%BE%D1%87%D0%BD%D0%BE%D0%B9_%D0%94%D0%BE%D0%B7%D0%BE%D1%80_(%D0%B8%D0%B3%D1%80%D0%B0)" title="Ночной Дозор (игра)">Ночной Дозор</a></li>
+<li><a href="/wiki/%D0%94%D0%BD%D0%B5%D0%B2%D0%BD%D0%BE%D0%B9_%D0%94%D0%BE%D0%B7%D0%BE%D1%80_(%D0%B8%D0%B3%D1%80%D0%B0)" title="Дневной Дозор (игра)">Дневной Дозор</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">HoMM V</th><td class="navbox-list navbox-even hlist hlist-items-nowrap" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Heroes_of_Might_and_Magic_V" title="Heroes of Might and Magic V">Heroes of Might and Magic V</a></li>
+<li><a href="/wiki/Heroes_of_Might_and_Magic_V:_Hammers_of_Fate" title="Heroes of Might and Magic V: Hammers of Fate">Владыки Севера</a></li>
+<li><a href="/wiki/Heroes_of_Might_and_Magic_V:_Tribes_of_the_East" title="Heroes of Might and Magic V: Tribes of the East">Повелители Орды</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Ссылки_на_внешние_ресурсы" class="navbox" data-name="External links" role="navigation" style="padding-top:1px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup" style="display:none"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:External_links" title="Перейти к шаблону «External links»"><img alt="Перейти к шаблону «External links»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span></span><div id="Ссылки_на_внешние_ресурсы" style="font-size:114%;margin:0 5em">Ссылки на внешние ресурсы</div></th></tr><tr><th class="navbox-group" scope="row" style="width:1px"><div style="padding: 0 35px 0 0; width: 100%;"><div style="float: left;"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8" title="Перейти к шаблону «Внешние ссылки»"><img alt="Перейти к шаблону «Внешние ссылки»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span>  <span typeof="mw:File"><a href="https://www.wikidata.org/wiki/Q4380316#identifiers" title="Перейти к элементу Викиданных"><img alt="Перейти к элементу Викиданных" class="mw-file-element" data-file-height="20" data-file-width="20" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/14px-OOjs_UI_icon_edit-ltr-progressive.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/21px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/28px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" width="14"/></a></span></div>  Тематические сайты</div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="external text" href="https://www.imdb.com/title/tt0284093" rel="nofollow">Internet Movie Database</a></li>
+<li><a class="external text" href="https://www.giantbomb.com/wd/3030-17437/" rel="nofollow">Giant Bomb</a></li>
+<li><a class="external text" href="https://howlongtobeat.com/game.php?id=16891" rel="nofollow">HowLongToBeat</a></li>
+<li><a class="external text" href="https://howlongtobeat.com/game.php?id=18512" rel="nofollow">HowLongToBeat</a></li>
+<li><a class="external text" href="https://www.igdb.com/games/evil-islands-curse-of-the-lost-soul" rel="nofollow">IGDB</a></li>
+<li><a class="external text" href="https://www.igdb.com/games/evil-islands" rel="nofollow">IGDB</a></li>
+<li><a class="external text" href="https://www.mobygames.com/game/4093/" rel="nofollow">MobyGames</a></li>
+<li><a class="external text" href="https://www.pcgamingwiki.com/wiki/Evil_Islands:_Curse_of_the_Lost_Soul" rel="nofollow">PCGamingWiki</a></li>
+<li><a class="external text" href="https://www.speedrun.com/evil_islands" rel="nofollow">Speedrun.com</a></li>
+<li><a class="external text" href="http://www.lki.ru/games.php?Game=EvilIslands" rel="nofollow">ЛКИ</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐7bc865cbcb‐j4jrh
+Cached time: 20240226131723
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.850 seconds
+Real time usage: 1.020 seconds
+Preprocessor visited node count: 4277/1000000
+Post‐expand include size: 61459/2097152 bytes
+Template argument size: 8867/2097152 bytes
+Highest expansion depth: 15/100
+Expensive parser function count: 21/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 15848/5000000 bytes
+Lua time usage: 0.561/10.000 seconds
+Lua memory usage: 9939243/52428800 bytes
+Number of Wikibase entities loaded: 22/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  911.141      1 -total
+ 66.59%  606.718      1 Шаблон:Компьютерная_игра
+ 64.78%  590.217      1 Шаблон:Карточка
+ 22.80%  207.719     16 Шаблон:Wikidata
+ 13.40%  122.095     17 Шаблон:Wikidata_plural_switch
+ 10.61%   96.703      1 Шаблон:Внешние_ссылки
+  9.64%   87.799      1 Шаблон:Примечания
+  7.16%   65.227     11 Шаблон:Cite_web
+  6.51%   59.324      2 Шаблон:Курсив_или_нет
+  6.14%   55.931      2 Шаблон:If-wikidata
+-->
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:207972-0!canonical and timestamp 20240226131723 and revision id 133840681. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> -->
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Проклятые_земли&amp;oldid=133840681">https://ru.wikipedia.org/w/index.php?title=Проклятые_земли&amp;oldid=133840681</a></div></div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D1%8B%D0%B5_%D0%B8%D0%B3%D1%80%D1%8B_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Компьютерные игры по алфавиту">Компьютерные игры по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D1%8B%D0%B5_%D0%B8%D0%B3%D1%80%D1%8B,_%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_Nival" title="Категория:Компьютерные игры, разработанные Nival">Компьютерные игры, разработанные Nival</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%BB%D0%BB%D0%BE%D0%B4%D1%8B" title="Категория:Аллоды">Аллоды</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D1%8B%D0%B5_%D0%B8%D0%B3%D1%80%D1%8B_2000_%D0%B3%D0%BE%D0%B4%D0%B0" title="Категория:Компьютерные игры 2000 года">Компьютерные игры 2000 года</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D1%8B%D0%B5_%D0%B8%D0%B3%D1%80%D1%8B_%D1%81_%D1%82%D1%80%D1%91%D1%85%D0%BC%D0%B5%D1%80%D0%BD%D0%BE%D0%B9_%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%BE%D0%B9" title="Категория:Компьютерные игры с трёхмерной графикой">Компьютерные игры с трёхмерной графикой</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D1%8B%D0%B5_%D0%B8%D0%B3%D1%80%D1%8B,_%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Категория:Компьютерные игры, разработанные в России">Компьютерные игры, разработанные в России</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%B3%D1%80%D1%8B_%D0%B4%D0%BB%D1%8F_Windows" title="Категория:Игры для Windows">Игры для Windows</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D1%8B%D0%B5_%D0%B8%D0%B3%D1%80%D1%8B,_%D0%B8%D0%B7%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_1%D0%A1" title="Категория:Компьютерные игры, изданные 1С">Компьютерные игры, изданные 1С</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%BD%D0%B5_%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD_%D1%8F%D0%B7%D1%8B%D0%BA)" title="Категория:Википедия:Cite web (не указан язык)">Википедия:Cite web (не указан язык)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D1%8B%D0%B5_%D0%B8%D0%B3%D1%80%D1%8B:%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D1%8F%D1%8F_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:_%D0%B2_%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%BE%D0%BC_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:Проект:Компьютерные игры:Последняя правка: в прошлом году">Проект:Компьютерные игры:Последняя правка: в прошлом году</a></li></ul></div></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Навигация</h2>
+<div id="mw-head">
+<nav aria-labelledby="p-personal-label" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" id="p-personal" role="navigation">
+<h3 class="vector-menu-heading" id="p-personal-label">
+<span class="vector-menu-heading-label">Персональные инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="pt-anonuserpage"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li class="mw-list-item" id="pt-anontalk"><a accesskey="n" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]"><span>Обсуждение</span></a></li><li class="mw-list-item" id="pt-anoncontribs"><a accesskey="y" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]"><span>Вклад</span></a></li><li class="mw-list-item" id="pt-createaccount"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%9F%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B5+%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li class="mw-list-item" id="pt-login"><a accesskey="o" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%9F%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B5+%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]"><span>Войти</span></a></li>
+</ul>
+</div>
+</nav>
+<div id="left-navigation">
+<nav aria-labelledby="p-namespaces-label" class="mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-namespaces" role="navigation">
+<h3 class="vector-menu-heading" id="p-namespaces-label">
+<span class="vector-menu-heading-label">Пространства имён</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-nstab-main"><a accesskey="c" href="/wiki/%D0%9F%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B5_%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8" title="Просмотреть контентную страницу [c]"><span>Статья</span></a></li><li class="mw-list-item" id="ca-talk"><a accesskey="t" href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%9F%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B5_%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8" rel="discussion" title="Обсуждение основной страницы [t]"><span>Обсуждение</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-variants-label" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" id="p-variants" role="navigation">
+<input aria-haspopup="true" aria-labelledby="p-variants-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-variants" id="p-variants-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-variants-label">
+<span class="vector-menu-heading-label">русский</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+</div>
+<div id="right-navigation">
+<nav aria-labelledby="p-views-label" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-views" role="navigation">
+<h3 class="vector-menu-heading" id="p-views-label">
+<span class="vector-menu-heading-label">Просмотры</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-view"><a href="/wiki/%D0%9F%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B5_%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8"><span>Читать</span></a></li><li class="mw-list-item" id="ca-ve-edit"><a accesskey="v" href="/w/index.php?title=%D0%9F%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B5_%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8&amp;veaction=edit" title="Редактировать данную страницу [v]"><span>Править</span></a></li><li class="collapsible mw-list-item" id="ca-edit"><a accesskey="e" href="/w/index.php?title=%D0%9F%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B5_%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8&amp;action=edit" title="Править исходный текст этой страницы [e]"><span>Править код</span></a></li><li class="mw-list-item" id="ca-history"><a accesskey="h" href="/w/index.php?title=%D0%9F%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B5_%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8&amp;action=history" title="Журнал изменений страницы [h]"><span>История</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-cactions-label" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" id="p-cactions" role="navigation" title="Больше возможностей">
+<input aria-haspopup="true" aria-labelledby="p-cactions-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-cactions" id="p-cactions-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-cactions-label">
+<span class="vector-menu-heading-label">Ещё</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+<div class="vector-search-box-vue vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box" id="p-search" role="search">
+<h3>Поиск</h3>
+<form action="/w/index.php" class="vector-search-box-form" id="searchform">
+<div class="vector-search-box-inner" data-search-loc="header-navigation" id="simpleSearch">
+<input accesskey="f" aria-label="Искать в Википедии" autocapitalize="sentences" class="vector-search-box-input" id="searchInput" name="search" placeholder="Искать в Википедии" title="Искать в Википедии [f]" type="search"/>
+<input name="title" type="hidden" value="Служебная:Поиск"/>
+<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Найти страницы, содержащие указанный текст" type="submit" value="Найти"/>
+<input class="searchButton" id="searchButton" name="go" title="Перейти к странице, имеющей в точности такое название" type="submit" value="Перейти"/>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="vector-legacy-sidebar" id="mw-panel">
+<div id="p-logo" role="banner">
+<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу"></a>
+</div>
+<nav aria-labelledby="p-navigation-label" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" id="p-navigation" role="navigation">
+<h3 class="vector-menu-heading" id="p-navigation-label">
+<span class="vector-menu-heading-label">Навигация</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-mainpage-description"><a accesskey="z" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]"><span>Заглавная страница</span></a></li><li class="mw-list-item" id="n-content"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li class="mw-list-item" id="n-featured"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li class="mw-list-item" id="n-randompage"><a accesskey="x" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]"><span>Случайная статья</span></a></li><li class="mw-list-item" id="n-currentevents"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li class="mw-list-item" id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-participation-label" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" id="p-participation" role="navigation">
+<h3 class="vector-menu-heading" id="p-participation-label">
+<span class="vector-menu-heading-label">Участие</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-bug_in_article"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li class="mw-list-item" id="n-introduction"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li class="mw-list-item" id="n-portal"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li class="mw-list-item" id="n-forum"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li class="mw-list-item" id="n-recentchanges"><a accesskey="r" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]"><span>Свежие правки</span></a></li><li class="mw-list-item" id="n-newpages"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li class="mw-list-item" id="n-help"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-tb-label" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" id="p-tb" role="navigation">
+<h3 class="vector-menu-heading" id="p-tb-label">
+<span class="vector-menu-heading-label">Инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="t-whatlinkshere"><a accesskey="j" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%9F%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B5_%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8" title="Список всех страниц, ссылающихся на данную [j]"><span>Ссылки сюда</span></a></li><li class="mw-list-item" id="t-recentchangeslinked"><a accesskey="k" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%9F%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B5_%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]"><span>Связанные правки</span></a></li><li class="mw-list-item" id="t-specialpages"><a accesskey="q" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]"><span>Служебные страницы</span></a></li><li class="mw-list-item" id="t-permalink"><a href="/w/index.php?title=%D0%9F%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B5_%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8&amp;oldid=133840681" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li class="mw-list-item" id="t-info"><a href="/w/index.php?title=%D0%9F%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B5_%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li class="mw-list-item" id="t-cite"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%9F%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B5_%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8&amp;id=133840681&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li class="mw-list-item" id="t-urlshortener"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%259F%25D1%2580%25D0%25BE%25D0%25BA%25D0%25BB%25D1%258F%25D1%2582%25D1%258B%25D0%25B5_%25D0%25B7%25D0%25B5%25D0%25BC%25D0%25BB%25D0%25B8"><span>Получить короткий URL</span></a></li><li class="mw-list-item" id="t-urlshortener-qrcode"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%259F%25D1%2580%25D0%25BE%25D0%25BA%25D0%25BB%25D1%258F%25D1%2582%25D1%258B%25D0%25B5_%25D0%25B7%25D0%25B5%25D0%25BC%25D0%25BB%25D0%25B8"><span>Скачать QR-код</span></a></li><li class="mw-list-item" id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q4380316" title="Ссылка на связанный элемент репозитория данных [g]"><span>Элемент Викиданных</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-coll-print_export-label" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" id="p-coll-print_export" role="navigation">
+<h3 class="vector-menu-heading" id="p-coll-print_export-label">
+<span class="vector-menu-heading-label">Печать/экспорт</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="coll-download-as-rl"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%9F%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B5_%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li class="mw-list-item" id="t-print"><a accesskey="p" href="/w/index.php?title=%D0%9F%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B5_%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8&amp;printable=yes" title="Версия этой страницы для печати [p]"><span>Версия для печати</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-lang-label" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" id="p-lang" role="navigation">
+<h3 class="vector-menu-heading" id="p-lang-label">
+<span class="vector-menu-heading-label">На других языках</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="interlanguage-link interwiki-en mw-list-item"><a class="interlanguage-link-target" href="https://en.wikipedia.org/wiki/Evil_Islands:_Curse_of_the_Lost_Soul" hreflang="en" lang="en" title="Evil Islands: Curse of the Lost Soul — английский"><span>English</span></a></li><li class="interlanguage-link interwiki-lld mw-list-item"><a class="interlanguage-link-target" href="https://lld.wikipedia.org/wiki/Evil_Islands:_Curse_of_the_Lost_Soul" hreflang="lld" lang="lld" title="Evil Islands: Curse of the Lost Soul — Ladin"><span>Ladin</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Evil_Islands:_Kl%C4%85twa_zagubionej_duszy" hreflang="pl" lang="pl" title="Evil Islands: Klątwa zagubionej duszy — польский"><span>Polski</span></a></li>
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q4380316#sitelinks-wikipedia" title="Править ссылки на другие языки">Править ссылки</a></span></div>
+</div>
+</nav>
+</div>
+</div>
+<footer class="mw-footer" id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 27 октября 2023 в 15:10.</li>
+<li id="footer-info-copyright">Текст доступен по <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru" rel="license">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a><a href="//creativecommons.org/licenses/by-sa/4.0/" rel="license" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br/>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org/ru/">Фонд Викимедиа (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//ru.m.wikipedia.org/w/index.php?title=%D0%9F%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B5_%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8&amp;mobileaction=toggle_view_mobile">Мобильная версия</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" loading="lazy" src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88"/></a></li>
+<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" loading="lazy" src="/static/images/footer/poweredby_mediawiki_88x31.png" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88"/></a></li>
+</ul>
+</footer>
+
+
+</body>
+</html>

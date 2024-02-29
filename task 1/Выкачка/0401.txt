@@ -1,0 +1,510 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="ru">
+<head>
+<meta charset="utf-8"/>
+<title>Парадокс воронов — Википедия</title>
+
+
+
+
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+
+
+<meta content="MediaWiki 1.42.0-wmf.19" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="max-image-preview:standard" name="robots"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="width=1000" name="viewport"/>
+<meta content="Парадокс воронов — Википедия" property="og:title"/>
+<meta content="website" property="og:type"/>
+
+
+
+
+
+
+
+
+
+
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Парадокс_воронов rootpage-Парадокс_воронов skin-vector action-view"><div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators">
+</div>
+<h1 class="firstHeading mw-first-heading" id="firstHeading"><span class="mw-page-title-main">Парадокс воронов</span></h1>
+<div class="vector-body" id="bodyContent">
+<div class="noprint" id="siteSub">Материал из Википедии — свободной энциклопедии</div>
+<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+<div id="contentSub2"></div>
+<div id="jump-to-nav"></div>
+<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+<div class="mw-body-content" id="mw-content-text"><div class="mw-content-ltr mw-parser-output" dir="ltr" lang="ru"><p><b>Парадо́кс во́ронов</b> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">Raven paradox</span>), известный также как <b>парадокс Гемпеля</b> (<a href="/wiki/%D0%9D%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Немецкий язык">нем.</a> <span lang="de" style="font-style:italic;">Hempels paradox</span>) или <b>во́роны Гемпеля</b> — парадокс подтверждения<sup class="reference" id="cite_ref-ифран_1-0"><a href="#cite_note-ифран-1">[1]</a></sup>, сформулированный немецким математиком <a href="/wiki/%D0%93%D0%B5%D0%BC%D0%BF%D0%B5%D0%BB%D1%8C,_%D0%9A%D0%B0%D1%80%D0%BB_%D0%93%D1%83%D1%81%D1%82%D0%B0%D0%B2" title="Гемпель, Карл Густав">Карлом Густавом Гемпелем</a> в <a class="mw-redirect" href="/wiki/1940-%D0%B5" title="1940-е">1940-х годах</a>, для иллюстрации того, что <a class="mw-redirect" href="/wiki/%D0%98%D0%BD%D0%B4%D1%83%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%B0%D1%8F_%D0%BB%D0%BE%D0%B3%D0%B8%D0%BA%D0%B0" title="Индуктивная логика">индуктивная логика</a> иногда входит в противоречие с <a href="/wiki/%D0%98%D0%BD%D1%82%D1%83%D0%B8%D1%86%D0%B8%D1%8F" title="Интуиция">интуицией</a>. Наиболее распространённый метод разрешения этого парадокса состоит в применении <a href="/wiki/%D0%A2%D0%B5%D0%BE%D1%80%D0%B5%D0%BC%D0%B0_%D0%91%D0%B0%D0%B9%D0%B5%D1%81%D0%B0" title="Теорема Байеса">теоремы Байеса</a>, которая соотносит <a href="/wiki/%D0%A3%D1%81%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0%D1%8F_%D0%B2%D0%B5%D1%80%D0%BE%D1%8F%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Условная вероятность">условную</a> и <a class="new" href="/w/index.php?title=%D0%9F%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B2%D0%B5%D1%80%D0%BE%D1%8F%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C&amp;action=edit&amp;redlink=1" title="Предельная вероятность (страница отсутствует)">предельную вероятность</a> <a href="/wiki/%D0%A1%D1%82%D0%BE%D1%85%D0%B0%D1%81%D1%82%D0%B8%D1%87%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Стохастичность">стохастических событий</a>.
+</p>
+<div aria-labelledby="mw-toc-heading" class="toc" id="toc" role="navigation"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="ru"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Описание"><span class="tocnumber">1</span> <span class="toctext">Описание</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Принцип_индукции"><span class="tocnumber">2</span> <span class="toctext">Принцип индукции</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Предлагавшиеся_решения"><span class="tocnumber">3</span> <span class="toctext">Предлагавшиеся решения</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Использование_теоремы_Байеса"><span class="tocnumber">4</span> <span class="toctext">Использование теоремы Байеса</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Примечания"><span class="tocnumber">5</span> <span class="toctext">Примечания</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Литература"><span class="tocnumber">6</span> <span class="toctext">Литература</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Ссылки"><span class="tocnumber">7</span> <span class="toctext">Ссылки</span></a></li>
+</ul>
+</div>
+<h2><span id=".D0.9E.D0.BF.D0.B8.D1.81.D0.B0.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Описание">Описание</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81_%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%BE%D0%B2&amp;veaction=edit&amp;section=1" title="Редактировать раздел «Описание»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81_%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%BE%D0%B2&amp;action=edit&amp;section=1" title="Редактировать код раздела «Описание»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Corvus_corax_(FWS).jpg"><img class="mw-file-element" data-file-height="647" data-file-width="950" decoding="async" height="150" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Corvus_corax_%28FWS%29.jpg/220px-Corvus_corax_%28FWS%29.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Corvus_corax_%28FWS%29.jpg/330px-Corvus_corax_%28FWS%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/be/Corvus_corax_%28FWS%29.jpg/440px-Corvus_corax_%28FWS%29.jpg 2x" width="220"/></a><figcaption>Чёрный ворон</figcaption></figure>
+<p>Гемпель описал этот парадокс следующим образом. Предположим, что существует теория, согласно которой <i>все <a href="/wiki/%D0%92%D0%BE%D1%80%D0%BE%D0%BD" title="Ворон">вороны</a> чёрные</i>. Согласно формальной логике, эта теория эквивалентна теории, что <i>все предметы, не являющиеся чёрными, не являются воронами</i>. Если человек увидит много чёрных воронов, то его уверенность в том, что эта теория верна, увеличится. Если же он увидит много красных <a href="/wiki/%D0%AF%D0%B1%D0%BB%D0%BE%D0%BA%D0%BE" title="Яблоко">яблок</a>, то это увеличит его уверенность в том, что все нечёрные предметы не являются воронами, и, согласно вышесказанному, должно также увеличить и его уверенность в том, что все вороны чёрные.
+</p><p>Однако этот вывод противоречит интуитивному восприятию ситуации человеком. Наблюдение красных яблок увеличит уверенность наблюдателя в том, что все нечёрные предметы не являются воронами, но при этом не увеличит его уверенность в том, что все вороны чёрные.
+</p>
+<h2><span id=".D0.9F.D1.80.D0.B8.D0.BD.D1.86.D0.B8.D0.BF_.D0.B8.D0.BD.D0.B4.D1.83.D0.BA.D1.86.D0.B8.D0.B8"></span><span class="mw-headline" id="Принцип_индукции">Принцип индукции</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81_%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%BE%D0%B2&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Принцип индукции»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81_%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%BE%D0%B2&amp;action=edit&amp;section=2" title="Редактировать код раздела «Принцип индукции»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Принцип индукции утверждает, что:
+
+</p>
+<blockquote class="ts-Начало_цитаты-quote">
+<p>
+Наблюдение явления <i>Х</i>, которое соответствует теории <i>Т</i>, увеличивает вероятность того, что теория <i>Т</i> истинна.
+</p>
+</blockquote>
+<p><a href="/wiki/%D0%98%D0%BD%D0%B4%D1%83%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B5_%D1%83%D0%BC%D0%BE%D0%B7%D0%B0%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5" title="Индуктивное умозаключение">Индуктивные умозаключения</a> широко используются в <a href="/wiki/%D0%9D%D0%B0%D1%83%D0%BA%D0%B0" title="Наука">науке</a>. Мнение об истинности многих научных законов (таких, как, например, <a href="/wiki/%D0%97%D0%B0%D0%BA%D0%BE%D0%BD%D1%8B_%D0%9D%D1%8C%D1%8E%D1%82%D0%BE%D0%BD%D0%B0" title="Законы Ньютона">законы движения Ньютона</a> или <a class="mw-redirect" href="/wiki/%D0%97%D0%B0%D0%BA%D0%BE%D0%BD_%D0%B2%D1%81%D0%B5%D0%BC%D0%B8%D1%80%D0%BD%D0%BE%D0%B3%D0%BE_%D1%82%D1%8F%D0%B3%D0%BE%D1%82%D0%B5%D0%BD%D0%B8%D1%8F" title="Закон всемирного тяготения">закон всемирного тяготения</a>) базируется на том, что множество наблюдений подтверждает их истинность, в то время как не существует наблюдений, которые противоречили бы этим законам (в тех условиях, где эти законы должны быть применимы согласно теории).
+</p><p>В парадоксе чёрных воронов проверяемым «законом» является утверждение <i>«Все вороны чёрные»</i>. Поскольку это утверждение эквивалентно утверждению <i>«Все предметы, не являющиеся чёрными, не являются воронами»</i>, а вероятность истинности последнего должна, в соответствии с принципом индукции, увеличиваться при наблюдении любых нечёрных предметов, не являющихся воронами, то получается, что наблюдение красных яблок должно увеличивать вероятность того, что все вороны чёрные.
+</p>
+<h2><span id=".D0.9F.D1.80.D0.B5.D0.B4.D0.BB.D0.B0.D0.B3.D0.B0.D0.B2.D1.88.D0.B8.D0.B5.D1.81.D1.8F_.D1.80.D0.B5.D1.88.D0.B5.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Предлагавшиеся_решения">Предлагавшиеся решения</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81_%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%BE%D0%B2&amp;veaction=edit&amp;section=3" title="Редактировать раздел «Предлагавшиеся решения»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81_%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%BE%D0%B2&amp;action=edit&amp;section=3" title="Редактировать код раздела «Предлагавшиеся решения»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Apples.jpg"><img class="mw-file-element" data-file-height="2700" data-file-width="1800" decoding="async" height="180" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Apples.jpg/120px-Apples.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Apples.jpg/180px-Apples.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Apples.jpg/240px-Apples.jpg 2x" width="120"/></a><figcaption>Нечёрные предметы, не являющиеся воронами</figcaption></figure>
+<p>Источник парадокса лежит в том факте, что хотя утверждения <i>«Все вороны чёрные»</i> и <i>«Все предметы, не являющиеся чёрными, не являются воронами»</i>, несомненно, <a class="mw-disambig" href="/wiki/%D0%AD%D0%BA%D0%B2%D0%B8%D0%B2%D0%B0%D0%BB%D0%B5%D0%BD%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Эквивалентность">эквивалентны</a>, действие по нахождению чёрного <a href="/wiki/%D0%92%D0%BE%D1%80%D0%BE%D0%BD" title="Ворон">ворона</a> не имеет ничего общего с действием по нахождению нечёрного предмета, не являющегося вороном. Поэтому в реальной жизни наблюдение красных <a href="/wiki/%D0%AF%D0%B1%D0%BB%D0%BE%D0%BA%D0%BE" title="Яблоко">яблок</a> не влияет на уверенность в истинности утверждения <i>«Все вороны чёрные».</i>
+</p><p><a href="/wiki/%D0%A4%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84%D0%B8%D1%8F" title="Философия">Философы</a> предлагали несколько способов разрешения этого парадокса. Например, американский <a href="/wiki/%D0%9B%D0%BE%D0%B3%D0%B8%D0%BA%D0%B0" title="Логика">логик</a> <a class="mw-redirect" href="/wiki/%D0%93%D1%83%D0%B4%D0%BC%D0%B0%D0%BD,_%D0%9D%D0%B5%D0%BB%D1%8C%D1%81%D0%BE%D0%BD" title="Гудман, Нельсон">Нельсон Гудман</a> предлагал дополнить <a href="/wiki/%D0%98%D0%BD%D0%B4%D1%83%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B5_%D1%83%D0%BC%D0%BE%D0%B7%D0%B0%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5" title="Индуктивное умозаключение">индуктивную логику</a> ограничением, согласно которому явление не должно рассматриваться как поддерживающее теорию «Все <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>P</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle P}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle P}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b4dc73bf40314945ff376bd363916a738548d40a" style="vertical-align: -0.338ex; width:1.745ex; height:2.176ex;"/></span> являются <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle Q}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>Q</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle Q}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle Q}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8752c7023b4b3286800fe3238271bbca681219ed" style="vertical-align: -0.671ex; width:1.838ex; height:2.509ex;"/></span>», если оно также поддерживает теорию «Ни одно из того, что не <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle Q}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>Q</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle Q}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle Q}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8752c7023b4b3286800fe3238271bbca681219ed" style="vertical-align: -0.671ex; width:1.838ex; height:2.509ex;"/></span>, не является <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>P</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle P}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle P}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b4dc73bf40314945ff376bd363916a738548d40a" style="vertical-align: -0.338ex; width:1.745ex; height:2.176ex;"/></span>».
+</p><p>Другие философы подвергали сомнению эквивалентность двух утверждений применительно к индуктивным умозаключениям. В этой концепции наблюдение красных яблок увеличивает уверенность в том, что все нечёрные предметы не являются воронами, без увеличения уверенности в том, что все вороны чёрные. Однако в классической логике, если наблюдатель знает, что два утверждения либо одновременно верны, либо одновременно ложны, он не может считать одно из них более соответствующим истине, чем другое.
+</p><p>Гудман, а затем и другой философ, <a class="mw-redirect" href="/wiki/%D0%9A%D1%83%D0%B0%D0%B9%D0%BD,_%D0%A3%D0%B8%D0%BB%D0%BB%D0%B0%D1%80%D0%B4_%D0%B2%D0%B0%D0%BD_%D0%9E%D1%80%D0%BC%D0%B0%D0%BD" title="Куайн, Уиллард ван Орман">Уиллард Куайн</a>, предлагали концепцию так называемых <i>проективных</i> и <i>непроективных</i> предикатов. Утверждения, которые допускают обобщение с помощью индуктивной логики (такие, как <i>«Все вороны чёрные»</i>), они называли проективными предикатами, а утверждения, к которым индуктивная логика неприменима (например, <i>«Все нечёрные предметы не являются воронами»</i>) — непроективными. Куайн предлагал определять, какие из предикатов являются проективными, а какие нет, на основе опыта и здравого смысла. Он указывал также, что непроективные предикаты не могут подтверждаться непосредственным наблюдением описываемых в них явлений, но подтверждаются наблюдением явлений, описываемых проективными предикатами, эквивалентными исходным. В этой концепции наблюдение нечёрного яблока <i>не увеличивает</i> вероятность не только того, что все вороны чёрные, но и того, что все нечёрные предметы не являются воронами; вместо этого оба утверждения подтверждаются только наблюдением чёрных воронов.
+</p>
+<h2><span id=".D0.98.D1.81.D0.BF.D0.BE.D0.BB.D1.8C.D0.B7.D0.BE.D0.B2.D0.B0.D0.BD.D0.B8.D0.B5_.D1.82.D0.B5.D0.BE.D1.80.D0.B5.D0.BC.D1.8B_.D0.91.D0.B0.D0.B9.D0.B5.D1.81.D0.B0"></span><span class="mw-headline" id="Использование_теоремы_Байеса">Использование теоремы Байеса</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81_%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%BE%D0%B2&amp;veaction=edit&amp;section=4" title="Редактировать раздел «Использование теоремы Байеса»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81_%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%BE%D0%B2&amp;action=edit&amp;section=4" title="Редактировать код раздела «Использование теоремы Байеса»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Альтернативой использованию принципа индукции является применение <a href="/wiki/%D0%A2%D0%B5%D0%BE%D1%80%D0%B5%D0%BC%D0%B0_%D0%91%D0%B0%D0%B9%D0%B5%D1%81%D0%B0" title="Теорема Байеса">теоремы Байеса</a>, которая является одной из фундаментальных теорем в теории вероятностей и математической статистике.
+</p><p>Пусть <i>X</i> — явление, подтверждающее теорию <i>T</i>, и пусть <i>I</i> — наши знания об окружающей обстановке, кроме самого явления <i>X</i>. Пусть <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbb {P} (T\mid XI)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="double-struck">P</mi>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>T</mi>
+<mo>∣<!-- ∣ --></mo>
+<mi>X</mi>
+<mi>I</mi>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbb {P} (T\mid XI)}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbb {P} (T\mid XI)}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a602bbe625edbe794cbba959732a4689c2a0acf8" style="vertical-align: -0.838ex; width:9.955ex; height:2.843ex;"/></span> — вероятность того, что теория <i>T</i> верна, при условии, что известно, что <i>X</i> и <i>I</i> верны. Тогда
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbb {P} (T\mid XI)={\frac {\mathbb {P} (T\mid I)\cdot \mathbb {P} (X\mid TI)}{\mathbb {P} (X\mid I)}},}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="double-struck">P</mi>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>T</mi>
+<mo>∣<!-- ∣ --></mo>
+<mi>X</mi>
+<mi>I</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="double-struck">P</mi>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>T</mi>
+<mo>∣<!-- ∣ --></mo>
+<mi>I</mi>
+<mo stretchy="false">)</mo>
+<mo>⋅<!-- ⋅ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="double-struck">P</mi>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>X</mi>
+<mo>∣<!-- ∣ --></mo>
+<mi>T</mi>
+<mi>I</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="double-struck">P</mi>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>X</mi>
+<mo>∣<!-- ∣ --></mo>
+<mi>I</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+</mfrac>
+</mrow>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbb {P} (T\mid XI)={\frac {\mathbb {P} (T\mid I)\cdot \mathbb {P} (X\mid TI)}{\mathbb {P} (X\mid I)}},}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbb {P} (T\mid XI)={\frac {\mathbb {P} (T\mid I)\cdot \mathbb {P} (X\mid TI)}{\mathbb {P} (X\mid I)}},}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/91f6e706e9cf94c94b0d9227d96e031f437d72f0" style="vertical-align: -2.671ex; width:34.145ex; height:6.509ex;"/></span></dd></dl>
+<p>где <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbb {P} (T\mid I)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="double-struck">P</mi>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>T</mi>
+<mo>∣<!-- ∣ --></mo>
+<mi>I</mi>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbb {P} (T\mid I)}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbb {P} (T\mid I)}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c47d5217475c61b1a51c29cb03aacead486479dd" style="vertical-align: -0.838ex; width:7.975ex; height:2.843ex;"/></span> — вероятность того, что теория <i>T</i> верна, при условии, что только об <i>I</i> известно, что оно верно; <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbb {P} (X\mid TI)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="double-struck">P</mi>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>X</mi>
+<mo>∣<!-- ∣ --></mo>
+<mi>T</mi>
+<mi>I</mi>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbb {P} (X\mid TI)}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbb {P} (X\mid TI)}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/85623ca9c9fd90358c9476034793f700a3e2a809" style="vertical-align: -0.838ex; width:9.955ex; height:2.843ex;"/></span> — вероятность того, что <i>X</i> верно, при условии, что о <i>T</i> и <i>I</i> известно, что они верны; и <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbb {P} (X\mid I)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="double-struck">P</mi>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>X</mi>
+<mo>∣<!-- ∣ --></mo>
+<mi>I</mi>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbb {P} (X\mid I)}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbb {P} (X\mid I)}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/81238cc14da086e13d99b9e7c21215eff8678d0c" style="vertical-align: -0.838ex; width:8.318ex; height:2.843ex;"/></span> — вероятность того, что <i>X</i> верно, при условии, что только об <i>I</i> известно, что оно верно.
+</p><p>При использовании этой теоремы парадокс не появляется. Если наблюдатель выбирает яблоко <a href="/wiki/%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Случайность">случайным</a> образом, то вероятность увидеть красное яблоко (<i>X</i>) не зависит от того, являются ли все вороны чёрными или нет (<i>T</i>). Вторая часть числителя будет равна знаменателю, и вероятность выбрать красное яблоко не изменится <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbb {P} (X\mid TI)=\mathbb {P} (X\mid I)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="double-struck">P</mi>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>X</mi>
+<mo>∣<!-- ∣ --></mo>
+<mi>T</mi>
+<mi>I</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="double-struck">P</mi>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>X</mi>
+<mo>∣<!-- ∣ --></mo>
+<mi>I</mi>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbb {P} (X\mid TI)=\mathbb {P} (X\mid I)}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbb {P} (X\mid TI)=\mathbb {P} (X\mid I)}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/451b45ed11fbd45a258dc76bc98a0669fd779527" style="vertical-align: -0.838ex; width:21.372ex; height:2.843ex;"/></span>. Наблюдение <i>X</i> и теория <i>T</i> не связаны, и наблюдение красного яблока не увеличит уверенности в том, что все вороны чёрные.
+</p><p>Рассмотрим второй вариант применения теоремы Байеса. Если наблюдатель выбирает случайным образом какой-либо нечёрный предмет, и он оказывается яблоком, то вторая часть числителя будет больше знаменателя лишь на очень малую величину <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbb {P} (X\mid TI)=\mathbb {P} (X\mid I)+\varepsilon }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="double-struck">P</mi>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>X</mi>
+<mo>∣<!-- ∣ --></mo>
+<mi>T</mi>
+<mi>I</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="double-struck">P</mi>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>X</mi>
+<mo>∣<!-- ∣ --></mo>
+<mi>I</mi>
+<mo stretchy="false">)</mo>
+<mo>+</mo>
+<mi>ε<!-- ε --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbb {P} (X\mid TI)=\mathbb {P} (X\mid I)+\varepsilon }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbb {P} (X\mid TI)=\mathbb {P} (X\mid I)+\varepsilon }" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7e083e9333cc954e399a924056e47930c839f875" style="vertical-align: -0.838ex; width:25.296ex; height:2.843ex;"/></span>. В этом сценарии наблюдение красного яблока увеличит вероятность того, что все вороны чёрные, но очень незначительно. Чем больше нечёрных предметов мы будем наблюдать, не находя среди них воронов, тем больше будет наша уверенность в том, что все вороны чёрные, но темпы возрастания этой уверенности будут столь малы, что не будут ощущаться интуитивно. В предельном же случае, если бы наблюдатель мог увидеть все нечёрные предметы во <a href="/wiki/%D0%92%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F" title="Вселенная">Вселенной</a> и не найти среди них <a href="/wiki/%D0%92%D0%BE%D1%80%D0%BE%D0%BD" title="Ворон">воронов</a>, то он, очевидно, убедился бы в том, что все вороны чёрные.
+</p>
+<h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Примечания">Примечания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81_%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%BE%D0%B2&amp;veaction=edit&amp;section=5" title="Редактировать раздел «Примечания»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81_%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%BE%D0%B2&amp;action=edit&amp;section=5" title="Редактировать код раздела «Примечания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-ифран-1"><span class="mw-cite-backlink"><a href="#cite_ref-ифран_1-0">↑</a></span> <span class="reference-text"><span class="citation" id="CITEREFПорус_В.Н.2010"><i>Порус В.Н.</i> <a class="external text" href="http://iph.ras.ru/elib/2349.html" rel="nofollow">Подтверждение</a> // <a href="/wiki/%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F_%D1%84%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84%D1%81%D0%BA%D0%B0%D1%8F_%D1%8D%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F" title="Новая философская энциклопедия">Новая философская энциклопедия</a> : <span class="nowrap">в 4 т.</span> / пред. науч.-ред. совета <a href="/wiki/%D0%A1%D1%82%D1%91%D0%BF%D0%B8%D0%BD,_%D0%92%D1%8F%D1%87%D0%B5%D1%81%D0%BB%D0%B0%D0%B2_%D0%A1%D0%B5%D0%BC%D1%91%D0%BD%D0%BE%D0%B2%D0%B8%D1%87" title="Стёпин, Вячеслав Семёнович">В. С. Стёпин</a>. — 2-е изд., испр. и доп. — <abbr title="Москва">М.</abbr> : <a class="mw-redirect" href="/wiki/%D0%9C%D1%8B%D1%81%D0%BB%D1%8C_(%D0%BC%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B5_%D0%B8%D0%B7%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE)" title="Мысль (московское издательство)">Мысль</a>, 2010. — 2816 с.</span></span>
+</li>
+</ol></div></div>
+<h2><span id=".D0.9B.D0.B8.D1.82.D0.B5.D1.80.D0.B0.D1.82.D1.83.D1.80.D0.B0"></span><span class="mw-headline" id="Литература">Литература</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81_%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%BE%D0%B2&amp;veaction=edit&amp;section=6" title="Редактировать раздел «Литература»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81_%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%BE%D0%B2&amp;action=edit&amp;section=6" title="Редактировать код раздела «Литература»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i>Hempel, C. G.</i> A Purely Syntactical Definition of Confirmation // J. Symb. Logic 8, 122—143, 1943.</li>
+<li><i>Hempel, C. G.</i> Studies in Logic and Confirmation // Mind 54, 1—26, 1945.</li>
+<li><i>Hempel, C. G.</i> Studies in Logic and Confirmation. II // Mind 54, 97—121, 1945.</li>
+<li><i>Hempel, C. G.</i> Studies in the Logic of Confirmation // Probability, Confirmation, and Simplicity / Marguerite H. Foster and <a class="external text" href="http://www.bu.edu/philo/faculty/martin.html" rel="nofollow">Michael L. Martin</a>, eds. New York: Odyssey Press, 1966. 145—183.</li>
+<li><span class="citation"><i>Salmon W.</i> Conformation <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small> // Scientific American. — Май 1973.</span></li>
+<li><span class="citation"><i>Schlesinger G.</i> Hempel's Paradox <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small> // Confirmation and Confirmability. — Oxford: <a class="mw-redirect" href="/wiki/Oxford_University_Press" title="Oxford University Press">Oxford University Press</a>, 1974.</span></li></ul>
+<h2><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span><span class="mw-headline" id="Ссылки">Ссылки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81_%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%BE%D0%B2&amp;veaction=edit&amp;section=7" title="Редактировать раздел «Ссылки»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81_%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%BE%D0%B2&amp;action=edit&amp;section=7" title="Редактировать код раздела «Ссылки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="http://www.mathacademy.com/pr/prime/articles/paradox_raven/index.asp" rel="nofollow">Энциклопедия PRIME</a> <a class="external text" href="https://web.archive.org/web/20051211181746/http://www.mathacademy.com/pr/prime/articles/paradox_raven/index.asp" rel="nofollow">Архивная копия</a> от 11 декабря 2005 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw1416
+Cached time: 20240224112331
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.111 seconds
+Real time usage: 0.210 seconds
+Preprocessor visited node count: 2051/1000000
+Post‐expand include size: 6795/2097152 bytes
+Template argument size: 1882/2097152 bytes
+Highest expansion depth: 14/100
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 1947/5000000 bytes
+Lua time usage: 0.027/10.000 seconds
+Lua memory usage: 1280631/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  118.040      1 -total
+ 67.79%   80.014      1 Шаблон:Примечания
+ 62.35%   73.595      1 Шаблон:НФЭ
+ 58.55%   69.115      1 Шаблон:Публикация
+ 15.33%   18.097      2 Шаблон:Статья
+ 12.40%   14.636      4 Шаблон:±.
+  9.83%   11.599      1 Шаблон:Публикация/стандартные_номера
+  8.04%    9.493      1 Шаблон:Начало_цитаты
+  3.35%    3.960      2 Шаблон:Ref-en
+  2.89%    3.414      1 Шаблон:Lang-en
+-->
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:375855-0!canonical and timestamp 20240224112331 and revision id 127836555. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> -->
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Парадокс_воронов&amp;oldid=127836555">https://ru.wikipedia.org/w/index.php?title=Парадокс_воронов&amp;oldid=127836555</a></div></div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81%D1%8B" title="Категория:Парадоксы">Парадоксы</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%BE%D0%B3%D0%B8%D0%BA%D0%B0" title="Категория:Логика">Логика</a></li></ul></div></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Навигация</h2>
+<div id="mw-head">
+<nav aria-labelledby="p-personal-label" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" id="p-personal" role="navigation">
+<h3 class="vector-menu-heading" id="p-personal-label">
+<span class="vector-menu-heading-label">Персональные инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="pt-anonuserpage"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li class="mw-list-item" id="pt-anontalk"><a accesskey="n" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]"><span>Обсуждение</span></a></li><li class="mw-list-item" id="pt-anoncontribs"><a accesskey="y" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]"><span>Вклад</span></a></li><li class="mw-list-item" id="pt-createaccount"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81+%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%BE%D0%B2" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li class="mw-list-item" id="pt-login"><a accesskey="o" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81+%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%BE%D0%B2" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]"><span>Войти</span></a></li>
+</ul>
+</div>
+</nav>
+<div id="left-navigation">
+<nav aria-labelledby="p-namespaces-label" class="mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-namespaces" role="navigation">
+<h3 class="vector-menu-heading" id="p-namespaces-label">
+<span class="vector-menu-heading-label">Пространства имён</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-nstab-main"><a accesskey="c" href="/wiki/%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81_%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%BE%D0%B2" title="Просмотреть контентную страницу [c]"><span>Статья</span></a></li><li class="mw-list-item" id="ca-talk"><a accesskey="t" href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81_%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%BE%D0%B2" rel="discussion" title="Обсуждение основной страницы [t]"><span>Обсуждение</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-variants-label" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" id="p-variants" role="navigation">
+<input aria-haspopup="true" aria-labelledby="p-variants-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-variants" id="p-variants-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-variants-label">
+<span class="vector-menu-heading-label">русский</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+</div>
+<div id="right-navigation">
+<nav aria-labelledby="p-views-label" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-views" role="navigation">
+<h3 class="vector-menu-heading" id="p-views-label">
+<span class="vector-menu-heading-label">Просмотры</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-view"><a href="/wiki/%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81_%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%BE%D0%B2"><span>Читать</span></a></li><li class="mw-list-item" id="ca-ve-edit"><a accesskey="v" href="/w/index.php?title=%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81_%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%BE%D0%B2&amp;veaction=edit" title="Редактировать данную страницу [v]"><span>Править</span></a></li><li class="collapsible mw-list-item" id="ca-edit"><a accesskey="e" href="/w/index.php?title=%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81_%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%BE%D0%B2&amp;action=edit" title="Править исходный текст этой страницы [e]"><span>Править код</span></a></li><li class="mw-list-item" id="ca-history"><a accesskey="h" href="/w/index.php?title=%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81_%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%BE%D0%B2&amp;action=history" title="Журнал изменений страницы [h]"><span>История</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-cactions-label" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" id="p-cactions" role="navigation" title="Больше возможностей">
+<input aria-haspopup="true" aria-labelledby="p-cactions-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-cactions" id="p-cactions-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-cactions-label">
+<span class="vector-menu-heading-label">Ещё</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+<div class="vector-search-box-vue vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box" id="p-search" role="search">
+<h3>Поиск</h3>
+<form action="/w/index.php" class="vector-search-box-form" id="searchform">
+<div class="vector-search-box-inner" data-search-loc="header-navigation" id="simpleSearch">
+<input accesskey="f" aria-label="Искать в Википедии" autocapitalize="sentences" class="vector-search-box-input" id="searchInput" name="search" placeholder="Искать в Википедии" title="Искать в Википедии [f]" type="search"/>
+<input name="title" type="hidden" value="Служебная:Поиск"/>
+<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Найти страницы, содержащие указанный текст" type="submit" value="Найти"/>
+<input class="searchButton" id="searchButton" name="go" title="Перейти к странице, имеющей в точности такое название" type="submit" value="Перейти"/>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="vector-legacy-sidebar" id="mw-panel">
+<div id="p-logo" role="banner">
+<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу"></a>
+</div>
+<nav aria-labelledby="p-navigation-label" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" id="p-navigation" role="navigation">
+<h3 class="vector-menu-heading" id="p-navigation-label">
+<span class="vector-menu-heading-label">Навигация</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-mainpage-description"><a accesskey="z" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]"><span>Заглавная страница</span></a></li><li class="mw-list-item" id="n-content"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li class="mw-list-item" id="n-featured"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li class="mw-list-item" id="n-randompage"><a accesskey="x" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]"><span>Случайная статья</span></a></li><li class="mw-list-item" id="n-currentevents"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li class="mw-list-item" id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-participation-label" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" id="p-participation" role="navigation">
+<h3 class="vector-menu-heading" id="p-participation-label">
+<span class="vector-menu-heading-label">Участие</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-bug_in_article"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li class="mw-list-item" id="n-introduction"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li class="mw-list-item" id="n-portal"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li class="mw-list-item" id="n-forum"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li class="mw-list-item" id="n-recentchanges"><a accesskey="r" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]"><span>Свежие правки</span></a></li><li class="mw-list-item" id="n-newpages"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li class="mw-list-item" id="n-help"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-tb-label" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" id="p-tb" role="navigation">
+<h3 class="vector-menu-heading" id="p-tb-label">
+<span class="vector-menu-heading-label">Инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="t-whatlinkshere"><a accesskey="j" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81_%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%BE%D0%B2" title="Список всех страниц, ссылающихся на данную [j]"><span>Ссылки сюда</span></a></li><li class="mw-list-item" id="t-recentchangeslinked"><a accesskey="k" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81_%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%BE%D0%B2" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]"><span>Связанные правки</span></a></li><li class="mw-list-item" id="t-specialpages"><a accesskey="q" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]"><span>Служебные страницы</span></a></li><li class="mw-list-item" id="t-permalink"><a href="/w/index.php?title=%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81_%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%BE%D0%B2&amp;oldid=127836555" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li class="mw-list-item" id="t-info"><a href="/w/index.php?title=%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81_%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%BE%D0%B2&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li class="mw-list-item" id="t-cite"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81_%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%BE%D0%B2&amp;id=127836555&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li class="mw-list-item" id="t-urlshortener"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%259F%25D0%25B0%25D1%2580%25D0%25B0%25D0%25B4%25D0%25BE%25D0%25BA%25D1%2581_%25D0%25B2%25D0%25BE%25D1%2580%25D0%25BE%25D0%25BD%25D0%25BE%25D0%25B2"><span>Получить короткий URL</span></a></li><li class="mw-list-item" id="t-urlshortener-qrcode"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%259F%25D0%25B0%25D1%2580%25D0%25B0%25D0%25B4%25D0%25BE%25D0%25BA%25D1%2581_%25D0%25B2%25D0%25BE%25D1%2580%25D0%25BE%25D0%25BD%25D0%25BE%25D0%25B2"><span>Скачать QR-код</span></a></li><li class="mw-list-item" id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q919255" title="Ссылка на связанный элемент репозитория данных [g]"><span>Элемент Викиданных</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-coll-print_export-label" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" id="p-coll-print_export" role="navigation">
+<h3 class="vector-menu-heading" id="p-coll-print_export-label">
+<span class="vector-menu-heading-label">Печать/экспорт</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="coll-download-as-rl"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81_%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%BE%D0%B2&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li class="mw-list-item" id="t-print"><a accesskey="p" href="/w/index.php?title=%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81_%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%BE%D0%B2&amp;printable=yes" title="Версия этой страницы для печати [p]"><span>Версия для печати</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-lang-label" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" id="p-lang" role="navigation">
+<h3 class="vector-menu-heading" id="p-lang-label">
+<span class="vector-menu-heading-label">На других языках</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="interlanguage-link interwiki-ar mw-list-item"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%85%D9%81%D8%A7%D8%B1%D9%82%D8%A9_%D8%A7%D9%84%D8%BA%D8%B1%D8%A7%D8%A8" hreflang="ar" lang="ar" title="مفارقة الغراب — арабский"><span>العربية</span></a></li><li class="interlanguage-link interwiki-ast mw-list-item"><a class="interlanguage-link-target" href="https://ast.wikipedia.org/wiki/Paradoxa_del_cuervu" hreflang="ast" lang="ast" title="Paradoxa del cuervu — астурийский"><span>Asturianu</span></a></li><li class="interlanguage-link interwiki-bs mw-list-item"><a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Paradoks_gavrana" hreflang="bs" lang="bs" title="Paradoks gavrana — боснийский"><span>Bosanski</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Hempels_Paradox" hreflang="de" lang="de" title="Hempels Paradox — немецкий"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-eml mw-list-item"><a class="interlanguage-link-target" href="https://eml.wikipedia.org/wiki/Parad%C3%B2s_di_c%C3%B3ruv" hreflang="egl" lang="egl" title="Paradòs di córuv — Emiliano-Romagnolo"><span>Emiliàn e rumagnòl</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a class="interlanguage-link-target" href="https://en.wikipedia.org/wiki/Raven_paradox" hreflang="en" lang="en" title="Raven paradox — английский"><span>English</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Paradoja_del_cuervo" hreflang="es" lang="es" title="Paradoja del cuervo — испанский"><span>Español</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Hempeli_paradoks" hreflang="et" lang="et" title="Hempeli paradoks — эстонский"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%BE%D8%A7%D8%B1%D8%A7%D8%AF%D9%88%DA%A9%D8%B3_%DA%A9%D9%84%D8%A7%D8%BA%E2%80%8C%D9%87%D8%A7" hreflang="fa" lang="fa" title="پارادوکس کلاغ‌ها — персидский"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Paradoxe_de_Hempel" hreflang="fr" lang="fr" title="Paradoxe de Hempel — французский"><span>Français</span></a></li><li class="interlanguage-link interwiki-ga mw-list-item"><a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/Paradacsa_an_Fhiaigh_Dhuibh" hreflang="ga" lang="ga" title="Paradacsa an Fhiaigh Dhuibh — ирландский"><span>Gaeilge</span></a></li><li class="interlanguage-link interwiki-gl mw-list-item"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Paradoxo_de_Hempel" hreflang="gl" lang="gl" title="Paradoxo de Hempel — галисийский"><span>Galego</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%A4%D7%A8%D7%93%D7%95%D7%A7%D7%A1_%D7%94%D7%A2%D7%95%D7%A8%D7%91" hreflang="he" lang="he" title="פרדוקס העורב — иврит"><span>עברית</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Paradoks_gagak" hreflang="id" lang="id" title="Paradoks gagak — индонезийский"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Paradosso_dei_corvi" hreflang="it" lang="it" title="Paradosso dei corvi — итальянский"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%83%98%E3%83%B3%E3%83%9A%E3%83%AB%E3%81%AE%E3%82%AB%E3%83%A9%E3%82%B9" hreflang="ja" lang="ja" title="ヘンペルのカラス — японский"><span>日本語</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EA%B9%8C%EB%A7%88%EA%B7%80_%EC%97%AD%EC%84%A4" hreflang="ko" lang="ko" title="까마귀 역설 — корейский"><span>한국어</span></a></li><li class="interlanguage-link interwiki-lt mw-list-item"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Kranklio_paradoksas" hreflang="lt" lang="lt" title="Kranklio paradoksas — литовский"><span>Lietuvių</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Paradox_van_Hempel" hreflang="nl" lang="nl" title="Paradox van Hempel — нидерландский"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Paradoks_czarnego_kruka" hreflang="pl" lang="pl" title="Paradoks czarnego kruka — польский"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Paradoxo_do_corvo" hreflang="pt" lang="pt" title="Paradoxo do corvo — португальский"><span>Português</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Paradoxul_corbului" hreflang="ro" lang="ro" title="Paradoxul corbului — румынский"><span>Română</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Raven_paradox" hreflang="en-simple" lang="en-simple" title="Raven paradox — Simple English"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Hempels_paradox" hreflang="sv" lang="sv" title="Hempels paradox — шведский"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-th mw-list-item"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%97%E0%B8%A3%E0%B8%A3%E0%B8%A8%E0%B8%99%E0%B9%8C%E0%B8%AD%E0%B8%B5%E0%B8%81%E0%B8%B2" hreflang="th" lang="th" title="ปฏิทรรศน์อีกา — тайский"><span>ไทย</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81_%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D1%96%D0%B2" hreflang="uk" lang="uk" title="Парадокс воронів — украинский"><span>Українська</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Ngh%E1%BB%8Bch_l%C3%BD_con_qu%E1%BA%A1" hreflang="vi" lang="vi" title="Nghịch lý con quạ — вьетнамский"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E4%B9%8C%E9%B8%A6%E6%82%96%E8%AE%BA" hreflang="zh" lang="zh" title="乌鸦悖论 — китайский"><span>中文</span></a></li>
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q919255#sitelinks-wikipedia" title="Править ссылки на другие языки">Править ссылки</a></span></div>
+</div>
+</nav>
+</div>
+</div>
+<footer class="mw-footer" id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 12 января 2023 в 19:03.</li>
+<li id="footer-info-copyright">Текст доступен по <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru" rel="license">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a><a href="//creativecommons.org/licenses/by-sa/4.0/" rel="license" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br/>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org/ru/">Фонд Викимедиа (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//ru.m.wikipedia.org/w/index.php?title=%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81_%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%BE%D0%B2&amp;mobileaction=toggle_view_mobile">Мобильная версия</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" loading="lazy" src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88"/></a></li>
+<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" loading="lazy" src="/static/images/footer/poweredby_mediawiki_88x31.png" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88"/></a></li>
+</ul>
+</footer>
+
+
+</body>
+</html>
