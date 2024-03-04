@@ -30,4 +30,4 @@ effective-settings.xml
 */dependency-reduced-pom.xml
 node_modules
 .DS_Store
-task 3/__pycache__/inverted_index.cpython-310.pyc
+/task 3/__pycache__

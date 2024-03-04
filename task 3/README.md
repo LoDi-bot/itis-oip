@@ -28,9 +28,9 @@ ___
 
 ```
 word1 & word2 | word3		
-word1 & ~word2 | ~str3
-word1 | word2 | word3		
-word1 | ~word2 | ~word3
+word1 & ~word2 | ~word3
+( word1 | word2 ) & word3
+( word1 | ~word2 ) & ( word3 | word4 )
 ```
 
 - `&` - операция AND
@@ -48,6 +48,7 @@ word1 | ~word2 | ~word3
 - `python search_by_index.py "Египет & ~пирамида & Рим & война"`
 - `python search_by_index.py "Клеопатра & Цезарь | Антоний & Цицерон | Помпей"`
 - `python search_by_index.py "Клеопатра & ~Цезарь & музыка | Антоний & Цицерон & книга | Помпей & ~остров"`
+- `python search_by_index.py "( Планета | Клеопатра ) & ( Антоний & книга | Цицерон ) & ( Помпей | остров )"`
 
 **Результат:
 Номера страниц, подходящие под запрос**

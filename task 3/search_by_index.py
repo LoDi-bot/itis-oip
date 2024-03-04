@@ -32,27 +32,42 @@ def lemmatize(tokens):
 
 def priority(oper):
     if oper == '&':
-        return 2
+        return 3
     elif oper == '|':
+        return 2
+    elif oper == '(':
         return 1
     return -1
 
 
-def get_notation(operands):
+def get_postfix(tokens):
     result = []
     stack = []
-    for operand in operands:
-        if operand not in ['&', '|']:
-            result.append(operand)
+    for token in tokens:
+        if token not in ['&', '|', '(', ')']:
+            result.append(token)
+        elif token == '(':
+            stack.append(token)
+        elif token == ')':
+            top_operand = stack.pop()
+            while not top_operand == '(':
+                result.append(top_operand)
+                top_operand = stack.pop()
         else:
-            last = None if len(stack) == 0 else stack[-1]
-            while priority(last) >= priority(operand):
+            while len(stack) > 0 and priority(peek_stack(stack)) >= priority(token):
                 result.append(stack.pop())
-                last = None if not stack else stack[-1]
-            stack.append(operand)
-    for el in reversed(stack):
-        result.append(el)
+            stack.append(token)
+
+    while not len(stack) == 0:
+        result.append(stack.pop())
     return result
+
+
+def peek_stack(stack):
+    if stack:
+        return stack[-1]
+    else:
+        return None
 
 
 def get_index(token):
@@ -89,7 +104,7 @@ def tokenize_query(query):
     tokenized_query = []
 
     for (index, word) in enumerate(query.split(' ')):
-        if word == '&' or word == '|':
+        if word in ['&', '|', '(', ')']:
             tokenized_query.append(word)
         else:
             if word[0] == '~':
@@ -105,20 +120,19 @@ def tokenize_query(query):
 def search(query):
     tokenized_query = tokenize_query(query)
     print("Tokenized query: %s" % " ".join(tokenized_query))
-    converted_query = get_notation(tokenized_query)
-    print("Сonverted query: %s" % " ".join(converted_query))
-    result = evaluate(converted_query)
+    postfix_query = get_postfix(tokenized_query)
+    print("Сonverted query: %s" % " ".join(postfix_query))
+    result = evaluate(postfix_query)
     print(result)
 
 
 def test():
     queries = {
-        "я & она | ~это",
-        "зонд",
-        "очень & нравишься | любишь",
-        "надула & губы & дура",
-        "аниме & девочка | тянка",
-        "я & курю"
+        "википедия & планета",
+        "Египет & пирамида",
+        "Египет & ~пирамида & Рим & война",
+        "Клеопатра & Цезарь | Антоний & Цицерон | Помпей",
+        "Клеопатра & ~Цезарь & музыка | Антоний & Цицерон & книга | Помпей & ~остров",
     }
     for query in queries:
         search(query)
@@ -126,6 +140,5 @@ def test():
 
 if __name__ == '__main__':
     query = sys.argv[1]
-
     # test()
     search(query)
