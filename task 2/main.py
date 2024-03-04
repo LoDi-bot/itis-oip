@@ -16,17 +16,17 @@ nltk.download('universal_tagset')
 nltk.download('nonbreaking_prefixes')
 nltk.download('wordnet')
 
-sw = stopwords.words('russian') + stopwords.words('english')
+stop_words = stopwords.words('russian') + stopwords.words('english')
 DIRECTORY = "C:/Users/Asadu/Desktop/itis-oip/task 1/Выкачка"
 
 
 def get_tokens(text):
     # токенизатор на регулярных выражениях
-    tknzr = RegexpTokenizer('[А-Яа-яёЁ]+')
-    clean_words = tknzr.tokenize(text)
+    tokenizer = RegexpTokenizer('[А-Яа-яёЁ]+')
+    clean_words = tokenizer.tokenize(text)
     clean_words = [w.lower() for w in clean_words if w != '']
-    clean_words = [w for w in clean_words if w not in sw]
-    return list(clean_words)
+    clean_words = [w for w in clean_words if w not in stop_words]
+    return set(clean_words)
 
 
 def get_lemmas(tokens):
@@ -49,7 +49,7 @@ def get_lemmas_dict(tokens):
     return lemmas
 
 
-def get_every_file():
+def get_for_every_file():
     for root, dirs, files in os.walk(DIRECTORY):
         for file in files:
             if file.lower().endswith('.txt'):
@@ -60,12 +60,12 @@ def get_every_file():
                 text = ' '.join(soup.stripped_strings)
                 tokens = get_tokens(text)
                 tokens_string = '\n'.join(tokens)
-                path_result = f"Выкачка_очищенная/tokens_{file}"
+                path_result = f"Для каждого файла/tokens_{file}"
                 os.makedirs(os.path.dirname(path_result), exist_ok=True)
                 with open(path_result, "w", encoding="utf-8") as file_result:
                     file_result.write(tokens_string)
                 lemmas_dict = get_lemmas(tokens)
-                path_result = f"Выкачка_очищенная/lemmas_{file}"
+                path_result = f"Для каждого файла/lemmas_{file}"
                 with open(path_result, "w", encoding="utf-8") as file_result:
                     for k in lemmas_dict:
                         file_result.write(k + '\n')
@@ -102,5 +102,5 @@ def get_common():
 
 
 if __name__ == '__main__':
-    # get_every_file()
-    get_common()
+    get_for_every_file()
+    # get_common()
