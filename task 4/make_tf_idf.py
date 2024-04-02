@@ -2,8 +2,8 @@ import os
 from collections import defaultdict
 from math import log
 
-DIRECTORY = "C:/Users/Asadu/Desktop/itis-oip/task 4/documents"
-COUNT_DOCUMENTS = 100
+DIRECTORY = "C:/Users/Asadu/Desktop/itis-oip/task 2/Для каждого файла"
+COUNT_DOCUMENTS = 1794
 
 
 def count_tf(terms):
