@@ -17,7 +17,8 @@ from nltk.corpus import stopwords
 
 stop_words = stopwords.words('russian') + stopwords.words('english')
 ALL_DOCS_COUNT = 1794
-DIRECTORY_LEMMAS_TF_IDF = 'C:/Users/Asadu/Desktop/itis-oip/task 4/tf_idf_lemmas'
+DIRECTORY_LEMMAS_TF_IDF = '/Users/lodi/Desktop/itis-oip/task 4/tf_idf_lemmas'
+DIRECTORY_INDEX = '/Users/lodi/Desktop/itis-oip/task 1/index.txt'
 
 def get_tokens(text):
     # токенизатор на регулярных выражениях
@@ -43,7 +44,7 @@ def vector_norm(vec):
 
 
 def get_index():
-    with open('C:/Users/Asadu/Desktop/itis-oip/task 1/index.txt') as f:
+    with open(DIRECTORY_INDEX) as f:
         return {int(s.split()[0]): s.split()[1] for s in f.readlines()}
 
 
