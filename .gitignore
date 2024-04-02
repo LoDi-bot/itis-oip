@@ -31,3 +31,4 @@ effective-settings.xml
 node_modules
 .DS_Store
 /task 3/__pycache__
+/task 5/__pycache__
