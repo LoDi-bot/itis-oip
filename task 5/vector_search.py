@@ -1,3 +1,5 @@
+from pathlib import Path
+
 import math
 import os
 import re
@@ -50,14 +52,9 @@ def get_index():
 
 def get_tf_terms():
     tf_idf_dicts = []
-    idx = 0
-    for root, dirs, files in os.walk(DIRECTORY_LEMMAS_TF_IDF):
-        for file in files:
-            if file.lower().endswith('.txt') and file.lower().startswith('tf_idf_lemmas'):
-                path_file = os.path.join(root, file)
-                with open(path_file, encoding="utf=8") as f:
-                    tf_idf_dicts.append({str(line.split()[0]): float(line.split()[1]) for line in f.readlines()})
-                idx += 1
+    for file in sorted(Path(DIRECTORY_LEMMAS_TF_IDF).glob('tf_idf_lemmas*.txt')):
+        with open(file, encoding="utf=8") as f:
+            tf_idf_dicts.append({str(line.split()[0]): float(line.split()[1]) for line in f.readlines()})
     return tf_idf_dicts
 
 
@@ -131,4 +128,3 @@ def search(query):
 if __name__ == '__main__':
     query = input()
     search(query)
-
